@@ -27,7 +27,7 @@ hotspots = {
 rss_urls = [
     "https://www.aljazeera.com/xml/rss/all.xml",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://www.sapo.pt/rss",
+    "https://sicnoticias.pt/rss",
     "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
     "https://www.france24.com/en/rss"
 ]
