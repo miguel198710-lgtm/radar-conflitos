@@ -11,6 +11,7 @@ print("A iniciar radar tatico de alta frequencia...")
 # Dicionario tatico expandido
 hotspots = {
     "Ucrânia": [31.16, 48.37], "Ukraine": [31.16, 48.37], "Kyiv": [30.52, 50.45],
+    "Lisboa": [-9.1393, 38.7223],
     "Rússia": [37.61, 55.75], "Russia": [37.61, 55.75], "Moscow": [37.61, 55.75],
     "Gaza": [34.46, 31.50], "Israel": [34.85, 31.04], "Rafah": [34.25, 31.28],
     "Líbano": [35.86, 33.85], "Lebanon": [35.86, 33.85], "Beirut": [35.50, 33.89],
