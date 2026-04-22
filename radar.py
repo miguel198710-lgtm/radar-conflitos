@@ -3,8 +3,11 @@ import json
 import datetime
 
 print("A iniciar extração no GitHub...")
-url = "https://api.gdeltproject.org/api/v2/geo/geo?query=(conflict%20OR%20military)&format=geojson"
-pedido = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+
+# O link corrigido (sem caracteres estranhos e com o modo PointData ativado)
+url = "https://api.gdeltproject.org/api/v2/geo/geo?query=conflict&mode=PointData&format=geojson"
+
+pedido = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
 
 try:
     resposta = urllib.request.urlopen(pedido, timeout=20)
@@ -27,16 +30,15 @@ try:
         }
         features_formatadas.append(nova_feature)
 
-    # Prepara o formato exato que o ArcGIS Online exige
+    # Formato exato para o ArcGIS
     geojson_final = {
         "type": "FeatureCollection",
         "features": features_formatadas
     }
 
-    # Guarda o ficheiro no próprio GitHub
     with open("conflitos.geojson", "w", encoding="utf-8") as f:
         json.dump(geojson_final, f, ensure_ascii=False, indent=2)
 
-    print("Relatório conflitos.geojson gerado com sucesso!")
+    print("SUCESSO: Relatório conflitos.geojson gerado!")
 except Exception as e:
-    print("Ocorreu um erro:", e)
+    print("Ocorreu um erro na ligação:", e)
