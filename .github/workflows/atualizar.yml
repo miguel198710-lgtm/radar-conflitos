@@ -2,39 +2,31 @@ name: Radar Automatico
 
 on:
   schedule:
-    - cron: '0 * * * *' # Corre de hora a hora
-  workflow_dispatch: # Permite-te clicar no botão para forçar a atualização
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   atualizar-dados:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essencial para permitir que o robô grave os ficheiros no teu repositório
+      contents: write
 
     steps:
-      - name: 1. Aceder aos ficheiros do repositório
+      - name: Aceder aos ficheiros
         uses: actions/checkout@v4
 
-      - name: 2. Preparar o motor de Python
+      - name: Preparar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: 3. Instalar bibliotecas necessárias
-        run: |
-          pip install websockets
+      - name: Correr Radar de Noticias
+        run: python radar.py
 
-      - name: 4. Correr os scripts dos Radares
-        run: |
-          python radar.py
-          python radar_naval.py
-
-      - name: 5. Guardar os novos dados no GitHub
+      - name: Guardar Mapa
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          # O comando abaixo adiciona ambos os ficheiros GeoJSON
-          git add conflitos.geojson navios_ormuz.geojson
-          # O commit só avança se houver mudanças reais nos dados
-          git commit -m "Atualização tática: Conflitos e Estreito de Ormuz" || echo "Sem mudanças detetadas"
+          git add conflitos.geojson
+          git commit -m "Atualizacao de noticias" || echo "Sem mudanças"
           git push
