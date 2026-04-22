@@ -2,7 +2,7 @@ name: Radar Automatico
 
 on:
   schedule:
-    - cron: '0 */8 * * *' # Corre a cada 8 horas
+    - cron: '0 * * * *'
   workflow_dispatch: # Permite-te clicar num botão para forçar a atualização
 
 jobs:
