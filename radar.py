@@ -4,28 +4,30 @@ import json
 import datetime
 import random
 import ssl
+from email.utils import parsedate_to_datetime
 
-print("A iniciar o Extrator RSS Nativo (Dados Reais)...")
+print("A iniciar radar tatico de alta frequencia...")
 
-# Dicionário Tático: Se a palavra-chave aparecer na notícia, ele sabe onde colocar no mapa
+# Dicionario tatico expandido
 hotspots = {
     "Ucrânia": [31.16, 48.37], "Ukraine": [31.16, 48.37], "Kyiv": [30.52, 50.45],
     "Rússia": [37.61, 55.75], "Russia": [37.61, 55.75], "Moscow": [37.61, 55.75],
-    "Gaza": [34.46, 31.50], "Israel": [34.85, 31.04], "Lebanon": [35.86, 33.85], "Líbano": [35.86, 33.85],
+    "Gaza": [34.46, 31.50], "Israel": [34.85, 31.04], "Rafah": [34.25, 31.28],
+    "Líbano": [35.86, 33.85], "Lebanon": [35.86, 33.85], "Beirut": [35.50, 33.89],
     "Sudão": [30.21, 12.86], "Sudan": [30.21, 12.86],
     "Iémen": [47.58, 15.55], "Yemen": [47.58, 15.55], "Houthi": [47.58, 15.55],
     "Síria": [38.99, 34.80], "Syria": [38.99, 34.80],
-    "Myanmar": [95.95, 21.91],
-    "Mali": [-3.99, 17.57],
-    "Somália": [46.19, 5.15], "Somalia": [46.19, 5.15],
-    "Taiwan": [120.96, 23.69],
-    "Congo": [23.65, -2.88], "DRC": [23.65, -2.88]
+    "Taiwan": [120.96, 23.69], "China": [116.40, 39.90],
+    "Somália": [46.19, 5.15], "Iran": [51.38, 35.68], "Irão": [51.38, 35.68],
+    "Venezuela": [-66.90, 10.48], "Guyana": [-58.15, 6.80]
 }
 
-# Fontes Oficiais de Notícias (Feeds RSS Abertos e Estáveis)
+# Lista de Feeds Expandida (Reuters, Al Jazeera, BBC, UN News)
 rss_urls = [
     "https://www.aljazeera.com/xml/rss/all.xml",
-    "https://feeds.bbci.co.uk/news/world/rss.xml"
+    "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+    "https://www.france24.com/en/rss"
 ]
 
 contexto = ssl.create_default_context()
@@ -33,52 +35,53 @@ contexto.check_hostname = False
 contexto.verify_mode = ssl.CERT_NONE
 
 features_formatadas = []
+agora = datetime.datetime.now(datetime.timezone.utc)
 
 for feed_url in rss_urls:
     try:
-        print(f"A varrer radar de notícias: {feed_url}...")
+        print(f"A varrer: {feed_url}")
         pedido = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0'})
         resposta = urllib.request.urlopen(pedido, context=contexto, timeout=15)
-        xml_data = resposta.read()
-        root = ET.fromstring(xml_data)
+        root = ET.fromstring(resposta.read())
 
-        # Analisar as últimas 40 notícias de cada canal
-        for item in root.findall('.//item')[:40]:
+        for item in root.findall('.//item'):
             title = item.find('title').text if item.find('title') is not None else ""
             link = item.find('link').text if item.find('link') is not None else ""
-            pubDate = item.find('pubDate').text if item.find('pubDate') is not None else datetime.datetime.now().strftime("%Y-%m-%d")
+            pub_date_str = item.find('pubDate').text if item.find('pubDate') is not None else ""
+            
+            if not pub_date_str: continue
+            
+            # FILTRO DE 24 HORAS
+            data_noticia = parsedate_to_datetime(pub_date_str)
+            diferenca = agora - data_noticia
+            
+            if diferenca.total_seconds() > 86400: # 86400 segundos = 24 horas
+                continue 
 
-            # Procurar áreas de conflito no título da notícia
             for local, coords in hotspots.items():
                 if local.lower() in title.lower():
-                    # Adicionar uma dispersão tática (random) para as notícias não ficarem exatamente umas por cima das outras
-                    lon = coords[0] + random.uniform(-0.15, 0.15)
-                    lat = coords[1] + random.uniform(-0.15, 0.15)
+                    # Dispersao tatica para evitar sobreposicao
+                    lon = coords[0] + random.uniform(-0.18, 0.18)
+                    lat = coords[1] + random.uniform(-0.18, 0.18)
 
-                    nova_feature = {
+                    features_formatadas.append({
                         "type": "Feature",
                         "geometry": {"type": "Point", "coordinates": [lon, lat]},
                         "properties": {
                             "titulo_evento": title,
-                            "descricao": f"Alvo detetado: {local.upper()}",
+                            "descricao": f"Fonte: {local.upper()} (Ultimas 24h)",
                             "url_fonte": link,
-                            "data_noticia": pubDate[:16], # Fica só com a data e hora
-                            "categoria": "Notícia Geolocalizada"
+                            "data_noticia": data_noticia.strftime("%Y-%m-%d %H:%M"),
+                            "categoria": "Inteligencia Recente"
                         }
-                    }
-                    features_formatadas.append(nova_feature)
-                    break # Se achou o local, guarda o ponto e passa para a próxima notícia
+                    })
+                    break
                     
     except Exception as e:
-        print(f"Erro ao ler o feed {feed_url}: {e}")
+        print(f"Erro no feed: {e}")
 
-geojson_final = {
-    "type": "FeatureCollection",
-    "features": features_formatadas
-}
-
-# Gravar o ficheiro com a formatação final
+# Exportacao Final
 with open("conflitos.geojson", "w", encoding="utf-8") as f:
-    json.dump(geojson_final, f, ensure_ascii=False, indent=2)
+    json.dump({"type": "FeatureCollection", "features": features_formatadas}, f, ensure_ascii=False, indent=2)
 
-print(f"SUCESSO ABSOLUTO: Ficheiro gerado com {len(features_formatadas)} notícias reais!")
+print(f"SUCESSO: {len(features_formatadas)} eventos ativos nas ultimas 24h.")
