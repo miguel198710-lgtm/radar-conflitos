@@ -1,0 +1,32 @@
+name: Radar Automatico
+
+on:
+  schedule:
+    - cron: '0 */8 * * *' # Corre a cada 8 horas
+  workflow_dispatch: # Permite-te clicar num botão para forçar a atualização
+
+jobs:
+  atualizar-dados:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para ele guardar o ficheiro
+
+    steps:
+      - name: Aceder aos ficheiros
+        uses: actions/checkout@v4
+
+      - name: Preparar o motor de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Correr a extração tática
+        run: python radar.py
+
+      - name: Guardar o novo mapa
+        run: |
+          git config --global user.name "Radar Bot"
+          git config --global user.email "bot@radar.local"
+          git add conflitos.geojson
+          git commit -m "Nova extração do GDELT" || echo "Sem mudanças"
+          git push
