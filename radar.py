@@ -26,9 +26,9 @@ hotspots = {
 rss_urls = [
     "https://www.aljazeera.com/xml/rss/all.xml",
     "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-    "https://www.rtp.pt/noticias/rss",
-    "https://www.dw.com/pt-pt/not%C3%ADcias/s-3074/rss"
+    "https://news.un.org/feed/subscribe/en/news/all/rss.xml", # Mantemos para tentar de novo
+    "https://www.rtp.pt/noticias/index.php?article=0&visual=142", # Nova rota RTP
+    "https://rss.dw.com/rdf/rss-pt-all" # Nova rota DW (mais estável)
 ]
 
 contexto = ssl.create_default_context()
