@@ -2,8 +2,9 @@ name: Radar Automatico
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # Este código significa: "A cada 30 minutos, todos os dias, todas as horas"
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Mantém isto para poderes clicar no botão de correr manualmente
 
 jobs:
   atualizar-dados:
