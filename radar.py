@@ -85,3 +85,5 @@ with open("conflitos.geojson", "w", encoding="utf-8") as f:
     json.dump({"type": "FeatureCollection", "features": features_formatadas}, f, ensure_ascii=False, indent=2)
 
 print(f"SUCESSO: {len(features_formatadas)} eventos ativos nas ultimas 24h.")
+
+#Created by
