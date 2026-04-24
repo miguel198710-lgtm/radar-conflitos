@@ -86,4 +86,3 @@ with open("conflitos.geojson", "w", encoding="utf-8") as f:
 
 print(f"SUCESSO: {len(features_formatadas)} eventos ativos nas ultimas 24h.")
 
-#Created by
