@@ -24,7 +24,7 @@ jobs:
       - name: Correr Radar de Noticias e Voos
         run: |
           python radar.py
-          python voos.py
+          python aero.py
 
       - name: Guardar Mapa
         run: |
