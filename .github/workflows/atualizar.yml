@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Correr Radar de Noticias e Voos
+      - name: Correr Radar de Noticias
         run: |
           python radar.py
          
