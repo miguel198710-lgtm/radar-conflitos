@@ -29,5 +29,5 @@ jobs:
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          git commit -m "Atualizacao de noticias e voos" || echo "Sem mudanças"
+          git commit -m "Atualizacao de noticias" || echo "Sem mudanças"
           git push
