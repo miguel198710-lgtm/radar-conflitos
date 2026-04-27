@@ -5,7 +5,7 @@ import re
 
 print("A iniciar varrimento OSINT global com categorização inteligente...")
 
-# 1. As Fontes
+# 1. As Fontes (Agências Globais)
 FONTES = [
     {"nome": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     {"nome": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
@@ -56,29 +56,26 @@ def extrair_noticias():
                     link = item.find('link').text if item.find('link') is not None else ""
                     desc = item.find('description').text if item.find('description') is not None else ""
                     
-                    # Tentar extrair a data (pubDate). Se não existir, avisa.
                     pub_date = item.find('pubDate').text if item.find('pubDate') is not None else "Data Recente"
                     
                     texto_completo = (title + " " + desc).lower()
                     
-                    # Encontrar a categoria correta
+                    # Identificar a categoria pela palavra-chave
                     categoria_final = None
                     for palavra, cat in CATEGORIAS_MAP.items():
                         if palavra in texto_completo:
                             categoria_final = cat
-                            break # Encontrou a primeira palavra-chave, define a categoria e para
+                            break
                     
-                    # Só avança se encontrou um tema que nos interessa
+                    # Se tiver categoria, tenta mapear as coordenadas
                     if categoria_final:
-                        
-                        # Procurar o local
                         coords = None
                         for pais, coordenadas in ZONAS.items():
                             if re.search(r'\b' + pais + r'\b', title, re.IGNORECASE):
                                 coords = coordenadas
                                 break
                         
-                        # Adicionar ao mapa
+                        # Escrever os dados exatos que a tabela do ArcGIS pede
                         if coords:
                             feature = {
                                 "type": "Feature",
@@ -87,9 +84,10 @@ def extrair_noticias():
                                     "coordinates": coords
                                 },
                                 "properties": {
-                                    "titulo": title,
-                                    "data": pub_date,
-                                    "link": link,
+                                    "titulo_evento": title,
+                                    "data_noticia": pub_date,
+                                    "descricao": desc[:200] + "..." if len(desc) > 200 else desc,
+                                    "url_fonte": link,
                                     "categoria": f"{categoria_final} ({fonte['nome']})"
                                 }
                             }
@@ -99,6 +97,7 @@ def extrair_noticias():
         except Exception as e:
             print(f"Erro ao ler {fonte['nome']}: {e}")
 
+    # Guardar no formato GeoJSON
     with open("conflitos.geojson", "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=4)
         
