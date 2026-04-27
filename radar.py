@@ -3,27 +3,29 @@ import xml.etree.ElementTree as ET
 import json
 import re
 
-print("A iniciar varrimento OSINT global (Conflitos, Defesa, Economia, Política)...")
+print("A iniciar varrimento OSINT global com categorização inteligente...")
 
-# 1. As Fontes (Feeds RSS Globais)
+# 1. As Fontes
 FONTES = [
-    {"nome": "Al Jazeera Global", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"nome": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     {"nome": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
-    {"nome": "NY Times", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml"},
-    {"nome": "The Guardian", "url": "https://www.theguardian.com/world/rss"},
     {"nome": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml"}
 ]
 
-# 2. Filtro Tático (Palavras-chave em inglês)
-KEYWORDS = [
-    "war", "conflict", "strike", "military", "defense", "missile", "troops", 
-    "navy", "army", "nuclear", "tensions", "ceasefire", "rebel", # Defesa/Conflitos
-    "election", "parliament", "president", "summit", "protest", # Política
-    "economy", "sanctions", "inflation", "oil", "trade", "debt" # Economia
-]
+# 2. Dicionário de Categorização Inteligente
+CATEGORIAS_MAP = {
+    "war": "Defesa/Conflito", "conflict": "Defesa/Conflito", "strike": "Defesa/Conflito", 
+    "military": "Defesa/Conflito", "defense": "Defesa/Conflito", "missile": "Defesa/Conflito", 
+    "troops": "Defesa/Conflito", "navy": "Defesa/Conflito", "army": "Defesa/Conflito", 
+    "nuclear": "Defesa/Conflito", "tensions": "Defesa/Conflito", "ceasefire": "Defesa/Conflito", 
+    "rebel": "Defesa/Conflito",
+    "election": "Política", "parliament": "Política", "president": "Política", 
+    "summit": "Política", "protest": "Política",
+    "economy": "Economia", "sanctions": "Economia", "inflation": "Economia", 
+    "oil": "Economia", "trade": "Economia", "debt": "Economia"
+}
 
-# 3. Dicionário de Coordenadas (Zonas de Risco e Países Principais)
-# Longitude, Latitude (Formato GeoJSON)
+# 3. Dicionário de Coordenadas (Zonas de Risco)
 ZONAS = {
     "Ukraine": [31.16, 48.37], "Russia": [105.31, 61.52], "Gaza": [34.46, 31.50],
     "Israel": [34.85, 31.04], "Taiwan": [120.96, 23.69], "China": [104.19, 35.86],
@@ -49,29 +51,34 @@ def extrair_noticias():
                 xml_data = response.read()
                 root = ET.fromstring(xml_data)
                 
-                # Procurar todos os items (notícias) no feed
                 for item in root.findall('.//item'):
                     title = item.find('title').text if item.find('title') is not None else ""
                     link = item.find('link').text if item.find('link') is not None else ""
                     desc = item.find('description').text if item.find('description') is not None else ""
                     
+                    # Tentar extrair a data (pubDate). Se não existir, avisa.
+                    pub_date = item.find('pubDate').text if item.find('pubDate') is not None else "Data Recente"
+                    
                     texto_completo = (title + " " + desc).lower()
                     
-                    # Passo A: A notícia fala dos nossos temas?
-                    if any(kw in texto_completo for kw in KEYWORDS):
+                    # Encontrar a categoria correta
+                    categoria_final = None
+                    for palavra, cat in CATEGORIAS_MAP.items():
+                        if palavra in texto_completo:
+                            categoria_final = cat
+                            break # Encontrou a primeira palavra-chave, define a categoria e para
+                    
+                    # Só avança se encontrou um tema que nos interessa
+                    if categoria_final:
                         
-                        # Passo B: Conseguimos localizar a notícia?
-                        # Procura o nome do país no Título (com maiúsculas para ser exato)
-                        local_encontrado = None
+                        # Procurar o local
                         coords = None
-                        
                         for pais, coordenadas in ZONAS.items():
                             if re.search(r'\b' + pais + r'\b', title, re.IGNORECASE):
-                                local_encontrado = pais
                                 coords = coordenadas
                                 break
                         
-                        # Só adiciona ao mapa se conseguiu encontrar uma coordenada
+                        # Adicionar ao mapa
                         if coords:
                             feature = {
                                 "type": "Feature",
@@ -81,10 +88,9 @@ def extrair_noticias():
                                 },
                                 "properties": {
                                     "titulo": title,
-                                    "descricao": desc[:200] + "..." if len(desc) > 200 else desc,
-                                    "fonte": fonte['nome'],
+                                    "data": pub_date,
                                     "link": link,
-                                    "tema": "Operacional / Estratégico"
+                                    "categoria": f"{categoria_final} ({fonte['nome']})"
                                 }
                             }
                             geojson["features"].append(feature)
@@ -93,12 +99,10 @@ def extrair_noticias():
         except Exception as e:
             print(f"Erro ao ler {fonte['nome']}: {e}")
 
-    # Guardar o ficheiro GeoJSON
     with open("conflitos.geojson", "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=4)
         
-    print(f"Missão concluída. {noticias_processadas} eventos globais mapeados.")
+    print(f"Sucesso! {noticias_processadas} eventos registados.")
 
 if __name__ == "__main__":
     extrair_noticias()
-
