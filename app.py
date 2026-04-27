@@ -131,8 +131,24 @@ def get_voos():
 @app.route('/navios.geojson')
 def get_navios():
     features = []
-    frota_atual = list(navios_buffer.items())
     
+    # 1. A Sonda de Calibração (Garante que o ArcGIS nunca vê um ficheiro vazio)
+    features.append({
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [0.0, 0.0]},
+        "properties": {
+            "Nome_Navio": "Sonda de Calibração C4ISR",
+            "Pais": "Sistema",
+            "Destino": "Ponto Zero",
+            "Callsign_Radio": "PING",
+            "MMSI": "000000000",
+            "Velocidade_Nos": 0,
+            "Rumo": 0
+        }
+    })
+
+    # 2. A Frota Real (Abaixo da sonda)
+    frota_atual = list(navios_buffer.items())
     for mmsi, dados in frota_atual:
         if dados.get("lat", 0) != 0 and dados.get("lon", 0) != 0:
             features.append({
@@ -148,7 +164,5 @@ def get_navios():
                     "Rumo": dados.get("rumo", 0)
                 }
             })
+            
     return jsonify({"type": "FeatureCollection", "features": features})
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
