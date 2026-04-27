@@ -1,88 +1,104 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import json
-import datetime
-import random
-import ssl
-from email.utils import parsedate_to_datetime
+import re
 
-print("A iniciar radar tatico de alta frequencia...")
+print("A iniciar varrimento OSINT global (Conflitos, Defesa, Economia, Política)...")
 
-# Dicionario tatico expandido
-hotspots = {
-    "Ucrânia": [31.16, 48.37], "Ukraine": [31.16, 48.37], "Kyiv": [30.52, 50.45],"Donetsk": [37.80, 48.00],
-    "Rússia": [37.61, 55.75], "Russia": [37.61, 55.75], "Moscow": [37.61, 55.75],
-    "Gaza": [34.46, 31.50], "Israel": [34.85, 31.04], "Rafah": [34.25, 31.28],
-    "Líbano": [35.86, 33.85], "Lebanon": [35.86, 33.85], "Beirut": [35.50, 33.89],
-    "Sudão": [30.21, 12.86], "Sudan": [30.21, 12.86],
-    "Iémen": [47.58, 15.55], "Yemen": [47.58, 15.55], "Houthi": [47.58, 15.55],
-    "Síria": [38.99, 34.80], "Syria": [38.99, 34.80],
-    "Taiwan": [120.96, 23.69], "China": [116.40, 39.90],
-    "Somália": [46.19, 5.15], "Iran": [51.38, 35.68], "Irão": [51.38, 35.68],
-    "Venezuela": [-66.90, 10.48], "Guyana": [-58.15, 6.80]
-}
-
-# Lista de Feeds Expandida (Reuters, Al Jazeera, BBC, UN News)
-rss_urls = [
-    "https://www.aljazeera.com/xml/rss/all.xml",
-    "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
-    "https://www.theguardian.com/world/rss" 
+# 1. As Fontes (Feeds RSS Globais)
+FONTES = [
+    {"nome": "Al Jazeera Global", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"nome": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"nome": "NY Times", "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml"},
+    {"nome": "The Guardian", "url": "https://www.theguardian.com/world/rss"},
+    {"nome": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml"}
 ]
 
-contexto = ssl.create_default_context()
-contexto.check_hostname = False
-contexto.verify_mode = ssl.CERT_NONE
+# 2. Filtro Tático (Palavras-chave em inglês)
+KEYWORDS = [
+    "war", "conflict", "strike", "military", "defense", "missile", "troops", 
+    "navy", "army", "nuclear", "tensions", "ceasefire", "rebel", # Defesa/Conflitos
+    "election", "parliament", "president", "summit", "protest", # Política
+    "economy", "sanctions", "inflation", "oil", "trade", "debt" # Economia
+]
 
-features_formatadas = []
-agora = datetime.datetime.now(datetime.timezone.utc)
+# 3. Dicionário de Coordenadas (Zonas de Risco e Países Principais)
+# Longitude, Latitude (Formato GeoJSON)
+ZONAS = {
+    "Ukraine": [31.16, 48.37], "Russia": [105.31, 61.52], "Gaza": [34.46, 31.50],
+    "Israel": [34.85, 31.04], "Taiwan": [120.96, 23.69], "China": [104.19, 35.86],
+    "Iran": [53.68, 32.42], "USA": [-95.71, 37.09], "United States": [-95.71, 37.09],
+    "North Korea": [127.05, 40.33], "South Korea": [127.76, 35.90], 
+    "Yemen": [47.58, 15.55], "Red Sea": [38.28, 20.28], "Syria": [38.99, 34.80],
+    "Lebanon": [35.86, 33.85], "Sudan": [30.21, 12.86], "Somalia": [46.19, 5.15],
+    "Niger": [8.08, 17.60], "Mali": [-3.99, 17.57], "UK": [-3.43, 55.37],
+    "France": [2.21, 46.22], "Germany": [10.45, 51.16], "Poland": [19.14, 51.91],
+    "NATO": [4.35, 50.85], "EU": [4.35, 50.85], "Portugal": [-8.22, 39.39]
+}
 
-for feed_url in rss_urls:
-    try:
-        print(f"A varrer: {feed_url}")
-        pedido = urllib.request.Request(feed_url, headers={'User-Agent': 'Mozilla/5.0'})
-        resposta = urllib.request.urlopen(pedido, context=contexto, timeout=15)
-        root = ET.fromstring(resposta.read())
+def extrair_noticias():
+    geojson = {"type": "FeatureCollection", "features": []}
+    noticias_processadas = 0
 
-        for item in root.findall('.//item'):
-            title = item.find('title').text if item.find('title') is not None else ""
-            link = item.find('link').text if item.find('link') is not None else ""
-            pub_date_str = item.find('pubDate').text if item.find('pubDate') is not None else ""
-            
-            if not pub_date_str: continue
-            
-            # FILTRO DE 24 HORAS
-            data_noticia = parsedate_to_datetime(pub_date_str)
-            diferenca = agora - data_noticia
-            
-            if diferenca.total_seconds() > 86400: # 86400 segundos = 24 horas
-                continue 
-
-            for local, coords in hotspots.items():
-                if local.lower() in title.lower():
-                    # Dispersao tatica para evitar sobreposicao
-                    lon = coords[0] + random.uniform(-0.18, 0.18)
-                    lat = coords[1] + random.uniform(-0.18, 0.18)
-
-                    features_formatadas.append({
-                        "type": "Feature",
-                        "geometry": {"type": "Point", "coordinates": [lon, lat]},
-                        "properties": {
-                            "titulo_evento": title,
-                            "descricao": f"Fonte: {local.upper()} (Ultimas 24h)",
-                            "url_fonte": link,
-                            "data_noticia": data_noticia.strftime("%Y-%m-%d %H:%M"),
-                            "categoria": "Inteligencia Recente"
-                        }
-                    })
-                    break
+    for fonte in FONTES:
+        print(f"A varrer {fonte['nome']}...")
+        req = urllib.request.Request(fonte['url'], headers={'User-Agent': 'Mozilla/5.0'})
+        
+        try:
+            with urllib.request.urlopen(req) as response:
+                xml_data = response.read()
+                root = ET.fromstring(xml_data)
+                
+                # Procurar todos os items (notícias) no feed
+                for item in root.findall('.//item'):
+                    title = item.find('title').text if item.find('title') is not None else ""
+                    link = item.find('link').text if item.find('link') is not None else ""
+                    desc = item.find('description').text if item.find('description') is not None else ""
                     
-    except Exception as e:
-        print(f"Erro no feed: {e}")
+                    texto_completo = (title + " " + desc).lower()
+                    
+                    # Passo A: A notícia fala dos nossos temas?
+                    if any(kw in texto_completo for kw in KEYWORDS):
+                        
+                        # Passo B: Conseguimos localizar a notícia?
+                        # Procura o nome do país no Título (com maiúsculas para ser exato)
+                        local_encontrado = None
+                        coords = None
+                        
+                        for pais, coordenadas in ZONAS.items():
+                            if re.search(r'\b' + pais + r'\b', title, re.IGNORECASE):
+                                local_encontrado = pais
+                                coords = coordenadas
+                                break
+                        
+                        # Só adiciona ao mapa se conseguiu encontrar uma coordenada
+                        if coords:
+                            feature = {
+                                "type": "Feature",
+                                "geometry": {
+                                    "type": "Point",
+                                    "coordinates": coords
+                                },
+                                "properties": {
+                                    "titulo": title,
+                                    "descricao": desc[:200] + "..." if len(desc) > 200 else desc,
+                                    "fonte": fonte['nome'],
+                                    "link": link,
+                                    "tema": "Operacional / Estratégico"
+                                }
+                            }
+                            geojson["features"].append(feature)
+                            noticias_processadas += 1
 
-# Exportacao Final
-with open("conflitos.geojson", "w", encoding="utf-8") as f:
-    json.dump({"type": "FeatureCollection", "features": features_formatadas}, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Erro ao ler {fonte['nome']}: {e}")
 
-print(f"SUCESSO: {len(features_formatadas)} eventos ativos nas ultimas 24h.")
+    # Guardar o ficheiro GeoJSON
+    with open("conflitos.geojson", "w", encoding="utf-8") as f:
+        json.dump(geojson, f, ensure_ascii=False, indent=4)
+        
+    print(f"Missão concluída. {noticias_processadas} eventos globais mapeados.")
+
+if __name__ == "__main__":
+    extrair_noticias()
 
