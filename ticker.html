@@ -20,7 +20,7 @@
   .ticker {
     display: inline-block;
     padding-left: 100%;
-    animation: ticker 400s linear infinite; 
+    animation: ticker 100s linear infinite; 
   }
   .ticker:hover {
     animation-play-state: paused;
@@ -31,6 +31,8 @@
     font-size: 14px;
     text-transform: uppercase;
     cursor: pointer;
+    display: inline-flex;
+    align-items: center; /* Alinha a bandeira com o texto na perfeição */
   }
   a { text-decoration: none; } 
   .ticker-item:hover .white-text { text-decoration: underline; }
@@ -51,20 +53,20 @@
   // COLA O TEU LINK RAW DO CONFLITOS.GEOJSON AQUI:
   const geojsonURL = "https://raw.githubusercontent.com/miguel198710-lgtm/radar-conflitos/refs/heads/main/conflitos.geojson";
 
-  // DICIONÁRIO TÁTICO DE BANDEIRAS
+  // DICIONÁRIO ATUALIZADO PARA CÓDIGOS ISO (Para ir buscar as imagens reais)
   const bandeiras = {
-    "ukraine": "🇺🇦", "kyiv": "🇺🇦", "russia": "🇷🇺", "moscow": "🇷🇺",
-    "israel": "🇮🇱", "gaza": "🇵🇸", "iran": "🇮🇷", "tehran": "🇮🇷",
-    "china": "🇨🇳", "beijing": "🇨🇳", "taiwan": "🇹🇼",
-    "usa": "🇺🇸", "us": "🇺🇸", "washington": "🇺🇸", "new york": "🇺🇸",
-    "canada": "🇨🇦", "mexico": "🇲🇽", "brazil": "🇧🇷", "argentina": "🇦🇷",
-    "venezuela": "🇻🇪", "colombia": "🇨🇴", "cuba": "🇨🇺", "chile": "🇨🇱", "peru": "🇵🇪",
-    "uk": "🇬🇧", "london": "🇬🇧", "france": "🇫🇷", "paris": "🇫🇷",
-    "germany": "🇩🇪", "berlin": "🇩🇪", "spain": "🇪🇸", "madrid": "🇪🇸",
-    "portugal": "🇵🇹", "lisbon": "🇵🇹", "italy": "🇮🇹", "rome": "🇮🇹",
-    "belgium": "🇧🇪", "brussels": "🇧🇪", "poland": "🇵🇱", "warsaw": "🇵🇱",
-    "greece": "🇬🇷", "athens": "🇬🇷", "yemen": "🇾🇪", "red sea": "🌊",
-    "north korea": "🇰🇵", "south korea": "🇰🇷", "lebanon": "🇱🇧", "syria": "🇸🇾"
+    "ukraine": "ua", "kyiv": "ua", "russia": "ru", "moscow": "ru",
+    "israel": "il", "gaza": "ps", "iran": "ir", "tehran": "ir",
+    "china": "cn", "beijing": "cn", "taiwan": "tw",
+    "usa": "us", "us": "us", "washington": "us", "new york": "us",
+    "canada": "ca", "mexico": "mx", "brazil": "br", "argentina": "ar",
+    "venezuela": "ve", "colombia": "co", "cuba": "cu", "chile": "cl", "peru": "pe",
+    "uk": "gb", "london": "gb", "france": "fr", "paris": "fr",
+    "germany": "de", "berlin": "de", "spain": "es", "madrid": "es",
+    "portugal": "pt", "lisbon": "pt", "italy": "it", "rome": "it",
+    "belgium": "be", "brussels": "be", "poland": "pl", "warsaw": "pl",
+    "greece": "gr", "athens": "gr", "yemen": "ye", "north korea": "kp", 
+    "south korea": "kr", "lebanon": "lb", "syria": "sy"
   };
 
   fetch(geojsonURL)
@@ -85,23 +87,25 @@
         else if (cat.includes("ECONOMIA")) corCategoria = "#ffcc00";
         else if (cat.includes("POLÍTICA") || cat.includes("POLITICA")) corCategoria = "#00aaff";
 
-        // MOTOR DE DETEÇÃO DE BANDEIRAS
-        let flag = "🌍"; // Globo por defeito
+        // GERA A IMAGEM DA BANDEIRA EM VEZ DO EMOJI
+        let flagHTML = `<span style="margin-right: 8px;">🌍</span>`; // Ícone global padrão
         let textoBusca = (titulo + " " + desc).toLowerCase();
         
         for (let key in bandeiras) {
-          // Procura a palavra exata para evitar que "music" ative "us" (USA)
           let regex = new RegExp("\\b" + key + "\\b"); 
           if (regex.test(textoBusca)) {
-            flag = bandeiras[key];
-            break; // Assim que encontra o país, assume a bandeira e para de procurar
+            let isoCode = bandeiras[key];
+            // Injeta a imagem diretamente da FlagCDN (16x12 pixels)
+            flagHTML = `<img src="https://flagcdn.com/16x12/${isoCode}.png" style="margin-right: 8px; border: 1px solid #333;" alt="${isoCode}">`;
+            break; 
           }
         }
 
         let item = `
-          <a href="${urlNoticia}" target="_blank">
+          <a href="${urlNoticia}" target="_blank" style="display: inline-flex; align-items: center;">
             <div class="ticker-item">
-              <span style="color: ${corCategoria}; font-weight: bold;">${flag} [${cat}]</span> 
+              ${flagHTML}
+              <span style="color: ${corCategoria}; font-weight: bold;">[${cat}]</span> 
               <span class="white-text" style="margin-left: 8px;">${titulo}</span> 
               <span class="separator">/ / /</span>
             </div>
