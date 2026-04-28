@@ -36,7 +36,7 @@ def atualizar_memoria_voos():
                     historico_voos[hex_id]["alt_pes"] = aviao.get("alt_baro", 0)
                     historico_voos[hex_id]["vel"] = aviao.get("gs", 0) # Ground Speed (Nós)
                     historico_voos[hex_id]["rumo"] = aviao.get("track", 0) # Heading (Graus)
-                    historico_voos[hex_id]["squawk"] = aviao.get("squawk", "0000") # Transponder
+                    historico_voos[hex_id]["squawk"] = str(aviao.get("squawk") or "NONE") # Transponder
                     
                     if len(historico_voos[hex_id]["rasto"]) > 15:
                         historico_voos[hex_id]["rasto"].pop(0)
