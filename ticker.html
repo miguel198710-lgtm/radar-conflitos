@@ -4,9 +4,9 @@
 <style>
   body {
     margin: 0;
-    background-color: #050505; /* Fundo negro tático */
+    background-color: #050505;
     color: #ffffff;
-    font-family: 'Courier New', Courier, monospace; /* Letra estilo máquina/militar */
+    font-family: 'Courier New', Courier, monospace;
     overflow: hidden;
     border-top: 2px solid #333;
     border-bottom: 2px solid #333;
@@ -19,11 +19,12 @@
   }
   .ticker {
     display: inline-block;
-    padding-left: 100%; /* Começa fora do ecrã à direita */
-    animation: ticker 40s linear infinite; /* Velocidade do texto (ajusta os 40s) */
+    padding-left: 100%;
+    /* AJUSTE DE VELOCIDADE: Aumentado para 120 segundos para leitura fluida */
+    animation: ticker 120s linear infinite; 
   }
   .ticker:hover {
-    animation-play-state: paused; /* Pausa se o operador puser o rato por cima */
+    animation-play-state: paused;
   }
   .ticker-item {
     display: inline-block;
@@ -31,7 +32,6 @@
     font-size: 14px;
     text-transform: uppercase;
   }
-  .red-alert { color: #ff0000; font-weight: bold; }
   .white-text { color: #ffffff; }
   .time-text { color: #666666; font-size: 11px; margin-left: 10px;}
   .separator { color: #444; margin: 0 15px; }
@@ -51,31 +51,35 @@
 </div>
 
 <script>
-  // SUBSTITUI ESTE LINK PELO LINK 'RAW' DO TEU GITHUB
+  // COLA AQUI O TEU LINK RAW DO GITHUB QUE ACABA EM .geojson
   const geojsonURL = "https://raw.githubusercontent.com/miguel198710-lgtm/radar-conflitos/refs/heads/main/conflitos.geojson";
 
   fetch(geojsonURL)
     .then(response => response.json())
     .then(data => {
       const tickerEl = document.getElementById('news-ticker');
-      tickerEl.innerHTML = ''; // Limpa a mensagem de carregamento
+      tickerEl.innerHTML = ''; 
       
       data.features.forEach(feat => {
         let p = feat.properties;
         let titulo = p.titulo_evento || "EVENTO DESCONHECIDO";
-        let cat = p.categoria ? p.categoria.toUpperCase() : "";
+        let cat = p.categoria ? p.categoria.toUpperCase() : "GERAL";
         let dataNoticia = p.data_noticia || "";
         
-        // Inteligência Visual: Se for de Defesa/Conflito, fica vermelho (como na tua imagem)
-        let classCor = "white-text";
+        // Novo Sistema de Cores Táticas (Só a etiqueta ganha cor)
+        let corCategoria = "#888888"; // Cinzento padrão
         if (cat.includes("DEFESA") || cat.includes("CONFLITO")) {
-          classCor = "red-alert";
+          corCategoria = "#ff2a2a"; // Vermelho
+        } else if (cat.includes("ECONOMIA")) {
+          corCategoria = "#ffcc00"; // Amarelo
+        } else if (cat.includes("POLÍTICA") || cat.includes("POLITICA")) {
+          corCategoria = "#00aaff"; // Azul
         }
 
-        // Construir a notícia
         let item = `
           <div class="ticker-item">
-            <span class="${classCor}">■ [${cat}] ${titulo}</span> 
+            <span style="color: ${corCategoria}; font-weight: bold;">■ [${cat}]</span> 
+            <span class="white-text" style="margin-left: 8px;">${titulo}</span> 
             <span class="time-text">${dataNoticia}</span>
             <span class="separator">/ / /</span>
           </div>
