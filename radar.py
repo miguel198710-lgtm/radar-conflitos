@@ -39,8 +39,20 @@ KEYWORDS_DEFESA = ["war", "military", "missile", "strike", "troops", "navy", "dr
 KEYWORDS_ECONOMIA = ["economy", "inflation", "markets", "stocks", "oil", "sanctions", "bank", "trade", "interest rates", "economia", "mercados", "petróleo", "sanções"]
 KEYWORDS_POLITICA = ["diplomacy", "summit", "election", "treaty", "un ", "eu ", "brussels", "eleições", "diplomacia", "acordo", "bruxelas", "ue"]
 
-# --- 3. MAPA INTERNO EXPANDIDO (COORDENADAS TÁTICAS) ---
+# --- 3. MAPA INTERNO EXPANDIDO (CÓDIGO GLOBAL COMPLETO) ---
 MAPA_INTERNO = {
+    # AMÉRICAS (O Novo Eixo)
+    "usa": [-95.7129, 37.0902], "washington": [-77.0369, 38.9072], "new york": [-74.0060, 40.7128],
+    "canada": [-106.3468, 56.1304], "ottawa": [-75.6972, 45.4215],
+    "mexico": [-102.5528, 23.6345], "mexico city": [-99.1332, 19.4326],
+    "brazil": [-51.9253, -14.2350], "brasilia": [-47.9292, -15.7801],
+    "argentina": [-63.6167, -38.4161], "buenos aires": [-58.3816, -34.6037],
+    "venezuela": [-66.5897, 6.4238], "caracas": [-66.9036, 10.4806],
+    "colombia": [-74.2973, 4.5709], "bogota": [-74.0721, 4.7110],
+    "cuba": [-79.1834, 21.5218], "havana": [-82.3666, 23.1136],
+    "chile": [-71.5429, -35.6751], "santiago": [-70.6693, -33.4489],
+    "peru": [-75.0152, -9.1900], "lima": [-77.0428, -12.0464],
+
     # EUROPA
     "portugal": [-8.2245, 39.3999], "lisbon": [-9.1393, 38.7223],
     "spain": [-3.7038, 40.4168], "madrid": [-3.7038, 40.4168],
@@ -51,12 +63,13 @@ MAPA_INTERNO = {
     "belgium": [4.4699, 50.5039], "brussels": [4.3517, 50.8503],
     "poland": [19.1451, 51.9194], "warsaw": [21.0122, 52.2297],
     "greece": [21.8243, 39.0742], "athens": [23.7275, 37.9838],
-    # CONFLITOS E GLOBAL
+
+    # CONFLITOS E GLOBAL (MÉDIO ORIENTE / ÁSIA)
     "ukraine": [31.1656, 48.3794], "kyiv": [30.5238, 50.4547],
     "russia": [105.3188, 61.5240], "moscow": [37.6173, 55.7558],
     "israel": [34.8516, 31.0461], "gaza": [34.4668, 31.5017],
     "iran": [53.6880, 32.4279], "tehran": [51.3890, 35.6892],
-    "china": [104.1954, 35.8617], "usa": [-95.7129, 37.0902],
+    "china": [104.1954, 35.8617], "beijing": [116.4074, 39.9042],
     "taiwan": [120.9605, 23.6978], "yemen": [47.5868, 15.5527],
     "red sea": [38.1157, 20.2802], "north korea": [127.0500, 40.0000]
 }
