@@ -20,8 +20,7 @@
   .ticker {
     display: inline-block;
     padding-left: 100%;
-    /* AJUSTE DE VELOCIDADE: Aumentado para 120 segundos para leitura fluida */
-    animation: ticker 120s linear infinite; 
+    animation: ticker 200s linear infinite; 
   }
   .ticker:hover {
     animation-play-state: paused;
@@ -31,9 +30,15 @@
     padding: 10px 30px;
     font-size: 14px;
     text-transform: uppercase;
+    cursor: pointer; /* Muda o rato para a 'mãozinha' de clicar */
   }
-  .white-text { color: #ffffff; }
-  .time-text { color: #666666; font-size: 11px; margin-left: 10px;}
+  /* Remove a formatação azul padrão dos links da internet */
+  a { text-decoration: none; } 
+  
+  /* Quando o rato passa por cima, sublinha o texto branco */
+  .ticker-item:hover .white-text { text-decoration: underline; }
+  
+  .white-text { color: #ffffff !important; }
   .separator { color: #444; margin: 0 15px; }
 
   @keyframes ticker {
@@ -44,14 +49,10 @@
 </head>
 <body>
 
-<div class="ticker-wrap">
-  <div class="ticker" id="news-ticker">
-    A CARREGAR INTELIGÊNCIA GLOBAL...
-  </div>
-</div>
+<div class="ticker-wrap"><div class="ticker" id="news-ticker">A CARREGAR INTELIGÊNCIA GLOBAL...</div></div>
 
 <script>
-  // COLA AQUI O TEU LINK RAW DO GITHUB QUE ACABA EM .geojson
+  // COLA O TEU LINK RAW DO CONFLITOS.GEOJSON AQUI:
   const geojsonURL = "https://raw.githubusercontent.com/miguel198710-lgtm/radar-conflitos/refs/heads/main/conflitos.geojson";
 
   fetch(geojsonURL)
@@ -64,31 +65,30 @@
         let p = feat.properties;
         let titulo = p.titulo_evento || "EVENTO DESCONHECIDO";
         let cat = p.categoria ? p.categoria.toUpperCase() : "GERAL";
-        let dataNoticia = p.data_noticia || "";
         
-        // Novo Sistema de Cores Táticas (Só a etiqueta ganha cor)
-        let corCategoria = "#888888"; // Cinzento padrão
-        if (cat.includes("DEFESA") || cat.includes("CONFLITO")) {
-          corCategoria = "#ff2a2a"; // Vermelho
-        } else if (cat.includes("ECONOMIA")) {
-          corCategoria = "#ffcc00"; // Amarelo
-        } else if (cat.includes("POLÍTICA") || cat.includes("POLITICA")) {
-          corCategoria = "#00aaff"; // Azul
-        }
+        // Puxa o link do teu ficheiro GeoJSON
+        let urlNoticia = p.url_fonte || "#"; 
+        
+        let corCategoria = "#888888";
+        if (cat.includes("DEFESA") || cat.includes("CONFLITO")) corCategoria = "#ff2a2a";
+        else if (cat.includes("ECONOMIA")) corCategoria = "#ffcc00";
+        else if (cat.includes("POLÍTICA") || cat.includes("POLITICA")) corCategoria = "#00aaff";
 
+        // NOTA TÁTICA: Removida a data. Adicionada a etiqueta <a> para tornar clicável
         let item = `
-          <div class="ticker-item">
-            <span style="color: ${corCategoria}; font-weight: bold;">■ [${cat}]</span> 
-            <span class="white-text" style="margin-left: 8px;">${titulo}</span> 
-            <span class="time-text">${dataNoticia}</span>
-            <span class="separator">/ / /</span>
-          </div>
+          <a href="${urlNoticia}" target="_blank">
+            <div class="ticker-item">
+              <span style="color: ${corCategoria}; font-weight: bold;">■ [${cat}]</span> 
+              <span class="white-text" style="margin-left: 8px;">${titulo}</span> 
+              <span class="separator">/ / /</span>
+            </div>
+          </a>
         `;
         tickerEl.innerHTML += item;
       });
     })
     .catch(error => {
-      document.getElementById('news-ticker').innerHTML = "ERRO NAS COMUNICAÇÕES C4ISR. A TENTAR RECONECTAR...";
+      document.getElementById('news-ticker').innerHTML = "ERRO NAS COMUNICAÇÕES C4ISR...";
     });
 </script>
 
