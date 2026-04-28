@@ -5,140 +5,125 @@ import re
 import ssl
 from email.utils import parsedate_to_datetime
 
-print("A iniciar varrimento OSINT global Nível 4 (Defesa, Economia, Política)...")
+print("A atualizar rede de sensores: Adicionando Eixo Europeu e corrigindo canais de Economia...")
 
-# Ignorar erros de certificados SSL de alguns sites de notícias
+# Ignorar erros de certificados SSL
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# --- 1. REDE DE INTELIGÊNCIA (FONTES RSS) ---
+# --- 1. REDE DE INTELIGÊNCIA EXPANDIDA (RSS FEEDS) ---
 FONTES_RSS = {
+    # DEFESA E GEOPOLÍTICA
+    "Defense News": "https://www.defensenews.com/arc/outboundfeeds/rss/",
     "War on the Rocks": "https://warontherocks.com/feed/",
     "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-    "BBC Conflict": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Defense News": "https://www.defensenews.com/arc/outboundfeeds/rss/",
-    "CNBC Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?profile=12000000&id=10000664",
-    "Google News Defesa": "https://news.google.com/rss/search?q=military+OR+war+OR+missile+when:1d&hl=en-US&gl=US&ceid=US:en",
-    "Google News Economia": "https://news.google.com/rss/search?q=global+economy+OR+markets+OR+inflation+when:1d&hl=en-US&gl=US&ceid=US:en"
+    "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    
+    # EIXO EUROPEU (Novas Fontes)
+    "Euronews (Europa)": "https://www.euronews.com/rss?level=vertical&name=news",
+    "France 24": "https://www.france24.com/en/rss",
+    "DW (Alemanha/UE)": "https://rss.dw.com/xml/rss-en-all",
+    "Politico Europe": "https://www.politico.eu/feed/",
+    
+    # ECONOMIA (Link Corrigido e mais estável)
+    "CNBC World Economy": "https://www.cnbc.com/id/100727362/device/rss/rss.xml",
+    
+    # AGGREGATORS (Busca ativa por temas)
+    "Google News Military": "https://news.google.com/rss/search?q=military+OR+war+OR+missile+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "Google News Markets": "https://news.google.com/rss/search?q=global+economy+OR+markets+when:1d&hl=en-US&gl=US&ceid=US:en"
 }
 
-# --- 2. FILTRO DE AMEAÇAS (PALAVRAS-CHAVE TÁTICAS) ---
-# A notícia tem de conter pelo menos uma destas palavras para ser validada
-KEYWORDS_DEFESA = ["war", "military", "missile", "strike", "troops", "navy", "drone", "attack", "defense", "nuclear", "guerra", "míssil", "ataque", "tropas"]
-KEYWORDS_ECONOMIA = ["economy", "inflation", "markets", "stocks", "oil", "sanctions", "bank", "trade", "economia", "mercados", "petróleo", "sanções", "inflação"]
-KEYWORDS_POLITICA = ["diplomacy", "summit", "election", "treaty", "un ", "nato", "eleições", "diplomacia", "acordo", "nato", "onu"]
+# --- 2. FILTRO DE PALAVRAS-CHAVE ---
+KEYWORDS_DEFESA = ["war", "military", "missile", "strike", "troops", "navy", "drone", "attack", "defense", "nuclear", "nato", "guerra", "míssil", "ataque", "tropas"]
+KEYWORDS_ECONOMIA = ["economy", "inflation", "markets", "stocks", "oil", "sanctions", "bank", "trade", "interest rates", "economia", "mercados", "petróleo", "sanções"]
+KEYWORDS_POLITICA = ["diplomacy", "summit", "election", "treaty", "un ", "eu ", "brussels", "eleições", "diplomacia", "acordo", "bruxelas", "ue"]
 
-# --- 3. GEOCODIFICADOR TÁTICO INTERNO ---
-# Se a notícia mencionar um destes países, o ponto vai direto para estas coordenadas
+# --- 3. MAPA INTERNO EXPANDIDO (COORDENADAS TÁTICAS) ---
 MAPA_INTERNO = {
+    # EUROPA
+    "portugal": [-8.2245, 39.3999], "lisbon": [-9.1393, 38.7223],
+    "spain": [-3.7038, 40.4168], "madrid": [-3.7038, 40.4168],
+    "france": [2.2137, 46.2276], "paris": [2.3522, 48.8566],
+    "germany": [10.4515, 51.1657], "berlin": [13.4050, 52.5200],
+    "uk ": [-3.4360, 55.3781], "london": [-0.1278, 51.5074],
+    "italy": [12.5674, 41.8719], "rome": [12.4964, 41.9028],
+    "belgium": [4.4699, 50.5039], "brussels": [4.3517, 50.8503],
+    "poland": [19.1451, 51.9194], "warsaw": [21.0122, 52.2297],
+    "greece": [21.8243, 39.0742], "athens": [23.7275, 37.9838],
+    # CONFLITOS E GLOBAL
     "ukraine": [31.1656, 48.3794], "kyiv": [30.5238, 50.4547],
     "russia": [105.3188, 61.5240], "moscow": [37.6173, 55.7558],
     "israel": [34.8516, 31.0461], "gaza": [34.4668, 31.5017],
     "iran": [53.6880, 32.4279], "tehran": [51.3890, 35.6892],
-    "china": [104.1954, 35.8617], "taiwan": [120.9605, 23.6978],
-    "usa": [-95.7129, 37.0902], "washington": [-77.0369, 38.9072],
-    "uk ": [-3.4360, 55.3781], "london": [-0.1278, 51.5074],
-    "france": [2.2137, 46.2276], "paris": [2.3522, 48.8566],
-    "germany": [10.4515, 51.1657], "berlin": [13.4050, 52.5200],
-    "portugal": [-8.2245, 39.3999], "lisbon": [-9.1393, 38.7223],
-    "yemen": [47.5868, 15.5527], "red sea": [38.1157, 20.2802],
-    "north korea": [127.0500, 40.0000], "south korea": [127.7669, 35.9078]
+    "china": [104.1954, 35.8617], "usa": [-95.7129, 37.0902],
+    "taiwan": [120.9605, 23.6978], "yemen": [47.5868, 15.5527],
+    "red sea": [38.1157, 20.2802], "north korea": [127.0500, 40.0000]
 }
 
 def categorizar_e_filtrar(texto):
     texto = texto.lower()
-    
-    if any(kw in texto for kw in KEYWORDS_DEFESA):
-        return "Defesa/Conflito"
-    elif any(kw in texto for kw in KEYWORDS_ECONOMIA):
-        return "Economia"
-    elif any(kw in texto for kw in KEYWORDS_POLITICA):
-        return "Política"
-    else:
-        return None # A notícia não tem interesse tático, será descartada
+    if any(kw in texto for kw in KEYWORDS_DEFESA): return "Defesa/Conflito"
+    if any(kw in texto for kw in KEYWORDS_ECONOMIA): return "Economia"
+    if any(kw in texto for kw in KEYWORDS_POLITICA): return "Política"
+    return None
 
 def localizar_alvo(texto):
     texto_limpo = texto.lower()
     for local, coords in MAPA_INTERNO.items():
-        # Usar regex para procurar a palavra exata e não partes de palavras
         if re.search(r'\b' + local + r'\b', texto_limpo):
             return coords
-    return None # Não encontrou local militarmente relevante
+    return None
 
 features_geojson = []
-noticias_processadas = 0
-noticias_descartadas = 0
+processed_count = 0
 
 for fonte_nome, url in FONTES_RSS.items():
-    print(f"A varrer radar: {fonte_nome}...")
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+    print(f"A ler: {fonte_nome}...")
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     
     try:
-        with urllib.request.urlopen(req, context=ctx, timeout=10) as response:
+        with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
             xml_data = response.read()
             root = ET.fromstring(xml_data)
             
-            # Limitar a 15 notícias por fonte para evitar sobrecarga de dados
-            for item in root.findall('.//item')[:15]:
+            # Subimos para 20 notícias por fonte para aumentar o volume
+            for item in root.findall('.//item')[:20]:
                 titulo = item.find('title').text if item.find('title') is not None else ""
-                descricao = item.find('description').text if item.find('description') is not None else ""
+                desc = item.find('description').text if item.find('description') is not None else ""
                 link = item.find('link').text if item.find('link') is not None else "#"
                 
-                # Juntar título e descrição para analisar
-                texto_analise = f"{titulo} {descricao}"
+                categoria = categorizar_e_filtrar(f"{titulo} {desc}")
+                coordenadas = localizar_alvo(f"{titulo} {desc}")
                 
-                # 1. Filtro Tático (Saber o tema)
-                categoria = categorizar_e_filtrar(texto_analise)
-                if not categoria:
-                    noticias_descartadas += 1
-                    continue # Ignorar notícia se não for Defesa, Economia ou Política
-                
-                # 2. Localizador (Saber as coordenadas)
-                coordenadas = localizar_alvo(texto_analise)
-                if not coordenadas:
-                    continue # Ignorar se não soubermos onde colocar no mapa
-                
-                # 3. Formatar Data
-                raw_date = item.find('pubDate').text if item.find('pubDate') is not None else None
-                pub_date = "Data Recente"
-                if raw_date:
-                    try:
-                        dt = parsedate_to_datetime(raw_date)
-                        pub_date = dt.strftime("%d/%m/%Y %H:%M")
-                    except Exception:
-                        pub_date = raw_date
-                
-                # 4. Construir o Alvo para o Mapa e Rodapé
-                features_geojson.append({
-                    "type": "Feature",
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": coordenadas # [Longitude, Latitude]
-                    },
-                    "properties": {
-                        "titulo_evento": titulo,
-                        "descricao": descricao[:200] + "..." if len(descricao) > 200 else descricao, # Limitar texto longo
-                        "url_fonte": link,
-                        "categoria": f"{categoria} ({fonte_nome})",
-                        "data_noticia": pub_date
-                    }
-                })
-                noticias_processadas += 1
-
+                if categoria and coordenadas:
+                    # Formatar Data
+                    raw_date = item.find('pubDate').text if item.find('pubDate') is not None else None
+                    pub_date = "Data Recente"
+                    if raw_date:
+                        try:
+                            dt = parsedate_to_datetime(raw_date)
+                            pub_date = dt.strftime("%d/%m/%Y %H:%M")
+                        except: pass
+                    
+                    features_geojson.append({
+                        "type": "Feature",
+                        "geometry": {"type": "Point", "coordinates": coordenadas},
+                        "properties": {
+                            "titulo_evento": titulo,
+                            "descricao": desc[:250] + "..." if len(desc) > 250 else desc,
+                            "url_fonte": link,
+                            "categoria": f"{categoria} ({fonte_nome})",
+                            "data_noticia": pub_date
+                        }
+                    })
+                    processed_count += 1
     except Exception as e:
-        print(f"Falha de comunicações com a fonte {fonte_nome}: {str(e)}")
+        print(f"Erro na fonte {fonte_nome}: {str(e)}")
 
-# Construir ficheiro final
-geojson_output = {
-    "type": "FeatureCollection",
-    "features": features_geojson
-}
-
-# Gravar no repositório
+# Gravar o ficheiro final
+output = {"type": "FeatureCollection", "features": features_geojson}
 with open('conflitos.geojson', 'w', encoding='utf-8') as f:
-    json.dump(geojson_output, f, ensure_ascii=False, indent=2)
+    json.dump(output, f, ensure_ascii=False, indent=2)
 
-print("Varrimento concluído.")
-print(f"Alvos confirmados no mapa: {noticias_processadas}")
-print(f"Ruído bloqueado pelo filtro: {noticias_descartadas}")
+print(f"Varrimento concluído. {processed_count} notícias injetadas no sistema.")
