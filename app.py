@@ -60,8 +60,7 @@ def get_voos():
                     "hex": dados["hex"],
                     "altitude_pes": dados["alt_pes"],
                     "velocidade_nos": dados["vel"],
-                    "rumo": dados["rumo"],
-                    "squawk": dados["squawk"]
+                    "rumo": dados["rumo"]                    
                 }
             })
     return jsonify({"type": "FeatureCollection", "features": features})
