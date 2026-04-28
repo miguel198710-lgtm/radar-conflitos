@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    margin: 0;
+    background-color: #050505; /* Fundo negro tático */
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace; /* Letra estilo máquina/militar */
+    overflow: hidden;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
+  }
+  .ticker-wrap {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    box-sizing: border-box;
+  }
+  .ticker {
+    display: inline-block;
+    padding-left: 100%; /* Começa fora do ecrã à direita */
+    animation: ticker 40s linear infinite; /* Velocidade do texto (ajusta os 40s) */
+  }
+  .ticker:hover {
+    animation-play-state: paused; /* Pausa se o operador puser o rato por cima */
+  }
+  .ticker-item {
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .red-alert { color: #ff0000; font-weight: bold; }
+  .white-text { color: #ffffff; }
+  .time-text { color: #666666; font-size: 11px; margin-left: 10px;}
+  .separator { color: #444; margin: 0 15px; }
+
+  @keyframes ticker {
+    0%   { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-100%, 0, 0); }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker" id="news-ticker">
+    A CARREGAR INTELIGÊNCIA GLOBAL...
+  </div>
+</div>
+
+<script>
+  // SUBSTITUI ESTE LINK PELO LINK 'RAW' DO TEU GITHUB
+  const geojsonURL = "https://raw.githubusercontent.com/miguel198710-lgtm/radar-conflitos/refs/heads/main/conflitos.geojson";
+
+  fetch(geojsonURL)
+    .then(response => response.json())
+    .then(data => {
+      const tickerEl = document.getElementById('news-ticker');
+      tickerEl.innerHTML = ''; // Limpa a mensagem de carregamento
+      
+      data.features.forEach(feat => {
+        let p = feat.properties;
+        let titulo = p.titulo_evento || "EVENTO DESCONHECIDO";
+        let cat = p.categoria ? p.categoria.toUpperCase() : "";
+        let dataNoticia = p.data_noticia || "";
+        
+        // Inteligência Visual: Se for de Defesa/Conflito, fica vermelho (como na tua imagem)
+        let classCor = "white-text";
+        if (cat.includes("DEFESA") || cat.includes("CONFLITO")) {
+          classCor = "red-alert";
+        }
+
+        // Construir a notícia
+        let item = `
+          <div class="ticker-item">
+            <span class="${classCor}">■ [${cat}] ${titulo}</span> 
+            <span class="time-text">${dataNoticia}</span>
+            <span class="separator">/ / /</span>
+          </div>
+        `;
+        tickerEl.innerHTML += item;
+      });
+    })
+    .catch(error => {
+      document.getElementById('news-ticker').innerHTML = "ERRO NAS COMUNICAÇÕES C4ISR. A TENTAR RECONECTAR...";
+    });
+</script>
+
+</body>
+</html>
