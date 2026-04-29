@@ -4,32 +4,27 @@ import json
 import re
 import ssl
 from email.utils import parsedate_to_datetime
+from datetime import datetime, timedelta, timezone
 
-print("A atualizar rede de sensores: Adicionando Eixo Europeu e corrigindo canais de Economia...")
+print("A iniciar varrimento OSINT global com FILTRO TEMPORAL...")
 
-# Ignorar erros de certificados SSL
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# --- 1. REDE DE INTELIGÊNCIA EXPANDIDA (RSS FEEDS) ---
+# --- 1. REDE DE INTELIGÊNCIA ---
 FONTES_RSS = {
-    # DEFESA E GEOPOLÍTICA
     "Defense News": "https://www.defensenews.com/arc/outboundfeeds/rss/",
     "War on the Rocks": "https://warontherocks.com/feed/",
     "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
     "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    
-    # EIXO EUROPEU (Novas Fontes)
     "Euronews (Europa)": "https://www.euronews.com/rss?level=vertical&name=news",
     "France 24": "https://www.france24.com/en/rss",
     "DW (Alemanha/UE)": "https://rss.dw.com/xml/rss-en-all",
     "Politico Europe": "https://www.politico.eu/feed/",
-    
-    # ECONOMIA (Link Corrigido e mais estável)
-    "CNBC World Economy": "https://www.cnbc.com/id/100727362/device/rss/rss.xml",
-    
-    # AGGREGATORS (Busca ativa por temas)
+    "Yahoo Finance (Global)": "https://finance.yahoo.com/news/rssindex",
+    "NYT Business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "Wall Street Journal": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
     "Google News Military": "https://news.google.com/rss/search?q=military+OR+war+OR+missile+when:1d&hl=en-US&gl=US&ceid=US:en",
     "Google News Markets": "https://news.google.com/rss/search?q=global+economy+OR+markets+when:1d&hl=en-US&gl=US&ceid=US:en"
 }
@@ -39,9 +34,8 @@ KEYWORDS_DEFESA = ["war", "military", "missile", "strike", "troops", "navy", "dr
 KEYWORDS_ECONOMIA = ["economy", "inflation", "markets", "stocks", "oil", "sanctions", "bank", "trade", "interest rates", "economia", "mercados", "petróleo", "sanções"]
 KEYWORDS_POLITICA = ["diplomacy", "summit", "election", "treaty", "un ", "eu ", "brussels", "eleições", "diplomacia", "acordo", "bruxelas", "ue"]
 
-# --- 3. MAPA INTERNO EXPANDIDO (CÓDIGO GLOBAL COMPLETO) ---
+# --- 3. MAPA INTERNO ---
 MAPA_INTERNO = {
-    # AMÉRICAS (O Novo Eixo)
     "usa": [-95.7129, 37.0902], "washington": [-77.0369, 38.9072], "new york": [-74.0060, 40.7128],
     "canada": [-106.3468, 56.1304], "ottawa": [-75.6972, 45.4215],
     "mexico": [-102.5528, 23.6345], "mexico city": [-99.1332, 19.4326],
@@ -52,8 +46,6 @@ MAPA_INTERNO = {
     "cuba": [-79.1834, 21.5218], "havana": [-82.3666, 23.1136],
     "chile": [-71.5429, -35.6751], "santiago": [-70.6693, -33.4489],
     "peru": [-75.0152, -9.1900], "lima": [-77.0428, -12.0464],
-
-    # EUROPA
     "portugal": [-8.2245, 39.3999], "lisbon": [-9.1393, 38.7223],
     "spain": [-3.7038, 40.4168], "madrid": [-3.7038, 40.4168],
     "france": [2.2137, 46.2276], "paris": [2.3522, 48.8566],
@@ -63,8 +55,6 @@ MAPA_INTERNO = {
     "belgium": [4.4699, 50.5039], "brussels": [4.3517, 50.8503],
     "poland": [19.1451, 51.9194], "warsaw": [21.0122, 52.2297],
     "greece": [21.8243, 39.0742], "athens": [23.7275, 37.9838],
-
-    # CONFLITOS E GLOBAL (MÉDIO ORIENTE / ÁSIA)
     "ukraine": [31.1656, 48.3794], "kyiv": [30.5238, 50.4547],
     "russia": [105.3188, 61.5240], "moscow": [37.6173, 55.7558],
     "israel": [34.8516, 31.0461], "gaza": [34.4668, 31.5017],
@@ -89,7 +79,11 @@ def localizar_alvo(texto):
     return None
 
 features_geojson = []
-processed_count = 0
+noticias_processadas = 0
+
+# --- CONFIGURAÇÃO TÁTICA: Janela de Tempo ---
+# Qualquer notícia com mais destas horas será eliminada
+HORAS_EXPIRACAO = 48 
 
 for fonte_nome, url in FONTES_RSS.items():
     print(f"A ler: {fonte_nome}...")
@@ -100,8 +94,7 @@ for fonte_nome, url in FONTES_RSS.items():
             xml_data = response.read()
             root = ET.fromstring(xml_data)
             
-            # Subimos para 20 notícias por fonte para aumentar o volume
-            for item in root.findall('.//item')[:20]:
+            for item in root.findall('.//item')[:25]:
                 titulo = item.find('title').text if item.find('title') is not None else ""
                 desc = item.find('description').text if item.find('description') is not None else ""
                 link = item.find('link').text if item.find('link') is not None else "#"
@@ -110,33 +103,52 @@ for fonte_nome, url in FONTES_RSS.items():
                 coordenadas = localizar_alvo(f"{titulo} {desc}")
                 
                 if categoria and coordenadas:
-                    # Formatar Data
                     raw_date = item.find('pubDate').text if item.find('pubDate') is not None else None
-                    pub_date = "Data Recente"
+                    noticia_valida = True
+                    pub_date = "Recente"
+                    
                     if raw_date:
                         try:
+                            # Converte o texto da data para um objeto de "Tempo" real
                             dt = parsedate_to_datetime(raw_date)
-                            pub_date = dt.strftime("%d/%m/%Y %H:%M")
-                        except: pass
+                            
+                            # Adiciona fuso horário UTC se a notícia não tiver um
+                            if dt.tzinfo is None:
+                                dt = dt.replace(tzinfo=timezone.utc)
+                            
+                            # Vê que horas são agora em UTC
+                            agora = datetime.now(timezone.utc)
+                            
+                            # Subtrai o tempo: Agora menos a data da Notícia
+                            diferenca = agora - dt
+                            
+                            # Se a diferença for MAIOR que o nosso limite (ex: 48h), DESCARTA!
+                            if diferenca > timedelta(hours=HORAS_EXPIRACAO):
+                                noticia_valida = False
+                            else:
+                                pub_date = dt.strftime("%d/%m/%Y %H:%M")
+                        except Exception:
+                            pass
                     
-                    features_geojson.append({
-                        "type": "Feature",
-                        "geometry": {"type": "Point", "coordinates": coordenadas},
-                        "properties": {
-                            "titulo_evento": titulo,
-                            "descricao": desc[:250] + "..." if len(desc) > 250 else desc,
-                            "url_fonte": link,
-                            "categoria": f"{categoria} ({fonte_nome})",
-                            "data_noticia": pub_date
-                        }
-                    })
-                    processed_count += 1
+                    # Só avança se a notícia for recente e não tiver expirado
+                    if noticia_valida:
+                        features_geojson.append({
+                            "type": "Feature",
+                            "geometry": {"type": "Point", "coordinates": coordenadas},
+                            "properties": {
+                                "titulo_evento": titulo,
+                                "descricao": desc[:250] + "..." if len(desc) > 250 else desc,
+                                "url_fonte": link,
+                                "categoria": f"{categoria} ({fonte_nome})",
+                                "data_noticia": pub_date
+                            }
+                        })
+                        noticias_processadas += 1
     except Exception as e:
         print(f"Erro na fonte {fonte_nome}: {str(e)}")
 
-# Gravar o ficheiro final
 output = {"type": "FeatureCollection", "features": features_geojson}
 with open('conflitos.geojson', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"Varrimento concluído. {processed_count} notícias injetadas no sistema.")
+print(f"Varrimento concluído. {noticias_processadas} alertas ativos (Últimas {HORAS_EXPIRACAO} horas).")
