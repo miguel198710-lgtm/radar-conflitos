@@ -1,0 +1,6405 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-29T14:26:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1054361",
+        "landuse": "industrial",
+        "name": "Calvert Cliffs Nuclear Power Plant",
+        "operator": "Exelon",
+        "operator:wikidata": "Q1383669",
+        "operator:wikipedia": "en:Exelon",
+        "plant:method": "fission",
+        "plant:output:electricity": "1850.4 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6011",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1968-06-01",
+        "type": "multipolygon",
+        "wikidata": "Q1739367",
+        "wikipedia": "en:Calvert Cliffs Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.441326,
+          38.4275332
+        ]
+      },
+      "id": "relation/1054361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1527911",
+        "generator:method": "fission",
+        "landuse": "industrial",
+        "name": "東海発電所",
+        "name:de": "Kernkraftwerk Tōkai",
+        "name:en": "Tōkai nuclear power plant",
+        "name:et": "Tōkai tuumaelektrijaam",
+        "name:fr": "Centrale nucléaire de Tōkai",
+        "name:pl": "Elektrownia jądrowa Tōkai",
+        "operator": "Japan Atomic Power Company",
+        "plant:method": "fission",
+        "plant:output:electricity": "1100 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1966-07-25",
+        "type": "multipolygon",
+        "wikidata": "Q738945",
+        "wikipedia": "en:Tōkai Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6082821,
+          36.4679417
+        ]
+      },
+      "id": "relation/1527911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1953975",
+        "landuse": "industrial",
+        "name": "Ленинградская АЭС",
+        "name:en": "Leningrad Nuclear Power Plant",
+        "name:et": "Leningradi tuumaelektrijaam",
+        "name:fr": "Centrale nucléaire de Leningrad",
+        "name:uk": "Ленінградська АЕС",
+        "operator": "Rosenergoatom",
+        "plant:method": "fission",
+        "plant:output:electricity": "1850 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "ЛАЭС",
+        "start_date": "1973",
+        "type": "multipolygon",
+        "wikidata": "Q3279825",
+        "wikipedia": "ru:Ленинградская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0395805,
+          59.8457269
+        ]
+      },
+      "id": "relation/1953975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3988608",
+        "name": "秦山核电站",
+        "name:de": "Kernkraftwerk Qinshan",
+        "name:en": "Qinshan Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Qinshan",
+        "name:ja": "秦山原子力発電所",
+        "name:zh": "秦山核电站",
+        "name:zh-Hant": "秦山核電站",
+        "operator": "秦山核电公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "4120 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "type": "multipolygon",
+        "wikidata": "Q1483977",
+        "wikipedia": "en:Qinshan Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9477089,
+          30.4284233
+        ]
+      },
+      "id": "relation/3988608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4456817",
+        "contact:website": "https://www.rosenergoatom.ru/stations_projects/sayt-beloyarskoy-aes/",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Белоярская_АЭС_2019_год.jpg",
+        "landuse": "industrial",
+        "name": "Белоярская АЭС",
+        "name:ar": "محطة بيلويارسك للطاقة النووية",
+        "name:bg": "Белоярска АЕЦ",
+        "name:cs": "Bělojarská jaderná elektrárna",
+        "name:de": "Kernkraftwerk Belojarsk",
+        "name:en": "Beloyarsk Nuclear Power Station",
+        "name:fa": "نیروگاه هسته‌ای بلوارسک",
+        "name:fi": "Belojarskin ydinvoimalaitos",
+        "name:fr": "Centrale nucléaire de Beloïarsk",
+        "name:hy": "תחנת הכוח הגרעינית בלויארסקי",
+        "name:id": "Pembangkit Listrik Tenaga Nuklir Beloyarsk",
+        "name:it": "Centrale nucleare di Belojarsk",
+        "name:ja": "ベロヤルスク原子力発電所",
+        "name:nl": "Kerncentrale Belojarsk",
+        "name:no": "Belojarsk kjernekraftverk",
+        "name:pl": "Elektrownia jądrowa Biełojarsk",
+        "name:ru": "Белоярская атомная электростанция",
+        "name:ru:word_stress": "Белоя́рская а́томная электроста́нция",
+        "name:sv": "Belojarsk kärnkraftverk",
+        "name:uk": "Білоярська АЕС",
+        "name:zh": "別洛亞爾斯克核能發電廠",
+        "plant:method": "fission",
+        "plant:output:electricity": "1485 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "БАЭС",
+        "start_date": "1964-04-26",
+        "type": "multipolygon",
+        "wikidata": "Q1739359",
+        "wikipedia": "ru:Белоярская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.3216706,
+          56.8509267
+        ]
+      },
+      "id": "relation/4456817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4525578",
+        "landuse": "industrial",
+        "name": "Central nuclear d'Ascó",
+        "name:ast": "Central nuclear d'Ascó",
+        "name:ca": "Central nuclear d'Ascó",
+        "name:es": "Central nuclear de Ascó",
+        "name:fr": "Centrale nucléaire d'Ascó",
+        "name:pl": "Elektrownia jądrowa Ascó",
+        "plant:method": "fission",
+        "plant:output:electricity": "1988 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "18WASC1-12345-0Z;18WASC2-12345-0P",
+        "start_date": "1984",
+        "type": "multipolygon",
+        "wikidata": "Q1640098",
+        "wikipedia": "ca:Central nuclear d'Ascó",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5692685,
+          41.2011359
+        ]
+      },
+      "id": "relation/4525578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4546127",
+        "alt_name": "Південноукраїнська АЕС",
+        "alt_name:fr": "Centrale nucléaire de Konstantinovka",
+        "landuse": "industrial",
+        "name": "Південноукраїнська АЕС",
+        "name:de": "Kernkraftwerk Süd-Ukraine",
+        "name:en": "South Ukraine Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire d'Ukraine du Sud",
+        "name:it": "Centrale nucleare Ucraina del Sud",
+        "name:ru": "Южно-Украинская АЭС",
+        "name:uk": "Південноукраїнська АЕС",
+        "old_name": "Южно-Українська АЕС",
+        "old_name:uk": "Южно-Українська АЕС",
+        "operator": "НАЕК Енергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "3000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "ПУАЕС",
+        "start_date": "1983-12-02",
+        "type": "multipolygon",
+        "wikidata": "Q186223",
+        "wikipedia": "uk:Южно-Українська АЕС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2184387,
+          47.8107971
+        ]
+      },
+      "id": "relation/4546127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/4660817",
+        "landuse": "industrial",
+        "name": "Jaderná elektrárna Temelín",
+        "name:cs": "Jaderná elektrárna Temelín",
+        "name:de": "Kernkraftwerk Temelín",
+        "name:en": "Temelín Nuclear Power Plant",
+        "operator": "ČEZ",
+        "operator:wikidata": "Q336735",
+        "plant:method": "fission",
+        "plant:output:electricity": "2056 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "ETE",
+        "ref:EU:ENTSOE_EIC": "27W-PU-ETEM----A",
+        "source:ref": "ceps_cz",
+        "type": "multipolygon",
+        "wikidata": "Q1502091",
+        "wikipedia": "cs:Jaderná elektrárna Temelín",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3773736,
+          49.1797463
+        ]
+      },
+      "id": "relation/4660817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4800321",
+        "landuse": "industrial",
+        "name": "Hartlepool Nuclear Power Station",
+        "name:cs": "Jaderná elektrárna Hartlepool",
+        "name:de": "Kernkraftwerk Hartlepool",
+        "name:en": "Hartlepool Nuclear Power Station",
+        "name:es": "Central nuclear de Hartlepool",
+        "name:fr": "Centrale nucléaire de Hartlepool",
+        "name:id": "Pembangkit Listrik Tenaga Nuklir Hartlepool",
+        "name:it": "Centrale nucleare di Hartlepool",
+        "name:ja": "ハートルプール原子力発電所",
+        "name:no": "Hartlepool kjernekraftverk",
+        "name:ru": "АЭС Хартлпул",
+        "name:sv": "Hartlepool kärnkraftverk",
+        "operator": "EDF Energy",
+        "operator:wikidata": "Q3045865",
+        "planned:end_date": "2027-03",
+        "plant:method": "fission",
+        "plant:output:electricity": "1180 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "landsat",
+        "start_date": "1983",
+        "wikidata": "Q572403",
+        "wikipedia": "en:Hartlepool nuclear power station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1812918,
+          54.6351559
+        ]
+      },
+      "id": "way/4800321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5538984",
+        "landuse": "industrial",
+        "name": "Jaderná elektrárna Dukovany",
+        "name:cs": "Jaderná elektrárna Dukovany",
+        "name:de": "Kernkraftwerk Dukovany",
+        "name:en": "Dukovany Nuclear Power Plant",
+        "operator": "ČEZ",
+        "operator:wikidata": "Q336735",
+        "plant:method": "fission",
+        "plant:output:electricity": "1880 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "27W-PU-EDUK----1",
+        "short_name": "EDU",
+        "type": "multipolygon",
+        "wikidata": "Q687033",
+        "wikimedia_commons": "Category:Dukovany Nuclear Power Station",
+        "wikipedia": "cs:Jaderná elektrárna Dukovany",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1481581,
+          49.0844731
+        ]
+      },
+      "id": "relation/5538984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6046981",
+        "landuse": "industrial",
+        "name": "Jadrová elektráreň Mochovce",
+        "name:en": "Mochovce (Mohi) nuclear power plant",
+        "name:hu": "Mohi Atomerőmű",
+        "operator": "Slovenské elektrárne, a.s.",
+        "plant:method": "fission",
+        "plant:output:electricity": "1471 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "24WV--EMO------K",
+        "start_date": "1998",
+        "type": "multipolygon",
+        "wikidata": "Q1085951",
+        "wikipedia": "sk:Atómové elektrárne Mochovce",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4598602,
+          48.2609719
+        ]
+      },
+      "id": "relation/6046981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6047051",
+        "landuse": "industrial",
+        "name": "نیروگاه اتمی بوشهر",
+        "name:ar": "محطة كهرباء بوشهر النووية",
+        "name:de": "Kernkraftwerk Buschehr",
+        "name:en": "Bushehr Nuclear Power Plant",
+        "name:es": "Central nuclear de Bushehr",
+        "name:fr": "Centrale nucléaire de Bouchehr",
+        "name:it": "Centrale nucleare di Bushehr",
+        "name:ml": "ബൂഷെഹർ ആണവനിലയം",
+        "name:pt": "Central nuclear de Bushehr",
+        "name:ru": "Бушерская АЭС",
+        "plant:method": "fission",
+        "plant:output:electricity": "1000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "type": "multipolygon",
+        "wikidata": "Q204637",
+        "wikipedia": "en:Bushehr Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.88499,
+          28.8291476
+        ]
+      },
+      "id": "relation/6047051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6334623",
+        "landuse": "industrial",
+        "name": "Кольская АЭС",
+        "name:de": "Kernkraftwerk Kola",
+        "name:en": "Kola Nuclear Power Plant",
+        "name:es": "Central nuclear de Kola",
+        "name:fr": "Centrale nucléaire de Kola",
+        "name:it": "Centrale nucleare di Kola",
+        "name:nl": "Kerncentrale Kola",
+        "name:ru": "Кольская АЭС",
+        "operator": "Концерн Росэнергоатом ОАО",
+        "plant:method": "fission",
+        "plant:output:electricity": "1760 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "type": "multipolygon",
+        "wikidata": "Q1640751",
+        "wikipedia": "ru:Кольская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4785639,
+          67.4655767
+        ]
+      },
+      "id": "relation/6334623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6732566",
+        "landuse": "industrial",
+        "name": "Comanche Peak Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Comanche Peak",
+        "operator": "Luminant",
+        "plant:method": "fission",
+        "plant:output:electricity": "2400 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6145",
+        "type": "multipolygon",
+        "wikidata": "Q1432276",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7931419,
+          32.2980073
+        ]
+      },
+      "id": "relation/6732566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7565672",
+        "addr:city": "屏東縣",
+        "addr:country": "TW",
+        "addr:district": "恆春鎮",
+        "addr:full": "屏東縣恆春鎮南灣路387號",
+        "addr:housenumber": "387",
+        "addr:province": "台灣省",
+        "addr:street": "南灣路",
+        "alt_name": "馬鞍山發電廠",
+        "landuse": "industrial",
+        "name": "第三核能發電廠",
+        "name:de": "Kernkraftwerk Maanshan",
+        "name:en": "Maanshan Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Ma'anshan",
+        "name:nan": "Tē-saⁿ He̍k-lêng Hoat-tiān-chhiúⁿ",
+        "name:nan-Hant": "第三核能發電廠",
+        "name:nan-Latn-pehoeji": "Tē-saⁿ He̍k-lêng Hoat-tiān-chhiúⁿ",
+        "name:nan-Latn-tailo": "Tē-sann Hi̍k-lîng Huat-tiān-tshiúnn",
+        "name:zh": "第三核能發電廠",
+        "operator": "台灣電力公司",
+        "operator:en": "Taiwan Power Company",
+        "operator:wikidata": "Q711691",
+        "operator:zh": "台灣電力公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "1780 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "核三廠",
+        "start_date": "1984-07-27",
+        "type": "multipolygon",
+        "wikidata": "Q712797",
+        "wikimedia_commons": "Category:Maanshan Nuclear Power Plant",
+        "wikipedia": "zh:第三核能發電廠",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7511501,
+          21.958391
+        ]
+      },
+      "id": "relation/7565672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7671467",
+        "landuse": "industrial",
+        "name": "Paksi Atomerőmű",
+        "name:en": "Paks Nuclear Power Plant",
+        "operator": "MVM Paksi Atomerőmű Zrt.",
+        "phone": "+36 75 508 833",
+        "plant:method": "fission",
+        "plant:output:electricity": "2000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "15WPAKS------PPL",
+        "start_date": "1982-12-28",
+        "type": "multipolygon",
+        "website": "http://www.atomeromu.hu",
+        "wikidata": "Q1188635",
+        "wikipedia": "hu:MVM Paksi Atomerőmű",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.855019,
+          46.5775522
+        ]
+      },
+      "id": "relation/7671467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8088450",
+        "alt_name": "Atomkraftwerk Beznau",
+        "contact:email": "axporama@axpo.com",
+        "contact:phone": "+41 56 2004191",
+        "contact:website": "https://www.kernenergie.ch/de/akw-beznau.html",
+        "landuse": "industrial",
+        "name": "Kernkraftwerk Beznau",
+        "name:it": "Centrale nucleare di Beznau",
+        "operator": "Axpo Power AG",
+        "plant:method": "fission",
+        "plant:output:electricity": "730 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "KKB",
+        "short_name": "KKW Beznau",
+        "start_date": "1969",
+        "type": "multipolygon",
+        "wikidata": "Q686800",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2287483,
+          47.552143
+        ]
+      },
+      "id": "relation/8088450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8094140",
+        "alt_name": "Atomkraftwerk Leibstadt",
+        "contact:website": "http://kkl.ch",
+        "landuse": "industrial",
+        "name": "Kernkraftwerk Leibstadt",
+        "name:en": "Leibstadt Nuclear Power Plant",
+        "operator": "Kernkraftwerk Leibstadt AG",
+        "plant:method": "fission",
+        "plant:output:electricity": "1220 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "KKL",
+        "short_name": "KKW Leibstadt",
+        "type": "multipolygon",
+        "wikidata": "Q281837",
+        "wikipedia": "en:Leibstadt Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1827939,
+          47.6012749
+        ]
+      },
+      "id": "relation/8094140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8591150",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centrale nucléaire de Tihange",
+        "name:de": "Kernkraftwerk Tihange",
+        "name:en": "Tihange Nuclear Power Station",
+        "name:fr": "Centrale nucléaire de Tihange",
+        "name:nl": "Kerncentrale Tihange",
+        "operator": "Engie Electrabel",
+        "plant:method": "fission",
+        "plant:output:electricity": "3008 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "website": "https://nuclear.engie-electrabel.be/fr/centrale-nucleaire/la-centrale-nucleaire-de-tihange",
+        "wikidata": "Q1739481",
+        "wikipedia": "fr:Centrale nucléaire de Tihange",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2739027,
+          50.5335384
+        ]
+      },
+      "id": "way/8591150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8653261",
+        "frequency": "50",
+        "landuse": "industrial",
+        "name": "Atómové elektrárne Bohunice",
+        "name:cs": "Jaderná elektrárna Jaslovské Bohunice",
+        "name:de": "Kernkraftwerk Bohunitz",
+        "name:en": "Bohunice Nuclear Power Plant",
+        "plant:output:electricity": "1010 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "24WV--EBO------8",
+        "short_name": "EBO",
+        "source": "Bing",
+        "start_date": "1958",
+        "wikidata": "Q833602",
+        "wikipedia": "sk:Atómové elektrárne Bohunice",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6842698,
+          48.4934733
+        ]
+      },
+      "id": "way/8653261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12029607",
+        "landuse": "industrial",
+        "name": "Central nuclear de Vandellòs II",
+        "name:ast": "Central nuclear de Vandellós II",
+        "name:ca": "Central nuclear de Vandellòs II",
+        "name:es": "Central nuclear de Vandellós II",
+        "name:fr": "Centrale nucléaire de Vandellós",
+        "plant:method": "fission",
+        "plant:output:electricity": "1087 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "18WVAN2-12345-0W",
+        "start_date": "1972",
+        "type": "multipolygon",
+        "wikidata": "Q507704",
+        "wikipedia": "ca:Central nuclear de Vandellòs",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8664092,
+          40.9528933
+        ]
+      },
+      "id": "relation/12029607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13350325",
+        "name": "Ringhals kärnkraftverk",
+        "operator": "Ringhals AB",
+        "plant:output:electricity": "3550 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "type": "multipolygon",
+        "wikidata": "Q205774",
+        "wikipedia": "sv:Ringhals kärnkraftverk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1103692,
+          57.261483
+        ]
+      },
+      "id": "relation/13350325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/15917174",
+        "landuse": "industrial",
+        "name": "Kerncentrale Doel",
+        "name:de": "Kernkraftwerk Doel",
+        "name:en": "Doel Nuclear Power Station",
+        "name:fr": "Centrale nucléaire de Doel",
+        "name:nl": "Kerncentrale Doel",
+        "operator": "Electrabel",
+        "plant:method": "fission",
+        "plant:output:electricity": "2935 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "22WDOELX1000076X;22WDOELX2000077N;22WDOELX3000078D;22WDOELX40000793",
+        "start_date": "1975",
+        "wikidata": "Q1739399",
+        "wikipedia": "nl:Kerncentrale Doel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2560282,
+          51.3247584
+        ]
+      },
+      "id": "way/15917174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/16603691",
+        "landuse": "industrial",
+        "name": "North Anna Nuclear Generating Station",
+        "operator": "Virginia Electric & Power Co",
+        "plant:method": "fission",
+        "plant:output:electricity": "1892 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6168",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2019",
+        "start_date": "1978-06",
+        "type": "multipolygon",
+        "website": "https://www.dominionenergy.com/projects-and-facilities/nuclear-facilities/north-anna-power-station",
+        "wikidata": "Q1637580",
+        "wikipedia": "en:North Anna Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7927198,
+          38.0592824
+        ]
+      },
+      "id": "relation/16603691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18033169",
+        "landuse": "industrial",
+        "name": "Cooper Nuclear Power Station",
+        "operator": "Nebraska Public Power District",
+        "plant:method": "fission",
+        "plant:output:electricity": "801 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "8036",
+        "start_date": "1974-03",
+        "type": "multipolygon",
+        "wikidata": "Q1739383",
+        "wikipedia": "en:Cooper Nuclear Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6426247,
+          40.3610702
+        ]
+      },
+      "id": "relation/18033169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/19318642",
+        "addr:city": "Petit-Caux",
+        "addr:postcode": "76630",
+        "addr:street": "Route de la centrale",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Penly",
+        "name:en": "Penly Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "operator:wikipedia": "en:Électricité de France",
+        "plant:method": "fission",
+        "plant:output:electricity": "2660 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CNPE de Penly",
+        "start_date": "1990",
+        "type": "multipolygon",
+        "wikidata": "Q1318977",
+        "wikipedia": "fr:Centrale nucléaire de Penly",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2179247,
+          49.9756205
+        ]
+      },
+      "id": "relation/19318642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/19824656",
+        "landuse": "industrial",
+        "name": "Browns Ferry Nuclear Power Plant",
+        "operator": "Tennessee Valley Authority",
+        "operator:short": "TVA",
+        "operator:wikidata": "Q1367577",
+        "plant:method": "fission",
+        "plant:output:electricity": "3567.5 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "46",
+        "start_date": "1967-05",
+        "type": "multipolygon",
+        "wikidata": "Q1650555",
+        "wikipedia": "en:Browns Ferry Nuclear Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1156808,
+          34.7085496
+        ]
+      },
+      "id": "relation/19824656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20011646",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Chooz",
+        "name:en": "Chooz Nuclear Power Plant",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "start_date": "1967",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "wikidata": "Q1739377",
+        "wikipedia": "fr:Centrale nucléaire de Chooz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7924193,
+          50.0907857
+        ]
+      },
+      "id": "relation/20011646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/20240158",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Gravelines",
+        "name:en": "Gravelines Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "operator:wikipedia": "en:Électricité de France",
+        "plant:method": "fission",
+        "plant:output:electricity": "5460 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1975",
+        "type": "multipolygon",
+        "wikidata": "Q1739407",
+        "wikipedia": "fr:Centrale nucléaire de Gravelines",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1376431,
+          51.0152756
+        ]
+      },
+      "id": "relation/20240158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23652365",
+        "alt_name:de": "Kernkraftwerk Tschernobyl „W. I. Lenin“",
+        "alt_name:en": "Chernobyl Nuclear Power Station",
+        "alt_name:fr": "Centrales nucléaires de Tchernobyl",
+        "alt_name:it": "Centrale nucleare di Černobyl'",
+        "alt_name:nb": "Tsjernobyl kjernekraftverk",
+        "alt_name:zh": "切尔诺贝利核电站",
+        "end_date": "2000-12-15",
+        "hazard": "nuclear",
+        "landuse": "industrial",
+        "name": "Чорнобильська Атомна Електростанція",
+        "name:ar": "مفاعل تشيرنوبل",
+        "name:az": "Çernobıl AES",
+        "name:ba": "Чернобыль АЭС-ы",
+        "name:be": "Чарнобыльская АЭС",
+        "name:bg": "Чернобилска АЕЦ",
+        "name:bn": "চেরনোবিল পারমাণবিক বিদ্যুৎ কেন্দ্র",
+        "name:bs": "Černobiljska nuklearna elektrana",
+        "name:ca": "Central nuclear de Txornòbil",
+        "name:cs": "Jaderná elektrárna Černobyl",
+        "name:da": "Tjernobyl-atomkraftværket",
+        "name:de": "Kernkraftwerk Tschornobyl „W. I. Lenin“",
+        "name:el": "Πυρηνικός Σταθμός Παραγωγής Ενέργειας του Τσερνόμπιλ",
+        "name:en": "Chornobyl Nuclear Power Plant",
+        "name:eo": "Nuklea centralo de Ĉernobilo",
+        "name:es": "Central nuclear de Chernóbil",
+        "name:et": "Tšornobõli tuumaelektrijaam",
+        "name:eu": "Txernobylgo zentral nuklearra",
+        "name:fa": "نیروگاه هسته‌ای چرنوبیل",
+        "name:fi": "Tšernobylin ydinvoimalaitos",
+        "name:fr": "Centrales nucléaires de Tchornobyl",
+        "name:he": "תחנת הכוח הגרעינית צ'רנוביל",
+        "name:hi": "चेरनोबिल परमाणु ऊर्जा संयंत्र",
+        "name:hu": "Csernobili atomerőmű",
+        "name:hy": "Չեռնոբիլի ատոմակայան",
+        "name:id": "Pembangkit Listrik Tenaga Nuklir Chernobyl",
+        "name:it": "Centrale nucleare di Čornobyl'",
+        "name:ja": "チェルノブイリ原子力発電所",
+        "name:ka": "ჩერნობილის ატომური ელექტროსადგური",
+        "name:ko": "체르노빌 원자력 발전소",
+        "name:lt": "Černobilio atominė elektrinė",
+        "name:lv": "Čornobiļas atomelektrostacija",
+        "name:ml": "ചെർണോബിൽ ആണവോർജ്ജനിലയം",
+        "name:ms": "Loji Kuasa Nuklear Chornobyl",
+        "name:nb": "Tsjornobyl kjernekraftverk",
+        "name:nl": "Kerncentrale Tsjernobyl",
+        "name:pl": "Czarnobylska Elektrownia Jądrowa",
+        "name:pt": "Usina Nuclear de Chernobil",
+        "name:ro": "Centrala nucleară de la Cernobîl",
+        "name:ru": "Чернобыльская атомная электростанция",
+        "name:sk": "Jadrová elektráreň Černobyl",
+        "name:sl": "Jedrska elektrarna Černobil",
+        "name:sr": "Чернобиљска нуклеарна електрана",
+        "name:sv": "Tjernobyls kärnkraftverk",
+        "name:th": "โรงไฟฟ้านิวเคลียร์เชียร์โนบีล",
+        "name:tr": "Çernobil Nükleer Santrali",
+        "name:uk": "Чорнобильська Атомна Електростанція",
+        "name:vi": "Nhà máy điện hạt nhân Chernobyl",
+        "name:zh": "車諾比核電站",
+        "old_name:en": "V.I. Lenin Nuclear Power Station",
+        "operator": "НАЕК Енергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "0",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name:uk": "ЧАЕС",
+        "source:name:fr": "https://books.google.com.ua/books?id=1KCMtpvYXC4C&pg=PA211&dq=Tchornobyl&hl=uk&sa=X&ved=0ahUKEwiDkry-pvzfAhWJiaYKHQj8C3g4ChDoAQg_MAU#v=onepage&q=Tchornobyl&f=false",
+        "source:name:hu": "https://helyesiras.mta.hu/helyesiras/default/predict?q=Csernobil; http://www.e-nyelv.hu/2009-10-10/csernobil/",
+        "start_date": "1978-05-27",
+        "status": "disused",
+        "wikidata": "Q215419",
+        "wikipedia": "uk:Чорнобильська АЕС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1042742,
+          51.389778
+        ]
+      },
+      "id": "way/23652365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24041917",
+        "addr:city": "Cattenom",
+        "addr:postcode": "57570",
+        "addr:street": "BP 41",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Cattenom",
+        "name:de": "Kernkraftwerk Cattenom",
+        "name:en": "Cattenom Nuclear Power Plant",
+        "name:lb": "Atomkraaftwierk Cattenom",
+        "old_name:de": "Kernkraftwerk Kattenhofen",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "5200 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1986",
+        "wikidata": "Q1371612",
+        "wikipedia": "fr:Centrale nucléaire de Cattenom",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2196706,
+          49.4170589
+        ]
+      },
+      "id": "way/24041917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24400930",
+        "addr:state": "CA",
+        "landuse": "industrial",
+        "name": "Diablo Canyon Power Plant",
+        "name:ar": "محطة ديابلو كانيون للطاقة النووية",
+        "name:de": "Kernkraftwerk Diablo Canyon",
+        "name:es": "Central Nuclear Diablo Canyon",
+        "name:fr": "Centrale nucléaire de Diablo Canyon",
+        "operator": "Pacific Gas and Electric Company",
+        "operator:short": "PG&E",
+        "operator:website": "https://www.pge.com",
+        "operator:wikidata": "Q1815011",
+        "operator:wikipedia": "en:Pacific Gas and Electric Company",
+        "plant:method": "fission",
+        "plant:output:electricity": "2323 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6099",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1985-05",
+        "website": "https://www.pge.com/en_US/safety/how-the-system-works/diablo-canyon-power-plant/diablo-canyon-power-plant.page",
+        "wikidata": "Q1516546",
+        "wikipedia": "en:Diablo Canyon Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8501459,
+          35.2118732
+        ]
+      },
+      "id": "way/24400930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24656911",
+        "name": "Pickering Nuclear Generating Station",
+        "operator": "Ontario Power Generation",
+        "operator:wikidata": "Q1129706",
+        "plant:method": "fission",
+        "plant:output:electricity": "2086 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1971-07-29",
+        "wikidata": "Q1739455",
+        "wikipedia": "en:Pickering Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0632238,
+          43.8111636
+        ]
+      },
+      "id": "way/24656911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24726877",
+        "addr:city": "Budapest",
+        "addr:housenumber": "7-9",
+        "addr:postcode": "1111",
+        "addr:street": "Műegyetem rakpart",
+        "alt_name": "Tanreaktor",
+        "building": "yes",
+        "landuse": "industrial",
+        "name": "TR épület",
+        "name:de": "Gebäude TR",
+        "name:en": "Building TR",
+        "operator": "Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technika Intézete",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "roof:shape": "dome",
+        "source:start_date": "https://egykor.hu/budapest-xi--kerulet/muegyetemi-epuletek/3107",
+        "start_date": "1971",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0583503,
+          47.4789816
+        ]
+      },
+      "id": "way/24726877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26196330",
+        "landuse": "industrial",
+        "name": "Arkansas Nuclear One",
+        "operator": "Entergy Arkansas",
+        "plant:method": "fission",
+        "plant:output:electricity": "1824 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "8055",
+        "start_date": "1974-12",
+        "wikidata": "Q985274",
+        "wikipedia": "en:Arkansas Nuclear One",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2316973,
+          35.3130923
+        ]
+      },
+      "id": "way/26196330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26206102",
+        "landuse": "industrial",
+        "name": "Braidwood Nuclear Generating Station",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "2449.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6022",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1988-07",
+        "wikidata": "Q674107",
+        "wikipedia": "en:Braidwood Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2291965,
+          41.2437027
+        ]
+      },
+      "id": "way/26206102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26504079",
+        "int_name": "Olkiluoto Nuclear Plant",
+        "landuse": "industrial",
+        "name": "Olkiluodon ydinvoimalaitos",
+        "name:de": "Kernkraftwerk Olkiluoto",
+        "name:en": "Olkiluoto Nuclear Plant",
+        "name:fi": "Olkiluodon ydinvoimalaitos",
+        "name:it": "Central Nucleare di Olkiluoto",
+        "name:sv": "Olkiluoto kärnkraftverk",
+        "name:zh": "奥尔基洛托核电站",
+        "operator": "Teollisuuden Voima",
+        "operator:wikidata": "Q2913670",
+        "operator:wikipedia": "fi:Teollisuuden Voima",
+        "plant:method": "fission",
+        "plant:output:electricity": "3380 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1412996",
+        "wikipedia": "fi:Olkiluodon ydinvoimalaitos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4385319,
+          61.2373515
+        ]
+      },
+      "id": "way/26504079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27625744",
+        "addr:postcode": "IP16 4UR",
+        "landuse": "industrial",
+        "name": "Sizewell B Nuclear Power Station",
+        "operator": "EDF Energy",
+        "operator:wikidata": "Q3045865",
+        "plant:method": "fission",
+        "plant:output:electricity": "1195 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1995",
+        "wikidata": "Q104946709",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6188936,
+          52.2143975
+        ]
+      },
+      "id": "way/27625744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28706177",
+        "addr:city": "Tonopah",
+        "addr:state": "AZ",
+        "barrier": "fence",
+        "frequency": "60",
+        "landuse": "industrial",
+        "name": "Palo Verde Nuclear Generating Station",
+        "operator": "Arizona Public Service",
+        "operator:wikidata": "Q1242804",
+        "plant:method": "fission",
+        "plant:output:electricity": "3937 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6008",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2019",
+        "start_date": "1986-04-24",
+        "voltage": "500000",
+        "wikidata": "Q1508667",
+        "wikipedia": "en:Palo Verde Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8647563,
+          33.386522
+        ]
+      },
+      "id": "way/28706177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28877213",
+        "alt_name:en": "Zaporozhye Nuclear Power Plant",
+        "alt_name:fr": "Centrale nucléaire de Zaporijia",
+        "description": "[TEMPORARILY OCCUPIED BY THE RUSSIAN FEDERATION] Reactors: 6 Reactor type: PWR Reactor supplier: Atomstroyexport Cooling towers: 2 Cooling source: Kakhovka Reservoir Thermal capacity: 6 × 3000 MWth",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kernkraftwerk_Saporischschja.JPG",
+        "landuse": "industrial",
+        "name": "Запорізька АЕС",
+        "name:ar": "محطة زاباروجيا للطاقة النووية",
+        "name:be": "Запарожская АЭС",
+        "name:bg": "Запорожка АЕЦ",
+        "name:bn": "জাপোরিজিয়া পারমাণবিক বিদ্যুৎ কেন্দ্র",
+        "name:ca": "Central nuclear de Zaporíjia",
+        "name:cs": "Záporožská jaderná elektrárna",
+        "name:cy": "Atomfa Zaporizhzhia",
+        "name:da": "Zaporizjzja atomkraftværk",
+        "name:de": "Kernkraftwerk Saporischschja",
+        "name:el": "Πυρηνικός σταθμός Ζαπορίζια",
+        "name:en": "Zaporizhzhia Nuclear Power Plant",
+        "name:es": "Central Nuclear de Zaporizhia",
+        "name:et": "Zaporižžja tuumaelektrijaam",
+        "name:eu": "Zaporizhiako zentral nuklearra",
+        "name:fa": "نیروگاه هسته‌ای زاپوریژیا",
+        "name:fi": "Zaporižžjan ydinvoimalaitos",
+        "name:fr": "Centrale nucléaire de Zaporijjia",
+        "name:he": "תחנת הכוח הגרעינית זפוריז'יה",
+        "name:hi": "ज़ापोरिज़्ज़िया परमाणु ऊर्जा संयंत्र",
+        "name:hr": "Nuklearna elektrana Zaporižja",
+        "name:hu": "Zaporizzsjai atomerőmű",
+        "name:id": "Pembangkit Listrik Tenaga Nuklir Zaporizhia",
+        "name:it": "Centrale nucleare di Zaporižžja",
+        "name:ja": "ザポリージャ原子力発電所",
+        "name:ka": "ზაპორიჟიის ატომური ელექტროსადგური",
+        "name:ko": "자포리자 원자력 발전소",
+        "name:la": "Ergasterium atomicum Zaporizhiense",
+        "name:lt": "Zaporožės AE",
+        "name:lv": "Zaporižjas atomelektrostacija",
+        "name:ms": "Loji Kuasa Nuklear Zaporizhzhia",
+        "name:mt": "Impjant Nukleari ta' Zaporizhzhia",
+        "name:nb": "Zaporizjzja kjernekraftverk",
+        "name:nl": "Kerncentrale Zaporizja",
+        "name:pl": "Zaporoska Elektrownia Jądrowa",
+        "name:pt": "Usina Nuclear de Zaporíjia",
+        "name:ro": "Centrala nucleară Zaporije",
+        "name:ru": "Запорожская АЭС",
+        "name:sk": "Záporožská jadrová elektráreň",
+        "name:sl": "Jedrska elektrarna Zaporožje",
+        "name:sr": "Нуклеарна електрана Запорожје",
+        "name:sv": "Zaporizjzjas kärnkraftverk",
+        "name:ta": "சப்போரிசுக்கா அணுமின் நிலையம்",
+        "name:th": "โรงไฟฟ้านิวเคลียร์ซาปอริฌเฌีย",
+        "name:tr": "Zaporijya Nükleer Santrali",
+        "name:uk": "Запорізька АЕС",
+        "name:vi": "Nhà máy điện hạt nhân Zaporizhzhia",
+        "name:zh": "札波羅熱核電廠",
+        "operator": "НАЕК \"Енергоатом\"",
+        "plant:method": "fission",
+        "plant:output:electricity": "5700 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "ЗАЕС",
+        "short_name:en": "ZNPP",
+        "short_name:ru": "ЗАЭС",
+        "start_date": "1985-12-25",
+        "wikidata": "Q909477",
+        "wikipedia": "uk:Запорізька АЕС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5878505,
+          47.5104452
+        ]
+      },
+      "id": "way/28877213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28878631",
+        "landuse": "industrial",
+        "name": "Хмельницька атомна електростанція",
+        "name:en": "Khmelnytskyi Nuclear Power Plant",
+        "name:uk": "Хмельницька атомна електростанція",
+        "plant:method": "fission",
+        "plant:output:electricity": "2000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1037144",
+        "wikipedia": "uk:Хмельницька АЕС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.647958,
+          50.3019805
+        ]
+      },
+      "id": "way/28878631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28878854",
+        "name": "Рівненська АЕС",
+        "name:de": "Kernkraftwerk Riwne",
+        "name:en": "Rivne Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Rovno",
+        "name:it": "Centrale nucleare di Rìvnens’ka",
+        "name:pl": "Elektrownia Jądrowa Równe",
+        "name:ru": "Ровенская АЭС",
+        "name:uk": "Рівненська АЕС",
+        "operator": "НАЕК Енергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "2.835 GW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "ВП РАЕС ДП НАЕК \"Енергоатом\"",
+        "start_date": "1981-09-21",
+        "wikidata": "Q301915",
+        "wikipedia": "uk:Рівненська атомна електростанція",
+        "wikipedia:ru": "Ровенская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8968651,
+          51.3252634
+        ]
+      },
+      "id": "way/28878854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28939657",
+        "landuse": "industrial",
+        "name": "田湾核电站",
+        "name:de": "Kernkraftwerk Tianwan",
+        "name:en": "Tianwan Nuclear Power Station",
+        "name:fr": "Centrale nucléaire de Tianwan",
+        "name:ja": "田湾原子力発電所",
+        "name:ru": "Тянваньская АЭС",
+        "name:zh": "田湾核电站",
+        "name:zh-Hant": "田灣核電站",
+        "operator": "江苏核电有限公司",
+        "operator:en": "Jiangsu Nuclear Power Corporation",
+        "plant:method": "fission",
+        "plant:output:electricity": "5890 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739478",
+        "wikipedia": "en:Tianwan Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4544862,
+          34.6881306
+        ]
+      },
+      "id": "way/28939657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30090162",
+        "disused": "yes",
+        "disused:power": "plant",
+        "end_date": "1984",
+        "generator:output:electricity": "0",
+        "generator:source": "nuclear",
+        "landuse": "industrial",
+        "name": "Lemoizko zentral nuklearra",
+        "name:en": "Lemoniz Nuclear Power Plant",
+        "name:es": "Central nuclear de Lemoiz",
+        "name:eu": "Lemoizko zentral nuklearra",
+        "name:fr": "Centrale nucléaire de Lemoiz",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1972",
+        "wikidata": "Q1520384",
+        "wikipedia": "eu:Lemoizko zentral nuklearra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8728296,
+          43.4326295
+        ]
+      },
+      "id": "way/30090162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39899843",
+        "landuse": "industrial",
+        "name": "South Texas Project Electric Generating Station",
+        "operator": "South Texas Project Nuclear Operating Company",
+        "owner": "Austin Energy; CPS Energy; NRG Energy",
+        "plant:method": "fission",
+        "plant:output:electricity": "2708.6 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6251",
+        "short_name": "STP",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2020",
+        "start_date": "1988-08",
+        "wikidata": "Q371357",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0479122,
+          28.7953553
+        ]
+      },
+      "id": "way/39899843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41289744",
+        "contact:website": "http://rosenergoatom.ru/wps/wcm/connect/rosenergoatom_copy/ronpp/",
+        "name": "Ростовская АЭС",
+        "operator": "Росэнергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "4000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2001-03-30",
+        "wikidata": "Q1739463",
+        "wikipedia": "ru:Ростовская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3783658,
+          47.6010898
+        ]
+      },
+      "id": "way/41289744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41764784",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Civaux",
+        "name:en": "Civaux Nuclear Power Plant",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "2900 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1997",
+        "tourism": "attraction",
+        "wikidata": "Q1739375",
+        "wikipedia": "fr:Centrale nucléaire de Civaux",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6522588,
+          46.4534996
+        ]
+      },
+      "id": "way/41764784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42013419",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Golfech",
+        "name:en": "Golfech Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "2620 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "Union européenne - SOeS, CORINE Land Cover, 2006",
+        "start_date": "1990",
+        "tourism": "attraction",
+        "wikidata": "Q1465285",
+        "wikipedia": "fr:Centrale nucléaire de Golfech",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8469585,
+          44.1075423
+        ]
+      },
+      "id": "way/42013419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42015753",
+        "landuse": "industrial",
+        "name": "Centrale nucléaire de Saint-Laurent des Eaux",
+        "name:en": "Saint-Laurent Nuclear Power Plant",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "1800 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "Union européenne - SOeS, CORINE Land Cover, 2006.",
+        "start_date": "1983",
+        "wikidata": "Q644493",
+        "wikipedia": "fr:Centrale nucléaire de Saint-Laurent-des-Eaux",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5811841,
+          47.7196371
+        ]
+      },
+      "id": "way/42015753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42017156",
+        "attraction": "tourism",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité du Bugey",
+        "name:en": "Bugey Nuclear Power Plant",
+        "official_name": "Ce",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3580 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CNPE du Bugey",
+        "source": "energie.edf.com",
+        "start_date": "1979",
+        "wikidata": "Q1186009",
+        "wikipedia": "fr:Centrale nucléaire du Bugey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2688623,
+          45.799453
+        ]
+      },
+      "id": "way/42017156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43103844",
+        "landuse": "industrial",
+        "name": "Millstone Nuclear Power Plant",
+        "operator": "Dominion Energy Nuclear Conn Inc",
+        "plant:method": "fission",
+        "plant:output:electricity": "2162.9 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "566",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1975-12",
+        "wikidata": "Q2944605",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1679764,
+          41.3124968
+        ]
+      },
+      "id": "way/43103844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43929754",
+        "landuse": "industrial",
+        "name": "Dresden Generating Station",
+        "operator": "Exelon",
+        "operator:wikidata": "Q1383669",
+        "operator:wikipedia": "en:Exelon",
+        "plant:method": "fission",
+        "plant:output:electricity": "1700 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "869",
+        "start_date": "1970-08",
+        "wikidata": "Q1516283",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2683493,
+          41.3897171
+        ]
+      },
+      "id": "way/43929754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48906740",
+        "landuse": "industrial",
+        "name": "Балаковская АЭС",
+        "official_name": "Балаковская атомная электростанция",
+        "operator": "Росэнергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "4 GW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "БалАЭС",
+        "start_date": "1985-12-28",
+        "wikidata": "Q1739356",
+        "wikipedia": "ru:Балаковская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9565336,
+          52.0909993
+        ]
+      },
+      "id": "way/48906740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50014796",
+        "addr:city": "Saint-Maurice-l'Exil",
+        "addr:postcode": "38550",
+        "addr:street": "Route de la Centrale",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Saint-Alban",
+        "name:en": "Saint-Alban Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:output:electricity": "2670 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1985",
+        "tourism": "attraction",
+        "wikidata": "Q2409863",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7538521,
+          45.4074841
+        ]
+      },
+      "id": "way/50014796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64728686",
+        "addr:city": "Léré",
+        "addr:postcode": "18240",
+        "addr:street": "BP 11",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Belleville-sur-Loire",
+        "name:en": "Belleville Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "2620 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "start_date": "1980",
+        "tourism": "attraction",
+        "wikidata": "Q1645882",
+        "wikipedia": "fr:Centrale nucléaire de Belleville",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8765706,
+          47.508829
+        ]
+      },
+      "id": "way/64728686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/66481386",
+        "landuse": "industrial",
+        "name": "Central Nuclear de Trillo",
+        "name:ast": "Central nuclear de Trillo",
+        "operator": "Centrales Nucleares Almaraz-Trillo",
+        "plant:method": "fission",
+        "plant:output:electricity": "1003 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "18WTRL1-12345-0Y",
+        "start_date": "1988",
+        "wikidata": "Q1739484",
+        "wikipedia": "es:Central nuclear de Trillo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6246575,
+          40.7005446
+        ]
+      },
+      "id": "way/66481386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75723545",
+        "addr:city": "Cruas",
+        "addr:postcode": "07350",
+        "addr:street": "BP 30",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Cruas-Meysse",
+        "name:en": "Cruas Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3660 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1983",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7552896,
+          44.6323924
+        ]
+      },
+      "id": "way/75723545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80230741",
+        "landuse": "industrial",
+        "name": "Forsmarks Kärnkraftverk",
+        "operator": "Forsmarks Kraftgrupp",
+        "plant:method": "fission",
+        "plant:output:electricity": "3271 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1980",
+        "wikidata": "Q1575435",
+        "wikipedia": "sv:Forsmarks kärnkraftverk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1675322,
+          60.4037809
+        ]
+      },
+      "id": "way/80230741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84509116",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Columbia Generating Station",
+        "operator": "Energy Northwest",
+        "plant:method": "fission",
+        "plant:output:electricity": "1200 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "371",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1984-12",
+        "wikidata": "Q1516618",
+        "wikipedia": "en:Columbia Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3332294,
+          46.4720244
+        ]
+      },
+      "id": "way/84509116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86473260",
+        "landuse": "industrial",
+        "name": "PSEG Salem and Hope Creek Nuclear Generating Stations",
+        "operator": "Public Service Enterprise Group",
+        "operator:wikidata": "Q930919",
+        "plant:method": "fission",
+        "plant:output:electricity": "3470 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "2410;6118",
+        "start_date": "1971-06",
+        "website": "https://www.nrc.gov/info-finder/region-state/new-jersey.html",
+        "wikidata": "Q1516276",
+        "wikipedia": "en:Hope Creek Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5300247,
+          39.4660793
+        ]
+      },
+      "id": "way/86473260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87788958",
+        "hazard": "nuclear",
+        "landuse": "industrial",
+        "name": "Kernenergiecentrale Borssele",
+        "name:en": "Borssele Nuclear Power Station",
+        "name:nl": "Kernenergiecentrale Borssele",
+        "operator": "EPZ",
+        "plant:method": "fission",
+        "plant:output:electricity": "485 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1973",
+        "wikidata": "Q1381790",
+        "wikipedia": "nl:Kerncentrale Borssele",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7191785,
+          51.4317955
+        ]
+      },
+      "id": "way/87788958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89556130",
+        "landuse": "industrial",
+        "name": "D.C. Cook Nuclear Power Plant",
+        "operator": "Indiana Michigan Power",
+        "plant:method": "fission",
+        "plant:output:electricity": "2285.3 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6000",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1975-08",
+        "wikidata": "Q605091",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5654647,
+          41.9758132
+        ]
+      },
+      "id": "way/89556130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89819245",
+        "addr:city": "Krško",
+        "addr:housenumber": "16",
+        "addr:postcode": "8270",
+        "addr:street": "Vrbina",
+        "barrier": "fence",
+        "fence_type": "barbed_wire",
+        "landuse": "industrial",
+        "name": "NE Krško",
+        "name:de": "Kernkraftwerk Krško",
+        "name:en": "Krško Nuclear Power Plant",
+        "name:hr": "Nuklearna elektrana Krško",
+        "name:sl": "Nuklearna elektrarna Krško",
+        "official_name": "Nuklearna elektrarna Krško",
+        "operator": "NEK d.o.o.",
+        "plant:method": "fission",
+        "plant:output:electricity": "688 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "NEK",
+        "website": "https://www.nek.si/",
+        "wikidata": "Q474478",
+        "wikipedia": "en:Krško Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5159575,
+          45.9376648
+        ]
+      },
+      "id": "way/89819245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91104903",
+        "addr:postcode": "EH42 1QS",
+        "barrier": "fence",
+        "contact:phone": "+44 1368 873000",
+        "landuse": "industrial",
+        "name": "Torness Nuclear Power Station",
+        "operator": "EDF Energy",
+        "planned:end_date": "2030-03",
+        "plant:method": "fission",
+        "plant:output:electricity": "1364 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "Bing",
+        "start_date": "1988-05-25",
+        "website": "https://www.edfenergy.com/about-us/energy-generation/nuclear-generation/nuclear-power-stations/torness.shtml",
+        "wikidata": "Q1466261",
+        "wikipedia": "en:Torness Nuclear Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4088084,
+          55.9683842
+        ]
+      },
+      "id": "way/91104903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95949886",
+        "landuse": "industrial",
+        "name": "Central Nuclear Laguna Verde",
+        "operator": "Comisión Federal de Electricidad",
+        "operator:wikidata": "Q1114680",
+        "plant:method": "fission",
+        "plant:output:electricity": "1552 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q371499",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4104272,
+          19.7216547
+        ]
+      },
+      "id": "way/95949886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98366375",
+        "hazard": "nuclear",
+        "landuse": "industrial",
+        "name": "Madras Atomic Power Station",
+        "name:fr": "Centrale nucléaire de Madras",
+        "name:ml": "ചെന്നൈ ആണവനിലയം",
+        "name:ta": "சென்னை அணுமின் நிலையம்",
+        "plant:method": "fission",
+        "plant:output:electricity": "440 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1984",
+        "wikidata": "Q972715",
+        "wikipedia": "en:Madras Atomic Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1723948,
+          12.5570495
+        ]
+      },
+      "id": "way/98366375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102427749",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Ленинградская АЭС-2",
+        "name:en": "Leningrad Nuclear Power Plant II",
+        "name:et": "Leningradi II tuumaelektrijaam",
+        "name:fr": "Centrale nucléaire de Leningrad II",
+        "name:uk": "Ленінградська АЕС-2",
+        "plant:method": "fission",
+        "plant:output:electricity": "2167 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2018",
+        "wikidata": "Q1739434",
+        "wikipedia": "ru:Ленинградская АЭС-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0587627,
+          59.829343
+        ]
+      },
+      "id": "way/102427749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103783431",
+        "access": "private",
+        "alt_name": "Fukushima Daiichi",
+        "alt_name:ja": "福島第一原発",
+        "alt_name:ko": "후쿠시마 원자력 발전소",
+        "disused": "yes",
+        "end_date": "2014-01-31",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Fukushima_Daiichi_04780015_(8388174045).jpg",
+        "landuse": "industrial",
+        "military": "danger_area",
+        "name": "旧福島第一原子力発電所",
+        "name:af": "Fukushima-Daiichi-kernaanleg",
+        "name:ar": "محطة فوكوشيما النووية الأولى لتوليد الطاقة",
+        "name:az": "Fukuşima-1 AES",
+        "name:bg": "АЕЦ „Фукушима I“",
+        "name:bn": "ফুকুশিমা দাইইচি পরমাণু বিদ্যুৎ কেন্দ্র",
+        "name:ca": "Central nuclear de Fukushima Dai-ichi",
+        "name:cs": "Jaderná elektrárna Fukušima I",
+        "name:cv": "Фукусима-1",
+        "name:da": "Fukushima I atomkraftværk",
+        "name:de": "Kernkraftwerk Fukushima Daiichi",
+        "name:en": "Fukushima I Nuclear Power Plant",
+        "name:eo": "Nuklea centralo Fukuŝimo 1",
+        "name:es": "Central nuclear Fukushima I",
+        "name:et": "Fukushima I tuumaelektrijaam",
+        "name:eu": "Fukushima I zentral nuklearra",
+        "name:fa": "نیروگاه هسته‌ای شماره یک فوکوشیما",
+        "name:fi": "Fukushima I -ydinvoimalaitos",
+        "name:fr": "Centrale nucléaire de Fukushima Daiichi",
+        "name:he": "תחנת הכוח הגרעינית פוקושימה 1",
+        "name:hr": "Nuklearna elektrana Fukushima 1",
+        "name:hu": "Fukusima Daiicsi atomerőmű",
+        "name:id": "Pembangkit Listrik Tenaga Nuklir Fukushima I",
+        "name:it": "Centrale nucleare di Fukushima Dai-ichi",
+        "name:ja": "旧福島第一原子力発電所",
+        "name:ja-Hira": "きゅうふくしまだいいちげんしりょくはつでんしょ",
+        "name:ja-Latn": "Fukushima daiichi genshiryoku hatsudensho",
+        "name:ko": "후쿠시마 제1 원자력 발전소",
+        "name:ky": "Фукусима Дайичи, өзөктүк кубат ишканасы",
+        "name:lt": "Fukušimos I atominė elektrinė",
+        "name:ml": "ഫുക്കുഷിമ ആണവവൈദ്യുതനിലയങ്ങൾ",
+        "name:mr": "फुकुशिमा १ अणुऊर्जा प्रकल्प",
+        "name:ms": "Loji Kuasa Nuklear Fukushima I",
+        "name:my": "ဖူကုရှိမ အမှတ် ၁ နျူကလီးယား ဓာတ်အားပေးစက်ရုံ",
+        "name:nb": "Fukushima I kjernekraftverk",
+        "name:nl": "Kernenergiecentrale Fukishima I",
+        "name:nn": "Fukushima I kjernekraftverk",
+        "name:pl": "Elektrownia atomowa Fukushima nr 1",
+        "name:pt": "Central Nuclear de Fukushima I",
+        "name:ru": "АЭС Фукусима-1",
+        "name:sk": "Atómová elektráreň Fukušima jeden",
+        "name:sr": "Нуклеарна електрана Фукушима I",
+        "name:sv": "Fukushima I",
+        "name:ta": "புக்குஷிமா டா இச்சி அணு உலை",
+        "name:th": "โรงไฟฟ้านิวเคลียร์ฟูกูชิมะแห่งที่หนึ่ง",
+        "name:tr": "Fukuşima I Nükleer Santrali",
+        "name:uk": "Фукусімська АЕС-1",
+        "name:uz": "Fukushima 1 Atom elektr stansiyasi",
+        "name:vi": "Nhà máy điện hạt nhân Fukushima I",
+        "name:zh": "旧福岛第一核电站",
+        "name:zh-Hans": "旧福岛第一核电站",
+        "name:zh-Hant": "舊福島第一核電廠",
+        "operator": "東京電力",
+        "operator:en": "Tokyo Electric Power Company",
+        "operator:ja": "東京電力",
+        "operator:short": "東電",
+        "operator:wikidata": "Q333894",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "DigitalGlobe",
+        "start_date": "1971-03-26",
+        "wikidata": "Q114295",
+        "wikimedia_commons": "Category:Fukushima I Nuclear Power Plant",
+        "wikipedia": "ja:福島第一原子力発電所",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.029742,
+          37.4227248
+        ]
+      },
+      "id": "way/103783431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104409614",
+        "alt_name:en": "Fukushima Daini",
+        "alt_name:ko": "후쿠시마 원자력 발전소",
+        "landuse": "industrial",
+        "name": "福島第二原子力発電所",
+        "name:de": "Kernkraftwerk Fukushima II",
+        "name:en": "Fukushima II Nuclear Power Plant",
+        "name:et": "Fukushima II tuumaelektrijaam",
+        "name:fr": "Centrale nucléaire de Fukushima Daini",
+        "name:it": "Centrale nucleare di Fukushima Dai-ni",
+        "name:ja": "福島第二原子力発電所",
+        "name:ja-Hira": "ふくしまだいにげんしりょくはつでんしょ",
+        "name:ja-Latn": "Fukushima daini genshiryoku hatsudensho",
+        "name:ko": "후쿠시마 제2 원자력 발전소",
+        "name:pl": "Elektrownia atomowa Fukushima nr 2",
+        "name:uk": "Фукусімська АЕС-2",
+        "operator": "Tōkyō Denryoku Kabushiki-kaisha",
+        "plant:method": "fission",
+        "plant:output:electricity": "4400 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q838816",
+        "wikipedia": "en:Fukushima Daini Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0221696,
+          37.3161165
+        ]
+      },
+      "id": "way/104409614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104567860",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Narora Atomic Power Station",
+        "name:fr": "centrale nucléaire de Narora",
+        "plant:method": "fission",
+        "plant:output:electricity": "440 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1312991",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4079725,
+          28.1553228
+        ]
+      },
+      "id": "way/104567860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107986168",
+        "alt_name": "САЭС",
+        "int_name": "Smolensk NPP",
+        "landuse": "industrial",
+        "name": "Смоленская АЭС",
+        "name:de": "Kernkraftwerk Smolensk",
+        "plant:method": "fission",
+        "plant:output:electricity": "3000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739474",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2349097,
+          54.1634839
+        ]
+      },
+      "id": "way/107986168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108347616",
+        "landuse": "industrial",
+        "name": "Limerick Nuclear Power Plant",
+        "operator": "Exelon Generation Co., LLC",
+        "plant:method": "fission",
+        "plant:output:electricity": "2277 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6105",
+        "source": "Bing",
+        "start_date": "1986-02",
+        "website": "https://www.exeloncorp.com/powerplants/limerick/Pages/profile.aspx",
+        "wikidata": "Q1516266",
+        "wikipedia": "en:Limerick Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5868425,
+          40.2265374
+        ]
+      },
+      "id": "way/108347616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115880550",
+        "landuse": "industrial",
+        "name": "泊発電所",
+        "name:de": "Kernkraftwerk Tomari",
+        "name:en": "Tomari Nuclear Power Plant",
+        "plant:method": "fission",
+        "plant:output:electricity": "2070 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "泊",
+        "wikidata": "Q367676",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.512148,
+          43.0362169
+        ]
+      },
+      "id": "way/115880550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117681050",
+        "landuse": "industrial",
+        "name": "Byron Nuclear Power Plant",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "2449.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6023",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1985-09",
+        "wikidata": "Q1247509",
+        "wikipedia": "en:Byron Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2826666,
+          42.075349
+        ]
+      },
+      "id": "way/117681050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120652193",
+        "addr:city": "Burlington",
+        "addr:housenumber": "1550",
+        "addr:postcode": "66839",
+        "addr:state": "KS",
+        "addr:street": "Oxen Lane",
+        "landuse": "industrial",
+        "name": "Wolf Creek Generating Station",
+        "operator": "Wolf Creek Nuclear Optg Corp",
+        "plant:method": "fission",
+        "plant:output:electricity": "1267.7 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "210",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1985-09-03",
+        "website": "http://www.wolfcreeknuclear.com/",
+        "wikidata": "Q163911",
+        "wikipedia": "en:Wolf Creek Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6874244,
+          38.2391422
+        ]
+      },
+      "id": "way/120652193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120926088",
+        "landuse": "industrial",
+        "name": "Catawba Nuclear Station",
+        "operator": "Duke Energy",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "2410.2 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6036",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1985-06",
+        "wikidata": "Q1517795",
+        "wikipedia": "en:Catawba Nuclear Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0716461,
+          35.053466
+        ]
+      },
+      "id": "way/120926088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122445718",
+        "landuse": "industrial",
+        "name": "Seabrook Station",
+        "operator": "NextEra Energy",
+        "operator:wikidata": "Q967868",
+        "plant:method": "fission",
+        "plant:output:electricity": "1242 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6115",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1990-08",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8550479,
+          42.8978448
+        ]
+      },
+      "id": "way/122445718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124333766",
+        "addr:city": "Las Condes",
+        "addr:housenumber": "12501",
+        "addr:street": "Nueva Bilbao",
+        "landuse": "industrial",
+        "name": "Centro de Estudios Nucleares La Reina",
+        "operator": "Ministerio de Energía",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CEN La Reina",
+        "source": "https://www.cchen.cl/",
+        "start_date": "1967",
+        "wikidata": "Q7068065",
+        "wikipedia": "es:Energía nuclear en Chile",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5245094,
+          -33.4286113
+        ]
+      },
+      "id": "way/124333766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125338442",
+        "landuse": "industrial",
+        "name": "Central nuclear de Almaraz",
+        "operator": "Centrales Nucleares Almaraz-Trillo",
+        "plant:method": "fission",
+        "plant:output:electricity": "1957 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1983",
+        "wikidata": "Q1431041",
+        "wikipedia": "es:Central nuclear de Almaraz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6960831,
+          39.8076303
+        ]
+      },
+      "id": "way/125338442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126986991",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/b/b2/Cofrentes_nuclear_power_plant_-_General_view.JPG",
+        "landuse": "industrial",
+        "name": "Central Nuclear de Cofrentes",
+        "name:ca": "Central nuclear de Cofrents",
+        "name:de": "Kernkraftwerk Cofrentes",
+        "name:en": "Cofrentes Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Cofrentes",
+        "name:it": "Centrale nucleare di Cofrentes",
+        "name:no": "Cofrentes kjernekraftverk",
+        "operator": "Iberdrola",
+        "operator:wikidata": "Q1437502",
+        "operator:wikipedia": "es:Iberdrola",
+        "plant:method": "fission",
+        "plant:output:electricity": "1092 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "18WCOF1-12345-0O",
+        "start_date": "1984",
+        "wikidata": "Q1715858",
+        "wikipedia": "es:Central nuclear de Cofrentes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0547093,
+          39.214621
+        ]
+      },
+      "id": "way/126986991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132511267",
+        "landuse": "industrial",
+        "name": "Centrala Nucleară de la Cernavodă",
+        "name:de": "Kernkraftwerk Cernavodă 1",
+        "name:en": "Cernavodă Nuclear Power Plant",
+        "name:es": "Central Nuclear de Cernavodă",
+        "name:fr": "Centrale nucléaire de Cernavodă",
+        "name:it": "Centrale nucleare di Cernavodă",
+        "name:no": "Cernavodă kjernekraftverk",
+        "name:pl": "Elektrownia Jądrowa Cernavodă",
+        "name:ro": "Centrala Nucleară de la Cernavodă",
+        "name:uk": "АЕС Чорнавода",
+        "plant:method": "fission",
+        "plant:output:electricity": "1274 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "30W-CERNAVODA--E",
+        "wikidata": "Q1248956",
+        "wikipedia": "en:Cernavodă Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0558447,
+          44.3209608
+        ]
+      },
+      "id": "way/132511267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139892821",
+        "addr:city": "Clinton",
+        "addr:housenumber": "8401",
+        "addr:postcode": "61727",
+        "addr:state": "IL",
+        "addr:street": "Power Road",
+        "alt_name": "Clinton Power Plant",
+        "check_date": "2025-04-13",
+        "landuse": "industrial",
+        "name": "Clinton Clean Energy Center",
+        "old_name": "Clinton Power Station",
+        "operator": "Constellation Energy",
+        "phone": "+1-217-937-4205",
+        "plant:method": "fission",
+        "plant:output:electricity": "1138.3 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "204",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1987-11",
+        "wikidata": "Q1739379",
+        "wikipedia": "en:Clinton Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8361963,
+          40.1739405
+        ]
+      },
+      "id": "way/139892821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141414135",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Kakrapar Atomic Power Station",
+        "name:fr": "Centrale nucléaire de Kakrapar",
+        "plant:method": "fission",
+        "plant:output:electricity": "1140 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739415",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3535557,
+          21.234989
+        ]
+      },
+      "id": "way/141414135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147711211",
+        "addr:city": "Курчатов",
+        "addr:country": "RU",
+        "barrier": "wall",
+        "contact:website": "https://www.rosenergoatom.ru/stations_projects/sayt-kurskoy-aes/",
+        "full_name": "Курская атомная электростанция",
+        "generator:source": "nuclear",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Курская_АЭС.JPG",
+        "int_name": "Kurskaya AES",
+        "landuse": "industrial",
+        "name": "Курская АЭС",
+        "name:ar": "محطة كورسك للطاقة النووية",
+        "name:cs": "Kurská jaderná elektrárna",
+        "name:de": "Kernkraftwerk Kursk",
+        "name:en": "Kursk Nuclear Power Plant",
+        "name:es": "Central nuclear de Kursk",
+        "name:et": "Kurski tuumaelektrijaam",
+        "name:fa": "نیروگاه هسته‌ای کورسک",
+        "name:fi": "Kurskin ydinvoimalaitos",
+        "name:fr": "Centrale nucléaire de Koursk",
+        "name:he": "תחנת הכוח הגרעינית קורסק",
+        "name:it": "Centrale nucleare di Kursk",
+        "name:ja": "クルスク原子力発電所",
+        "name:nl": "Kerncentrale Koersk",
+        "name:no": "Kursk kjernekraftverk",
+        "name:pt": "Central nuclear de Kursk",
+        "name:sv": "Kursks kärnkraftverk",
+        "name:uk": "Курська АЕС",
+        "operator": "АО «Концерн Росэнергоатом»",
+        "plant:method": "fission",
+        "plant:output:electricity": "2000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "КАЭС;КуАЭС;",
+        "source": "Bing",
+        "start_date": "1976-12-19",
+        "wikidata": "Q1739436",
+        "wikipedia": "ru:Курская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6040337,
+          51.6775878
+        ]
+      },
+      "id": "way/147711211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152627181",
+        "landuse": "industrial",
+        "name": "Kaiga Atomic Power Station",
+        "name:fr": "Centrale nucléaire de Kaiga",
+        "name:kn": "ಕೈಗ ಪರಮಾಣು ವಿದ್ಯುತ್‌ ಸ್ಥಾವರ",
+        "plant:method": "fission",
+        "plant:output:electricity": "880 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739416",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4383179,
+          14.8661137
+        ]
+      },
+      "id": "way/152627181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152944370",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Palisades Nuclear Generating Station",
+        "note": "In the process of being refueled and NRC License application pending to begin operation again (as of Oct. 2023). They announced plan to operable/critical in 2025. Wolverine Power Co-op has a majority power purchase agreement in place.",
+        "operator": "Holtec International",
+        "operator:wikidata": "Q16879913",
+        "plant:output:electricity": "811.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "1715",
+        "source": "U.S. Energy Information Administration - EIA-860m - 2025",
+        "start_date": "1972-03",
+        "was:operator": "Entergy Nuclear Palisades LLC",
+        "wikidata": "Q533357",
+        "wikipedia": "en:Palisades Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3144626,
+          42.3222624
+        ]
+      },
+      "id": "way/152944370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157471225",
+        "landuse": "industrial",
+        "name": "АЕЦ Козлодуй",
+        "name:de": "Kernkraftwerk Kosloduj",
+        "name:fr": "Centrale nucléaire de Kozlodouy",
+        "name:ro": "Centrala Nucleară de la Kozlodui",
+        "name:uk": "АЕС Козлодуй",
+        "plant:method": "fission",
+        "plant:output:electricity": "2000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:EU:ENTSOE_EIC": "32W001100100217D",
+        "wikidata": "Q1032792",
+        "wikipedia": "de:Kernkraftwerk Kosloduj",
+        "wikipedia:ro": "Centrala nucleară de la Kozlodui",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7750929,
+          43.7426713
+        ]
+      },
+      "id": "way/157471225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161552118",
+        "addr:city": "Oswego",
+        "addr:housenumber": "348",
+        "addr:postcode": "13126",
+        "addr:state": "NY",
+        "addr:street": "Lake Road",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Nine Mile Point Nuclear Generating Station",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "2019 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "2589",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2020",
+        "start_date": "1969-12",
+        "wikidata": "Q654974",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4081855,
+          43.5206241
+        ]
+      },
+      "id": "way/161552118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168936362",
+        "addr:state": "PA",
+        "ele": "30",
+        "gnis:feature_id": "1212754",
+        "landuse": "industrial",
+        "name": "Peach Bottom Power Plant",
+        "name:fr": "centrale nucléaire de Peach Bottom",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "2658 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "3166",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2019",
+        "wikidata": "Q1535402",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2683135,
+          39.7590394
+        ]
+      },
+      "id": "way/168936362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172644773",
+        "name": "玄海原子力発電所",
+        "name:en": "Genkai Nuclear Power Plant",
+        "name:ja": "玄海原発",
+        "operator": "九州電力",
+        "operator:en": "Kyushu Electric Power Company",
+        "operator:ja": "九州電力株式会社",
+        "operator:short": "九州電力",
+        "operator:wikidata": "Q694507",
+        "plant:method": "fission",
+        "plant:output:electricity": "3.478 GW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1975-10-15",
+        "wikidata": "Q1513575",
+        "wikipedia": "en:Genkai Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8354273,
+          33.5151599
+        ]
+      },
+      "id": "way/172644773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175358417",
+        "alt_name": "CNAAA",
+        "landuse": "industrial",
+        "name": "Central Nuclear Almirante Álvaro Alberto",
+        "name:de": "Kernkraftwerk Angra",
+        "name:en": "Angra Nuclear Power Plant",
+        "name:es": "Central nuclear Almirante Álvaro Alberto",
+        "name:fr": "Centrale nucléaire Amiral Alvaro Alberto",
+        "name:it": "Centrale nucleare di Angra",
+        "old_operator": "Eletrobras Termonuclear",
+        "operator": "Eletronuclear",
+        "operator:type": "government",
+        "operator:wikidata": "Q4119019",
+        "plant:method": "fission",
+        "plant:output:electricity": "1884 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1985",
+        "wikidata": "Q740586",
+        "wikimedia_commons": "Category:Angra Nuclear Power Plant",
+        "wikipedia": "pt:Central Nuclear Almirante Álvaro Alberto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4624772,
+          -23.0101477
+        ]
+      },
+      "id": "way/175358417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184978095",
+        "addr:city": "Narragansett",
+        "addr:housenumber": "16",
+        "addr:postcode": "02882",
+        "addr:state": "RI",
+        "addr:street": "Reactor Road",
+        "description": "The Rhode Island Nuclear Science Center (RINSC) serves as the headquarters for the Rhode Island Atomic Energy Commission. Located on the University of Rhode Island's Bay campus, the RINSC is the home of Rhode Island's sole nuclear reactor.",
+        "fax": "+1 401 874 9452",
+        "landuse": "industrial",
+        "name": "Rhode Island Nuclear Science Center",
+        "operator": "State of Rhode Island",
+        "phone": "+1 401 874 2600",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "website": "http://www.rinsc.ri.gov",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4226518,
+          41.4905254
+        ]
+      },
+      "id": "way/184978095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187599022",
+        "addr:state": "IL",
+        "branch": "Exelon Nuclear",
+        "ele": "217",
+        "gnis:feature_id": "1748242",
+        "landuse": "industrial",
+        "name": "LaSalle Generating Station",
+        "operator": "Exelon Corporation",
+        "plant:method": "fission",
+        "plant:output:electricity": "2340 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6026",
+        "source": "USGS Geonames",
+        "start_date": "10/20/1982",
+        "wikidata": "Q1418603",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6673138,
+          41.2447727
+        ]
+      },
+      "id": "way/187599022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187976339",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Heavy Water Production Plant",
+        "plant:method": "fission",
+        "plant:output:electricity": "50 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1989163,
+          31.9927085
+        ]
+      },
+      "id": "way/187976339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187976341",
+        "barrier": "wall",
+        "name": "Khushab Nuclear Complex",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2063032,
+          32.0203627
+        ]
+      },
+      "id": "way/187976341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189869576",
+        "landuse": "industrial",
+        "name": "Centrale nucléaire de Nogent-sur-Seine",
+        "name:en": "Nogent-sur-Seine Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "2620 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1987",
+        "wikidata": "Q1471555",
+        "wikipedia": "fr:Centrale nucléaire de Nogent",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5175884,
+          48.5180798
+        ]
+      },
+      "id": "way/189869576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190127671",
+        "addr:city": "Dampierre-en-Burly",
+        "addr:postcode": "45570",
+        "addr:street": "BP 18",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Dampierre en Burly",
+        "name:en": "Dampierre Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "operator:wikipedia": "en:Électricité de France",
+        "plant:method": "fission",
+        "plant:output:electricity": "3560 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1980",
+        "wikidata": "Q918661",
+        "wikipedia": "fr:Centrale nucléaire de Dampierre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5172845,
+          47.7332883
+        ]
+      },
+      "id": "way/190127671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193415212",
+        "alt_name": "Central Nuclear Atucha II",
+        "landuse": "industrial",
+        "name": "Central Nuclear de Atucha I",
+        "plant:method": "fission",
+        "plant:output:electricity": "1100 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "CNEA - Central Nuclear Atucha",
+        "wikidata": "Q1756456",
+        "wikipedia": "es:Complejo Nuclear Atucha",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.2072596,
+          -33.9690025
+        ]
+      },
+      "id": "way/193415212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197417877",
+        "addr:city": "Monticello",
+        "addr:housenumber": "2807",
+        "addr:postcode": "55362",
+        "addr:state": "MN",
+        "addr:street": "Country Road 75 Northwest",
+        "landuse": "industrial",
+        "name": "Monticello Nuclear Generating Plant",
+        "operator": "Xcel Energy",
+        "operator:wikidata": "Q1486956",
+        "operator:wikipedia": "en:Xcel Energy",
+        "plant:method": "fission",
+        "plant:output:electricity": "685 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "1922",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1971-06-30",
+        "wikidata": "Q1537026",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8425956,
+          45.3309409
+        ]
+      },
+      "id": "way/197417877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198181501",
+        "alt_name": "bruce power",
+        "landuse": "industrial",
+        "name": "Bruce Nuclear Generating Station",
+        "name:de": "Kernkraftwerk Bruce",
+        "name:es": "Central nuclear Bruce",
+        "name:fr": "Centrale nucléaire de Bruce",
+        "name:pl": "Elektrownia Jądrowa Bruce",
+        "operator": "Bruce Power",
+        "plant:method": "fission",
+        "plant:output:electricity": "6232 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1977",
+        "wikidata": "Q795104",
+        "wikipedia": "en:Bruce Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.581625,
+          44.3239502
+        ]
+      },
+      "id": "way/198181501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203381069",
+        "alt_name": "國聖廠",
+        "generator:source": "nuclear",
+        "is_in:zh": "台灣新北市萬里區",
+        "landuse": "industrial",
+        "name": "第二核能發電廠",
+        "name:en": "Kuosheng Nuclear Power Plant",
+        "name:nan": "Tē-jī He̍k-lêng Hoat-tiān-chhiúⁿ",
+        "name:nan-Hant": "第二核能發電廠",
+        "name:nan-Latn-pehoeji": "Tē-jī He̍k-lêng Hoat-tiān-chhiúⁿ",
+        "name:nan-Latn-tailo": "Tē-jī Hi̍k-lîng Huat-tiān-tshiúnn",
+        "name:zh": "第二核能發電廠",
+        "operator": "台灣電力公司",
+        "operator:en": "Taiwan Power Company",
+        "operator:wikidata": "Q711691",
+        "operator:zh": "台灣電力公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "1896 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "核二廠",
+        "wikidata": "Q711929",
+        "wikipedia": "de:Kernkraftwerk Kuosheng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6626555,
+          25.2025462
+        ]
+      },
+      "id": "way/203381069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207201382",
+        "addr:country": "SE",
+        "addr:housenumber": "100",
+        "addr:street": "Simpevarp",
+        "landuse": "industrial",
+        "name": "Oskarshamns kärnkraftverk",
+        "name:de": "Kernkraftwerk Oskarshamn",
+        "operator": "OKG Aktiebolag",
+        "plant:method": "fission",
+        "plant:output:electricity": "1450 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "OKG",
+        "start_date": "1972",
+        "wikidata": "Q1539046",
+        "wikipedia": "sv:Oskarshamns kärnkraftverk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6715866,
+          57.414802
+        ]
+      },
+      "id": "way/207201382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207641187",
+        "alt_name": "金山發電廠",
+        "generator:source": "nuclear",
+        "is_in:zh": "台灣新北市石門區",
+        "landuse": "industrial",
+        "name": "第一核能發電廠",
+        "name:en": "Chin Shan Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Chin Shan",
+        "name:it": "Centrale nucleare di Chin Shan",
+        "name:no": "Chin Shan kjernekraftverk",
+        "name:zh": "第一核能發電廠",
+        "operator": "台灣電力公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "1208 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "核一廠",
+        "source": "bing",
+        "wikidata": "Q712574",
+        "wikipedia": "de:Kernkraftwerk Chin Shan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5883283,
+          25.2854775
+        ]
+      },
+      "id": "way/207641187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/213353516",
+        "access": "no",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Central Nuclear Embalse",
+        "operator": "Nucleoeléctrica Argentina S.A.",
+        "owner": "Estado Argentino",
+        "plant:method": "fission",
+        "plant:output:electricity": "600 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "CNEA - Central Nuclear Embalse",
+        "ref:AR:CAMMESA": "EMBA",
+        "start_date": "1984",
+        "website": "https://www.na-sa.com.ar/es/centrales-nucleares/embalse",
+        "wikidata": "Q597821",
+        "wikipedia": "es:Central Nuclear Embalse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.4685313,
+          -32.2380707
+        ]
+      },
+      "id": "way/213353516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215133938",
+        "landuse": "industrial",
+        "name": "영변 50MW 원자로",
+        "name:en": "Yongbyon 50MW Reactor",
+        "name:ko": "영변 50MW 원자로",
+        "plant:method": "fission",
+        "plant:output:electricity": "50 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7627141,
+          39.7891507
+        ]
+      },
+      "id": "way/215133938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215200901",
+        "landuse": "industrial",
+        "name": "영변 5MW 원자로 부지",
+        "name:de": "5-MW-Reaktorstandort Yongbyon",
+        "name:en": "Yongbyon 5 MW Reactor Site",
+        "name:ko": "영변 5MW 원자로 부지",
+        "name:ru": "Площадка реактора мощностью 5 МВт в Йонбёне",
+        "plant:method": "fission",
+        "plant:output:electricity": "5 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7547482,
+          39.7976578
+        ]
+      },
+      "id": "way/215200901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215429864",
+        "landuse": "industrial",
+        "name": "川内原子力発電所",
+        "name:en": "Sendai Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Sendai",
+        "name:ja": "川内原子力発電所",
+        "note": "National-Land Numerical Information (Power plant) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（発電所データ）平成19年　国土交通省",
+        "operator": "九州電力",
+        "operator:en": "Kyushu Electric Power Company",
+        "operator:ja": "九州電力株式会社",
+        "operator:short": "九州電力",
+        "operator:wikidata": "Q694507",
+        "operator:wikipedia": "ja:九州電力",
+        "plant:method": "fission",
+        "plant:output:electricity": "1692 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P03.html",
+        "wikidata": "Q1735730",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1893986,
+          31.8333272
+        ]
+      },
+      "id": "way/215429864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216480979",
+        "name": "柏崎刈羽原子力発電所",
+        "name:en": "Kashiwazaki-Kariwa Nuclear Power Plant",
+        "name:ja": "柏崎刈羽原子力発電所",
+        "name:zh": "柏崎刈羽核能發電廠",
+        "note": "National-Land Numerical Information (Power plant) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（発電所データ）平成19年　国土交通省",
+        "operator": "東京電力ホールディングス株式会社",
+        "operator:ja": "東京電力株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "8212 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "KSJ2;Bing 2010",
+        "wikidata": "Q725100",
+        "wikipedia": "ja:柏崎刈羽原子力発電所",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.599161,
+          37.4308633
+        ]
+      },
+      "id": "way/216480979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219733321",
+        "description": "Decommissioned",
+        "disused:power": "generator",
+        "generator:method": "fission",
+        "generator:source": "nuclear",
+        "generator:type": "PWR",
+        "height": "61",
+        "landuse": "industrial",
+        "name": "Unit 3",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "https://en.wikipedia.org/wiki/San_Onofre_Nuclear_Generating_Station",
+        "roof:shape": "dome",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5542927,
+          33.3685693
+        ]
+      },
+      "id": "way/219733321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219733324",
+        "description": "Decommissioned",
+        "disused:power": "generator",
+        "generator:method": "fission",
+        "generator:source": "nuclear",
+        "generator:type": "PWR",
+        "height": "61",
+        "landuse": "industrial",
+        "name": "Unit 2",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "https://en.wikipedia.org/wiki/San_Onofre_Nuclear_Generating_Station",
+        "roof:shape": "dome",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.555484,
+          33.369207
+        ]
+      },
+      "id": "way/219733324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225399990",
+        "name": "Loviisan ydinvoimalaitos",
+        "name:en": "Loviisa Nuclear Power Plant",
+        "name:fi": "Loviisan ydinvoimalaitos",
+        "name:ru": "АЭС Ловииса",
+        "name:sv": "Lovisa kärnkraftverk",
+        "operator": "Fortum",
+        "plant:output:electricity": "1014 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1977",
+        "wikidata": "Q1061884",
+        "wikipedia": "en:Loviisa Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.346335,
+          60.3707738
+        ]
+      },
+      "id": "way/225399990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230701154",
+        "addr:city": "Jensen Beach",
+        "addr:housenumber": "6501",
+        "addr:postcode": "34957",
+        "addr:state": "FL",
+        "addr:street": "South Ocean Drive",
+        "alt_name": "FPL St Lucie Nuclear Power Plant",
+        "ele": "0",
+        "gnis:feature_id": "2449040",
+        "landuse": "industrial",
+        "name": "Saint Lucie Nuclear Power Plant",
+        "note": "11,390 GWh",
+        "operator": "Florida Power & Light",
+        "plant:method": "fission",
+        "plant:output:electricity": "2160 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6045",
+        "source": "USGS Geonames;Wikipedia",
+        "start_date": "1976-05",
+        "website": "https://www.fpl.com/clean-energy/nuclear/st-lucie-plant.html",
+        "wikidata": "Q1579871",
+        "wikipedia": "en:St. Lucie Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2446247,
+          27.3473682
+        ]
+      },
+      "id": "way/230701154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235360042",
+        "barrier": "fence",
+        "name": "Centre Nucléaire de Production d'Electricité du Blayais",
+        "name:en": "Blayais Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3804 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1981",
+        "wikidata": "Q1739363",
+        "wikipedia": "fr:Centrale nucléaire du Blayais",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6884174,
+          45.2553217
+        ]
+      },
+      "id": "way/235360042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235386452",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Chinon",
+        "name:en": "Chinon Nuclear Power Plant",
+        "name:pl": "Elektrownia jądrowa Chinon",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3820 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1964",
+        "tourism": "attraction",
+        "wikidata": "Q1735581",
+        "wikipedia": "fr:Centrale nucléaire de Chinon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1714546,
+          47.2282946
+        ]
+      },
+      "id": "way/235386452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239350854",
+        "addr:city": "Cany-Barville",
+        "addr:postcode": "76450",
+        "addr:street": "hameau de Conteville",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité de Paluel",
+        "name:en": "Paluel Nuclear Power Plant",
+        "operator": "EDF",
+        "operator:wikidata": "Q274591",
+        "operator:wikipedia": "en:Électricité de France",
+        "plant:method": "fission",
+        "plant:output:electricity": "5320 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1984",
+        "wikidata": "Q1530519",
+        "wikipedia": "fr:Centrale nucléaire de Paluel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6351711,
+          49.8583874
+        ]
+      },
+      "id": "way/239350854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/240238761",
+        "landuse": "industrial",
+        "name": "三门核电站",
+        "name:en": "Sanmen Nuclear Power Station",
+        "name:fr": "Centrale nucléaire de Sanmen",
+        "operator": "中核集团三门核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "2314 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1029398",
+        "wikipedia": "zh:三门核电站",
+        "wikipedia:ja": "三門原子力発電所",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6383495,
+          29.0996638
+        ]
+      },
+      "id": "way/240238761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249607042",
+        "landuse": "industrial",
+        "name": "昌江核电站",
+        "name:de": "Kernkraftwerk Changjiang",
+        "name:en": "Changjiang Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Changjiang",
+        "operator": "中国核工业集团公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "1300 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q136274",
+        "wikipedia": "en:Changjiang Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8968674,
+          19.4603166
+        ]
+      },
+      "id": "way/249607042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252396496",
+        "alt_name": "Koeberg Power Station",
+        "landuse": "industrial",
+        "name": "Koeberg Nuclear Power Station",
+        "name:de": "Kernkraftwerk Koeberg",
+        "name:fr": "Centrale de Koeberg",
+        "name:it": "Centrale nucleare di Koeberg",
+        "name:pt": "Central nuclear Koeberg",
+        "operator": "Eskom",
+        "operator:wikidata": "Q1367885",
+        "operator:wikipedia": "en:Eskom",
+        "plant:method": "fission",
+        "plant:output:electricity": "1940 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1984",
+        "wikidata": "Q941797",
+        "wikipedia": "en:Koeberg Nuclear Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4334608,
+          -33.676663
+        ]
+      },
+      "id": "way/252396496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252671500",
+        "barrier": "wall",
+        "branch": "Дирекция строящейся Нововоронежской АЭС-2",
+        "landuse": "industrial",
+        "name": "Нововоронежская АЭС-2",
+        "name:de": "Kernkraftwerk Nowoworonesch II",
+        "name:en": "Novovoronezh Nuclear Power Plant II",
+        "name:ru": "Нововоронежская АЭС-2",
+        "name:uk": "Нововоронезька АЕС-2",
+        "operator": "ОАО \"Концерн Росэнергоатом\"",
+        "plant:method": "fission",
+        "plant:output:electricity": "2361 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "НВАЭС II",
+        "start_date": "2017",
+        "wikidata": "Q835791",
+        "wikipedia": "ru:Нововоронежская АЭС-2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2129356,
+          51.2656626
+        ]
+      },
+      "id": "way/252671500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254602492",
+        "addr:state": "OH",
+        "landuse": "industrial",
+        "name": "Davis-Besse Nuclear Power Station",
+        "operator": "Energy Harbor Nuclear Generation LLC",
+        "plant:method": "fission",
+        "plant:output:electricity": "925.2 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "http://en.wikipedia.org/wiki/Davis-Besse_Nuclear_Power_Station",
+        "ref:US:EIA": "6149",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1977-11",
+        "wikidata": "Q1739392",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0793559,
+          41.5935231
+        ]
+      },
+      "id": "way/254602492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255763556",
+        "landuse": "industrial",
+        "name": "志賀原子力発電所",
+        "name:en": "Shika Nuclear Power Plant",
+        "name:ja": "志賀原子力発電所",
+        "operator": "北陸電力株式会社",
+        "operator:ja": "北陸電力株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "1898 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1993",
+        "wikidata": "Q672931",
+        "wikipedia": "ja:志賀原子力発電所",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7292488,
+          37.0609722
+        ]
+      },
+      "id": "way/255763556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261077251",
+        "landuse": "industrial",
+        "name": "寧德核電站",
+        "name:de": "Kernkraftwerk Ningde",
+        "name:en": "Ningde Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Nindge",
+        "name:zh-Hant": "寧德核電站",
+        "operator": "福建宁德核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "4072 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q835447",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2829699,
+          27.0454921
+        ]
+      },
+      "id": "way/261077251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271970600",
+        "landuse": "industrial",
+        "name": "Հայկական ատոմային էլեկտրակայան",
+        "name:de": "Kernkraftwerk Mezamor",
+        "name:en": "Armenian NPP",
+        "name:hy": "Հայկական ատոմային էլեկտրակայան",
+        "name:ru": "Армянская АЭС",
+        "plant:method": "fission",
+        "plant:output:electricity": "408 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "website": "http://armeniannpp.am/hy/",
+        "wikidata": "Q946058",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1478767,
+          40.1829738
+        ]
+      },
+      "id": "way/271970600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274901437",
+        "landuse": "industrial",
+        "name": "Darlington Nuclear Generating Station",
+        "operator": "Ontario Power Generation",
+        "operator:wikidata": "Q1129706",
+        "plant:method": "fission",
+        "plant:output:electricity": "3512 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739391",
+        "wikipedia": "en:Darlington Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.719938,
+          43.8705928
+        ]
+      },
+      "id": "way/274901437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275121969",
+        "landuse": "industrial",
+        "name": "阳江核电站",
+        "name:en": "Yangjiang Nuclear Power Station",
+        "name:fr": "Centrale nucléaire de Yangjiang",
+        "operator": "阳江核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "6000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1029375",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.2611581,
+          21.7095228
+        ]
+      },
+      "id": "way/275121969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277786990",
+        "alt_name": "Uljin Nuclear Power Plant",
+        "name": "한울원자력발전소",
+        "name:en": "Hanul Nuclear Power Plant",
+        "name:ja": "ハヌル原子力発電所",
+        "name:ko": "한울원자력발전소",
+        "operator": "한국수력원자력",
+        "operator:ko": "한국수력원자력",
+        "operator:wikidata": "Q6431646",
+        "plant:method": "fission",
+        "plant:output:electricity": "5881 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q496248",
+        "wikipedia": "en:Hanul Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3863156,
+          37.0879427
+        ]
+      },
+      "id": "way/277786990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299929726",
+        "landuse": "industrial",
+        "name": "大亚湾核电站",
+        "name:de": "Kernkraftwerk Daya Wan",
+        "name:en": "Daya Bay Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de la Baie de Daya",
+        "name:nan": "Tōa-a-oan He̍k-tiān-chām",
+        "name:nan-Hans": "大亚湾核电站",
+        "name:nan-Latn-pehoeji": "Tōa-a-oan He̍k-tiān-chām",
+        "name:nan-Latn-tailo": "Tuā-a-uan Hi̍k-tiân-tsām",
+        "name:zh": "大亚湾核电站",
+        "name:zh-Hans": "大亚湾核电站",
+        "name:zh-Hant": "大亞灣核電廠",
+        "operator": "广东核电合营有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "1888 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1994",
+        "wikidata": "Q964007",
+        "wikipedia": "en:Daya Bay Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5443023,
+          22.5971098
+        ]
+      },
+      "id": "way/299929726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299934546",
+        "landuse": "industrial",
+        "name": "方家山核电站",
+        "name:fr": "Centrale nucléaire de Fangjashan",
+        "name:zh": "方家山核电站",
+        "name:zh-Hant": "萬家山核電站",
+        "operator": "中国核工业集团公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "2024 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1029360",
+        "wikipedia": "en:Fangjiashan Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9411488,
+          30.4410495
+        ]
+      },
+      "id": "way/299934546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299936595",
+        "landuse": "industrial",
+        "name": "海阳核电站",
+        "name:en": "Haiyang Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Haiyang",
+        "name:zh": "海阳核电站",
+        "name:zh-Hant": "海陽核電站",
+        "plant:method": "fission",
+        "plant:output:electricity": "2340 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1029384",
+        "wikipedia": "en:Haiyang Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.385146,
+          36.7110118
+        ]
+      },
+      "id": "way/299936595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299938184",
+        "landuse": "industrial",
+        "name": "红沿河核电站",
+        "name:en": "Hongyanhe Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Hongyanhe",
+        "name:zh": "红沿河核电站",
+        "name:zh-Hant": "紅沿河核電站",
+        "operator": "辽宁红沿河核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "5305 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q132171",
+        "wikipedia": "en:Hongyanhe Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4805771,
+          39.7916086
+        ]
+      },
+      "id": "way/299938184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299941302",
+        "landuse": "industrial",
+        "name": "岭澳核电站",
+        "name:de": "Kernkraftwerk Ling’ao",
+        "name:en": "Ling Ao Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Ling Ao",
+        "operator": "广东岭澳核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "3914 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1739439",
+        "wikipedia": "en:Ling Ao Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5530489,
+          22.6056279
+        ]
+      },
+      "id": "way/299941302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299942571",
+        "alt_name:en": "Taishan Nuclear Power Station",
+        "landuse": "industrial",
+        "name": "台山核电站",
+        "name:de": "Kernkraftwerk Taishan",
+        "name:en": "Taishan Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Taishan",
+        "name:zh": "台山核电站",
+        "name:zh-Hans": "台山核电站",
+        "name:zh-Hant": "台山核電廠",
+        "plant:method": "fission",
+        "plant:output:electricity": "3320 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1519910",
+        "wikipedia": "en:Taishan Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9818951,
+          21.917149
+        ]
+      },
+      "id": "way/299942571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300036409",
+        "landuse": "industrial",
+        "name": "福清核电站",
+        "name:en": "Fuqing Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Fuqing",
+        "name:zh": "福清核电站",
+        "name:zh-Hant": "福清核電站",
+        "operator": "中国核工业集团公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "6678 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q586892",
+        "wikipedia": "en:Fuqing Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4426936,
+          25.4427763
+        ]
+      },
+      "id": "way/300036409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301690711",
+        "frequency": "50",
+        "name": "محطة براكة للطاقة النووية",
+        "name:ar": "محطة براكة للطاقة النووية",
+        "name:en": "Barakah nuclear power plant",
+        "name:fr": "Centrale nucléaire de Barakah",
+        "name:he": "תחנת כוח גרעינית בברכה",
+        "name:ml": "ബറാക്ക ആണവനിലയം",
+        "operator": "Emirates Nuclear Energy Corporation",
+        "plant:output:electricity": "5600 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2020",
+        "wikidata": "Q19959586",
+        "wikipedia": "en:Barakah nuclear power plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.2310182,
+          23.9622453
+        ]
+      },
+      "id": "way/301690711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306537279",
+        "addr:city": "Pudahuel",
+        "check_date": "2024-12-14",
+        "landuse": "industrial",
+        "name": "Centro de Estudios Nucleares Lo Aguirre - Comisión Chilena de Energía Nuclear",
+        "operator": "Comisión Chilena de Energía Nuclear (CChEN)",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CEN Lo Aguirre",
+        "start_date": "1977-10-24",
+        "website": "https://www.cchen.cl/?page_id=163",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9328637,
+          -33.4507168
+        ]
+      },
+      "id": "way/306537279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309505686",
+        "landuse": "industrial",
+        "name": "James A. FitzPatrick Nuclear Power Plant",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "838 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6110",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2020",
+        "start_date": "1976-08",
+        "wikidata": "Q1516622",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3976138,
+          43.5222847
+        ]
+      },
+      "id": "way/309505686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310488542",
+        "landuse": "industrial",
+        "name": "Heysham Nuclear Power Station",
+        "operator": "EDF Energy",
+        "operator:wikidata": "Q3045865",
+        "planned:end_date": "2030-03",
+        "plant:method": "fission",
+        "plant:output:electricity": "2433 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1984",
+        "wikidata": "Q1588936",
+        "wikipedia": "en:Heysham nuclear power station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9170944,
+          54.0287139
+        ]
+      },
+      "id": "way/310488542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312173726",
+        "description": "I grew up downwind from this power plant and this nuclear plant has been a vital part of our energy infrastructure. I think its ideal now",
+        "landuse": "industrial",
+        "name": "Beaver Valley Nuclear Generating Station",
+        "operator": "Energy Harbor Nuclear Generation LLC",
+        "plant:method": "fission",
+        "plant:output:electricity": "1846.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6040",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1976-09",
+        "wikidata": "Q1735267",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4323647,
+          40.6217756
+        ]
+      },
+      "id": "way/312173726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319865364",
+        "landuse": "industrial",
+        "name": "Rajasthan Atomic Power Station",
+        "name:fr": "Centrale nucléaire du Rajasthan",
+        "plant:method": "fission",
+        "plant:output:electricity": "1085 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q250830",
+        "wikipedia": "en:Rajasthan Atomic Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6235709,
+          24.8766056
+        ]
+      },
+      "id": "way/319865364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330451009",
+        "landuse": "industrial",
+        "name": "中国实验快堆",
+        "name:en": "China Experimental Fast Reactor",
+        "plant:method": "fission",
+        "plant:output:electricity": "20 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1840807",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0305905,
+          39.7407614
+        ]
+      },
+      "id": "way/330451009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331427518",
+        "barrier": "wall",
+        "hazard": "nuclear",
+        "landuse": "industrial",
+        "name": "Tarapur Atomic Power Station",
+        "name:de": "Kernkraftwerk Tarapur",
+        "name:fr": "Centrale nucléaire de Tarapur",
+        "name:it": "Centrale nucleare di Tarapur",
+        "plant:method": "fission",
+        "plant:output:electricity": "1400 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "TAPS",
+        "start_date": "1969",
+        "wikidata": "Q1739475",
+        "wikipedia": "en:Tarapur Atomic Power Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6691512,
+          19.8325926
+        ]
+      },
+      "id": "way/331427518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359445493",
+        "addr:city": "Jenkinsville",
+        "addr:postcode": "29065",
+        "addr:state": "SC",
+        "landuse": "industrial",
+        "name": "Virgil C. Summer Nuclear Generating Station",
+        "operator": "SCE&G",
+        "plant:method": "fission",
+        "plant:output:electricity": "1029.6 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6127",
+        "start_date": "1984-01-01",
+        "wikidata": "Q1557235",
+        "wikipedia": "en:Virgil C. Summer Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3145493,
+          34.2959838
+        ]
+      },
+      "id": "way/359445493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371468679",
+        "name": "大間原子力発電所",
+        "name:en": "Ōma Nuclear Power Plant",
+        "name:ja": "大間原子力発電所",
+        "operator": "電源開発株式会社",
+        "operator:ja": "電源開発株式会社",
+        "plant:method": "fission",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P03.html",
+        "wikidata": "Q935091",
+        "wikipedia": "ja:大間原子力発電所",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.911861,
+          41.5119021
+        ]
+      },
+      "id": "way/371468679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384663588",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Kudankulam Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Kudankulam",
+        "name:ml": "കൂടൻകുളം ആണവനിലയം",
+        "name:ru": "АЭС Куданкулам",
+        "name:ta": "கூடங்குளம் அணுமின் நிலையம்",
+        "operator": "Nuclear Power Corporation of India Ltd.",
+        "plant:method": "fission",
+        "plant:output:electricity": "1864 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2013-07-13",
+        "wikidata": "Q337376",
+        "wikipedia": "en:Kudankulam Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7055336,
+          8.1725383
+        ]
+      },
+      "id": "way/384663588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384676406",
+        "landuse": "industrial",
+        "name": "Callaway Energy Center",
+        "operator": "Ameren",
+        "plant:method": "fission",
+        "plant:output:electricity": "1235.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6153",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1984-12",
+        "wikidata": "Q1493850",
+        "wikipedia": "en:Callaway Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7803405,
+          38.7634859
+        ]
+      },
+      "id": "way/384676406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386839399",
+        "landuse": "industrial",
+        "name": "Chamsa Nuclear Power Complex",
+        "name:en": "Chamsa Nuclear Power Complex",
+        "name:fr": "Centrale nucléaire de Chashma",
+        "operator": "Pakistan Atomic Energy Commission",
+        "plant:method": "fission",
+        "plant:output:electricity": "1228 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CHASNUPP",
+        "start_date": "2000",
+        "wikidata": "Q82404",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.466973,
+          32.3870599
+        ]
+      },
+      "id": "way/386839399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/387266330",
+        "landuse": "industrial",
+        "name": "한빛원자력발전소",
+        "name:en": "Hanbit Nuclear Power Site",
+        "name:fr": "Centrale nucléaire de Hanbit",
+        "name:ja": "ハンビッ原子力発電所",
+        "name:ko": "한빛원자력발전소",
+        "old_name": "Yeonggwang Nuclear Power Plant",
+        "operator": "한국수력원자력",
+        "operator:ko": "한국수력원자력",
+        "operator:wikidata": "Q6431646",
+        "plant:method": "fission",
+        "plant:output:electricity": "5913 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q496260",
+        "wikipedia": "en:Hanbit Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4175763,
+          35.4102172
+        ]
+      },
+      "id": "way/387266330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394340868",
+        "name": "Нововоронежская АЭС",
+        "name:de": "Kernkraftwerk Nowoworonesch",
+        "name:en": "Novovoronezh Nuclear Power Plant",
+        "name:he": "תחנת הכוח הגרעינית נובווורונז'",
+        "name:ru": "Нововоронежская АЭС",
+        "name:uk": "Нововоронезька АЕС",
+        "operator": "ОАО \"Концерн Росэнергоатом\"",
+        "plant:method": "fission",
+        "plant:output:electricity": "1417 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "НВАЭС",
+        "source": "knowledge",
+        "start_date": "1964-09",
+        "website": "http://novnpp.rosenergoatom.ru/",
+        "wikidata": "Q1739448",
+        "wikipedia": "ru:Нововоронежская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.202547,
+          51.2752566
+        ]
+      },
+      "id": "way/394340868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403198409",
+        "landuse": "industrial",
+        "name": "R.E. Ginna Nuclear Station",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "614 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6122",
+        "source": "Local Knowledge and Bing Maps",
+        "start_date": "1970-07",
+        "wikidata": "Q2944597",
+        "wikipedia": "en:R. E. Ginna Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3090798,
+          43.2774193
+        ]
+      },
+      "id": "way/403198409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403402683",
+        "name": "월성원자력발전소",
+        "name:en": "Wolsong Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Wolsong",
+        "name:ja": "月城原子力発電所",
+        "name:ko": "월성원자력발전소",
+        "operator": "한국수력원자력",
+        "plant:output:electricity": "4566 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q484896",
+        "wikipedia": "en:Wolseong Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.4756392,
+          35.7178785
+        ]
+      },
+      "id": "way/403402683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403402694",
+        "name": "고리원자력발전소",
+        "name:en": "Kori Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Kori",
+        "name:ja": "古里 原子力 発電所",
+        "name:ko": "고리원자력발전소",
+        "operator": "한국수력원자력",
+        "plant:method": "fission",
+        "plant:output:electricity": "7489 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1978-04-29",
+        "wikidata": "Q486898",
+        "wikipedia": "en:Kori Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2955077,
+          35.3284614
+        ]
+      },
+      "id": "way/403402694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/403601261",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "KANUPP 2&3",
+        "plant:method": "fission",
+        "plant:output:electricity": "2034 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1274134",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.7749905,
+          24.8518147
+        ]
+      },
+      "id": "way/403601261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419480573",
+        "landuse": "industrial",
+        "name": "Susquehanna Steam Electric Station",
+        "operator": "Talen Energy",
+        "plant:method": "fission",
+        "plant:output:electricity": "2600 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6103",
+        "website": "https://susquehannanuclear.com/",
+        "wikidata": "Q611354",
+        "wikipedia": "en:Susquehanna Steam Electric Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1479475,
+          41.0923897
+        ]
+      },
+      "id": "way/419480573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419598118",
+        "landuse": "industrial",
+        "name": "Perry Nuclear Power Plant",
+        "operator": "FirstEnergy",
+        "plant:method": "fission",
+        "plant:output:electricity": "1230 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6020",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1987-11",
+        "wikidata": "Q969222",
+        "wikipedia": "en:Perry Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1449885,
+          41.7979077
+        ]
+      },
+      "id": "way/419598118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421287222",
+        "generator:source": "nuclear",
+        "landuse": "industrial",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9194658,
+          19.0077866
+        ]
+      },
+      "id": "way/421287222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435061160",
+        "landuse": "industrial",
+        "name": "台山核电站",
+        "name:en": "Taishan Nuclear Power Plant",
+        "name:zh": "台山核电站",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1519910",
+        "wikipedia": "en:Taishan Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9775396,
+          21.9123436
+        ]
+      },
+      "id": "way/435061160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437091973",
+        "addr:city": "Flamanville",
+        "addr:postcode": "50340",
+        "alt_name": "Centre Nucléaire de Production d'Electricité de Flamanville",
+        "landuse": "industrial",
+        "name": "Centrale nucléaire de Flamanville",
+        "name:en": "Flamanville Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "operator:wikipedia": "en:Électricité de France",
+        "plant:method": "fission",
+        "plant:output:electricity": "4290 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "CNPE de Flamanville",
+        "wikidata": "Q390252",
+        "wikipedia": "fr:Centrale nucléaire de Flamanville",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8802068,
+          49.5381089
+        ]
+      },
+      "id": "way/437091973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449155824",
+        "landuse": "industrial",
+        "name": "敦賀原子力発電所",
+        "name:en": "Tsuruga Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Tsuruga",
+        "name:ja": "敦賀原子力発電所",
+        "operator": "日本原子力発電株式会社",
+        "operator:ja": "日本原子力発電株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "1160 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1987-02-17",
+        "wikidata": "Q1623116",
+        "wikipedia": "en:Tsuruga Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.0199672,
+          35.7519833
+        ]
+      },
+      "id": "way/449155824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/456491989",
+        "generator:source": "nuclear",
+        "landuse": "industrial",
+        "name": "伊方原子力発電所",
+        "name:en": "Ikata Nuclear Power Plant",
+        "name:ja": "伊方原子力発電所",
+        "operator": "四国電力株式会社",
+        "operator:en": "Shikoku Electric Power",
+        "operator:ja": "四国電力株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "1456 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "website": "https://www.yonden.co.jp/energy/atom/index.html",
+        "wikidata": "Q1201465",
+        "wikipedia": "en:Ikata Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.3089369,
+          33.489017
+        ]
+      },
+      "id": "way/456491989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/456491990",
+        "name": "高浜原子力発電所",
+        "name:en": "Takahama Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Takahama",
+        "name:ja": "高浜原子力発電所",
+        "operator": "関西電力株式会社",
+        "operator:en": "Kansai Electric Power Company",
+        "operator:ja": "関西電力株式会社",
+        "operator:short": "関西電力",
+        "operator:wikidata": "Q1365015",
+        "plant:method": "fission",
+        "plant:output:electricity": "3392 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1557429",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5039781,
+          35.5229718
+        ]
+      },
+      "id": "way/456491990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513445232",
+        "landuse": "industrial",
+        "name": "石岛湾核电站",
+        "name:en": "Shidao Bay Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Shidao Bay",
+        "name:zh": "石岛湾核电站",
+        "name:zh-Hant": "石島灣核電站",
+        "operator": "华能山东石岛湾核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "200 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2021-12-20",
+        "wikidata": "Q14159771",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5247407,
+          36.9731365
+        ]
+      },
+      "id": "way/513445232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514718570",
+        "landuse": "industrial",
+        "name": "Исследовательские ядерные установки НИИАР",
+        "plant:method": "fission",
+        "plant:output:electricity": "72 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4725728,
+          54.1905628
+        ]
+      },
+      "id": "way/514718570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530960829",
+        "construction:power": "plant",
+        "landuse": "industrial",
+        "name": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র",
+        "name:bn": "রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র",
+        "name:en": "Ruppur Nuclear Power Plant",
+        "name:fr": "projet de centrale nucléaire de Rooppur",
+        "name:ru": "АЭC Руппур",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q7380438",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0444318,
+          24.0636074
+        ]
+      },
+      "id": "way/530960829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531351622",
+        "landuse": "industrial",
+        "name": "Prairie Island Nuclear Generating Plant",
+        "operator": "Northern States Power Co - Minnesota",
+        "plant:method": "fission",
+        "plant:output:electricity": "1186.2 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "1925",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1974-02",
+        "wikidata": "Q2944613",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6353573,
+          44.6212927
+        ]
+      },
+      "id": "way/531351622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549051445",
+        "landuse": "industrial",
+        "name": "Harris Nuclear Plant",
+        "operator": "Duke Energy Progress",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "950.9 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6015",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1987-05",
+        "wikidata": "Q1568903",
+        "wikipedia": "en:Shearon Harris Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9565185,
+          35.6344096
+        ]
+      },
+      "id": "way/549051445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564414439",
+        "landuse": "industrial",
+        "name": "Калининская АЭС",
+        "name:en": "Kalinin NPP",
+        "official_name": "Калининская атомная электростанция",
+        "operator": "Росэнергоатом",
+        "operator:en": "Rosenergoatom",
+        "plant:method": "fission",
+        "plant:output:electricity": "4000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "КАЭС",
+        "start_date": "1984-05-09",
+        "wikidata": "Q1739418",
+        "wikipedia": "ru:Калининская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0507615,
+          57.9089021
+        ]
+      },
+      "id": "way/564414439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567427402",
+        "alt_name": "Atomkraftwerk Gösgen",
+        "barrier": "fence",
+        "contact:fax": "+41 62 2882001",
+        "contact:phone": "+41 62 2882000",
+        "contact:website": "https://www.kkg.ch/",
+        "landuse": "industrial",
+        "name": "Kernkraftwerk Gösgen",
+        "name:it": "Centrale nucleare di Gösgen",
+        "operator": "Kernkraftwerk Gösgen-Däniken AG",
+        "plant:method": "fission",
+        "plant:output:electricity": "1010 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "KKG",
+        "short_name": "KKW Gösgen",
+        "start_date": "1979",
+        "wikidata": "Q687422",
+        "wikipedia": "de:Kernkraftwerk Gösgen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9680443,
+          47.3648908
+        ]
+      },
+      "id": "way/567427402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/582056234",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Plutonium Production 2 & 3",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1720057,
+          32.0090601
+        ]
+      },
+      "id": "way/582056234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596256457",
+        "barrier": "wall",
+        "landuse": "industrial",
+        "name": "Plutonium Production 4",
+        "plant:method": "fission",
+        "plant:output:electricity": "50 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1721557,
+          32.0013575
+        ]
+      },
+      "id": "way/596256457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605382252",
+        "landuse": "industrial",
+        "name": "大飯原子力発電所",
+        "name:en": "Ōi Nuclear Power Plant",
+        "name:ja": "大飯原子力発電所",
+        "note": "National-Land Numerical Information (Power plant) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（発電所データ）平成19年　国土交通省",
+        "operator": "関西電力株式会社",
+        "operator:en": "Kansai Electric Power Company",
+        "operator:ja": "関西電力株式会社",
+        "operator:short": "関西電力",
+        "operator:wikidata": "Q1365015",
+        "plant:method": "fission",
+        "plant:output:electricity": "4494 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "KSJ2",
+        "start_date": "1991-12-18",
+        "wikidata": "Q1633906",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.6547472,
+          35.5410868
+        ]
+      },
+      "id": "way/605382252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605382253",
+        "landuse": "industrial",
+        "name": "島根原子力発電所",
+        "name:en": "Shimane Nuclear Power Plant",
+        "name:ja": "島根原子力発電所",
+        "note": "National-Land Numerical Information (Power plant) 2007, MLIT Japan",
+        "note:ja": "国土数値情報（発電所データ）平成19年　国土交通省",
+        "operator": "中国電力株式会社",
+        "operator:ja": "中国電力株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "820 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref": "1",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P03.html",
+        "start_date": "1974-03-29",
+        "wikidata": "Q1739471",
+        "wikipedia": "en:Shimane Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9981332,
+          35.5361002
+        ]
+      },
+      "id": "way/605382253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605420905",
+        "landuse": "industrial",
+        "name": "美浜原子力発電所",
+        "name:en": "Mihama Nuclear Power Plant",
+        "name:ja": "美浜原子力発電所",
+        "operator": "関西電力株式会社",
+        "operator:en": "Kansai Electric Power Company",
+        "operator:ja": "関西電力株式会社",
+        "operator:short": "関西電力",
+        "operator:wikidata": "Q1365015",
+        "plant:method": "fission",
+        "plant:output:electricity": "826 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q384685",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9617058,
+          35.7036162
+        ]
+      },
+      "id": "way/605420905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605420907",
+        "access": "private",
+        "landuse": "industrial",
+        "name": "東通原子力発電所",
+        "name:de": "Kernkraftwerk Higashidōri",
+        "name:en": "Higashidōri Nuclear Power Plant",
+        "operator": "Tōhoku Denryoku",
+        "plant:method": "fission",
+        "plant:output:electricity": "1100 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q2008105",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.389571,
+          41.1876693
+        ]
+      },
+      "id": "way/605420907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605420909",
+        "disused:power": "plant",
+        "landuse": "industrial",
+        "name": "ふげん",
+        "name:en": "Fugen Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Fugen",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1500817",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.0168777,
+          35.7546674
+        ]
+      },
+      "id": "way/605420909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605420910",
+        "construction": "yes",
+        "construction:power": "plant",
+        "generator:source": "nuclear",
+        "landuse": "industrial",
+        "name": "敦賀原子力発電所",
+        "name:en": "Tsuruga Nuclear Power Plant",
+        "name:ja": "敦賀原子力発電所",
+        "operator": "日本原子力発電株式会社",
+        "operator:ja": "日本原子力発電株式会社",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1623116",
+        "wikipedia": "en:Tsuruga Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.0054561,
+          35.7528964
+        ]
+      },
+      "id": "way/605420910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/606158232",
+        "name": "Saeul Nuclear Plant",
+        "name:en": "Saeul Nuclear Plant",
+        "name:fr": "Centrale nucléaire de Saeul",
+        "name:ja": "セウル原子力発電所",
+        "operator": "KHNP/KEPCO",
+        "plant:method": "fission",
+        "plant:output:electricity": "2834 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2016-12-20",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3117227,
+          35.3392227
+        ]
+      },
+      "id": "way/606158232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660021586",
+        "landuse": "industrial",
+        "name": "Joseph M. Farley Nuclear Plant",
+        "operator": "Southern Nuclear",
+        "operator:wikidata": "Q7570206",
+        "owner": "Alabama Power",
+        "owner:wikidata": "Q4705296",
+        "plant:method": "fission",
+        "plant:output:electricity": "1776.4 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6001",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1977-12",
+        "wikidata": "Q1517424",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1127053,
+          31.2223946
+        ]
+      },
+      "id": "way/660021586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/672758776",
+        "addr:city": "Saint-Paul-Trois-Châteaux",
+        "addr:postcode": "26130",
+        "addr:street": "Route du Site du Tricastin",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centre Nucléaire de Production d'Electricité du Tricastin",
+        "name:en": "Tricastin Nuclear Power Plant",
+        "operator": "Électricité de France",
+        "operator:short": "EDF",
+        "operator:wikidata": "Q274591",
+        "plant:method": "fission",
+        "plant:output:electricity": "3660 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1980",
+        "wikidata": "Q154006",
+        "wikipedia": "fr:Centrale nucléaire du Tricastin",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7313536,
+          44.3311042
+        ]
+      },
+      "id": "way/672758776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686948226",
+        "landuse": "industrial",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0278433,
+          37.4279141
+        ]
+      },
+      "id": "way/686948226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/733353343",
+        "construction:plant:output:electricity": "682 MW",
+        "construction:plant:output:heat": "1882 MW",
+        "landuse": "industrial",
+        "name": "CFR-600",
+        "note": "项目功率为60万千瓦",
+        "operator": "中核霞浦核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "682 MW",
+        "plant:output:heat": "1882 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q48733641",
+        "wikipedia": "en:CFR-600",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1478094,
+          26.8000231
+        ]
+      },
+      "id": "way/733353343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735289776",
+        "landuse": "industrial",
+        "name": "Quad Cities Nuclear Generating Station",
+        "name:es": "Central nuclear de Quad Cities",
+        "name:fr": "Centrale nucléaire de Quad Cities",
+        "operator": "Exelon Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "2018.6 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "880",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1972-12",
+        "wikidata": "Q2944614",
+        "wikipedia": "en:Quad Cities Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3059689,
+          41.7262357
+        ]
+      },
+      "id": "way/735289776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771787166",
+        "disused:power": "plant",
+        "landuse": "industrial",
+        "name": "もんじゅ",
+        "name:en": "Monju Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Monju",
+        "operator": "日本原子力研究開発機構",
+        "plant:method": "fission",
+        "plant:output:electricity": "280 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1995",
+        "wikidata": "Q1331046",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.9852896,
+          35.7390924
+        ]
+      },
+      "id": "way/771787166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779744289",
+        "construction": "industrial",
+        "landuse": "construction",
+        "name": "漳州核电站",
+        "name:en": "Zhangzhou Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Zhangzhou",
+        "plant:method": "fission",
+        "plant:output:electricity": "6000 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q85817090",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4924357,
+          23.8332992
+        ]
+      },
+      "id": "way/779744289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785249829",
+        "landuse": "industrial",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6977696,
+          38.8385102
+        ]
+      },
+      "id": "way/785249829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/806310370",
+        "name": "浜岡原子力発電所",
+        "name:en": "Hamaoka Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Hamaoka",
+        "plant:method": "fission",
+        "plant:output:electricity": "3617 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q995979",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1467743,
+          34.6226532
+        ]
+      },
+      "id": "way/806310370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837204459",
+        "abandoned": "yes",
+        "landuse": "industrial",
+        "name": "Marble Hill Nuclear Power Plant (Dismantled)",
+        "plant:method": "fission",
+        "plant:output:electricity": "no",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q14688597",
+        "wikipedia": "en:Marble Hill Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4492247,
+          38.6018213
+        ]
+      },
+      "id": "way/837204459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/840331486",
+        "landuse": "industrial",
+        "name": "Hatch Nuclear Power Plant",
+        "operator": "Southern Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "1726 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6051",
+        "start_date": "1975",
+        "wikidata": "Q1516337",
+        "wikipedia": "en:Edwin I. Hatch Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3430819,
+          31.9325541
+        ]
+      },
+      "id": "way/840331486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/858347214",
+        "building": "ship",
+        "name": "Академик Ломоносов",
+        "name:ca": "Akadémik Lomonóssov",
+        "name:en": "Akademik Lomonosov",
+        "name:fr": "Akademik Lomonosov",
+        "plant:method": "fission",
+        "plant:output:electricity": "64 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q673826",
+        "wikipedia": "ru:Академик Ломоносов",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.3060352,
+          69.7096925
+        ]
+      },
+      "id": "way/858347214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/861200493",
+        "landuse": "industrial",
+        "name": "McGuire Nuclear Station",
+        "operator": "Duke Energy",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "2440.6 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6038",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1981-09",
+        "wikidata": "Q24068",
+        "wikipedia": "en:McGuire Nuclear Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.947448,
+          35.4319054
+        ]
+      },
+      "id": "way/861200493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/866733225",
+        "addr:housenumber": "2",
+        "addr:postcode": "231201",
+        "addr:subdistrict": "Варнянскі сельскі Савет",
+        "alt_name:de": "Weißrussisches Kernkraftwerk",
+        "email": "belaes@belaes.by",
+        "int_name": "Astraviec Nuclear Power Plant",
+        "landuse": "industrial",
+        "name": "Беларуская АЭС",
+        "name:be": "Беларуская АЭС",
+        "name:de": "Kernkraftwerk Belarus",
+        "name:en": "Belarusian Nuclear Power Plant",
+        "name:lt": "Baltarusijos atominė elektrinė",
+        "name:lv": "Baltkrievijas atomelektrostacija",
+        "name:pl": "Białoruska elektrownia atomowa",
+        "name:ru": "Белорусская АЭС",
+        "name:uk": "Білоруська АЕС",
+        "operator": "Беларуская атамная электрастанцыя",
+        "phone": "+375-1591-4-53-59",
+        "plant:method": "fission",
+        "plant:output:electricity": "2400 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "2020-11-07",
+        "website": "https://belaes.by/",
+        "wikidata": "Q2639309",
+        "wikipedia": "be:Беларуская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.091923,
+          54.7624208
+        ]
+      },
+      "id": "way/866733225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/880625927",
+        "construction": "yes",
+        "landuse": "industrial",
+        "name": "Akkuyu Nükleer Enerji Santrali",
+        "name:en": "Akkuyu Nuclear Power Plant",
+        "name:ru": "АЭС Аккую",
+        "name:tr": "Akkuyu Nükleer Enerji Santrali",
+        "operator": "Rosatom",
+        "plant:method": "fission",
+        "plant:output:electricity": "4800 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:TR:lisans": "EÜ/7133/03690",
+        "start_date": "2023-05-01",
+        "website": "https://akkuyu.com/tr",
+        "wikidata": "Q1630042",
+        "wikipedia": "en:Akkuyu Nükleer Güç Santrali",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5348668,
+          36.144809
+        ]
+      },
+      "id": "way/880625927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/916488837",
+        "landuse": "industrial",
+        "name": "Grand Gulf Nuclear Generating Station",
+        "operator": "System Energy Resources, Inc",
+        "plant:method": "fission",
+        "plant:output:electricity": "1440 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6072",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2019",
+        "start_date": "1985-07",
+        "wikidata": "Q571906",
+        "wikipedia": "en:Grand Gulf Nuclear Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0496504,
+          32.0083112
+        ]
+      },
+      "id": "way/916488837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/919231184",
+        "landuse": "industrial",
+        "name": "River Bend Nuclear Generating Station",
+        "operator": "Entergy Louisiana",
+        "plant:method": "fission",
+        "plant:output:electricity": "1035.9 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6462",
+        "start_date": "1986-06",
+        "wikidata": "Q290561",
+        "wikipedia": "en:River Bend Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3326449,
+          30.7554773
+        ]
+      },
+      "id": "way/919231184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/963375069",
+        "landuse": "industrial",
+        "name": "Point Lepreau Nuclear Generating Station",
+        "name:fr": "Centrale nucléaire de Point Lepreau",
+        "operator": "NB Power",
+        "plant:method": "fission",
+        "plant:output:electricity": "660 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1391137",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4551907,
+          45.074361
+        ]
+      },
+      "id": "way/963375069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964587431",
+        "addr:city": "Waynesboro",
+        "addr:housenumber": "7821",
+        "addr:postcode": "30830",
+        "addr:state": "GA",
+        "addr:street": "River Road",
+        "alt_name": "Alvin W. Vogtle Electric Generating Plant",
+        "alt_name:en": "Alvin W Vogtle Electric Generating Plant",
+        "construction:plant:output:electricity": "4536 MW",
+        "description": "Alvin W. Vogtle",
+        "landuse": "industrial",
+        "name": "Vogtle Electric Generating Plant",
+        "operator": "Southern Nuclear",
+        "plant:method": "fission",
+        "plant:output:electricity": "4536 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "649",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2019",
+        "start_date": "1987-05",
+        "wikidata": "Q947549",
+        "wikipedia": "en:Vogtle Electric Generating Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7694568,
+          33.1394164
+        ]
+      },
+      "id": "way/964587431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007084278",
+        "addr:city": "New Hill",
+        "addr:housenumber": "5124",
+        "addr:postcode": "27562",
+        "addr:state": "NC",
+        "addr:street": "Shearon Harris Road",
+        "landuse": "industrial",
+        "layer": "1",
+        "name": "Shearon Harris Nuclear Power Plant",
+        "operator": "Duke Energy",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "928 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1987-05-02",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.956125,
+          35.6336878
+        ]
+      },
+      "id": "way/1007084278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013377152",
+        "alt_name": "Билибинская АЭС",
+        "name": "Билибинская АТЭЦ",
+        "name:ar": "محطة بيليبينو للطاقة النووية",
+        "name:de": "Kernkraftwerk Bilibino",
+        "name:en": "Bilibino Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Bilibino",
+        "name:ja": "ビリビノ原子力発電所",
+        "name:nl": "Kerncentrale Bilibino",
+        "name:no": "Bilibino kjernekraftverk",
+        "name:pl": "Bilibińska Elektrownia Atomowa",
+        "name:ru": "Билибинская АТЭЦ",
+        "name:sv": "Bilibino kärnkraftvärmeverk",
+        "name:uk": "Білібінська АЕС",
+        "name:zh": "比利比诺核电站",
+        "operator": "Росэнергоатом",
+        "plant:method": "fission",
+        "plant:output:electricity": "36 MW",
+        "plant:output:hot_water": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1974",
+        "wikidata": "Q1739361",
+        "wikipedia": "ru:Билибинская АЭС",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.539216,
+          68.0510977
+        ]
+      },
+      "id": "way/1013377152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1035905414",
+        "building": "power_station",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.3008678,
+          35.3274761
+        ]
+      },
+      "id": "way/1035905414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1080961016",
+        "landuse": "industrial",
+        "name": "H. B. Robinson Nuclear Generating Station",
+        "operator": "Duke Energy Progress",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "768.6 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "3251",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2020",
+        "start_date": "1960-05",
+        "wikidata": "Q836576",
+        "wikipedia": "en:H. B. Robinson Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1592016,
+          34.4028903
+        ]
+      },
+      "id": "way/1080961016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1084336687",
+        "addr:city": "Seneca",
+        "addr:housenumber": "7800",
+        "addr:postcode": "29672",
+        "addr:state": "SC",
+        "addr:street": "Rochester Highway",
+        "landuse": "industrial",
+        "name": "Oconee Nuclear Station",
+        "operator": "Duke Energy",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "2666.7 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "3265",
+        "start_date": "1973",
+        "wikidata": "Q1426933",
+        "wikipedia": "en:Oconee Nuclear Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8971307,
+          34.7938282
+        ]
+      },
+      "id": "way/1084336687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1096498358",
+        "addr:city": "Southport",
+        "addr:postcode": "28461",
+        "addr:state": "NC",
+        "landuse": "industrial",
+        "name": "Brunswick Nuclear Generating Station",
+        "operator": "Duke Energy Progress",
+        "operator:wikidata": "Q1264404",
+        "plant:method": "fission",
+        "plant:output:electricity": "2003.2 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6014",
+        "start_date": "1975-11",
+        "wikidata": "Q1516539",
+        "wikipedia": "en:Brunswick Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0088568,
+          33.9587213
+        ]
+      },
+      "id": "way/1096498358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175928952",
+        "landuse": "industrial",
+        "name": "Waterford 3 Nuclear Generating Station",
+        "operator": "Entergy Louisiana",
+        "plant:method": "fission",
+        "plant:output:electricity": "1199.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "4270",
+        "start_date": "1985",
+        "wikidata": "Q1739494",
+        "wikipedia": "en:Waterford Nuclear Generating Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4703638,
+          29.9933738
+        ]
+      },
+      "id": "way/1175928952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1213799426",
+        "landuse": "industrial",
+        "name": "Watts Bar Nuclear Power Plant",
+        "operator": "Tennessee Valley Authority",
+        "operator:short": "TVA",
+        "operator:wikidata": "Q1367577",
+        "plant:method": "fission",
+        "plant:output:electricity": "2539.8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "7722",
+        "ref:US:EPA": "110007843646",
+        "start_date": "1996-05",
+        "wikidata": "Q1739496",
+        "wikipedia": "en:Watts Bar Nuclear Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7920661,
+          35.6011288
+        ]
+      },
+      "id": "way/1213799426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1215533552",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Sequoyah Nuclear Generating Station",
+        "operator": "Tennessee Valley Authority",
+        "operator:short": "TVA",
+        "operator:wikidata": "Q1367577",
+        "plant:method": "fission",
+        "plant:output:electricity": "2441 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "6152",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1981-06-01",
+        "wikidata": "Q1639556",
+        "wikipedia": "en:Sequoyah Nuclear Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0913962,
+          35.2251512
+        ]
+      },
+      "id": "way/1215533552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1231456212",
+        "landuse": "industrial",
+        "name": "Surry Nuclear Power Plant",
+        "operator": "Virginia Electric and Power Company",
+        "plant:method": "fission",
+        "plant:output:electricity": "1695 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "ref:US:EIA": "3806",
+        "source": "U.S. Energy Information Administration - EIA-860 - 2021",
+        "start_date": "1972-12",
+        "type": "multipolygon",
+        "wikidata": "Q1567468",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6965864,
+          37.1649666
+        ]
+      },
+      "id": "way/1231456212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1293009002",
+        "landuse": "industrial",
+        "name": "KANUPP-1",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.7889192,
+          24.8450032
+        ]
+      },
+      "id": "way/1293009002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1341021071",
+        "name": "女川原子力発電所",
+        "name:de": "Kernkraftwerk Onagawa",
+        "name:en": "Onagawa Nuclear Power Plant",
+        "name:et": "Onagawa tuumaelektrijaam",
+        "name:fr": "Centrale nucléaire d'Onagawa",
+        "name:nl": "Kernenergiecentrale Onagawa",
+        "name:no": "Onagawa kjernekraftverk",
+        "name:pl": "Elektrownia jądrowa Onagawa",
+        "name:sv": "Onagawa kärnkraftverk",
+        "operator": "Tōhoku Denryoku",
+        "plant:method": "fission",
+        "plant:output:electricity": "2174 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q1067623",
+        "wikipedia": "en:Onagawa Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4992037,
+          38.398967
+        ]
+      },
+      "id": "way/1341021071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1347997568",
+        "landuse": "construction",
+        "name": "国核湛江核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "yes",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.8095735,
+          21.5607626
+        ]
+      },
+      "id": "way/1347997568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1354391195",
+        "landuse": "industrial",
+        "name": "Pelindaba Research Reactor",
+        "plant:method": "fission",
+        "plant:output:electricity": "20 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9282554,
+          -25.8020507
+        ]
+      },
+      "id": "way/1354391195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410158137",
+        "landuse": "industrial",
+        "name": "25MW 실험용 경수로 부지",
+        "name:en": "25 MW Experimental Light Water Reactor Site",
+        "name:ko": "25MW 실험용 경수로 부지",
+        "plant:method": "fission",
+        "plant:output:electricity": "25 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7549946,
+          39.7946589
+        ]
+      },
+      "id": "way/1410158137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1410158204",
+        "landuse": "industrial",
+        "name": "IRT-2000 Reactor Site",
+        "plant:method": "fission",
+        "plant:output:electricity": "8 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "source": "https://web.archive.org/web/20260117112730/https://isis-online.org/uploads/isis-reports/documents/IRT_Reactor_March_9_2016_FINAL.pdf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.750535,
+          39.8073486
+        ]
+      },
+      "id": "way/1410158204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1451874401",
+        "addr:city": "Corvallis",
+        "addr:country": "US",
+        "addr:housenumber": "3451",
+        "addr:postcode": "97331",
+        "addr:state": "OR",
+        "addr:street": "Southwest Jefferson Way",
+        "hazard": "nuclear",
+        "landuse": "industrial",
+        "name": "Oregon State University Radiation Center",
+        "note": "Plant does not produce any energy that is exported, only for experimental use",
+        "plant:method": "fission",
+        "plant:output:hot_water": "1.1 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "short_name": "RC",
+        "website": "https://radiationcenter.oregonstate.edu/",
+        "wikidata": "Q7101381",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2891039,
+          44.5651632
+        ]
+      },
+      "id": "way/1451874401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1460254812",
+        "alt_name": "红沙核电",
+        "landuse": "industrial",
+        "name": "防城港核电站",
+        "name:en": "Fangchenggang Nuclear Power Plant",
+        "name:fr": "Centrale nucléaire de Fangchenggang",
+        "name:zh": "防城港核电站",
+        "official_name": "防城港核电厂",
+        "operator": "广西防城港核电有限公司",
+        "plant:method": "fission",
+        "plant:output:electricity": "4547.2 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q135679",
+        "wikipedia": "en:Fangchenggang Nuclear Power Plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.5633168,
+          21.6445225
+        ]
+      },
+      "id": "way/1460254812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1489267299",
+        "name": "三澳核电站",
+        "name:en": "San'ao nuclear power plant",
+        "name:fr": "Centrale nucléaire de San'ao",
+        "plant:output:electricity": "1126 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "wikidata": "Q109377736",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5154887,
+          27.1990684
+        ]
+      },
+      "id": "way/1489267299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6443114600",
+        "name": "Indústrias Nucleares do Brasil",
+        "plant:source": "nuclear",
+        "power": "plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.6413994,
+          -22.5045682
+        ]
+      },
+      "id": "node/6443114600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8645134918",
+        "name": "RHF de l'Institut Laue Langevin",
+        "name:en": "High-flux Reactor",
+        "plant:method": "fission",
+        "plant:moderator": "heavy_water",
+        "plant:output:electricity": "57 MW",
+        "plant:output:neutrons": "yes",
+        "plant:source": "nuclear",
+        "power": "plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6928449,
+          45.2060995
+        ]
+      },
+      "id": "node/8645134918"
+    }
+  ]
+}
