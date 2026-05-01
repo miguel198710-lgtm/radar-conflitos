@@ -72,4 +72,40 @@ def atualizar_memoria_voos():
     except Exception as e:
         print(f"Erro de radar: {e}")
 
-# ... (O resto do teu código mantém-se igual nas rotas @app.route) ...
+
+# --- ROTAS DA API ---
+@app.route('/voos_militares.geojson')
+def get_voos():
+    atualizar_memoria_voos()
+    features = []
+    for hex_id, dados in historico_voos.items():
+        if len(dados["rasto"]) > 0:
+            pos_atual = dados["rasto"][-1]
+            features.append({
+                "type": "Feature",
+                "geometry": {"type": "Point", "coordinates": pos_atual},
+                "properties": {
+                    "callsign": dados["callsign"],
+                    "tipo": dados["tipo"],
+                    "hex": dados["hex"],
+                    "altitude_pes": dados["alt_pes"],
+                    "velocidade_nos": dados["vel"],
+                    "rumo": dados["rumo"]                    
+                }
+            })
+    return jsonify({"type": "FeatureCollection", "features": features})
+
+@app.route('/rastos_voos.geojson')
+def get_rastos_voos():
+    features = []
+    for hex_id, dados in historico_voos.items():
+        if len(dados["rasto"]) > 1:
+            features.append({
+                "type": "Feature",
+                "geometry": {"type": "LineString", "coordinates": dados["rasto"]},
+                "properties": {"callsign": dados["callsign"]}
+            })
+    return jsonify({"type": "FeatureCollection", "features": features})
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8080)
