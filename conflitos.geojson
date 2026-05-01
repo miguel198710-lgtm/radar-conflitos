@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US withdrawing 5,000 troops from Germany, US officials say",
+        "descricao": "The move comes as a rift over the Iran war widens between President Donald Trump and Europe.",
+        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "01/05/2026 22:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -125,40 +142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Don’t call it a ‘quagmire’: defense secretary refuses to speculate on length of Iran war",
-        "descricao": "The questions over the war’s future come as a 60-day deadline approaches Thursday under the War Powers Act. ",
-        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "29/04/2026 20:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says he discussed a Ukraine ceasefire with Putin",
-        "descricao": "Trump said he suggested \"a little bit of a ceasefire\" in the war in Ukraine during his phone call Wednesday with the Russian leader.",
-        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "29/04/2026 20:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -220,6 +203,23 @@
         "url_fonte": "https://warontherocks.com/the-trump-administration-hasnt-forgotten-americas-backyard/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "30/04/2026 05:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "At least 12 killed in latest Israeli attacks on Lebanon",
+        "descricao": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire. \n",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "01/05/2026 21:10"
       }
     },
     {
@@ -312,108 +312,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
-        "descricao": "Amid transatlantic tensions over the Iran war, Trump has threatened to reduce troops in Germany. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "01/05/2026 13:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Giorgia Meloni’s moral retreat on Gaza",
-        "descricao": "The Italian PM’s response to Israel’s genocidal war on Gaza reflects not moral conviction, but political calculation.",
-        "url_fonte": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "01/05/2026 12:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-        "descricao": "Israel’s military reportedly seized 22 vessels sailing among the Global Sumud Flotilla.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "01/05/2026 11:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-        "descricao": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "01/05/2026 10:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
-        "descricao": "As US-UK relations nosedive, questions are mounting over whether Trump might shift Washington&#039;s position on the islands.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/1/falklands-claim-can-argentinas-milei-use-trump-ties-to-challenge-the-uk?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "01/05/2026 10:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Who profits big from the war on Iran?",
-        "descricao": "Who profits big from the war on Iran?",
-        "url_fonte": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "01/05/2026 10:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -423,7 +321,7 @@
         "descricao": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
         "url_fonte": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "01/05/2026 19:29"
+        "data_noticia": "01/05/2026 21:05"
       }
     },
     {
@@ -492,23 +390,6 @@
         "url_fonte": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "30/04/2026 18:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4699,
-          50.5039
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Belgium plans to nationalise nuclear power plants",
-        "descricao": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
-        "url_fonte": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "30/04/2026 19:50"
       }
     },
     {
@@ -691,7 +572,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'Iran's most potent weapon': Telegraph's Adrian Blomfield offers rare frontline glimpse of Hormuz",
+        "titulo_evento": "Inside Iran’s ‘mosquito fleet’: Telegraph’s Adrian Blomfield with a rare frontline glimpse of Hormuz",
         "descricao": "\nGavin Lee welcomes Adrian Blomfield, Senior Foreign Correspondent at The Telegraph. His reporting from the Strait of Hormuz offers a rare, intimate view beyond satellite imagery and policy abstraction. “One of the things you get a sense of when you'...",
         "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20260501-iran-s-most-potent-weapon-telegraph-s-adrian-blomfield-offers-rare-frontline-glimpse-of-hormuz",
         "categoria": "Defesa/Conflito (France 24)",
@@ -866,6 +747,23 @@
         "url_fonte": "https://www.france24.com/en/tv-shows/talking-europe/20260501-we-should-be-able-to-open-up-negotiations-with-ukraine-sweden-s-eu-minister-says",
         "categoria": "Política (France 24)",
         "data_noticia": "01/05/2026 12:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US to withdraw thousands of troops from Germany",
+        "descricao": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadership.",
+        "url_fonte": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "01/05/2026 22:00"
       }
     },
     {
@@ -1145,16 +1043,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany Takes a Hit With Iran War. These Stocks Might Still Be Bargains.",
+        "descricao": "",
+        "url_fonte": "https://www.barrons.com/articles/germany-iran-war-stocks-bargains-7dd9c702?siteid=yhoof2&yptr=yahoo",
+        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
         "titulo_evento": "Stocks and Oil Prices Sent Conflicting Signals in April Amid Havoc of Iran War",
-        "descricao": "Energy markets remained disrupted by turmoil in the Middle East, while the S&P 500 posted its best month since November 2020.",
+        "descricao": "The S&P 500 notched five weeks of gains for the first time in roughly 18 months. In April, it rose more than 10 percent, its best month since November 2020.",
         "url_fonte": "https://www.nytimes.com/2026/05/01/business/stocks-oil-prices-iran-war-april.html",
         "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "01/05/2026 18:23"
+        "data_noticia": "01/05/2026 20:11"
       }
     },
     {
@@ -1235,28 +1150,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "House Speaker Mike Johnson says the U.S. is 'not at war' with Iran as White House approaches 60-day deadline - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDZSTmdDQlpjb3ZsVWUyWkdHU0JfLW1KUzdKOVZMNmJ0T3pPYXZTMDQ2RmFFc3JqeTFKVTR6d2E4MUp0SDdkLTdkMXotQy1wdDd6ZUd4Yld3bEtGSUhERWxQbDVLV1oxbzd3RWtna0c2blJ5S2YyRnl0c2J3dVB2MGVBZlpDaDd5LUJaeGVUWVBDdEp6...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDZSTmdDQlpjb3ZsVWUyWkdHU0JfLW1KUzdKOVZMNmJ0T3pPYXZTMDQ2RmFFc3JqeTFKVTR6d2E4MUp0SDdkLTdkMXotQy1wdDd6ZUd4Yld3bEtGSUhERWxQbDVLV1oxbzd3RWtna0c2blJ5S2YyRnl0c2J3dVB2MGVBZlpDaDd5LUJaeGVUWVBDdEp6WWxTR1RETVp3RFFmR29PZGQyWEt3S0E5OU1VUV9EQktJeUxYM3pFYjhIRmw?oc=5",
+        "titulo_evento": "Defense: White House formalizes termination of Iran war - Punchbowl News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBiaXpqTll5bVU2NVVHOU84b181clcwb0ItYTJ3Mmtnc2kwTVdKSlJUQjF0bnRNMEVBRmY4a2ZUd1ljUzBXdDBoamRSd3VmdndKbHEwOE5SZ0wtWWthMDhrcmJmaHZsdGNTYzlFRA?oc=5\" target=\"_blank\">Defense: White House formalizes...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiaXpqTll5bVU2NVVHOU84b181clcwb0ItYTJ3Mmtnc2kwTVdKSlJUQjF0bnRNMEVBRmY4a2ZUd1ljUzBXdDBoamRSd3VmdndKbHEwOE5SZ0wtWWthMDhrcmJmaHZsdGNTYzlFRA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 12:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Iran War Reaches 60-Day Mark, Republicans in Congress Grow Impatient With Trump - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9fYWhLMmJiS0dTb01ZUk9KZUNGWTFxU0RZMm56YjExZ1FDNnFHQWNmUnZ6empCcDV6TWJZQVFYUDRYM0RZakRPazBCb3JIbGw2VHVMMjlWZV9iZHFxQ1c3NDdiZjBqN2dHTGRFLWItOGhmV2hUc092LWVvMHZCYTdDcnFCcm8?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9fYWhLMmJiS0dTb01ZUk9KZUNGWTFxU0RZMm56YjExZ1FDNnFHQWNmUnZ6empCcDV6TWJZQVFYUDRYM0RZakRPazBCb3JIbGw2VHVMMjlWZV9iZHFxQ1c3NDdiZjBqN2dHTGRFLWItOGhmV2hUc092LWVvMHZCYTdDcnFCcm8?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:38"
+        "data_noticia": "01/05/2026 20:07"
       }
     },
     {
@@ -1269,113 +1167,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says Iran war 'terminated,' as war powers deadline arrives - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpROU1Bb3B1UEdBLV9ybnFZNXF1Z3B2ZEdfWjJla2YxaElNX3FhNXhZ?oc=5",
+        "titulo_evento": "Why Trump says the US-Iran war is over - vox.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZPS3doUWtPeTZMOFJEYTlEU1psMjFNUm9Ka0ZmU2t4OVNuMWxmcmNDUjA5SlYxZTVMVWpwVVViVVVxaFhXNWM0WVBQaVF1ZmIzTnlqQU5MN0hQUGhkTlM3UlB0WC0wcG40TVNuSi1WV09BZTlxWVNzejZsQ1QxT2JpNm9oQkRKRzhfeEp6NFB4WDBs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZPS3doUWtPeTZMOFJEYTlEU1psMjFNUm9Ka0ZmU2t4OVNuMWxmcmNDUjA5SlYxZTVMVWpwVVViVVVxaFhXNWM0WVBQaVF1ZmIzTnlqQU5MN0hQUGhkTlM3UlB0WC0wcG40TVNuSi1WV09BZTlxWVNzejZsQ1QxT2JpNm9oQkRKRzhfeEp6NFB4WDBsU2Y4SmJMQnhwenZFRHJxTlBXdWxYU2gybFhB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 19:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump suggests War Powers Act unconstitutional as Iran war hits 60 days - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEVQSTd6T2ZMb05fbFdhY1phUnM1VHAtZ1hZRG9TbnpIVER5ZjQyenZGMUVZNktmZ09XUkh5eVB3OFJ2Y3kydEYwU1laMW5zVS1qOXo5TjhYc2tGZjQ3dUF5NTdYNnNvaHFPdFA2V1BHaXRPMS0yZ3JuTlJSOGw0UTF1cU3SAYoBQVVfeXFMT0J0SlNa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEVQSTd6T2ZMb05fbFdhY1phUnM1VHAtZ1hZRG9TbnpIVER5ZjQyenZGMUVZNktmZ09XUkh5eVB3OFJ2Y3kydEYwU1laMW5zVS1qOXo5TjhYc2tGZjQ3dUF5NTdYNnNvaHFPdFA2V1BHaXRPMS0yZ3JuTlJSOGw0UTF1cU3SAYoBQVVfeXFMT0J0SlNaZkdpM1JzSGhNbE1admpzRjlfVUcyTm01SXAzV3p5MzhNOTdkX21kUXRCYnBoYS1RRnZrTEpKUnZDRlFqREt1TUlFNEJPTEc5VnJzb1RSWDh2TlhTYXZQZW5PTVNYM0JWdnh1eU80WHM2ZWVJQ0RHaEQtX2dGMDJUUVhsZ29R?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump tells Congress the Iran war has ‘terminated’ as legal deadline hits - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNN09iLUVlb2dJWi1SR3djX2N6YWM5T2hybmI4UnZkWkVMUVluRDc5Rk9wU1Zvb3lkLUJSR1BpaVNxWnlnMG9vNzBILTJxc0lNbnJxS1N6YnBWeFliRDhhVWg5RWdoSF9GR2RPYzRVZHpDUUtHQ0VzeHd1VmY5MWhyMUVSa1FrZw?oc=5\" target=\"_bl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN09iLUVlb2dJWi1SR3djX2N6YWM5T2hybmI4UnZkWkVMUVluRDc5Rk9wU1Zvb3lkLUJSR1BpaVNxWnlnMG9vNzBILTJxc0lNbnJxS1N6YnBWeFliRDhhVWg5RWdoSF9GR2RPYzRVZHpDUUtHQ0VzeHd1VmY5MWhyMUVSa1FrZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "4 takeaways from Hegseth's hearings on historic defense budget request, Iran war - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTdxZmc5RkFuR2c4YkpfN3kyUHFka041dW9uV0ZFc0NKdTZ4WHBRd3RDUFJYN0Rxbk5FMW9kal9xQWlvUGd0c282a2RRVzhkbjJiUHJoOXRWZGE4ZUgySFVDcDUyc2ktTWJJNXBzdERtNTYtZHJlMGxFMndacXpDb2U0aWZua05hS2UwSElUOGtyUkpX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTdxZmc5RkFuR2c4YkpfN3kyUHFka041dW9uV0ZFc0NKdTZ4WHBRd3RDUFJYN0Rxbk5FMW9kal9xQWlvUGd0c282a2RRVzhkbjJiUHJoOXRWZGE4ZUgySFVDcDUyc2ktTWJJNXBzdERtNTYtZHJlMGxFMndacXpDb2U0aWZua05hS2UwSElUOGtyUkpXeFJSNzdXRFJiNUZ5R2pFYUVWX3lsT2RwMFJSY3I0dThJNXPSAbwBQVVfeXFMT1JVRmxpeVZKQlVndG04TllhY3I2Yk81a2xhTzRQX3hnS0dqMy1FU1J2WmFvcnE4TkJVaElNOFltaFgxOGExWkJHSFlGN0xheUJuRTE5V2tjRXllWEhQMjBiOGJHaE85OGZIandabUVEV0JkeThSSk5aMm5jbG9jZzlYX0ptTUY1U01yU192ekhIM1R5b3pOQTVuWDZHY25EUEU2NWl6R2QyQ3JFekVGUWQxV3BPZHpRR2laU3E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 14:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Tells Congress Iran Conflict Is Over, Sidestepping War Authorization - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZDVk1hUkNpLVMwSkxYMlNQY3ZjaE1lcUkwN0lTRUJPaVNJdDRiUjN2RWVvelAxdUd5MUEtLWhhMzNUZ0V5U1hlUTZQXzFKWk1yajZZczJLOGphNE1xM2tpeFl2RFZzT011VkJ1bmtoM2duczA2SXhqZ2QyNk1EMFpuLTlRYi1Cd0xOVFlQZVRNUDBY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZDVk1hUkNpLVMwSkxYMlNQY3ZjaE1lcUkwN0lTRUJPaVNJdDRiUjN2RWVvelAxdUd5MUEtLWhhMzNUZ0V5U1hlUTZQXzFKWk1yajZZczJLOGphNE1xM2tpeFl2RFZzT011VkJ1bmtoM2duczA2SXhqZ2QyNk1EMFpuLTlRYi1Cd0xOVFlQZVRNUDBYdkMtNkFOWk8tc2dQaXRyWHk0NXBxb0NSaDd1N0pWOWNmQ3JuVEdJbTIxMklYb3dsUGxHNw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hegseth says clock paused on deadline to seek approval for Iran war - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkhqeVZKZEJFUkZlXzhkcmpteGFCZXZKeTJOYk5NUlRzMlFfbmdQSmRzQ3dySE5UVUdPOHRHeXBQYml5UEcxdExScGo2U3hBd2pneFdSQTh2QQ?oc=5\" target=\"_blank\">Hegseth says clock paused on deadline to seek approval ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkhqeVZKZEJFUkZlXzhkcmpteGFCZXZKeTJOYk5NUlRzMlFfbmdQSmRzQ3dySE5UVUdPOHRHeXBQYml5UEcxdExScGo2U3hBd2pneFdSQTh2QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 16:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says he doesn't need congressional authorization for military operations in Iran, citing ceasefire - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0ZSZ2ljVWk5UFo1a3NjZUNXN1hTZ1dKaXRLWXpmdXN4eGRXZUJiTUwwc0lVX1FfMTJkd3dxcnprd1UxcVBTZFlrM2d0UFhMb0Yyc081MnJicWEyMXROdEZEUFN6UUkxSl9qbTExU3M1enJpbzE2c2o1X2dWX0dsSUJOZVlRd3FSNXc4Tk5IUG14S1k5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0ZSZ2ljVWk5UFo1a3NjZUNXN1hTZ1dKaXRLWXpmdXN4eGRXZUJiTUwwc0lVX1FfMTJkd3dxcnprd1UxcVBTZFlrM2d0UFhMb0Yyc081MnJicWEyMXROdEZEUFN6UUkxSl9qbTExU3M1enJpbzE2c2o1X2dWX0dsSUJOZVlRd3FSNXc4Tk5IUG14S1k5U1Rra1FUNWszc1hZbGZGU184RGNaQVFiLUJvWFF5Mk5RNnNfRXVQXzMwU1NTQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:28"
+        "data_noticia": "01/05/2026 22:05"
       }
     },
     {
@@ -1392,7 +1188,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWhEcG1UbEtCVld6T1lkcWZ0NjVLdHducUxSWlV2Wmo2eEJKaGo1b0hkLTJWb2NPMVd3NGszUXJ4MTI3UjhtcGh4TTdqZXMxQlk2SUQ0TjRlQ1REbnZ6RFJOMXBTUHM2MWs0RTNoNGJ1aFVsSFJhbVlSaDZjUkpaOUFjNjN5NmJZejRrbUx6SQ?oc=5\"...",
         "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWhEcG1UbEtCVld6T1lkcWZ0NjVLdHducUxSWlV2Wmo2eEJKaGo1b0hkLTJWb2NPMVd3NGszUXJ4MTI3UjhtcGh4TTdqZXMxQlk2SUQ0TjRlQ1REbnZ6RFJOMXBTUHM2MWs0RTNoNGJ1aFVsSFJhbVlSaDZjUkpaOUFjNjN5NmJZejRrbUx6SQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:25"
+        "data_noticia": "01/05/2026 20:56"
       }
     },
     {
@@ -1405,11 +1201,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYBQVVfeXFMT1RBR0huMUR6QUZoTXU1cjZCYnZZY05GaGg2dUJ0UWMzRXI3QTNoSDFvYmRhMlMzRUh3dXozR3BvblJPdGsydVJYTjNMLW55MmptQXdTODlXMi05U19sS1ZXYlFPVHZSNmxMbkc2OGRqbE1zUEZQVGVldWw1dDdZLVQtM0lYc00zUUkwMUMwM01tT2RYUlpB?oc=5",
+        "titulo_evento": "Hegseth says clock paused on deadline to seek approval for Iran war - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkhqeVZKZEJFUkZlXzhkcmpteGFCZXZKeTJOYk5NUlRzMlFfbmdQSmRzQ3dySE5UVUdPOHRHeXBQYml5UEcxdExScGo2U3hBd2pneFdSQTh2QQ?oc=5\" target=\"_blank\">Hegseth says clock paused on deadline to seek approval ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkhqeVZKZEJFUkZlXzhkcmpteGFCZXZKeTJOYk5NUlRzMlFfbmdQSmRzQ3dySE5UVUdPOHRHeXBQYml5UEcxdExScGo2U3hBd2pneFdSQTh2QQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:22"
+        "data_noticia": "01/05/2026 19:31"
       }
     },
     {
@@ -1417,16 +1213,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "A deadline for the Iran war is here. What does the War Powers Act say? - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGZ2UmIwTkpPY1NIWU5aMC1Fa2FKajhmQmNlRjVCMDdhdnZsOTZPQnhHdFVCSlVZbHlIVVFFTDNINnRyOHJJRGFGZmZOWGxKVjUxeGxpaVV3S0tTLUxBNjFCc000S2VlZnA5Q2hhMGJJUEJUMmJ2MXJDelRRejhNLWZB?oc=5\" target=\"_blank\">A...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGZ2UmIwTkpPY1NIWU5aMC1Fa2FKajhmQmNlRjVCMDdhdnZsOTZPQnhHdFVCSlVZbHlIVVFFTDNINnRyOHJJRGFGZmZOWGxKVjUxeGxpaVV3S0tTLUxBNjFCc000S2VlZnA5Q2hhMGJJUEJUMmJ2MXJDelRRejhNLWZB?oc=5",
+        "titulo_evento": "Trump Tells Congress Iran Conflict Is Over, Sidestepping War Authorization - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZDVk1hUkNpLVMwSkxYMlNQY3ZjaE1lcUkwN0lTRUJPaVNJdDRiUjN2RWVvelAxdUd5MUEtLWhhMzNUZ0V5U1hlUTZQXzFKWk1yajZZczJLOGphNE1xM2tpeFl2RFZzT011VkJ1bmtoM2duczA2SXhqZ2QyNk1EMFpuLTlRYi1Cd0xOVFlQZVRNUDBY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZDVk1hUkNpLVMwSkxYMlNQY3ZjaE1lcUkwN0lTRUJPaVNJdDRiUjN2RWVvelAxdUd5MUEtLWhhMzNUZ0V5U1hlUTZQXzFKWk1yajZZczJLOGphNE1xM2tpeFl2RFZzT011VkJ1bmtoM2duczA2SXhqZ2QyNk1EMFpuLTlRYi1Cd0xOVFlQZVRNUDBYdkMtNkFOWk8tc2dQaXRyWHk0NXBxb0NSaDd1N0pWOWNmQ3JuVEdJbTIxMklYb3dsUGxHNw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:27"
+        "data_noticia": "01/05/2026 20:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran submits new proposal to end war; Trump says he’s ‘not satisfied’ - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEx3cHhqRFZZU09rWS1mUVdNOHhPam85VnNUVVlvTTlxd2JOMXlPYXlpa2hlb1VxcjdBV2tPX2hLQnZvXzZXVGhkU0w4TkNnMWhud3pXRGhoQl9fUmF3RUhzc0cweTJaSmVWSnpfbmRjWFJDcXFHQXc2RWNrbmd5bHlSekNVMTRFSERNOW1RbG9KOFVv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEx3cHhqRFZZU09rWS1mUVdNOHhPam85VnNUVVlvTTlxd2JOMXlPYXlpa2hlb1VxcjdBV2tPX2hLQnZvXzZXVGhkU0w4TkNnMWhud3pXRGhoQl9fUmF3RUhzc0cweTJaSmVWSnpfbmRjWFJDcXFHQXc2RWNrbmd5bHlSekNVMTRFSERNOW1RbG9KOFVvamMwcVJwNkrSAaIBQVVfeXFMTlBkVWVmTHNmdVV3WUZQM010NnFMTlNoZHpyOGtBLWREZnQzLWRWWGhyQXhzU0pMY2JQOUdsLUt4QVNmV0gyY0VWTmNueVpsV3FxWE9kVmRIUG5OMldzOHMtV0NzSG1fd2tHbHVGSmxRU0k2dUNpejJaRlpHY0xTWV93aXVpMW84MU9IdFJ3c3ZwdlZuT1pMT1ZKVlB0Q0NLMWFR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 20:16"
       }
     },
     {
@@ -1444,6 +1257,74 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnFWeUFBb2NydGNmWVJKd19uZDdxUlZidUdCbWNCUGtWS3V1QnZYbEl1Z2FOWHFQcE0wYmRrWkFXOXhjNFpSTFhmLVM1ejZCeF9tU1pwUnpyTk5FbVAxTmY3dU95R2ViS2FIUUxFaHhZYWFqRHVDZTk3M2FSLUJWVDVkNWNRNmpLVElLRWc0NUtaTnhKUHo2VkpDZXBmc2lGWXNLVjVpRlR1UjltYmhsSzlIbmhaTnM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "01/05/2026 19:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A deadline for the Iran war is here. What does the War Powers Act say? - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGZ2UmIwTkpPY1NIWU5aMC1Fa2FKajhmQmNlRjVCMDdhdnZsOTZPQnhHdFVCSlVZbHlIVVFFTDNINnRyOHJJRGFGZmZOWGxKVjUxeGxpaVV3S0tTLUxBNjFCc000S2VlZnA5Q2hhMGJJUEJUMmJ2MXJDelRRejhNLWZB?oc=5\" target=\"_blank\">A...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGZ2UmIwTkpPY1NIWU5aMC1Fa2FKajhmQmNlRjVCMDdhdnZsOTZPQnhHdFVCSlVZbHlIVVFFTDNINnRyOHJJRGFGZmZOWGxKVjUxeGxpaVV3S0tTLUxBNjFCc000S2VlZnA5Q2hhMGJJUEJUMmJ2MXJDelRRejhNLWZB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "After 60 Days, Republican Patience for the Iran War Is Wearing Thin - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9fYWhLMmJiS0dTb01ZUk9KZUNGWTFxU0RZMm56YjExZ1FDNnFHQWNmUnZ6empCcDV6TWJZQVFYUDRYM0RZakRPazBCb3JIbGw2VHVMMjlWZV9iZHFxQ1c3NDdiZjBqN2dHTGRFLWItOGhmV2hUc092LWVvMHZCYTdDcnFCcm8?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9fYWhLMmJiS0dTb01ZUk9KZUNGWTFxU0RZMm56YjExZ1FDNnFHQWNmUnZ6empCcDV6TWJZQVFYUDRYM0RZakRPazBCb3JIbGw2VHVMMjlWZV9iZHFxQ1c3NDdiZjBqN2dHTGRFLWItOGhmV2hUc092LWVvMHZCYTdDcnFCcm8?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 17:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says he doesn't need congressional authorization for military operations in Iran, citing ceasefire - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0ZSZ2ljVWk5UFo1a3NjZUNXN1hTZ1dKaXRLWXpmdXN4eGRXZUJiTUwwc0lVX1FfMTJkd3dxcnprd1UxcVBTZFlrM2d0UFhMb0Yyc081MnJicWEyMXROdEZEUFN6UUkxSl9qbTExU3M1enJpbzE2c2o1X2dWX0dsSUJOZVlRd3FSNXc4Tk5IUG14S1k5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0ZSZ2ljVWk5UFo1a3NjZUNXN1hTZ1dKaXRLWXpmdXN4eGRXZUJiTUwwc0lVX1FfMTJkd3dxcnprd1UxcVBTZFlrM2d0UFhMb0Yyc081MnJicWEyMXROdEZEUFN6UUkxSl9qbTExU3M1enJpbzE2c2o1X2dWX0dsSUJOZVlRd3FSNXc4Tk5IUG14S1k5U1Rra1FUNWszc1hZbGZGU184RGNaQVFiLUJvWFF5Mk5RNnNfRXVQXzMwU1NTQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 18:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tells Congress ceasefire means he does not need their approval for Iran war - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTXg0c1RsTi1uaU85cm01ZmNEXzdVelB2R1d4Y1hBaFYyWXMyazdUS01KS18weHJFWG5RaDYxMzlCTXlfaHRuNjB2bjVrN3FrTlNQR0pYQjZIdw?oc=5\" target=\"_blank\">Trump tells Congress ceasefire means he does not need t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTXg0c1RsTi1uaU85cm01ZmNEXzdVelB2R1d4Y1hBaFYyWXMyazdUS01KS18weHJFWG5RaDYxMzlCTXlfaHRuNjB2bjVrN3FrTlNQR0pYQjZIdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 20:07"
       }
     },
     {
@@ -1473,11 +1354,130 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump tells Congress hostilities in Iran 'have terminated' as War Powers deadline hits - CNBC",
+        "titulo_evento": "House Speaker Mike Johnson says the U.S. is 'not at war' with Iran as White House approaches 60-day deadline - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDZSTmdDQlpjb3ZsVWUyWkdHU0JfLW1KUzdKOVZMNmJ0T3pPYXZTMDQ2RmFFc3JqeTFKVTR6d2E4MUp0SDdkLTdkMXotQy1wdDd6ZUd4Yld3bEtGSUhERWxQbDVLV1oxbzd3RWtna0c2blJ5S2YyRnl0c2J3dVB2MGVBZlpDaDd5LUJaeGVUWVBDdEp6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDZSTmdDQlpjb3ZsVWUyWkdHU0JfLW1KUzdKOVZMNmJ0T3pPYXZTMDQ2RmFFc3JqeTFKVTR6d2E4MUp0SDdkLTdkMXotQy1wdDd6ZUd4Yld3bEtGSUhERWxQbDVLV1oxbzd3RWtna0c2blJ5S2YyRnl0c2J3dVB2MGVBZlpDaDd5LUJaeGVUWVBDdEp6WWxTR1RETVp3RFFmR29PZGQyWEt3S0E5OU1VUV9EQktJeUxYM3pFYjhIRmw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 12:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tells Congress the Iran war has ‘terminated’ as legal deadline hits - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNN09iLUVlb2dJWi1SR3djX2N6YWM5T2hybmI4UnZkWkVMUVluRDc5Rk9wU1Zvb3lkLUJSR1BpaVNxWnlnMG9vNzBILTJxc0lNbnJxS1N6YnBWeFliRDhhVWg5RWdoSF9GR2RPYzRVZHpDUUtHQ0VzeHd1VmY5MWhyMUVSa1FrZw?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN09iLUVlb2dJWi1SR3djX2N6YWM5T2hybmI4UnZkWkVMUVluRDc5Rk9wU1Zvb3lkLUJSR1BpaVNxWnlnMG9vNzBILTJxc0lNbnJxS1N6YnBWeFliRDhhVWg5RWdoSF9GR2RPYzRVZHpDUUtHQ0VzeHd1VmY5MWhyMUVSa1FrZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 18:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump suggests War Powers Act unconstitutional as Iran war hits 60 days - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEVQSTd6T2ZMb05fbFdhY1phUnM1VHAtZ1hZRG9TbnpIVER5ZjQyenZGMUVZNktmZ09XUkh5eVB3OFJ2Y3kydEYwU1laMW5zVS1qOXo5TjhYc2tGZjQ3dUF5NTdYNnNvaHFPdFA2V1BHaXRPMS0yZ3JuTlJSOGw0UTF1cU3SAYoBQVVfeXFMT0J0SlNa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEVQSTd6T2ZMb05fbFdhY1phUnM1VHAtZ1hZRG9TbnpIVER5ZjQyenZGMUVZNktmZ09XUkh5eVB3OFJ2Y3kydEYwU1laMW5zVS1qOXo5TjhYc2tGZjQ3dUF5NTdYNnNvaHFPdFA2V1BHaXRPMS0yZ3JuTlJSOGw0UTF1cU3SAYoBQVVfeXFMT0J0SlNaZkdpM1JzSGhNbE1admpzRjlfVUcyTm01SXAzV3p5MzhNOTdkX21kUXRCYnBoYS1RRnZrTEpKUnZDRlFqREt1TUlFNEJPTEc5VnJzb1RSWDh2TlhTYXZQZW5PTVNYM0JWdnh1eU80WHM2ZWVJQ0RHaEQtX2dGMDJUUVhsZ29R?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 18:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says Iran war 'terminated,' as war powers deadline arrives - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDg4aERUdmNzSmNVNWlLQWpydnREOTlGZ1d5RHI1U3NCbUhHTTBLUnNUb1Q1LTFOZElZMGZHNjZhRndwNG1OYXVqU1dYWjVDVXJvVE1iMGFJNWptTG9rYWZRQWNzUHRkOFY4NGtlM2p6akkyQS1hOVlyQnprb01Xa192LWhzbFFZTm1iVDJDY1hrSnpROU1Bb3B1UEdBLV9ybnFZNXF1Z3B2ZEdfWjJla2YxaElNX3FhNXhZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 19:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "4 takeaways from Hegseth's hearings on historic defense budget request, Iran war - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTdxZmc5RkFuR2c4YkpfN3kyUHFka041dW9uV0ZFc0NKdTZ4WHBRd3RDUFJYN0Rxbk5FMW9kal9xQWlvUGd0c282a2RRVzhkbjJiUHJoOXRWZGE4ZUgySFVDcDUyc2ktTWJJNXBzdERtNTYtZHJlMGxFMndacXpDb2U0aWZua05hS2UwSElUOGtyUkpX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTdxZmc5RkFuR2c4YkpfN3kyUHFka041dW9uV0ZFc0NKdTZ4WHBRd3RDUFJYN0Rxbk5FMW9kal9xQWlvUGd0c282a2RRVzhkbjJiUHJoOXRWZGE4ZUgySFVDcDUyc2ktTWJJNXBzdERtNTYtZHJlMGxFMndacXpDb2U0aWZua05hS2UwSElUOGtyUkpXeFJSNzdXRFJiNUZ5R2pFYUVWX3lsT2RwMFJSY3I0dThJNXPSAbwBQVVfeXFMT1JVRmxpeVZKQlVndG04TllhY3I2Yk81a2xhTzRQX3hnS0dqMy1FU1J2WmFvcnE4TkJVaElNOFltaFgxOGExWkJHSFlGN0xheUJuRTE5V2tjRXllWEhQMjBiOGJHaE85OGZIandabUVEV0JkeThSSk5aMm5jbG9jZzlYX0ptTUY1U01yU192ekhIM1R5b3pOQTVuWDZHY25EUEU2NWl6R2QyQ3JFekVGUWQxV3BPZHpRR2laU3E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tells Congress hostilities in Iran 'have terminated' as war powers deadline hits - CNBC",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad0VZTUFqS2RQVU9NZS1remViSVFOZUJqQzlzTjZBMVdSRDVGT0RJTFFtU2t5Mkh2VmpLNnNQa0QwQ1hOSmFRdnRfeS11dGlYSHgxSWNoUElIXzJVNjd6RU8zRlRDZk1mVzlmOXFvSVBFd1Jw0gF6QVVfeXFMTnM1b3NoUTRwSnZ5WkRSQ0dweE5qSm9D...",
         "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ad0VZTUFqS2RQVU9NZS1remViSVFOZUJqQzlzTjZBMVdSRDVGT0RJTFFtU2t5Mkh2VmpLNnNQa0QwQ1hOSmFRdnRfeS11dGlYSHgxSWNoUElIXzJVNjd6RU8zRlRDZk1mVzlmOXFvSVBFd1Jw0gF6QVVfeXFMTnM1b3NoUTRwSnZ5WkRSQ0dweE5qSm9DbWZBX0lYYUxnZ2ZQaHJTelNsUGljMzBuZEFadl8tdTNacGNQY1ZyMjFkS1VFT1RwZVctU3VMeDQ4WVBwcEcxeWgwRGRWUVd6elUwZ0R1OHEteWxYVjgtbUh5WFE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "01/05/2026 16:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "As Iran war hits key 60-day deadline, Congress and Trump face choices on next steps - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYBQVVfeXFMT1RBR0huMUR6QUZoTXU1cjZCYnZZY05GaGg2dUJ0UWMzRXI3QTNoSDFvYmRhMlMzRUh3dXozR3BvblJPdGsydVJYTjNMLW55MmptQXdTODlXMi05U19sS1ZXYlFPVHZSNmxMbkc2OGRqbE1zUEZQVGVldWw1dDdZLVQtM0lYc00zUUkwMUMwM01tT2RYUlpB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 18:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A 'military operation' or a 'war'? Inside Trump's mixed messaging on Iran - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQampPMmhNOGQyMGhyZDZYVXZSTHpjT0J1elVsTW5saHRjMV84UTlnV2lwbWdXMzVoZldPM19JNW9jZTJfQWpSZWdaWlRVaXFDdC11dnlueEYzRy16VDJhaXJFNDdobTBMM3Fldy1iam9oZFNXWGFFcHNEbnlhSHYtUEFROWQ3LXozeGxtU1BObEJYb0Jq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQampPMmhNOGQyMGhyZDZYVXZSTHpjT0J1elVsTW5saHRjMV84UTlnV2lwbWdXMzVoZldPM19JNW9jZTJfQWpSZWdaWlRVaXFDdC11dnlueEYzRy16VDJhaXJFNDdobTBMM3Fldy1iam9oZFNXWGFFcHNEbnlhSHYtUEFROWQ3LXozeGxtU1BObEJYb0JqbDNPRW1PRmhiUmZ1ZVNhandvU1ZZenlaTWZyU2RkX21lRU9JbHRqSTNkRXFmdk1C?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "01/05/2026 20:29"
       }
     },
     {
@@ -1495,74 +1495,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Da1VfdVA1SmVxMEVlOVZ2QjFnQ194akhPQXEtblZ1YnFfT0pYdm9lWTMzd3FaX1Y1SHczbC0zU2NwYnhsSkx4a1NkNFJDRFR3eFRJTUpnUGNsN2xzUHJBamRMQjRINTZ3LWsxa3EyaTg2NHg2WDdpWA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "01/05/2026 18:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Americans remain deeply skeptical of war in Iran, poll shows - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbDE3dTJaYTZVZEV6UVBxRnpxNUNHdGJkRnMyYjJPQ0plNFdDTXBMTFJJN2ZMVXNSS1JCY0g4X2VERzlrZzh4TU5CdlkxMEM0UThZVXNlZ0FpaDVxb0NIR1ZrckkzTldvVGhQdHZaWWZTalU0c3V1Vg?oc=5\" target=\"_blank\">Americans remai...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tbDE3dTJaYTZVZEV6UVBxRnpxNUNHdGJkRnMyYjJPQ0plNFdDTXBMTFJJN2ZMVXNSS1JCY0g4X2VERzlrZzh4TU5CdlkxMEM0UThZVXNlZ0FpaDVxb0NIR1ZrckkzTldvVGhQdHZaWWZTalU0c3V1Vg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 13:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "White House officially tells Congress it considers Iran war 'terminated' despite presence of US armed forces in region - wusa9.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxNanhaNHd1cGg3clpmUExRdWhWbjJoOUtINUl5U1lIVFFDRGtoMERGUkpXalhfNDdoWkMxWS0ycHZuVTJxR000VDBTaERfV1c5ZnR5ZmNhWGF6bFdtaExhZjB2WU50LU1XdFl3WVJEVlhsVjdXWkRqMmhkQVpkU1NwT2h3Mmdtem52Z2x2RUhlVXc5RXZx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNanhaNHd1cGg3clpmUExRdWhWbjJoOUtINUl5U1lIVFFDRGtoMERGUkpXalhfNDdoWkMxWS0ycHZuVTJxR000VDBTaERfV1c5ZnR5ZmNhWGF6bFdtaExhZjB2WU50LU1XdFl3WVJEVlhsVjdXWkRqMmhkQVpkU1NwT2h3Mmdtem52Z2x2RUhlVXc5RXZxcmdsaEFpczN1Q1VrWTFmV2pQUG5uQWtNMkNJNmRTOUp0X3lKTDNSTmNWeF95d3VFaXNpYlYxd2JMV0pJRWxzS0RhVTJScFk5RTB5bXBGWjRRVkd5blVSUUQ4NVlKeV90akFmS0hHMm5HODRBVVlPbUw1OG45dlA5U3NjZDNEQUxrWlBmV2lUbW5rRTU5U3Fob296Rmd4RGZpVjBmelhWWmx5Um1SYnpBd053eVJUU2RIMUZHNzM4QzROQllmdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 18:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says Pentagon lying about cost of war - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzJndFJmdkxKZTN5S3V0STlKWGpZTVFpNHhJSTdXcVhtTldoMW1tSDZYOTd4M0lEeUNCU3ZoX1M1S1NMRktfUGdwUWxKelR4ZnBKN1FFZlpIaHphbVhzVS1ZUHg3dFpRVlVQaE5vaEJQOTd6N216aDRTTzk1STJVakItVW45LTVEV0FoZNIBkgFBVV95...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzJndFJmdkxKZTN5S3V0STlKWGpZTVFpNHhJSTdXcVhtTldoMW1tSDZYOTd4M0lEeUNCU3ZoX1M1S1NMRktfUGdwUWxKelR4ZnBKN1FFZlpIaHphbVhzVS1ZUHg3dFpRVlVQaE5vaEJQOTd6N216aDRTTzk1STJVakItVW45LTVEV0FoZNIBkgFBVV95cUxPY2treExRZ0cwcEoxOUlVQUQ1YXFadE1nUW1qMEp1d3NUZDdqeVdYMnRGUWxuaGl6S3JNSlJBX3ZEcERVMFpUYXMwdHp6VDBwRE1BZXZMSHNyZUdXRGVXVzh4S1dPLURsci1sWjhVUHVJZGpaUVhza1dsME9CUmZjZWltbUtxR0dNU0VkV0ZSVmJoUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 14:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Americans’ disapproval of the war in Iran reaches Vietnam-era levels, poll finds - MS NOW",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHJwTUhRdngzU3k0ZEJNOXVyOG85aU1IN3hid3lDOFVFU21LOFdHZG90UHQ3S1pldDhVRDVvamZwZFM2VWN1ZkJIWFlTS2dLcmtUQTVxT0JJVjVodGVIeGpOQUg0bzNhNnVNWk1saERwU3Q2VFh4SWx0elJMMk94a3NBUWwycUdZTjlIcHNrc2IzU0Zm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHJwTUhRdngzU3k0ZEJNOXVyOG85aU1IN3hid3lDOFVFU21LOFdHZG90UHQ3S1pldDhVRDVvamZwZFM2VWN1ZkJIWFlTS2dLcmtUQTVxT0JJVjVodGVIeGpOQUg0bzNhNnVNWk1saERwU3Q2VFh4SWx0elJMMk94a3NBUWwycUdZTjlIcHNrc2IzU0ZmMmdZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "01/05/2026 15:24"
       }
     },
     {
@@ -1604,16 +1536,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Administration Pushes Forward With Tariffs Based on Forced Labor Laws - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGtFUGpUTkJuREtmYVVuWHUyckEtdTdEaU9wMjlZY20yVGE5cmhGQzZ0Z3FoZkh1MTRUQ2VpbkhpemRIS3hWOTVESU16elNqb3JQU1NTaUJHMklBaFJrNXBiYXpXNUN0endPNWh5U1FJQTRnaVJxZEJIREsxU2k1di1JTzVsdWZlcTk0?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWGtFUGpUTkJuREtmYVVuWHUyckEtdTdEaU9wMjlZY20yVGE5cmhGQzZ0Z3FoZkh1MTRUQ2VpbkhpemRIS3hWOTVESU16elNqb3JQU1NTaUJHMklBaFJrNXBiYXpXNUN0endPNWh5U1FJQTRnaVJxZEJIREsxU2k1di1JTzVsdWZlcTk0?oc=5",
+        "titulo_evento": "Strait of Hormuz blockade 'wreaking havoc' on global economy, warns China's UN envoy - The National",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWjlrbEVkM2I1RGhkX0F4WjRmbm1VRkdQMkxLWVJyWk4xX0pQbEVBd0szYlBBSEptOWQtdHFmSkhCRV9HZ05FTzR2ekxvQjhyQmJvYjZQcGVNV0lNc0l6TkdrNWRYaHQ2TWstT1Z0eDRodmxkVFdwNWdUWUxOd3lEM2RydVZDZ0JHY09nX2tHdVc4ajMy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWjlrbEVkM2I1RGhkX0F4WjRmbm1VRkdQMkxLWVJyWk4xX0pQbEVBd0szYlBBSEptOWQtdHFmSkhCRV9HZ05FTzR2ekxvQjhyQmJvYjZQcGVNV0lNc0l6TkdrNWRYaHQ2TWstT1Z0eDRodmxkVFdwNWdUWUxOd3lEM2RydVZDZ0JHY09nX2tHdVc4ajMyejBXVzB3U3E3MmlvVTFpb1VOaUpsWlNSSy1sY2xhenMtOEFnMThxdHZ2aUQtWW5Pb1RoZVQ4dHg?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "01/05/2026 18:44"
+        "data_noticia": "01/05/2026 18:58"
       }
     }
   ]
