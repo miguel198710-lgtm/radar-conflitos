@@ -26,18 +26,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar Motores (Noticias e Clima)
-        env:
-          CDSAPI_URL: ${{ secrets.CDSAPI_URL }}
-          CDSAPI_KEY: ${{ secrets.CDSAPI_KEY }}
+      - name: Executar Motores (Noticias e IPMA)
         run: |
           python radar.py
-          python motor_clima.py
+          python alertas_ipma.py
 
       - name: Guardar Mapa
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          git add conflitos.geojson clima_global.geojson
+          git add conflitos.geojson avisos_ipma.geojson
           git commit -m "Atualizacao de info" || echo "Sem mudanças"
           git push
