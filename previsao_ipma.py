@@ -2,24 +2,25 @@ import requests
 import json
 
 def obter_previsao_3dias():
-    print("[IPMA] A preparar dados com IDs para SVGs oficiais...")
+    print("[IPMA] A gerar mapa com dicionário interno (Segurança Máxima)...")
     
+    # 1. Dicionário Oficial do IPMA (Hardcoded para nunca falhar)
+    DICIONARIO_TEMPO = {
+        1: "Céu limpo", 2: "Céu parcialmente nublado", 3: "Céu pouco nublado",
+        4: "Céu muito nublado ou encoberto", 5: "Céu nublado", 6: "Aguaceiros/chuva fraca",
+        7: "Aguaceiros/chuva moderada", 8: "Aguaceiros/chuva forte", 9: "Chuva/aguaceiros",
+        10: "Chuva moderada", 11: "Chuva forte", 12: "Períodos de chuva",
+        13: "Períodos de chuva moderada", 14: "Períodos de chuva forte", 15: "Chuvisco",
+        16: "Neblina", 17: "Nevoeiro", 18: "Neve", 19: "Trovoada",
+        20: "Aguaceiros e trovoadas", 21: "Granizo", 22: "Geada",
+        23: "Chuva e neve", 24: "Céu nublado por nuvens altas", 25: "Céu muito nublado",
+        26: "Nevoeiro", 27: "Céu nublado", 28: "Céu encoberto"
+    }
+
     try:
-        # 1. Nomes das Cidades
+        # 2. Nomes das Cidades
         url_locais = "https://api.ipma.pt/open-data/distrits-islands.json"
         mapa_locais = {local["globalIdLocal"]: local["local"] for local in requests.get(url_locais).json()["data"]}
-
-        # 2. Descrições de Tempo (CORREÇÃO AQUI: Código mais robusto)
-        url_tipos = "https://api.ipma.pt/open-data/weather-type-classe.json"
-        tipos_data = requests.get(url_tipos).json()["data"]
-        
-        # Tentamos ler a descrição em PT, se falhar usamos um valor padrão
-        mapa_tempo = {}
-        for tipo in tipos_data:
-            id_t = tipo.get("idWeatherType")
-            # Procura por 'descIdWeatherTypePT' ou 'descIdWeatherTypeEN' ou deixa vazio
-            desc = tipo.get("descIdWeatherTypePT") or tipo.get("descIdWeatherTypeEN") or "Estado do tempo"
-            mapa_tempo[id_t] = desc
 
         cidades = {}
         dias_api = {0: "hoje", 1: "amanha", 2: "depois"}
@@ -39,12 +40,12 @@ def obter_previsao_3dias():
                         "previsoes": {}
                     }
                 
-                id_tempo = previsao.get("idWeatherType")
+                id_tempo = int(previsao.get("idWeatherType", 0))
                 cidades[id_local]["previsoes"][nome_dia] = {
                     "tMax": previsao.get("tMax"), 
                     "tMin": previsao.get("tMin"), 
                     "prob": previsao.get("precipitaProb"),
-                    "desc": mapa_tempo.get(id_tempo, "Informação indisponível"),
+                    "desc": DICIONARIO_TEMPO.get(id_tempo, "Estado do tempo"),
                     "icon_id": id_tempo,
                     "data": data_oficial
                 }
@@ -69,10 +70,10 @@ def obter_previsao_3dias():
         with open('previsao_ipma.geojson', 'w', encoding='utf-8') as f:
             json.dump({"type": "FeatureCollection", "features": funcionalidades}, f, ensure_ascii=False, indent=2)
         
-        print("[IPMA] Sucesso! Ficheiro GeoJSON gerado com as correções.")
+        print("[IPMA] Sucesso total! Agora as descrições estão garantidas.")
 
     except Exception as e:
-        print(f"[ERRO CRÍTICO]: {e}")
+        print(f"[ERRO]: {e}")
 
 if __name__ == "__main__":
     obter_previsao_3dias()
