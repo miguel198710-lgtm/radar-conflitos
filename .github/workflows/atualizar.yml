@@ -27,6 +27,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Executar Motores (Noticias e Clima)
+        env:
+          CDSAPI_URL: ${{ secrets.CDSAPI_URL }}
+          CDSAPI_KEY: ${{ secrets.CDSAPI_KEY }}
         run: |
           python radar.py
           python motor_clima.py
