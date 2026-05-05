@@ -2,9 +2,9 @@ name: Radar Automatico
 
 on:
   schedule:
-    # Este código significa: "A cada 30 minutos, todos os dias, todas as horas"
+    # Corre a cada 30 minutos
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Mantém isto para poderes clicar no botão de correr manualmente
+  workflow_dispatch: # Permite correr manualmente
 
 jobs:
   atualizar-dados:
@@ -21,14 +21,20 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Correr Radar de Noticias
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Executar Motores (Noticias e Clima)
         run: |
           python radar.py
-         
+          python motor_clima.py
+
       - name: Guardar Mapa
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          git add conflitos.geojson
-          git commit -m "Atualizacao de noticias" || echo "Sem mudanças"
+          git add conflitos.geojson clima_global.geojson
+          git commit -m "Atualizacao de info" || echo "Sem mudanças"
           git push
