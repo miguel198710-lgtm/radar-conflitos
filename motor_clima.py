@@ -1,7 +1,7 @@
 import json
 import datetime
 import os
-# import earthkit.data as ek  # Ativaremos isto quando as credenciais estiverem no GitHub Secrets
+import earthkit.data as ek  # Ativaremos isto quando as credenciais estiverem no GitHub Secrets
 
 def gerar_clima():
     print("[SATÉLITE] A iniciar varrimento meteorológico global...")
