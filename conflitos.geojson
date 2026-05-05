@@ -11,6 +11,40 @@
         ]
       },
       "properties": {
+        "titulo_evento": "US, Iran launch new attacks as they wrestle for control of Gulf waters",
+        "descricao": "It was the first apparent attempt to use military force since last month’s ceasefire announcement.",
+        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "05/05/2026 12:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "titulo_evento": "German defense minister laments long-range strike ‘gap’ caused by planned US drawdown",
+        "descricao": "Both of Berlin’s planning scenarios for getting Typhon launchers – through a U.S. Army formation, or a purchase for the Bundeswehr - are not panning out.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/05/05/german-defense-minister-laments-long-range-strike-gap-caused-by-planned-us-drawdown/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "05/05/2026 11:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
         "descricao": "Adm. Brad Cooper said Iran was trying to interfere with a U.S. military operation to open the Strait of Hormuz to commercial traffic.",
         "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
@@ -125,6 +159,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hegseth says US blockade on Iran ‘gift to the world’",
+        "descricao": "US Defense Secretary Pete Hegseth says the US has gifted the world a ‘powerful red, white, and blue dome’.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/5/hegseth-says-us-blockade-on-iran-gift-to-the?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "05/05/2026 13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran, UAE trade Hormuz attack claims: What we know",
+        "descricao": "Experts say claims and counterclaims threaten the diplomatic route to end the US-Israel war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "05/05/2026 13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK counterterrorism police investigate arson attack at former synagogue",
+        "descricao": "The incident in London comes after the UK&#039;s national threat level was raised to severe last week.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "05/05/2026 12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -176,67 +261,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-        "descricao": "Skin conditions have become a serious issue for healthcare workers in Gaza, particularly when temperatures rise.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/as-summer-approaches-skin-diseases-spread-through-gazas-refugee-camps?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "05/05/2026 08:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Nine workers killed in Colombia coal mine explosion",
-        "descricao": "The national mining ​agency had warned weeks earlier that a buildup of gases at the mine could become dangerous.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "05/05/2026 07:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Explosion at fireworks factory in China kills 26, injures 61",
-        "descricao": "Rescue efforts are still under way after a huge explosion ripped through China&#039;s fireworks capital.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/explosion-at-fireworks-factory-in-china-kills-26-injures-61?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "05/05/2026 06:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
-        "descricao": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "05/05/2026 06:31"
+        "titulo_evento": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
+        "descricao": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.",
+        "url_fonte": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/05/2026 12:15"
       }
     },
     {
@@ -278,16 +312,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2973,
-          4.5709
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Nine killed in central Colombia mine explosion caused by gas buildup",
-        "descricao": "Mining accidents are common in central Colombia, where dozens of small operators run coal and emerald mines.",
-        "url_fonte": "http://www.euronews.com/2026/05/05/nine-killed-in-central-colombia-mine-explosion-caused-by-gas-buildup",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "05/05/2026 13:17"
+        "titulo_evento": "REPLAY: Pentagon chief Hegseth says ceasefire with Iran not over",
+        "descricao": "\nUS Defense Secretary Pete Hegseth said at a press conference on Tuesday that ​a US operation to protect commercial ships from Iran in the Strait of Hormuz is temporary, Washington is not looking ​for a ‌fight and the ceasefire with Iran ⁠is still in...",
+        "url_fonte": "https://www.france24.com/en/video/20260505-replay-pentagon-chief-hegseth-says-ceasefire-with-iran-not-over",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/05/2026 13:38"
       }
     },
     {
@@ -300,11 +334,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'We can and we will strike': Iran threatens European military bases amid Hormuz escalation",
-        "descricao": "Iran attacked ships in Hormuz and struck the UAE again as hardliners threatened that European bases could become legitimate targets. Tehran also issued its own Strait of Hormuz navigation map, warning US Navy ships and oil tankers from crossing.",
-        "url_fonte": "http://www.euronews.com/2026/05/05/we-can-and-we-will-strike-iran-threatens-european-military-bases-amid-hormuz-escalation",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "05/05/2026 11:16"
+        "titulo_evento": "Iran Nobel winner Mohammadi 'between life and death' after hospitalisation, say supporters",
+        "descricao": "\nJailed Iranian Nobel Peace Prize winner Narges Mohammadi is fighting for her life after being hospitalised under guard for the last five days with a heart condition, her supporters said on Tuesday.\n",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260505-iran-nobel-winner-mohammadi-between-life-and-death-after-hospitalisation-say-supporters",
+        "categoria": "Política (France 24)",
+        "data_noticia": "05/05/2026 13:24"
       }
     },
     {
@@ -312,16 +346,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "21 people killed and dozens injured in massive explosion at fireworks plant in China",
-        "descricao": "Authorities are still investigating the reasons of the explosion, with negligence being suspected as a likely cause. Officials warned that the death toll is likely to climb as search and rescue operations continue.",
-        "url_fonte": "http://www.euronews.com/2026/05/05/21-people-killed-and-dozens-injured-in-massive-explosion-at-fireworks-plant-in-china",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "05/05/2026 06:44"
+        "titulo_evento": "Thailand's monkey business: Pharmaceutical labs rely on primate testing",
+        "descricao": "\nMany pharmaceutical giants use monkeys to test drugs and vaccines. But since China banned the export of primates in 2020, prices have skyrocketed, fuelilng an international black market. At the heart of this illegal trafficking are Cambodia, Thailan...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/focus/20260505-thailand-s-monkey-business-pharmaceutical-labs-rely-on-primate-testing",
+        "categoria": "Política (France 24)",
+        "data_noticia": "05/05/2026 12:08"
       }
     },
     {
@@ -334,45 +368,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Armenia tests Moscow’s patience with Zelenskyy visit and EU leaders’ summit ",
-        "descricao": "One month before the highly anticipated parliamentary elections, Armenia’s Prime Minister Nikol Pashinyan set out the country’s foreign policy trajectory with striking clarity, hosting European leaders, the NATO secretary general, and even Ukraine’s ...",
-        "url_fonte": "http://www.euronews.com/2026/05/04/armenia-tests-moscows-patience-with-zelenskyy-visit-and-eu-leaders-summit",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "04/05/2026 17:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dubai residents take shelter as UAE intercepts Iranian missile and drone strike",
-        "descricao": "Euronews journalists reported hearing explosions from air defence intercepts above Dubai after a missile alert on Monday, as the UAE said Iran struck an ADNOC-linked tanker in the Strait of Hormuz.",
-        "url_fonte": "http://www.euronews.com/2026/05/04/dubai-residents-take-shelter-as-uae-intercepts-suspected-missile-attack",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "04/05/2026 15:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says Iran has 'taken some shots' but caused little damage in Strait of Hormuz",
-        "descricao": "Meanwhile, a senior admiral said the US had destroyed six Iranian boats and shot down missiles and drones fired at US Navy and commercial vessels by Tehran's forces.",
-        "url_fonte": "http://www.euronews.com/2026/05/04/iranian-military-claims-it-prevented-us-navy-ships-from-entering-strait-of-hormuz",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "04/05/2026 13:13"
+        "titulo_evento": "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
+        "descricao": "\nRomania’s pro-European coalition collapsed Tuesday after its parliament voted in a no-confidence motion against Prime Minister Ilie Bolojan, triggering a fresh period of turmoil in the EU and NATO country bordering Ukraine less than a year after the...",
+        "url_fonte": "https://www.france24.com/en/europe/20260505-romania-s-pro-eu-coalition-government-collapses-after-prime-minister-loses-no-confidence-vote",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/05/2026 11:47"
       }
     },
     {
@@ -499,101 +499,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Armenia hosts historic EU summit as it charts path away from Russia",
-        "descricao": "\nArmenia hosts its first bilateral summit with the European Union on Tuesday, a landmark diplomatic moment for the Caucasus Mountains nation that has formally declared its ambition to join the bloc and is cautiously loosening its ties with longtime a...",
-        "url_fonte": "https://www.france24.com/en/video/20260505-armenia-hosts-historic-eu-summit-as-it-charts-path-away-from-russia",
-        "categoria": "Política (France 24)",
-        "data_noticia": "05/05/2026 09:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "War with Iran threatens to reignite as Trump launches 'Project Freedom'",
-        "descricao": "\nA ceasefire between Iran and the United States was teetering Monday as the two countries traded fire over the strategic Strait of Hormuz, a day after President Donald Trump announced an operation to escort trapped vessels through the strait dubbed “...",
-        "url_fonte": "https://www.france24.com/en/video/20260505-war-with-iran-threatens-to-reignite-as-trump-launches-project-freedom",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "05/05/2026 09:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Truce under threat as Iran, US trade fire in Strait of Hormuz",
-        "descricao": "\nThe fragile truce in the Middle East was in jeopardy on Tuesday after the ​U.S. and Iran launched new attacks as they wrestled for control of the Strait of Hormuz. The U.S. military said on Monday it destroyed six Iranian small boats, as well as cru...",
-        "url_fonte": "https://www.france24.com/en/video/20260505-truce-under-threat-as-iran-us-trade-fire-in-strait-of-hormuz",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "05/05/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dozens killed, scores injured in explosion at Chinese fireworks factory",
-        "descricao": "\nA giant explosion at a fireworks factory in Liuyang, Hunan province in Central China has killed 26 people and injured 61 others, officials said Tuesday. Liuyang is a major fireworks hub, producing around 60 percent of the fireworks sold in China and...",
-        "url_fonte": "https://www.france24.com/en/asia-pacific/20260505-explosion-at-chinese-fireworks-factory-kills-26-injures-61",
-        "categoria": "Política (France 24)",
-        "data_noticia": "05/05/2026 08:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Middle East live: Iran 'not even started' with Hormuz standoff as US tries to force open the strait",
-        "descricao": "\nIran's chief negotiator in talks with the United States, Mohammad Bagher Ghalibaf, warned on Tuesday that his country has \"not even started\" in its standoff over the Strait of Hormuz. Ghalibaf, who is also the speaker in Iran's parliament, said the ...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260505-middle-east-war-live-saudi-arabia-calls-for-de-escalation-after-us%E2%80%93iran-clashes",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "05/05/2026 01:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz",
-        "descricao": "\nUS forces opened a passage through the Strait of Hormuz on Monday after sinking Iranian boats and escorting merchant ships, as fresh attacks struck vessels and facilities in the United Arab Emirates. The escalation has raised fears over global energ...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260504-us-and-uae-report-iran-attacks-as-military-pushes-to-reopen-strait-of-hormuz",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/05/2026 23:43"
+        "titulo_evento": "Iran war: Tehran says it will keep up 'intolerable' blockade",
+        "descricao": "The US military has again warned it will protect commercial shipping against Iranian attack in the Strait of Hormuz. However, US officials underlined a ceasefire is still in place.",
+        "url_fonte": "https://www.dw.com/en/iran-war-tehran-says-it-will-keep-up-intolerable-blockade/live-77045752?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "05/05/2026 11:59"
       }
     },
     {
@@ -611,23 +526,6 @@
         "url_fonte": "https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "05/05/2026 11:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran warns it could block shipping in Hormuz",
-        "descricao": "Iran's lead negotiator warned his country has \"not even started\" to upset the status of the Strait of Hormuz. His statement comes a day after Trump announced a new initiative to help neutral ships stranded in the Gulf.",
-        "url_fonte": "https://www.dw.com/en/iran-warns-it-could-block-shipping-in-hormuz/live-77045752?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "05/05/2026 10:22"
       }
     },
     {
@@ -720,6 +618,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘A deal is a deal’: Von der Leyen fires back at Trump over auto tariff threat",
+        "descricao": "The Commission president said Brussels is \"prepared for every scenario.\"",
+        "url_fonte": "https://www.politico.eu/article/a-deal-is-a-deal-von-der-leyen-fires-back-at-trump-over-auto-tariff-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "05/05/2026 12:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1278,
           51.5074
         ]
@@ -764,23 +679,6 @@
         "url_fonte": "https://www.politico.eu/article/can-europe-gain-edge-ai-tech-week-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "05/05/2026 07:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Oil Prices Stay High, China Doubles Down on Wind Power",
-        "descricao": "An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.",
-        "url_fonte": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "05/05/2026 04:00"
       }
     },
     {
@@ -899,7 +797,109 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWFqb2c0QXUyUHZVNVVWNHBfZU5GQWtJeDNEYUFFOEQ2NUpaNElIV19SUjNXQXQ4Mi1oNWhrd1VQaS1MZHR0S1BCUnNHdG9lYU5qRDBtN2lJNlM1ajF6bFdQVVh4NHU3Mnk3M2NqSXY1RTBxMHVlQjRPN0FEOVFlMGtLZVdtc0dk?oc=5\" target=\"_...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWFqb2c0QXUyUHZVNVVWNHBfZU5GQWtJeDNEYUFFOEQ2NUpaNElIV19SUjNXQXQ4Mi1oNWhrd1VQaS1MZHR0S1BCUnNHdG9lYU5qRDBtN2lJNlM1ajF6bFdQVVh4NHU3Mnk3M2NqSXY1RTBxMHVlQjRPN0FEOVFlMGtLZVdtc0dk?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 11:32"
+        "data_noticia": "05/05/2026 13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran says US military killed five civilians in attacks on passenger boats - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgyaEJsZnU4RUljV1JVMjViWWxkSVFfejB6WHlWY1hiSdIBuAFBVV95cUxPM0d3bWhoeWNia09ORlI1TmZoa3ZIV2h0VFYzLXd5Q2U0UTQ3YVJ5cXlkN0pPNUN1dFhMN2NhZkRGWTZ1RG42bFJMVFg3Nks0a2dxSWJPVWxZRWtzN2dIWUM5Vl9TYUY3Ny1hZVpLSTZvVVUzbGNoLVBjUjZvWUx2R0pyVXhHcVl1SjBGSmJmb0hMU3NOY1NSSHZ5LUFrVTdQbFJGS2p0WjRqWmdCdlVUTDhodGRkaVR5?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 11:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. insists Iran ceasefire not over despite attacks in Strait of Hormuz - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzBIRUZETXZacGhVdmJGdzZ4b2JoS3VOV0hCclEya0pQRDMxMGp5NnFIU0ZlaUtyVEVFMGhGR3lQbzduQkNvdHZvbEMzSWQ2aUJ3VDJjM1NBRDdzNGFaZTJqZ3BtYXpveFZ0bXoxZTBKSEN3eEFCN0ZTWFVJTFcycDRTaXZiaVhFaFp6Z1ZjZEhqQnBa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzBIRUZETXZacGhVdmJGdzZ4b2JoS3VOV0hCclEya0pQRDMxMGp5NnFIU0ZlaUtyVEVFMGhGR3lQbzduQkNvdHZvbEMzSWQ2aUJ3VDJjM1NBRDdzNGFaZTJqZ3BtYXpveFZ0bXoxZTBKSEN3eEFCN0ZTWFVJTFcycDRTaXZiaVhFaFp6Z1ZjZEhqQnBaMy0yTlpwZVVZZWRi?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 13:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump: If we return to war on Iran, it will take 2-3 weeks to complete - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSW9ub0pvYjdtU1d1UGI4a1lraEZhSGFZR3ZfRndHVTg2X0x4Mk5sM1hFX1EzblN6TXhITER0SG8tQmxfTEx4ekxYMnozbHhTMEItNGhEbGtSam5aTUJ1WGd6OS1lU0RJcXVEMGtrV2tQWWxJSVdKbnNUWVF6c215cWdYRTRFdjRyam5hQ2RvTzdEaWNy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSW9ub0pvYjdtU1d1UGI4a1lraEZhSGFZR3ZfRndHVTg2X0x4Mk5sM1hFX1EzblN6TXhITER0SG8tQmxfTEx4ekxYMnozbHhTMEItNGhEbGtSam5aTUJ1WGd6OS1lU0RJcXVEMGtrV2tQWWxJSVdKbnNUWVF6c215cWdYRTRFdjRyam5hQ2RvTzdEaWNyQUc2WnIxeGNqYnIyMzJ0NDN3U1NVSnlLN1hNcDdsaDk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 11:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hegseth says \"the ceasefire is not over\" after U.S., Iran exchange fire in Strait of Hormuz - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3R3RVpXSXl4WTN3QzdWbTBwTGgxdTRBR194N1ZlWWVKZHBIRVgySDk0LV9fbExXTmtZREw3OWt6ZjlIY0RCWDQyb3JTN2ZtS08yMGRRdGdlUXRHUnBOaDUxM1hUYWNFNzJvTGpxamRsTEw2MEdQZmxlV1BRSWphNXBJVDVOVk9jR2ZkLXJaSjZIMEFo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3R3RVpXSXl4WTN3QzdWbTBwTGgxdTRBR194N1ZlWWVKZHBIRVgySDk0LV9fbExXTmtZREw3OWt6ZjlIY0RCWDQyb3JTN2ZtS08yMGRRdGdlUXRHUnBOaDUxM1hUYWNFNzJvTGpxamRsTEw2MEdQZmxlV1BRSWphNXBJVDVOVk9jR2ZkLXJaSjZIMEFoa1ZQaTNR0gGfAUFVX3lxTE1SZlp2Ti1tdjBHa1hYdGJYMlNTOFViNjRNMVl2Z1p6dy1GdlprWWlicnFPWEZQaWdnZEtSbnlzaVZJQkRHakNaNjd6QmNxZFlaY21mU1pYdDFOeENOLTc1UEZ2RERfZEFQajEyT1B5aHB4amk4M0I1WHk0MjdiV3NvWng1TGtIRVBHMnJqb2NqNXNGMDNzWXo1NUEwS1ZJVQ?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "05/05/2026 11:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5\" target=\"_blank\">UAE Reports Missi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 07:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US attempt to open the Strait of Hormuz tests Iran war’s fragile ceasefire - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUphWmJGWDlNOU5HMmpzRjNObTlVVnJ6SzNUVkdVWU5qWkc0YzUycFplYnlkdF8xdE9yV2p2SzIxeHRYNlM3c0R5Q2VReXN1Nmk4WWl5YjlYQ2FzbmhBSTZQRGdfeTR3a2ItN3VpNTFOVFUtclcxOXJrR1VEV2xEaDM1cDZwVHJaOHBmY2tHWF81MXBi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUphWmJGWDlNOU5HMmpzRjNObTlVVnJ6SzNUVkdVWU5qWkc0YzUycFplYnlkdF8xdE9yV2p2SzIxeHRYNlM3c0R5Q2VReXN1Nmk4WWl5YjlYQ2FzbmhBSTZQRGdfeTR3a2ItN3VpNTFOVFUtclcxOXJrR1VEV2xEaDM1cDZwVHJaOHBmY2tHWF81MXBibDBCOTNnMTZTLURIQ1BVYmhybThrN21k?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 11:18"
       }
     },
     {
@@ -924,16 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: Germany condemns attacks on UAE - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3o2Z0ZZZ1k5M1JUdkxfUXZweHFqU1hfdG1DWnY0RUYwMkdJMndIbHZOZV9HenJMbDluQkpzQjFnYnRyQWZwQUljbkJUdFZDOE8xeUNkMXNnamJrSWFPZk8zMlZRVmhBM1VDbW15VUJ1T0toZm1paWhkS1d6MHo5WjJB?oc=5\" target=\"_blank\">I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3o2Z0ZZZ1k5M1JUdkxfUXZweHFqU1hfdG1DWnY0RUYwMkdJMndIbHZOZV9HenJMbDluQkpzQjFnYnRyQWZwQUljbkJUdFZDOE8xeUNkMXNnamJrSWFPZk8zMlZRVmhBM1VDbW15VUJ1T0toZm1paWhkS1d6MHo5WjJB?oc=5",
+        "titulo_evento": "Trump says war with Iran could stretch 3 more weeks - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVc2aHFyOGp1OXJQTjNrLS1YS1puODRqUW92WTJBVTBoZ3ktQmVOMFdNRUNpRGxOdFd0ZnlHWmJwTTZxekQ2NUZSNVJUM1BycE1jOXlyM2ozTURsWHIyTlR2Tm03T1E5aklEY0dyTzBqY1dpWEhnUm9aMHNGVlRIRUxqVmRRRGwtcXZFQmxPNjVRY0lQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVc2aHFyOGp1OXJQTjNrLS1YS1puODRqUW92WTJBVTBoZ3ktQmVOMFdNRUNpRGxOdFd0ZnlHWmJwTTZxekQ2NUZSNVJUM1BycE1jOXlyM2ozTURsWHIyTlR2Tm03T1E5aklEY0dyTzBqY1dpWEhnUm9aMHNGVlRIRUxqVmRRRGwtcXZFQmxPNjVRY0lQSVRyVGhsSmtpWlpqdnRVVEt3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 09:06"
+        "data_noticia": "05/05/2026 13:09"
       }
     },
     {
@@ -946,28 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Diet Coke parties: Iran war cans crisis fuels thirst for cola events in India - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHk1Szc4MmdpbTk3MnZMWnY4Qml1cVlpbkFBTHBBUE1NY1RTTjNKR2M3N3ltaVRTLUlhbUpnVFUyLUFRWXFBSnZoRjA3QnRiMU16OGdCeTFfTzZVS0VGUjRqMTd3RjFRMU9LWmRvUHFYdml5SkNQcUt5SWFWWHk1eGthNEs1RHJ5VURkR2Q4RktGU0o4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHk1Szc4MmdpbTk3MnZMWnY4Qml1cVlpbkFBTHBBUE1NY1RTTjNKR2M3N3ltaVRTLUlhbUpnVFUyLUFRWXFBSnZoRjA3QnRiMU16OGdCeTFfTzZVS0VGUjRqMTd3RjFRMU9LWmRvUHFYdml5SkNQcUt5SWFWWHk1eGthNEs1RHJ5VURkR2Q4RktGU0o4TWQzaXRsaGU5N1RERTV4VThqaVY?oc=5",
+        "titulo_evento": "What A War Game Already Told Us About Iran - Just Security",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZmVtRnQ4NWNyMGJBQmU2RzFUaGhTQmFqaE8wR2dCNHVMTGRReGZMa1h4UGlkamxGaFF1VmZWSGVOUmNtRmdFTDFNLWlaX0Q4SlEwZTdUMFhSbndkVkFj?oc=5\" target=\"_blank\">What A War Game Already Told Us About Iran</a>&nb...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZmVtRnQ4NWNyMGJBQmU2RzFUaGhTQmFqaE8wR2dCNHVMTGRReGZMa1h4UGlkamxGaFF1VmZWSGVOUmNtRmdFTDFNLWlaX0Q4SlEwZTdUMFhSbndkVkFj?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 09:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5\" target=\"_blank\">UAE Reports Missi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 06:16"
+        "data_noticia": "05/05/2026 12:37"
       }
     },
     {
@@ -992,33 +975,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says US military killed five civilians in attacks on passenger boats - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgyaEJsZnU4RUljV1JVMjViWWxkSVFfejB6WHlWY1hiSdIBuAFBVV95cUxPM0d3bWhoeWNia09ORlI1TmZoa3ZIV2h0VFYzLXd5Q2U0UTQ3YVJ5cXlkN0pPNUN1dFhMN2NhZkRGWTZ1RG42bFJMVFg3Nks0a2dxSWJPVWxZRWtzN2dIWUM5Vl9TYUY3Ny1hZVpLSTZvVVUzbGNoLVBjUjZvWUx2R0pyVXhHcVl1SjBGSmJmb0hMU3NOY1NSSHZ5LUFrVTdQbFJGS2p0WjRqWmdCdlVUTDhodGRkaVR5?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 08:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Tries to Downplay Economic Effects of the Iran War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9OenNtOF8tV1JUQXI1M0l5NEtLVU5fNUNNdXNSN0plUWc5WXhPbmFRVXpMQlhBRUE1Z2pJS2tlaUxLRDVYZDYwekh4Z1dqSVEycWM4OUppV3ZuSlU2bkZmdy1OQk91RHRmVDd2VElMRkl0c1NBV1Vtc3d1RWNFZ3M?oc=5\" target=\"_blank\">Trump ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OenNtOF8tV1JUQXI1M0l5NEtLVU5fNUNNdXNSN0plUWc5WXhPbmFRVXpMQlhBRUE1Z2pJS2tlaUxLRDVYZDYwekh4Z1dqSVEycWM4OUppV3ZuSlU2bkZmdy1OQk91RHRmVDd2VElMRkl0c1NBV1Vtc3d1RWNFZ3M?oc=5",
+        "titulo_evento": "Trump suggests Iran war could last ‘another two weeks,’ ‘maybe three weeks’ - New York Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZThZOEpwRDFjazBJR01kNEV6aFZ4anJmT2xMV0czYnpGcjBVSHpxN213OUJwY2EzRnJjLURZT3RhR01mbmlza0ozMXV4NzdkY3JBc0VLN1lLbUFsUlpLRlNHZXJyVk5nTE9LLVFlRTZYNTRYaHRJcFJUbTNCRnBzMzhQSjdPdUhjd09Ga2RndWhWOC1K...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZThZOEpwRDFjazBJR01kNEV6aFZ4anJmT2xMV0czYnpGcjBVSHpxN213OUJwY2EzRnJjLURZT3RhR01mbmlza0ozMXV4NzdkY3JBc0VLN1lLbUFsUlpLRlNHZXJyVk5nTE9LLVFlRTZYNTRYaHRJcFJUbTNCRnBzMzhQSjdPdUhjd09Ga2RndWhWOC1KZ01BTW1FSk9ERDNHMkRUWV9hOFE3TFYwNkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 01:40"
+        "data_noticia": "05/05/2026 12:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war: Germany condemns attacks on UAE - dw.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3o2Z0ZZZ1k5M1JUdkxfUXZweHFqU1hfdG1DWnY0RUYwMkdJMndIbHZOZV9HenJMbDluQkpzQjFnYnRyQWZwQUljbkJUdFZDOE8xeUNkMXNnamJrSWFPZk8zMlZRVmhBM1VDbW15VUJ1T0toZm1paWhkS1d6MHo5WjJB?oc=5\" target=\"_blank\">I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3o2Z0ZZZ1k5M1JUdkxfUXZweHFqU1hfdG1DWnY0RUYwMkdJMndIbHZOZV9HenJMbDluQkpzQjFnYnRyQWZwQUljbkJUdFZDOE8xeUNkMXNnamJrSWFPZk8zMlZRVmhBM1VDbW15VUJ1T0toZm1paWhkS1d6MHo5WjJB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 09:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Azerbaijan Looks to Tap Ukraine’s Military Expertise With Raft of New Deals - Carnegie Endowment for International Peace",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPck5qNGMyamtEbHpYemN5Y3FwRFRhWEl1WVFJVHVGTDdnNnRFYWs5M0s0d2ZlVUJCMXBiZlZHMWN5MHZTY0xNOWJhVGJGNWNIWkotM0x0YXhRQW9kOElZbjcwVDhvQ2E3dmcxX3FGZm5hZEpxb2tVbW03NGtzX29Iby1PYXJ5akhNZ3FGUDI0SUZIT0N2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPck5qNGMyamtEbHpYemN5Y3FwRFRhWEl1WVFJVHVGTDdnNnRFYWs5M0s0d2ZlVUJCMXBiZlZHMWN5MHZTY0xNOWJhVGJGNWNIWkotM0x0YXhRQW9kOElZbjcwVDhvQ2E3dmcxX3FGZm5hZEpxb2tVbW03NGtzX29Iby1PYXJ5akhNZ3FGUDI0SUZIT0N2dzI4?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/05/2026 11:59"
       }
     },
     {
@@ -1031,45 +1031,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUppWHhIZWhkeTdVOWhJU2dvSC01cS1sQnB5dGNBY0RqMjUxdnVaRDJnRkltejhtUVRqSXd5ZFd1UnRselZfbU1xWlhPV1ZIUVpmQmtpS2VBekhNSWw5ekJNZExqMFRnbXh2NThmb3F5Zl9UOWd4THdCREpVUFJNVlVyQzBoMzZlalIyNTVkSnVTTkZV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUppWHhIZWhkeTdVOWhJU2dvSC01cS1sQnB5dGNBY0RqMjUxdnVaRDJnRkltejhtUVRqSXd5ZFd1UnRselZfbU1xWlhPV1ZIUVpmQmtpS2VBekhNSWw5ekJNZExqMFRnbXh2NThmb3F5Zl9UOWd4THdCREpVUFJNVlVyQzBoMzZlalIyNTVkSnVTTkZVcEVSUHRKeTJVY1N6RGFv0gGoAUFVX3lxTFA3MTJNbXNUVjk5MzNBODl5UHJmM0poVzVNZjI2N1ZIRlc1YTRLQ2NRdzBqLWhQeFh4a3U1dElKd0lRU2d4b1RXWWc2TVVOaVpSNk9WZ0xrTmllNzMyQ19iR2pqX01lRmcxb3Z5ZEQ4Z1BNb25sWGlyNUFUYjJUb0h1ZlZjLTNCRWlmOVFSVl82OTB1bHV5UjhEV1NZOW5YcUZSS2pQNnFLSg?oc=5",
+        "titulo_evento": "Diet Coke parties: Iran war cans crisis fuels thirst for cola events in India - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHk1Szc4MmdpbTk3MnZMWnY4Qml1cVlpbkFBTHBBUE1NY1RTTjNKR2M3N3ltaVRTLUlhbUpnVFUyLUFRWXFBSnZoRjA3QnRiMU16OGdCeTFfTzZVS0VGUjRqMTd3RjFRMU9LWmRvUHFYdml5SkNQcUt5SWFWWHk1eGthNEs1RHJ5VURkR2Q4RktGU0o4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaHk1Szc4MmdpbTk3MnZMWnY4Qml1cVlpbkFBTHBBUE1NY1RTTjNKR2M3N3ltaVRTLUlhbUpnVFUyLUFRWXFBSnZoRjA3QnRiMU16OGdCeTFfTzZVS0VGUjRqMTd3RjFRMU9LWmRvUHFYdml5SkNQcUt5SWFWWHk1eGthNEs1RHJ5VURkR2Q4RktGU0o4TWQzaXRsaGU5N1RERTV4VThqaVY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 06:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UAE accuses Iran of attacks as ‘large fire’ breaks out at oil refinery - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNOF9BY1FLenNuX1FCU2VTTmk0SmxDN0FqVHRFa3Nua0t6R0VBOVJBYy1xdXhsUmtzNHhqZjVMdGhPYjJobndNOWR3bFhib3VrWnJlM1BnbUxtNnJqZjFFOHlXMDRJM3p0YUl4TENJcUgzWFZRcUNZQTlBQnJrUlBrMXhJVi1pOEQ1WGNTTGpKT005WmMz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOF9BY1FLenNuX1FCU2VTTmk0SmxDN0FqVHRFa3Nua0t6R0VBOVJBYy1xdXhsUmtzNHhqZjVMdGhPYjJobndNOWR3bFhib3VrWnJlM1BnbUxtNnJqZjFFOHlXMDRJM3p0YUl4TENJcUgzWFZRcUNZQTlBQnJrUlBrMXhJVi1pOEQ1WGNTTGpKT005WmMzUW9FbTVBYUPSAaIBQVVfeXFMT0szZUswSjRJZ0h2dUNGbm1USmdPSEZIUGszMVpsbktkaHJaZ1RoTXI5ZnlqdXhWNEpRMXY5MkxtcHRkSDNHWG8yVDJXSFNROXV0YkFscWRPdUVxcHI1cmtWN1lYSnlJX1dNQlU2QVhrbHZienBtVnFPVmtocXE5M2VkcnNRTHZvZ2NBdVI0WnVROG9TZ3Zxcmk3dlRwVFhMWWd3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 05:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "European edge higher as Iran war concerns weigh on sentiment - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNBc3J4aE4tRVNYRlNPRFpaLXlKMTdhRFJvZzBsbmlRY25WclBMQ29vQkFLeHoyN0FZdU4xWUhXSWVkT2Z4SDlUMTRidU00WElWd2d1eWJoRk5jWW10ZkJDbGR5bWo4Nkh4dmI3WVpQU3VXZ0tGVlk0NjhhZG1yVmpJMV9fdnMtamlncnRfakJ1cnRq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNBc3J4aE4tRVNYRlNPRFpaLXlKMTdhRFJvZzBsbmlRY25WclBMQ29vQkFLeHoyN0FZdU4xWUhXSWVkT2Z4SDlUMTRidU00WElWd2d1eWJoRk5jWW10ZkJDbGR5bWo4Nkh4dmI3WVpQU3VXZ0tGVlk0NjhhZG1yVmpJMV9fdnMtamlncnRfakJ1cnRqNHZIalNQS2JzUdIBowFBVV95cUxOaVBGT21fR21VRm80elJpTktaNmlQY2pLbHdWdkZ2czdMZmx5VnlfWUxTS2xoTlRJbi1zbGNwd2lVUGZTQlVtYUxKczFlR1hEa0J2SDUxT3ZFWlpPWEpYTW45RUM5d2lXMlRlZXVubXJSX081RWFFQzJNRlBobVlOdk40ckNpbzB3WDBmNkh1R3htOHpqRmRJTUpPMmNNcVBNei1B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 05:16"
+        "data_noticia": "05/05/2026 09:41"
       }
     },
     {
@@ -1099,113 +1065,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Watch Live: Hegseth, Caine give Iran war update after U.S. and Iran trade fire in Strait of Hormuz - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3R3RVpXSXl4WTN3QzdWbTBwTGgxdTRBR194N1ZlWWVKZHBIRVgySDk0LV9fbExXTmtZREw3OWt6ZjlIY0RCWDQyb3JTN2ZtS08yMGRRdGdlUXRHUnBOaDUxM1hUYWNFNzJvTGpxamRsTEw2MEdQZmxlV1BRSWphNXBJVDVOVk9jR2ZkLXJaSjZIMEFo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3R3RVpXSXl4WTN3QzdWbTBwTGgxdTRBR194N1ZlWWVKZHBIRVgySDk0LV9fbExXTmtZREw3OWt6ZjlIY0RCWDQyb3JTN2ZtS08yMGRRdGdlUXRHUnBOaDUxM1hUYWNFNzJvTGpxamRsTEw2MEdQZmxlV1BRSWphNXBJVDVOVk9jR2ZkLXJaSjZIMEFoa1ZQaTNR0gGfAUFVX3lxTE1SZlp2Ti1tdjBHa1hYdGJYMlNTOFViNjRNMVl2Z1p6dy1GdlprWWlicnFPWEZQaWdnZEtSbnlzaVZJQkRHakNaNjd6QmNxZFlaY21mU1pYdDFOeENOLTc1UEZ2RERfZEFQajEyT1B5aHB4amk4M0I1WHk0MjdiV3NvWng1TGtIRVBHMnJqb2NqNXNGMDNzWXo1NUEwS1ZJVQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 11:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The War Room newsletter: Is Russia being out-droned? - The Economist",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjVOUXg0VXRURHdVMkR3bXI5RzFvVE5aRnZObzFQbWVNd19OUzhtQ3h3NXJVeEFYWDN2WjdScExjSEdVZGFwSjI1aC1FMWFlWGRGU0VFc0ZzSjYyTDhmVmNOQ2YtTTd3QzFrQTVKVFFqRDc5QjVEWEVIbWZ4VWZweUEyaDFZVVhxRU9JVThDdVo2UmZT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjVOUXg0VXRURHdVMkR3bXI5RzFvVE5aRnZObzFQbWVNd19OUzhtQ3h3NXJVeEFYWDN2WjdScExjSEdVZGFwSjI1aC1FMWFlWGRGU0VFc0ZzSjYyTDhmVmNOQ2YtTTd3QzFrQTVKVFFqRDc5QjVEWEVIbWZ4VWZweUEyaDFZVVhxRU9JVThDdVo2UmZTWFphTnVB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 09:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Treasury yields ease as investors assess Iran war's impact on economic outlook - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVBoQ1I1SXpTT00ydHNEMU9rNXJTcjk5cVRJNXFOZXJYX3VrbnpTbl9qMUtJSmJ0MXJDV3NLVjE1SkNpSFlIODRiMTZIZXdBN0dPX1RiN0hNaFhXNHVDWVlERnFLWHZyVzhyall1TGxGV1BPOGFmRmkteEwzbUlNNVVPVEVmdzhLSl9Oc09wWVE4UdIB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVBoQ1I1SXpTT00ydHNEMU9rNXJTcjk5cVRJNXFOZXJYX3VrbnpTbl9qMUtJSmJ0MXJDV3NLVjE1SkNpSFlIODRiMTZIZXdBN0dPX1RiN0hNaFhXNHVDWVlERnFLWHZyVzhyall1TGxGV1BPOGFmRmkteEwzbUlNNVVPVEVmdzhLSl9Oc09wWVE4UdIBlwFBVV95cUxOZzJNaXB4ajBJVXo0cjFJYkRuNzFVNllPME1lME92LUdJRlNCUWFxV1Y1UVhEdGhCR3lrdUpfTHhaTlc3eW1ZQ19RdTZQSUk3UFprR21tM3ZxWU9aLTJGdkhaWnlydEVXUHRtSW5ZU1NWeExtS2FWVzVmWThvWEcwUHVMM3QydS1tN19SSHJFb0IwbW85Qk9V?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 09:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US strikes Iranian fast boats as Iran attacks UAE oil facility - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMlp4OHVvNHY0TTFuLVZ2cG9YMDkwX0JMSzlVTUJfMm5yMTQxWl9waVdwSVVPM1VudGpqWGVPMG5HaHRqbTRKWUlqUFhDYm9EODcwWDc3RVN3QQ?oc=5\" target=\"_blank\">US strikes Iranian fast boats as Iran attacks UAE oil f...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMlp4OHVvNHY0TTFuLVZ2cG9YMDkwX0JMSzlVTUJfMm5yMTQxWl9waVdwSVVPM1VudGpqWGVPMG5HaHRqbTRKWUlqUFhDYm9EODcwWDc3RVN3QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 04:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. Military Strikes Boat in Caribbean, Killing 2 - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1BDdnBIa0ZkMGdXeUJ1UUFoT0lrcjZQMGhsVG1WWktoMVdhSmM5Q2J1a09yMzhBbFhHbFBobnRNdnRXS2o2RUE3UE9TY0ZkZ1NzcnBremd0Vzdaa3JLWi1SYi1kTElqLUxlWks2WVVOM2ZxQndDUG96VjUtRXFJdVp3?oc=5\" target=\"_blank\">U...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1BDdnBIa0ZkMGdXeUJ1UUFoT0lrcjZQMGhsVG1WWktoMVdhSmM5Q2J1a09yMzhBbFhHbFBobnRNdnRXS2o2RUE3UE9TY0ZkZ1NzcnBremd0Vzdaa3JLWi1SYi1kTElqLUxlWks2WVVOM2ZxQndDUG96VjUtRXFJdVp3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/05/2026 05:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "Markets on edge as fresh U.S.-Iran attacks dent optimism over a peace deal - CNBC",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjVDbzF5Vkg5TzB1Y3ljM3d3emNUaHptbjF5U2ZqZGxpWnZ3S0hPaXUzT1pVOVJib0VNSGFrT1NkWC1iUFAzNXI4Rnh0UjZyc21sU3Z4MkRxZHdNeHFzaHhuaTFFemUyeS10ckdRaEJWTkRNa3ZFcWVFU2pLZERhVEM5ONIBiAFBVV95cUxQYnMtNXJH...",
         "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjVDbzF5Vkg5TzB1Y3ljM3d3emNUaHptbjF5U2ZqZGxpWnZ3S0hPaXUzT1pVOVJib0VNSGFrT1NkWC1iUFAzNXI4Rnh0UjZyc21sU3Z4MkRxZHdNeHFzaHhuaTFFemUyeS10ckdRaEJWTkRNa3ZFcWVFU2pLZERhVEM5ONIBiAFBVV95cUxQYnMtNXJHa0h2VlRRWWswNUMyM1FJYW9vbEJRWWFfVGc3SDdNQ2p2clRaYWFKYnNDLTJDVVkxNEdpOHZNZTl0dHk0aGZtcU5qdTZ6bXpKLVl5b2FJYWJEMlZOaHF4SzRhNVE0Qy0zSkJ3Z0dWalpTRnkxU0JjTG1YbkNpek9XX0NZ?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "05/05/2026 09:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "European edge higher as Iran war concerns weigh on sentiment - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNBc3J4aE4tRVNYRlNPRFpaLXlKMTdhRFJvZzBsbmlRY25WclBMQ29vQkFLeHoyN0FZdU4xWUhXSWVkT2Z4SDlUMTRidU00WElWd2d1eWJoRk5jWW10ZkJDbGR5bWo4Nkh4dmI3WVpQU3VXZ0tGVlk0NjhhZG1yVmpJMV9fdnMtamlncnRfakJ1cnRq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNBc3J4aE4tRVNYRlNPRFpaLXlKMTdhRFJvZzBsbmlRY25WclBMQ29vQkFLeHoyN0FZdU4xWUhXSWVkT2Z4SDlUMTRidU00WElWd2d1eWJoRk5jWW10ZkJDbGR5bWo4Nkh4dmI3WVpQU3VXZ0tGVlk0NjhhZG1yVmpJMV9fdnMtamlncnRfakJ1cnRqNHZIalNQS2JzUdIBowFBVV95cUxOaVBGT21fR21VRm80elJpTktaNmlQY2pLbHdWdkZ2czdMZmx5VnlfWUxTS2xoTlRJbi1zbGNwd2lVUGZTQlVtYUxKczFlR1hEa0J2SDUxT3ZFWlpPWEpYTW45RUM5d2lXMlRlZXVubXJSX081RWFFQzJNRlBobVlOdk40ckNpbzB3WDBmNkh1R3htOHpqRmRJTUpPMmNNcVBNei1B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "05/05/2026 05:16"
       }
     }
   ]
