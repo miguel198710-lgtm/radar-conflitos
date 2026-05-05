@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.14,
+          38.72
+        ]
+      },
+      "properties": {
+        "pais": "Portugal",
+        "estacao": "Lisboa",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.52,
+          50.45
+        ]
+      },
+      "properties": {
+        "pais": "Ucrânia",
+        "estacao": "Kiev",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21,
+          31.77
+        ]
+      },
+      "properties": {
+        "pais": "Israel",
+        "estacao": "Jerusalém",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61,
+          55.75
+        ]
+      },
+      "properties": {
+        "pais": "Rússia",
+        "estacao": "Moscovo",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          38.9
+        ]
+      },
+      "properties": {
+        "pais": "EUA",
+        "estacao": "Washington",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4,
+          39.9
+        ]
+      },
+      "properties": {
+        "pais": "China",
+        "estacao": "Pequim",
+        "temperatura_c": 15.0,
+        "vento_kts": 12,
+        "atualizado_em": "2026-05-05 10:38:44"
+      }
+    }
+  ]
+}
