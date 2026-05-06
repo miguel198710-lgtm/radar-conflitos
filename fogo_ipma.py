@@ -22,64 +22,78 @@ def obter_risco_incendio_areas():
 
     for id_dia, nome_dia in dias_api.items():
         url = f"https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d{id_dia}.json"
+        print(f"[IPMA RCM] A extrair dados para: {nome_dia}...")
         resposta = requests.get(url)
         
         if resposta.status_code != 200:
+            print(f"[IPMA RCM] Aviso: Sem dados para {nome_dia}")
             continue
             
         dados = resposta.json()
         data_referencia = dados.get("fileDate", "Data Desconhecida")[:10] 
         
-        dicionario_locais = dados.get("local", {})
-        if not dicionario_locais:
-            dicionario_locais = dados.get("data", dados)
-            
-        lista_locais = list(dicionario_locais.values()) if isinstance(dicionario_locais, dict) else dicionario_locais
+        conteudo = dados.get("local") or dados.get("data") or dados
 
-        for info_local in lista_locais:
-            if not isinstance(info_local, dict): continue
+        # A CORREÇÃO: Ler o DICO a partir do NOME da chave, e não de dentro do valor!
+        if isinstance(conteudo, dict):
+            for chave_dico, info_local in conteudo.items():
+                if not isinstance(info_local, dict): continue
 
-            # Extração limpa do DICO do IPMA
-            dico_ipma = str(info_local.get("dico", "")).zfill(4) 
-            if dico_ipma == "0000": continue
-            
-            nivel_risco = 1
-            if "data" in info_local and isinstance(info_local["data"], dict):
-                nivel_risco = info_local["data"].get("rcm", 1)
-            else:
+                # A chave do dicionário É o DICO
+                dico_ipma = str(chave_dico).zfill(4) 
+                if dico_ipma == "0000": continue
+                
                 nivel_risco = info_local.get("rcm", 1)
-                
-            if dico_ipma not in dados_ipma:
-                dados_ipma[dico_ipma] = {}
-                
-            dados_ipma[dico_ipma][nome_dia] = {
-                "nivel_numero": int(nivel_risco),
-                "descricao": ESCALA_RISCO.get(int(nivel_risco), "Desconhecido"),
-                "data": data_referencia
-            }
+                # Proteção extra caso o RCM esteja dentro de outra sub-pasta
+                if isinstance(nivel_risco, dict): 
+                     nivel_risco = nivel_risco.get("rcm", 1)
+                    
+                if dico_ipma not in dados_ipma:
+                    dados_ipma[dico_ipma] = {}
+                    
+                dados_ipma[dico_ipma][nome_dia] = {
+                    "nivel_numero": int(nivel_risco),
+                    "descricao": ESCALA_RISCO.get(int(nivel_risco), "Desconhecido"),
+                    "data": data_referencia
+                }
+        
+        elif isinstance(conteudo, list):
+             for info_local in conteudo:
+                if not isinstance(info_local, dict): continue
 
+                dico_ipma = str(info_local.get("dico", info_local.get("idAreaAviso", ""))).zfill(4) 
+                if dico_ipma == "0000": continue
+                
+                nivel_risco = info_local.get("rcm", 1)
+                    
+                if dico_ipma not in dados_ipma:
+                    dados_ipma[dico_ipma] = {}
+                    
+                dados_ipma[dico_ipma][nome_dia] = {
+                    "nivel_numero": int(nivel_risco),
+                    "descricao": ESCALA_RISCO.get(int(nivel_risco), "Desconhecido"),
+                    "data": data_referencia
+                }
+
+    print(f"[IPMA RCM] SUCESSO DE EXTRAÇÃO: {len(dados_ipma)} concelhos encontrados no IPMA!")
     print("[IPMA RCM] A fundir dados táticos com os polígonos da CAOP...")
     concelhos_fundidos = 0
     
     for feature in mapa_base["features"]:
         props = feature["properties"]
         
-        # TÁTICA BLINDADA: Converte todas as chaves do ficheiro para minúsculas!
         props_lower = {str(k).lower(): v for k, v in props.items()}
         
-        # Agora procura as variações sem stress de maiúsculas/minúsculas
         dico_bruto = props_lower.get("dico") or props_lower.get("dicofre")
         dico_mapa = str(dico_bruto).zfill(4)[:4] if dico_bruto else "0000"
         
         nome_concelho = props_lower.get("municipio") or props_lower.get("concelho") or "Desconhecido"
         
-        # Limpa o resto das propriedades pesadas e guarda só o essencial para a ESRI
         feature["properties"] = {
             "dico": dico_mapa,
             "concelho": nome_concelho
         }
         
-        # Faz o Match (A Ligação)
         if dico_mapa in dados_ipma:
             for dia, info in dados_ipma[dico_mapa].items():
                 feature["properties"][f"data_{dia}"] = info["data"]
