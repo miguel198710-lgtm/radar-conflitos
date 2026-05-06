@@ -3,7 +3,7 @@ import json
 import os
 
 def obter_risco_incendio_areas():
-    print("[IPMA RCM] A iniciar Operação de Fusão Tática (CAOP 2025 + Dados IPMA)...")
+    print("[IPMA RCM] A iniciar Operação de Fusão Tática Blindada (CAOP 2025 + Dados IPMA)...")
     
     ESCALA_RISCO = {
         1: "Reduzido", 2: "Moderado", 3: "Elevado", 4: "Muito Elevado", 5: "Máximo"
@@ -39,6 +39,7 @@ def obter_risco_incendio_areas():
         for info_local in lista_locais:
             if not isinstance(info_local, dict): continue
 
+            # Extração limpa do DICO do IPMA
             dico_ipma = str(info_local.get("dico", "")).zfill(4) 
             if dico_ipma == "0000": continue
             
@@ -63,18 +64,22 @@ def obter_risco_incendio_areas():
     for feature in mapa_base["features"]:
         props = feature["properties"]
         
-        # >>> A LEITURA PRECISA COM BASE NO TEU RAIO-X VISUAL <<<
-        dico_bruto = props.get("dico")
+        # TÁTICA BLINDADA: Converte todas as chaves do ficheiro para minúsculas!
+        props_lower = {str(k).lower(): v for k, v in props.items()}
+        
+        # Agora procura as variações sem stress de maiúsculas/minúsculas
+        dico_bruto = props_lower.get("dico") or props_lower.get("dicofre")
         dico_mapa = str(dico_bruto).zfill(4)[:4] if dico_bruto else "0000"
         
-        nome_concelho = props.get("municipio", "Desconhecido")
+        nome_concelho = props_lower.get("municipio") or props_lower.get("concelho") or "Desconhecido"
         
-        # Limpa o resto e guarda só o que importa
+        # Limpa o resto das propriedades pesadas e guarda só o essencial para a ESRI
         feature["properties"] = {
             "dico": dico_mapa,
             "concelho": nome_concelho
         }
         
+        # Faz o Match (A Ligação)
         if dico_mapa in dados_ipma:
             for dia, info in dados_ipma[dico_mapa].items():
                 feature["properties"][f"data_{dia}"] = info["data"]
