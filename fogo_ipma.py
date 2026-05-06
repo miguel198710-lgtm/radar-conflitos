@@ -4,58 +4,64 @@ import json
 def obter_risco_incendio():
     print("[IPMA RCM] A preparar extração tática de Risco de Incêndio...")
     
-    # Escala Oficial de Risco de Incêndio do IPMA
     ESCALA_RISCO = {
-        1: "Reduzido",
-        2: "Moderado",
-        3: "Elevado",
-        4: "Muito Elevado",
-        5: "Máximo"
+        1: "Reduzido", 2: "Moderado", 3: "Elevado", 4: "Muito Elevado", 5: "Máximo"
     }
-
-    # Dicionário para cruzar os dados por DICO (código do concelho)
     concelhos = {}
-    dias_api = {0: "hoje", 1: "amanha", 2: "depois"}
+    
+    # O Risco de Incêndio do IPMA costuma ter apenas Hoje (0) e Amanhã (1)
+    dias_api = {0: "hoje", 1: "amanha"} 
 
     try:
         for id_dia, nome_dia in dias_api.items():
-           # O IPMA guarda a info diária nestes ficheiros
             url = f"https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d{id_dia}.json"
-            print(f"A varrer dados de incêndio para: {nome_dia}...")
+            print(f"A varrer dados de incendio para: {nome_dia}...")
             
             resposta = requests.get(url)
             if resposta.status_code != 200:
-                print(f"[AVISO] Não foi possível obter dados para {nome_dia}.")
+                print(f"[AVISO] Sem dados para {nome_dia} (Status {resposta.status_code}).")
                 continue
                 
             dados = resposta.json()
-            # Puxar apenas a data (YYYY-MM-DD) do ficheiro
             data_referencia = dados.get("fileDate", "Data Desconhecida")[:10] 
             
-            for local in dados.get("data", []):
-                dico = local.get("dico")
+            # TÁTICA DE ADAPTAÇÃO: O IPMA pode devolver uma lista ou um dicionário
+            conteudo = dados.get("data", [])
+            lista_locais = list(conteudo.values()) if isinstance(conteudo, dict) else conteudo
+
+            if not lista_locais:
+                print(f"[AVISO] O ficheiro de {nome_dia} veio vazio da parte do IPMA!")
+                continue
+
+            for local in lista_locais:
+                # Procurar o código do concelho seja qual for o nome que o IPMA lhe deu hoje
+                dico = str(local.get("dico", "") or local.get("idAreaAviso", ""))
+                if not dico: 
+                    continue
                 
-                # Se for a primeira vez que vemos este concelho, guardamos as coordenadas
+                # Caça às coordenadas: tenta "latitude", se não houver tenta "lat"
+                lat = local.get("latitude") or local.get("lat") or 0
+                lon = local.get("longitude") or local.get("lon") or 0
+                
                 if dico not in concelhos:
                     concelhos[dico] = {
-                        "lat": float(local.get("latitude", 0)),
-                        "lon": float(local.get("longitude", 0)),
+                        "lat": float(lat),
+                        "lon": float(lon),
                         "previsoes": {}
                     }
                 
-                # Nível de risco vem como número (1 a 5)
-                nivel_risco = local.get("rcm", 1) 
-                
+                # Caça ao nível de risco
+                nivel_risco = local.get("rcm") or local.get("risco") or 1
                 concelhos[dico]["previsoes"][nome_dia] = {
-                    "nivel_numero": nivel_risco,
-                    "descricao": ESCALA_RISCO.get(nivel_risco, "Desconhecido"),
+                    "nivel_numero": int(nivel_risco),
+                    "descricao": ESCALA_RISCO.get(int(nivel_risco), "Desconhecido"),
                     "data": data_referencia
                 }
 
         # Montar o GeoJSON Final
         funcionalidades = []
         for dico, info in concelhos.items():
-            # Prevenir erros se o IPMA não enviar coordenadas para algum ponto
+            # Só ignoramos se as coordenadas vierem mesmo a Zeros
             if info["lat"] == 0 and info["lon"] == 0:
                 continue
                 
