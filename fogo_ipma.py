@@ -13,7 +13,7 @@ def obter_risco_incendio_areas():
     print("[IPMA RCM] A ler ficheiro local da CAOP 2025...")
     try:
         # Lê o ficheiro leve que acabaste de carregar no GitHub
-        with open('caop2025_base.geojson', 'r', encoding='utf-8') as f:
+        with open('CAOP/caop2025_base.geojson', 'r', encoding='utf-8') as f:
             mapa_base = json.load(f)
     except Exception as e:
         print(f"[ERRO CRÍTICO] Não encontrei o ficheiro 'caop2025_base.geojson': {e}")
