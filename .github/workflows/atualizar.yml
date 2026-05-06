@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          git add conflitos.geojson previsao_ipma.geojson
+          git add conflitos.geojson previsao_ipma.geojson risco_incendio.geojson
           git commit -m "Atualizacao de info" || echo "Sem mudanças"
           git push
