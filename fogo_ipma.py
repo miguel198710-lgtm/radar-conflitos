@@ -19,8 +19,8 @@ def obter_risco_incendio():
 
     try:
         for id_dia, nome_dia in dias_api.items():
-            # O IPMA guarda a info diária nestes ficheiros
-            url = f"https://api.ipma.pt/open-data/forecast/meteorology/rcm-d{id_dia}.json"
+           # O IPMA guarda a info diária nestes ficheiros
+            url = f"https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d{id_dia}.json"
             print(f"A varrer dados de incêndio para: {nome_dia}...")
             
             resposta = requests.get(url)
