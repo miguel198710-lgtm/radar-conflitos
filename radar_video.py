@@ -37,7 +37,7 @@ def radar_video_hibrido():
         print("[ERRO FATAL] Chave de API não encontrada!")
         return
         
-    ontem = (datetime.utcnow() - timedelta(days=1)).isoformat() + "Z"
+    ontem = (datetime.utcnow() - timedelta(days=2)).isoformat() + "Z"
 
    # ==========================================
     # OS NOSSOS CANAIS DE CONFIANÇA (ARSENAL COMPLETO)
