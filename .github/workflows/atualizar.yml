@@ -26,16 +26,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar Motores (Noticias e IPMA)
+      - name: Executar Motores (Noticias, IPMA e Video)
+        env:
+          # É isto que liga o Cofre das Secrets ao script do YouTube
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python radar.py
           python previsao_ipma.py
           python radar_video.py
-          
-      - name: Guardar Mapa
+
+      - name: Guardar Mapa e Emissao Video
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          git add conflitos.geojson previsao_ipma.geojson 
-          git commit -m "Atualizacao de info" || echo "Sem mudanças"
+          # Adicionámos o playlist.html a esta linha
+          git add conflitos.geojson previsao_ipma.geojson playlist.html
+          git commit -m "Atualizacao de info e video" || echo "Sem mudanças"
           git push
