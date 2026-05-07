@@ -1,12 +1,17 @@
 import urllib.request
 import json
+import os
 from datetime import datetime, timedelta
 
 def radar_video_conflitos():
     print("[OSINT VÍDEO] A iniciar varrimento visual de conflitos...")
     
-    # ---> É AQUI! COLA A TUA CHAVE DENTRO DAS ASPAS <---
-    API_KEY = "AIzaSyCNLW1o-JNVhRTrhxZd0Japl2ae7kg0teE"
+    # Extrai a chave de forma segura das GitHub Secrets
+    API_KEY = os.environ.get("YOUTUBE_API_KEY")
+    
+    if not API_KEY:
+        print("[ERRO FATAL] Chave de API não encontrada! Verifica as GitHub Secrets.")
+        return
     
     # IDs de canais de confiança (Ex: DW News, France 24, Sky News)
     CANAIS = ["UCknLrEdhRCp1aegoMqRaCZg", "UCCEJ6cN9IFZlmgjsVxphkuw", "UCoMdktPbSTixAyNG8-8RFmA"]
@@ -28,7 +33,7 @@ def radar_video_conflitos():
             dados = json.loads(resposta.read())
             
             for item in dados.get("items", []):
-                # A API do YouTube por vezes devolve playlists no meio, isto garante que só apanhamos vídeos
+                # Garante que só apanhamos vídeos e não playlists perdidas
                 if "videoId" in item["id"]:
                     video_id = item["id"]["videoId"]
                     titulo = item["snippet"]["title"]
@@ -36,17 +41,34 @@ def radar_video_conflitos():
                     print(f"[ALVO CAPTURADO] {titulo}")
                 
         except Exception as e:
-            print(f"[ERRO] Falha na comunicação: {e}")
+            print(f"[ERRO] Falha na comunicação com o canal {canal}: {e}")
 
     if lista_videos:
-        # Gera o URL da Playlist para o teu Experience Builder
+        # Pega no primeiro vídeo como principal e junta o resto como playlist
         video_principal = lista_videos[0]
         resto_playlist = ",".join(lista_videos[1:])
         
         url_embed = f"https://www.youtube.com/embed/{video_principal}?playlist={resto_playlist}&autoplay=1&mute=1"
         
-        print("\n[SUCESSO] Missão cumprida. Copia este link para o Widget Embed do ArcGIS:")
-        print(url_embed)
+        # Gera o ficheiro HTML para o ArcGIS ler a partir do GitHub Pages
+        html = f"""<!DOCTYPE html>
+        <html>
+        <head>
+            <style>
+                body, html {{margin: 0; padding: 0; height: 100%; background-color: #000; overflow: hidden;}}
+                iframe {{width: 100%; height: 100%; border: none;}}
+            </style>
+        </head>
+        <body>
+            <iframe src="{url_embed}" allow="autoplay; fullscreen"></iframe>
+        </body>
+        </html>"""
+        
+        with open("playlist.html", "w", encoding="utf-8") as f:
+            f.write(html)
+            
+        print("\n[SUCESSO] Ficheiro playlist.html gerado com sucesso!")
+        print(f"URL Interno gerado: {url_embed}")
     else:
         print("\n[STATUS] Nenhum vídeo de conflito detetado nas últimas 24 horas.")
 
