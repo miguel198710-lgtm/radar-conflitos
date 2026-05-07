@@ -113,23 +113,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine could lift arms-exports ban this year as would-be buyers line up",
-        "descricao": "Gulf countries threatened by Iran could be some of the first nations to buy Ukrainian air-defense technology at scale.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/05/05/ukraine-could-lift-arms-exports-ban-this-year-as-would-be-buyers-line-up/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "05/05/2026 13:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
         "titulo_evento": "How Much Longer Can Russia Last in the War?",
         "descricao": "<p>In 2025, Collin Meisel and Mathew Burrows wrote, &#8220;Russia Can Afford to Take a Beating in Ukraine,&#8221; where they argued Russia was able to absorb the blows Ukraine was delivering and could continue fighting for a while. A year later, we a...",
         "url_fonte": "https://warontherocks.com/how-much-longer-can-russia-last-in-the-war/",
@@ -169,6 +152,23 @@
         "url_fonte": "https://warontherocks.com/how-the-war-with-iran-is-shaping-u-s-chinese-competition/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "05/05/2026 18:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "PSG’s Champions League win marred by night of violence and riots in Paris",
+        "descricao": "Paris Saint-Germain claimed a 6-5 Champions League semifinal win over Bayern Munich, but it erupted in domestic trouble.",
+        "url_fonte": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "07/05/2026 13:36"
       }
     },
     {
@@ -346,40 +346,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "French warship moves towards Red Sea as Paris eyes Hormuz mission",
-        "descricao": "Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.",
-        "url_fonte": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "07/05/2026 08:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Gaza journalist killed on the day his daughter was born",
-        "descricao": "Sana&#039;s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.",
-        "url_fonte": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "07/05/2026 08:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -492,210 +458,6 @@
         "url_fonte": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "06/05/2026 09:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-        "descricao": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-        "url_fonte": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "05/05/2026 19:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia strikes Kharkiv residential district as drone attacks escalate",
-        "descricao": "A major Russian drone offensive struck Kharkiv’s Novobavarskyi district and other cities, injuring civilians and destroying homes despite Ukraine’s strong air defence.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/07/russia-strikes-kharkiv-residential-district-as-drone-attacks-escalate",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 14:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iranians at home divided between hope for regime change and war fears",
-        "descricao": "People in Iran who spoke to Euronews said they were torn between hope for regime change and fear of devastation, while reflecting on US-Israeli strikes, rising hardship and fading support for war.",
-        "url_fonte": "http://www.euronews.com/2026/05/07/iranians-at-home-divided-between-hope-for-regime-change-and-war-fears",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 13:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Injury row, Sardinia trip, petition - Kylian Mbappé faces growing backlash from Real Madrid fans",
-        "descricao": "Injured Real Madrid striker Kylian Mbappé has sparked backlash from some fans after taking a holiday in Sardinia ahead of Sunday’s Clasico against Barcelona.",
-        "url_fonte": "http://www.euronews.com/2026/05/07/injury-row-sardinia-trip-petition-kylian-mbappe-faces-growing-backlash-from-real-madrid-fa",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 13:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel strikes Beirut for first time since ceasefire, reportedly killing Hezbollah commander",
-        "descricao": "Beirut and its southern suburbs had been spared Israeli attacks since 8 April, when massive Israeli strikes across the country killed more than 350 people.",
-        "url_fonte": "http://www.euronews.com/2026/05/07/israel-strikes-beirut-for-first-time-since-ceasefire-reportedly-killing-hezbollah-commande",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 13:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Local elections across UK test Starmer as Reform UK eyes major gains",
-        "descricao": "UK voters began casting ballots on Thursday, 7 May, in local and devolved elections seen as the biggest political test yet for Prime Minister Keir Starmer since Labour’s landslide victory in July 2024.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/07/local-elections-across-uk-test-starmer-as-reform-uk-eyes-major-gains",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "07/05/2026 13:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel army investigating after soldier seen desecrating Virgin Mary statue in Lebanon",
-        "descricao": "The Israeli military said on Thursday it \"respects freedom of religion and worship, as well as holy sites and religious symbols of all religions and communities.\"",
-        "url_fonte": "http://www.euronews.com/2026/05/07/israel-army-investigating-after-soldier-seen-desecrating-virgin-mary-statue-in-lebanon",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 11:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea not bound by nuclear non-proliferation treaty, UN envoy says",
-        "descricao": "North Korea has insisted that it will not give up its nuclear arsenal, describing its path as \"irreversible\" and vowing to strengthen its capabilities.",
-        "url_fonte": "http://www.euronews.com/2026/05/07/north-korea-not-bound-by-nuclear-non-proliferation-treaty-un-envoy-says",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 09:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran reviewing US proposal on deal to end war as Trump ramps up pressure",
-        "descricao": "A fragile ceasefire between the US and Iran has largely held since 8 April but in-person talks between the two countries hosted by Pakistan last month failed to reach an agreement.",
-        "url_fonte": "http://www.euronews.com/2026/05/07/us-fires-at-iranian-oil-tanker-as-trump-pushes-for-peace-deal",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "07/05/2026 05:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Champions League: PSG beat Bayern 6-5 on aggregate to reach final against Arsenal",
-        "descricao": "Paris Saint-Germain advanced to the Champions League final after holding Bayern Munich to a 1-1 draw and securing a 6-5 aggregate victory.",
-        "url_fonte": "http://www.euronews.com/2026/05/06/psg-edge-bayern-munich-to-reach-champions-league-final-against-arsenal",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "06/05/2026 23:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "’Ukraine will respond in kind’, Zelenskyy says after Russia breaks Kyiv’s ceasefire ",
-        "descricao": "Ukraine will decide its course of action towards Russia’s Victory Day parade “depending on the situation tonight and tomorrow”, Zelenskyy said, sending a warning to Moscow that Kyiv will “will respond in kind” to Russian attacks.",
-        "url_fonte": "http://www.euronews.com/2026/05/06/ukraine-will-respond-in-kind-zelenskyy-says-after-russia-breaks-kyivs-ceasefire",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "06/05/2026 21:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Fire at commercial complex near Tehran kills 11 and injures dozens",
-        "descricao": "Iranian media reported on Wednesday that a fire at a shopping centre near the capital left 11 people dead and dozens of others injured. The prosecutor's office has called for an investigation into the incident to identify possible culprits, state-run...",
-        "url_fonte": "http://www.euronews.com/2026/05/06/fire-at-commercial-complex-near-tehran-kills-11-and-injures-dozens",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "06/05/2026 14:41"
       }
     },
     {
@@ -1185,10 +947,10 @@
       },
       "properties": {
         "titulo_evento": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
-        "descricao": "The oil giant’s earnings in the first three months of the year were more than double the previous quarter’s and followed similarly strong results of European rivals.",
+        "descricao": "The oil giant’s earnings in the first three months of the year were more than double the previous quarter’s and follow similarly strong results of European rivals.",
         "url_fonte": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
         "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "07/05/2026 13:44"
+        "data_noticia": "07/05/2026 13:50"
       }
     },
     {
@@ -1290,7 +1052,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA5bXZodlZYbWpyX2NiSTdnNjZqV0ZCd2dXaDQtRWM3VGFvd3R4VG9CNTJZc0t4NTdocjFEcC1XWHNsLVNTVjNQQkZHUHcyRWNNdmMyemZ0LUJROU0weWpRbVk3MmZ5VTFvZ1o0?oc=5\" target=\"_blank\">Exclusive: U.S. and Iran closing ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5bXZodlZYbWpyX2NiSTdnNjZqV0ZCd2dXaDQtRWM3VGFvd3R4VG9CNTJZc0t4NTdocjFEcC1XWHNsLVNTVjNQQkZHUHcyRWNNdmMyemZ0LUJROU0weWpRbVk3MmZ5VTFvZ1o0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "06/05/2026 22:47"
+        "data_noticia": "06/05/2026 20:29"
       }
     },
     {
@@ -1315,33 +1077,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "AI Plays Major Role in the War on Iran - Arms Control Association",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5\" target=\"_blank\">AI Play...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5",
+        "titulo_evento": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDQyU2xWZ2VUOVBWeXk5YXdCSmJNS3NmcXVfcXBJWmhENjBydVNFYWNabExGSk8xOVlmQS1mZHN4cVRyLWVlVklkbEozOXdNcVFyNWExanNUeUJ1ZFBSRVA5cDh3bXQtVWNGemRSRl9XaDFIeW8tR2lpSm1BVklHcEgzUFVlUzVnVENIWHNB?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDQyU2xWZ2VUOVBWeXk5YXdCSmJNS3NmcXVfcXBJWmhENjBydVNFYWNabExGSk8xOVlmQS1mZHN4cVRyLWVlVklkbEozOXdNcVFyNWExanNUeUJ1ZFBSRVA5cDh3bXQtVWNGemRSRl9XaDFIeW8tR2lpSm1BVklHcEgzUFVlUzVnVENIWHNB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/05/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Marco Rubio meets with Pope Leo after Trump’s criticism over Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXBuazNQUGE5UWxOVnZ3NU5ocVJfMjNKWkNMWndjaFFPVldqOUJqWHdSUlFoUTBFd0thbXBySmNtWElCX1F4cVZqWF9uWmZpYXVRUFltRC0wU3FyUGotcW5LYzR2bmlHNVRRSU9XSjNBTXZ3Qm9kY2JYSG1EVEZzc0lORUtJM09zZmd5cTJ2RWoyMzdB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXBuazNQUGE5UWxOVnZ3NU5ocVJfMjNKWkNMWndjaFFPVldqOUJqWHdSUlFoUTBFd0thbXBySmNtWElCX1F4cVZqWF9uWmZpYXVRUFltRC0wU3FyUGotcW5LYzR2bmlHNVRRSU9XSjNBTXZ3Qm9kY2JYSG1EVEZzc0lORUtJM09zZmd5cTJ2RWoyMzdBOVk0Q2xyNUFyS3Rqa21aamVxNk16NWtKbjY1WTRKZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/05/2026 12:43"
+        "data_noticia": "07/05/2026 12:30"
       }
     },
     {
@@ -1434,16 +1179,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDQyU2xWZ2VUOVBWeXk5YXdCSmJNS3NmcXVfcXBJWmhENjBydVNFYWNabExGSk8xOVlmQS1mZHN4cVRyLWVlVklkbEozOXdNcVFyNWExanNUeUJ1ZFBSRVA5cDh3bXQtVWNGemRSRl9XaDFIeW8tR2lpSm1BVklHcEgzUFVlUzVnVENIWHNB?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDQyU2xWZ2VUOVBWeXk5YXdCSmJNS3NmcXVfcXBJWmhENjBydVNFYWNabExGSk8xOVlmQS1mZHN4cVRyLWVlVklkbEozOXdNcVFyNWExanNUeUJ1ZFBSRVA5cDh3bXQtVWNGemRSRl9XaDFIeW8tR2lpSm1BVklHcEgzUFVlUzVnVENIWHNB?oc=5",
+        "titulo_evento": "Marco Rubio meets with Pope Leo after Trump’s criticism over Iran war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXBuazNQUGE5UWxOVnZ3NU5ocVJfMjNKWkNMWndjaFFPVldqOUJqWHdSUlFoUTBFd0thbXBySmNtWElCX1F4cVZqWF9uWmZpYXVRUFltRC0wU3FyUGotcW5LYzR2bmlHNVRRSU9XSjNBTXZ3Qm9kY2JYSG1EVEZzc0lORUtJM09zZmd5cTJ2RWoyMzdB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXBuazNQUGE5UWxOVnZ3NU5ocVJfMjNKWkNMWndjaFFPVldqOUJqWHdSUlFoUTBFd0thbXBySmNtWElCX1F4cVZqWF9uWmZpYXVRUFltRC0wU3FyUGotcW5LYzR2bmlHNVRRSU9XSjNBTXZ3Qm9kY2JYSG1EVEZzc0lORUtJM09zZmd5cTJ2RWoyMzdBOVk0Q2xyNUFyS3Rqa21aamVxNk16NWtKbjY1WTRKZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/05/2026 12:30"
+        "data_noticia": "07/05/2026 12:43"
       }
     },
     {
@@ -1490,11 +1235,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Shipping giant boss warns Iran war will have bigger impact in coming months as customers face price hikes - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRms1ek82X1V1RG1TZzlqOTUwblByY1dPcFcyOERpaXN6SzNuMXVBSjVDZVRaN2FzbGlrU2JfdjVwTFdYelNfd2hCSHpQUU5XVkNrUW4yeDdUNHRleGhMYW9JY2R5ODA0ZkVGazh2cG9SeGxSQi11cHJUY01HcXBrQUR2cUxQZmVTY2JDUFhmZXY4M1d5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRms1ek82X1V1RG1TZzlqOTUwblByY1dPcFcyOERpaXN6SzNuMXVBSjVDZVRaN2FzbGlrU2JfdjVwTFdYelNfd2hCSHpQUU5XVkNrUW4yeDdUNHRleGhMYW9JY2R5ODA0ZkVGazh2cG9SeGxSQi11cHJUY01HcXBrQUR2cUxQZmVTY2JDUFhmZXY4M1d5UGVTUmFobjZnVVdmQlJ3bnVn0gGrAUFVX3lxTE54aEFQQXkwZEZEQ3ZQMUtjWTJnNlV3MVFrY1dzUmE4Z3d6bGRKc0tZTTFrWkRabFdKaGhjbS0ydHNyMTE5UmhGNWh1TXAzaGo4T1lObEdQQ2dJQXRScFJfbDAxamxTUktWQXo2NzdocU5PZTNmSEhYWDFESS01dTFza1kxcjN5R0ZXc1UwTm9SY0l6Q2RPNi11MzN2ZjRpMFVfNzhxbXRTaHdBQQ?oc=5",
+        "titulo_evento": "Iran’s stance on US war negotiations explained - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHVqU3Z3ODNPeGlJRTVVMXY3NXNLNFR2MUdSZlhWbHFnTUpiZXp4VXBzVmwyQ1JvRllBMVZQeDBZZ2hVMV8zSzVhdVB6RkYzMmtZZnBCU2ZleXRoNEg1OXRMaEdKNFp0SXJJTVoyMHctUHpXZE13UW5HbmpoYVdkS01Bc25RMFdtdEtfRXVJbHMyWGpi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHVqU3Z3ODNPeGlJRTVVMXY3NXNLNFR2MUdSZlhWbHFnTUpiZXp4VXBzVmwyQ1JvRllBMVZQeDBZZ2hVMV8zSzVhdVB6RkYzMmtZZnBCU2ZleXRoNEg1OXRMaEdKNFp0SXJJTVoyMHctUHpXZE13UW5HbmpoYVdkS01Bc25RMFdtdEtfRXVJbHMyWGpiX3RDX3RMUdIBoAFBVV95cUxPTWhMSzlaTDlFTVRTRjBIWHBocC05SFNaX191dzNfLTJ3VUNaTmlqdVNQSFVULUJJV1JfUlRyTkdsbFBXclFlMm1pWXpPanI5aEE2V2VqX3BXSElzRXdMV3pTN1EyVGNsc05jZnlIN1VGeGdHUDhacGVRUEtwZkQ1d0o2dHJEZ3NzRTBZbFpDVHR6RHoyd3hPTzRnZjZaSHph?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/05/2026 08:36"
+        "data_noticia": "07/05/2026 09:51"
       }
     },
     {
@@ -1507,11 +1252,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s stance on US war negotiations explained - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHVqU3Z3ODNPeGlJRTVVMXY3NXNLNFR2MUdSZlhWbHFnTUpiZXp4VXBzVmwyQ1JvRllBMVZQeDBZZ2hVMV8zSzVhdVB6RkYzMmtZZnBCU2ZleXRoNEg1OXRMaEdKNFp0SXJJTVoyMHctUHpXZE13UW5HbmpoYVdkS01Bc25RMFdtdEtfRXVJbHMyWGpi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHVqU3Z3ODNPeGlJRTVVMXY3NXNLNFR2MUdSZlhWbHFnTUpiZXp4VXBzVmwyQ1JvRllBMVZQeDBZZ2hVMV8zSzVhdVB6RkYzMmtZZnBCU2ZleXRoNEg1OXRMaEdKNFp0SXJJTVoyMHctUHpXZE13UW5HbmpoYVdkS01Bc25RMFdtdEtfRXVJbHMyWGpiX3RDX3RMUdIBoAFBVV95cUxPTWhMSzlaTDlFTVRTRjBIWHBocC05SFNaX191dzNfLTJ3VUNaTmlqdVNQSFVULUJJV1JfUlRyTkdsbFBXclFlMm1pWXpPanI5aEE2V2VqX3BXSElzRXdMV3pTN1EyVGNsc05jZnlIN1VGeGdHUDhacGVRUEtwZkQ1d0o2dHJEZ3NzRTBZbFpDVHR6RHoyd3hPTzRnZjZaSHph?oc=5",
+        "titulo_evento": "Shipping giant boss warns Iran war will have bigger impact in coming months as customers face price hikes - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQRms1ek82X1V1RG1TZzlqOTUwblByY1dPcFcyOERpaXN6SzNuMXVBSjVDZVRaN2FzbGlrU2JfdjVwTFdYelNfd2hCSHpQUU5XVkNrUW4yeDdUNHRleGhMYW9JY2R5ODA0ZkVGazh2cG9SeGxSQi11cHJUY01HcXBrQUR2cUxQZmVTY2JDUFhmZXY4M1d5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRms1ek82X1V1RG1TZzlqOTUwblByY1dPcFcyOERpaXN6SzNuMXVBSjVDZVRaN2FzbGlrU2JfdjVwTFdYelNfd2hCSHpQUU5XVkNrUW4yeDdUNHRleGhMYW9JY2R5ODA0ZkVGazh2cG9SeGxSQi11cHJUY01HcXBrQUR2cUxQZmVTY2JDUFhmZXY4M1d5UGVTUmFobjZnVVdmQlJ3bnVn0gGrAUFVX3lxTE54aEFQQXkwZEZEQ3ZQMUtjWTJnNlV3MVFrY1dzUmE4Z3d6bGRKc0tZTTFrWkRabFdKaGhjbS0ydHNyMTE5UmhGNWh1TXAzaGo4T1lObEdQQ2dJQXRScFJfbDAxamxTUktWQXo2NzdocU5PZTNmSEhYWDFESS01dTFza1kxcjN5R0ZXc1UwTm9SY0l6Q2RPNi11MzN2ZjRpMFVfNzhxbXRTaHdBQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/05/2026 09:51"
+        "data_noticia": "07/05/2026 08:36"
       }
     },
     {
@@ -1699,40 +1444,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ2gyeGZpdEI0TEw4aGFBVjhCUUg5dVQtQlRjejdoUC1xc1Y3RE9MWWxka0M1UmRhN3l5SXJWd3hpZzl0Zjd5VUl1Z3NFaXk2SWxvMGhlcmpiWTlsVmpkYWxtLWZhUldjaDVMMk4wa09PaElQZEtudTlFc2FqdTczYjlTMTdEdlgtNVU3clQxRFhHdXdfNElNUFlsakV1TDNjY0VkRlJFZ3hrUllqS2lMZ2IxMGNXc3RyTHJzbHhyck1YUG1wZUVmVzA2OUx3NkEzTUJDWA?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "07/05/2026 12:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S.–China: Five issues that could shape the fate of the global economy in May - Latest news from Azerbaijan",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1Z3a1pGS09abFNTaXdKTU9fZm03cVU5ekFCbVFPalNWdDNiUEVKamY0UjVhWm02cENXYWQ2VWZGZmVyanhwRlNyczNuRUdPNWhjRGxlMm1MRTdrOWRQaTVNREdmckp2UEhZb040cW44akZ3aVVXQlJQYzVPZ2ZpVGNxZTJqWnNGU01xTDJQNnUwSm90...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1Z3a1pGS09abFNTaXdKTU9fZm03cVU5ekFCbVFPalNWdDNiUEVKamY0UjVhWm02cENXYWQ2VWZGZmVyanhwRlNyczNuRUdPNWhjRGxlMm1MRTdrOWRQaTVNREdmckp2UEhZb040cW44akZ3aVVXQlJQYzVPZ2ZpVGNxZTJqWnNGU01xTDJQNnUwSm90TU0xbWNfY08?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "07/05/2026 06:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Capital reform push could restore Wall Street’s edge in global markets - Wealth Professional Canada",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hRVGMyRDExTFRwYjNDZ19FR3lCWUF4LU1PZlAtWEdqWUwta2xGNFVidTdCQ3pLcF81d01sN29TcktHbDk2NjBXenI0MEJTZHpiWC0xUUxKbm1ZRGduZldkcWR6dGhQemFxUmpHbGZCVDMyMHQtXzBLb3lZclNYTkcxVW1wd2l1elZhXy1rSEFCX1hJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hRVGMyRDExTFRwYjNDZ19FR3lCWUF4LU1PZlAtWEdqWUwta2xGNFVidTdCQ3pLcF81d01sN29TcktHbDk2NjBXenI0MEJTZHpiWC0xUUxKbm1ZRGduZldkcWR6dGhQemFxUmpHbGZCVDMyMHQtXzBLb3lZclNYTkcxVW1wd2l1elZhXy1rSEFCX1hJUGFKeWs4Mk81V0t0M3BrVnRzcF92VFF4Y2MwT2MzMmhYV19VZlBCN2MwVjVIMnA0TEw4Sw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "07/05/2026 08:00"
       }
     }
   ]
