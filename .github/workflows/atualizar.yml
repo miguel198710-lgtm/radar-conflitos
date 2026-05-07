@@ -30,6 +30,7 @@ jobs:
         run: |
           python radar.py
           python previsao_ipma.py
+          python radar_video.py
           
       - name: Guardar Mapa
         run: |
