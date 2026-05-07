@@ -75,15 +75,15 @@ def radar_video_hibrido():
         gerar_html_playlist([v["id"] for v in videos_globais], "playlist.html")
 
 
-   # ==========================================
+    # ==========================================
     # FASE 2: TEATRO DE OPERAÇÕES DE LESTE
     # ==========================================
     print("\n[FASE 2] A focar antenas no Teatro de Leste (Fontes Seguras)...")
     
-    # Removemos os parênteses. O YouTube entende o "|" como "OU".
-    # Usamos combinações diretas e fortes de palavras-chave.
+    # Tiro de caçadeira: Palavras-chave simples, separadas por |, SEM espaços.
+    # Isto garante que a API entende que basta o vídeo ter UMA destas palavras para ser capturado.
     TEATROS = {
-        "ucrania_e_vizinhos": "Ukraine war | Russia conflict | NATO border | Ukraine strike | Russia attack"
+        "ucrania_e_vizinhos": "Ukraine|Russia|Putin|Zelensky|Kyiv|Moscow|NATO"
     }
 
     for nome_teatro, query in TEATROS.items():
