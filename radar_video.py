@@ -72,8 +72,7 @@ def radar_video_hibrido():
     # Dicionário com os focos de conflito. Podes expandir isto no futuro!
     TEATROS = {
         "ucrania_e_vizinhos": "(Ukraine | Russia | Belarus | Poland | Moldova | Romania) (war | conflict | border tension | NATO)",
-        "israel": "Israel Gaza IDF conflict",
-        "taiwan": "Taiwan China military tension"
+        
     }
 
     for nome_teatro, query in TEATROS.items():
