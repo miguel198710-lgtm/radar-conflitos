@@ -75,14 +75,15 @@ def radar_video_hibrido():
         gerar_html_playlist([v["id"] for v in videos_globais], "playlist.html")
 
 
-    # ==========================================
+   # ==========================================
     # FASE 2: TEATRO DE OPERAÇÕES DE LESTE
     # ==========================================
     print("\n[FASE 2] A focar antenas no Teatro de Leste (Fontes Seguras)...")
     
-    # Mantemos apenas a Ucrânia e vizinhos
+    # Removemos os parênteses. O YouTube entende o "|" como "OU".
+    # Usamos combinações diretas e fortes de palavras-chave.
     TEATROS = {
-        "ucrania_e_vizinhos": "(Ukraine | Russia | Belarus | Poland | Moldova | Romania) (war | conflict | border tension | NATO)"
+        "ucrania_e_vizinhos": "Ukraine war | Russia conflict | NATO border | Ukraine strike | Russia attack"
     }
 
     for nome_teatro, query in TEATROS.items():
