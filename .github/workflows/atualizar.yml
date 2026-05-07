@@ -26,20 +26,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar Motores (Noticias, IPMA e Video)
+      - name: Executar Motores (Noticias, IPMA, Video e GDELT)
         env:
-          # A chave trancada no cofre
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python radar.py
           python previsao_ipma.py
           python radar_video.py
+          python radar_gdelt.py  # <- A NOVA ANTENA LIGADA
 
       - name: Guardar Mapa e Emissao Video
         run: |
           git config --global user.name "Radar Bot"
           git config --global user.email "bot@radar.local"
-          # O *.html garante que todos os vídeos dos países são apanhados!
-          git add conflitos.geojson previsao_ipma.geojson *.html
-          git commit -m "Atualizacao de info e video multi-teatro" || echo "Sem mudanças"
+          # O asterisco no geojson garante que apanha o do IPMA, o radar antigo e agora o do GDELT
+          git add *.geojson *.html
+          git commit -m "Atualizacao de info, video e telemetria GDELT" || echo "Sem mudanças"
           git push
