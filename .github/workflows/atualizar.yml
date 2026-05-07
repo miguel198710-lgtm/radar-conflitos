@@ -26,14 +26,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Executar Motores (Noticias, IPMA, Video e GDELT)
+      - name: Executar Motores (Noticias, IPMA, Video)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python radar.py
           python previsao_ipma.py
           python radar_video.py
-          python radar_gdelt.py  # <- A NOVA ANTENA LIGADA
+          
 
       - name: Guardar Mapa e Emissao Video
         run: |
