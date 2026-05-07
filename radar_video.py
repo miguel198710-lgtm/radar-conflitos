@@ -3,91 +3,97 @@ import json
 import os
 from datetime import datetime, timedelta
 
-def radar_video_conflitos():
-    print("[OSINT VÍDEO] A iniciar varrimento global de larga escala...")
-    
-    API_KEY = os.environ.get("YOUTUBE_API_KEY")
-    
-    if not API_KEY:
-        print("[ERRO FATAL] Chave de API não encontrada! Verifica as GitHub Secrets.")
+# Função auxiliar que constrói as "televisões" para o ArcGIS
+def gerar_html_playlist(lista_videos, nome_ficheiro):
+    if not lista_videos:
+        print(f"[STATUS] Sem vídeos capturados para {nome_ficheiro}.")
         return
+        
+    video_principal = lista_videos[0]
+    resto_playlist = ",".join(lista_videos[1:])
+    url_embed = f"https://www.youtube.com/embed/{video_principal}?playlist={resto_playlist}&autoplay=1&mute=1"
     
-    # ARSENAL EXPANDIDO DE CANAIS
-    CANAIS = {
-        "Al Jazeera (Médio Oriente)": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-        "DW News (Europa)": "UCknLrEdhRCp1aegoMqRaCZg",
-        "France 24 (Europa/África)": "UCCEJ6cN9IFZlmgjsVxphkuw",
-        "Sky News (Reino Unido)": "UCoMdktPbSTixAyNG8-8RFmA",
-        "WION (Ásia/Índia)": "UC_gUM8rL-Lrg6O3adPWZqgg",
-        "Reuters (Global)": "UChqUTb7kYRX8-EiaN3XFrSQ",
-        "Global News (Américas)": "UChLsHIte9PPeN6trQlA7eHQ"
-    }
+    html = f"""<!DOCTYPE html>
+    <html>
+    <head>
+        <style>
+            body, html {{margin: 0; padding: 0; height: 100%; background-color: #000; overflow: hidden;}}
+            iframe {{width: 100%; height: 100%; border: none;}}
+        </style>
+    </head>
+    <body>
+        <iframe src="{url_embed}" allow="autoplay; fullscreen"></iframe>
+    </body>
+    </html>"""
     
-    # PALAVRAS-CHAVE EXPANDIDAS
-    QUERY = "war|conflict|strike|missile|attack|crisis|tension|military|drone|navy|geopolitics"
-    
-    # Apenas vídeos das últimas 24 horas
-    ontem = (datetime.utcnow() - timedelta(days=1)).isoformat() + "Z"
-    
-    videos_encontrados = []
+    with open(nome_ficheiro, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"  -> [SUCESSO] Emissão {nome_ficheiro} atualizada e pronta a transmitir!")
 
-    # O robô agora varre canal a canal e extrai a hora exata da notícia
-    for nome_canal, canal_id in CANAIS.items():
-        print(f"A intercetar sinal de: {nome_canal}...")
-        url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={canal_id}&q={QUERY}&publishedAfter={ontem}&type=video&order=date&maxResults=5&key={API_KEY}"
+def radar_video_hibrido():
+    print("[OSINT VÍDEO] A iniciar varrimento Tático Duplo...")
+    
+    # Extração segura da chave do cofre do GitHub
+    API_KEY = os.environ.get("YOUTUBE_API_KEY")
+    if not API_KEY:
+        print("[ERRO FATAL] Chave de API não encontrada nas Secrets do GitHub!")
+        return
+        
+    ontem = (datetime.utcnow() - timedelta(days=1)).isoformat() + "Z"
+
+    # ==========================================
+    # FASE 1: O RADAR GLOBAL (Painel Principal)
+    # ==========================================
+    print("\n[FASE 1] A atualizar Radar Global (Canais de Confiança)...")
+    CANAIS_GLOBAIS = ["UCknLrEdhRCp1aegoMqRaCZg", "UCCEJ6cN9IFZlmgjsVxphkuw", "UCoMdktPbSTixAyNG8-8RFmA"]
+    QUERY_GLOBAL = "war|conflict|strike|missile|attack"
+    videos_globais = []
+    
+    for canal in CANAIS_GLOBAIS:
+        url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={canal}&q={QUERY_GLOBAL}&publishedAfter={ontem}&type=video&order=date&maxResults=5&key={API_KEY}"
+        try:
+            resposta = urllib.request.urlopen(url)
+            dados = json.loads(resposta.read())
+            for item in dados.get("items", []):
+                if "videoId" in item["id"]:
+                    videos_globais.append(item["id"]["videoId"])
+        except Exception as e:
+            print(f"  [ERRO] Falha num canal global: {e}")
+            
+    # Gera o ficheiro original intacto para o ecrã principal (playlist.html)
+    gerar_html_playlist(videos_globais, "playlist.html")
+
+
+    # ==========================================
+    # FASE 2: OS TEATROS DE OPERAÇÕES REGIONAIS
+    # ==========================================
+    print("\n[FASE 2] A focar antenas nos teatros regionais...")
+    
+    # Dicionário com os focos de conflito. Podes expandir isto no futuro!
+    TEATROS = {
+        "ucrania_e_vizinhos": "(Ukraine | Russia | Belarus | Poland | Moldova | Romania) (war | conflict | border tension | NATO)",
+        "israel": "Israel Gaza IDF conflict",
+        "taiwan": "Taiwan China military tension"
+    }
+
+    for nome_teatro, query in TEATROS.items():
+        print(f"- A varrer: {nome_teatro.upper()}")
+        query_formatada = urllib.parse.quote(query)
+        # Categoria 25 é a "News & Politics" no YouTube
+        url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={query_formatada}&videoCategoryId=25&publishedAfter={ontem}&type=video&order=date&maxResults=10&key={API_KEY}"
+        videos_teatro = []
         
         try:
             resposta = urllib.request.urlopen(url)
             dados = json.loads(resposta.read())
-            
             for item in dados.get("items", []):
                 if "videoId" in item["id"]:
-                    video_id = item["id"]["videoId"]
-                    titulo = item["snippet"]["title"]
-                    data_pub = item["snippet"]["publishedAt"]
-                    
-                    # Guardamos a data para podermos organizar depois
-                    videos_encontrados.append({
-                        "id": video_id,
-                        "titulo": titulo,
-                        "data": data_pub
-                    })
-                    print(f"  -> Capturado: {titulo}")
-                    
+                    videos_teatro.append(item["id"]["videoId"])
         except Exception as e:
-            print(f"[ERRO] Falha na comunicação com {nome_canal}: {e}")
-
-    if videos_encontrados:
-        # A MAGIA ACONTECE AQUI: Ordena todos os vídeos do mais recente para o mais antigo
-        videos_encontrados.sort(key=lambda x: x["data"], reverse=True)
-        
-        # Limita a 50 vídeos no máximo (o limite de uma playlist incorporada estável)
-        lista_videos = [v["id"] for v in videos_encontrados][:50]
-        
-        video_principal = lista_videos[0]
-        resto_playlist = ",".join(lista_videos[1:])
-        
-        url_embed = f"https://www.youtube.com/embed/{video_principal}?playlist={resto_playlist}&autoplay=1&mute=1"
-        
-        html = f"""<!DOCTYPE html>
-        <html>
-        <head>
-            <style>
-                body, html {{margin: 0; padding: 0; height: 100%; background-color: #000; overflow: hidden;}}
-                iframe {{width: 100%; height: 100%; border: none;}}
-            </style>
-        </head>
-        <body>
-            <iframe src="{url_embed}" allow="autoplay; fullscreen"></iframe>
-        </body>
-        </html>"""
-        
-        with open("playlist.html", "w", encoding="utf-8") as f:
-            f.write(html)
+            print(f"  [ERRO] Falha no teatro {nome_teatro}: {e}")
             
-        print(f"\n[SUCESSO] Playlist global gerada com {len(lista_videos)} vídeos ordenados cronologicamente!")
-    else:
-        print("\n[STATUS] Nenhum vídeo detetado nas últimas 24 horas.")
+        # Gera os ficheiros secundários (ucrania_e_vizinhos.html, israel.html, etc)
+        gerar_html_playlist(videos_teatro, f"{nome_teatro}.html")
 
 if __name__ == "__main__":
-    radar_video_conflitos()
+    radar_video_hibrido()
