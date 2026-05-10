@@ -23,16 +23,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+        "descricao": "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/05/2026 04:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US and Iran exchange fire as Trump says war will ‘be over quickly’",
-        "descricao": "U.S. forces launched retaliatory strikes against Iranian military facilities Thursday after Iran fired missiles and drones at three U.S. Navy vessels.",
-        "url_fonte": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "07/05/2026 23:49"
+        "titulo_evento": "Satellite images show likely oil slick off Iran’s Kharg Island",
+        "descricao": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "10/05/2026 01:23"
       }
     },
     {
@@ -45,28 +62,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "As Adversaries Integrate, U.S. Partners Bypass Washington",
-        "descricao": "<p>The drones hitting Gulf Arab states daily since the United States and Israel launched large-scale military operations against Iran in February are not merely Iranian. They are originally Iranian, yes. But these designs and production processes wer...",
-        "url_fonte": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "08/05/2026 07:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
-        "descricao": "<p>On the eve of the U.S.-Israeli strikes on Iran, 56 tankers sailed through the Strait of Hormuz. Two days later, Lloyd&#8217;s List, the maritime industry&#8217;s journal of record, counted just seven tankers and a single gas carrier &#8212; all sm...",
-        "url_fonte": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "08/05/2026 07:15"
+        "titulo_evento": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+        "descricao": "US-Iran ceasefire holds as Tehran warns Washington against attacks on tankers and Israel kills 24 people in Lebanon.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/05/2026 00:00"
       }
     },
     {
@@ -108,57 +108,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-        "descricao": "Al Jazeera’s Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "09/05/2026 17:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-        "descricao": "The strait represents &#039;a capability that can affect the entire global economy with a single decision&#039;, politician says.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "09/05/2026 16:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1834,
-          21.5218
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade",
-        "descricao": "US oil blockade on Cuba is a significant blow to small family firms struggling with power outages and fuel shortages.",
-        "url_fonte": "https://www.aljazeera.com/economy/2026/5/9/a-year-of-resistance-cubas-private-sector-faces-trumps-oil-blockade?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "09/05/2026 13:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -169,40 +118,6 @@
         "url_fonte": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "09/05/2026 21:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin denounces Nato at scaled-back Victory Day parade",
-        "descricao": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-        "url_fonte": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "09/05/2026 12:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran accuses US of 'reckless military adventure'",
-        "descricao": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
-        "url_fonte": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "09/05/2026 06:13"
       }
     },
     {
@@ -227,6 +142,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran accuses US of 'reckless military adventure'",
+        "descricao": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+        "url_fonte": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "09/05/2026 06:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -244,40 +176,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.8243,
-          39.0742
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Greece examines mystery naval drone found in Ionian Sea",
-        "descricao": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
-        "url_fonte": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "08/05/2026 17:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-        "descricao": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-        "url_fonte": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "08/05/2026 08:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
@@ -288,6 +186,74 @@
         "url_fonte": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "09/05/2026 17:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+        "descricao": "The country has seen its biggest military recruitment surge in 30 years, a major turnaround after years of falling behind on defence capabilities. ",
+        "url_fonte": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "09/05/2026 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Return of Palestine Marathon attracts thousands of runners",
+        "descricao": "Thousands of people have taken part in the Palestine Marathon, which returns to Bethlehem after a two-year pause over the Gaza War.",
+        "url_fonte": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "08/05/2026 17:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin claims war with Ukraine could be coming to an end",
+        "descricao": "Putin declared the war in Ukraine was \"heading to an end\" on Saturday, even though the first day of a US-brokered ceasefire was marred by mutual accusations of violations and a scaled-down Victory Day parade.",
+        "url_fonte": "http://www.euronews.com/2026/05/10/putin-claims-war-with-ukraine-could-be-coming-to-an-end",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "10/05/2026 09:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "At least 39 killed in fresh Israeli strikes on Lebanon",
+        "descricao": "Despite a three-week-old ceasefire, Israel struck Lebanon repeatedly on Saturday killing at least thirty-nine people, while Hezbollah retaliated with drone attacks on northern Israel.",
+        "url_fonte": "http://www.euronews.com/2026/05/10/at-least-39-killed-in-fresh-israeli-strikes-on-lebanon",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "10/05/2026 08:49"
       }
     },
     {
@@ -363,16 +329,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4964,
-          41.9028
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Bejewelled skeletons on display in German monastery fascinate visitors",
-        "descricao": "Decorated catacomb saints at Bavaria's former Banz monastery continue to attract visitors centuries after arriving from Rome.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/08/bejewelled-skeletons-on-display-in-german-monastery-fascinate-visitors",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "08/05/2026 11:00"
+        "titulo_evento": "Live: Iran's Guards threaten US sites in the region if its tankers come under fire",
+        "descricao": "\nIran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian media reported on Saturday, as Washington continued to wait for Tehran’s response to its latest proposal for a peace deal. Foll...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260510-live-iran-s-guards-threaten-us-sites-in-the-region-if-its-tankers-come-under-fire",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/05/2026 06:50"
       }
     },
     {
@@ -601,16 +567,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "Israel launches strikes on south Lebanon after warning residents to evacuate",
-        "descricao": "\nThe Israeli military launched strikes across southern Lebanon on Saturday after issuing evacuation warnings for several villages in the area, saying it was targeting Hezbollah positions despite an existing ceasefire. \n",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260509-live-oil-spill-is-detected-off-kharg-island-in-the-persian-gulf",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "09/05/2026 05:49"
+        "titulo_evento": "The weaponization of shipping channels",
+        "descricao": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Strait of Malacca are increasingly being used as geopolitical leverage.",
+        "url_fonte": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "10/05/2026 07:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Data centers: Tech boom with downsides",
+        "descricao": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. The Iran war has shown how vulnerable societies are as a result.",
+        "url_fonte": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "10/05/2026 06:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Greek minister says mystery drone from a 'foreign state'",
+        "descricao": "A Greek military source said the flying robot, found this week off the island of Lefkada, may have been Ukrainian. Kyiv has admitted using drones to target Russian oil tankers in the Mediterranean.",
+        "url_fonte": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "09/05/2026 23:32"
       }
     },
     {
@@ -623,26 +623,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia is fighting an 'aggressive' NATO-backed force, Putin says in Victory Day speech",
-        "descricao": "\nRussian President Vladimir Putin said Saturday that Russian troops in Ukraine were fighting an \"aggressive force\" backed by all of NATO and described his war goals as \"just\" in a combative speech during the annual Victory Day parade on Red Square.\n",
-        "url_fonte": "https://www.france24.com/en/europe/20260509-moscow-set-to-hold-victory-day-parade-in-red-square-parade-amid-tight-security",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "09/05/2026 05:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says he thinks Ukraine war 'coming to an end'",
+        "titulo_evento": "Putin says he thinks Ukraine war is 'coming to an end'",
         "descricao": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
-        "url_fonte": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-xml-mrss",
+        "url_fonte": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "09/05/2026 19:16"
       }
@@ -709,7 +692,7 @@
       },
       "properties": {
         "titulo_evento": "Iran war: US expecting Tehran's response to proposed deal",
-        "descricao": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war by Friday night Eastern time. Follow live.",
+        "descricao": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war. Follow live.",
         "url_fonte": "https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "09/05/2026 02:42"
@@ -776,8 +759,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Putin leads scaled-down Victory Day celebration as temporary ceasefire holds",
-        "descricao": "A three-day ceasefire in the Ukraine war appeared to be holding.",
+        "titulo_evento": "Putin leads smaller Victory Day celebration, sees Ukraine war ‘coming to an end’",
+        "descricao": "\"I think that the matter is coming to an end,\" Putin told reporters later Saturday.",
         "url_fonte": "https://www.politico.eu/article/putin-leads-scaled-down-victory-day-celebration-as-temporary-ceasefire-holds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "09/05/2026 12:15"
@@ -815,23 +798,6 @@
         "url_fonte": "https://www.politico.eu/article/trump-says-might-move-us-troops-to-poland-from-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "09/05/2026 10:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.405,
-          52.52
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Euer Feedback – Gordon antwortet",
-        "descricao": "Gordon Repinski nutzt diese Sonderfolge für ein Gespräch mit der Community. Er reflektiert über euer Feedback zu den neuen, längeren Podcast-Formaten, diskutiert die Herausforderungen von 200-Sekunden-Interviews und gibt einen persönlichen Einblick i...",
-        "url_fonte": "https://www.politico.eu/podcast/berlin-playbook-podcast/euer-feedback-gordon-antwortet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "09/05/2026 08:03"
       }
     },
     {
@@ -975,16 +941,237 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Taiwan’s Plastic Habit Collides With Shortages Caused by a Faraway War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnU1S3RGaFNOOTdZWFZoRkVWVDZiNmNsbWEzM0xNVkpOTC02U3R3TVV5V3lkWmJmQmxqb0k2eUtha3g3ZkZaTVQ0aXQ5WDJJQXZ0YzQ3cnk0VWhQU0dYSWhPaU1fMlBjWUNiU0ZoOVNheUN6aG42LUJHVjVNbk8xT1lR?oc=5\" target=\"_blank\">T...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnU1S3RGaFNOOTdZWFZoRkVWVDZiNmNsbWEzM0xNVkpOTC02U3R3TVV5V3lkWmJmQmxqb0k2eUtha3g3ZkZaTVQ0aXQ5WDJJQXZ0YzQ3cnk0VWhQU0dYSWhPaU1fMlBjWUNiU0ZoOVNheUN6aG42LUJHVjVNbk8xT1lR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 07:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How many Russian soldiers died in the war with Ukraine - Mediazona",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQjVVdlBzMUxla3RjVHUxdkEwc015Znc3WlBPNWRBeF9vWDVFaHlpcEYtang3bkNZUG9vYkZwNnlkOVBhQ2xseGtxMGw5ODBMSDZ6REIzcEExWl83M20xS3B5U0VzWnNSNHdN?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQjVVdlBzMUxla3RjVHUxdkEwc015Znc3WlBPNWRBeF9vWDVFaHlpcEYtang3bkNZUG9vYkZwNnlkOVBhQ2xseGtxMGw5ODBMSDZ6REIzcEExWl83M20xS3B5U0VzWnNSNHdN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 04:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin says he thinks Ukraine war is 'coming to an end' - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hQa2lNSkEzQ0RqMjZfZTVkR3pLQ2tMWDZ4cmU4bEVwSG5HNDJzTWtJdnBja2Y1ZmNsUEd5ME9wZXBYYnFVMEktdHBGZTQ5cDFBYzA4emdWN1c2WUVId0R3YnRRSTlnZ0RQX0FBVWZ2NVRMTGVJQzY5M0VUeFUzNGVMTENLRXhnN1p6YWtn0gGOAUFV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3hQa2lNSkEzQ0RqMjZfZTVkR3pLQ2tMWDZ4cmU4bEVwSG5HNDJzTWtJdnBja2Y1ZmNsUEd5ME9wZXBYYnFVMEktdHBGZTQ5cDFBYzA4emdWN1c2WUVId0R3YnRRSTlnZ0RQX0FBVWZ2NVRMTGVJQzY5M0VUeFUzNGVMTENLRXhnN1p6YWtn0gGOAUFVX3lxTE5mdUZDbDFWLUsxQm54bldsd1UtSWJscXdVUms3U3JlakdoZGFScGFOTW8yZzZPejRFU0NUbVd4UjNsUXhJTGZ3cVlneFQycnc1ZURoMWQ0c2ZwRDZ5TUdHeV9QZFJRY0dsUGMtNUtDNTR6YU9SSUhMdUxpSUk3ZU9CZVA2U1NTOTMwQnJVdkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 02:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Live - US says Iran response expected soon as military tensions simmer near Hormuz | Iran International - ایران اینترنشنال",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xM0Mza0JVZUVHQzNEcUpFcDEyQTdjU29lZWE0ZEJ1MUZhci1HVU5TVVMwdDEzMm16Y2pINzJpUlJnRWNnY3dEc1cxR0VGY20wMW9Wa3RIWFJNSDZoR2c?oc=5\" target=\"_blank\">Live - US says Iran response expected soon as mili...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xM0Mza0JVZUVHQzNEcUpFcDEyQTdjU29lZWE0ZEJ1MUZhci1HVU5TVVMwdDEzMm16Y2pINzJpUlJnRWNnY3dEc1cxR0VGY20wMW9Wa3RIWFJNSDZoR2c?oc=5",
+        "titulo_evento": "Iran war is draining world’s oil buffer at an unprecedented pace - Fortune",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3lZSGloZEZwbTYtQUVMYlFHYzZsbEw2R1BUbC1XbnFwQU4xcXV5TjI4c0V2b1BnXzRlOHYxRzNTUE43Nktabi1VWk84SGt6ZE44UEpVZ3MwZVA2N3MzXzFyT3FiOVkteUJoZzMzaVI5ZnJIczVRUGYyTjZ3al81SDlpQUpIRnFld3NDT292QW1WNHBa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3lZSGloZEZwbTYtQUVMYlFHYzZsbEw2R1BUbC1XbnFwQU4xcXV5TjI4c0V2b1BnXzRlOHYxRzNTUE43Nktabi1VWk84SGt6ZE44UEpVZ3MwZVA2N3MzXzFyT3FiOVkteUJoZzMzaVI5ZnJIczVRUGYyTjZ3al81SDlpQUpIRnFld3NDT292QW1WNHBaMFlyNE1LOVlCalhkMTRPcVFvYTJyWldkRjhN?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 19:33"
+        "data_noticia": "09/05/2026 23:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZpTU5uSHV0ZDJZaWJNejZwRmdWQVByeFVqdTV2WG5WT2FaUk4xazhHMFZJMWVfRU9lbXRlUU5YT284aC12clNPRGhfSjhHQmota2JWVE5hV3hDenl1UHNFTFVnTmFWTUdRQUdOd0NMcjNrelpVNVNiYS1PNkdkZHRhT0dvWE5NSXZxQVdBNkJ4QUhn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZpTU5uSHV0ZDJZaWJNejZwRmdWQVByeFVqdTV2WG5WT2FaUk4xazhHMFZJMWVfRU9lbXRlUU5YT284aC12clNPRGhfSjhHQmota2JWVE5hV3hDenl1UHNFTFVnTmFWTUdRQUdOd0NMcjNrelpVNVNiYS1PNkdkZHRhT0dvWE5NSXZxQVdBNkJ4QUhndTdvb2FPbm9QOXZGTGxZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran no closer to ending war as Qatari tanker sails toward Strait of Hormuz - KSL News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHRvcGdseUJmRUxDaFNzelVEdnl2VzRzcHZQSVhUaE9iX2hYNXUyUWN3eGNnbE53X29HczNDN0dSV2h2OHdwZHNkYkhtNW9vdnlieWVSbE5wTUZRaVhPb1BMcExkUTdfOFk4eW9OaHJIdjlwRng1WmR4R2ZLUWxVWWZDSjNkLVJ3UkUwYzRxX0RGaUdx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHRvcGdseUJmRUxDaFNzelVEdnl2VzRzcHZQSVhUaE9iX2hYNXUyUWN3eGNnbE53X29HczNDN0dSV2h2OHdwZHNkYkhtNW9vdnlieWVSbE5wTUZRaVhPb1BMcExkUTdfOFk4eW9OaHJIdjlwRng1WmR4R2ZLUWxVWWZDSjNkLVJ3UkUwYzRxX0RGaUdxX0ZZS3c2Z2czb0lfTVVHMGNFV0pFMWZJbzI3S0Yya1p5UQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 03:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s Iran War Narrative Is Crumbling Against Reality - Rolling Stone Australia",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUw0VDFNQVZCQkw2U1lfaGdTYWJULWx6d1ZhODZfRTZGUXhRRGNyOXlqcHh1V1V2N1lvMG44V1lZaHh3bjQ1N05idkZsR0V3N3FNUE5LRWVrYU1wWXJocUtob2MxVk9ROHBrTk5lSjdPS0NMT3RrT3NuRl9jS2ZXUjBfcDJEVW1DTGxkT0VIdmpnZG1D...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUw0VDFNQVZCQkw2U1lfaGdTYWJULWx6d1ZhODZfRTZGUXhRRGNyOXlqcHh1V1V2N1lvMG44V1lZaHh3bjQ1N05idkZsR0V3N3FNUE5LRWVrYU1wWXJocUtob2MxVk9ROHBrTk5lSjdPS0NMT3RrT3NuRl9jS2ZXUjBfcDJEVW1DTGxkT0VIdmpnZG1DRG04?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 00:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How Canada’s military went from a ‘death spiral’ to a recruitment boom - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUllSNzliVlBzZzJFQ1J1TjBvR05jUkl2YWt6Mi1sY2UzWDcxNkloYTdQdUJjV1NVZjdqYXI5UWZJNmxzM3M0ZDBPQ25NOUk5eWFiSmdnelBDUQ?oc=5\" target=\"_blank\">How Canada’s military went from a ‘death spiral’ to a r...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iUllSNzliVlBzZzJFQ1J1TjBvR05jUkl2YWt6Mi1sY2UzWDcxNkloYTdQdUJjV1NVZjdqYXI5UWZJNmxzM3M0ZDBPQ25NOUk5eWFiSmdnelBDUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/05/2026 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin says he thinks Russia-Ukraine war is coming to an end - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGVNdUpiMzFhcFNsS3JPMjdUaVhoazlMTS1FZXh1RXo1bnVlYUFsR1RTZ2swSGVxcjJWMWY5aTB2dHpUTnE1UUhfWHlPaUtKaTFpZDI1ekJ3YlZfYnR0MENmWU1hQ2pDMURadXo0cnFVZHZmZk5TMnBicjZYdndWdDBOOEYzdlMxNW1hUFVhLVVFQ2tu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGVNdUpiMzFhcFNsS3JPMjdUaVhoazlMTS1FZXh1RXo1bnVlYUFsR1RTZ2swSGVxcjJWMWY5aTB2dHpUTnE1UUhfWHlPaUtKaTFpZDI1ekJ3YlZfYnR0MENmWU1hQ2pDMURadXo0cnFVZHZmZk5TMnBicjZYdndWdDBOOEYzdlMxNW1hUFVhLVVFQ2tuNm1IQzhkdFpjc3I2ZS1ZMXVn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/05/2026 22:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin suggests Russia’s war on Ukraine ‘coming to an end’ - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVk3Rl9SSW5kSUZfM2VjaXR5M1c0R28zdHpkY0l2Y1BRUlhHV0haTVY4Y0xJSHFRTEJfOUNEazBUc0xrN3JSNTF1N2d1TTZPYTllT1h0UVBmclNKR3RzVmZBd0hTOEM4cW4xN2xQMkJzOENQdjZPNDBSTFYtNklzZjBHQUZlMXVnR3VSM2poQmcwQjdK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVk3Rl9SSW5kSUZfM2VjaXR5M1c0R28zdHpkY0l2Y1BRUlhHV0haTVY4Y0xJSHFRTEJfOUNEazBUc0xrN3JSNTF1N2d1TTZPYTllT1h0UVBmclNKR3RzVmZBd0hTOEM4cW4xN2xQMkJzOENQdjZPNDBSTFYtNklzZjBHQUZlMXVnR3VSM2poQmcwQjdKRXNzY2N0c9IBoAFBVV95cUxON3NTYVhQNllaclBkR1R3ZGVJaHI1dDYzR29KdHR6Q19DS1o0MGJXY3RQb0JMY1R3QmpXd1o2M3ZrbklGS2JmbmVTZEtHTWZsZTZmak55YURvS3dOMl94U2tnWl9ieVN1Q0dVNncxMUxNSnBCNU84MFU4b1FVSVBiMm1sSXBlTXVwWWF5UkVqUVhEWE9fd2pNUEF0QnlGcE0w?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 04:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Moscow and Kyiv trade accusations of violating ceasefire - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWxsc09UYXRmdHRSV2w2cXpNcUJsZEQxUlJrcVVweXJndHVIbGJEdmt0TUlIYmszMVN0V0ZXRWNRY20tbm1VY21pdlc2U1I0WlJiYVJPOHpLN0xrZEZvV29YVUJPWkFZZjI1R0ctcDBJOWlYc2diYlR3OEtMaWZVTUt5aHJLdThRMEcxTVY2YWwyX3dE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWxsc09UYXRmdHRSV2w2cXpNcUJsZEQxUlJrcVVweXJndHVIbGJEdmt0TUlIYmszMVN0V0ZXRWNRY20tbm1VY21pdlc2U1I0WlJiYVJPOHpLN0xrZEZvV29YVUJPWkFZZjI1R0ctcDBJOWlYc2diYlR3OEtMaWZVTUt5aHJLdThRMEcxTVY2YWwyX3dENE5OS1l0SnJldW42cXU2WHpvWU5CcGtHUGtZV2VPWGVQekFkZEpMb0c4WWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/05/2026 02:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war deadline heats up Trump-Congress showdown - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNxb1dHRlF0eHVBa1dNS0ZZbWpDaUpEbjlvNDkwQzZuTl9hMEd0UHJDSlAwTUstSnlXc3hweEdsZXFudmdxdll1TlVWOG5Nb2Nqa2NUSHg0SjBLMW5Qd1dxNU5GbmdPQW1OSFczWWEwMUllcHR4b3lOWmVRb3BVazhJT1U5eC16LW9v0gGLAUFVX3lx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjNxb1dHRlF0eHVBa1dNS0ZZbWpDaUpEbjlvNDkwQzZuTl9hMEd0UHJDSlAwTUstSnlXc3hweEdsZXFudmdxdll1TlVWOG5Nb2Nqa2NUSHg0SjBLMW5Qd1dxNU5GbmdPQW1OSFczWWEwMUllcHR4b3lOWmVRb3BVazhJT1U5eC16LW9v0gGLAUFVX3lxTE9MUVQxNzdXQVcxR2VLRjRxQzh0ejg3XzlHVGdQRVV5b1JkWW9vUnVSQmtqdlZORGxsazNCSDdUSHRCazZZZlF1bXl1dmNucG9nYmU5eUFkSVVJQVpJSHBjd0hVbHl1R3pMQjcxR3dUZVplY2E3M19sOVBTYUxkMFg2b1dzdS1ibzBjaFU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/05/2026 22:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWJpeTI0ZkZWTlAzeVV1R1E5YlhpazNWMm9jYU4zanA5NmE2OFNMa0RpUEJ1RERUelB2b1NwZjA5bjBFZ2VCSEdFZ29fSUJSUzFtblNWdzdjUHY5UWJyVmxjMGZaV0hkTDVjNHVVN0xMSGxBc1lsRG1yMjdYVi1MTEVUMmRkWEFST1B0Y2MxZkRla2JS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWJpeTI0ZkZWTlAzeVV1R1E5YlhpazNWMm9jYU4zanA5NmE2OFNMa0RpUEJ1RERUelB2b1NwZjA5bjBFZ2VCSEdFZ29fSUJSUzFtblNWdzdjUHY5UWJyVmxjMGZaV0hkTDVjNHVVN0xMSGxBc1lsRG1yMjdYVi1MTEVUMmRkWEFST1B0Y2MxZkRla2JSbDYtTm10eGJFOXBUSTROb2oyS0NDU25QQ0RjSEJGUdIBuAFBVV95cUxPeFJsb2dlNk5LMEhEMWF0Z0dnbFpwNk91VXJIVlZ0ZHRkRVo1RjJnZkxUSHVwanliX05BRmFXY1cxZUowYXVGOXNwcElGbVBOSzJMUS1XalFfRUNYN21uTFg2TUM1MzVfR1pzcElNci1hTjNIOS1YZWFxOHdBVl9MLW5mZWdwUVZVdUU1UjJtZzNnaERjbDlJY3ZFemdPZHZzN29lbXJTVkdlR1ZzYy1ZcUlab1FSQmV2?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "10/05/2026 05:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkFqQnNLbUZPVXFmV2k1ekpnTGRORHVNLXBSV0JCYW9GUFNQdFMyNTQtZFdZem1uQWE3dVBmS19HdmN6YkcxblRzN3RyMTRlMTRGRHhhdUo3WmRwM2JXZFhfUlk1UllmSHQzNUdmZmVhbmNvRFgxaUY0Y2g4VWRHbGlFQ1A?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkFqQnNLbUZPVXFmV2k1ekpnTGRORHVNLXBSV0JCYW9GUFNQdFMyNTQtZFdZem1uQWE3dVBmS19HdmN6YkcxblRzN3RyMTRlMTRGRHhhdUo3WmRwM2JXZFhfUlk1UllmSHQzNUdmZmVhbmNvRFgxaUY0Y2g4VWRHbGlFQ1A?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/05/2026 23:10"
       }
     },
     {
@@ -1009,135 +1196,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel built secret base in Iraqi desert during war with Iran - report - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxSVlmbV9GbFJfTzdDUkJfRUJlMGg4TUFESVJXS2FfOFo1VTNzVkNHNTAwT21UZC1UNGRhS0IwY25OYUljbFFvMkxKRDYtVXBTdDE5bDl4QUJsXy1x?oc=5\" target=\"_blank\">Israel built secret base in Iraqi desert during war w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxSVlmbV9GbFJfTzdDUkJfRUJlMGg4TUFESVJXS2FfOFo1VTNzVkNHNTAwT21UZC1UNGRhS0IwY25OYUljbFFvMkxKRDYtVXBTdDE5bDl4QUJsXy1x?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 20:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran warns the US against attacks on its oil tankers and other ships but ceasefire appears to hold - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB0S2RNMVJ5UEh2ZUpfcHpUZEg5eXRwYlFPYUx4aXBZWmExUWh3dmxCUlc2RlgtS3FzcDhPTERiVm14RmhzSTZEVFZVY1lNbFdhbTBwdWFsbFp4Zjgtc3ZPWkVRSzRXQlo2Tm5oNlRXRWFpeDdYbHJVYl8tdw?oc=5\" target=\"_blank\">Iran warns ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0S2RNMVJ5UEh2ZUpfcHpUZEg5eXRwYlFPYUx4aXBZWmExUWh3dmxCUlc2RlgtS3FzcDhPTERiVm14RmhzSTZEVFZVY1lNbFdhbTBwdWFsbFp4Zjgtc3ZPWkVRSzRXQlo2Tm5oNlRXRWFpeDdYbHJVYl8tdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 20:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says he thinks Russia-Ukraine war is coming to an end - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGVNdUpiMzFhcFNsS3JPMjdUaVhoazlMTS1FZXh1RXo1bnVlYUFsR1RTZ2swSGVxcjJWMWY5aTB2dHpUTnE1UUhfWHlPaUtKaTFpZDI1ekJ3YlZfYnR0MENmWU1hQ2pDMURadXo0cnFVZHZmZk5TMnBicjZYdndWdDBOOEYzdlMxNW1hUFVhLVVFQ2tu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSGVNdUpiMzFhcFNsS3JPMjdUaVhoazlMTS1FZXh1RXo1bnVlYUFsR1RTZ2swSGVxcjJWMWY5aTB2dHpUTnE1UUhfWHlPaUtKaTFpZDI1ekJ3YlZfYnR0MENmWU1hQ2pDMURadXo0cnFVZHZmZk5TMnBicjZYdndWdDBOOEYzdlMxNW1hUFVhLVVFQ2tuNm1IQzhkdFpjc3I2ZS1ZMXVn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 20:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says he thinks Ukraine war 'coming to an end' - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWkxcXA5dUo5d25lNEJkbkdTZG5ZUGFTTm5nc1l5NmtDN2lUSEstUWNhOWpzN3JodlQ0ZDJtdG1qbTZUWDdXbE1FendfOVRITmdEcHlrRWEyeW04VTJ1N1JiUDVKTEFjODQ5c3FJMVktenBhQzZaT3hYSTU4SjIwc3NnRV9LMVNHa3fSAYoBQVVfeXFM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWkxcXA5dUo5d25lNEJkbkdTZG5ZUGFTTm5nc1l5NmtDN2lUSEstUWNhOWpzN3JodlQ0ZDJtdG1qbTZUWDdXbE1FendfOVRITmdEcHlrRWEyeW04VTJ1N1JiUDVKTEFjODQ5c3FJMVktenBhQzZaT3hYSTU4SjIwc3NnRV9LMVNHa3fSAYoBQVVfeXFMTmZ2RXlMeFFvYWtBR2pFMWtaWm14VHVvaVZIY0lpZzBLM1RxWEh5MEFyTDFXSDFHcnNhOUpxdW11UXpHODRFdkk2SWdQYmZlQ04tRVhXb2VMb25qaXdCSE5rZUduVUJxN0dLb1pUOFdzUW9MSTM1Q0pJRUNuaGxUU3J3T3ZLYjNTV1Nn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 19:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWJpeTI0ZkZWTlAzeVV1R1E5YlhpazNWMm9jYU4zanA5NmE2OFNMa0RpUEJ1RERUelB2b1NwZjA5bjBFZ2VCSEdFZ29fSUJSUzFtblNWdzdjUHY5UWJyVmxjMGZaV0hkTDVjNHVVN0xMSGxBc1lsRG1yMjdYVi1MTEVUMmRkWEFST1B0Y2MxZkRla2JS...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWJpeTI0ZkZWTlAzeVV1R1E5YlhpazNWMm9jYU4zanA5NmE2OFNMa0RpUEJ1RERUelB2b1NwZjA5bjBFZ2VCSEdFZ29fSUJSUzFtblNWdzdjUHY5UWJyVmxjMGZaV0hkTDVjNHVVN0xMSGxBc1lsRG1yMjdYVi1MTEVUMmRkWEFST1B0Y2MxZkRla2JSbDYtTm10eGJFOXBUSTROb2oyS0NDU25QQ0RjSEJGUdIBuAFBVV95cUxPeFJsb2dlNk5LMEhEMWF0Z0dnbFpwNk91VXJIVlZ0ZHRkRVo1RjJnZkxUSHVwanliX05BRmFXY1cxZUowYXVGOXNwcElGbVBOSzJMUS1XalFfRUNYN21uTFg2TUM1MzVfR1pzcElNci1hTjNIOS1YZWFxOHdBVl9MLW5mZWdwUVZVdUU1UjJtZzNnaERjbDlJY3ZFemdPZHZzN29lbXJTVkdlR1ZzYy1ZcUlab1FSQmV2?oc=5",
+        "titulo_evento": "US experience fighting Iran offers lessons for China, experts say - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVUyU1RDbXQySlA0M2FoaHNMNXpSUExLRkRldTB6c0VLZ3JicUl2enJlTFlwRDFOendJMXFYclNCWHVZMkdKVVBzVFpTRldQS3d6QmNNSl9HYzN4R0tGX2NRZkVEV1J6MXhqcFdMdmQxa2VDSXU0ZExXdkc3VTRuWnhMVmhfTmJsLWw3RUJ1UUlWVGw0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVUyU1RDbXQySlA0M2FoaHNMNXpSUExLRkRldTB6c0VLZ3JicUl2enJlTFlwRDFOendJMXFYclNCWHVZMkdKVVBzVFpTRldQS3d6QmNNSl9HYzN4R0tGX2NRZkVEV1J6MXhqcFdMdmQxa2VDSXU0ZExXdkc3VTRuWnhMVmhfTmJsLWw3RUJ1UUlWVGw0?oc=5",
         "categoria": "Política (Google News Military)",
-        "data_noticia": "09/05/2026 20:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says he thinks the Ukraine conflict is coming to an end - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkI4bDZTNHhmTUcxNWRqeEo0WVBrZm9nOTFhU1p6NW1yc0JmcktmejlOdjYzVzh6bWZsWV9zSkZSTnZmMFczOEVVY19tNkdoZ0tfeDNtRWRONTRmVy1LTUUwcDhaQVFRY0tqM0V5WUJLLTVOSlNtTmtna3dqWG81UElQVDhaOVVpUGowalFKcTBRS0dz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkI4bDZTNHhmTUcxNWRqeEo0WVBrZm9nOTFhU1p6NW1yc0JmcktmejlOdjYzVzh6bWZsWV9zSkZSTnZmMFczOEVVY19tNkdoZ0tfeDNtRWRONTRmVy1LTUUwcDhaQVFRY0tqM0V5WUJLLTVOSlNtTmtna3dqWG81UElQVDhaOVVpUGowalFKcTBRS0dzVGx1X0hpQjhwdTDSAaQBQVVfeXFMTjlEUUVET2pQMkxleTZ2cDVsd0dDM0Z1TWdzMWlDOG5oYzVaRHdCZmtzNmRISTZwOWlDMFc0dlFRNWlKcV9zOUxMa1hFbGs2R1VDSnFReklEbmdXdHR5emdBb1Z3VjJHNlVPNEFMNmsybDRabWdpOTFIOE5fNVlwbG9WOXYxZ1A5SDU4YzE1S0hXeWVyc0pSZkRFZkdTaHZlNlQ5OUs?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "09/05/2026 19:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How many Russian soldiers died in the war with Ukraine - Mediazona",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQjVVdlBzMUxla3RjVHUxdkEwc015Znc3WlBPNWRBeF9vWDVFaHlpcEYtang3bkNZUG9vYkZwNnlkOVBhQ2xseGtxMGw5ODBMSDZ6REIzcEExWl83M20xS3B5U0VzWnNSNHdN?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoQjVVdlBzMUxla3RjVHUxdkEwc015Znc3WlBPNWRBeF9vWDVFaHlpcEYtang3bkNZUG9vYkZwNnlkOVBhQ2xseGtxMGw5ODBMSDZ6REIzcEExWl83M20xS3B5U0VzWnNSNHdN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 19:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war is crushing Asia’s farmers, threatening global food supply - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBHenFUOHZibUJwUENoaW9GUGVrUC1WSWVJNC1yTktmOUFxRExHZjh1OVc2NHpUU3pvLUVLcVlZVHEtbGVIV2p0bDl2YnFUSGtHTTl1MExiY25hSGhSZHM2THEtRGktalVEMVM2aVg2b0NkWVR5dE1LeC1oM2F2QQ?oc=5\" target=\"_blank\">Iran wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHenFUOHZibUJwUENoaW9GUGVrUC1WSWVJNC1yTktmOUFxRExHZjh1OVc2NHpUU3pvLUVLcVlZVHEtbGVIV2p0bDl2YnFUSGtHTTl1MExiY25hSGhSZHM2THEtRGktalVEMVM2aVg2b0NkWVR5dE1LeC1oM2F2QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 16:00"
+        "data_noticia": "10/05/2026 02:16"
       }
     },
     {
@@ -1150,11 +1218,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "AI Plays Major Role in the War on Iran - Arms Control Association",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5\" target=\"_blank\">AI Play...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5",
+        "titulo_evento": "Could China be drawn into the Iran war? - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFFzaHR3Q25yd3U2WkRfaDJ6b3pqd3lwVkRSamFoSW51U2dlMGNoaWVQRVpfMDZxZ0Z0SDcxZmhSSFNzVWtwWXRiWWI4ZHhpbm1xNGQwMDRGOG9TSTlIeUxwV19OY0lsbk8zU2pvM200MmlfMFF6aHpoaEFFWi1ZRw?oc=5\" target=\"_blank\">Cou...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFFzaHR3Q25yd3U2WkRfaDJ6b3pqd3lwVkRSamFoSW51U2dlMGNoaWVQRVpfMDZxZ0Z0SDcxZmhSSFNzVWtwWXRiWWI4ZHhpbm1xNGQwMDRGOG9TSTlIeUxwV19OY0lsbk8zU2pvM200MmlfMFF6aHpoaEFFWi1ZRw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 08:59"
+        "data_noticia": "09/05/2026 19:56"
       }
     },
     {
@@ -1167,11 +1235,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Israel Built and Defended a Secret Iran War Base in Iraq - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdW81dms1eW1JT09hSnpNeGVrN3duVS1mUDBpTnk5UFhOS0RJdHJSTjFscDk1MXhxR01xZDlfS0ZNYWpGZU94aVdXTzkyeVBsQmdWYmJPSGltUlg5SXdMWTBjQ3B5WXZqTnRVX1FEZXpoRVUtMjdTTkM5dnNIWTJoNURHR01KRm1BX1RLd1VLeUgtWV91...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdW81dms1eW1JT09hSnpNeGVrN3duVS1mUDBpTnk5UFhOS0RJdHJSTjFscDk1MXhxR01xZDlfS0ZNYWpGZU94aVdXTzkyeVBsQmdWYmJPSGltUlg5SXdMWTBjQ3B5WXZqTnRVX1FEZXpoRVUtMjdTTkM5dnNIWTJoNURHR01KRm1BX1RLd1VLeUgtWV91ek1yRnR5dmE0VE5sYnRxcjdR?oc=5",
+        "titulo_evento": "Iran conservationists shore up heritage sites damaged during war - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVE0xeXRweDVoeXcyYzNXeTRNLWxEWGloRVB1QzJOdUl1WERVS05qRDYtZy1rV3NKNExRTXFRUDdkejVVd1VNOXI1eWQ0di1fdGJYSHhSRjM5TXJtNjdzSy04M2tXb0xHc0xURXVNTXhRWlFQT1AzczMxQjB5YlhBTWQtdS13bXJmeHl6RzZObDROS3Yw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVE0xeXRweDVoeXcyYzNXeTRNLWxEWGloRVB1QzJOdUl1WERVS05qRDYtZy1rV3NKNExRTXFRUDdkejVVd1VNOXI1eWQ0di1fdGJYSHhSRjM5TXJtNjdzSy04M2tXb0xHc0xURXVNTXhRWlFQT1AzczMxQjB5YlhBTWQtdS13bXJmeHl6RzZObDROS3YwMTIwZWR6VdIBoAFBVV95cUxNTXZkamNGRFlHdUV5cW41M281eGtuSFRwT1djV3F1bnNpdXc1di1iVUJzQ2V6b3pIanFsbDhKa2YwQzdSUWFxRnJ0ZWZEVUl3WGJ5UDdDazViLWpMXzZWZmRha3I3M0hqdDZ3NThFbTdNZk9aUmRNT3JQUk9vQlhySm1USWZoUnJXS1dpYVNnS1F6V0pDV25zVXV2SDExV3l4?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 18:00"
+        "data_noticia": "10/05/2026 05:03"
       }
     },
     {
@@ -1179,118 +1247,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -102.5528,
+          23.6345
         ]
       },
       "properties": {
-        "titulo_evento": "Iran War Puts the World’s Most Used Chemical in Short Supply - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmlneDYwR2M4VUFUVGVHcXdYZUFYM1Y2aHZ5ekplTHB4TGtoSHJFem1pcW9BVTV1LThYZG8yX0pGWDYzeTVTU21zUW4tZVd3bGtNczNWeXRQZEkzbUtZM0xISkdhVEZ6Y3hvcmxQbTBNTWRCTnh5UHlEb21FYnk4RmozRjRFUmZELXc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmlneDYwR2M4VUFUVGVHcXdYZUFYM1Y2aHZ5ekplTHB4TGtoSHJFem1pcW9BVTV1LThYZG8yX0pGWDYzeTVTU21zUW4tZVd3bGtNczNWeXRQZEkzbUtZM0xISkdhVEZ6Y3hvcmxQbTBNTWRCTnh5UHlEb21FYnk4RmozRjRFUmZELXc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 16:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war latest: Ceasefire appears to hold after US strikes Iranian oil tankers - LiveNOW from FOX",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYXZwX1cydGV4WnlVWXF6bndmVFZiaGNaUmlxQ1ljUW9wVlU0YzJfVmRvOVUyV3hXZFhvMHY4aWdGQ2RvZW0weFhUQzJnTFFYeEN5cmdGd2FvajY4UUk1ZUJUONIBaEFVX3lxTE13VzNVWEZ0NlNSb3hZb3lNdWtNUVNoSno3QXdrNEZhUVVMZDdUeFlR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qYXZwX1cydGV4WnlVWXF6bndmVFZiaGNaUmlxQ1ljUW9wVlU0YzJfVmRvOVUyV3hXZFhvMHY4aWdGQ2RvZW0weFhUQzJnTFFYeEN5cmdGd2FvajY4UUk1ZUJUONIBaEFVX3lxTE13VzNVWEZ0NlNSb3hZb3lNdWtNUVNoSno3QXdrNEZhUVVMZDdUeFlRd0xJZGo0V1gtMlU5aHRyMHQydms4Z2RXeVoxRm1fS0VDQTFpUVVJejRFcEJmZUhPOV85RnNMajJ2?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 12:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin Presides Over Downsized Military Parade as Ukraine War Drags On - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA3cndaMUpKazNpcG1SZHJ0WFpSYlJXbENQX0lsOW5tTU1BWUdfNHQzbUFrZzlBUngwd2ptVXh0QXUzcW9FZ3lLUUtFdW1FcEZrWUNDZTlEUXdSNjFLdDE1SFg0Wm5UN2xoaTdQd3VDOUxOY2g1SWM3RkNQRTFfdw?oc=5\" target=\"_blank\">Putin P...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3cndaMUpKazNpcG1SZHJ0WFpSYlJXbENQX0lsOW5tTU1BWUdfNHQzbUFrZzlBUngwd2ptVXh0QXUzcW9FZ3lLUUtFdW1FcEZrWUNDZTlEUXdSNjFLdDE1SFg0Wm5UN2xoaTdQd3VDOUxOY2g1SWM3RkNQRTFfdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 13:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Memo: Trump vexed by crashing crosscurrents in seeking end to Iran war - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjNWLUZKM081cDloZDhEWF9CYktYQWZmVnlWMXlKWGJST1dkeDExQUN4WW5EOExCa001VW1Ob2F3VURydXZjWkV0eG9OdjdnbklqbWZJbWtiZVhBY3hUdERnOFFZU1hrNW9lYm1FbVU5N20tbnhyY2c5Y0pla2tsR3dSZTdfSEFYbnfSAY8BQVVfeXFM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQjNWLUZKM081cDloZDhEWF9CYktYQWZmVnlWMXlKWGJST1dkeDExQUN4WW5EOExCa001VW1Ob2F3VURydXZjWkV0eG9OdjdnbklqbWZJbWtiZVhBY3hUdERnOFFZU1hrNW9lYm1FbVU5N20tbnhyY2c5Y0pla2tsR3dSZTdfSEFYbnfSAY8BQVVfeXFMTnVyZUprc1VIMmdDelQyczdid2FHQWJlNUxDU18tVzB4N0ZiLW5sSU40Z2xySVQ3c0F0U1pZci1Sb1B1WUIycWlBeEowRXFaakJ6SFg3aUFFQ0JkZUpGaGlPaldvc1ZaR1V1NFh0NlE2RnU3OXFVQ3VackFIT0NMM1ktXy1EWGV3NXFiQnRxQ1k?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. and Iran no closer to ending war as Gulf clashes test ceasefire - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXRVdi1mQWI3b2MwX2d4RjdVN1BXYnV2TUhlYnB5dnFGa2Nuc1c1bF9CZGVDUncxUEp4T1V3X1Z3WVl3UFY1cDdLbmE4d0RxdTVlWTVJZWlXM0s1aDFNSnBPdk9XaUlGemN3XzVua3JBNW90RkNKU1BhMlJLNmplWmpLaWswcGszdGJ3aFRYTFBhQWZa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXRVdi1mQWI3b2MwX2d4RjdVN1BXYnV2TUhlYnB5dnFGa2Nuc1c1bF9CZGVDUncxUEp4T1V3X1Z3WVl3UFY1cDdLbmE4d0RxdTVlWTVJZWlXM0s1aDFNSnBPdk9XaUlGemN3XzVua3JBNW90RkNKU1BhMlJLNmplWmpLaWswcGszdGJ3aFRYTFBhQWZaSWJPNHIyRW96aXZIdThDUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 07:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "WSJ: Israel operated secret base in Iraq during Iran war, struck Iraqi troops to prevent exposure - i24NEWS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4NDZWRU5BUG5aVHQwSGhQWXQxeEwta2ZTSXZ5YUdUZ3VqWERHQzZROGZaM3F1cUhrMFJHelhkMThLSmx5M05BanNSaFU4MGs?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 19:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The war on Iran will likely end in American retreat - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkZ5dGZPdzdqTFBsX2ZKY0w2ME0wN3RPaU1Rel9ETGVZOE50S2dVQmV5RkhjOHlMVS02Y2dPc2czZVh4THlKY2RjU1lKdmp4OVFFSTVtMDFhLXYyeVB6NUYxTWFfRl9FdXdPWTJyMjdDVTJ6S2RXNm13TDFxS3p4c0dpY3pRVHNoUDBZWUNMcTN2WlY4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkZ5dGZPdzdqTFBsX2ZKY0w2ME0wN3RPaU1Rel9ETGVZOE50S2dVQmV5RkhjOHlMVS02Y2dPc2czZVh4THlKY2RjU1lKdmp4OVFFSTVtMDFhLXYyeVB6NUYxTWFfRl9FdXdPWTJyMjdDVTJ6S2RXNm13TDFxS3p4c0dpY3pRVHNoUDBZWUNMcTN2WlY4Q1BVbzFNa9IBoAFBVV95cUxPRFVrcTN1bzBiYl9nQXM1dk15LVpWVVVyR2lCZUFqOW9DZW42SWdtUnFrZzBuRDZTbjFPcWluUUgtdG9jZk5BTUotM0tFWEx2b2NQY09uWVhZT0FVY2FJVUVrSzZteFAyTjUxZElkRnBfcENhVTVVczdELUs2MGFzdkJDR3RkTkl1RUpaNTBYTHBWS192Zm1PcWJ5UWloU2Fq?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/05/2026 09:20"
+        "titulo_evento": "Mexico’s biggest fortunes seek certainty outside the country - EL PAÍS English",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmhTbUZkdG9ZdXE2eXFWZ2JEUlE2UHo3Q3lUbEpSQU5odGZERFFwcnJLMjhITVlqOVhxWlhUTDFEMWd3V3cyLXRhd0NLOTB6STVjSXZ6TzA4dVBvRWFzREpBV3lpLUplMDUyNU9OVE5aWXJCM21Vd0lHQnBUTzl6am5zUTJMRTdodWJ2WkYwVUZsSVBQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmhTbUZkdG9ZdXE2eXFWZ2JEUlE2UHo3Q3lUbEpSQU5odGZERFFwcnJLMjhITVlqOVhxWlhUTDFEMWd3V3cyLXRhd0NLOTB6STVjSXZ6TzA4dVBvRWFzREpBV3lpLUplMDUyNU9OVE5aWXJCM21Vd0lHQnBUTzl6am5zUTJMRTdodWJ2WkYwVUZsSVBQcWxvanVrTmN5NURJQ0x3YWFnamNVdWVjemN1ZzhmbDFvMXBXSW1TTHFOQ1PSAdQBQVVfeXFMUGxzWkVZRW8zT2lvdGF3UDdFNW1MakxiMlVtai1zUUZiekRDVXJrM3RvdHZ3TXdlZ1BWTVlid013REg0UHVBYW5jWHJ1Z3NHMjdVRHZ0S1ZzWUxkWUw0SzJjOWN5eWZFbTJzSVFqZkJyeHBYRWNqejl5LXR2dENxRTR4cDRpSVptZEhQV3ptdTY1dzBQUElya3VFZVA3SmpVUnJyMkZUM253MTJ4VzZpUUEyUi1XZG12Ml9Md1NiOXlVOFJPRDJqYXVDa0xHZ0NPMHA5S0M?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "10/05/2026 04:00"
       }
     },
     {
@@ -1307,7 +1273,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5\" t...",
         "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9DUWFpZGFtZU9ibW1rZTJ4cmhOaS15Sl9YbjNzczNoa1IwLXVVTkxaQWlnRy1NcE5FYWI3R2NGR2FxeHFxc0FxX0JlendiMEdXR3RDOWpaV3JlRl80TUtJdi1jalpOT0RjX0dqU0t5QkdrX1dLX2dUOFN0al9TNUxVa3ltdEtpTE1KRWtR?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "09/05/2026 19:19"
+        "data_noticia": "10/05/2026 03:51"
       }
     },
     {
@@ -1337,11 +1303,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran Conflict Intensifies as Strait of Hormuz Disruptions Threaten Global Economy - stl.news",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBkVmdYTFpTcE4xNDQwajR3aUZEMW9zTmdSSk9HdkIzLUxaYVB6dnNEdmdRcDIybHNGQzJEc21PWU0teGZ5UWJNYUZ2cGJzdnpyU2lCSXhoUEVfLWpJX2xSQmFZRHJtT3NSa1F4TVdLckhaQUR5RkE?oc=5\" target=\"_blank\">Iran Conflict Inte...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkVmdYTFpTcE4xNDQwajR3aUZEMW9zTmdSSk9HdkIzLUxaYVB6dnNEdmdRcDIybHNGQzJEc21PWU0teGZ5UWJNYUZ2cGJzdnpyU2lCSXhoUEVfLWpJX2xSQmFZRHJtT3NSa1F4TVdLckhaQUR5RkE?oc=5",
+        "titulo_evento": "Prolonged shock? IMF chief on why US-Iran ceasefire won't be magic switch for global economy - MSN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNSnhXcXN6Z1dLMk1DaXNvN1cxdGhzc1JraFJELXBVdHB2SlZKbHdKMjdRdGdOZmMtY2c3VWVEYXFlUjJLcU5wZUMwazJQUnRNeGtaZU1FYjhDRXRKSWVLeThaOGp6Q1JBdFMtWmlaX0JnZVNCdjdmaEFrNEZYQVpRX0tJZDlnN3hUVTB4dVY3emRKYm9B...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSnhXcXN6Z1dLMk1DaXNvN1cxdGhzc1JraFJELXBVdHB2SlZKbHdKMjdRdGdOZmMtY2c3VWVEYXFlUjJLcU5wZUMwazJQUnRNeGtaZU1FYjhDRXRKSWVLeThaOGp6Q1JBdFMtWmlaX0JnZVNCdjdmaEFrNEZYQVpRX0tJZDlnN3hUVTB4dVY3emRKYm9Baldya0FHWGJUSnMzS19OYjliSkwzaGM1OW9UcnZRVTR1eThGSGx0MDNrbnR4Z0twM0VhdC1CNmVWd0RucGdiajl0dEw5c3A5ZldsR1c3WlEwRWMwMVBqZEwxeFRTQ2F1cWZGQ1c3TS1tbEphUmZlSnZ3NnpMRnk1MEpKcjlqSkkxdVk?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "09/05/2026 12:50"
+        "data_noticia": "10/05/2026 04:27"
       }
     },
     {
@@ -1354,11 +1320,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran admits soaring inflation as war cripples economy - MSN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWTZmTGFCYTV3cjNpek5udUtXcktjSFhDZXNaWXdRSHRkMEhsS2FOQkhkYlpBUFc1NzVSeFY2N3doMUxGODR6V095UVEtY19EbUNybEhzcVRQU1V5RnNSS3lTTnFzRVdFMXJkQ3Y2bnBCLXNmeHlJaUVHVnZWS19DZmlBdW8wYnN3VEF0VFQ3d0RYZEI2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWTZmTGFCYTV3cjNpek5udUtXcktjSFhDZXNaWXdRSHRkMEhsS2FOQkhkYlpBUFc1NzVSeFY2N3doMUxGODR6V095UVEtY19EbUNybEhzcVRQU1V5RnNSS3lTTnFzRVdFMXJkQ3Y2bnBCLXNmeHlJaUVHVnZWS19DZmlBdW8wYnN3VEF0VFQ3d0RYZEI2QUltLXhndGhjenBjUFdHVXBISEppdE1QVGdHYklaV0tUUmNfTTgwM1FsWGRHaWxaVVZFOXU3OFBYU0dOYThwbDE4NVZib0hzY2k4WVZrY2hSa21FZ3AzajhXQ0dLdEk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "09/05/2026 17:03"
+        "titulo_evento": "Global markets rally on U.S.-Iran peace hopes despite Hormuz risk - MSN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDVXSHd0NzZ4QjhYVlJLMkVwbWtDc2hqSmJwQU5Lc0VZR3MxclgwN3N2WDhELXEzdkFJZW13MDJkRkwzajZ5T3M5WHNpVTZ5MGxYUWswNncxVzhsMHBxX3AxV3dITXhTZ3dndVlBN1MxZkJSeURjaTl4LU5KY00yMTFMY0xzYlZZampoQ1RsMWJYSmtn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRDVXSHd0NzZ4QjhYVlJLMkVwbWtDc2hqSmJwQU5Lc0VZR3MxclgwN3N2WDhELXEzdkFJZW13MDJkRkwzajZ5T3M5WHNpVTZ5MGxYUWswNncxVzhsMHBxX3AxV3dITXhTZ3dndVlBN1MxZkJSeURjaTl4LU5KY00yMTFMY0xzYlZZampoQ1RsMWJYSmtnVUF0NHpqSTk1NklIZ19KbXprUDdpZnJoTjlRckZ4SmRSQW1KNF9CY2QwRDVHa2I1cWpWSnE2NVVxSjk5OXB6My1tbzlwX0xXTWt0Z3Zrd054ZmtUWmc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "09/05/2026 14:13"
       }
     },
     {
@@ -1366,16 +1332,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "‘Not decoupling’: what does US-China trade data signal ahead of Xi-Trump summit? - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVNIOEloRWlFcS16cllJc1prVEZUX0NLV0VjRmxWUHpNZG5DcmpoZ3RMWkFWWjFudXBYYjRoU21LSkstdzVPdGI0RXE5ZUdsckdtSXFqY2JIV05OazhmeFkxSFB3dDN1cHlka0N1TTBGemlrQ2FyZjBGOUhORW9JNUNoTDNKdk5nVENPUWpoOWZmSmsy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVNIOEloRWlFcS16cllJc1prVEZUX0NLV0VjRmxWUHpNZG5DcmpoZ3RMWkFWWjFudXBYYjRoU21LSkstdzVPdGI0RXE5ZUdsckdtSXFqY2JIV05OazhmeFkxSFB3dDN1cHlka0N1TTBGemlrQ2FyZjBGOUhORW9JNUNoTDNKdk5nVENPUWpoOWZmSmsyd1NRSUJwNXVRS2FnamwtVzJzellfV252VHVZaU1KaDQxaHFJOWdkS0NJQUJmX0hoVmVradIByAFBVV95cUxQSS1kbTRqWUhVS2h6SldySE1IY0FLN2lhTU1Gb3dYa0dmMWhGMXVHWHM1SUI3Y2duajg0RXM1SVVTTWs5N1NjUTQ3MUpIWVUzTzdrMjdQZ1JnR1k0am5NZGZ4NFd0R1ZyY0dxRnBwNzFmOFZyT1VzVWM0UlNJZVFsM3M2VGJpcWhnV1FPLVc0c1BzVjNDeW9SU0ZMT0NEdVR1aFU5bmtHd0Z1VFFCOUhCb20xUWNlc1JxNmVQV2xkMEw5YTMybDZxWg?oc=5",
+        "titulo_evento": "Iran Conflict Intensifies as Strait of Hormuz Disruptions Threaten Global Economy - stl.news",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBkVmdYTFpTcE4xNDQwajR3aUZEMW9zTmdSSk9HdkIzLUxaYVB6dnNEdmdRcDIybHNGQzJEc21PWU0teGZ5UWJNYUZ2cGJzdnpyU2lCSXhoUEVfLWpJX2xSQmFZRHJtT3NSa1F4TVdLckhaQUR5RkE?oc=5\" target=\"_blank\">Iran Conflict Inte...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkVmdYTFpTcE4xNDQwajR3aUZEMW9zTmdSSk9HdkIzLUxaYVB6dnNEdmdRcDIybHNGQzJEc21PWU0teGZ5UWJNYUZ2cGJzdnpyU2lCSXhoUEVfLWpJX2xSQmFZRHJtT3NSa1F4TVdLckhaQUR5RkE?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "09/05/2026 11:00"
+        "data_noticia": "09/05/2026 12:50"
       }
     }
   ]
