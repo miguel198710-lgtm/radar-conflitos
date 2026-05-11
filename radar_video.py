@@ -2,6 +2,7 @@ import urllib.request
 import urllib.parse
 import json
 import os
+import re
 from datetime import datetime, timedelta
 
 def gerar_html_playlist(lista_videos, nome_ficheiro):
@@ -31,7 +32,7 @@ def gerar_html_playlist(lista_videos, nome_ficheiro):
     print(f"  -> [SUCESSO] Emissão {nome_ficheiro} atualizada!")
 
 def radar_video_hibrido():
-    print("[OSINT VÍDEO] A iniciar varrimento com Filtro de Inteligência Estruturada...")
+    print("[OSINT VÍDEO] A iniciar varrimento com Filtro de Inteligência Estruturada e AOIs...")
     
     API_KEY = os.environ.get("YOUTUBE_API_KEY")
     if not API_KEY:
@@ -48,20 +49,24 @@ def radar_video_hibrido():
         "UCCEJ6cN9IFZlmgjsVxphkuw", # France 24
         "UCoMdktPbSTixAyNG8-8RFmA", # Sky News
         "UCNye-wNBqNL5ZzHSJj3l8Bg", # Al Jazeera
-        "UC16niRr50-MSBwiO3YDb3RA", # BBC News (Atualizado conforme sua ordem anterior)
+        "UC16niRr50-MSBwiO3YDb3RA", # BBC News
         "UChqUTb7kYRX8-EiaN3XFrSQ"  # Reuters
     ]
 
-    # FASE 1 & 2 combinadas para recolha de dados
-    QUERIES = {
-        "Global": "war|conflict|strike|missile|attack",
-        "Leste": "Ukraine|Russia|Putin|Zelensky|Kyiv|Moscow|NATO"
+    # ==========================================
+    # DEFINIÇÃO DAS ÁREAS DE INTERESSE (AOIs)
+    # ==========================================
+    TEATROS = {
+        "Ucrânia e Leste": "Ukraine|Russia|Zelensky|Putin|Kyiv|Moscow|NATO|Donbas",
+        "Irão e Médio Oriente": "Iran|Tehran|Israel|Gaza|Lebanon|Hezbollah|Houthi|Red Sea",
+        "Venezuela e Cuba": "Venezuela|Maduro|Cuba|Havana|Guyana|Essequibo",
+        "Global": "war|conflict|strike|missile|attack|nuclear"
     }
 
-    for nome_setor, query in QUERIES.items():
-        print(f"\n[VARRENDO] Setor: {nome_setor}")
+    for nome_teatro, query in TEATROS.items():
+        print(f"\n[VARRENDO AOI] -> {nome_teatro}")
         query_formatada = urllib.parse.quote(query)
-        videos_do_setor = []
+        videos_do_teatro = []
 
         for canal in CANAIS_CONFIANCA:
             url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={canal}&q={query_formatada}&publishedAfter={ontem}&type=video&maxResults=3&key={API_KEY}"
@@ -78,7 +83,7 @@ def radar_video_hibrido():
                         v_data = item["snippet"]["publishedAt"]
 
                         # 1. Guardar para o HTML (compatibilidade)
-                        videos_do_setor.append({"id": v_id, "data": v_data})
+                        videos_do_teatro.append({"id": v_id, "data": v_data})
 
                         # 2. Guardar para o GeoJSON (Nova interface profissional)
                         feature = {
@@ -89,8 +94,8 @@ def radar_video_hibrido():
                                 "canal": v_canal,
                                 "url_video": f"https://www.youtube.com/embed/{v_id}?autoplay=1&mute=1",
                                 "thumbnail": v_thumb,
-                                "setor": nome_setor,
-                                "data": v_data
+                                "data": v_data,
+                                "aoi": nome_teatro  # <--- O NOSSO NOVO SELO TÁTICO
                             }
                         }
                         dados_totais_geojson.append(feature)
@@ -98,11 +103,15 @@ def radar_video_hibrido():
             except Exception as e:
                 print(f"  [ERRO] Canal {canal}: {e}")
 
-        # Gerar os ficheiros HTML para manter as transmissões automáticas
-        if videos_do_setor:
-            videos_do_setor.sort(key=lambda x: x["data"], reverse=True)
-            nome_arq = "playlist.html" if nome_setor == "Global" else "ucrania_e_vizinhos.html"
-            gerar_html_playlist([v["id"] for v in videos_do_setor], nome_arq)
+        # Gerar os ficheiros HTML para manter as transmissões automáticas antigas a funcionar
+        if videos_do_teatro:
+            videos_do_teatro.sort(key=lambda x: x["data"], reverse=True)
+            
+            # Limpar o nome para o ficheiro HTML (ex: "Ucrânia e Leste" vira "ucrania_e_leste.html")
+            nome_limpo = re.sub(r'[^a-z0-9]', '_', nome_teatro.lower().replace('ã', 'a').replace('á', 'a').replace('é', 'e').replace('í', 'i'))
+            nome_arq = f"{nome_limpo}.html"
+            
+            gerar_html_playlist([v["id"] for v in videos_do_teatro], nome_arq)
 
     # ==========================================
     # EXPORTAÇÃO FINAL DA BASE DE DADOS GEOJSON
@@ -114,7 +123,7 @@ def radar_video_hibrido():
         }
         with open("videos_taticos.geojson", "w", encoding="utf-8") as f:
             json.dump(geojson_final, f, ensure_ascii=False, indent=4)
-        print(f"\n[SUCESSO] Base de dados 'videos_taticos.geojson' gerada com {len(dados_totais_geojson)} entradas.")
+        print(f"\n[SUCESSO] Base de dados 'videos_taticos.geojson' gerada com {len(dados_totais_geojson)} transmissões marcadas por AOI.")
 
 if __name__ == "__main__":
     radar_video_hibrido()
