@@ -1,4 +1,5 @@
 import urllib.request
+import urllib.parse
 import json
 import os
 from datetime import datetime, timedelta
@@ -27,10 +28,10 @@ def gerar_html_playlist(lista_videos, nome_ficheiro):
     
     with open(nome_ficheiro, "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"  -> [SUCESSO] Emissão {nome_ficheiro} atualizada e pronta a transmitir!")
+    print(f"  -> [SUCESSO] Emissão {nome_ficheiro} atualizada!")
 
 def radar_video_hibrido():
-    print("[OSINT VÍDEO] A iniciar varrimento com Filtro de Propaganda...")
+    print("[OSINT VÍDEO] A iniciar varrimento com Filtro de Inteligência Estruturada...")
     
     API_KEY = os.environ.get("YOUTUBE_API_KEY")
     if not API_KEY:
@@ -38,75 +39,82 @@ def radar_video_hibrido():
         return
         
     ontem = (datetime.utcnow() - timedelta(days=2)).isoformat() + "Z"
+    
+    # Contentor para a base de dados GeoJSON
+    dados_totais_geojson = []
 
-   # ==========================================
-    # OS NOSSOS CANAIS DE CONFIANÇA (ARSENAL COMPLETO)
-    # ==========================================
     CANAIS_CONFIANCA = [
-        "UCknLrEdhRCp1aegoMqRaCZg", # DW News (Europa)
-        "UCCEJ6cN9IFZlmgjsVxphkuw", # France 24 (Europa/África)
-        "UCoMdktPbSTixAyNG8-8RFmA", # Sky News (Reino Unido)
-        "UCNye-wNBqNL5ZzHSJj3l8Bg", # Al Jazeera (Médio Oriente)
-        "UC_gUM8rL-Lrg6O3adPWZqgg", # WION (Ásia)
-        "UChqUTb7kYRX8-EiaN3XFrSQ", # Reuters (Global)
-        "UChLsHIte9PPeN6trQlA7eHQ"  # Global News (Américas)
+        "UCknLrEdhRCp1aegoMqRaCZg", # DW News
+        "UCCEJ6cN9IFZlmgjsVxphkuw", # France 24
+        "UCoMdktPbSTixAyNG8-8RFmA", # Sky News
+        "UCNye-wNBqNL5ZzHSJj3l8Bg", # Al Jazeera
+        "UC16niRr50-MSBwiO3YDb3RA", # BBC News (Atualizado conforme sua ordem anterior)
+        "UChqUTb7kYRX8-EiaN3XFrSQ"  # Reuters
     ]
 
-    # ==========================================
-    # FASE 1: O RADAR GLOBAL
-    # ==========================================
-    print("\n[FASE 1] A atualizar Radar Global...")
-    QUERY_GLOBAL = "war|conflict|strike|missile|attack"
-    videos_globais = []
-    
-    for canal in CANAIS_CONFIANCA:
-        url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={canal}&q={QUERY_GLOBAL}&publishedAfter={ontem}&type=video&maxResults=3&key={API_KEY}"
-        try:
-            resposta = urllib.request.urlopen(url)
-            dados = json.loads(resposta.read())
-            for item in dados.get("items", []):
-                if "videoId" in item["id"]:
-                    videos_globais.append({"id": item["id"]["videoId"], "data": item["snippet"]["publishedAt"]})
-        except Exception as e:
-            print(f"  [ERRO] Falha num canal global: {e}")
-            
-    if videos_globais:
-        videos_globais.sort(key=lambda x: x["data"], reverse=True)
-        gerar_html_playlist([v["id"] for v in videos_globais], "playlist.html")
-
-
-    # ==========================================
-    # FASE 2: TEATRO DE OPERAÇÕES DE LESTE
-    # ==========================================
-    print("\n[FASE 2] A focar antenas no Teatro de Leste (Fontes Seguras)...")
-    
-    # Tiro de caçadeira: Palavras-chave simples, separadas por |, SEM espaços.
-    # Isto garante que a API entende que basta o vídeo ter UMA destas palavras para ser capturado.
-    TEATROS = {
-        "ucrania_e_vizinhos": "Ukraine|Russia|Putin|Zelensky|Kyiv|Moscow|NATO"
+    # FASE 1 & 2 combinadas para recolha de dados
+    QUERIES = {
+        "Global": "war|conflict|strike|missile|attack",
+        "Leste": "Ukraine|Russia|Putin|Zelensky|Kyiv|Moscow|NATO"
     }
 
-    for nome_teatro, query in TEATROS.items():
-        print(f"- A varrer: {nome_teatro.upper()}")
+    for nome_setor, query in QUERIES.items():
+        print(f"\n[VARRENDO] Setor: {nome_setor}")
         query_formatada = urllib.parse.quote(query)
-        videos_teatro = []
-        
+        videos_do_setor = []
+
         for canal in CANAIS_CONFIANCA:
             url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={canal}&q={query_formatada}&publishedAfter={ontem}&type=video&maxResults=3&key={API_KEY}"
             try:
                 resposta = urllib.request.urlopen(url)
                 dados = json.loads(resposta.read())
+                
                 for item in dados.get("items", []):
                     if "videoId" in item["id"]:
-                        videos_teatro.append({"id": item["id"]["videoId"], "data": item["snippet"]["publishedAt"]})
+                        v_id = item["id"]["videoId"]
+                        v_titulo = item["snippet"]["title"]
+                        v_canal = item["snippet"]["channelTitle"]
+                        v_thumb = item["snippet"]["thumbnails"]["high"]["url"]
+                        v_data = item["snippet"]["publishedAt"]
+
+                        # 1. Guardar para o HTML (compatibilidade)
+                        videos_do_setor.append({"id": v_id, "data": v_data})
+
+                        # 2. Guardar para o GeoJSON (Nova interface profissional)
+                        feature = {
+                            "type": "Feature",
+                            "geometry": {"type": "Point", "coordinates": [0, 0]},
+                            "properties": {
+                                "titulo": v_titulo,
+                                "canal": v_canal,
+                                "url_video": f"https://www.youtube.com/watch?v={v_id}",
+                                "thumbnail": v_thumb,
+                                "setor": nome_setor,
+                                "data": v_data
+                            }
+                        }
+                        dados_totais_geojson.append(feature)
+
             except Exception as e:
-                print(f"  [ERRO] Falha no teatro {nome_teatro}: {e}")
-                
-        if videos_teatro:
-            videos_teatro.sort(key=lambda x: x["data"], reverse=True)
-            gerar_html_playlist([v["id"] for v in videos_teatro], f"{nome_teatro}.html")
-        else:
-            print(f"  -> Sem vídeos seguros hoje para {nome_teatro}.")
+                print(f"  [ERRO] Canal {canal}: {e}")
+
+        # Gerar os ficheiros HTML para manter as transmissões automáticas
+        if videos_do_setor:
+            videos_do_setor.sort(key=lambda x: x["data"], reverse=True)
+            nome_arq = "playlist.html" if nome_setor == "Global" else "ucrania_e_vizinhos.html"
+            gerar_html_playlist([v["id"] for v in videos_do_setor], nome_arq)
+
+    # ==========================================
+    # EXPORTAÇÃO FINAL DA BASE DE DADOS GEOJSON
+    # ==========================================
+    if dados_totais_geojson:
+        geojson_final = {
+            "type": "FeatureCollection",
+            "features": dados_totais_geojson
+        }
+        with open("videos_taticos.geojson", "w", encoding="utf-8") as f:
+            json.dump(geojson_final, f, ensure_ascii=False, indent=4)
+        print(f"\n[SUCESSO] Base de dados 'videos_taticos.geojson' gerada com {len(dados_totais_geojson)} entradas.")
 
 if __name__ == "__main__":
     radar_video_hibrido()
