@@ -87,7 +87,7 @@ def radar_video_hibrido():
                             "properties": {
                                 "titulo": v_titulo,
                                 "canal": v_canal,
-                                "url_video": f"https://www.youtube.com/watch?v={v_id}",
+                                "url_video": f"https://www.youtube.com/embed/{v_id}?autoplay=1&mute=1",
                                 "thumbnail": v_thumb,
                                 "setor": nome_setor,
                                 "data": v_data
