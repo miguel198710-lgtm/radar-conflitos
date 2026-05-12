@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon seeks additional funding as cost of Iran war tops $29 billion",
+        "descricao": "The increase from $25 billion just two weeks ago reflects “updated repair and replacement of equipment costs,” along with the “general operational costs.\"",
+        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/05/12/pentagon-seeks-additional-funding-as-cost-of-iran-war-tops-29-billon/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "12/05/2026 16:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Allies surpassed the US in military budget purchasing power last year, new report shows",
+        "descricao": "In absolute terms, Washington remains the single highest military spender by far.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/05/12/allies-surpassed-the-us-in-military-budget-purchasing-power-last-year-new-report-shows/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "12/05/2026 15:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -108,118 +142,152 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Live: First UK minister quits amid calls for PM Starmer’s resignation",
-        "descricao": "The British premier is under pressure to quit after his Labour Party suffered election losses.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss",
+        "titulo_evento": "Can China counter US sanctions with its trade power?",
+        "descricao": "From sanctions to rare earths, the economic rivalry between the US and China is intensifying.",
+        "url_fonte": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "12/05/2026 17:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel’s war creating a ‘lost generation’ of Lebanese students",
+        "descricao": "Israel&#039;s war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing country&#039;s education system.",
+        "url_fonte": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 16:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kuwait says it foils infiltration operation by Iran’s IRGC",
+        "descricao": "Kuwait arrests four men it accuses of being in Revolutionary Guard and conducting failed infiltration of Bubiyan Island.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "12/05/2026 16:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+        "descricao": "Appearing before congressional panel, Defense Secretary Hegseth says US is prepared to either escalate or wind down war.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 16:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel killing at least one child a week in occupied West Bank, UN says",
+        "descricao": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 15:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A secret Israeli base in Iraq? What we know",
+        "descricao": "Israeli troops reportedly used this base to launch attacks against Iran during the war.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Report alleges Israel operated covert outpost in Iraq during war on Iran",
+        "descricao": "According to The Wall Street Journal, Israel operated a military base in the Iraq during the US-Israeli war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/12/report-alleges-israel-operated-covert-outpost-in-iraq-during-war-on-iran?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 13:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why the Iran war is threatening whales near South Africa",
+        "descricao": "Whales are increasingly exposed to traffic - and ship strikes.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/why-the-iran-war-is-threatening-whales-near-south-africa?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/05/2026 12:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+        "descricao": "Pakistan rejects allegations of aiding Iran militarily while Trump says truce on &#039;life support&#039;. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
-        "data_noticia": "12/05/2026 09:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires",
-        "descricao": "One killed and four others wounded in attacks on Ukraine&#039;s Dnipropetrovsk region, local administration chief says.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 08:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France’s Macron announces $27bn investment in Africa at Kenya summit",
-        "descricao": "Africa Forward summit comes amid France&#039;s fading ties with its former African colonies, as Kenya seeks greater trade.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 08:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why is Israel allowed to take part in the Eurovision song contest?",
-        "descricao": "Five countries are boycotting the 70th edition of Eurovision on May 16 in protest over Israel&#039;s genocidal war on Gaza.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 07:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-        "descricao": "US-Iran tensions remain high as Tehran warns against &#039;aggression&#039; and Trump says the ceasefire is on &#039;life support&#039;.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 06:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global energy crisis highlights meagre oil buffers in developing world",
-        "descricao": "Governments in the Global South are among the least prepared to respond to the oil shock caused by the Iran war.",
-        "url_fonte": "https://www.aljazeera.com/economy/2026/5/12/global-energy-crisis-highlights-meagre-oil-buffers-in-developing-world?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 06:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel approves law on public trials, death penalty for October 7 detainees",
-        "descricao": "Rights groups warn that the bill makes the death penalty easier to impose and strips fair trial protections.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/05/2026 05:03"
+        "data_noticia": "12/05/2026 12:17"
       }
     },
     {
@@ -237,6 +305,40 @@
         "url_fonte": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "12/05/2026 00:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+        "descricao": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+        "url_fonte": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "12/05/2026 16:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Mexico cancels plans to end school year early for World Cup",
+        "descricao": "Parents were angry at a proposal to end classes on 5 June instead of 15 July due to the tournament and expected extreme heat.",
+        "url_fonte": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "12/05/2026 10:52"
       }
     },
     {
@@ -329,33 +431,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Trump calls Iran response to US proposal to end war 'totally unacceptable' ",
-        "descricao": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
-        "url_fonte": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "11/05/2026 01:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "100 million barrels lost every week Strait of Hormuz is shut, Saudi Aramco CEO says",
-        "descricao": "\nOil prices continued to climb on Tuesday, as US President Donald Trump said the ceasefire with Iran was \"on massive life support\". Meanwhile, the CEO of Saudi Aramco, the world's largest oil company, told analysts the closure of the Strait of Hormuz...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/business/20260512-100-million-barrels-lost-every-week-strait-of-hormuz-is-shut-saudi-aramco-ceo-says",
+        "titulo_evento": "Israeli report says Hamas used 'systematic, widespread' sexual violence in October 7 attack",
+        "descricao": "\nA report released on Tuesday by an independent Israeli investigative commission found that sexual violence was a \"central component\" of Hamas' October 7, 2023 attack on Israel and of the captivity of the hostages that the militant group took back to...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260512-israeli-report-says-hamas-used-systematic-widespread-sexual-violence-in-october-7-attack",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "12/05/2026 09:38"
+        "data_noticia": "12/05/2026 16:51"
       }
     },
     {
@@ -368,11 +453,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Is Africa ready for the AI revolution? The scramble for resources, jobs, digital sovereignty",
-        "descricao": "\nNations like Kenya are looking to scale up their ability to meet Africa's artificial intelligence needs. Recently, the likes of Zambia, Zimbabwe and most recently Ghana turned down deals to store citizens' data in the United States. For France, a su...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/the-debate/20260512-is-africa-ready-for-the-ai-revolution-the-scramble-for-resources-jobs-digital-sovereignty",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "12/05/2026 07:41"
+        "titulo_evento": "Online scams: How our personal data is being used against us",
+        "descricao": "\nIn France, a data breach occurs once every hour. In recent months, several public bodies have been affected: La Poste, France Travail and the ANTS, the portal that issues identity documents. This confidential information, which is sometimes highly s...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/france-in-focus/20260512-online-scams-how-our-personal-data-is-being-used-against-us",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "12/05/2026 15:40"
       }
     },
     {
@@ -380,16 +465,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          -75.0152,
+          -9.19
         ]
       },
       "properties": {
-        "titulo_evento": "Ligue 1: Ousmane Dembélé named player of the year for second straight year",
-        "descricao": "\nParis Saint-Germain forward Ousmane Dembélé on Monday was named the Ligue 1 player of the year for the second year running. Paris Saint-Germain and RC Lens shared the main trophies.\n",
-        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20260512-ligue-1-ousmane-demb%C3%A9l%C3%A9-named-player-of-the-year-for-second-straight-year",
+        "titulo_evento": "Fujimori and Sanchez lead Peru's presidential runoff as count enters final stretch",
+        "descricao": "\nConservative ​Keiko Fujimori is leading the first round vote of Peru's presidential election with leftist Roberto Sanchez in second place as the count enters the final stretch. The final result is expected on May 15 after weeks of delays due to logi...",
+        "url_fonte": "https://www.france24.com/en/americas/20260512-conservative-fujimori-and-leftist-sanchez-lead-first-round-of-peru-disrupted-presidential-poll",
+        "categoria": "Política (France 24)",
+        "data_noticia": "12/05/2026 15:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Barca striker Yamal waves Palestinian flag during La Liga celebrations",
+        "descricao": "\nFC Barcelona striker Lamine Yamal held a Palestinian flag during the club's La Liga title parade, after the team secured their 29th Spanish league title by beating Real Madrid 2-0 in the Clasico. \n",
+        "url_fonte": "https://www.france24.com/en/video/20260512-barca-striker-yamal-waves-palestinian-flag-during-la-liga-celebrations",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "12/05/2026 06:13"
+        "data_noticia": "12/05/2026 15:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Starmer stands his ground despite growing pressure to resign",
+        "descricao": "\nStarmer tried to shore up support within his Cabinet following a febrile few days in the wake of hefty losses for the Labour Party in local elections last week: if repeated in a national election would see it overwhelmingly ejected from power. Rumou...",
+        "url_fonte": "https://www.france24.com/en/starmer-stands-his-ground-despite-growing-pressure-to-resign",
+        "categoria": "Política (France 24)",
+        "data_noticia": "12/05/2026 15:03"
       }
     },
     {
@@ -402,28 +521,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East live: Hezbollah’s weapons not part of Lebanon-Israel negotiations, group’s chief says",
-        "descricao": "\nHezbollah chief Naim Qassem on Tuesday said his group's weapons were not part of upcoming negotiations between Lebanon and Israel, and vowed his fighters would turn the battlefield into \"hell\" for Israeli forces as they \"defend Lebanon and its peopl...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260512-middle-east-live-us-iran-talks-deadlocked-strait-of-hormuz-still-closed",
+        "titulo_evento": "Israel passes law establishing military tribunal for October 7 perpetrators",
+        "descricao": "\nIsrael's parliament has passed a law to set up a special military tribunal to try hundreds of Palestinians accused of taking part in the October 7 2023 attack, under which the death penalty could be handed down. Lawmakers said the step would help he...",
+        "url_fonte": "https://www.france24.com/en/israel-passes-law-establishing-military-tribunal-for-october-7-perpetrators",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/05/2026 14:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "These images do not prove that Iran has unveiled kamikaze dolphin drones",
+        "descricao": "\nSocial media users are claiming that the Iranian military has unveiled a new type of kamikaze underwater drone shaped like a dolphin. However, the photos circulating as evidence have been generated by AI.\n",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260512-images-iran-unveiled-kamikaze-dolphin-drones-debunked",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/05/2026 14:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Human hair protects French forests from hungry deer",
+        "descricao": "\nIn France alone, nearly 4,000 tonnes of hair end up landfilled or incinerated every year. Yet human hair has unique properties: it is not only highly resistant, it can also absorb hydrocarbons and protect forests from hungry deer. French recycling c...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/down-to-earth/20260512-human-hair-protects-french-forests-from-hungry-deer",
         "categoria": "Política (France 24)",
-        "data_noticia": "12/05/2026 04:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU sanctions Russian officials over abduction of thousands of Ukrainian children",
-        "descricao": "\nThe European Union on Monday imposed sanctions on more than a dozen Russian officials suspected of helping Moscow to abduct thousands of children from Ukraine. \n",
-        "url_fonte": "https://www.france24.com/en/europe/20260512-eu-sanctions-russian-officials-over-deportation-of-ukrainian-children",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "12/05/2026 03:09"
+        "data_noticia": "12/05/2026 14:34"
       }
     },
     {
@@ -436,11 +572,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ousmane Dembélé named player of the year in France for second straight year",
-        "descricao": "\nParis Saint-Germain forward Ousmane Dembélé is only the fifth player to win the trophy in consecutive years, despite a difficult season.\n",
-        "url_fonte": "https://www.france24.com/en/sport/20260512-ousmane-demb%C3%A9l%C3%A9-named-player-of-the-year-in-france-for-second-straight-year",
+        "titulo_evento": "Farmer-owned supermarket sets example for better remuneration model",
+        "descricao": "\nHere in France, wholesale prices for grocery products are typically negotiated at the start of the year between the agricultural and supermarket sectors. This year, those negotiations wrapped up just as the war in Iran was getting underway. Now, wit...",
+        "url_fonte": "https://www.france24.com/en/farmer-owned-supermarket-sets-example-for-better-remuneration-model",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "12/05/2026 00:46"
+        "data_noticia": "12/05/2026 13:53"
       }
     },
     {
@@ -453,11 +589,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "France woos Anglophone Africa at a summit in Kenya",
-        "descricao": "\nIn tonight's edition, French President Emmanuel Macron urges investment in Africa as he co-hosts an economic summit in Kenya. Also, we take a closer look at the cost of some of the deeply rooted misperceptions and clichés about Africa still clinging...",
-        "url_fonte": "https://www.france24.com/en/france-woos-anglophone-africa-at-a-summit-in-kenya",
+        "titulo_evento": "'Our democracy has passed all the tests now,' says Botswana's president",
+        "descricao": "\nFRANCE 24 spoke to Botswana's President Duma Gideon Boko, on the sidelines of the Africa Forward summit in Nairobi, Kenya. Boko, a Harvard-educated human rights lawyer, was elected in October 2024, ending the former governing party's six-decade rule...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260512-our-democracy-has-passed-all-the-tests-now-says-botswana-s-president",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/05/2026 13:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK govenrment divided around Starmer as three junior ministers resign",
+        "descricao": "\nUK PM Keir Starmer says he has no intention of stepping down despite mounting pressure. Dozen of Labour MPs have called for his resignation out of the 403 in Parliament, and three junior ministers have stepped down in protest. Several other minister...",
+        "url_fonte": "https://www.france24.com/en/uk-govenrment-divided-around-starmer-as-three-junior-ministers-resign",
         "categoria": "Política (France 24)",
-        "data_noticia": "11/05/2026 20:37"
+        "data_noticia": "12/05/2026 13:33"
       }
     },
     {
@@ -470,11 +623,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "France arrests Tunisian suspected of planning 'jihad-inspired' attack in Paris",
-        "descricao": "\nFrench has arrested a 27-year-old Tunisian man suspected of planning attacks \"inspired by jihadism\", the anti-terror prosecutor's office said on Monday. A source said he was targeting a Paris museum and members of the Jewish community.\n",
-        "url_fonte": "https://www.france24.com/en/france/20260511-france-arrests-tunisian-suspected-of-planning-jihad-inspired-attack-in-paris",
+        "titulo_evento": "France invites Kenya to attend G7 summit amid Africa Forward Summit",
+        "descricao": "\nFrance is pitching what it calls a new model of partnership with African countries at a huge summit in Kenya, as it completes a military withdrawal from West African countries which is largely considered as a sign of a declining influence on the con...",
+        "url_fonte": "https://www.france24.com/en/france-invites-kenya-to-attend-g7-summit-amid-africa-forward-summit",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 20:16"
+        "data_noticia": "12/05/2026 13:08"
       }
     },
     {
@@ -487,11 +640,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'Macron always been a strong believer in the importance of Africa as a partner for the future'",
-        "descricao": "\nYinka Oyetade is pleased to welcome Paul Melly, Consulting Fellow of the Africa Programme, Chatham House. Emmanuel Macron is co-hosting the Africa Forward Summit in Kenya, the first time France has staged such a gathering in an English-speaking Afri...",
-        "url_fonte": "https://www.france24.com/en/macron-always-been-a-strong-believer-in-the-importance-of-africa-as-a-partner-for-the-future",
+        "titulo_evento": "Independent Israeli report accuses Hamas of 'systematic' sexual violence during October 7 attacks",
+        "descricao": "\nA new independent commission finds Hamas and its allies committed \"systematic, widespread\" sexual violence during their October 7, 2023 attack on Israel and against hostages they took back to Gaza. This comes as the Knesset passed a law establishing...",
+        "url_fonte": "https://www.france24.com/en/independent-israeli-report-accuses-hamas-of-systematic-sexual-violence-during-october-7-attacks",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 19:04"
+        "data_noticia": "12/05/2026 13:05"
       }
     },
     {
@@ -504,62 +657,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive: Emmanuel Macron interview on FRANCE 24, Tuesday May 12 at 9pm",
-        "descricao": "\nAt the conclusion of the Africa Forward Summit, French President Emmanuel Macron will answer questions from FRANCE 24, RFI and TV5Monde journalists in the Kenyan capital of Nairobi. Watch the interview on FRANCE 24 on Tuesday, May 12, at 9pm (Paris ...",
-        "url_fonte": "https://www.france24.com/en/africa/20260511-exclusive-interview-french-president-macron-tuesday-may-12-9-pm",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 18:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Kenya summit represents 'demarcation point': France 'wants to do business' with African continent",
-        "descricao": "\nNadia Massih is pleased to welcome Dr. Douglas Yates, Author, Political Scientist and Professor and at the American Graduate School of International Relations and Diplomacy. President Emmanuel Macron is co-hosting the Africa Forward Summit alongside...",
-        "url_fonte": "https://www.france24.com/en/video/20260511-kenya-summit-represents-demarcation-point-france-wants-to-do-business-with-african-continent",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 18:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Macron announces €23 billion investment in Africa at Kenya summit",
-        "descricao": "\nFrench President Emmanuel Macron on Monday announced €23 billion investment in Africa focused on energy transition, digital and AI, the maritime economy and agriculture. Macron was attending the two-day Africa Forward summit in Nairobi aimed at rene...",
-        "url_fonte": "https://www.france24.com/en/africa/20260511-macron-announces-23-billion-euro-investment-in-africa-at-kenya-summit",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 15:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Starmer pledges to bring Britain closer to the EU as he faces calls to step down",
-        "descricao": "\nUK Prime Minister Keir Starmer pledged Monday to prove the “doubters” in his own party and among the electorate as a whole wrong as he tries to fight off demands to step down after devastating local election results for his Labour Party. Starmer arg...",
-        "url_fonte": "https://www.france24.com/en/video/20260511-starmer-pledges-to-bring-britain-closer-to-the-eu-as-he-faces-calls-to-step-down",
+        "titulo_evento": "Los Angeles's housing crisis: Essential workers priced out of the city",
+        "descricao": "\nIn the United States, home ownership used to be part of the American dream. But today, in cities like Los Angeles, housing has become unaffordable for millions of essential workers. Nurses, teachers and firefighters are often no longer able to live ...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/focus/20260512-los-angeles-s-housing-crisis-essential-workers-priced-out-of-the-city",
         "categoria": "Política (France 24)",
-        "data_noticia": "11/05/2026 15:24"
+        "data_noticia": "12/05/2026 12:55"
       }
     },
     {
@@ -567,16 +669,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Africa Forward Summit in Kenya: France offers ‘third way’ in Africa’s AI race",
-        "descricao": "\nThis Monday, French President Emmanuel Macron is in Nairobi, where he is co-hosting the Africa Forward Summit with his Kenyan counterpart William Ruto – a summit focused on trade, investment and tech. Kenya is hoping to scale up its ability to meet ...",
-        "url_fonte": "https://www.france24.com/en/video/20260511-africa-forward-summit-in-kenya-france-offers-third-way-in-africa-s-ai-race",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/05/2026 15:01"
+        "titulo_evento": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
+        "descricao": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can Qatar leverage its ties to the US and Iran for its own benefit?",
+        "url_fonte": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "12/05/2026 17:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "2026 Rainbow Map delivers mixed picture on LGBTQ+ rights",
+        "descricao": "ILGA Europe has released its annual ranking of LGBTQ+ rights across Europe and Central Asia, with Spain taking the top spot for the first time. But behind the numbers, activists warn of a growing backlash against LGBTQ+.",
+        "url_fonte": "https://www.dw.com/en/2026-rainbow-map-delivers-mixed-picture-on-lgbtq-rights/a-77133454?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "12/05/2026 15:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump-Xi summit: High stakes for the US, China and the world",
+        "descricao": "US President Donald Trump is hoping for a foreign policy win at the upcoming summit with China's Xi Jinping. The Iran war, trade deals and Taiwan are expected to be high on the agenda during Trump's visit to Beijing.",
+        "url_fonte": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "12/05/2026 14:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany news: Merz booed as he advocates economic reform",
+        "descricao": "Chancellor Friedrich Merz says Germany must buckle down to ensure economic renewal, amid geopolitical turmoil. Meanwhile, inflation is up again with energy prices a key driver pushing up costs. DW has the latest.",
+        "url_fonte": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "12/05/2026 09:56"
       }
     },
     {
@@ -618,23 +771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU greenlights sanctions on Israeli West Bank settlers",
-        "descricao": "Long blocked by Hungary's former government, the punitive EU measures are aimed at \"extremist\" Israeli settlers in the occupied West Bank. Israel has denounced the move as \"arbitrary and political.\"",
-        "url_fonte": "https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Economia (DW (Alemanha/UE))",
-        "data_noticia": "11/05/2026 15:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -669,16 +805,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kyiv’s corruption scandal threatens Zelenskyy’s EU push",
+        "descricao": "New charges against a former aide test Ukraine’s claim that it is ready for fast-track membership.",
+        "url_fonte": "https://www.politico.eu/article/ukriane-corruption-scandal-volodymyr-zelenskyy-andriy-yermak-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "12/05/2026 17:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "German lawmaker downplays Trump troop withdrawal",
+        "descricao": "German lawmaker Roderich Kiesewetter acknowledged tense relations between Berlin and Washington but argued German leaders could have done a better job of calibrating their criticisms of the Iran war.",
+        "url_fonte": "https://www.politico.eu/article/german-lawmaker-downplays-trump-troop-withdrawal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/05/2026 16:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "UK Prime Minister Keir Starmer 'not walking away' after local election mauling",
-        "descricao": "Keir Starmer has said he takes \"responsibility\" for Labour's poor election performance, but also for putting matters right again. \"I know I have my doubters and I know I need to prove them wrong, and I will,\" he said.",
-        "url_fonte": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "11/05/2026 10:55"
+        "titulo_evento": "UK pledges drone boats to help secure Strait of Hormuz",
+        "descricao": "Defence Secretary John Healey made the pledge at a meeting of defense ministers in London on Tuesday. ",
+        "url_fonte": "https://www.politico.eu/article/uk-pledges-drone-boats-to-help-secure-strait-of-hormuz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/05/2026 15:53"
       }
     },
     {
@@ -691,11 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "New EU medicines law aims to bypass India, China on key drugs",
-        "descricao": "The EU wants to incentivise drugmakers to manufacture more medicines in Europe through state aid and procurement perks.",
-        "url_fonte": "https://www.politico.eu/article/eu-clinches-deal-on-new-law-to-tackle-drug-shortages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "12/05/2026 08:19"
+        "titulo_evento": "Trump’s Beijing trip should make Taiwan ‘nervous,’ Slotkin says",
+        "descricao": "The Senate Armed Services member and former Pentagon official warned the president could easily fall into a trap due to his eagerness to strike a deal with China.",
+        "url_fonte": "https://www.politico.com/news/2026/05/12/trumps-beijing-trip-should-make-taiwan-nervous-slotkin-says-00915903?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/05/2026 15:36"
       }
     },
     {
@@ -703,33 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Could influencers crash future EU summits?",
-        "descricao": "Ukraine wants Europe more involved in peace efforts with Russia — but who exactly would represent Europe in those talks? After Vladimir Putin floated former German Chancellor Gerhard Schröder as a possible negotiator, Brussels reacted with disbelief....",
-        "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/could-influencers-crash-future-eu-summits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "12/05/2026 04:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World markets feel the strain as US–Iran war grinds on",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/news/world-markets-feel-strain-us-070005677.html",
-        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
+        "titulo_evento": "Germany’s Merz booed at major trade union congress",
+        "descricao": "The backlash comes as the far-right AfD overtakes Merz’s conservatives in several polls.",
+        "url_fonte": "https://www.politico.eu/article/germany-friedrich-merz-booed-trade-union-congress-berlin-economic-reforms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Economia (Politico Europe)",
+        "data_noticia": "12/05/2026 14:31"
       }
     },
     {
@@ -742,11 +895,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Oil Prices Rise on U.S.-Iran Standoff",
-        "descricao": "President Trump has declared the American cease-fire with Iran is on “life support,” and investors are taking a cautious approach as the lack of progress in peace talks weighs on the markets.",
+        "titulo_evento": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+        "descricao": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
+        "url_fonte": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "12/05/2026 14:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags",
+        "descricao": "The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.",
+        "url_fonte": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "12/05/2026 10:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Inflation Jumps, Oil Prices Rise on U.S.-Iran Standoff",
+        "descricao": "President Trump has declared the cease-fire on “life support,” and investors are taking a cautious approach as the economic effects of the war become more apparent.",
         "url_fonte": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "12/05/2026 09:03"
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "12/05/2026 16:09"
       }
     },
     {
@@ -805,16 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "As Trump Heads to Beijing, China Is ‘Locked and Loaded’ for a Fight",
-        "descricao": "Beijing is signaling that it is ready for a trade showdown, and it is building up a legal arsenal in preparation.",
-        "url_fonte": "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "11/05/2026 09:02"
+        "titulo_evento": "Trump’s Complaints About Iran War Leaks Prompt Aggressive DOJ Investigations - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnF0Z1hoQUQzaGJGOGR3N0xXckVOTGpOdS1yX1FMYkRlUEtnSi1NaXR0M1AzOEpJOVVlUTBCbS11MW9nQ3lucEl5NksxalhTTFNWNHQzVW9PS2dGdDhfd2NQQzdfN0hUSlNiOEY2ODQxb1RKQ3BmLU5zd3FxcEJVMlVnNGJtUTJ0cF9RcjgxYURrZXZ6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnF0Z1hoQUQzaGJGOGR3N0xXckVOTGpOdS1yX1FMYkRlUEtnSi1NaXR0M1AzOEpJOVVlUTBCbS11MW9nQ3lucEl5NksxalhTTFNWNHQzVW9PS2dGdDhfd2NQQzdfN0hUSlNiOEY2ODQxb1RKQ3BmLU5zd3FxcEJVMlVnNGJtUTJ0cF9RcjgxYURrZXZ6NnRQZW5xQ0hNTUxwa21SRnRxazRiUkExM0toT1RYS195OXhWcW5EbVAyMW5wbHpXYkRvenUzOA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/05/2026 21:39"
       }
     },
     {
@@ -831,7 +1018,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNERDaFpYRG9SeUxxamoxcXppNnl6TGxCckowT05weEhHVGJJM0Z1Y3RJR3RhaEk0bG9tSXNHak5WMHE3YXRFTHRYd19QdzF6RFlrY2JHblNKVl96MG5YNmJ3UkdWTmxvcUdZYmR6clhqVkxrN010VTEyaUJlOF96S1hBYk9YemdvQnlpUWJtbWlGTVdG...",
         "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNERDaFpYRG9SeUxxamoxcXppNnl6TGxCckowT05weEhHVGJJM0Z1Y3RJR3RhaEk0bG9tSXNHak5WMHE3YXRFTHRYd19QdzF6RFlrY2JHblNKVl96MG5YNmJ3UkdWTmxvcUdZYmR6clhqVkxrN010VTEyaUJlOF96S1hBYk9YemdvQnlpUWJtbWlGTVdGY04wT29KNNIBoAFBVV95cUxNWjlBcExjWndCMVQwcTFDOC0td2dXWmhKOVNsZmUxVjdaSEx0UGFPS1VVcU1zdG5MS2ZKRjJvSUpjMURlMjI4OEE5SjdZM19mVFVWVEpZTXR4dTVIN05DU1gxeF91WnIzRzlORzNsUzliZ0xXYTBVRmExZVF0QkRBR3VoWVdDaHR2bFk3NWZwM2xYenhjWFZRQW5mb1dkbE5h?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 09:40"
+        "data_noticia": "11/05/2026 18:58"
       }
     },
     {
@@ -844,11 +1031,198 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The U.A.E. Has Been Secretly Carrying Out Attacks on Iran - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3Zja29WajNJeTJvT3FaSlZ6ZDZwcXkwakZMZTRHTVg3dEI4WU82UHhOWTkxNzAzc2puQ0dJZEl5XzJfUXdRWlFlai1vanEwUFYzQkdPRmNlUnZXLXBPRFFKUmJRM3dJMVJaZjl4RWk1VzQ1dlRDSXVyOS13ZUxXSUhwZWpaejQzTDlBbGgyOU1uTGd3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3Zja29WajNJeTJvT3FaSlZ6ZDZwcXkwakZMZTRHTVg3dEI4WU82UHhOWTkxNzAzc2puQ0dJZEl5XzJfUXdRWlFlai1vanEwUFYzQkdPRmNlUnZXLXBPRFFKUmJRM3dJMVJaZjl4RWk1VzQ1dlRDSXVyOS13ZUxXSUhwZWpaejQzTDlBbGgyOU1uTGd3UlFpMDN3?oc=5",
+        "titulo_evento": "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUhQclkwckJxN3BDQ3BXbUhfLWw1ZUxiSTFZcm5fQnQ3UGJPNGVLLWMyQk9HRnB2c1kwVkMyc2NjNjVZNzRfRFBGSENfUXVicHkxOVhSVjRzVFowcEdJSlVjR3h3amtGRjh3ajJyR0FVOUxRLXZMOTh0S0xGTHREYXR5N0g5dFFxWV9wSjVCNmlUX0Vz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUhQclkwckJxN3BDQ3BXbUhfLWw1ZUxiSTFZcm5fQnQ3UGJPNGVLLWMyQk9HRnB2c1kwVkMyc2NjNjVZNzRfRFBGSENfUXVicHkxOVhSVjRzVFowcEdJSlVjR3h3amtGRjh3ajJyR0FVOUxRLXZMOTh0S0xGTHREYXR5N0g5dFFxWV9wSjVCNmlUX0VzVGF5REdCdldoMWlmTXFMWkxadGN4ZXZkSmQzNDlB0gG3AUFVX3lxTE94OU9QbW5QZUtmQ2NnUnNsZlNTQ0pYTHZpczBRQzNNSVF0cm9TcVBCLTFGdkpJbHpBLVJQc1ZNWnE2bTZMdTBnVW5oMU1qUWdLVWJGYmgzc1Z5eVQ1aUNZS3liUTNCTVNZMlgzZ3VHUWxhMENXajF4UFVvQ29GRVlBVTZfald0UVAzbXdIQTZ4RG9XLWtCZ09zUVAyeVpNTzdQcE5qSHFvZS1EWnBpUUdObjl6S2ppUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/05/2026 20:11"
+        "data_noticia": "12/05/2026 16:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2JqbGMxb3VXYWtzTGlBeUlrb1NBNWFhRjdKeGh3bjVaZlpfSTJYdFZGTFlpTVFCWDgwcnFwQkxva1lsMVc0eFhkcWVfc3Ztc19kVVQtQzBGWTZTUnoyNVM5UmVzLTVjaHBWTFpnSlZFcG5fdXF5NTJYREcxalRlbkZOSXVZRmtDWk9kRmh6Tm5xY3hT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2JqbGMxb3VXYWtzTGlBeUlrb1NBNWFhRjdKeGh3bjVaZlpfSTJYdFZGTFlpTVFCWDgwcnFwQkxva1lsMVc0eFhkcWVfc3Ztc19kVVQtQzBGWTZTUnoyNVM5UmVzLTVjaHBWTFpnSlZFcG5fdXF5NTJYREcxalRlbkZOSXVZRmtDWk9kRmh6Tm5xY3hT?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 15:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin says Russia will deploy new Sarmat nuclear missile this year - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0wyY05FUjJUV2V1RVlSanM1b0RTNjlZZFVKS05feXZuX2czaTljcW9ybU12XzFpV2hyLTNPRFpZY09GWGlhYjZnd1U1UlJCalVxLWk3UnNuSFRKZW5waXJ3Y1NUSEJFZmt4SmpoRTI3c0dzNlZvODVOVXFEa2lKQXNreGxtN3NpZ19sUU00Umt5M0hh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0wyY05FUjJUV2V1RVlSanM1b0RTNjlZZFVKS05feXZuX2czaTljcW9ybU12XzFpV2hyLTNPRFpZY09GWGlhYjZnd1U1UlJCalVxLWk3UnNuSFRKZW5waXJ3Y1NUSEJFZmt4SmpoRTI3c0dzNlZvODVOVXFEa2lKQXNreGxtN3NpZ19sUU00Umt5M0hhYjdfay1ScnZaUFJFVy1abkxhaUNNODNzY05qZ1FVZEw1Q2JL?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 15:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Analysis: Iran war hangs over Trump's China trip — and his presidency - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGg4TkJfYkdLa1hVNGY0MWZOZ25DR1Z6dUp1RlhmLWZ4WFFROVFoZklSc0JleGNyX2hQQk9xRXg5d2NLZnpPQlhuaTk3a3p6dWVfeTVuZDBZWFg1QktaQnEzWG5WRnhsRXN0bGIyUy1MWENxV3hSNWVUYU5YTkZSX0NqUdIBiAFBVV95cUxQdTVJem9M...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGg4TkJfYkdLa1hVNGY0MWZOZ25DR1Z6dUp1RlhmLWZ4WFFROVFoZklSc0JleGNyX2hQQk9xRXg5d2NLZnpPQlhuaTk3a3p6dWVfeTVuZDBZWFg1QktaQnEzWG5WRnhsRXN0bGIyUy1MWENxV3hSNWVUYU5YTkZSX0NqUdIBiAFBVV95cUxQdTVJem9MN3NrXy1kZ2JNaE5lSDMyNnlUeWZxQWNueFdLUVhhS2ZtRExvS2kxVFlUOU1fQkUzX0pYS216R29uN3pCMmVRQkxZLU1hOE4xbUJQejlsNTJ4TjJkcjRzRVAtbVFqS3FVVG94UjFvUHVBSWNESTNOUVc4c19BN0t1WVhz?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hegseth faces bipartisan grilling about weapons drawdown during the Iran war - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZi1FTE1xeDRySFFMLWY2Zy1HRExXcnFDMVcyRWh3WmRieHVRanpuWkJLUEJCUEh5RmhyVWVlclp5RWstMnZWdEdNSFo5YmtSWTFJYXdOdGU5OFpBNmpyR1pWRW9jLVNGQlh1Q2tOaV91di1aQmdDNzE0SzlqUEhYS19wU2c5UDhvUlFCSXFKRzc2LURq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZi1FTE1xeDRySFFMLWY2Zy1HRExXcnFDMVcyRWh3WmRieHVRanpuWkJLUEJCUEh5RmhyVWVlclp5RWstMnZWdEdNSFo5YmtSWTFJYXdOdGU5OFpBNmpyR1pWRW9jLVNGQlh1Q2tOaV91di1aQmdDNzE0SzlqUEhYS19wU2c5UDhvUlFCSXFKRzc2LURqd3VOTVJn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 16:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’ - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5\" target=\"_blank\">Iran War Updates: ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 15:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US war in Iran has cost $29 billion so far, Pentagon says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2EtR0tSX2d2UjN4SmlxWnVKRzllTkFjdHRiV3B4VDVOQ3U0WmN5ZHpodk8yS05SR0cxWW5idjhFd2drVk1STENFaENRZk5LRmhZdmxwX2RaRlUzMDd2NHFtRkVSM3hsQi1lNzlGbDRqeXBjX1JCalZDa2ZnczBIODFwRHZNcHZfX2FsTnBaZkYtZ28w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2EtR0tSX2d2UjN4SmlxWnVKRzllTkFjdHRiV3B4VDVOQ3U0WmN5ZHpodk8yS05SR0cxWW5idjhFd2drVk1STENFaENRZk5LRmhZdmxwX2RaRlUzMDd2NHFtRkVSM3hsQi1lNzlGbDRqeXBjX1JCalZDa2ZnczBIODFwRHZNcHZfX2FsTnBaZkYtZ28wRVVpRjhGM2V5bTNB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 15:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjJGbUNVQmFyVG43RjYzWFo1NGx0Z29XU29xSG5nVDVxMUxDY1VGdVA3ZGNUSDUwUU9CaUZ6UWFnYXFQZEItNElKLXI5dTdLVlp6eXVXbDRYcTF4MDl2cTluR2xKZkFldk4zZVFlLV9rWnRkTEpSYlJ2NzJtTEl3NEdjZ2cyOEMxbUpxMVNrOE1Bcm9F...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjJGbUNVQmFyVG43RjYzWFo1NGx0Z29XU29xSG5nVDVxMUxDY1VGdVA3ZGNUSDUwUU9CaUZ6UWFnYXFQZEItNElKLXI5dTdLVlp6eXVXbDRYcTF4MDl2cTluR2xKZkFldk4zZVFlLV9rWnRkTEpSYlJ2NzJtTEl3NEdjZ2cyOEMxbUpxMVNrOE1Bcm9F?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 17:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Evolving drone war in southern Lebanon clouds Iran peace prospects - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVVyaElQQXltV0NzUDhueUxxTU9Zd2JNNDlJOEtRSlAzY3dGaU1jTTRMUlBNaEJNemFacnZkbEJPUWpNUmhpd2ppN2xncVVQeXE5TUNBS2hMU0xhNjBaZzVjZzJTOHJEYndpRTVJaWpHQmMwdHF5SUNjckttdWxwb0dvZ0hIMm1FRUdpaEFTSEFXMzVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVVyaElQQXltV0NzUDhueUxxTU9Zd2JNNDlJOEtRSlAzY3dGaU1jTTRMUlBNaEJNemFacnZkbEJPUWpNUmhpd2ppN2xncVVQeXE5TUNBS2hMU0xhNjBaZzVjZzJTOHJEYndpRTVJaWpHQmMwdHF5SUNjckttdWxwb0dvZ0hIMm1FRUdpaEFTSEFXMzVnZ1BRMnJJZjFJeDFCMWFqUUlieFBNMVVySzgzWnlWRF9KdlRW?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 13:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine and U.S. move toward landmark drone defense deal as Iran war highlights capabilities, and necessities - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTFkVDUzV2J5azdrVWhXdkV3UDlaemJ5RG8yNlFIX0tsSWtXNFBIbHV4bXl0V1VZUUJ0VmN0TEs3MWNqS0pxVFlQZUVsS1FVZExRNzBCRDdOVm5CNFJJd2hPRDVzUVBrclQ2TEU3eEdITnBTMEswTXY3T2JDMm5Bd0JRbXpHLU1JYjgwa2RZb0VQRVNx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTFkVDUzV2J5azdrVWhXdkV3UDlaemJ5RG8yNlFIX0tsSWtXNFBIbHV4bXl0V1VZUUJ0VmN0TEs3MWNqS0pxVFlQZUVsS1FVZExRNzBCRDdOVm5CNFJJd2hPRDVzUVBrclQ2TEU3eEdITnBTMEswTXY3T2JDMm5Bd0JRbXpHLU1JYjgwa2RZb0VQRVNxd1p0cTBESHNoVUlC0gGmAUFVX3lxTE5QbHN3UFV3ZmdyOE9MeWhyN0N2SDVSTl9NTVEtbk55dDR0YmRHeXZia0t3SmE5cTV4RzVoSWFkQm1qMzRlSGJmWGROaGo3UXNxWXZkQk9GWTVVbHhmM0lJcVNTXzFIbmNrNEo2SnZfRkt4Z0xwQUJLYWtsOGJRY1VPR0UtcVBZQktpS196eThOdmt4UUVwWHdMUzc2VWFSa1NmZEZidnc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 11:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war pushed inflation to highest rate in nearly three years - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVI1NzY0UVRfTWxMUWZHUGtSZld4SHFJdXpaZ1FWYllUaDNpd1RkbnNvN3JRNFkxaWwzOTRNVGNYMHE2emh0TVItUVo3Y2JaS2FnV1I4d05lXzhRYS1ZRDB6N0ZCblVic1RKc0NlT0xlcldDUVFNMXBZZllKRVh2bm1FSTVZN0VrZ0gxU0VzMlg?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVI1NzY0UVRfTWxMUWZHUGtSZld4SHFJdXpaZ1FWYllUaDNpd1RkbnNvN3JRNFkxaWwzOTRNVGNYMHE2emh0TVItUVo3Y2JaS2FnV1I4d05lXzhRYS1ZRDB6N0ZCblVic1RKc0NlT0xlcldDUVFNMXBZZllKRVh2bm1FSTVZN0VrZ0gxU0VzMlg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 17:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZBVEVjTWR0WnJiM3ZLWnFId1B0eUNZMnFsYTNCdmNIV3hlc0FNdXdiUXBTOUVqTHRhSEhYYndlNHJtRGtzVEhvNE9uY0JvS0dMOExjazZsQ0tEUVA1Y2xoNEc1Y2p3dnpBeTVoc3VEVk9YTVU4RTZJSkhrTUlhOEtTdjVFRlFfdWczTmJ3QlhWX0k?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZBVEVjTWR0WnJiM3ZLWnFId1B0eUNZMnFsYTNCdmNIV3hlc0FNdXdiUXBTOUVqTHRhSEhYYndlNHJtRGtzVEhvNE9uY0JvS0dMOExjazZsQ0tEUVA1Y2xoNEc1Y2p3dnpBeTVoc3VEVk9YTVU4RTZJSkhrTUlhOEtTdjVFRlFfdWczTmJ3QlhWX0k?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/05/2026 13:14"
       }
     },
     {
@@ -873,33 +1247,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2JqbGMxb3VXYWtzTGlBeUlrb1NBNWFhRjdKeGh3bjVaZlpfSTJYdFZGTFlpTVFCWDgwcnFwQkxva1lsMVc0eFhkcWVfc3Ztc19kVVQtQzBGWTZTUnoyNVM5UmVzLTVjaHBWTFpnSlZFcG5fdXF5NTJYREcxalRlbkZOSXVZRmtDWk9kRmh6Tm5xY3hT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2JqbGMxb3VXYWtzTGlBeUlrb1NBNWFhRjdKeGh3bjVaZlpfSTJYdFZGTFlpTVFCWDgwcnFwQkxva1lsMVc0eFhkcWVfc3Ztc19kVVQtQzBGWTZTUnoyNVM5UmVzLTVjaHBWTFpnSlZFcG5fdXF5NTJYREcxalRlbkZOSXVZRmtDWk9kRmh6Tm5xY3hT?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 09:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUFKLVRlOXllTlpNeVZkc2tpV2xRUDVjU3A5N2RBNEFQY3VfY2JlZ2VKcnQ5cEY5VUVPZWN5c1NVbjB3ZDZYbHRHb1ZPOTl2cW9QQjg4c3BPMmcyVUpjMUpwc3YzSmxuSENhZ1pJYm9LMEh4VnEtb21jSWNoVGNXNHpTMkdtamt4?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUFKLVRlOXllTlpNeVZkc2tpV2xRUDVjU3A5N2RBNEFQY3VfY2JlZ2VKcnQ5cEY5VUVPZWN5c1NVbjB3ZDZYbHRHb1ZPOTl2cW9QQjg4c3BPMmcyVUpjMUpwc3YzSmxuSENhZ1pJYm9LMEh4VnEtb21jSWNoVGNXNHpTMkdtamt4?oc=5",
+        "titulo_evento": "Inflation hits three-year high in April as Iran war impacts consumer prices - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB1bjdWU3Y4TnJxZGdfekNkWUc3UUFHVGtGZHdablNiZDc4ZjUwWWpTMV8tVTZTVEJ0SWlOcXE3LWk1ZkQxTjZ1aG5UQVNlMzdCZW9VRnA4YzFWODV6dWxrRUg5TFBUNWIxakw1ZS10MEE?oc=5\" target=\"_blank\">Inflation hits three-year ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1bjdWU3Y4TnJxZGdfekNkWUc3UUFHVGtGZHdablNiZDc4ZjUwWWpTMV8tVTZTVEJ0SWlOcXE3LWk1ZkQxTjZ1aG5UQVNlMzdCZW9VRnA4YzFWODV6dWxrRUg5TFBUNWIxakw1ZS10MEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 09:00"
+        "data_noticia": "12/05/2026 13:59"
       }
     },
     {
@@ -907,16 +1264,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "China is stepping up its Iran war diplomacy ahead of Trump’s summit with Xi - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk1LbDlqU2VOTWV6TmVwcURQakFrLVhXTGJVQlhUVnZObUljLU0yTE9zSXdOVFh4YkJWNU5RVnJjODhSdVFJUXhCU3czeHI5RFBsdUx6TlhFcTFoQ1NGSkRCTGZONU1YOTgydHpLbkV0akJvak05bG8xZXlNa0hvWUltaHl2cE1yeHJSbmxwU24teWdf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZk1LbDlqU2VOTWV6TmVwcURQakFrLVhXTGJVQlhUVnZObUljLU0yTE9zSXdOVFh4YkJWNU5RVnJjODhSdVFJUXhCU3czeHI5RFBsdUx6TlhFcTFoQ1NGSkRCTGZONU1YOTgydHpLbkV0akJvak05bG8xZXlNa0hvWUltaHl2cE1yeHJSbmxwU24teWdfdld5VlpEeVRjSHJZOGFv?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 09:00"
+        "titulo_evento": "China asks US to provide 'greater stability' in economic ties, global economy ahead of Trump’s trip - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHJrbFUtM1o2V2dFMDBGUzVFZUZxNnhucDBQT2tUYWgzWUY4S2Q5UFlMaS1EaVdZRjhpc3BGUjV6bXZOOFF0eS1pZmg2Nnpod3RCanNkZmM4RmJjaDJ0T19kSFpvLWh5aTVoc3VuYUNwU3E5Q282dFUzNXVHMWNYaTR5MjNUcFRwMkN1UlZMdEhnbHlq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHJrbFUtM1o2V2dFMDBGUzVFZUZxNnhucDBQT2tUYWgzWUY4S2Q5UFlMaS1EaVdZRjhpc3BGUjV6bXZOOFF0eS1pZmg2Nnpod3RCanNkZmM4RmJjaDJ0T19kSFpvLWh5aTVoc3VuYUNwU3E5Q282dFUzNXVHMWNYaTR5MjNUcFRwMkN1UlZMdEhnbHlqblA1YWNHTE91WHNSRjIxUXhFelFMNGE4WUZpNXRXbXpTdHhEdUF2SEhiaU9jYW1QckFBdlVLZFdaTXhIaFhTUEVUQzB6QQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "12/05/2026 15:06"
       }
     },
     {
@@ -924,271 +1281,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -63.6167,
+          -38.4161
         ]
       },
       "properties": {
-        "titulo_evento": "Trump weighs military action against Iran with ceasefire \"on life support\" - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE55TDUzZmJybmxySGw1U0xpbE9WMm16OUlLLXduMWs3MnJDdVp2RUJrcHZVdE9ZdFdwdDZoN3k3OFMzMldySU01azVoLTE1M2pwV3FWNUJPR08yakx5TjZFMktCYTMtTm1ReE9SeE1DRjlGMmlKYURYUg?oc=5\" target=\"_blank\">Trump weighs mi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55TDUzZmJybmxySGw1U0xpbE9WMm16OUlLLXduMWs3MnJDdVp2RUJrcHZVdE9ZdFdwdDZoN3k3OFMzMldySU01azVoLTE1M2pwV3FWNUJPR08yakx5TjZFMktCYTMtTm1ReE9SeE1DRjlGMmlKYURYUg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 01:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Snack giant switches to black and white packaging as Iran war hits ink supplies - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qdTJ2MkRUOFlPTllfcHlEa0poX19PRmNqUkJCaGMxdHA4UVU2ZC1YLVdWaVp3VGU4OEJUMWZ1SmR3THlhbzVoOVR4LS1aVUJJM0Q4dDgxVGh4dw?oc=5\" target=\"_blank\">Snack giant switches to black and white packaging as Ir...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qdTJ2MkRUOFlPTllfcHlEa0poX19PRmNqUkJCaGMxdHA4UVU2ZC1YLVdWaVp3VGU4OEJUMWZ1SmR3THlhbzVoOVR4LS1aVUJJM0Q4dDgxVGh4dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 07:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Knesset passes law establishing military tribunal to try October 7 perpetrators - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEpwUV9PWmZlYTVKbGJYVkFYcGV0aG5hbllPRVVYeGh5ekxIMF9wTmFJd2I5UjJ6WHVsU3V2OVhSZ0FPajI3ZnJiM011MHFLeUhxM3BDMGo0bVdHSWJwLVRKbGVBSzNKb016dEh3X1VlVG4tSkJEMnVkZkJHUmxUaE56emJEbEt5WHp6cEdmQldPWjJv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEpwUV9PWmZlYTVKbGJYVkFYcGV0aG5hbllPRVVYeGh5ekxIMF9wTmFJd2I5UjJ6WHVsU3V2OVhSZ0FPajI3ZnJiM011MHFLeUhxM3BDMGo0bVdHSWJwLVRKbGVBSzNKb016dEh3X1VlVG4tSkJEMnVkZkJHUmxUaE56emJEbEt5WHp6cEdmQldPWjJvYkF2QlBTVVVodzdoNnZsRzItTzJ0d1pLV2g40gG0AUFVX3lxTE51WTZQQU1rVFNjbGkzQlMtOVBudXRZUko0eVBjTnFfRjZLdUJ3XzBaczFaaXhvZ2dVVXVVLVRFM01DSVhJNVRXYkNNWlR1aE9sUTcwRXJLTHRWU0cyQzZOdVZEQ2I2SDE5UURsZUlMWERPd2E3SkxBby1udFViYVYwZFdWQ2JhZElxOVdMMG1DWHVkaU9QdWJCNTNDVHpMbWZqSjNTQm5NTUZMVnVSeGZRR0VSag?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 07:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’ - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5\" target=\"_blank\">Iran War Updates: ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWHNfdjVuNEI0dW5XU0ZtbjIyMEFwTjFlYzhVTjU1amdvT1dnbDNvQkZicWMyTi1YdkNibmtZZlBwVk5KV1ZHdXV1N3RZRTA2NlExdUZMc0ZRWUxCbjlfTXQtbXJNamo4azh0Y1lHZC1zaG0wNVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 02:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Qalibaf Says US 'Has No Alternative' But To Accept Iran's Terms - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "12/05/2026 05:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Weighs Two Iran War Options With Ceasefire \"On Massive Life Support\" - NDTV",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVU10aWxEMW82Vno1UE8xel8wdjdVSTV6cDZPaERENXcwemJQZ1BESy1hSVctQjZuZnlncXMyVld4U0VSQWlnLWplN29QcXk2OEIzdGh6dFp3dzRhT0xfYTRXVjBCc2hBOXNGN2ozdEIyOWRTMFVTcnFFaHc1SGR2OVFUbUJsOU5sNkV1Sk1CX2Jnd1dl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVU10aWxEMW82Vno1UE8xel8wdjdVSTV6cDZPaERENXcwemJQZ1BESy1hSVctQjZuZnlncXMyVld4U0VSQWlnLWplN29QcXk2OEIzdGh6dFp3dzRhT0xfYTRXVjBCc2hBOXNGN2ozdEIyOWRTMFVTcnFFaHc1SGR2OVFUbUJsOU5sNkV1Sk1CX2Jnd1dlX2p1Ym1jUXQycVFhRWZldVcyZExvYnNXb1BJSU96ejFQVkUxRWJreHZvRVQ3UkVxa3d5MjY4YW9fd2vSAdcBQVVfeXFMUHFvZHpMT1Q5LU4ySEhYSjd0LU1IcThMZnE1RlRqV0JoYk13VEEySDItcGhBSm40QnhqV2lsUmRxbWFiYjA1U2EtZ3BOcEU3MHkxOHNQVTNUa29TdWhhTEQzWFJaSVMzc3h4U0FXemhreTdwNDdueW9DcllMV0pOY25NM0paVEFTWHR0bTlYV25kY1pMQlFRUTBVTmNVZjk1WnJRUW5GclkzOTh1WXhIZ2ozdUZLa1B3c0k2SjIzM296NnZFMHM5NkJ6ZFJOSUNkajlfZWRaUEE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 08:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’ - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDlGVmdaU2drWnFyMS1xYTd5QWh1Y3hvbTNGZ3JIb2RjbGNsUEtEZ2x4ZEd0TGR0cFp0cDRzY1EtV2hheEpFU3RieEl2Wk1OS3VvckNsLW1RX2NSSkFPU0ItYmZHR09TRUx0YzE2eXBSZ0VBSDJZQXNZanZpWnlXbkUydjNUeHZLYnlwM243WW1HbHRw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDlGVmdaU2drWnFyMS1xYTd5QWh1Y3hvbTNGZ3JIb2RjbGNsUEtEZ2x4ZEd0TGR0cFp0cDRzY1EtV2hheEpFU3RieEl2Wk1OS3VvckNsLW1RX2NSSkFPU0ItYmZHR09TRUx0YzE2eXBSZ0VBSDJZQXNZanZpWnlXbkUydjNUeHZLYnlwM243WW1HbHRwN1B1S2duaEllWWQ2S3g1c0VoMU5pM1E4eVlYONIBtgFBVV95cUxOTjF5cXlhZldlU01nRGJlUlZIMldxWFdVWGtGMTlxTHI5SkhiaFpIbUV1bHVQaEw0VDFaMnQ0ZS1YNlRONDBoVXNjQzBDV3ZVN3gzS01TY2NHQXFFZkZwN0szX1ViV2RmQ3lBcndpMDl4dFhiTVc1aG9xejBvbEV4MHU3RVpibXNyZWgyRW9ON3pnZ1JfTjJXVVo1MWRKcVBVSEdPdWI0dmtMUThwSDNlNFVKaEpkZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 07:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZBVEVjTWR0WnJiM3ZLWnFId1B0eUNZMnFsYTNCdmNIV3hlc0FNdXdiUXBTOUVqTHRhSEhYYndlNHJtRGtzVEhvNE9uY0JvS0dMOExjazZsQ0tEUVA1Y2xoNEc1Y2p3dnpBeTVoc3VEVk9YTVU4RTZJSkhrTUlhOEtTdjVFRlFfdWczTmJ3QlhWX0k?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZBVEVjTWR0WnJiM3ZLWnFId1B0eUNZMnFsYTNCdmNIV3hlc0FNdXdiUXBTOUVqTHRhSEhYYndlNHJtRGtzVEhvNE9uY0JvS0dMOExjazZsQ0tEUVA1Y2xoNEc1Y2p3dnpBeTVoc3VEVk9YTVU4RTZJSkhrTUlhOEtTdjVFRlFfdWczTmJ3QlhWX0k?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 08:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s complaints on Iran war leaks prompt aggressive probe: Report - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHhXWVVvLXRXZ1JDaDNTS3N4NlNGXzVOcmx6eDhMZHB4dDhzc0xIczRNWTJkV3BGWWdoRmEwaWI1dXhwWEtJc0JNZXhsYWdvaTJYN1ZicGpOR3U3SlU0dWsyUlNfXzVHd0dwaXNCTW45dldRSkNEQzZqZ05uZlJQUE56TjU4UmhtRWJBMjlsc1J1blhI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORHhXWVVvLXRXZ1JDaDNTS3N4NlNGXzVOcmx6eDhMZHB4dDhzc0xIczRNWTJkV3BGWWdoRmEwaWI1dXhwWEtJc0JNZXhsYWdvaTJYN1ZicGpOR3U3SlU0dWsyUlNfXzVHd0dwaXNCTW45dldRSkNEQzZqZ05uZlJQUE56TjU4UmhtRWJBMjlsc1J1blhIYnNaMFREUVd3UGVsOTlfNm5mRmM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 07:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war creates new must-have for summer holidays: the plan B - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNci1NdlNTcFRfZElQRVNsalBlSFdGbllwWmZfRjFUbFNnV1lGVmYxdm50bE42YnpRRHR1VnRHVGNTVGY0d0NKM1loR3pZcDg4clc5aWo3UWlwU1A3bHNYVlJjNG5WOE5Td2VvZkFkVEdqM0hPT1d0NF9rWXVPU2hPNEgzcXgwN2hrTW5objRzbGlQU3Vn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNci1NdlNTcFRfZElQRVNsalBlSFdGbllwWmZfRjFUbFNnV1lGVmYxdm50bE42YnpRRHR1VnRHVGNTVGY0d0NKM1loR3pZcDg4clc5aWo3UWlwU1A3bHNYVlJjNG5WOE5Td2VvZkFkVEdqM0hPT1d0NF9rWXVPU2hPNEgzcXgwN2hrTW5objRzbGlQU3VnSmxmU005Y1BiOVU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 06:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "AI Plays Major Role in the War on Iran - Arms Control Association",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5\" target=\"_blank\">AI Play...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UjhJMkZYRGYtOWxGSW1kTm16VzBEUi16UXFxNFUxa3A1SXIyMTgyT1VjXzBSVzRkdGRrMGd4N3dvbkp3Z001N0ppck54VGFYeEJKc1huRmVRbmdZQ3Y1c2drdHBya1VhSlpERzdPNHNnVklPZ29HbmE0U0RSZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/05/2026 20:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Not Missiles, But Energy Resilience: The Unexpected Winners Of Iran War - NDTV",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVy1IS1lqc2N5U19zSHNsN2F6TGtiNUVqMy1EVHpXVnY4RkEzZzNKZW9LdTVrVzJFQTZDb25sZTdSaHVmZ2gxbVZCQzgtdzVraTJoblBaa01ZSTFWbFJHczVIeVFGaTBGZnB3Q2ZsWV9YenJRRG5Qd1dnSzdxdUhHY1dfLTN1bDhZeTJhWGlFR3pxSk1H...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVy1IS1lqc2N5U19zSHNsN2F6TGtiNUVqMy1EVHpXVnY4RkEzZzNKZW9LdTVrVzJFQTZDb25sZTdSaHVmZ2gxbVZCQzgtdzVraTJoblBaa01ZSTFWbFJHczVIeVFGaTBGZnB3Q2ZsWV9YenJRRG5Qd1dnSzdxdUhHY1dfLTN1bDhZeTJhWGlFR3pxSk1HQmFTZXJKSzEtbzlkaUFoaFZ3X1pwQnNPb0g5UGxIYUh1ZnJiZ2dHbllTONIBxwFBVV95cUxQU2JRVl9rTUVGaDRINDc1OTY0bFU5aDdiM1UwR0FsYkZ4SVdXSDRwRkN3ZVA5MkhyeVVTX1VpS3BjWjVXTnpMRml6czRtSkdGRlczVERRTXl2M3NTZ2RuNDdEeTRrY0xjSURRZHJoQUZ0aE1RNk5kR09kbVNaeUNjZE5Cel9VWmxLZ0k2YmU0dmNKYTFXeDhXQ1BfMmVTWjhraDNpUVhJbE1qWUxfWEswbWpGMUFOWGZ0cEROMXNucmpGc1VkSXZZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 05:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Artists behind Trump statues on the Mall create video game to protest Iran war - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVZoSDFVTm8wNUVOQzN4RXdDMVptT3lyLUdBN09HWWwxMXdyc1RSa3lFaHZYTGlZNVhDLUVSaWxRcW10NzlYenNyNXlmdFQ2WnJhaTNXM09FZWR6QlJXYU9XbHc0aFpjcTRyTk1iQ2RNWU1IU2U4VnQwaHlzUEVxRWV0WHdEdkF2VVNaaFc4UGNPcl84...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVZoSDFVTm8wNUVOQzN4RXdDMVptT3lyLUdBN09HWWwxMXdyc1RSa3lFaHZYTGlZNVhDLUVSaWxRcW10NzlYenNyNXlmdFQ2WnJhaTNXM09FZWR6QlJXYU9XbHc0aFpjcTRyTk1iQ2RNWU1IU2U4VnQwaHlzUEVxRWV0WHdEdkF2VVNaaFc4UGNPcl84ZmRFa0RJTQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 04:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says forces ready to respond to attacks as Trump reportedly mulls renewing war - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm9aRzMzM0wxWk0zMFBSVXlLTUowbzZ6Z1VrRGVkbWctR09laUh1M1JIU3hvV2tIMWpMYzlVMzZvM0E0WEZnZ2ZMcVBSU0o4cFg1TkZ5YzdjeExJMXVQZ3ptSmlwZEVVZDY1SlRnTEc0T2Mxd1NGWmdiNjVzelVuWU9nSVJDT013ZVozVXFpal90VVJp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm9aRzMzM0wxWk0zMFBSVXlLTUowbzZ6Z1VrRGVkbWctR09laUh1M1JIU3hvV2tIMWpMYzlVMzZvM0E0WEZnZ2ZMcVBSU0o4cFg1TkZ5YzdjeExJMXVQZ3ptSmlwZEVVZDY1SlRnTEc0T2Mxd1NGWmdiNjVzelVuWU9nSVJDT013ZVozVXFpal90VVJpYXNqMlZnVzFtSTVkZWpsOC1EdzhJbm5IWm5PUzcwdWfSAboBQVVfeXFMTWJXb1Q1cXlqRG1kMXpiQ2dBbUxhRlVjd09KZ0JvNDduM1Y5V1Y3QWxhOFlXeWNjbjN1NVNVeWQwTmtYZm9OSTh5bmFseVhnVTZQMEx1ZkF2bk1fTzZTYlBvejBHNHRGQ1JoVm1mRXNzNDU2ZlNIcFRzcEt5S3o2UzlwanRxa0V1aTB6LW1kWGVlNFhLZThsLVFzdlJoUTlDcENOUTBMSUVnSWFYU0VIZl9lQkNpdmw5OE93?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 03:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUx6RDhSLXJVSlZBZDBRZ2hhS1oyeDU5ZHJfVWFTUWotREx6cDFSZ0VKMFdJRHJnaWEzd3NzVUp5N2lJMUpzRUd1S0lyY1lsOFRTQUpWRzNKWjM4NjRaS1NEUC1WZEJNdkxWNGFpUVBHMnpYcm9ZM0VFSVVnQnV4Zi1uTnlBdDkyUzNOMlV1Yk5DN18t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUx6RDhSLXJVSlZBZDBRZ2hhS1oyeDU5ZHJfVWFTUWotREx6cDFSZ0VKMFdJRHJnaWEzd3NzVUp5N2lJMUpzRUd1S0lyY1lsOFRTQUpWRzNKWjM4NjRaS1NEUC1WZEJNdkxWNGFpUVBHMnpYcm9ZM0VFSVVnQnV4Zi1uTnlBdDkyUzNOMlV1Yk5DN18tOXhGSEI2TWYwX1FUTHoxcnRUOFdBU1lLeE1rb05EVEpsaURvNGc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/05/2026 06:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World markets feel the strain as US–Iran war grinds on - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9ndXFlNGExSXRaay1vRURsRU16SWZNcXpjNTk3dVJwRE9uR3BlSU11LTRjaWVSTTdvN2pxRlBjY2N3dmRTQm1abElWY1phTkhrdHhJbzJucV9BTDRiRDJVTW5sa0tzSFZEYU9uWEMxV0t4MHduNEYzUGt3Y3pFRkk3amIyOVo0Y25kam9nQXR3b0FU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9ndXFlNGExSXRaay1vRURsRU16SWZNcXpjNTk3dVJwRE9uR3BlSU11LTRjaWVSTTdvN2pxRlBjY2N3dmRTQm1abElWY1phTkhrdHhJbzJucV9BTDRiRDJVTW5sa0tzSFZEYU9uWEMxV0t4MHduNEYzUGt3Y3pFRkk3amIyOVo0Y25kam9nQXR3b0FUVlBpNw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "12/05/2026 06:58"
+        "titulo_evento": "Argentina's country risk falls steadily, fueling debate on return to capital markets - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGF6QU1kS2s0bjdrd29menNzLUNwOXpIZG1BSER6Y1pSNExXTjdOMUl5S01UNUY1U0w2aUZRZFBCXzU4RHB4U3dUS05XQV9FODI1SURXSFRoYmw5VVZYZW50RHBkdllIaUkwZnRUenJyM2NiQ19kY3RRVWozWXNIaTBlTDJIQU5lYi01STIzN3FITzlz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGF6QU1kS2s0bjdrd29menNzLUNwOXpIZG1BSER6Y1pSNExXTjdOMUl5S01UNUY1U0w2aUZRZFBCXzU4RHB4U3dUS05XQV9FODI1SURXSFRoYmw5VVZYZW50RHBkdllIaUkwZnRUenJyM2NiQ19kY3RRVWozWXNIaTBlTDJIQU5lYi01STIzN3FITzlzSnU5MTNyQjJsanhuNGxHZ3oyalBFTEMzWUVfQTk2NEd0VUpRd3Jjd212b1B6bVZoMmc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "12/05/2026 15:14"
       }
     },
     {
@@ -1213,135 +1315,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Taiwan’s chips power the global economy. China holds the leverage - Rest of World",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEZOM0ZDNFNGR0RjaDZ3MTdVbkJKYlg0YmhNeEZYNWJwX01uUnc5bUYydkw0dXpzVUpMRGxHSnJTb1dKYk9RT183TnNfZk5DZnF6X3phVGcyektwX1dQVXQ0eUxXdHlBMUEtQUJTMGw4OXdTUWE5UjhUbktJYzhNaA?oc=5\" target=\"_blank\">Tai...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEZOM0ZDNFNGR0RjaDZ3MTdVbkJKYlg0YmhNeEZYNWJwX01uUnc5bUYydkw0dXpzVUpMRGxHSnJTb1dKYk9RT183TnNfZk5DZnF6X3phVGcyektwX1dQVXQ0eUxXdHlBMUEtQUJTMGw4OXdTUWE5UjhUbktJYzhNaA?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "12/05/2026 10:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "'Bending, not breaking': Goldman Sachs explains why the war in Iran hasn't derailed the global economy - Yahoo Finance",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSGxLSWRrQXJPazhyMkx2X2ptV2pfOExKOEx4aGdwVzRoSjRYSkk0bVM4dkdhRzRkdE1jVjAxclN1TEQ3T3Z4TE5OYkU3bnNmUllrWVVzQzBCNGpuWDJfT0RCU1QtbXA0Ykg1Y2dJMGxueURCZUlZeEFRamFEdmpBNWhIWFEwN29CT3pFUWNiT3JzcHFw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSGxLSWRrQXJPazhyMkx2X2ptV2pfOExKOEx4aGdwVzRoSjRYSkk0bVM4dkdhRzRkdE1jVjAxclN1TEQ3T3Z4TE5OYkU3bnNmUllrWVVzQzBCNGpuWDJfT0RCU1QtbXA0Ykg1Y2dJMGxueURCZUlZeEFRamFEdmpBNWhIWFEwN29CT3pFUWNiT3JzcHFwdWk3NzJMZjNCYUpuV2JDUjdqYTJDS2NjSGcwU2xNYy1wd0pDbUs1ZVA5d0VKVFhZVlNaVlh6Q1c4aVpZSzg0eXB3enNqdGZDeHBORGxhMllVQWFkTFE?oc=5",
+        "titulo_evento": "Webinar: Oil, Iran and the markets: what happens next? - ING THINK economic and financial analysis | ING THINK",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDdsRk5zbGdBcWpxOEM0Z2hYN01JNHBzZjNRRGhBNk5EZk0wYkVoN2I5T3BwUURwSFZxa3Mtbjk3XzdrbHgwZ1hIaUp3eHZ0UWlpQ3Q4OGhLM01NRmN0WnVZcGtTR0ZxV08taVVsdkt0eTc1ZU1jQVdOWEhlSE9KcTFmTlVYRnY5ZHc?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTDdsRk5zbGdBcWpxOEM0Z2hYN01JNHBzZjNRRGhBNk5EZk0wYkVoN2I5T3BwUURwSFZxa3Mtbjk3XzdrbHgwZ1hIaUp3eHZ0UWlpQ3Q4OGhLM01NRmN0WnVZcGtTR0ZxV08taVVsdkt0eTc1ZU1jQVdOWEhlSE9KcTFmTlVYRnY5ZHc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "12/05/2026 13:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Musk joins Trump’s Beijing delegation as a ‘natural bridge’ for trade - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGdVRU5md3R4RVZsNWZrSVNtM1M3TldLa25ZdkVUUVc5TzRINHo5dF8yRkZHam13a2hDS0NZbENqeVdXa0NpU2lfdzFDcXE4cWYwUDJBZVFyUDRrYlhhSU9mVXg2SXNVb2VQQ3VQV0RFSkpydExnSmZlX2FWQjY1S3Z6blRBcXZPQW8xdC1UeHlCVzFZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGdVRU5md3R4RVZsNWZrSVNtM1M3TldLa25ZdkVUUVc5TzRINHo5dF8yRkZHam13a2hDS0NZbENqeVdXa0NpU2lfdzFDcXE4cWYwUDJBZVFyUDRrYlhhSU9mVXg2SXNVb2VQQ3VQV0RFSkpydExnSmZlX2FWQjY1S3Z6blRBcXZPQW8xdC1UeHlCVzFZejljWHFqWGx0d2NWMC0weGg4QlkyVXBicFhvZlVENEhKUTBOdl82eW9rVdIBvwFBVV95cUxNazFhdDFpN1pTZmg2ZUxtTmhJSjRrUlJESjg5MjliQW11QzB6MlFIVFlKckVjd0ltTmJKd1FRWm4yTnprWGFUTl9OekZxM2NQeG9iS3JjeW1LM2NrWFdjV1NQZ0c1ZV9WeXN2UUNKRGFQbW1lTi1TWWZTX09WOWVscmFrOEpNVmg4VGprWllJOGVSZGNsSVp6Vk1ZNFMxdFBFLV9YU3JZbXY2VVFLM1NJQng3QlE0TS1Tb3ZlVFlrdw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "12/05/2026 13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "World markets feel the strain as US–Iran war grinds on - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9ndXFlNGExSXRaay1vRURsRU16SWZNcXpjNTk3dVJwRE9uR3BlSU11LTRjaWVSTTdvN2pxRlBjY2N3dmRTQm1abElWY1phTkhrdHhJbzJucV9BTDRiRDJVTW5sa0tzSFZEYU9uWEMxV0t4MHduNEYzUGt3Y3pFRkk3amIyOVo0Y25kam9nQXR3b0FU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9ndXFlNGExSXRaay1vRURsRU16SWZNcXpjNTk3dVJwRE9uR3BlSU11LTRjaWVSTTdvN2pxRlBjY2N3dmRTQm1abElWY1phTkhrdHhJbzJucV9BTDRiRDJVTW5sa0tzSFZEYU9uWEMxV0t4MHduNEYzUGt3Y3pFRkk3amIyOVo0Y25kam9nQXR3b0FUVlBpNw?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "11/05/2026 13:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran is shaking the global economy – and your money is at risk - MSN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNczlDWF9Mc1lkYndEcXFsTnNOWmxvZmVreWl2c0tJSUZJQVozVVo3Nms4aEtGZ3Rqc1RvRnNZOW9lbk1seHJOajBLTFQ1OWFheHFweUNZLUZmYncxZV94S1p6ZjdmTFI1bFMtQjB0NFYzZ3diVGhiR2N2U1dTcDVaRkJTc0RVWGJvT25OV2V6cDJHRjdO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczlDWF9Mc1lkYndEcXFsTnNOWmxvZmVreWl2c0tJSUZJQVozVVo3Nms4aEtGZ3Rqc1RvRnNZOW9lbk1seHJOajBLTFQ1OWFheHFweUNZLUZmYncxZV94S1p6ZjdmTFI1bFMtQjB0NFYzZ3diVGhiR2N2U1dTcDVaRkJTc0RVWGJvT25OV2V6cDJHRjdOaEdlSVlqZ0s3M0Y1VVExVUdQUlZQcVluZ1dHcDR5NDJObl94Wm9YbFhn?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/05/2026 07:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War Chokes ‘Major Driver’ of Global Economy - Foreign Policy",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1E4bGRhNlhxdXM0UjFWSVRkaHZFN1h3dDAwa1o2alY3ZFhPb2VnWWw0dmc3QW5zRkFPcVBaZ2JtYUU5WDl6bmxyak9TcDc0NXBCZ3RjRGRhSDdWRF9iT092TVctOGFRZFNNYnpjTXFEb1hrbFYwNGhLbmNFNW1zU1FR?oc=5\" target=\"_blank\">I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc1E4bGRhNlhxdXM0UjFWSVRkaHZFN1h3dDAwa1o2alY3ZFhPb2VnWWw0dmc3QW5zRkFPcVBaZ2JtYUU5WDl6bmxyak9TcDc0NXBCZ3RjRGRhSDdWRF9iT092TVctOGFRZFNNYnpjTXFEb1hrbFYwNGhLbmNFNW1zU1FR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "12/05/2026 05:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A second wave of Iran energy shocks is about to hit Asia and the wider world. Why aren’t markets reacting? - Fortune",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFJtSVNpUVlzbld4U0pXbVBEYm5QYUpYeTlfTHF0QWV0UzlObDRMdkhjWDZ4d1U1Q1BtdHpKaU95T1dza25MaDF3ZURWUTV5akFKS0Q4SFFSekxoLUcxWmpwUmFacWcxdkVjVERsak16U2xkVVQzNVNWU1ZOY1VZNzVORHhIQU4tNjc1c2Zocw?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFJtSVNpUVlzbld4U0pXbVBEYm5QYUpYeTlfTHF0QWV0UzlObDRMdkhjWDZ4d1U1Q1BtdHpKaU95T1dza25MaDF3ZURWUTV5akFKS0Q4SFFSekxoLUcxWmpwUmFacWcxdkVjVERsak16U2xkVVQzNVNWU1ZOY1VZNzVORHhIQU4tNjc1c2Zocw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/05/2026 08:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Iran Talks Stall, Markets Bet on Diplomacy, Experts Say - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSE92NjhLSmxLVllfbG1ucUFPWVpkYURFN3pLVGxOcEYxT2I5TmN3eEtyRk1QR2FIZTRpOHE1U2lZaURGeHQ3N2hadzhqMTJoT0VOZEsyYnBnOXJfczhseUJCaGZHbTFpWTdZb09vU0gyUDlJSWcw0gF3QVVfeXFMT0FIT3Y2OEtKbEtWWV9sbW5xQU9Z...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSE92NjhLSmxLVllfbG1ucUFPWVpkYURFN3pLVGxOcEYxT2I5TmN3eEtyRk1QR2FIZTRpOHE1U2lZaURGeHQ3N2hadzhqMTJoT0VOZEsyYnBnOXJfczhseUJCaGZHbTFpWTdZb09vU0gyUDlJSWcw0gF3QVVfeXFMT0FIT3Y2OEtKbEtWWV9sbW5xQU9ZWmRhREU3ektUbE5wRjFPYjlOY3d4S3JGTVBHYUhlNGk4cTVTaVlpREZ4dDc3aFp3OGoxMmhPRU5kSzJicGc5cl9zOGx5QkJoZkdtMWlZN1lvT29TSDJQOUlJZzA?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/05/2026 23:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global Economy Faces Inflation and Growth Test Amid Escalating Conflict in Iran – Goldman - EnergyNow.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUNHT3MyZXh6Vnh2N2hMRVJuYVJTLW1VeUZpbDFpR3dRZWIwSG9hYXU5b280RmJhLS1QOS1Fd2RnSmduNjdSczg2cm55ZnlDTGViNFRlVVQyS29tQkxISzN5M3VnVllldHdrR19qclo4YVZCN0RROTRYT3UzTVJ3c0dxSlB2WE1PeWVWODljczFqcjVN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUNHT3MyZXh6Vnh2N2hMRVJuYVJTLW1VeUZpbDFpR3dRZWIwSG9hYXU5b280RmJhLS1QOS1Fd2RnSmduNjdSczg2cm55ZnlDTGViNFRlVVQyS29tQkxISzN5M3VnVllldHdrR19qclo4YVZCN0RROTRYT3UzTVJ3c0dxSlB2WE1PeWVWODljczFqcjVNc3A0cUNITVdid2xHUEk3T2tyeThPUGZFZFFtdThvUlNnaU96WVE?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/05/2026 22:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7129,
-          37.0902
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global Markets Jolt as Trump Says Iran Ceasefire Is ‘On Life Support’ - USA Herald",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnl1Vkw4ZWlobzFGVUdmbjE3Vy1fZkxWdHJfVWk2TjZBWjFjSHAxbkRrZWVBcjRDOGxteGFIZGtMckdJNzNXSDJCbXNjU3Fab2lsVmVzOUhJLWFyMHVxVndlZmNVU1BCTnF2cEpQTzVLT3ZsVU4zdkt6b0NpWTA4aTg0NEhhS0JQaDlqN2htN2lUYklq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnl1Vkw4ZWlobzFGVUdmbjE3Vy1fZkxWdHJfVWk2TjZBWjFjSHAxbkRrZWVBcjRDOGxteGFIZGtMckdJNzNXSDJCbXNjU3Fab2lsVmVzOUhJLWFyMHVxVndlZmNVU1BCTnF2cEpQTzVLT3ZsVU4zdkt6b0NpWTA4aTg0NEhhS0JQaDlqN2htN2lUYklq?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/05/2026 08:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says - EnergyNow.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXdETk1PQ1JuNm14X19yVzF5YlVxYVA1WTVRazJhVHNnT2paUnY1cUR6bkZQQ3N4QjN4UUZlYkpONkViS2oxY255OE9HTnNZdzAtNWs2M2hsVXZIZ2E1X1VmcnRhQTk2SDJQTmEtODI2cmhSc01sbFJRWEU1Z1JyVHEwa3MwZ21VNUJKNEZBaUllRjJT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXdETk1PQ1JuNm14X19yVzF5YlVxYVA1WTVRazJhVHNnT2paUnY1cUR6bkZQQ3N4QjN4UUZlYkpONkViS2oxY255OE9HTnNZdzAtNWs2M2hsVXZIZ2E1X1VmcnRhQTk2SDJQTmEtODI2cmhSc01sbFJRWEU1Z1JyVHEwa3MwZ21VNUJKNEZBaUllRjJTNGxXMEV3eDVTb2ZGaDRySFhacTFPQmR6c3pJTWY3WlNfSEY2VXZSN25n?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "11/05/2026 22:04"
+        "data_noticia": "12/05/2026 06:58"
       }
     }
   ]
