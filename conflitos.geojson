@@ -79,23 +79,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says Ukraine lacks leverage. His own officials say otherwise.",
-        "descricao": "Rubio called Ukraine’s military the strongest in Europe, while Driscoll told senators the U.S. is playing catch-up with Kyiv’s Delta command network. ",
-        "url_fonte": "https://www.defensenews.com/pentagon/2026/05/20/trump-says-ukraine-lacks-leverage-his-own-officials-say-otherwise/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "20/05/2026 23:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
         "titulo_evento": "Inside Ukraine’s Battlefield Innovation Loop",
         "descricao": "<p>This exclusive Cogs of War interview is with Catarina Buchatskiy, the co-founder and director of analytics at the Snake Island Institute, a Kyiv-based defense analytics center, and Viktoriia Honcharuk, the institute&#8217;s director of defense tec...",
         "url_fonte": "https://warontherocks.com/cogs-of-war/inside-ukraines-battlefield-innovation-loop/",
@@ -169,6 +152,23 @@
         "url_fonte": "https://warontherocks.com/europes-dangerous-hunger-games-for-american-troops/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "21/05/2026 07:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+        "descricao": " Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/05/2026 00:00"
       }
     },
     {
@@ -301,7 +301,7 @@
       },
       "properties": {
         "titulo_evento": "Carney says Alberta is 'essential' to Canada as province plans vote on separation ",
-        "descricao": "Alberta's decision to hold a referendum on separation has been widely criticised, including the separatists who say the question is not definitive enough. ",
+        "descricao": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough. ",
         "url_fonte": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "22/05/2026 20:59"
@@ -322,23 +322,6 @@
         "url_fonte": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "22/05/2026 18:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
-        "descricao": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
-        "url_fonte": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "21/05/2026 05:04"
       }
     },
     {
@@ -584,6 +567,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "titulo_evento": "EU, Mexico sign expanded trade deal",
+        "descricao": "The updated accord between the European Union and Mexico removes most remaining barriers to trade and investment. President Sheinbaum said Mexico's respective trade deals with the EU and the US were \"not contradictory.\"",
+        "url_fonte": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "22/05/2026 23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -641,7 +641,7 @@
       },
       "properties": {
         "titulo_evento": "Iran war: 'Slight progress' in peace talks, Rubio says",
-        "descricao": "US Secretary of State Rubio said there was \"a little bit of movement\" in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements. DW has more.",
+        "descricao": "US Secretary of State Rubio said there was \"a little bit of movement\" in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements.",
         "url_fonte": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "22/05/2026 15:10"
@@ -658,7 +658,7 @@
       },
       "properties": {
         "titulo_evento": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
-        "descricao": "Lawmakers passed a bill allowing pharmacies to issue certain prescription medications independently as well as to conduct more rapid tests. And bees besiege a Beetle in Düsseldorf's rush hour. DW has more.",
+        "descricao": "Lawmakers passed a bill allowing pharmacies to issue certain prescription medications independently as well as to conduct more rapid tests. And bees besiege a Beetle in Düsseldorf's rush hour.",
         "url_fonte": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "22/05/2026 14:50"
@@ -771,6 +771,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK wargames AI-driven NATO conflict with Russia",
+        "descricao": "“Mission ready by 2030 is not a slogan, it is what we must do,” says top general.",
+        "url_fonte": "https://www.politico.eu/article/uk-wargames-ai-driven-nato-war-with-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "22/05/2026 15:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.3517,
           50.8503
         ]
@@ -793,11 +810,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Greenlanders ‘love and embrace the United States,’ Trump envoy says after visit",
-        "descricao": "The war in Iran is proof of the vital role Greenland could play in aiding the West, Landry said Friday, due to its ample oil deposits.\n\n",
-        "url_fonte": "https://www.politico.com/news/2026/05/22/jeff-landry-greenland-visit-00933677?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "22/05/2026 14:53"
+        "titulo_evento": "Crude Oil Prices Tumble on Hopes for Iran Peace Progress",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-tumble-hopes-191925292.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -861,11 +878,28 @@
         ]
       },
       "properties": {
+        "titulo_evento": "U.S. prepares for new military strikes against Iran - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0YydWZGVkNndld4N2RMN3pCNTB6U0lud2o1SlBBVDd6UjNPeUlYb2taRTl0UVBBY1ZmcEM2cUdPRVRoOFY2YnJZdGxYNHkzb0JCd0dTVWZqVVh5Z3ZnT2FvZk9maG4wbkFkdWQ4dEliMlBIemJsSlVQaTNkUXM5YdIBhgFBVV95cUxPbmoxbmJHMzhB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0YydWZGVkNndld4N2RMN3pCNTB6U0lud2o1SlBBVDd6UjNPeUlYb2taRTl0UVBBY1ZmcEM2cUdPRVRoOFY2YnJZdGxYNHkzb0JCd0dTVWZqVVh5Z3ZnT2FvZk9maG4wbkFkdWQ4dEliMlBIemJsSlVQaTNkUXM5YdIBhgFBVV95cUxPbmoxbmJHMzhBdmdIYnVOaVNUME9GbktiTDdwazVqNVViUUtvYzRfUHVyWjNHMTVaNkxEYUpPcFNLcDF0Q25hSlcwaG9EYkFzN0c1eWZoLWtCMWFFYnNEZm5XRTFQYU9CR3hCNVVWYkE5ellhRHhCcGxmbVRzV3FiQk43UDdKQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/05/2026 22:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "House Republicans scrap vote to rein in Trump's war in Iran - Axios",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVWdrMFN4WW5VQzdOT2ZyRHpsZHJlRkFFd1FFTUxieHQxdDdDTEZuWDNVV3ozR1FHOHdZc05CaHIxenhHOTdaeVh6Z2Z1V3VBM2NuOHJEcWFjTGpfU2psdHRta2JPSFBLWXhV?oc=5\" target=\"_blank\">House Republicans scrap vote to r...",
         "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVWdrMFN4WW5VQzdOT2ZyRHpsZHJlRkFFd1FFTUxieHQxdDdDTEZuWDNVV3ozR1FHOHdZc05CaHIxenhHOTdaeVh6Z2Z1V3VBM2NuOHJEcWFjTGpfU2psdHRta2JPSFBLWXhV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 21:41"
+        "data_noticia": "22/05/2026 22:05"
       }
     },
     {
@@ -890,67 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official - UN News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5\" target=\"_blank\">Security Council LIVE: Human cost of Ukraine war, a pattern...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 18:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. says 'slight progress' in Iran talks amid uncertainty about whether war will resume - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzJHNWRhdWpuR1JNVTRhY1NXT2U5NVUwbFNla1lQZ0NJdWlMZmw1YndVNmJqNkFtSkR2bHBJVGxqcDZUMWNsVU5WOG1KcHVoNWlST09qU1VMTEw3Y2dNRFd6cm9wSXZkQnBrZjhqeU9iM0hqbFJ1RXQ4QjdKamJsLXh6OWMwbnlidnprdXlJNUVPYjdX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzJHNWRhdWpuR1JNVTRhY1NXT2U5NVUwbFNla1lQZ0NJdWlMZmw1YndVNmJqNkFtSkR2bHBJVGxqcDZUMWNsVU5WOG1KcHVoNWlST09qU1VMTEw3Y2dNRFd6cm9wSXZkQnBrZjhqeU9iM0hqbFJ1RXQ4QjdKamJsLXh6OWMwbnlidnprdXlJNUVPYjdXZzZxNE42R0JWYWFDMzdsU09Lb1dEcV9FQ05iY05DRnhhWV9pNHFYddIBwgFBVV95cUxNSlBkYURrQmVvOEhGMFdkYzdscWFWV21HMWJxU3Z6cWtZQmVVWmZvdVcxM0pMZk1lUWtPVkFRVzlETDIzeDJZN0E5cFFSa0lxdXRFNXgwY2hqUjRFa19xanlYQXBwbzRTcHJJT09KMFZnZEpkUHFYR0pXcTU3Ymxka0phMGxIRUIwRVdDRUVTZFA3R0w0Vzc2T1ZobWJQX0pHUHg2S3AtbVFJUWRIM3JPZ2ZFZFhzQnRIU1pKM1JoSlhzQQ?oc=5",
+        "titulo_evento": "Iran war resolution - LAist",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmRVOGFyRnJZZmZ0ZTl1dE9qUnFsVDJRbVZOWnVJR3VCMEp5TUFCUnB2ZzduaEsxWkt6X2JTWkphcTB4M2xoa3lmb0dCeGNkVFp6YkU1Q205UUpUUmhkeDRHbW91aWpLSGliWWdkY09PU3dfMmFMckdSQkxGU1BtUHBIRmZRV3JaZFU0bDRfSGowd3lG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmRVOGFyRnJZZmZ0ZTl1dE9qUnFsVDJRbVZOWnVJR3VCMEp5TUFCUnB2ZzduaEsxWkt6X2JTWkphcTB4M2xoa3lmb0dCeGNkVFp6YkU1Q205UUpUUmhkeDRHbW91aWpLSGliWWdkY09PU3dfMmFMckdSQkxGU1BtUHBIRmZRV3JaZFU0bDRfSGowd3lGYmtmWmVud1FUYjc3c1psSmhNNVVTNHR1VGx3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 13:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: 'Slight progress' in peace talks, Rubio says - dw.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZk5IZEZDN1lLWXU5cjkzN0tyV0RVNTZYandnUEdhYTdNNEFXQTRKbG1Vd3hXN1lfMU5TOGpNQTZaU25CNHlFdnBBcnE0azZrWHRsTHJUaXFMekUwZFZabDl5S1QtaWxVV0NQdzllc25CM3JuS3RxRWVYNE5sMkVSZVRRZVRZUF9VTlU3eG94Yw?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZk5IZEZDN1lLWXU5cjkzN0tyV0RVNTZYandnUEdhYTdNNEFXQTRKbG1Vd3hXN1lfMU5TOGpNQTZaU25CNHlFdnBBcnE0azZrWHRsTHJUaXFMekUwZFZabDl5S1QtaWxVV0NQdzllc25CM3JuS3RxRWVYNE5sMkVSZVRRZVRZUF9VTlU3eG94Yw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 21:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Countries Profiting From the War Oil Shock, as Others Lose Out - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXE5RVllVEFFUWRKV3o2V0RwOFVDcTFUaG5meF9Gc2d3d0hIWTM0TEJYN2tBNTFZZDM3WFhFVVJHdnpHMzVBdk8zbkQ0R0IxWWd1YWdnckxObDUyVVY1QXRXT1QzSXFtMHNyMlg2Z0IxbVoyQ0Y1MkhmMlVkcVJDdzFZRktBRy1GbHFFLTNTZno2OW1i...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXE5RVllVEFFUWRKV3o2V0RwOFVDcTFUaG5meF9Gc2d3d0hIWTM0TEJYN2tBNTFZZDM3WFhFVVJHdnpHMzVBdk8zbkQ0R0IxWWd1YWdnckxObDUyVVY1QXRXT1QzSXFtMHNyMlg2Z0IxbVoyQ0Y1MkhmMlVkcVJDdzFZRktBRy1GbHFFLTNTZno2OW1iVTAzRXk1T1ctS2RuNVYwc25pelk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 19:13"
+        "data_noticia": "22/05/2026 22:58"
       }
     },
     {
@@ -980,11 +963,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Senior UAE Official To RFE/RL: Restart Of Iran War Would Be 'Catastrophic' - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE44WnIyZUNFdHVCR050OEk4SGpoaVZpTzBEbjF4WVZhOEhKLVJweXVFLWxSU05iaXZpRy05M0Z1cFFrcUV2Qm5PS2hYQUhFTmd1a292ME9aRE1fOGhtWXNwWHl2UUdyeTN5RUVNTnRLY0M5Z0JBdzZKc2lFRdIBfkFVX3lxTE1wWFJwOU5QM0pkNXJZQXM0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44WnIyZUNFdHVCR050OEk4SGpoaVZpTzBEbjF4WVZhOEhKLVJweXVFLWxSU05iaXZpRy05M0Z1cFFrcUV2Qm5PS2hYQUhFTmd1a292ME9aRE1fOGhtWXNwWHl2UUdyeTN5RUVNTnRLY0M5Z0JBdzZKc2lFRdIBfkFVX3lxTE1wWFJwOU5QM0pkNXJZQXM0a2tZOGk1QWpTbUZfT0xwMnFxSGROTVQ5M0NUVEo2X3FjZ1Y3UVN6TFFsNXlhQjJNNXJNWDdYZHFDUWZ2dWNTbXVsMjdOclpUYlhFNTZHSF9kd0hSdjJTMFB1NlZZelI2aU9rWXVSQQ?oc=5",
+        "titulo_evento": "Iran war: 'Slight progress' in peace talks, Rubio says - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZk5IZEZDN1lLWXU5cjkzN0tyV0RVNTZYandnUEdhYTdNNEFXQTRKbG1Vd3hXN1lfMU5TOGpNQTZaU25CNHlFdnBBcnE0azZrWHRsTHJUaXFMekUwZFZabDl5S1QtaWxVV0NQdzllc25CM3JuS3RxRWVYNE5sMkVSZVRRZVRZUF9VTlU3eG94Yw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZk5IZEZDN1lLWXU5cjkzN0tyV0RVNTZYandnUEdhYTdNNEFXQTRKbG1Vd3hXN1lfMU5TOGpNQTZaU25CNHlFdnBBcnE0azZrWHRsTHJUaXFMekUwZFZabDl5S1QtaWxVV0NQdzllc25CM3JuS3RxRWVYNE5sMkVSZVRRZVRZUF9VTlU3eG94Yw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 19:43"
+        "data_noticia": "22/05/2026 21:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. says 'slight progress' in Iran talks amid uncertainty about whether war will resume - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzJHNWRhdWpuR1JNVTRhY1NXT2U5NVUwbFNla1lQZ0NJdWlMZmw1YndVNmJqNkFtSkR2bHBJVGxqcDZUMWNsVU5WOG1KcHVoNWlST09qU1VMTEw3Y2dNRFd6cm9wSXZkQnBrZjhqeU9iM0hqbFJ1RXQ4QjdKamJsLXh6OWMwbnlidnprdXlJNUVPYjdX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzJHNWRhdWpuR1JNVTRhY1NXT2U5NVUwbFNla1lQZ0NJdWlMZmw1YndVNmJqNkFtSkR2bHBJVGxqcDZUMWNsVU5WOG1KcHVoNWlST09qU1VMTEw3Y2dNRFd6cm9wSXZkQnBrZjhqeU9iM0hqbFJ1RXQ4QjdKamJsLXh6OWMwbnlidnprdXlJNUVPYjdXZzZxNE42R0JWYWFDMzdsU09Lb1dEcV9FQ05iY05DRnhhWV9pNHFYddIBwgFBVV95cUxNSlBkYURrQmVvOEhGMFdkYzdscWFWV21HMWJxU3Z6cWtZQmVVWmZvdVcxM0pMZk1lUWtPVkFRVzlETDIzeDJZN0E5cFFSa0lxdXRFNXgwY2hqUjRFa19xanlYQXBwbzRTcHJJT09KMFZnZEpkUHFYR0pXcTU3Ymxka0phMGxIRUIwRVdDRUVTZFA3R0w0Vzc2T1ZobWJQX0pHUHg2S3AtbVFJUWRIM3JPZ2ZFZFhzQnRIU1pKM1JoSlhzQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/05/2026 13:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Indian retailers raises fuel prices a third time in response to Iran war - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGRFSkpMUW1aZHNqUno4UDUtT2FSOFhpb0xKR1o4X2ZFRy1CSDJ6QzVzV2NyVUlwN0ZldVotMm5IR2JMSnZpT3pUSUZhenBlMnVONVl4cVR4ejdhdWpUUVc2Z2djaFFGRnJWU2wyaGJkd1FCZkgzLWxoWjJOOHBjd3V3bnhyaHRnNnJlcmU5Q3FHWTF6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGRFSkpMUW1aZHNqUno4UDUtT2FSOFhpb0xKR1o4X2ZFRy1CSDJ6QzVzV2NyVUlwN0ZldVotMm5IR2JMSnZpT3pUSUZhenBlMnVONVl4cVR4ejdhdWpUUVc2Z2djaFFGRnJWU2wyaGJkd1FCZkgzLWxoWjJOOHBjd3V3bnhyaHRnNnJlcmU5Q3FHWTF6RGtnRWxRSUd0X2ctNFZQOXR2Y254Y0R4QkZYOUZXcHZGdnc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/05/2026 00:56"
       }
     },
     {
@@ -1001,7 +1018,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
         "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 21:27"
+        "data_noticia": "23/05/2026 00:27"
       }
     },
     {
@@ -1014,11 +1031,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive: Qatari negotiating team in Tehran to try to help secure US-Iran deal to end war, says source - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQThBMGFCbXlrNFNIbHFpT2ZvTWNFMDFvMVI4ekMxTTBiZURGczRvR29KMWFiZVFmUWoxQ013ajNkZlNUYk9jYURmcHN1bnpqM0JheW9GQ3pubTYyWWtDdW1HWEFKYzE5bE5PMG9yZTJDd20tTVNQNXp4RlRXLU0yVVJodVo3VmRTVTN3TkhjWUxicnRq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQThBMGFCbXlrNFNIbHFpT2ZvTWNFMDFvMVI4ekMxTTBiZURGczRvR29KMWFiZVFmUWoxQ013ajNkZlNUYk9jYURmcHN1bnpqM0JheW9GQ3pubTYyWWtDdW1HWEFKYzE5bE5PMG9yZTJDd20tTVNQNXp4RlRXLU0yVVJodVo3VmRTVTN3TkhjWUxicnRqZVlSNVU1WDZhVFVwYzZSaGN0dnBjbDRSSmhRam9sb0VscWh5anljZXR3YVZYVHZmcXVyMw?oc=5",
+        "titulo_evento": "Senior UAE Official To RFE/RL: Restart Of Iran War Would Be 'Catastrophic' - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE44WnIyZUNFdHVCR050OEk4SGpoaVZpTzBEbjF4WVZhOEhKLVJweXVFLWxSU05iaXZpRy05M0Z1cFFrcUV2Qm5PS2hYQUhFTmd1a292ME9aRE1fOGhtWXNwWHl2UUdyeTN5RUVNTnRLY0M5Z0JBdzZKc2lFRdIBfkFVX3lxTE1wWFJwOU5QM0pkNXJZQXM0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44WnIyZUNFdHVCR050OEk4SGpoaVZpTzBEbjF4WVZhOEhKLVJweXVFLWxSU05iaXZpRy05M0Z1cFFrcUV2Qm5PS2hYQUhFTmd1a292ME9aRE1fOGhtWXNwWHl2UUdyeTN5RUVNTnRLY0M5Z0JBdzZKc2lFRdIBfkFVX3lxTE1wWFJwOU5QM0pkNXJZQXM0a2tZOGk1QWpTbUZfT0xwMnFxSGROTVQ5M0NUVEo2X3FjZ1Y3UVN6TFFsNXlhQjJNNXJNWDdYZHFDUWZ2dWNTbXVsMjdOclpUYlhFNTZHSF9kd0hSdjJTMFB1NlZZelI2aU9rWXVSQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 17:51"
+        "data_noticia": "22/05/2026 19:43"
       }
     },
     {
@@ -1026,16 +1043,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Economic confidence plummets in US amid Iran war, poll shows - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWoyWkswRjdVVzg1dlM4dFVPclE0REd3T1JBSzdCcDRpZjFPNWlESlh3eTEyOVhSZnQway1LRGVFUnNoOU9SRHpUV1Z5ZXVUSVpDcjR2U0I4NnB1STg5SFl5d1pzRllxcWI3SEtHYVBmZWtCYVA2bGdLUktWYmJEbnVEWG8wYldZdE5Ud2czRE5Mcmhf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWoyWkswRjdVVzg1dlM4dFVPclE0REd3T1JBSzdCcDRpZjFPNWlESlh3eTEyOVhSZnQway1LRGVFUnNoOU9SRHpUV1Z5ZXVUSVpDcjR2U0I4NnB1STg5SFl5d1pzRllxcWI3SEtHYVBmZWtCYVA2bGdLUktWYmJEbnVEWG8wYldZdE5Ud2czRE5McmhfRXZjSm5OT2Nnb1N0d3fSAacBQVVfeXFMTWhqejFQNUtjbUZwNXFBN2lEWUZOQkxEbUl2MUc3SzQwS1ZWcVdhSHdkVndLMDE0dm5GU2RnSmo4U2ZlRElMS1dsSmpvUzZpU1N6U1VjOUQ2aUJ1ek05Mzh3SDBBRUxWQ1JaUFNNWjFua2t2OGtzRXI1TWdEaVJCMU5yeVpRUWZGZ3Y5U3BSY2JROEFoYVdkVEltRjlUM2Nnam9GWE54M3c?oc=5",
+        "titulo_evento": "The Countries Profiting From the War Oil Shock, as Others Lose Out - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXE5RVllVEFFUWRKV3o2V0RwOFVDcTFUaG5meF9Gc2d3d0hIWTM0TEJYN2tBNTFZZDM3WFhFVVJHdnpHMzVBdk8zbkQ0R0IxWWd1YWdnckxObDUyVVY1QXRXT1QzSXFtMHNyMlg2Z0IxbVoyQ0Y1MkhmMlVkcVJDdzFZRktBRy1GbHFFLTNTZno2OW1i...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXE5RVllVEFFUWRKV3o2V0RwOFVDcTFUaG5meF9Gc2d3d0hIWTM0TEJYN2tBNTFZZDM3WFhFVVJHdnpHMzVBdk8zbkQ0R0IxWWd1YWdnckxObDUyVVY1QXRXT1QzSXFtMHNyMlg2Z0IxbVoyQ0Y1MkhmMlVkcVJDdzFZRktBRy1GbHFFLTNTZno2OW1iVTAzRXk1T1ctS2RuNVYwc25pelk?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 15:47"
+        "data_noticia": "22/05/2026 19:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official - UN News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5\" target=\"_blank\">Security Council LIVE: Human cost of Ukraine war, a pattern...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/05/2026 18:46"
       }
     },
     {
@@ -1052,7 +1086,41 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcmJGaFl5Si0yaXRJSUcxYld4MFVzaTl2YW5Vb2ppSnBwdVdUeGEzX25KSHBTaWlod0JrQU03dTJzT0JvMXJUY0p5TmhkX0lUNkhlWmpPcThfNVRiRXotWjFuaFlLV3pkUlMyN2E2a3Nvczd0REE?oc=5\" target=\"_blank\">Trump met top advi...",
         "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcmJGaFl5Si0yaXRJSUcxYld4MFVzaTl2YW5Vb2ppSnBwdVdUeGEzX25KSHBTaWlod0JrQU03dTJzT0JvMXJUY0p5TmhkX0lUNkhlWmpPcThfNVRiRXotWjFuaFlLV3pkUlMyN2E2a3Nvczd0REE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 20:33"
+        "data_noticia": "22/05/2026 21:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How the War in Iran Helped Ukraine Go From Problem to Solution - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5\" target=\"_blank\">How the War in Iran Helped Ukraine Go From Prob...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/05/2026 00:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Qatari team in Tehran for talks; Trump says skipping son’s wedding to stay in capital - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUG95dlRuT2N1akhBNDM5dUdYVlN4Q2tUd21OSDVPWTZXTlRyS2d4RE5FeGJLaUhfNnRNbFA3enQ2XzhSY0VIY1NLaTFfWUJqMHhmeEZlSDRyakxxdmxUdkhmM3RXdWxKaWxHSXoyeTVNRWM1aDJrS0V1MnpTcHlYYW5kMkdJM3BTSE8wdTJmTGlac3c2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUG95dlRuT2N1akhBNDM5dUdYVlN4Q2tUd21OSDVPWTZXTlRyS2d4RE5FeGJLaUhfNnRNbFA3enQ2XzhSY0VIY1NLaTFfWUJqMHhmeEZlSDRyakxxdmxUdkhmM3RXdWxKaWxHSXoyeTVNRWM1aDJrS0V1MnpTcHlYYW5kMkdJM3BTSE8wdTJmTGlac3c2a2MzUkI5b2hKS2l4Sm5USzVGNnEtMUdmZWRF0gG0AUFVX3lxTE1hY1poa0Z3d1hQOFJrVnlwMWkzTFFPZUZCdTIzVm5QSnZCZ0JYaWZfdTUzZ09fbmRoUThLMW1EdGJjdFNQMEhFQV9qQVM5c3RNTTF6WWpmUGtZSTVWQ0Y1NWNhSzR4SXNYVzd1TTNXd1NEUVRiV3NFZ2hGOTVMektmLUpOWmwzelpPcFVQdzlhNU5rTVV3bVpsbFpuemozckVsOEhiQUpEcno5cWVIbTdQcUNqTg?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "22/05/2026 23:21"
       }
     },
     {
@@ -1065,62 +1133,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. prepares for new military strikes against Iran - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0YydWZGVkNndld4N2RMN3pCNTB6U0lud2o1SlBBVDd6UjNPeUlYb2taRTl0UVBBY1ZmcEM2cUdPRVRoOFY2YnJZdGxYNHkzb0JCd0dTVWZqVVh5Z3ZnT2FvZk9maG4wbkFkdWQ4dEliMlBIemJsSlVQaTNkUXM5YdIBhgFBVV95cUxPbmoxbmJHMzhB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0YydWZGVkNndld4N2RMN3pCNTB6U0lud2o1SlBBVDd6UjNPeUlYb2taRTl0UVBBY1ZmcEM2cUdPRVRoOFY2YnJZdGxYNHkzb0JCd0dTVWZqVVh5Z3ZnT2FvZk9maG4wbkFkdWQ4dEliMlBIemJsSlVQaTNkUXM5YdIBhgFBVV95cUxPbmoxbmJHMzhBdmdIYnVOaVNUME9GbktiTDdwazVqNVViUUtvYzRfUHVyWjNHMTVaNkxEYUpPcFNLcDF0Q25hSlcwaG9EYkFzN0c1eWZoLWtCMWFFYnNEZm5XRTFQYU9CR3hCNVVWYkE5ellhRHhCcGxmbVRzV3FiQk43UDdKQQ?oc=5",
+        "titulo_evento": "Turkish National Intelligence Academy Calls Iran War “A Laboratory for Modern Warfare” - IranWire",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1dzV0lKMWZJd0VzR0VkckpmM21RS0JqU01DZGNqYmNOSTRlNzFLZmpLM3g0eDNSODV5UWNpRGxLdU5yRVg2RWdyaUFBTkQ5Y0QwUFJIVlVveTlwTi0tNnoxUXc3MWh5anZHcnQxWi1mRE5KSkpGTlNZMlROVGtSMXRoSnBFaEhGbHhFUnBVLXRoSjZU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1dzV0lKMWZJd0VzR0VkckpmM21RS0JqU01DZGNqYmNOSTRlNzFLZmpLM3g0eDNSODV5UWNpRGxLdU5yRVg2RWdyaUFBTkQ5Y0QwUFJIVlVveTlwTi0tNnoxUXc3MWh5anZHcnQxWi1mRE5KSkpGTlNZMlROVGtSMXRoSnBFaEhGbHhFUnBVLXRoSjZUVVdWcDRWemRpVlZjRk1qVlZmOFBEbmVWOFcwNmZrajhEWlBXXzJMZDdvVXp5V0k?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 22:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Washington Nationals Give Back to U.S. Military Community Through Club-Led Initiatives - MLB.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekh1dEJzZ0VGMVotR2lLQld6ekh5YlBydXlNd0t3dDRsbWI0d1Zla1ZlOV9GQzJsWkcwU0ttM21YVXgzaXQ1X1VPTi1idVNIZDhBekFKZXdPWS11UEVETnhUQVUzSFhoVmkxeHJnTEhYaGJtTWZjZlBzLWRGSnVWWmxFU3F2cnA1NGlwdHgyX0FaazBY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekh1dEJzZ0VGMVotR2lLQld6ekh5YlBydXlNd0t3dDRsbWI0d1Zla1ZlOV9GQzJsWkcwU0ttM21YVXgzaXQ1X1VPTi1idVNIZDhBekFKZXdPWS11UEVETnhUQVUzSFhoVmkxeHJnTEhYaGJtTWZjZlBzLWRGSnVWWmxFU3F2cnA1NGlwdHgyX0FaazBYd1RFSUF4UUNKbkNxZmh3dlRTYUNLcEpRMHg1MzVMVl91MkN5Rnhz0gG7AUFVX3lxTE16SHV0QnNnRUYxWi1HaUtCV3p6SHliUHJ1eU13S3d0NGxtYjR3VmVrVmU5X0ZDMmxaRzBTS20zbVhVeDNpdDVfVU9OLWJ1U0hkOEF6QUpld09ZLXVQRUROeFRBVTNIWGhWaTF4cmdMSFhoYm1NZmNmUHMtZEZKdVZabEVTcXZycDU0aXB0eDJfQVprMFh3VEVJQXhRQ0puQ3FmaHd2VFNhQ0twSlEweDUzNUxWX3UyQ3lGeHM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 20:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 20:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war resolution - LAist",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmRVOGFyRnJZZmZ0ZTl1dE9qUnFsVDJRbVZOWnVJR3VCMEp5TUFCUnB2ZzduaEsxWkt6X2JTWkphcTB4M2xoa3lmb0dCeGNkVFp6YkU1Q205UUpUUmhkeDRHbW91aWpLSGliWWdkY09PU3dfMmFMckdSQkxGU1BtUHBIRmZRV3JaZFU0bDRfSGowd3lG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmRVOGFyRnJZZmZ0ZTl1dE9qUnFsVDJRbVZOWnVJR3VCMEp5TUFCUnB2ZzduaEsxWkt6X2JTWkphcTB4M2xoa3lmb0dCeGNkVFp6YkU1Q205UUpUUmhkeDRHbW91aWpLSGliWWdkY09PU3dfMmFMckdSQkxGU1BtUHBIRmZRV3JaZFU0bDRfSGowd3lGYmtmWmVud1FUYjc3c1psSmhNNVVTNHR1VGx3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 17:03"
+        "data_noticia": "22/05/2026 22:53"
       }
     },
     {
@@ -1145,6 +1162,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global markets rise as Iran war uncertainty keeps oil elevated - Euronews.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xsWEFxSVUtTEZTOU81ZzA3aUFfMHhhMjRTeWQ2VUpPWjNVU3I1allWN1Rra0E2LUFKZDB5UE1kUzBkUEoyb2dYWkxuQk1nR3ZKRXJBQkctOHdxNlZkVGwzb3NNSi1tLVdOWmluTTd0RVFYWnNNVnpNNVBaOERaV2lNZmlXeU9CQ3ZYemwtY2kxUmxv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xsWEFxSVUtTEZTOU81ZzA3aUFfMHhhMjRTeWQ2VUpPWjNVU3I1allWN1Rra0E2LUFKZDB5UE1kUzBkUEoyb2dYWkxuQk1nR3ZKRXJBQkctOHdxNlZkVGwzb3NNSi1tLVdOWmluTTd0RVFYWnNNVnpNNVBaOERaV2lNZmlXeU9CQ3ZYemwtY2kxUmxvT3FHZjFFcFl4blRYUjZvb0ZtZnFEZFU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "22/05/2026 08:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1155,23 +1189,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDJOeE1reEFNZGxDOUswQmxGcktCY2JJQjdsMjByY3J0VkQ0bktOVVBtVklqNUc5b2dQa3c4QW1uSlQwZ0JHbFpJbjIyaGJxYjdXdkxubFNONGFfOGlSTVVVb3d2Vzk4dmRfTnh6ZFJNb0tLeXhTaHdlNmEtSDVaMXVpTzNOdEJ0ZjdJZmxHcC1OdnZGQTNjdGtjcXRQSHV4QU5XQldHVEVZQQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "22/05/2026 18:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global markets rise as Iran war uncertainty keeps oil elevated - Euronews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xsWEFxSVUtTEZTOU81ZzA3aUFfMHhhMjRTeWQ2VUpPWjNVU3I1allWN1Rra0E2LUFKZDB5UE1kUzBkUEoyb2dYWkxuQk1nR3ZKRXJBQkctOHdxNlZkVGwzb3NNSi1tLVdOWmluTTd0RVFYWnNNVnpNNVBaOERaV2lNZmlXeU9CQ3ZYemwtY2kxUmxv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0xsWEFxSVUtTEZTOU81ZzA3aUFfMHhhMjRTeWQ2VUpPWjNVU3I1allWN1Rra0E2LUFKZDB5UE1kUzBkUEoyb2dYWkxuQk1nR3ZKRXJBQkctOHdxNlZkVGwzb3NNSi1tLVdOWmluTTd0RVFYWnNNVnpNNVBaOERaV2lNZmlXeU9CQ3ZYemwtY2kxUmxvT3FHZjFFcFl4blRYUjZvb0ZtZnFEZFU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "22/05/2026 08:39"
       }
     }
   ]
