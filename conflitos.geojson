@@ -108,6 +108,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+        "descricao": "His comments come as both Kyiv and Moscow try to advance their interests on the battlefield.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "23/05/2026 10:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -210,23 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
-        "descricao": " Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "23/05/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -244,23 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Rubio tries to reassure Nato allies over US troop deployments",
-        "descricao": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-        "url_fonte": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "22/05/2026 15:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -271,6 +254,23 @@
         "url_fonte": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
         "categoria": "Economia (BBC World)",
         "data_noticia": "23/05/2026 03:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Rubio tries to reassure Nato allies over US troop deployments",
+        "descricao": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+        "url_fonte": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "22/05/2026 15:18"
       }
     },
     {
@@ -312,16 +312,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          -102.5528,
+          23.6345
         ]
       },
       "properties": {
-        "titulo_evento": "Xi Jinping urges 'all-out rescue' after coal mine explosion kills at least 90 in China",
-        "descricao": "Six emergency rescue teams consisting of 345 personnel have since been sent to the scene, the Xinhua state news agency reported on Saturday.",
-        "url_fonte": "http://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "23/05/2026 08:41"
+        "titulo_evento": "Mexico, EU sign stalled trade deal as they aim to diversify from US",
+        "descricao": "\nMexico and the European Union signed a long-stalled free trade agreement on Friday as they seek to decrease dependence on the U.S. and partially insulate themselves from ​U.S. President Donald ‌Trump's tariffs.\n",
+        "url_fonte": "https://www.france24.com/en/mexico-eu-sign-stalled-trade-deal-as-they-aim-to-diversify-from-us",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "23/05/2026 10:02"
       }
     },
     {
@@ -329,16 +329,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          -0.1278,
+          51.5074
         ]
       },
       "properties": {
-        "titulo_evento": "Pakistan's army chief arrives in Tehran as Rubio signals 'slight progress' in peace talks",
-        "descricao": "US President Donald Trump has described the stop-start negotiations this week as teetering on the \"borderline\" between a deal and renewed attacks.",
-        "url_fonte": "http://www.euronews.com/2026/05/23/pakistans-army-chief-arrives-in-tehran-as-rubio-signals-slight-progress-in-peace-talks",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "23/05/2026 08:18"
+        "titulo_evento": "War in the Middle East: US-Iran talks make headway",
+        "descricao": "\nAnahita Motazed Rad, Associate Fellow at the London School of Economics, is our guest.\n",
+        "url_fonte": "https://www.france24.com/en/war-in-the-middle-east-us-iran-talks-make-headway",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/05/2026 09:49"
       }
     },
     {
@@ -346,50 +346,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine strike on Starobilsk dormitory kills four in occupied Luhansk",
-        "descricao": "Ukrainian drone strike on a college dorm in Russian‑occupied Starobilsk killed four and wounded at least 35, while Russian drones also hit residential areas in Kherson.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/22/ukraine-strike-on-starobilsk-dormitory-kills-four-in-occupied-luhansk",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "22/05/2026 15:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran asserts jurisdiction over UAE and Oman waters in new Strait of Hormuz map",
-        "descricao": "Five Gulf states have formally warned shipping companies through the IMO not to comply, as analysts say Iran is deliberately expanding its claimed zone beyond even its own initial boundaries in a step-by-step assertion of territorial control.",
-        "url_fonte": "http://www.euronews.com/2026/05/22/iran-asserts-jurisdiction-over-uae-and-oman-waters-in-new-strait-of-hormuz-map",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "22/05/2026 13:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3666,
-          23.1136
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Cubans feel about the US indictment of Raúl Castro",
-        "descricao": "People in Havana reacted after US prosecutors indicted former Cuban leader Raúl Castro over the 1996 shootdown of planes operated by a Miami-based exile group, with several residents calling for dialogue instead of confrontation.",
-        "url_fonte": "http://www.euronews.com/2026/05/22/how-cubans-feel-about-the-us-indictment-of-raul-castro",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "22/05/2026 12:52"
+        "titulo_evento": "Activists allege Israeli sexual assault: Israeli officials deny accusations",
+        "descricao": "\nAdrien Berthel, Activist at Global Sumud France, is our guest.\n",
+        "url_fonte": "https://www.france24.com/en/activists-allege-israeli-sexual-assault-israeli-officials-deny-accusations",
+        "categoria": "Política (France 24)",
+        "data_noticia": "23/05/2026 09:47"
       }
     },
     {
@@ -448,84 +414,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Health workers struggle with Ebola outbreak as WHO declares highest risk level in DR Congo",
-        "descricao": "\nFirst, with at least 160 lives already feared lost, health workers in the DRC are racing against time to contain a deadly disease that spreads as fast as it kills. Also, a diplomatic rift with the European Union is widening over security funding in ...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/eye-on-africa/20260522-health-workers-struggle-with-ebola-outbreak-as-who-declares-highest-risk-level-in-dr-congo",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/05/2026 20:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin Xi, To Catch a Castro, Red Carpet Rebellion",
-        "descricao": "\nIt’s been a week marked by major geopolitical, legal and public health developments across several fronts.\n \nIn Washington, the Trump administration has indicted 94-year-old former Cuban president Raúl Castro over alleged murder and conspiracy to ki...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/the-world-this-week/20260522-putin-xi-to-catch-a-castro-red-carpet-rebellion",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/05/2026 19:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "From Serena to Coco: How to Coach a Tennis Superstar",
-        "descricao": "\nRoland Garros begins this weekend, as the world’s best players arrive in Paris for the 130th edition of the French Open.\n \nIn the men’s draw, world number one Jannik Sinner returns after last year’s epic final defeat to Carlos Alcaraz. In the women’...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20260522-from-serena-to-coco-how-to-coach-a-tennis-superstar",
-        "categoria": "Política (France 24)",
-        "data_noticia": "22/05/2026 19:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "French Gaza flotilla activists return to Paris, describe 'violent' detention by Israel",
-        "descricao": "\nThe first group of French activists from the Global Sumud aid flotilla returned to Paris on Friday after being detained and then deported by Israel amid international outcry. They described what they said was a violent, humiliating ordeal – includin...",
-        "url_fonte": "https://www.france24.com/en/france/20260522-french-gaza-flotilla-activists-return-to-paris-denounce-violent-detention-in-israel",
-        "categoria": "Política (France 24)",
-        "data_noticia": "22/05/2026 19:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump disappointed in NATO: Plan B?",
-        "descricao": "\nAs NATO foreign ministers gather in southern Sweden, fresh questions are growing over President Trump’s commitment to the alliance.\n \nThe message from Washington today came via Secretary of State Marco Rubio, amid continuing uncertainty over Article...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20260522-trump-disappointed-in-nato-plan-b",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/05/2026 19:15"
+        "titulo_evento": "Germany news: Germany marks Constitution Day",
+        "descricao": "Germany is commemorating the day its Basic Law came into effect 77 years ago. And a record number of German passports was issued in 2025, a media report says. DW has more.",
+        "url_fonte": "https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "23/05/2026 10:08"
       }
     },
     {
@@ -618,16 +516,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: 'Slight progress' in peace talks, Rubio says",
-        "descricao": "US Secretary of State Rubio said there was \"a little bit of movement\" in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements.",
-        "url_fonte": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "22/05/2026 15:10"
+        "titulo_evento": "EU reportedly nixes UK pitch for single market in goods",
+        "descricao": "The proposal comes as Britain’s embattled prime minister has vowed to put his country at the heart of Europe again. ",
+        "url_fonte": "https://www.politico.eu/article/eu-rejects-uk-single-market-proposal-trade-talks-brexit-relations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "23/05/2026 10:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Sweden backs Ukraine’s path to NATO, defense minister says",
+        "descricao": "Sweden’s Defense Minister Pål Jonson said Kyiv’s battle-tested army and fast-growing defense industry would strengthen the alliance, even as some NATO members remain opposed.",
+        "url_fonte": "https://www.politico.eu/article/sweden-defense-minister-backs-ukraine-nato-membership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "23/05/2026 09:54"
       }
     },
     {
@@ -679,40 +594,6 @@
         "url_fonte": "https://www.politico.eu/article/giorgia-meloni-friedrich-merz-urge-israel-halt-violence-west-bank-settler/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "22/05/2026 18:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia’s drone blame game fails to split Ukraine from its Baltic allies",
-        "descricao": "Despite stray Ukrainian drones crossing into NATO airspace, Kyiv's allies are standing firm.",
-        "url_fonte": "https://www.politico.eu/article/russia-drone-blame-game-fails-split-ukraine-baltic-allies/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "22/05/2026 17:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Europe's AI stocks shine through gloom of Iran war",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/sectors/technology/articles/europes-ai-stocks-shine-gloom-050604820.html",
-        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
       }
     },
     {
@@ -805,23 +686,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How the War in Iran Helped Ukraine Go From Problem to Solution - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5\" target=\"_blank\">How the War in Iran Helped Ukraine Go From Prob...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 09:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -832,6 +696,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0xrTW5YOXpZTlM3YmFKQzVXNlN2UUtDOEc0dldIUkh3dExmSVU0NmtvbThyTGs4ZTJVeFl1VkFQekZqS0ItTFhDYVQ3X09hRzN2S2taT1FYNjhPakE4OWJxM3p1V1BHcUxBQ0FRanpsZU16anhHRGVlQmwyRGdVeXVlM3QxczNNUWZNVldZM1l2QVNfc0dJ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "23/05/2026 05:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How many Russian soldiers died in the war with Ukraine - Mediazona",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/05/2026 09:32"
       }
     },
     {
@@ -861,11 +742,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How many Russian soldiers died in the war with Ukraine - Mediazona",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WdklFY0hTX1hVX0NJSEpRbDNIbG5YTzdlczhRVGRYbWVtRXktY216ZWl1c2hsQ2hyUUtYLTdjejM2VVlkS3Z1cGR3eEJlaVV1S3hhMVJoZHF5YTF2T2QwcjBvd25zNlNDVlFZ?oc=5",
+        "titulo_evento": "How the War in Iran Helped Ukraine Go From Problem to Solution - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5\" target=\"_blank\">How the War in Iran Helped Ukraine Go From Prob...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV25LWmdWQjB6b3lqdlFudkJjczkyOUNBOGV5SUtrTGFzaFpERkNoY1NweGE2SExGLXFNX2R3RHJ4UlNRTHEyYjlZMW9qeXAxVlM5T1o0TFZlRXdkV3JNag?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 09:32"
+        "data_noticia": "23/05/2026 03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "In Berlin, Cars Are a Culture War Flashpoint - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KS3N3dWFOMVdwSWR4Y0hvYXZRU1VxUlBkNG55Q2pQT0JrbGVOV0xVcGtBVThmRDJLQTFtYUpvVUZMMGtMYXpzcEhDdFozZTlkLUlIODhDMFFtVlRUclVJVl9IV0ZiV3FKLTFJUm4ycHBxbXd2WkE?oc=5\" target=\"_blank\">In Berlin, Cars Ar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KS3N3dWFOMVdwSWR4Y0hvYXZRU1VxUlBkNG55Q2pQT0JrbGVOV0xVcGtBVThmRDJLQTFtYUpvVUZMMGtMYXpzcEhDdFozZTlkLUlIODhDMFFtVlRUclVJVl9IV0ZiV3FKLTFJUm4ycHBxbXd2WkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/05/2026 10:44"
       }
     },
     {
@@ -907,40 +805,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Administration Updates: House Pulls Vote to Halt Iran War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5\" target=\"_blank\">Trump Administration Updates: House Pulls V...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 01:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Live - Iran downplays deal hopes as Pakistan pushes talks and US weighs strikes - ایران اینترنشنال",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE?oc=5\" target=\"_blank\">Live - Iran downplays deal hopes as Pakistan pushe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 07:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -950,7 +814,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGdNUHRiREpESUxxY0Z0WDZocGxZR2xMN1lOekZOSjQ2Q2k1XzBTQzM2S2ZjOHpISkVkaXhOQkxCWnoyZXFEWWZhVUNRRHN3M1JqTGdaejZsTGQ4LThuV0tVaFZsd3ZyRkQ4VVlQb3hJOGwxanNHTHFQR1pJQ1I1c1BKWVdCS2ZWOHhVcDJjREg4N1hX...",
         "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGdNUHRiREpESUxxY0Z0WDZocGxZR2xMN1lOekZOSjQ2Q2k1XzBTQzM2S2ZjOHpISkVkaXhOQkxCWnoyZXFEWWZhVUNRRHN3M1JqTGdaejZsTGQ4LThuV0tVaFZsd3ZyRkQ4VVlQb3hJOGwxanNHTHFQR1pJQ1I1c1BKWVdCS2ZWOHhVcDJjREg4N1hXUzNXb1pIRWlaTTTSAaQBQVVfeXFMTkh4VEFUd19SS1J1UnB5RGF6d3FfNEswTTFHaGNXeC1iWHJ3X3VQTk80UDdCNDBoeEx3NzJaYWkwOXhxT0tIRDIzdGhGUUJtVzN1Rk96X0Fod2lMelZObGJxNWd6RXdydHB5M2JpQml4VWc1M1phbmhDLXBKcDBXaGVVNmluSWFMRVBtX19xVjNHdURwR3h0Vzh2c2dHWDI3RjlMSEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 06:56"
+        "data_noticia": "23/05/2026 07:00"
       }
     },
     {
@@ -1009,6 +873,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Administration Updates: House Pulls Vote to Halt Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5\" target=\"_blank\">Trump Administration Updates: House Pulls V...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvVmI4TVlpOF93aVFzQm9HV0Z5VVZLM2hnbUZlVDRWMXRMNWJSUEpYYTdGUTFJUV9BYm5iZkZ4NkppMUdtSXZlWFFwQ1hCa0lhWnlZSXhJQXFNbDB1dVBaczFVUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/05/2026 01:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1031,79 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "titulo_evento": "Indian retailers raise fuel prices for a third time amid Iran war - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGRFSkpMUW1aZHNqUno4UDUtT2FSOFhpb0xKR1o4X2ZFRy1CSDJ6QzVzV2NyVUlwN0ZldVotMm5IR2JMSnZpT3pUSUZhenBlMnVONVl4cVR4ejdhdWpUUVc2Z2djaFFGRnJWU2wyaGJkd1FCZkgzLWxoWjJOOHBjd3V3bnhyaHRnNnJlcmU5Q3FHWTF6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGRFSkpMUW1aZHNqUno4UDUtT2FSOFhpb0xKR1o4X2ZFRy1CSDJ6QzVzV2NyVUlwN0ZldVotMm5IR2JMSnZpT3pUSUZhenBlMnVONVl4cVR4ejdhdWpUUVc2Z2djaFFGRnJWU2wyaGJkd1FCZkgzLWxoWjJOOHBjd3V3bnhyaHRnNnJlcmU5Q3FHWTF6RGtnRWxRSUd0X2ctNFZQOXR2Y254Y0R4QkZYOUZXcHZGdnc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 02:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump met top advisers on Iran as he weighs return to war - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcmJGaFl5Si0yaXRJSUcxYld4MFVzaTl2YW5Vb2ppSnBwdVdUeGEzX25KSHBTaWlod0JrQU03dTJzT0JvMXJUY0p5TmhkX0lUNkhlWmpPcThfNVRiRXotWjFuaFlLV3pkUlMyN2E2a3Nvczd0REE?oc=5\" target=\"_blank\">Trump met top advi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wcmJGaFl5Si0yaXRJSUcxYld4MFVzaTl2YW5Vb2ppSnBwdVdUeGEzX25KSHBTaWlod0JrQU03dTJzT0JvMXJUY0p5TmhkX0lUNkhlWmpPcThfNVRiRXotWjFuaFlLV3pkUlMyN2E2a3Nvczd0REE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 21:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Weighs His Options in Carrying Out New Strikes in Iran - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE96akNRd2FBY3V4R2JqMV83eDJ3TnFmR1AyQWlXc3RTWldDZm1ZV1oyRTRYWGllT3FzekVkT2kycU1DRThTcDhoMkxSWWZFZGI5SU56RUVCZjlIVFU5VTBDT2tONTFnakkzXzd4OWxkZk1oMGU3ZTBlY05n?oc=5\" target=\"_blank\">Trump Weighs ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96akNRd2FBY3V4R2JqMV83eDJ3TnFmR1AyQWlXc3RTWldDZm1ZV1oyRTRYWGllT3FzekVkT2kycU1DRThTcDhoMkxSWWZFZGI5SU56RUVCZjlIVFU5VTBDT2tONTFnakkzXzd4OWxkZk1oMGU3ZTBlY05n?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 02:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official - UN News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5\" target=\"_blank\">Security Council LIVE: Human cost of Ukraine war, a pattern...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURFhzOHR4Q2FMd21WVE82LW5NcUY3ZzR3Z2JLU0dYOWZyRG9qaWx6Y1FKN3V6ZFZqMTRyN1JGNW9IbXlVanAyaFcxREp2Y1JKUl9IbkpzYw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/05/2026 18:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Washington Week with The Atlantic | Hegseth’s turbulent time leading the U.S. military | Season 2026 - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUJ2cFdTSDNCb2RsLWg3MENOWW1QRjBEa2tNeDYzRGJWaVc5VGhKSjd3UGRET05LT3ozdVFCV3ZNQVJXYTR4Y2lhR09MZ09uYWVOb0FUTGEteGFRbmstT3JFQ1ZLMTA5YXpqQ2xxYlk0V210M3VsZmtXdFRYU0RVSGhLTUtFQU53?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUJ2cFdTSDNCb2RsLWg3MENOWW1QRjBEa2tNeDYzRGJWaVc5VGhKSjd3UGRET05LT3ozdVFCV3ZNQVJXYTR4Y2lhR09MZ09uYWVOb0FUTGEteGFRbmstT3JFQ1ZLMTA5YXpqQ2xxYlk0V210M3VsZmtXdFRYU0RVSGhLTUtFQU53?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/05/2026 03:20"
+        "data_noticia": "23/05/2026 00:56"
       }
     },
     {
@@ -1121,6 +934,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlRjX1UtUnlnS3dZVkVia2JDTjRlVUV5S0Fvb2N5RXpnTnRxRld1Ul9GNTY4ZkVySDhJcFcwcXZmZG1UNzdnYXRsbWV2bnRyZ21fY1dIUDFhRVRRNWlxZ3BOajNFcWhyVEhBT3AzMGFmN0FqaG1NTm1kRTBkRkJuZlpYZ00zV3F1VEduamRvLTd2QzdaNGV4RWNnSjFjdl9HX1lFaGNGdl_SAagBQVVfeXFMUDZUY19VLVJ5Z0t3WVZFYmtiQ040ZVVFeUtBb29jeUV6Z050cUZXdVJfRjU2OGZFckg4SXBXMHF2ZmRtVDc3Z2F0bG1ldm50cmdtX2NXSFAxYUVUUTVpcWdwTmozRXFoclRIQU9wMzBhZjdBamhtTU5tZEUwZEZCbmZaWGdNM1dxdVRHbmpkby03dkM3WjRleEVjZ0oxY3ZfR19ZRWhjRnZf?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "23/05/2026 08:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How war on Iran affects world economy beyond energy - Tehran Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVN0SzFteHZucGFqaHRheVdhRERZY080cktXenc3VE83TmhueDBwWkEyLTJqTGxwbC12SWxFLUZ1SEVwWjd4TkVIbF9fZVdOT0VoQ21SVDEwQXNGN1d3cmlJVzcyNDZKSWRpSlU5YXZRNTdCT1FEUFBjcXpNV284NFZIUjJ3SUNoOVJqMjJlaXNZVUlp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVN0SzFteHZucGFqaHRheVdhRERZY080cktXenc3VE83TmhueDBwWkEyLTJqTGxwbC12SWxFLUZ1SEVwWjd4TkVIbF9fZVdOT0VoQ21SVDEwQXNGN1d3cmlJVzcyNDZKSWRpSlU5YXZRNTdCT1FEUFBjcXpNV284NFZIUjJ3SUNoOVJqMjJlaXNZVUlpU0E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "23/05/2026 09:54"
       }
     }
   ]
