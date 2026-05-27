@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies",
+        "descricao": "<p>Is it too late to stop criminals and American adversaries from exploiting AI to conduct cyberattacks or design novel pathogens? Has regulation kept pace with the threat civilian drones pose to critical infrastructure? AI researcher Lennart Heim, A...",
+        "url_fonte": "https://warontherocks.com/cogs-of-war/synthetic-biology-drones-and-ai-the-risks-of-dual-use-technologies/",
+        "categoria": "Defesa/Conflito (War on the Rocks)",
+        "data_noticia": "27/05/2026 08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -84,6 +101,57 @@
         "url_fonte": "https://warontherocks.com/rebuilding-american-manufacturing-a-keystone-for-economic-statecraft/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "26/05/2026 07:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran have launched multiple attacks during ceasefire: A timeline",
+        "descricao": "Washington carried out new strikes on southern Iran, while Tehran downed a US drone and fired at a fighter jet.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "27/05/2026 10:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
+        "descricao": "Crackdown on 50 firms is rooted in Bishkek&#039;s own worries of being sanctioned, say analysts.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "27/05/2026 09:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel claims head of Hamas military wing killed in Gaza strike",
+        "descricao": "There was no immediate response from the Palestinian group after Israel claimed Mohammed Odeh killed.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "27/05/2026 08:51"
       }
     },
     {
@@ -176,84 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          34.4668,
+          31.5017
         ]
       },
       "properties": {
-        "titulo_evento": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
-        "descricao": "At least 31 people have been killed in Israeli attacks across southern Lebanon.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/05/2026 04:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
-        "descricao": "UN Secretary-General Guterres said he was “deeply concerned” after Russia announced plans to strike Ukraine.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/05/2026 00:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
-        "descricao": "Lebanon&#039;s Health Ministry reports that Israeli attacks have killed 3,213 people and injured 9,737 since March 2.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/05/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Did Trump oversell a broken Iran ceasefire deal?",
-        "descricao": "The US and Iran appear closer to a broader agreement, but disputes over sanctions relief remain.",
-        "url_fonte": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "26/05/2026 19:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel says new head of Hamas' military wing killed in Gaza City strikes",
-        "descricao": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.",
+        "titulo_evento": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+        "descricao": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
         "url_fonte": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "27/05/2026 06:24"
+        "data_noticia": "27/05/2026 09:55"
       }
     },
     {
@@ -271,6 +271,23 @@
         "url_fonte": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "27/05/2026 04:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Woman caught after 30 years on the run is jailed for armed robberies",
+        "descricao": "Klette was finally caught in a flat in Berlin in 2024 after more than 30 years on the run and put on trial last year.",
+        "url_fonte": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "27/05/2026 10:27"
       }
     },
     {
@@ -305,6 +322,91 @@
         "url_fonte": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "26/05/2026 23:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "IRGC warns Iran's coast will become a 'graveyard' if US strikes resume",
+        "descricao": "An IRGC Navy official threatened to turn Iran's entire Gulf coastline into a killing ground if the US resumed strikes, even as negotiators reported the two sides were closer to an initial agreement than at any point since the April ceasefire.",
+        "url_fonte": "http://www.euronews.com/2026/05/27/irgc-warns-irans-coast-will-become-a-graveyard-if-us-strikes-resume",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/05/2026 12:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "In war-torn Gaza, Palestinians mark Eid al-Adha among the rubble",
+        "descricao": "Palestinians in the Gaza Strip marked Eid al-Adha on 27 May under the shadow of war, gathering for prayers in heavily damaged areas of Khan Younis and Gaza City.",
+        "url_fonte": "http://www.euronews.com/video/2026/05/27/in-war-torn-gaza-palestinians-mark-eid-al-adha-among-the-rubble",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/05/2026 12:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Thousands rally in Tbilisi as Georgia marks Independence Day with pro-EU protests",
+        "descricao": "Protesters in Tbilisi denounce Georgian Dream, accusing it of stalling EU accession, eroding civil liberties and pushing the country towards Russia.",
+        "url_fonte": "http://www.euronews.com/video/2026/05/27/thousands-rally-in-tbilisi-as-georgia-marks-independence-day-with-pro-eu-protests",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/05/2026 12:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine’s drone commander warns Lukashenka about 500 potential targets in Belarus",
+        "descricao": "Amid rising tensions with Minsk, Ukrainian military commander issued a warning to Aliaksandr Lukashenka and warned him against Belarus' deeper involvement n Russia’s all-out war.",
+        "url_fonte": "http://www.euronews.com/2026/05/27/ukraines-drone-commander-warns-lukashenka-about-500-potential-targets-in-belarus",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/05/2026 09:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New head of Hamas' military wing killed in strike on Gaza, Israel says",
+        "descricao": "Israeli Prime Minister Benjamin Netanyahu's office described Odeh as one of the \"architects\" of the October 7 attacks.",
+        "url_fonte": "http://www.euronews.com/2026/05/27/new-head-of-hamas-military-wing-killed-in-strike-on-gaza-israel-says",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/05/2026 09:32"
       }
     },
     {
@@ -363,84 +465,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Gaza’s displaced brace for a bleak Eid al‑Adha amid war and soaring prices",
-        "descricao": "Displaced families in Gaza Strip are facing another difficult Eid al-Adha, as war, shortages and soaring prices leave many unable to buy sacrificial animals or properly observe one of Islam’s most important religious celebrations.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/26/gazas-displaced-brace-for-a-bleak-eid-aladha-amid-war-and-soaring-prices",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/05/2026 09:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea fires projectiles including ballistic missile into Yellow Sea, Seoul says",
-        "descricao": "The North has also repeatedly shunned efforts by the South Korean government to improve relations, repeatedly calling Seoul its most \"hostile\" adversary.",
-        "url_fonte": "http://www.euronews.com/2026/05/26/north-korea-fires-projectiles-including-ballistic-missile-into-yellow-sea-seoul-says",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/05/2026 08:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Western Europe swelters as late May heat dome shatters records",
-        "descricao": "Western Europe faces record late-May heat, with France, the UK and Spain sweltering up to 11C above normal and officials warning of rising health risks.",
-        "url_fonte": "http://www.euronews.com/video/2026/05/26/western-europe-swelters-as-late-may-heat-dome-shatters-records",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/05/2026 08:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gulf braces for Iran's response as US strikes shake peace talks",
-        "descricao": "Tehran has vowed a \"far more severe\" response beyond the region after overnight US strikes on missile sites and boats planting mines in southern Iran, even as both sides say negotiations toward a Hormuz deal are still on.",
-        "url_fonte": "http://www.euronews.com/2026/05/26/us-military-says-it-has-launched-new-strikes-in-iran-including-on-missile-launch-sites",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/05/2026 05:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mexico set to host Iranian football team during World Cup",
-        "descricao": "The future of Iran's World Cup campaign has been thrown into doubt by the Trump administration's military attacks and the ensuing chaos in the Middle East and beyond.",
-        "url_fonte": "http://www.euronews.com/2026/05/25/mexico-set-to-host-iranian-football-team-during-world-cup",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "25/05/2026 18:31"
+        "titulo_evento": "USAID was shut down 'to soothe ego' of Musk, whistleblower says",
+        "descricao": "\nIn an interview with FRANCE 24, Nicolas Enrich, a former senior USAID official-turned-whistleblower, said the US agency was dismantled not to cut waste but \"to soothe the ego of the world's richest man\", then DOGE head Elon Musk. Enrich warned that ...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260527-usaid-was-shut-down-to-soothe-ego-of-musk-whistleblower-says",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/05/2026 09:55"
       }
     },
     {
@@ -499,13 +533,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East war live: New strikes threaten ceasefires in Iran, Lebanon",
-        "descricao": "\nTehran on Tuesday accused Washington of breaching their ceasefire and warned it was ready to retaliate after overnight US strikes as Israeli bombardment in Lebanon left dozens dead, threatening an increasingly fragile truce there. Follow our liveblo...",
+        "titulo_evento": "Middle East war live: Iran Revolutionary Guard official says renewed war with the US unlikely",
+        "descricao": "\nThe deputy political chief of Iran's Revolutionary Guard said on Wednesday that the possibility of a renewed war with the United States was \"low'\", but warned that Iran's armed forces were \"lying in wait with full magazines\" against any future attac...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "27/05/2026 01:48"
@@ -652,16 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "Israel issues fresh evacuation orders in south Lebanon despite ceasefire",
-        "descricao": "\nIsrael has issued an evacuation order for residents in the southern Lebanese town of Nabatiyeh, warning of fresh strikes against Hezbollah, despite a ceasefire. It comes after Israeli Prime Minister Benjamin Netanyahu promised to intensify attacks o...",
-        "url_fonte": "https://www.france24.com/en/video/20260526-israel-issues-fresh-evacuation-orders-in-south-lebanon-despite-ceasefire",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "26/05/2026 15:30"
+        "titulo_evento": "Spain: Police raid HQ of ruling PSOE Socialist party in graft probe",
+        "descricao": "Police have searched the headquarters of Prime Minister Pedro Sanchez's PSOE party investigating possible illegal payments. Sanchez meanwhile said he was still standing by former PM Jose Luis Rodriguez Zapatero.",
+        "url_fonte": "https://www.dw.com/en/spain-police-raid-hq-of-ruling-psoe-socialist-party-in-graft-probe/a-77312442?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "27/05/2026 11:30"
       }
     },
     {
@@ -669,16 +703,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Iran looking to 'buy time to rebuild its military' amid talks to end war",
-        "descricao": "\nIran accused the United States of breaching their ceasefire and warned it was ready to retaliate after overnight US strikes targeting Iranian missile sites and mine-laying boats. Despite the strikes, the US is adamant that a deal was within reach, a...",
-        "url_fonte": "https://www.france24.com/en/iran-looking-to-buy-time-to-rebuild-its-military-amid-talks-to-end-war",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "26/05/2026 15:29"
+        "titulo_evento": "Germany news: Economy minister eyes resources in China visit",
+        "descricao": "Germany's economy minister is in China and has called for the two countries to become more trusting partners. Meanwhile, a former chancellor has warned against any cooperation with the far-right AfD. DW has the latest.",
+        "url_fonte": "https://www.dw.com/en/germany-news-economy-minister-eyes-resources-in-china-visit/live-77308383?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "27/05/2026 09:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East: Israel says Hamas' armed wing chief killed",
+        "descricao": "Israel's military said Mohammad Odeh, head of the militant group's armed wing, was killed in strikes in Gaza — just days after his predecessor was also killed. DW has more.",
+        "url_fonte": "https://www.dw.com/en/middle-east-israel-says-hamas-armed-wing-chief-killed/live-77308741?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "27/05/2026 08:09"
       }
     },
     {
@@ -822,40 +873,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Unseasonal May heat wave grips Europe",
-        "descricao": "The UK and France have registered record May temperatures as western Europe swelters under a \"heat dome.\" Such extremes are occurring more often as the planet warms.",
-        "url_fonte": "https://www.dw.com/en/unseasonal-may-heat-wave-grips-europe/a-77291415?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "26/05/2026 08:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany news: More than 1,900 missing children",
-        "descricao": "Authorities say there are 1,933 missing children cases nationwide, up 6.8% from the year before. And, travellers in Germany seem nervous when it comes to air travel, amid the war in Iran, a survey suggests.",
-        "url_fonte": "https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "25/05/2026 10:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.3517,
           50.8503
         ]
@@ -866,6 +883,40 @@
         "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/kallas-von-der-leyen-and-the-rivalry-over-eu-intelligence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "27/05/2026 04:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls amid US-Iran talks, AI boom",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-falls-amid-us-iran-talks-ai-boom-222255952.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil Prices Fall as Uneasy Truce Holds Between U.S. and Iran",
+        "descricao": "Traders are weighing signals that a more lasting agreement may be within reach against recent flare-ups in hostilities.",
+        "url_fonte": "https://www.nytimes.com/2026/05/27/business/oil-gas-price-iran.html",
+        "categoria": "Economia (NYT Business)",
+        "data_noticia": "27/05/2026 10:46"
       }
     },
     {
@@ -890,16 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Oil Prices Fall Sharply on News of Possible Iran Deal",
-        "descricao": "The cost of crude hit a one-month low and S&P 500 futures were up as investors assessed the prospects for a lasting peace deal.",
-        "url_fonte": "https://www.nytimes.com/2026/05/24/business/oil-stocks-gas.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "25/05/2026 21:40"
+        "titulo_evento": "Granddaughter Honors World War II Soldier Killed in France - thewarhorse.org",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBPME5HQWxYR25ZS3RqZlVtekh6ak0xWkJGMHZzSkw2cUxGVzJ2UVFLdUQ2ZjhSX3dRd1U0ZVV2WkNybXpPbGUtTjhjOHdsSnBjU0c4SmJfblVoeXNxbkF3VjEwTDVaeGRaamc?oc=5\" target=\"_blank\">Granddaughter Honors World War II ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPME5HQWxYR25ZS3RqZlVtekh6ak0xWkJGMHZzSkw2cUxGVzJ2UVFLdUQ2ZjhSX3dRd1U0ZVV2WkNybXpPbGUtTjhjOHdsSnBjU0c4SmJfblVoeXNxbkF3VjEwTDVaeGRaamc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 11:00"
       }
     },
     {
@@ -916,7 +967,75 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RX3J1OVFNWlNsbXF2S1E2elJpdkxUQnhTbkdDTUdhcl96amVGYjIxNGR3RjRndXVjVUdWUVZYMFE4aUp2ZE9UVjNvMFR3b011S2YxV0drV2VPbG1wdldKMDlQaXVsNHd0eFZyVw?oc=5\" target=\"_blank\">As Delegations Gather in Qatar ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RX3J1OVFNWlNsbXF2S1E2elJpdkxUQnhTbkdDTUdhcl96amVGYjIxNGR3RjRndXVjVUdWUVZYMFE4aUp2ZE9UVjNvMFR3b011S2YxV0drV2VPbG1wdldKMDlQaXVsNHd0eFZyVw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 05:04"
+        "data_noticia": "27/05/2026 10:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war splits global markets into clear winners and losers - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3JBNm9iSW1POHNTQjJuVUFsOWFMSEU2T1ZLSEpQRHhPNkc3WWV5WEM2Z1ZBd1BTeTl3ZzVITEg4VjFsd0hGb1pzRG94N1E0STQwUTRVZnh6cDRYUGVuRUxJODAwelh4V0FJVmdBbFd1SWF4RnNSb1JaR3VvQW5JQl96bVBHLVpD?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3JBNm9iSW1POHNTQjJuVUFsOWFMSEU2T1ZLSEpQRHhPNkc3WWV5WEM2Z1ZBd1BTeTl3ZzVITEg4VjFsd0hGb1pzRG94N1E0STQwUTRVZnh6cDRYUGVuRUxJODAwelh4V0FJVmdBbFd1SWF4RnNSb1JaR3VvQW5JQl96bVBHLVpD?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 08:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Shoot down drones yourself, Russia tells its banks - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTJVTlVkTlo4amtoemNBOTRkaTk4NURfY1U2OGZ6Ni1STjZxNnJUS2Z2Y3duRG94TFctVzdURWt4Nzh0aXVjMm9EeTg1emkxVEIwdDREcFo4Nks1MmhfYVJxTEFUdGk2YmlLN0lPaHVzYmtFV21sV2FOZlFNb2hrRVpROFllTEdPZmVyaU5UTlpIOGxP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTJVTlVkTlo4amtoemNBOTRkaTk4NURfY1U2OGZ6Ni1STjZxNnJUS2Z2Y3duRG94TFctVzdURWt4Nzh0aXVjMm9EeTg1emkxVEIwdDREcFo4Nks1MmhfYVJxTEFUdGk2YmlLN0lPaHVzYmtFV21sV2FOZlFNb2hrRVpROFllTEdPZmVyaU5UTlpIOGxPS25RS1MyV01Hdm5Wd3dEUDR4TUNJbS1ibDBmU2M2Q3dlT00?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 09:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Did Not Win the Meme War - Time Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE4tcjFkQ1VRWGZZMG5qNDdIRXdfX2xjTVEtWVNhbVdHWEVwNnNtaGx1OGgydGZQNVhMeHlIbjUyaF8zdUhqNGJ6WHg0NWRuWVBjdnF5c3lEbFZ0Y3RSbDZTWUtBTDNTTnhSZU1kMjZrQ1BXdw?oc=5\" target=\"_blank\">Iran Did Not Win the Me...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tcjFkQ1VRWGZZMG5qNDdIRXdfX2xjTVEtWVNhbVdHWEVwNnNtaGx1OGgydGZQNVhMeHlIbjUyaF8zdUhqNGJ6WHg0NWRuWVBjdnF5c3lEbFZ0Y3RSbDZTWUtBTDNTTnhSZU1kMjZrQ1BXdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 10:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2RwMkU0cmowYUpqU3k0RGkyQzVhWXFxQ2lyYkR4NlBERVFlQ2ZPTS15NUZXenI0TERnVnBDdERTZDBNT216cjdOb0tnbFlZbEp0eXQzdkwwZw?oc=5\" target=\"_blank\">Mohammed Odeh: Israeli strike in Gaza kills new head of...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X2RwMkU0cmowYUpqU3k0RGkyQzVhWXFxQ2lyYkR4NlBERVFlQ2ZPTS15NUZXenI0TERnVnBDdERTZDBNT216cjdOb0tnbFlZbEp0eXQzdkwwZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 09:55"
       }
     },
     {
@@ -946,11 +1065,79 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran war spending drains US military budgets, triggering cancelled trainings, delayed maintenance - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeHg1SDNpbGRHVFRGTVNscnk1MXFiTjFsUjdwZ0h3d0dhaVZocmpRSlZUUENaMG1CNHhkckdxQl9EbmpvOHZSM1pQN1lfb1dBMENoSGdqNEhyOTNpV3pQU3UyS0NaNkgyMDNEekx2Y21Cdk1NS0ZSQ2MzczdXMEJyTGV6czE2em0zV3pnV3R1NmVvTDN1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHg1SDNpbGRHVFRGTVNscnk1MXFiTjFsUjdwZ0h3d0dhaVZocmpRSlZUUENaMG1CNHhkckdxQl9EbmpvOHZSM1pQN1lfb1dBMENoSGdqNEhyOTNpV3pQU3UyS0NaNkgyMDNEekx2Y21Cdk1NS0ZSQ2MzczdXMEJyTGV6czE2em0zV3pnV3R1NmVvTDN1eUpLMlBXU25SQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak11bmJ0aENrSXdzN28zazRIeDI4OTZjSFRyUE1zRkR2b1U0TnJ5bFdDQ1NjdkNqbi1XdjlzLXRyci04Yy1FeVJxRmc0SENFZEFvZWxxQmxDUUpOcWxCeUk0dGtKX2FuZ3lZQWJ5bkdkdzdva1RCZ0p1UHFvUlFKV0Q5T2lqckE2cllEbGQzZW1kMlNF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak11bmJ0aENrSXdzN28zazRIeDI4OTZjSFRyUE1zRkR2b1U0TnJ5bFdDQ1NjdkNqbi1XdjlzLXRyci04Yy1FeVJxRmc0SENFZEFvZWxxQmxDUUpOcWxCeUk0dGtKX2FuZ3lZQWJ5bkdkdzdva1RCZ0p1UHFvUlFKV0Q5T2lqckE2cllEbGQzZW1kMlNFSlZCUV81RE9zQWhFV2ZTdVczbVdwd9IBrwFBVV95cUxOMmRZT0RfTDBPYW1OTUpBMXBJcThaemNHcUFBOE5CeEVscUFiUUpjdVBha2Z3R1l6UTZtYkdtcWlNTHdhR0ljeXRaZzQ3aHV4emJFQ2NmTERvc0ZtYjhDOXVnb2tIaHZWQmZSNkQ3OVBoZWRJd0xhWVhzTGtBYVpWVkNTSC1XMGhwNUpXUWtoRFRkT2VmWVhwNGpiV09MVFJPci1zdVUtbjhsWEpDeEFN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 06:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel claims head of Hamas military wing killed in Gaza strike - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkF4TDZsS1NienRYTXdNT3dGUzJxODBES3lCVkFCN29VZjRQdmFqNDlOLXdaV0dzMFJFTVphaFlPVlVJNUJ6Vmx3UzU1OVhnenpfTHhNSktPMEd5c01qVmdfbUdjMk5uLXgycHNZWkQ2RC1WXzBVTFlSM1daMXBLSzlGWk9ZeE01ckExdVJQeUhBOGhr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkF4TDZsS1NienRYTXdNT3dGUzJxODBES3lCVkFCN29VZjRQdmFqNDlOLXdaV0dzMFJFTVphaFlPVlVJNUJ6Vmx3UzU1OVhnenpfTHhNSktPMEd5c01qVmdfbUdjMk5uLXgycHNZWkQ2RC1WXzBVTFlSM1daMXBLSzlGWk9ZeE01ckExdVJQeUhBOGhrdFJrSmpybWd6NC1ZaWNxcUVhRdIBrAFBVV95cUxOSnVTRWtzZDJJUTRTa1hFQm8xMnZCdlA1ZkVnZGp4RHZ5YVkwZ1ZiTEU3M0ptVzdnaTZnU3QtRlNhWmFWYllSeUNvdERiZ1lmYjMtcFUyeENGTGFOcVVEbjRoYmVRZU5rYlZ4VEExLURBVzAzN0tQdzJHMTlWNDNsTndTdTdmRzBYc0VfUEtVTXFaMU9YMTMtQVJaZV9TeWZPLWF0bDBVeERLOVRI?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "What we know and don’t know about the possible deal to end the Iran war - AP News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS0Fva0xTNHk4UHNGOGpyaUJhcF83dXFnVmdUbkJPM095dWJjSlFwYWFvU2x2SHprYU9Zb2dDWFBZS1J1TXhrWnJvX2pNbUdSbWpjWi1WY1hGUzBvSVlQYzBid3VTdXllZ0J3bkRPdDRSSWZwMkZkcnhaRDFKWHc1QllpZ2FFQjBRcTM2ZGJtWUlQNHd5...",
         "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0Fva0xTNHk4UHNGOGpyaUJhcF83dXFnVmdUbkJPM095dWJjSlFwYWFvU2x2SHprYU9Zb2dDWFBZS1J1TXhrWnJvX2pNbUdSbWpjWi1WY1hGUzBvSVlQYzBid3VTdXllZ0J3bkRPdDRSSWZwMkZkcnhaRDFKWHc1QllpZ2FFQjBRcTM2ZGJtWUlQNHd5dW9VdDA2SWNMdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "27/05/2026 02:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Revolutionary Guards official: Low possibility of renewed war due to 'enemy's weakness' - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNWktta296SjBNVGZTdFNpWU1CT1VLRDB3bXN3aVFGWXhzczE5Ym1FRmdxZENyeHF0d0hTdHRoQTRiU3gzTkNHRlpsb2FxM0pRTVYzNGpYaGNtRloxZHgyMDRqVXFpR0h6SWV3YXgyckRmSkY1M1JPNlBaOVFTSkVJUG16enZZS0VEdGxWbWxwemVsT1NK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWktta296SjBNVGZTdFNpWU1CT1VLRDB3bXN3aVFGWXhzczE5Ym1FRmdxZENyeHF0d0hTdHRoQTRiU3gzTkNHRlpsb2FxM0pRTVYzNGpYaGNtRloxZHgyMDRqVXFpR0h6SWV3YXgyckRmSkY1M1JPNlBaOVFTSkVJUG16enZZS0VEdGxWbWxwemVsT1NKT01vOVZ3WGQxOTZlVFRUUjdzLWhHMVB5ZVBzMGg0Y1ZkV0ZvS2dfSFNROHVYWW9XNU5yekVfSkRQWU0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/05/2026 08:03"
       }
     },
     {
@@ -975,16 +1162,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive: Pentagon spars with SpaceX over Starlink price hike during Iran war - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUljVEJaNEJUaGgyZVVOd3Z5SS13OEltSVFPU1ZEc3UtcFpxNVE0VTZjZzVRV2F5Q0J2UHJtV2xZVmczbTlIYlVfZ2JielRqbGFSVktwZzVyRV9QVm4tTkhoVFdLS3kxeTZSVzBzaTM1b3Q1T1E1dllTSXhOWVQwSXVNUXAydEJySXU1anJackpLUHB0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUljVEJaNEJUaGgyZVVOd3Z5SS13OEltSVFPU1ZEc3UtcFpxNVE0VTZjZzVRV2F5Q0J2UHJtV2xZVmczbTlIYlVfZ2JielRqbGFSVktwZzVyRV9QVm4tTkhoVFdLS3kxeTZSVzBzaTM1b3Q1T1E1dllTSXhOWVQwSXVNUXAydEJySXU1anJackpLUHB0YllPaWtxb0FSZkQybEtnOGhpUjNKNDdnYjR5dDhzWHBOdU8wN09ocDdTeXpZZHppR3R0VnBR?oc=5",
+        "titulo_evento": "War. Heat. Cigarettes. - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ld3lOdVN6V25jd0pRajZUR1RCeU80aFFteEQ5M2VXblU0UmR2Ykd0YUFBUVlrSDNWNFFVT1FWNUl6aWZTdnZhZ3J1amRaTjk1Y1dhaXEwVGJpYVprSjhuZFJMN1p4bmZvemx5STE4ZWJmU2tfaUhN?oc=5\" target=\"_blank\">War. Heat. Cigare...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ld3lOdVN6V25jd0pRajZUR1RCeU80aFFteEQ5M2VXblU0UmR2Ykd0YUFBUVlrSDNWNFFVT1FWNUl6aWZTdnZhZ3J1amRaTjk1Y1dhaXEwVGJpYVprSjhuZFJMN1p4bmZvemx5STE4ZWJmU2tfaUhN?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/05/2026 18:50"
+        "data_noticia": "27/05/2026 10:54"
       }
     },
     {
@@ -992,33 +1179,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "‘Makes no sense’: experts doubt pause in US arms sale to Taiwan is due to Iran war - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORFdHYW5lMmpZaXUwanRDZC04MC1lSEhnOExSQkt4Z1htR0NWbVlWb3hydEtSMjRaWTRWdEZCZXpvOVh3T2pxOW5sYkVCTGo4WDYyazZvMHZ5cnRNWFR5NTBiV0tSWjRONURTWWJxNGZ5NlV1TldEZTFTcE9LcEFKWWtCWHVDWTMxQlBuNEVsQ19VaXhu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFdHYW5lMmpZaXUwanRDZC04MC1lSEhnOExSQkt4Z1htR0NWbVlWb3hydEtSMjRaWTRWdEZCZXpvOVh3T2pxOW5sYkVCTGo4WDYyazZvMHZ5cnRNWFR5NTBiV0tSWjRONURTWWJxNGZ5NlV1TldEZTFTcE9LcEFKWWtCWHVDWTMxQlBuNEVsQ19VaXhualFpdUhDVkFqc2JlU2V5TzZmZUdsUFlM?oc=5",
+        "titulo_evento": "Europe Is Starting to Think Putin Will Expand the War Beyond Ukraine - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0F1TEdGMERTeExfbGtsa3lBMTlFT2IxTVhWV2pNX2lwMldKdlFRazBNcFZISGlJM0QtRzVmTnBLRXpBZk0tNHRkVEgyYmVCNU1MWHlEQUJyN0RwVHFHQThwZ005S3B2TVU2VV80eWY5UzhFd2pMNWtSS0t2U2lQeQ?oc=5\" target=\"_blank\">Eur...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0F1TEdGMERTeExfbGtsa3lBMTlFT2IxTVhWV2pNX2lwMldKdlFRazBNcFZISGlJM0QtRzVmTnBLRXpBZk0tNHRkVEgyYmVCNU1MWHlEQUJyN0RwVHFHQThwZ005S3B2TVU2VV80eWY5UzhFd2pMNWtSS0t2U2lQeQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 02:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak11bmJ0aENrSXdzN28zazRIeDI4OTZjSFRyUE1zRkR2b1U0TnJ5bFdDQ1NjdkNqbi1XdjlzLXRyci04Yy1FeVJxRmc0SENFZEFvZWxxQmxDUUpOcWxCeUk0dGtKX2FuZ3lZQWJ5bkdkdzdva1RCZ0p1UHFvUlFKV0Q5T2lqckE2cllEbGQzZW1kMlNF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak11bmJ0aENrSXdzN28zazRIeDI4OTZjSFRyUE1zRkR2b1U0TnJ5bFdDQ1NjdkNqbi1XdjlzLXRyci04Yy1FeVJxRmc0SENFZEFvZWxxQmxDUUpOcWxCeUk0dGtKX2FuZ3lZQWJ5bkdkdzdva1RCZ0p1UHFvUlFKV0Q5T2lqckE2cllEbGQzZW1kMlNFSlZCUV81RE9zQWhFV2ZTdVczbVdwd9IBrwFBVV95cUxOMmRZT0RfTDBPYW1OTUpBMXBJcThaemNHcUFBOE5CeEVscUFiUUpjdVBha2Z3R1l6UTZtYkdtcWlNTHdhR0ljeXRaZzQ3aHV4emJFQ2NmTERvc0ZtYjhDOXVnb2tIaHZWQmZSNkQ3OVBoZWRJd0xhWVhzTGtBYVpWVkNTSC1XMGhwNUpXUWtoRFRkT2VmWVhwNGpiV09MVFJPci1zdVUtbjhsWEpDeEFN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 06:04"
+        "data_noticia": "27/05/2026 02:00"
       }
     },
     {
@@ -1048,147 +1218,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump might not have a good way out of the Iran war - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVhPZHVmVEotZ3JSMGpGbWV1T2xVckpaWldkNnVlMERWRVhtNnNrZlN6SlJ0NW52a2xRTGIwLV9yZ2hZTmFuMjYtNzZmbjB5S1Etbms3elJKRkVzaEcySV9mb2VBc21EWnIyZElqSzRQY0tjV2ZVeU5wR21PY0ZDaFNkbnM?oc=5\" target=\"_blank...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVhPZHVmVEotZ3JSMGpGbWV1T2xVckpaWldkNnVlMERWRVhtNnNrZlN6SlJ0NW52a2xRTGIwLV9yZ2hZTmFuMjYtNzZmbjB5S1Etbms3elJKRkVzaEcySV9mb2VBc21EWnIyZElqSzRQY0tjV2ZVeU5wR21PY0ZDaFNkbnM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 04:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Shoot down drones yourself, Russia tells its banks - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTJVTlVkTlo4amtoemNBOTRkaTk4NURfY1U2OGZ6Ni1STjZxNnJUS2Z2Y3duRG94TFctVzdURWt4Nzh0aXVjMm9EeTg1emkxVEIwdDREcFo4Nks1MmhfYVJxTEFUdGk2YmlLN0lPaHVzYmtFV21sV2FOZlFNb2hrRVpROFllTEdPZmVyaU5UTlpIOGxP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTJVTlVkTlo4amtoemNBOTRkaTk4NURfY1U2OGZ6Ni1STjZxNnJUS2Z2Y3duRG94TFctVzdURWt4Nzh0aXVjMm9EeTg1emkxVEIwdDREcFo4Nks1MmhfYVJxTEFUdGk2YmlLN0lPaHVzYmtFV21sV2FOZlFNb2hrRVpROFllTEdPZmVyaU5UTlpIOGxPS25RS1MyV01Hdm5Wd3dEUDR4TUNJbS1ibDBmU2M2Q3dlT00?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 00:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. military launches new strikes in Iran - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0wyQVNKWGxqWW8zczA0ZllhNmh4YWFxWFF5Q0oyWW0tMkpSTjQwZnJOSUllek80eHFxS3liTWotMjUzZVpWV2IzQUozcGhhTFM0ZmxzVkh2UU15WEhDdy1aelFZQk0zN2poakQ1Q1ZxYkhfUVZ5MVpEYlB3NzUzUDA5X2pFcHJoUC03Z256Mkx2NWpB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0wyQVNKWGxqWW8zczA0ZllhNmh4YWFxWFF5Q0oyWW0tMkpSTjQwZnJOSUllek80eHFxS3liTWotMjUzZVpWV2IzQUozcGhhTFM0ZmxzVkh2UU15WEhDdy1aelFZQk0zN2poakQ1Q1ZxYkhfUVZ5MVpEYlB3NzUzUDA5X2pFcHJoUC03Z256Mkx2NWpBVHYzU3NSOFJ1dlZZWVhuNUhpb3pIdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/05/2026 19:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Opinion | Do Russians support the Ukraine war? This poll is remarkable. - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTVUZEZlanpPNjZ1TW0ybzRHM2E4WGR3NFQyT09iRF9wOWVwWmtEVXJVaUR1b2o4VjFEanBlUmNMZlJ5WU1wZGZBNzM1aHZNRk1UOGRhYXAwZW40ajhXN1l3MFZFbnFfazNMb0Jmd2NoT0g3TVZ5MTVYb2d6OV9hbno3U05sQnBlSmxsVFJNcHJDSTAy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTVUZEZlanpPNjZ1TW0ybzRHM2E4WGR3NFQyT09iRF9wOWVwWmtEVXJVaUR1b2o4VjFEanBlUmNMZlJ5WU1wZGZBNzM1aHZNRk1UOGRhYXAwZW40ajhXN1l3MFZFbnFfazNMb0Jmd2NoT0g3TVZ5MTVYb2d6OV9hbno3U05sQnBlSmxsVFJNcHJDSTAyNmZhTlFtUUZjNzZwdU5vWXUwbmIxUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/05/2026 18:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGQyVkpsZlRYbVJRY2dXbmlWWXkteHJkM1pHVThpbjJNRWp3ZnhVbzhJUmJ3YnQySnRJQnN5ZFIxb0h2WlFIcXBjRy1SUGNYbVFDY3BtZTFOWHJHWGNxN2w2SENEZEpjdkg1cWh0OGZBZVdTeUI5YXh3WEFPRXNxa0F6S1hYX0xPLTNwb0phZExCdU13...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGQyVkpsZlRYbVJRY2dXbmlWWXkteHJkM1pHVThpbjJNRWp3ZnhVbzhJUmJ3YnQySnRJQnN5ZFIxb0h2WlFIcXBjRy1SUGNYbVFDY3BtZTFOWHJHWGNxN2w2SENEZEpjdkg1cWh0OGZBZVdTeUI5YXh3WEFPRXNxa0F6S1hYX0xPLTNwb0phZExCdU13TmpwY2hlbDUzODZXcnRiSk1XYmpJMEXSAbABQVVfeXFMTk1PYkNxRE1KaFY3d1BiS01JWHRvUjB5SGNnejNTakJlWmFUMk5YaG9QeXExYTFxWTB4ZnFmNXgyeFExUHBQWjc0YmlndVo0NnhwOWVYcUZhQ1kyUGdyTXpDVnBfb0FSdi1WQnBuZ0E4LV9uaERXOGFzVU9fajg3ajlBWXJOc1dfa2xwWDF3VG5mSU9sQ2RfYS10TWlxV2g4bFF6R3NzSGRKZndUSWh3LVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 06:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Inflation post Iran war this time will be 'wider, deeper and more persistent': Economist - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVR0MFNuUWt1SWdvckpQdTBIbFNmNmxPQjNEVEZ6SjZFNWNYYXRDRTUzQjdxLWFRTGtLa1VDdlVBaldOM21FdGcybGxJQ3JtNHhfTWJja1lKeTdUWVFHNW04TVZGeHhiUy1yMFI3RGREVzRoRUNGNDhoY2RDOHYybjdMR3c1NEZfNEgxWkdnZnBiTUg3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVR0MFNuUWt1SWdvckpQdTBIbFNmNmxPQjNEVEZ6SjZFNWNYYXRDRTUzQjdxLWFRTGtLa1VDdlVBaldOM21FdGcybGxJQ3JtNHhfTWJja1lKeTdUWVFHNW04TVZGeHhiUy1yMFI3RGREVzRoRUNGNDhoY2RDOHYybjdMR3c1NEZfNEgxWkdnZnBiTUg3anpBZ0RuVkM4cGJWVDVpcm9wUF80Um8?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 03:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Harvest of Chaos: The U.S. and Israel War on Iran - CounterPunch.org",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXhDWHI0TUhueG5Pb2EwS0pCVWs2ZGtBdlhETHVvaEdzN1l3R0pUMl9BZzVFbFZkTzdnQU9TeDNMLVkxcVZuR0NKaENNSFkxeEE4Zk1PQllDU1dKeHdfQTNPbVhfTE1NWlAzbFVnOE8tTmxMVFdselVMOHZvbWt2ZXdCMWVhN2RNaG9sNzBUb0lmdw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXhDWHI0TUhueG5Pb2EwS0pCVWs2ZGtBdlhETHVvaEdzN1l3R0pUMl9BZzVFbFZkTzdnQU9TeDNMLVkxcVZuR0NKaENNSFkxeEE4Zk1PQllDU1dKeHdfQTNPbVhfTE1NWlAzbFVnOE8tTmxMVFdselVMOHZvbWt2ZXdCMWVhN2RNaG9sNzBUb0lmdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 05:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Has Iran won the war by not losing? - Engelsberg Ideas",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1VcU9Ra21aY2hFTzduM0RNT3pKMGhVVmtmSkNkb0l2SHZiZXJGSjJOLXRZODlOT3RQTDd5YmE4aHRvdGlxWWF3SmN1QklMR1lRZ3BXUkhiY2d0VjVkaC03Vmc5NmNTS0dTZm5nQmNmT2NVNGFnSGZDUzRjZG4?oc=5\" target=\"_blank\">Has Iran w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VcU9Ra21aY2hFTzduM0RNT3pKMGhVVmtmSkNkb0l2SHZiZXJGSjJOLXRZODlOT3RQTDd5YmE4aHRvdGlxWWF3SmN1QklMR1lRZ3BXUkhiY2d0VjVkaC03Vmc5NmNTS0dTZm5nQmNmT2NVNGFnSGZDUzRjZG4?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/05/2026 06:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Kyiv hosts Belarus opposition leader as Moscow drags Minsk closer to war - Atlantic Council",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29yZW5PeTQyRXZCYUxDQnNWSW9MWHJ2VUdITC0zdWRCaEllYndlX1YwZUVQZ3VDSGh3eFY2aUU1aDhUQ3ptdkpBUGlRMmxpRk96cmxpSE5QMFB5MHpNbGxEMlNJeUxGRUg1N0tyOWpVZ0xqMUNjSnUzZ2N1R2stTm9uY3BuenB2djN3T3ZUN1ppcGhv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29yZW5PeTQyRXZCYUxDQnNWSW9MWHJ2VUdITC0zdWRCaEllYndlX1YwZUVQZ3VDSGh3eFY2aUU1aDhUQ3ptdkpBUGlRMmxpRk96cmxpSE5QMFB5MHpNbGxEMlNJeUxGRUg1N0tyOWpVZ0xqMUNjSnUzZ2N1R2stTm9uY3BuenB2djN3T3ZUN1ppcGhvODFWcGlkWUVHb0hFSE5ldGE2dHFDSUpvU0NKNzNPRDdZcHdWWnFjZ0xXa0RhZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/05/2026 19:26"
+        "titulo_evento": "Iran war splits global markets into clear winners and losers - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3JBNm9iSW1POHNTQjJuVUFsOWFMSEU2T1ZLSEpQRHhPNkc3WWV5WEM2Z1ZBd1BTeTl3ZzVITEg4VjFsd0hGb1pzRG94N1E0STQwUTRVZnh6cDRYUGVuRUxJODAwelh4V0FJVmdBbFd1SWF4RnNSb1JaR3VvQW5JQl96bVBHLVpD?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3JBNm9iSW1POHNTQjJuVUFsOWFMSEU2T1ZLSEpQRHhPNkc3WWV5WEM2Z1ZBd1BTeTl3ZzVITEg4VjFsd0hGb1pzRG94N1E0STQwUTRVZnh6cDRYUGVuRUxJODAwelh4V0FJVmdBbFd1SWF4RnNSb1JaR3VvQW5JQl96bVBHLVpD?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "27/05/2026 08:58"
       }
     },
     {
@@ -1213,6 +1247,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "AMD’s Radeon RX 9070 GRE may soon hit global markets outside of China - DLCompare.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0dKdC1oNVlRaXdETjdQS0dEaTduMkFwallfZmlpZWtWSDdLaGhERDIxcmFzOHNhdHZ6cFFxNm1lSmdzR3RGWXgwN05VMXVuSE44c2tDLVB2QzJwTVNid3d4eUVSTktzc0Y5VktYbkxNTlM4TjlDelFUdHVZMGl3ODVGTXJKLTc5eU8zZ0QtOFB0T1lK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0dKdC1oNVlRaXdETjdQS0dEaTduMkFwallfZmlpZWtWSDdLaGhERDIxcmFzOHNhdHZ6cFFxNm1lSmdzR3RGWXgwN05VMXVuSE44c2tDLVB2QzJwTVNid3d4eUVSTktzc0Y5VktYbkxNTlM4TjlDelFUdHVZMGl3ODVGTXJKLTc5eU8zZ0QtOFB0T1lKeFIzckpyQ1lSWWgwN0pVeDhzbXJwTU5iZkwwWEJuOA?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/05/2026 11:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Exclusive | China’s date with Dutch trade minister on cards for early July: source - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTURSU04wN25KN3UzSlVhOFBYUFhWdnVTMVNYelpjWWxTclExalMyODFPSmh3LUM5UUs2c2toR1kydjBaVnNvdFhpV0lKNzFIb0g1MXhDRUQ3U21VX2x2RTlka3lCQzFlU2ZRRDgyTGNwU3M1NC1NbjBULU81SWdtSzJtTWYySGtQb1JQMDhCcmtWeTdT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTURSU04wN25KN3UzSlVhOFBYUFhWdnVTMVNYelpjWWxTclExalMyODFPSmh3LUM5UUs2c2toR1kydjBaVnNvdFhpV0lKNzFIb0g1MXhDRUQ3U21VX2x2RTlka3lCQzFlU2ZRRDgyTGNwU3M1NC1NbjBULU81SWdtSzJtTWYySGtQb1JQMDhCcmtWeTdTNl9HNzlzN2lsLU8zUVk5N0ZjV2xza2dBaVB6bXJBcmxoV0NfQUdxSkh1VTVMbWhPajBXaFhYMzPSAcwBQVVfeXFMUFNxZFhqRDc1VUhoOXZwejVHMEJxa0s1QWh1STc3RTBJcjFWX3U5enJodFlFUElPdHpjaVMwelRMYlZDbEIyaXRJNkMtMWQxa3g4WEZ5ZXhJTlQ0cjVYcjh1Q1hzb1JNdklDeXF6SkVoS2UtUlNRdTZfUlhvWDBLTnRfUE8yckZVOFRDUDRmTlFLNmVMZWQ2Z0lkUFFtd0dLcUFYNjMyTGhTaU1qOE9fWWMwd2FHVExOUURQZDJzNkJRS3Q5bGNkSVB1SDFN?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/05/2026 11:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China’s permanently bigger foothold in global PP markets - ICIS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V3d1VNS3dIMXRwOTZaaW94MG12SUVFckREVlFNQjRnZUlNak5pQmpWNVV2TzlqTHpzRDdfTXNCVW9NQ1JkMEpwR2k4akFNZDNmNUVPTHZId1NvWkRHM3RqdVhVMHVUMjNDc2twYVJ0ZEQ2SG8wOUM5QXkxUVFvZGhZQ21DWkxtU2pFVzNJTk1PSGcx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V3d1VNS3dIMXRwOTZaaW94MG12SUVFckREVlFNQjRnZUlNak5pQmpWNVV2TzlqTHpzRDdfTXNCVW9NQ1JkMEpwR2k4akFNZDNmNUVPTHZId1NvWkRHM3RqdVhVMHVUMjNDc2twYVJ0ZEQ2SG8wOUM5QXkxUVFvZGhZQ21DWkxtU2pFVzNJTk1PSGcxVlRDaXp4Tm1CVVVOeFh0OVZsNVVvOW5tckRiTmxn?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/05/2026 10:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada's BMO posts higher profit on capital markets strength - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNW9NVlZpNUl2RlNFTUFYaWg1enY5QVVkQWZySkRPSDdNeDNENm8tbGd6NVo4MzBHSmxmaVpVQk9yUlhYMEQzNl9wSmpCMjFZZVVDNjBrbEJnQWJXbk53SkN3cXRDYjFSTnVVUVJOR1FmUzRyN3FOZ3pVd25MRHhtTjhzVXZWR1ltcWltUHVJcTRVUFNN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNW9NVlZpNUl2RlNFTUFYaWg1enY5QVVkQWZySkRPSDdNeDNENm8tbGd6NVo4MzBHSmxmaVpVQk9yUlhYMEQzNl9wSmpCMjFZZVVDNjBrbEJnQWJXbk53SkN3cXRDYjFSTnVVUVJOR1FmUzRyN3FOZ3pVd25MRHhtTjhzVXZWR1ltcWltUHVJcTRVUFNNRFpyS0xZYUxhQndIdzFN?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/05/2026 10:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -1235,62 +1337,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Asian Stocks Set to Rise as Iran Deal Hopes Hold: Markets Wrap - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEg3Zm4yNjJHN3BXZ2tfTGh0MFJDVDQ0UmNmSGQybkVOZU1QQ0tWT0U1c3JHRTQ4d05MM1BiYWZRTWUtRG9pMUhLbG5KcVl2WE5tYW9mUkh4VnlnVXZ1bk9XblFHalRYdUkyRVZvSDY2Wk1nakd4QmVIdVJiTDZ2OHpNakRpSFJRNXdrUUFQRG9tUTJZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEg3Zm4yNjJHN3BXZ2tfTGh0MFJDVDQ0UmNmSGQybkVOZU1QQ0tWT0U1c3JHRTQ4d05MM1BiYWZRTWUtRG9pMUhLbG5KcVl2WE5tYW9mUkh4VnlnVXZ1bk9XblFHalRYdUkyRVZvSDY2Wk1nakd4QmVIdVJiTDZ2OHpNakRpSFJRNXdrUUFQRG9tUTJZR0JsNXBkWUU2MVFxMFpRYzVxODN1ZEdzb2tBbWx3?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "27/05/2026 05:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gulf states face investment downturn as Iran war disrupts markets and global capital flows - Crypto Briefing",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1adVZpYTFhOHJVVGdvLUpJV0FXVGxUYjVQaHF6VkhxWW01elh3eU1TdUxKUzJCc3NYdVZtT0tUVXdMQWFjeEloZnM2NFpPOWJhclM3ZFE5WTRBVUVZU1VHalJaM0tOLWNKUzBXbVk3ZUgySHVaeWhN?oc=5\" target=\"_blank\">Gulf states face ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1adVZpYTFhOHJVVGdvLUpJV0FXVGxUYjVQaHF6VkhxWW01elh3eU1TdUxKUzJCc3NYdVZtT0tUVXdMQWFjeEloZnM2NFpPOWJhclM3ZFE5WTRBVUVZU1VHalJaM0tOLWNKUzBXbVk3ZUgySHVaeWhN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "27/05/2026 07:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Shares scale new peaks as markets eye shaky US-Iran truce; kiwi jumps - Reuters",
+        "titulo_evento": "Shares advance, oil prices ease as investors weigh shaky US-Iran truce - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ?oc=5\" target=\"_blank\"...",
         "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdV9qQk1melo5ZHFLUTQwdUptamlUWFQyVzRzZHNMVTkwVDdWcDgzaVhiYUMwSHZwU0VyTVJZT3lCMTRlTVozVnNEek1aNkNTdW1Ha1JmUXlweHhrbUZCX2dQb1ZZb052bFktd0ROSmhtNDVTblc0RjFpamdUeFFKX2NlRQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "27/05/2026 00:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Podcast - Venezuela Sanctions in Practice: What Financial Institutions Need to Know - Holland & Knight",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUndLUGoxNlpRR1dOVWJJYmpwS0FpREhyR3hKX096VjlxeUM1VXJHaUpqWWlaZEItd2piNXBhcHJqazdPM3pteXJua05WVjZ6bUlsdHlqSmYxN0J0c29TY3FXQjVTTW5MWXFVTGxDZGgtekE2ZDg2Zmdzd1BSLXd5RTdJZlFfRzhSeVJrSTkwX0ZzaXdR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUndLUGoxNlpRR1dOVWJJYmpwS0FpREhyR3hKX096VjlxeUM1VXJHaUpqWWlaZEItd2piNXBhcHJqazdPM3pteXJua05WVjZ6bUlsdHlqSmYxN0J0c29TY3FXQjVTTW5MWXFVTGxDZGgtekE2ZDg2Zmdzd1BSLXd5RTdJZlFfRzhSeVJrSTkwX0ZzaXdRcVJ3UmxPOU8?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "26/05/2026 14:38"
       }
     }
   ]
