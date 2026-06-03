@@ -74,23 +74,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon chief sounds ‘alarm’ over China’s buildup, urges allies to boost defense spending",
-        "descricao": "Hegseth urged Asian allies to ramp up military spending to counter China’s growing power.",
-        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "01/06/2026 22:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -152,6 +135,57 @@
         "url_fonte": "https://warontherocks.com/the-toll-booth-at-the-throat-of-world-trade/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "02/06/2026 07:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kuwait labels Iran attack ‘heinous aggression’",
+        "descricao": "Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "03/06/2026 21:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+        "descricao": "Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "03/06/2026 21:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+        "descricao": "US secretary of state dodges question at congressional hearing on Washington&#039;s position on Israel&#039;s nuclear programme.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "03/06/2026 20:38"
       }
     },
     {
@@ -232,45 +266,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Israel detains Palestine international women’s football player",
-        "descricao": "Rand Halawani&#039;s detention also saw four other women arrested on Tuesday, including a former Palestine player.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "03/06/2026 13:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-        "descricao": "Squad&#039;s visas for the US haven&#039;t been issued, with Marco Rubio saying IRGC-linked members won&#039;t be allowed to &#039;embed&#039;. ",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "03/06/2026 13:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
         "titulo_evento": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
         "descricao": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
         "url_fonte": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/06/2026 19:10"
+        "data_noticia": "03/06/2026 21:19"
       }
     },
     {
@@ -287,7 +287,7 @@
         "descricao": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. ",
         "url_fonte": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/06/2026 14:02"
+        "data_noticia": "03/06/2026 20:05"
       }
     },
     {
@@ -390,6 +390,108 @@
         "url_fonte": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "02/06/2026 23:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel's military campaign in Lebanon threatens to derail US-Iran peace talks",
+        "descricao": "Israel continued to launch attacks at Lebanon, despite US President Donald Trump's heated phone call on Monday in an effort to salvage the peace deal with Iran.",
+        "url_fonte": "http://www.euronews.com/2026/06/03/israels-military-campaign-in-lebanon-threatens-to-derail-us-iran-peace-talks",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "03/06/2026 15:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2245,
+          39.3999
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Empty stations and cancelled trains as nationwide strike hits Portugal",
+        "descricao": "A general strike in Portugal disrupted transport, schools and hospitals as unions protested labour reforms they say weaken workers' rights.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/03/empty-stations-and-cancelled-trains-as-nationwide-strike-hits-portugal",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "03/06/2026 13:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iranian drone attack causes heavy damage to Kuwait airport as US and Iran trade strikes",
+        "descricao": "Kuwait suspended commercial flights after drones heavily damaged its international airport, hours after Iran fired missiles at Kuwait and Bahrain and the US struck an Iranian military facility on Qeshm Island. Iran's IRGC said it had targeted the US ...",
+        "url_fonte": "http://www.euronews.com/2026/06/03/iranian-drone-attack-causes-heavy-damage-to-kuwait-airport-as-us-and-iran-trade-strikes",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "03/06/2026 10:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US and Iran exchange new strikes as ceasefire talks falter over Israel's military actions in Lebanon",
+        "descricao": "Iran fired missiles toward Kuwait and Bahrain but failed to hit their targets, with two of those fired at Kuwait falling apart en route, while those aimed at Bahrain were intercepted, the US Central Command said.",
+        "url_fonte": "http://www.euronews.com/2026/06/03/us-and-iran-exchange-new-strikes-as-ceasefire-talks-falter-over-israels-military-actions-i",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "03/06/2026 06:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘You’re f****** crazy’: Trump clashes with Netanyahu as Lebanon tensions rise",
+        "descricao": "Trump rebukes Benjamin Netanyahu over Lebanon escalation, warning strikes risk isolating Israel and derailing Iran talks, according to reports",
+        "url_fonte": "http://www.euronews.com/2026/06/02/youre-f-crazy-trump-clashes-with-netanyahu-as-lebanon-tensions-rise",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "02/06/2026 19:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "IRGC says Iran has more 'trump cards' up its sleeve as talks hang by a thread",
+        "descricao": "A senior IRGC general said Iran had not revealed all its military capabilities and was ready for direct confrontation with the US and NATO, as hardliners linked to acting IRGC commander Ahmad Vahidi were identified as the force behind Monday's suspen...",
+        "url_fonte": "http://www.euronews.com/2026/06/02/irgc-says-iran-has-more-trump-cards-up-its-sleeve-as-talks-hang-by-a-thread",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "02/06/2026 18:20"
       }
     },
     {
@@ -709,7 +811,7 @@
       },
       "properties": {
         "titulo_evento": "Taliban, Russia are cozying up to each other — why?",
-        "descricao": "Russia and the Afghan Taliban have signed a deal on repairing Soviet-era and Russian-made weapons, a seemingly small move in a larger game involving the US, Pakistan, and Moscow's efforts to curb Western influence.",
+        "descricao": "Russia and the Afghan Taliban have signed a deal on repairing Soviet-era and Russian-made weapons, a seemingly small move in a larger game involving the US, Pakistan and Moscow's efforts to curb Western influence.",
         "url_fonte": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "03/06/2026 14:28"
@@ -839,6 +941,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelenskyy presses allies for missiles as NATO arms funding lags",
+        "descricao": "NATO chief Mark Rutte suggested Kyiv's allies had donated $1 billion for the alliance's PURL scheme — far behind a $12 billion goal set for this year.",
+        "url_fonte": "https://www.politico.eu/article/zelenskyy-presses-allies-for-missiles-as-nato-arms-funding-lags/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "03/06/2026 21:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US House votes to halt Iran war in stinging rebuke of Trump",
+        "descricao": "The House vote to halt the Iran war, while largely symbolic, further stymies the administration's political priorities during a week where the GOP has already scuttled several of the president’s goals.",
+        "url_fonte": "https://www.politico.com/news/2026/06/03/iran-war-powers-house-trump-00949175?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "03/06/2026 21:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -873,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "Trump chides Netanyahu over Lebanon bombings amid Iran war negotiation standstill",
-        "descricao": "But he insisted his relationship with the Israeli prime minister remains strong.",
-        "url_fonte": "https://www.politico.com/news/2026/06/03/trump-netanyahu-iran-war-00948154?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "03/06/2026 15:26"
+        "titulo_evento": "TD Securities Remains Bullish on Royal Bank of Canada (RY)",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/markets/stocks/articles/td-securities-remains-bullish-royal-141417467.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -899,7 +1035,7 @@
         "descricao": "Iranian drones struck Kuwait’s main international airport and the United States and Iran exchanged strikes.",
         "url_fonte": "https://www.nytimes.com/2026/06/03/business/oil-prices-iran-war.html",
         "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "03/06/2026 13:52"
+        "data_noticia": "03/06/2026 20:16"
       }
     },
     {
@@ -980,11 +1116,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump chides Netanyahu over Lebanon bombings amid Iran war negotiation standstill - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRUVNbnJyQm5VOHBWQXVza0Z0WU90MnFqeENVT2xhZzU1bV9aMjdMZlZQS1VHeVAwdE5QdnFldmpGSHJsdkFUREdCZ2dvSUJGNnBWb1N5MThMbTA1cG1nRXgzN2pZanVnNEYxVDRVSWR1S1NKcVEyaWd0RUxKSDQ?oc=5\" target=\"_blank\">Trump ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRUVNbnJyQm5VOHBWQXVza0Z0WU90MnFqeENVT2xhZzU1bV9aMjdMZlZQS1VHeVAwdE5QdnFldmpGSHJsdkFUREdCZ2dvSUJGNnBWb1N5MThMbTA1cG1nRXgzN2pZanVnNEYxVDRVSWR1S1NKcVEyaWd0RUxKSDQ?oc=5",
+        "titulo_evento": "WATCH LIVE: House expected to vote on Iran war powers bill - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVpVHBJRk1TNVpHa0p1SEVjVi1Gb0pjeC1vS1VNYm02YXVzdWFBQkpYYVBVVEN2Slp4REJaTDkxaEtzcTllR01HRjM0MV8zVnRzWlVHcGJzVlJiLTVDcWZNTWhycUo2WlJuZ1A4ZWdoNXZ4UTVQUGRZZ29Pa2ZaeE4tQlpjSEppLWZiTGY3ZzI1Y0Ff...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGVpVHBJRk1TNVpHa0p1SEVjVi1Gb0pjeC1vS1VNYm02YXVzdWFBQkpYYVBVVEN2Slp4REJaTDkxaEtzcTllR01HRjM0MV8zVnRzWlVHcGJzVlJiLTVDcWZNTWhycUo2WlJuZ1A4ZWdoNXZ4UTVQUGRZZ29Pa2ZaeE4tQlpjSEppLWZiTGY3ZzI1Y0FfVUcxM0hkMNIBoAFBVV95cUxQTzg2OTdHSzJFLUcxeURacWRLTGpQZDl4a0d2NWJmdVZ4TFBfM0xQeVJmWThHb281QVlDN3JmTVNORnZRekU1aGR1eXQ1bl9SemFjaHZWb2N0UlRKV2kyZWl3N01BWk42REtYLTROZXBmamV2VWw2ZUo5N1RfS1d5QmdlaTY5N0FZckRPbGoxOWFmTGMzemNRVFUyY3BhaXpH?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 14:26"
+        "data_noticia": "03/06/2026 20:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House passes war powers resolution directing Trump to end hostilities with Iran - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE81cnVNSUc5VUI0VW51ZGRjQzNwdWV6Q1d0TWxVZWsyaXFiVEt1dDAwc0dWb2huX0MyOUJnSDRZZDZrLUpaeU5iaU9JT2xIaEdmbmplNFVBV1VQVzNqVFZlbEI1X1VpOFFWRW9TSjZwbjlyUm9PMkYtR3lwdw?oc=5\" target=\"_blank\">House passe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81cnVNSUc5VUI0VW51ZGRjQzNwdWV6Q1d0TWxVZWsyaXFiVEt1dDAwc0dWb2huX0MyOUJnSDRZZDZrLUpaeU5iaU9JT2xIaEdmbmplNFVBV1VQVzNqVFZlbEI1X1VpOFFWRW9TSjZwbjlyUm9PMkYtR3lwdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House votes to rebuke Trump over war with Iran - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnladGIzZHVwWHlZVkROVnc5Y1hLQjVyQ2R3T1pTNHJnb1d6TlFuOW5fVkREUGpfS28xX0dpT0pMVjJSQjJMdGNpSFFTckUtOWtlOW5wdjJ5YkJ6bm1WREJRX2Itdmc0NU5nUUJoYl9tTUVQRGx2dl9TcndNSnhPT2pJY05CMXB2Q0FQWm1Baw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnladGIzZHVwWHlZVkROVnc5Y1hLQjVyQ2R3T1pTNHJnb1d6TlFuOW5fVkREUGpfS28xX0dpT0pMVjJSQjJMdGNpSFFTckUtOWtlOW5wdjJ5YkJ6bm1WREJRX2Itdmc0NU5nUUJoYl9tTUVQRGx2dl9TcndNSnhPT2pJY05CMXB2Q0FQWm1Baw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:17"
       }
     },
     {
@@ -1001,7 +1171,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWdyX05aazdhNHJWc01EdWx6SUEybEJmUGZweERVVkpsYjltZG5vUTE3MkdiQWNrQ0U0VWZkSHZyeUswN1ZnbVAtQnhXWGNzamJoOVk1RFlKQ2h6UGNhS1hJYzQ5OTBuQ0tLZmpYc3Z3REtEQjlET0NmM0VhMkExVmN4UTRGb0lMaXNGU2VJM2JjMXdU...",
         "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWdyX05aazdhNHJWc01EdWx6SUEybEJmUGZweERVVkpsYjltZG5vUTE3MkdiQWNrQ0U0VWZkSHZyeUswN1ZnbVAtQnhXWGNzamJoOVk1RFlKQ2h6UGNhS1hJYzQ5OTBuQ0tLZmpYc3Z3REtEQjlET0NmM0VhMkExVmN4UTRGb0lMaXNGU2VJM2JjMXdUWWRyYldvLTlPeWIxN0FyczFmZ2N4YkhPQ2tBMXdn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 12:48"
+        "data_noticia": "03/06/2026 21:27"
       }
     },
     {
@@ -1014,11 +1184,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump and Netanyahu Are Clashing Over How to End the Iran War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2ljMWhHeHRvRHN5RG5oNnpJZjNFVFB1alQ1R2FtX1dfQkxwUlVIVU5PRGpYYVg0UE8yOFc1VU1BQmVveVVjUnowSEVlTDZJMXJlejRxQ2tvOU5oakVjd2hxS1FPdmpGblBLNjJMeFdrcS1YejZVeFZPMjdNNUhiTkk0SmRGZw?oc=5\" target=\"_bl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM2ljMWhHeHRvRHN5RG5oNnpJZjNFVFB1alQ1R2FtX1dfQkxwUlVIVU5PRGpYYVg0UE8yOFc1VU1BQmVveVVjUnowSEVlTDZJMXJlejRxQ2tvOU5oakVjd2hxS1FPdmpGblBLNjJMeFdrcS1YejZVeFZPMjdNNUhiTkk0SmRGZw?oc=5",
+        "titulo_evento": "GOP-Led House Votes to Limit Trump’s Iran War Powers - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE16V0pMZlp4U0tBTzREbm5odHJNdGpib0l0TjRERng0bGhLd1hzUDI3ZUwyNVc1S25sWVdWNkNENTJuajJJZFNnSENfTGtnTUpqdlp5WVI1WExob09UN0NHNzl4aFl2NHhEa0dPTDdteVM2LWtleG5DT2Z1MHF2c1Q2NDhPTllmd1MtZjUwMVV4Mlk?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeE16V0pMZlp4U0tBTzREbm5odHJNdGpib0l0TjRERng0bGhLd1hzUDI3ZUwyNVc1S25sWVdWNkNENTJuajJJZFNnSENfTGtnTUpqdlp5WVI1WExob09UN0NHNzl4aFl2NHhEa0dPTDdteVM2LWtleG5DT2Z1MHF2c1Q2NDhPTllmd1MtZjUwMVV4Mlk?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 13:47"
+        "data_noticia": "03/06/2026 21:21"
       }
     },
     {
@@ -1031,28 +1201,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Congress Prepares for a Consequential Iran Vote - Foreign Policy",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPT1RUTmdraEFBeWRmd1B6bW0yek5GRUlmNE1IV0lqYndlZ2JoV0t0LWROcWJxTjNNbzg1LXhnd1Y3UThwSmY3WHVIbWlPQ1hCMWEzODhGSnZZYzh5Tk1VcEJHN25DRHBqczhfV1ZLcERyeVN3bDZZWGt5T2hsV3RNVUJObWt0QU9acVFseFF5TUVCMHpK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT1RUTmdraEFBeWRmd1B6bW0yek5GRUlmNE1IV0lqYndlZ2JoV0t0LWROcWJxTjNNbzg1LXhnd1Y3UThwSmY3WHVIbWlPQ1hCMWEzODhGSnZZYzh5Tk1VcEJHN25DRHBqczhfV1ZLcERyeVN3bDZZWGt5T2hsV3RNVUJObWt0QU9acVFseFF5TUVCMHpKSlZPTkQ1YlFTaFgxWE9J?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "03/06/2026 16:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFlpd0VhZmNHUEhHVnR4dEZYX0tyV0VpSDRicVJreENwR3NZS05TbU5vYnZ4TDdrbG9LWHVJRE1nbVczWF95d1dNQzZKYmFsbExKbVZqbkszQ1BRYzBFNmh4WFlzdjhNV3JqM1hMVDZwaWNTZ0FBTjJ2ZHktYnVVUlF3X1AyQk41eGxpLVhZN1NsamhZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFlpd0VhZmNHUEhHVnR4dEZYX0tyV0VpSDRicVJreENwR3NZS05TbU5vYnZ4TDdrbG9LWHVJRE1nbVczWF95d1dNQzZKYmFsbExKbVZqbkszQ1BRYzBFNmh4WFlzdjhNV3JqM1hMVDZwaWNTZ0FBTjJ2ZHktYnVVUlF3X1AyQk41eGxpLVhZN1NsamhZLXJUSk5PdUt3OEVORU9Da2dR0gGrAUFVX3lxTE1HN3VMaHF2QXA2ZUwzQ1JIOEVtYmd3VmxVaU1rVlhUXzA2UEZreHk1c19Fb2dLbzMzWUU3aHhubHBLOHJIMmhvZ1pzUWwweFFyTm9XamhLTXZiUlo0Z3E4RnJ5ZTlKWHk3Tk1hekdPbVdfR2QwSjlNTF9BcTdDelhTOW1MdTloOUdRNGQyQmNJRkd1Y1JDek90RlRnY01xdlI5TDYtVzZOblVEOA?oc=5",
+        "titulo_evento": "House passes resolution to end the Iran War - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1DeGFUdDNWVGZ3bFMwMGU4dllQaE4yMEh4YXdzR0RIc1ZFYWMzcElheFpPWDhpLXpoU2VLOF9ZMUJaeW1SbF91N09kMVZ1bEtXOWVQUGdwb3JWa1JucHExMUNXeWdlSHNMc2xielB4UVZPQW5DaFo5cdIBfkFVX3lxTE8wbDY1NUEwVnpSSU1Gbm1YYkpG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DeGFUdDNWVGZ3bFMwMGU4dllQaE4yMEh4YXdzR0RIc1ZFYWMzcElheFpPWDhpLXpoU2VLOF9ZMUJaeW1SbF91N09kMVZ1bEtXOWVQUGdwb3JWa1JucHExMUNXeWdlSHNMc2xielB4UVZPQW5DaFo5cdIBfkFVX3lxTE8wbDY1NUEwVnpSSU1Gbm1YYkpGYkxkVHhvZjVCVlFJVXRGQU1vclZEdkZLUXFTdFFKVjloeGYxT0VEU20yVWhHc2lqRjIzY0l2NjBneWpPaGM1VUJmaGxkd3pNSW5nMzN0SG9PUWNGVERrUHdQM2NaTXAzZV84dw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 13:42"
+        "data_noticia": "03/06/2026 21:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US House passes war powers resolution to curb Trump’s authority in Iran - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1NZMWh5NUtXTTlzVmIwMGw3UGY0QnZhMVN1S0pqdHprbDU3SjVrNTY3ZUg0aHhWUC16ODY1YVJ2SnpPM1ZIQWRzVlRtYWFDUl8wdS1zd1hsaVBIaTBuc2lIc25fSWRWcjhqREdVeUVTcUdFR1ctRHJDMVgyWEZ0S095Mm5lVHZFR2MxLTVuem9QVDdC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1NZMWh5NUtXTTlzVmIwMGw3UGY0QnZhMVN1S0pqdHprbDU3SjVrNTY3ZUg0aHhWUC16ODY1YVJ2SnpPM1ZIQWRzVlRtYWFDUl8wdS1zd1hsaVBIaTBuc2lIc25fSWRWcjhqREdVeUVTcUdFR1ctRHJDMVgyWEZ0S095Mm5lVHZFR2MxLTVuem9QVDdCOGNR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:39"
       }
     },
     {
@@ -1065,79 +1235,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Netanyahu backs GOP effort to end U.S. military aid to Israel - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUF9EX1VCTldGT0JxUWxKQ1NUZklsaTMta3ZoWHgtZGVSLUIwVW1UVl92ZlhPc1dRUkRYdUp5VloxVVA2akhmTkVqYUN5MUR5Z1o4SkUwT004QVUzOFBUWHBQWmMxSWdFaVl1SzlkUlBZdFNaeGlLbUJITEJoaFYwMU5OMEtzLWgwYzN0alQzdVM4SGda...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUF9EX1VCTldGT0JxUWxKQ1NUZklsaTMta3ZoWHgtZGVSLUIwVW1UVl92ZlhPc1dRUkRYdUp5VloxVVA2akhmTkVqYUN5MUR5Z1o4SkUwT004QVUzOFBUWHBQWmMxSWdFaVl1SzlkUlBZdFNaeGlLbUJITEJoaFYwMU5OMEtzLWgwYzN0alQzdVM4SGdaejEzeW5BRzZqU1FvMWFxX3Y5UVNtYjRCWENiRWVtcnU?oc=5",
+        "titulo_evento": "In a first, House votes to block Trump from ordering further strikes on Iran - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 17:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs - USNI News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRThiQ1BYR2xTX0FDdVdFZG1lZzNtekUtOTM0MlZHSTdoMDZQWDhwN09MaExQWWNTNXAyMF96UmJxeVZaemh5dmk4M01idTZvaGZadm9pRXZhLVhPb1ltRnFpTzY3WUwwcERFMjFIRkt0ZEF2aU9hREdwN0VGOHA2Xy1iUFQyQnNQSnJ0aG9nMG5JenNZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRThiQ1BYR2xTX0FDdVdFZG1lZzNtekUtOTM0MlZHSTdoMDZQWDhwN09MaExQWWNTNXAyMF96UmJxeVZaemh5dmk4M01idTZvaGZadm9pRXZhLVhPb1ltRnFpTzY3WUwwcERFMjFIRkt0ZEF2aU9hREdwN0VGOHA2Xy1iUFQyQnNQSnJ0aG9nMG5JenNZanU1UmdEc3Z4eFVzeVBpZHd1WDV2UQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 17:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran Targets Neighbors as U.S. Condemns ‘Aggressive’ Strikes - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERDdWlJbmtObWhLd0JWVG1LNXlzanlYZEpralU4OE5WWm9ZU0pjVmxTVlhvQ1Q2dTBlV0E5UWlGZEt0a3JPMkNRN2ZuLVQ3dUIzQllZNTR3MlFJbWk3azBhMTZRZDVCS0NtYk1XNEgzLWVINTJnQVdxajg4Rm1jLQ?oc=5\" target=\"_blank\">Ira...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERDdWlJbmtObWhLd0JWVG1LNXlzanlYZEpralU4OE5WWm9ZU0pjVmxTVlhvQ1Q2dTBlV0E5UWlGZEt0a3JPMkNRN2ZuLVQ3dUIzQllZNTR3MlFJbWk3azBhMTZRZDVCS0NtYk1XNEgzLWVINTJnQVdxajg4Rm1jLQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 15:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Out of Time to Delay, House to Vote on Directing an End to the War in Iran - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmtrVVBod0Q5Vm5NV2N3dUZvdHpiQlI4U255NGJXU3lLXzdIbVU3TTJTSTBZcXVvUG53dk9ORkpwMG14dWlXOEJqQzlOUzFfM0x2Ty1fS1BOcmVUa25YT2VXZ0JFQng5REZzQzB2TVM3R2Z3R3NwUjdDVFV6MGRrbzZjWVFyWmU3MHh5OA?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmtrVVBod0Q5Vm5NV2N3dUZvdHpiQlI4U255NGJXU3lLXzdIbVU3TTJTSTBZcXVvUG53dk9ORkpwMG14dWlXOEJqQzlOUzFfM0x2Ty1fS1BOcmVUa25YT2VXZ0JFQng5REZzQzB2TVM3R2Z3R3NwUjdDVFV6MGRrbzZjWVFyWmU3MHh5OA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 14:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1834,
-          21.5218
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Krishnamoorthi and Velázquez Urge NDAA Provision Blocking Unauthorized Military Action Against Cuba - House.gov",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHZaVkVpWGFZN0dYdEM4X0l6cDhTNDBhN2tuSGJBVzNYNXlQYWk2STEwZzFmcjE5ZF9SZ25jSXhpS05rZUhYOW8tem5JRHNzRGt3VU90MVBzaVdGVVM1ZVIzQndieXNYZlpPYlVnUlNQMEhyblN0NkZIYng1amM1WEJKYV9rWHM0Vl94dkRzREVJQkZy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHZaVkVpWGFZN0dYdEM4X0l6cDhTNDBhN2tuSGJBVzNYNXlQYWk2STEwZzFmcjE5ZF9SZ25jSXhpS05rZUhYOW8tem5JRHNzRGt3VU90MVBzaVdGVVM1ZVIzQndieXNYZlpPYlVnUlNQMEhyblN0NkZIYng1amM1WEJKYV9rWHM0Vl94dkRzREVJQkZydXctNHk3R3BtWDZOZ3oweVRTclYzMHExbm16Y0hCSWJoRUhoejJfSWRVMnpfUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 17:16"
+        "data_noticia": "03/06/2026 21:26"
       }
     },
     {
@@ -1150,62 +1252,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWFJQTNRaHBlRHB0MHA0U21PRjUwdVlmcy11TE0zSF9SRlRFYjhDbTdIZ2NCT0J2Y2xBUVVMamV2eS15Rm13YVpyVUNNZE1INjJyZU5rRGloWS1MQmxsMFJPLU9GZG9KR2tJaTNqTENVaFB3cmtSQkdkMUxJM044Rkt4cTY4eDZENnJubkVsblBrTlZT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWFJQTNRaHBlRHB0MHA0U21PRjUwdVlmcy11TE0zSF9SRlRFYjhDbTdIZ2NCT0J2Y2xBUVVMamV2eS15Rm13YVpyVUNNZE1INjJyZU5rRGloWS1MQmxsMFJPLU9GZG9KR2tJaTNqTENVaFB3cmtSQkdkMUxJM044Rkt4cTY4eDZENnJubkVsblBrTlZTRXhHQWdzdUh5NWFa0gGmAUFVX3lxTE5zUlNHMFE5b3lEM2FPU2VfMXlUQUZSaklITExHc25jS0w2LWFraWo4Ynd2aG90QmpBWEFNVHRjcHhsYkNka0NJa0xxb0ZnLUhqNERKXzhKU2F4MWxqNVFiaHBiWDNEZ01Sc2NCMUw2ZmpRQWhvZDFNT05ZTGkzYllnV1FXTjh4SXZzUXZtX0IyMXJTZVNhcG5PQndvOURFekw1RE9WdGc?oc=5",
+        "titulo_evento": "Meeks Issues Statement on Passage of Iran War Powers Resolution - House.gov",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXBIaTFpaFFvWjZqU3VnUGIySEZDUHhjTUxwd3I4Y3dlVGJ0RV8wYlJVcmgwaEdxMDNwOHdHQ2NsVUFkMVIta0hpMEZLNHYtcWxaR1NjRUJDYTYwbjVab20tUzQ1N1d0VU9wTkNxZUNBV1VGWkFlbEk3ZENyNFVhVGVpODJhTkhDVEUzalA5MWszOTVW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXBIaTFpaFFvWjZqU3VnUGIySEZDUHhjTUxwd3I4Y3dlVGJ0RV8wYlJVcmgwaEdxMDNwOHdHQ2NsVUFkMVIta0hpMEZLNHYtcWxaR1NjRUJDYTYwbjVab20tUzQ1N1d0VU9wTkNxZUNBV1VGWkFlbEk3ZENyNFVhVGVpODJhTkhDVEUzalA5MWszOTVWZ1RESlJOeFlaaGQwMEVVUnltdVhET2twaDJoMnlVcw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 11:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel Enhances Long-Range Strike, Missile Defense For Next Iran War - Forbes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0lUTkFmeFF4ZXFCYmxmcWJfUWMyVVdlMDdFNzJMS0VIcGdCdHliY2VLWFoyYlpSX0Iwck1rZ19tUUQwMFZBOXBxUWNUV3ZJZzVvbHYzcFpHaExocUxHZElMZG9xV0VjUWJla0l5RlphWTFlZUpoXzU5QzJJNHN1Tml6cnlpNnN1VUJMNW9NUmpZdVl2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0lUTkFmeFF4ZXFCYmxmcWJfUWMyVVdlMDdFNzJMS0VIcGdCdHliY2VLWFoyYlpSX0Iwck1rZ19tUUQwMFZBOXBxUWNUV3ZJZzVvbHYzcFpHaExocUxHZElMZG9xV0VjUWJla0l5RlphWTFlZUpoXzU5QzJJNHN1Tml6cnlpNnN1VUJMNW9NUmpZdVl2cU5vMEpiN2wtaG9LNjgySVpoXzBIcmdpMDkxbS1SVTNRM3V5U0E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 16:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yes, Russia Is Losing the War in Ukraine - by Cathy Young - The Bulwark",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWROeGJ2SzZqd1ZxTFRBNExtQU1Ec0dxRVJvdjM3VFhxR3V2ZGZyek05ekc3eUs5aHNUcVg0WlAybTFGZG1tWTNjVzZvLWU5QmdZQkFlX0ZXWXNxX3oydUR1aGVVTkJsdmNvMnVCUUNIMkNCeXpUN3BTMWs0RGF3bE5sNElFdEtvakdBcHQ4dm0?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWROeGJ2SzZqd1ZxTFRBNExtQU1Ec0dxRVJvdjM3VFhxR3V2ZGZyek05ekc3eUs5aHNUcVg0WlAybTFGZG1tWTNjVzZvLWU5QmdZQkFlX0ZXWXNxX3oydUR1aGVVTkJsdmNvMnVCUUNIMkNCeXpUN3BTMWs0RGF3bE5sNElFdEtvakdBcHQ4dm0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 07:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Netanyahu: The US-Israel War Against Iran Is Not Over - Hasht-e Subh Daily",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYlNsWmFNUFpSRHlHVVBMSjBjRzE5UWxHdVZYWUhkNnEyd19oanRRWXNrTWhIXzk2LTRLWXBtV0p6YjBkRld0cEltR2p2RjV2dXVLMkZNN2pTNnVkNjZCbQ?oc=5\" target=\"_blank\">Netanyahu: The US-Israel War Against Iran Is No...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYlNsWmFNUFpSRHlHVVBMSjBjRzE5UWxHdVZYWUhkNnEyd19oanRRWXNrTWhIXzk2LTRLWXBtV0p6YjBkRld0cEltR2p2RjV2dXVLMkZNN2pTNnVkNjZCbQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 16:44"
+        "data_noticia": "03/06/2026 22:11"
       }
     },
     {
@@ -1218,11 +1269,130 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon’s watchdog named as Iran war lead inspector - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOczJlOVhBMDk5M3IzaUZhdEg2ZENwbmE0T2ZDSHl6RlFZZ0FURXA5NTlIUmxHc0lzT045UTVzYkNuV3RXMjIxcHB5Zi1wc3ZORFVMeHdOSHNKcnB0UVVHcUYtR0M2b0NFRzdRcXNyX0prcWNrUDVFRko3bXBqbHo4eG80T0xWZ9IBiwFBVV95cUxOS3E4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczJlOVhBMDk5M3IzaUZhdEg2ZENwbmE0T2ZDSHl6RlFZZ0FURXA5NTlIUmxHc0lzT045UTVzYkNuV3RXMjIxcHB5Zi1wc3ZORFVMeHdOSHNKcnB0UVVHcUYtR0M2b0NFRzdRcXNyX0prcWNrUDVFRko3bXBqbHo4eG80T0xWZ9IBiwFBVV95cUxOS3E4SWJGTjVtRjJ1bVlXOE9keG81ckhhbE13b0FyYm1iY3pkSkZJeDhqVG5yajNwd29LM01VMjBUMDBTOFlSa3Z6ZElRVlZBaGVqS2tDTFhvcDkwX3dhQjNKOG1GLW1ZWXVpMVREdzNBb0JLTFNFdE8tNm5RY3hoSG5yVWZxOEkzVlVZ?oc=5",
+        "titulo_evento": "House passes resolution for first time to halt military action against Iran in rebuke of Trump - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnhsRUs4Zllyanh2Rm1oMFkwSTBGVFpKQ3diWVZKT3JxUW1XRktHZmNvMVk2em9KYkQ5a1JjZWNRQzVQbDZwbFotOW1sTDZBT3BwUng0c1o2VXVldVc3YS04Rkk1Z1pmTmpwRzVzc1ZzUFdkQ0tyckRSVGFydEc2REN4NWVLZVJnTWlaRXAxa3ZZTkRX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnhsRUs4Zllyanh2Rm1oMFkwSTBGVFpKQ3diWVZKT3JxUW1XRktHZmNvMVk2em9KYkQ5a1JjZWNRQzVQbDZwbFotOW1sTDZBT3BwUng0c1o2VXVldVc3YS04Rkk1Z1pmTmpwRzVzc1ZzUFdkQ0tyckRSVGFydEc2REN4NWVLZVJnTWlaRXAxa3ZZTkRXaWVnMXdEMHFaOUdLV3VydjYxZHU5TUZCLVEzN0c5TXFLeVhJdDd1MTZCeF9MMXFwcmhoeU5NVnjSAdIBQVVfeXFMTXhRT0pJaVNITkFYYzEtUTZEYnZ2RkJwc094OV9sbUZMTDJLTThaNldtdFFxT244NTNvSzlIWHVZYUdyRm1Rb2U4NG96QnVXcE81WnRKbEdnOGlIckNOMFJhS2tYXzcyMVFkZ0xCZGVBMEhLb1N1ZVFJa0RmU29NM0YyREx5bWgzWUoxMG9IOHI5ak8ybFlqZ0lPQ0pjelptNUtOOHlrRllCVUhmeVE3V3ZSR0JKQzA3NGQ3OEZyeUU5MFgyUTZjTElyajM1UFlvWVZ3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 18:50"
+        "data_noticia": "03/06/2026 21:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House votes to rein in Trump on Iran as war loses GOP support - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISVVsZ1lUUWFFVHJTVERPT0dVaFpta2UzWXlkS19IaWlOM0pRMWR3REJFQUNrQU52amFJSTdieGRtb2czX1d4YXJNM2gtcW1haFJJZDhtM19yQVQ3TmFaYmdFRTBickhLYkdnWGtmRVV0bTVx?oc=5\" target=\"_blank\">House votes to rein i...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ISVVsZ1lUUWFFVHJTVERPT0dVaFpta2UzWXlkS19IaWlOM0pRMWR3REJFQUNrQU52amFJSTdieGRtb2czX1d4YXJNM2gtcW1haFJJZDhtM19yQVQ3TmFaYmdFRTBickhLYkdnWGtmRVV0bTVx?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House passes Iran war powers resolution in rebuke to Trump - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNzM2WmltWXlLdnlPZ1RFNHJzUnhrYWVFM0p3emFoZnVFdmwwY0dBTlFCamdtX0V3YnRQZll6Y294UDQxczNZYTc1WDc5dHpZQzBCaWZab3BoMmF5OXhEa0VXTEMzR1VKWUFzQWhZbVMtQ2ZZ?oc=5\" target=\"_blank\">House passes Iran war...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nNzM2WmltWXlLdnlPZ1RFNHJzUnhrYWVFM0p3emFoZnVFdmwwY0dBTlFCamdtX0V3YnRQZll6Y294UDQxczNZYTc1WDc5dHpZQzBCaWZab3BoMmF5OXhEa0VXTEMzR1VKWUFzQWhZbVMtQ2ZZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US House backs resolution curbing Trump Iran war powers - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21K...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House adopts war powers resolution to rein in Trump on Iran - MS NOW",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNzQ4M3l1aHlsT2lTVC0xZDBveW15WUtZQTJuT1hOd3RoZzJuSEFJMkx0VXJqT281WmFEaC1lOUR4amlSWmhYYWNfZ3RzSVhJdXVDVk9tbGNyUFRqaFQxWDVHVTdtZ21VM1pYLURQbWo3U3hHR01kcg?oc=5\" target=\"_blank\">House adopts wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNzQ4M3l1aHlsT2lTVC0xZDBveW15WUtZQTJuT1hOd3RoZzJuSEFJMkx0VXJqT281WmFEaC1lOUR4amlSWmhYYWNfZ3RzSVhJdXVDVk9tbGNyUFRqaFQxWDVHVTdtZ21VM1pYLURQbWo3U3hHR01kcg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How Each House Member Voted on the Iran War Powers Resolution - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPVlVnWUpJajRWUzJRbFJPcjlVN0RXSFRNRWhzOUxjS3hHNW4wY2lFcmRaVXRCNnBjZEI4bjN4Y3dGV0dfYWxBX3pENUgxYlpiNEw4NF9uR25pb2JnVDVQdzl5X3libkpHUWNqdlVMc1BsSjFQVW1kanE1cDAtV3U1TmJn?oc=5\" target=\"_blank\">H...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVlVnWUpJajRWUzJRbFJPcjlVN0RXSFRNRWhzOUxjS3hHNW4wY2lFcmRaVXRCNnBjZEI4bjN4Y3dGV0dfYWxBX3pENUgxYlpiNEw4NF9uR25pb2JnVDVQdzl5X3libkpHUWNqdlVMc1BsSjFQVW1kanE1cDAtV3U1TmJn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 20:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Rebuffing Trump, House votes for first time to end war in Iran - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUNjb20xV2ZFU2FHbmtpRW1IbEhHSkdaREstaUtWNnc3SVVqUDl2QVFNWkpDNGRWUk9zRVFWZ3NIR0YzeVVkSnVRWWdacVFUREFXSUszMWJNOFhNNUViSDJUaHUxMmh3S0xBSlpieTNPVjF5cmQ2cVd5Qno3Q2pJUkZuclFiZmFDcnpWb0tsZEIzcVpr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUNjb20xV2ZFU2FHbmtpRW1IbEhHSkdaREstaUtWNnc3SVVqUDl2QVFNWkpDNGRWUk9zRVFWZ3NIR0YzeVVkSnVRWWdacVFUREFXSUszMWJNOFhNNUViSDJUaHUxMmh3S0xBSlpieTNPVjF5cmQ2cVd5Qno3Q2pJUkZuclFiZmFDcnpWb0tsZEIzcVpraFVKT3ZHMVA1VUkyZ181c2lRN2dpM19iMno0R0VGdEc1dnlQNV9NTg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Republican-Led House Votes to Stop Iran War in Rebuke to Trump - Bloomberg",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjI2Z3pFQ0VlaTExTmN5TW5lSUNLd1pPX0k2V1dpdlE1TmFacnJkVTZacWkzWjRYYUF5TDl4OS1VdlNLMkxJZ0NFMlFzN1hXQkYwRlJSLUFIX19WNFoyZF8xYmFESEtTeVQtYnBtaUx5YlNFSVFCT3p4a1FwSnBrUjh1aExnb3AzWWlwVS02WDhMMGtB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjI2Z3pFQ0VlaTExTmN5TW5lSUNLd1pPX0k2V1dpdlE1TmFacnJkVTZacWkzWjRYYUF5TDl4OS1VdlNLMkxJZ0NFMlFzN1hXQkYwRlJSLUFIX19WNFoyZF8xYmFESEtTeVQtYnBtaUx5YlNFSVFCT3p4a1FwSnBrUjh1aExnb3AzWWlwVS02WDhMMGtBQW1HbUFranhQYkNQdU50RmwzdWQ3MzN4c2locTNWQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "03/06/2026 21:17"
       }
     },
     {
@@ -1320,24 +1490,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "OECD Cuts Global Growth Outlook As U.S.-Iran War Weighs On Economy, Energy Markets - International Business Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnB1NEQ1ZGVuMnQyZHZHUGRrY1puLW5YOW1SU2hYUUVsR1hCTUp0T2VaZVhFc25fUmw1UXhTeUlTSGtwWGE0ZVV2U3A1R2ktVl80VExmdVNlOHJOZXRLSlMxYS1iRS1LNUxla1JvV3R0bDNrVDl6emJ0VVJjU1owSVdGNEZxOGY4VktRQ01wVHl5UWNH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnB1NEQ1ZGVuMnQyZHZHUGRrY1puLW5YOW1SU2hYUUVsR1hCTUp0T2VaZVhFc25fUmw1UXhTeUlTSGtwWGE0ZVV2U3A1R2ktVl80VExmdVNlOHJOZXRLSlMxYS1iRS1LNUxla1JvV3R0bDNrVDl6emJ0VVJjU1owSVdGNEZxOGY4VktRQ01wVHl5UWNHSWFfS0thN2tyNmdWWGgycXlad0Q?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "03/06/2026 15:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global Economy Risks Slump on Prolonged Iran Conflict, OECD Says - Bloomberg.com",
+        "titulo_evento": "Global Economy Risks Slump on Prolonged Iran Conflict, OECD Says - Bloomberg",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXZfOExnZ2U2UjFXa0RQY0ZYcjdQdkJKYjktNVZHM2J4UlBrM29uVGxiSHR5NjFHSVNRZlhQcFZhQmQ5SDhNbWcwQkw2OE1vRU91dWtQMk4xRDN5cWNmZzBWa2YzUTBWaTJIZl80ZUxjbmkzTzZKNEFXNmJ5ZkdzdWhSYVVwZ0VZTnEzNXRtZDJsU0Jq...",
         "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXZfOExnZ2U2UjFXa0RQY0ZYcjdQdkJKYjktNVZHM2J4UlBrM29uVGxiSHR5NjFHSVNRZlhQcFZhQmQ5SDhNbWcwQkw2OE1vRU91dWtQMk4xRDN5cWNmZzBWa2YzUTBWaTJIZl80ZUxjbmkzTzZKNEFXNmJ5ZkdzdWhSYVVwZ0VZTnEzNXRtZDJsU0Jqb0VXZXpEcy1obFlLN3B5MXJwSDVuRFMydktEQVVJVEc?oc=5",
         "categoria": "Economia (Google News Markets)",
@@ -1354,28 +1507,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US-Iran War Torpedoes Global Economy Into ‘Lose-Lose’ Scenario, Analysts Warn - International Business Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzVWX0F0NHBRUXV5Z2lwQ2d5WUZHcWQ1VF9NY3N4dndhU0E5Q3FZeWRvaU5DME9BTG5GX3o4RXN5WEpjWnZFOV91dG1RNG9jaG02cm9nSmJZdkRyb2hBdElrOEV3TmZTOE05M3hwRlVFcmVNYVFldlZOd3dzSG0wWTZUbWpEV1NjdE5mNDNfRnRtSEpL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzVWX0F0NHBRUXV5Z2lwQ2d5WUZHcWQ1VF9NY3N4dndhU0E5Q3FZeWRvaU5DME9BTG5GX3o4RXN5WEpjWnZFOV91dG1RNG9jaG02cm9nSmJZdkRyb2hBdElrOEV3TmZTOE05M3hwRlVFcmVNYVFldlZOd3dzSG0wWTZUbWpEV1NjdE5mNDNfRnRtSEpLSElkTVJXQQ?oc=5",
+        "titulo_evento": "OECD Cuts Global Growth Outlook As U.S.-Iran War Weighs On Economy, Energy Markets - International Business Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnB1NEQ1ZGVuMnQyZHZHUGRrY1puLW5YOW1SU2hYUUVsR1hCTUp0T2VaZVhFc25fUmw1UXhTeUlTSGtwWGE0ZVV2U3A1R2ktVl80VExmdVNlOHJOZXRLSlMxYS1iRS1LNUxla1JvV3R0bDNrVDl6emJ0VVJjU1owSVdGNEZxOGY4VktRQ01wVHl5UWNH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnB1NEQ1ZGVuMnQyZHZHUGRrY1puLW5YOW1SU2hYUUVsR1hCTUp0T2VaZVhFc25fUmw1UXhTeUlTSGtwWGE0ZVV2U3A1R2ktVl80VExmdVNlOHJOZXRLSlMxYS1iRS1LNUxla1JvV3R0bDNrVDl6emJ0VVJjU1owSVdGNEZxOGY4VktRQ01wVHl5UWNHSWFfS0thN2tyNmdWWGgycXlad0Q?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "03/06/2026 15:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Iran Global Economy - Bedford Gazette",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkk1TjlFc2xuYjFIeUlKSE1GakFsclBNMVRaeTUzYVg0THdPOWJYNE90SkNsYV9xM2Q1dmV2TWVDQzgwTFZNVVkwb3gtd3h0TWlfc2Z5QU5PWVlYaE0tb1hTaUxBY3JKVlRRQlAzU1JVQmprbjAtTFRKNDJxd1hfbEc0NXZrTV9NNHJPTk5tdWsyc3RW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkk1TjlFc2xuYjFIeUlKSE1GakFsclBNMVRaeTUzYVg0THdPOWJYNE90SkNsYV9xM2Q1dmV2TWVDQzgwTFZNVVkwb3gtd3h0TWlfc2Z5QU5PWVlYaE0tb1hTaUxBY3JKVlRRQlAzU1JVQmprbjAtTFRKNDJxd1hfbEc0NXZrTV9NNHJPTk5tdWsyc3RWT0JLdzAtcG9uRmxTVHI1eWhvV2JwbmRqWGZiNHVaaw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "03/06/2026 12:29"
+        "data_noticia": "03/06/2026 15:41"
       }
     }
   ]
