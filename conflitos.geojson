@@ -142,6 +142,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why is the US so invested in Colombia’s election?",
+        "descricao": "Al Jazeera’s Hala Al Shami explains why US officials are invested in Colombia&#039;s presidential elections.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/4/why-is-the-us-so-invested-in-colombias-election?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "04/06/2026 22:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
+        "descricao": "Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/4/lebanon-latest-hezbollah-rejects-us-plan-as-israel-continues-attacks?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/06/2026 21:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -176,16 +210,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Iran footballers describe how war with US-Israel affects their World Cup",
-        "descricao": "Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/06/2026 14:13"
+        "titulo_evento": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "descricao": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran. ",
+        "url_fonte": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "04/06/2026 21:34"
       }
     },
     {
@@ -271,6 +305,23 @@
         "url_fonte": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "03/06/2026 20:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France stunned by Ivory Coast in World Cup warm-up defeat",
+        "descricao": "\nThe Elephants overturned an early deficit to beat France 2-1 on Thursday, inflicting a rare defeat on Didier Deschamps's side in their penultimate World Cup warm-up game.\n",
+        "url_fonte": "https://www.france24.com/en/sport/20260604-france-stunned-by-ivory-coast-in-world-cup-warm-up-defeat",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/06/2026 21:35"
       }
     },
     {
@@ -397,67 +448,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "War in Sudan: Is the unity of the RSF beginning to crack?",
-        "descricao": "\nIn recent days, the Sudanese army has announced advances in the east of the country, recapturing several towns from the Rapid Support Forces and forcing some of their members to cross the border into Ethiopia to seek refuge there. At the same time, ...",
-        "url_fonte": "https://www.france24.com/en/video/20260604-war-in-sudan-is-the-unity-of-the-rsf-beginning-to-crack",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 15:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
-        "descricao": "\nHezbollah on Thursday rejected the latest ceasefire agreement between Israel and the Lebanese government, and the militant group demanded a complete Israeli withdrawal from Lebanon as more fighting there hampered efforts to end the Iran war. The Hez...",
-        "url_fonte": "https://www.france24.com/en/video/20260604-hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 15:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France's ban on Israeli weapons at Eurosatory 'shameful', says economy minister",
-        "descricao": "\nSpeaking to FRANCE 24, Nir Barkat, Israel's economy minister called France's decision to ban Israeli offensive weapons from the Eurosatory defence fair \"shameful\", warning that Israel would \"bypass France\" to reach its customers. He argued Israel ha...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260604-france-s-ban-on-israeli-weapons-at-eurosatory-shameful-says-economy-minister",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 15:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Strait of Hormuz oil crisis: An opportunity for Syria?",
-        "descricao": "\nIn the show this week, we look at how Syria could benefit from the oil crisis triggered by tensions in the Strait of Hormuz. After Iran effectively closed the strategic waterway, Syria's Mediterranean port of Baniyas found itself emerging as a hub f...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/middle-east-matters/20260604-strait-of-hormuz-oil-crisis-an-opportunity-for-syria",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 15:32"
+        "titulo_evento": "Ukraine's Zelenskyy proposes Putin meeting on ending war",
+        "descricao": "The leaders of Russia and Ukraine have both signaled confidence, and willingness to talk. Putin shows no sign of backing off from his demands, while Zelenskyy said Ukraine would keep fighting for \"survival.\"",
+        "url_fonte": "https://www.dw.com/en/ukraine-s-zelenskyy-proposes-putin-meeting-on-ending-war/a-77427312?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "04/06/2026 22:00"
       }
     },
     {
@@ -567,12 +567,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Andy Burnham on Question Time: 5 takeaways from the UK leadership hopeful’s TV moment",
+        "descricao": "Labour’s Makerfield by-election candidate faced significant scrutiny during a nationally televised BBC debate.",
+        "url_fonte": "https://www.politico.eu/article/andy-burnham-on-question-time-5-takeaways-from-the-uk-leadership-hopefuls-tv-moment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "04/06/2026 22:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.4515,
           51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon likely to cancel missile sale to Germany over fears of Russia",
+        "titulo_evento": "Pentagon likely to cancel missile deal with Germany over fears of Russia",
         "descricao": "The decision is part of a broader American retrenchment from the NATO alliance.",
         "url_fonte": "https://www.politico.com/news/2026/06/04/us-germany-tomahawks-missiles-cancel-00950284?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
@@ -611,6 +628,40 @@
         "url_fonte": "https://www.politico.eu/article/brussels-students-clash-with-police-over-education-reform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "04/06/2026 15:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Stocks Fall on Escalation of US-Iran Hostilities",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-escalation-us-iran-151927086.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Investors Are Fleeing to South Korean and Taiwan ETFs for Diversification. If You Do That, You’re Still Just Chasing AI Chip Stocks.",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/markets/stocks/articles/investors-fleeing-south-korean-taiwan-150002321.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -669,16 +720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Most Americans say the Iran war is bad for America - Brookings",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkdlRkI0dy1KNVlBYTJHRmxWY0JPcGxVVXB3aGt2cXVpbGNFLTBlUWc2SnNlZkYxVmozMmljWl9SZDBuVHVrN3pEa0tLMVN5SFVDcXVkanp0Z0N2WHZFU1VKMTFXS3ZlZkJUVkMwYmE2VGh6TzJkTEZOSmtBQjltZTdRaWxGMGZpV2xjNnRjVQ?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkdlRkI0dy1KNVlBYTJHRmxWY0JPcGxVVXB3aGt2cXVpbGNFLTBlUWc2SnNlZkYxVmozMmljWl9SZDBuVHVrN3pEa0tLMVN5SFVDcXVkanp0Z0N2WHZFU1VKMTFXS3ZlZkJUVkMwYmE2VGh6TzJkTEZOSmtBQjltZTdRaWxGMGZpV2xjNnRjVQ?oc=5",
+        "titulo_evento": "Pro-Israel voices win out, kill bill to stop US-Israel military integration - Responsible Statecraft",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1tUDVPd1E2MlY4OTk1UmtWM1pOMV95dHFPbVNDWFlWMlNXZ2tHYWZzd0JlN2hVQngxN2ltNzU3VjdUMEk5RU84QkE1WFQxbXI5UlJqdUd3NzlhSXQ1T0xYT2E4ZTBYc2V3YlY0bWZrQQ?oc=5\" target=\"_blank\">Pro-Israel voices win out, ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tUDVPd1E2MlY4OTk1UmtWM1pOMV95dHFPbVNDWFlWMlNXZ2tHYWZzd0JlN2hVQngxN2ltNzU3VjdUMEk5RU84QkE1WFQxbXI5UlJqdUd3NzlhSXQ1T0xYT2E4ZTBYc2V3YlY0bWZrQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 14:43"
+        "data_noticia": "04/06/2026 20:56"
       }
     },
     {
@@ -691,11 +742,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "House rebukes Trump over war in Iran - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5\" target=\"_blank\">House rebukes Trump o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5",
+        "titulo_evento": "House votes for first time to halt Iran war - The American Legion",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPckFtdGF4R0tySmVBaHBMSHZnYmlXbkdLZVI4S0V0UXd2QWIxTTZ2MGphZVlCQjdKVzl1ZVNzVzNvN3BaOVZvclNYdjNoNE1EcVdBMzZkMWQ4R1pTdGVHQjlQMkJLOTUzYVRISEFTUnhwMGU2TDRxRmxyaGRMcDFGMTNhZWZQMTJ3aGZDRlFvSWxEdTNP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckFtdGF4R0tySmVBaHBMSHZnYmlXbkdLZVI4S0V0UXd2QWIxTTZ2MGphZVlCQjdKVzl1ZVNzVzNvN3BaOVZvclNYdjNoNE1EcVdBMzZkMWQ4R1pTdGVHQjlQMkJLOTUzYVRISEFTUnhwMGU2TDRxRmxyaGRMcDFGMTNhZWZQMTJ3aGZDRlFvSWxEdTNPdVZZc2Y3d3YyLWxxYkV3TmVyMTZocVcwZFE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 15:38"
+        "data_noticia": "04/06/2026 11:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 21:09"
       }
     },
     {
@@ -720,33 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 20:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Rep. Marie Gluesenkamp Perez Statement on the Iran War Powers Resolution - House.gov",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0szSGxkakRDUlh0Ql9RcXdlWmg1LXZPbW5fSEFTQ2F3aVlmQk93ZFNHaFpJVU5CQldVaExSQmQwQW90RnFyMkN3akVxNTZXOHhITVNEUnpGQkJ0NUJwUVJGT3MyMmtXcmNwUjl3bWpKZ2g1VGJjVGMtT2JpLVRONTN6UWQxYkNPam1Ec3lJclNjWjZw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0szSGxkakRDUlh0Ql9RcXdlWmg1LXZPbW5fSEFTQ2F3aVlmQk93ZFNHaFpJVU5CQldVaExSQmQwQW90RnFyMkN3akVxNTZXOHhITVNEUnpGQkJ0NUJwUVJGT3MyMmtXcmNwUjl3bWpKZ2g1VGJjVGMtT2JpLVRONTN6UWQxYkNPam1Ec3lJclNjWjZwWS1RVHVOZ3VkYTZyTGNuS3VHd0JUZFh6Q0VHSTlB?oc=5",
+        "titulo_evento": "The Iran War and the End of the “Middle East” - The New Yorker",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 20:20"
+        "data_noticia": "04/06/2026 14:45"
       }
     },
     {
@@ -776,11 +827,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran War and the End of the “Middle East” - The New Yorker",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5",
+        "titulo_evento": "Rep. Marie Gluesenkamp Perez Statement on the Iran War Powers Resolution - House.gov",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0szSGxkakRDUlh0Ql9RcXdlWmg1LXZPbW5fSEFTQ2F3aVlmQk93ZFNHaFpJVU5CQldVaExSQmQwQW90RnFyMkN3akVxNTZXOHhITVNEUnpGQkJ0NUJwUVJGT3MyMmtXcmNwUjl3bWpKZ2g1VGJjVGMtT2JpLVRONTN6UWQxYkNPam1Ec3lJclNjWjZw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0szSGxkakRDUlh0Ql9RcXdlWmg1LXZPbW5fSEFTQ2F3aVlmQk93ZFNHaFpJVU5CQldVaExSQmQwQW90RnFyMkN3akVxNTZXOHhITVNEUnpGQkJ0NUJwUVJGT3MyMmtXcmNwUjl3bWpKZ2g1VGJjVGMtT2JpLVRONTN6UWQxYkNPam1Ec3lJclNjWjZwWS1RVHVOZ3VkYTZyTGNuS3VHd0JUZFh6Q0VHSTlB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 14:45"
+        "data_noticia": "04/06/2026 20:20"
       }
     },
     {
@@ -805,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "We are all sick to death of war - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEotRHk5cXc0emJhS1RPdkZOSlVpZHVOWkoxcldvQVdWMGpYeDJndmVGUEVEQUNCTTNYTG03QU5KRTFpWVlIWk5BOG42dGZQTG1jVWJPMGRDVVhDOTVjZ01sZVpReXZnSFBOR1hLR2xwZw?oc=5\" target=\"_blank\">We are all sick to deat...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEotRHk5cXc0emJhS1RPdkZOSlVpZHVOWkoxcldvQVdWMGpYeDJndmVGUEVEQUNCTTNYTG03QU5KRTFpWVlIWk5BOG42dGZQTG1jVWJPMGRDVVhDOTVjZ01sZVpReXZnSFBOR1hLR2xwZw?oc=5",
+        "titulo_evento": "Andreeva dismantles nervous Kostyuk amid tense backdrop of Russia-Ukraine war - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlhUTk2dmcxRWlkdFhzS0sxcF9QNm5QUW1Wc3JfbVZR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 20:02"
+        "data_noticia": "04/06/2026 22:26"
       }
     },
     {
@@ -839,6 +890,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "We are all sick to death of war - The Times of Israel",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEotRHk5cXc0emJhS1RPdkZOSlVpZHVOWkoxcldvQVdWMGpYeDJndmVGUEVEQUNCTTNYTG03QU5KRTFpWVlIWk5BOG42dGZQTG1jVWJPMGRDVVhDOTVjZ01sZVpReXZnSFBOR1hLR2xwZw?oc=5\" target=\"_blank\">We are all sick to deat...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEotRHk5cXc0emJhS1RPdkZOSlVpZHVOWkoxcldvQVdWMGpYeDJndmVGUEVEQUNCTTNYTG03QU5KRTFpWVlIWk5BOG42dGZQTG1jVWJPMGRDVVhDOTVjZ01sZVpReXZnSFBOR1hLR2xwZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 20:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           105.3188,
           61.524
         ]
@@ -856,33 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Andreeva dismantles nervous Kostyuk amid tense backdrop of Russia-Ukraine war - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlhUTk2dmcxRWlkdFhzS0sxcF9QNm5QUW1Wc3JfbVZR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 20:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Trump’s Iran war messaging is not winning over Americans – or their representatives - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?oc=5",
+        "titulo_evento": "The House voted to end the war in Iran. What happens next? - WBAL-TV",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGxtMndYblpocjRqV0wtOUpZNHc4bkx3YjZXWHc4YmNHOC1SVjdmSThNM1JLc2NNUFZRT1hqeElOS1MzM1BycGM2ZTA3bUNWc2t1UFNURWtMM1l1eTJyZms1U3Q1R0pXRXgzTUt5dFdLMi1hSW1GY3loMDhvYTlYOXN4bDMzY2ZFNGE5dEF0RkdDZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGxtMndYblpocjRqV0wtOUpZNHc4bkx3YjZXWHc4YmNHOC1SVjdmSThNM1JLc2NNUFZRT1hqeElOS1MzM1BycGM2ZTA3bUNWc2t1UFNURWtMM1l1eTJyZms1U3Q1R0pXRXgzTUt5dFdLMi1hSW1GY3loMDhvYTlYOXN4bDMzY2ZFNGE5dEF0RkdDZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 17:00"
+        "data_noticia": "04/06/2026 12:34"
       }
     },
     {
@@ -899,7 +950,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3...",
         "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3OTE5Qkt1VnVmMVh2SFBxY3NCMnJQRHJYVGxtcS1ncVg?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/06/2026 18:56"
+        "data_noticia": "04/06/2026 19:01"
       }
     },
     {
@@ -929,11 +980,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "ECONOMY: Iran war harming global economy infographic - Graphic News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE84VVRUdVdVTkl2LVpua24zM1YxUjZHNHFSSlltUlIyLTczVElDR09lNXJYVE1KNXVTc0RLOHB0VVZQNENaZmJ4emFNdXEzakJCaDdUdldEbmhXRm9CME1XeThLM192bXRGSFFRV0wtZDRDd1RmVExrQmNta0lHZms?oc=5\" target=\"_blank\">ECONOM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VVRUdVdVTkl2LVpua24zM1YxUjZHNHFSSlltUlIyLTczVElDR09lNXJYVE1KNXVTc0RLOHB0VVZQNENaZmJ4emFNdXEzakJCaDdUdldEbmhXRm9CME1XeThLM192bXRGSFFRV0wtZDRDd1RmVExrQmNta0lHZms?oc=5",
+        "titulo_evento": "Dwindling US Oil Inventories Are a Warning to Global Markets Amid Iran War - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0xaNV9nakhRUW45bWVqVF9sOXk3b21HaGtjeXNfanVKby1kYWlRNnliNkNEb1MtdHpjSnNZMjREeDNrbHAzbk1LbEFOSWpneWQzdnFJeERNdmVVaHdoTnVTMVlFZFZnaTY4UFJ3enhWMG9Sd01LSkp6Vk5neV9sd21vQUV3NGxwdlRPNlN4SEIxNGo5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0xaNV9nakhRUW45bWVqVF9sOXk3b21HaGtjeXNfanVKby1kYWlRNnliNkNEb1MtdHpjSnNZMjREeDNrbHAzbk1LbEFOSWpneWQzdnFJeERNdmVVaHdoTnVTMVlFZFZnaTY4UFJ3enhWMG9Sd01LSkp6Vk5neV9sd21vQUV3NGxwdlRPNlN4SEIxNGo5VXNsa3B4MHVVamotSmN3VloxSUU5UFNFYXNfb1o4QnNYNm9MM2NQb0tnZ0pTUkxrT3Rv?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "04/06/2026 15:48"
+        "data_noticia": "04/06/2026 12:18"
       }
     },
     {
@@ -946,11 +997,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Dwindling US Oil Inventories Are a Warning to Global Markets Amid Iran War - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0xaNV9nakhRUW45bWVqVF9sOXk3b21HaGtjeXNfanVKby1kYWlRNnliNkNEb1MtdHpjSnNZMjREeDNrbHAzbk1LbEFOSWpneWQzdnFJeERNdmVVaHdoTnVTMVlFZFZnaTY4UFJ3enhWMG9Sd01LSkp6Vk5neV9sd21vQUV3NGxwdlRPNlN4SEIxNGo5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0xaNV9nakhRUW45bWVqVF9sOXk3b21HaGtjeXNfanVKby1kYWlRNnliNkNEb1MtdHpjSnNZMjREeDNrbHAzbk1LbEFOSWpneWQzdnFJeERNdmVVaHdoTnVTMVlFZFZnaTY4UFJ3enhWMG9Sd01LSkp6Vk5neV9sd21vQUV3NGxwdlRPNlN4SEIxNGo5VXNsa3B4MHVVamotSmN3VloxSUU5UFNFYXNfb1o4QnNYNm9MM2NQb0tnZ0pTUkxrT3Rv?oc=5",
+        "titulo_evento": "ECONOMY: Iran war harming global economy infographic - Graphic News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE84VVRUdVdVTkl2LVpua24zM1YxUjZHNHFSSlltUlIyLTczVElDR09lNXJYVE1KNXVTc0RLOHB0VVZQNENaZmJ4emFNdXEzakJCaDdUdldEbmhXRm9CME1XeThLM192bXRGSFFRV0wtZDRDd1RmVExrQmNta0lHZms?oc=5\" target=\"_blank\">ECONOM...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84VVRUdVdVTkl2LVpua24zM1YxUjZHNHFSSlltUlIyLTczVElDR09lNXJYVE1KNXVTc0RLOHB0VVZQNENaZmJ4emFNdXEzakJCaDdUdldEbmhXRm9CME1XeThLM192bXRGSFFRV0wtZDRDd1RmVExrQmNta0lHZms?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "04/06/2026 12:18"
+        "data_noticia": "04/06/2026 15:48"
       }
     },
     {
@@ -1009,16 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Are China and Europe moving toward a trade war? - The Week",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaGpxbGZIWGVQdzlWMDZWZVRUM0lWQTlhVDk5dmRvRldTTTlvaE50MTRBSWdBYktjMndaQVRqVFFITFRjcjRmMzhtUnhsZGh5dVFkT01kSTl4U1lFTXZDQThMeERoZXVSLTJTS1k5aw?oc=5\" target=\"_blank\">Are China and Europe moving...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaGpxbGZIWGVQdzlWMDZWZVRUM0lWQTlhVDk5dmRvRldTTTlvaE50MTRBSWdBYktjMndaQVRqVFFITFRjcjRmMzhtUnhsZGh5dVFkT01kSTl4U1lFTXZDQThMeERoZXVSLTJTS1k5aw?oc=5",
+        "titulo_evento": "Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says - EnergyNow.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXdETk1PQ1JuNm14X19yVzF5YlVxYVA1WTVRazJhVHNnT2paUnY1cUR6bkZQQ3N4QjN4UUZlYkpONkViS2oxY255OE9HTnNZdzAtNWs2M2hsVXZIZ2E1X1VmcnRhQTk2SDJQTmEtODI2cmhSc01sbFJRWEU1Z1JyVHEwa3MwZ21VNUJKNEZBaUllRjJT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXdETk1PQ1JuNm14X19yVzF5YlVxYVA1WTVRazJhVHNnT2paUnY1cUR6bkZQQ3N4QjN4UUZlYkpONkViS2oxY255OE9HTnNZdzAtNWs2M2hsVXZIZ2E1X1VmcnRhQTk2SDJQTmEtODI2cmhSc01sbFJRWEU1Z1JyVHEwa3MwZ21VNUJKNEZBaUllRjJTNGxXMEV3eDVTb2ZGaDRySFhacTFPQmR6c3pJTWY3WlNfSEY2VXZSN25n?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "04/06/2026 15:49"
+        "data_noticia": "04/06/2026 09:45"
       }
     },
     {
@@ -1036,23 +1087,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkNpelFOdmZQRGhyc3JZUG1pZWI2VVdhRTQ2QjdIanhaSDZWb2FKR0VNUk5wNEtWVFhNV0tzXzJGdWU0ZlFUd2RiVDZiUE0xY3h5cjVFQkFXUmM0aGUzZUdfU0ZxRE5LYkVUT0FwbEtBMVJfcDUyUGJxcWp4d1AwLXlFVVVwWTlZaElyOUliRGdoQdIBlwFBVV95cUxPN01vODFRUHJuYTFpc2lPaXJRUE9wXzM3a09kb1dZVFV5Snk0bXh0cUNUQkpPZXdNVjJOSG1jUWt1bk1oX1FqN2xKRnl1NXA1el9xTkJfNXA3UHVIeFU1U2NpX0taVmlWZWVrZllpQVZ0eXE2UVJQSjhnZm95NWdPN0hVRWFCc2FjUHFXTVV3Q212VHU5ZzVN?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "03/06/2026 23:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Sanctions On Iran's Largest Cryptocurrency Platform Could Hurt Ordinary Iranians, Experts Say - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZAB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZABQVVfeXFMT24wX0lNZlFfdEFIejNKMDg5VHpnR1FuODQwaEhpYkpBdkJ6dVNtTE5pMjN3UFAzWkVkbXh3TmZOLVBTaWdXWkwxZ2VPeDV2N21fLTAzYmZxVW5pQUEyWEs2SGllTktGd01Kcjlmbm5jWmc1S0JtUHY0WnpVaXZCWnJGYWxaWEZCZ2FjSnVXdnNz?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/06/2026 12:47"
       }
     }
   ]
