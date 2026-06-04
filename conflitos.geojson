@@ -142,6 +142,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+        "descricao": "Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/06/2026 18:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -176,40 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
-        "descricao": "The far-right finance minister says the new houses will &#039;strengthen our hold on the land&#039;.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "04/06/2026 12:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Man City threatens legal action against Real Madrid following Haaland claim",
-        "descricao": "Enrique Riquelme held up a Real Madrid shirt bearing Erling Haaland&#039;s name, while campaigning for club presidency.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/4/man-city-threaten-legal-action-against-real-madrid-following-haaland-claim?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "04/06/2026 11:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -227,16 +210,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
         "titulo_evento": "Israeli strikes kill 11 people in Gaza City, medics say",
-        "descricao": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
+        "descricao": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
         "url_fonte": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "04/06/2026 11:07"
+        "data_noticia": "04/06/2026 17:50"
       }
     },
     {
@@ -288,6 +271,91 @@
         "url_fonte": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "03/06/2026 20:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine's Zelensky pledges clear timetable of talks on EU membership",
+        "descricao": "\nPresident Volodymyr Zelensky ⁠pledged on Thursday that ​Ukraine would keep to a clear timetable in talks on joining the ​European Union and in sticking to its obligations with the 27-nation bloc. FRANCE 24's Mark Owen speaks with Georgia's former mi...",
+        "url_fonte": "https://www.france24.com/en/ukraine-s-zelensky-pledges-clear-timetable-of-talks-on-eu-membership",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/06/2026 19:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war and risk of stagnation hang over St Petersburg economic conference",
+        "descricao": "\nRussian President Vladimir Putin is holding his fifth wartime economic conference in St. Petersburg, with the Russian economy stgnating and his government struggling for ways to resume growth. FRANCE 24's Nick Rushworth reports.\n",
+        "url_fonte": "https://www.france24.com/en/ukraine-war-and-risk-of-stagnation-hang-over-st-petersburg-economic-conference",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/06/2026 19:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Massive disinformation campaign underway in Armenia ahead of elections, analysts warn",
+        "descricao": "\nOne ballot box, two competing battles. In Armenia, voters are heading to the polls to decide the future direction of their country. But beneath the political campaigns lies a far more insidious warfare. Analysts warn that a massive, coordinated netw...",
+        "url_fonte": "https://www.france24.com/en/massive-disinformation-campaign-underway-in-armenia-ahead-of-elections-analysts-warn",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/06/2026 19:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A 'rogues' gallery' of notorious figures at Russia's biggest economic conference",
+        "descricao": "\nRussia-U.S. talks on economic and energy issues continue despite a pause in Ukraine peace negotiations, Putin's special envoy Kirill Dmitriev told ​Reuters on Thursday, ‌adding he spoke to U.S. counterparts a day earlier. He spoke on the sidelines o...",
+        "url_fonte": "https://www.france24.com/en/a-rogues-gallery-of-notorious-figures-at-russia-s-biggest-economic-conference",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/06/2026 18:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A 'ceasefire war' in Lebanon continues as 'chaotic global leadership' takes its toll",
+        "descricao": "\nHezbollah's chief on Thursday rejected a conditional truce announced by Lebanese and Israeli envoys, demanding instead a comprehensive ceasefire and full Israeli withdrawal as he threatened northern Israel with new attacks. FRANCE 24's Noga Tarnopol...",
+        "url_fonte": "https://www.france24.com/en/a-ceasefire-war-in-lebanon-continues-as-chaotic-global-leadership-takes-its-toll",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/06/2026 18:30"
       }
     },
     {
@@ -414,91 +482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Andreeva races past error-prone Kostyuk to reach French Open final",
-        "descricao": "\nMirra Andreeva beat an erratic Marta Kostyuk in straight sets at the French Open on Thursday to reach her first Grand Slam final. The 19-year-old from Russia drew on her defeat against the same opponent at the Madrid Open earlier this year to delive...",
-        "url_fonte": "https://www.france24.com/en/sport/20260604-andreeva-races-past-error-prone-kostyuk-to-reach-french-open-final",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/06/2026 14:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel's defence minister says military operations in Lebanon will continue despite ceasefire",
-        "descricao": "\nIsrael's ​military will continue to carry out operations in Lebanon for the time being and will not be withdrawing from the country, Defence Minister Israel ​Katz said on Thursday, despite the announcement of a new ceasefire. Israel and Lebanon on W...",
-        "url_fonte": "https://www.france24.com/en/video/20260604-israel-s-defence-minister-says-military-operations-in-lebanon-will-continue-despite-ceasefire",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 14:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hotter summers and colder winters: El Nino set to intensify extreme weather, scientist says",
-        "descricao": "\nA climate scientist has told FRANCE 24 that we should all watch out and prepare for the strong possibility of an extremely hot summer in the northern hemisphere in the coming months. The World Meteorological Organization is warning that the El Nino ...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/perspective/20260604-hotter-summers-and-colder-winters-el-nino-set-to-intensify-extreme-weather-scientist-says",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/06/2026 14:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The art of the apéro: Exploring how France unwinds",
-        "descricao": "\nThis week we’re taking a look at a much-loved pillar of French culture: apéro. This ritual gathering takes place before dinner, typically between 6pm and 8pm, it’s a moment when friends, family, neighbors, or colleagues meet for drinks and snacks. A...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/french-connections/20260604-the-art-of-the-ap%C3%A9ro-exploring-how-france-unwinds",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/06/2026 13:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Armenia heads to the polls, Karabakh refugees face growing marginalisation",
-        "descricao": "\nWith Armenia heading to the polls for a critical parliamentary election, a bitter internal battle has taken center stage. Since the fall of Nagorno-Karabakh in 2023, more than 100,000 ethnic Armenians have fled. But as Prime Minister Pashinyan campa...",
-        "url_fonte": "https://www.france24.com/en/video/20260604-as-armenia-heads-to-the-polls-karabakh-refugees-face-growing-marginalisation",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/06/2026 13:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -606,6 +589,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "EU trade chief wants to emulate US intensity in talks with China",
+        "descricao": "Maroš Šefčovič says Brussels must buckle down to resolve \"what is becoming an unsustainable trade deficit\" with Beijing.",
+        "url_fonte": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Economia (Politico Europe)",
+        "data_noticia": "04/06/2026 17:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
         "titulo_evento": "Students clash with police in Brussels over education budget cuts",
         "descricao": "Cops fire water cannons and tear gas to disperse demonstrators.",
         "url_fonte": "https://www.politico.eu/article/brussels-students-clash-with-police-over-education-reform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -628,23 +628,6 @@
         "url_fonte": "https://www.politico.eu/article/france-germany-propose-gradual-eu-integration-candidate-countries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "04/06/2026 14:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New forced labor tariffs are in line with US-EU deal, insists Trump trade official",
-        "descricao": "\"We understand that a deal is a deal,\" U.S. Trade Representative Jamieson Greer says in Paris.",
-        "url_fonte": "https://www.politico.eu/article/new-tariffs-are-in-line-with-eu-us-deal-us-top-trade-official-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "04/06/2026 13:35"
       }
     },
     {
@@ -691,11 +674,215 @@
         ]
       },
       "properties": {
+        "titulo_evento": "House rebukes Trump over war in Iran - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5\" target=\"_blank\">House rebukes Trump o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 15:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Iran War and the End of the “Middle East” - The New Yorker",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 14:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon likely to cancel missile sale to Germany over fears of Russia - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnJLTWo4d1I2X3hiajdmZlpOSUxuNHdBQ2hKbVJjc2daYVduXzRKaXEzUmxyVEdIZnB1SVNIMk1QUWNqWTdjWXgwTzdrTGV0ZDltd045RnFGNmExdUw0ay1WY0ZWbHNuQTU4VEwybGJBbmtObkM0TWY2LXdHWnZGVmF4WTZNWkI2MTlSdHpfbw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnJLTWo4d1I2X3hiajdmZlpOSUxuNHdBQ2hKbVJjc2daYVduXzRKaXEzUmxyVEdIZnB1SVNIMk1QUWNqWTdjWXgwTzdrTGV0ZDltd045RnFGNmExdUw0ay1WY0ZWbHNuQTU4VEwybGJBbmtObkM0TWY2LXdHWnZGVmF4WTZNWkI2MTlSdHpfbw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 19:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjBQWmtSUVZvYi11eHZwOWdRdEhaOWVUQ0pMOEhfR2IyX3pQMTJiVGl5TS1JamtzZF9zak84ZG4wZjJhQktib0RwU2p3aGdzaEdSNWZNdXlDeFZLZHlJcWpIZ1J1ZWJteW0yUEJaOFNlRk1yX2Z6NTAxT19ZS1JPOGRZUVB6R0R2cklQTEEtUGJMbXI3...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjBQWmtSUVZvYi11eHZwOWdRdEhaOWVUQ0pMOEhfR2IyX3pQMTJiVGl5TS1JamtzZF9zak84ZG4wZjJhQktib0RwU2p3aGdzaEdSNWZNdXlDeFZLZHlJcWpIZ1J1ZWJteW0yUEJaOFNlRk1yX2Z6NTAxT19ZS1JPOGRZUVB6R0R2cklQTEEtUGJMbXI3eVlzODFkSmhGVWRWTllXdVQ1NEZHYkRpZkHSAbMBQVVfeXFMT3IyUHpWZGEtSS1sdVNaQTRZbVZMQWRsa2VGaEZYM0dyWWIzOEE4TS02ckpMSjFOSUY3VlQyWXNfMDJ0cU9XaUxOR0Q1bF85VERQUnpHcXZ6YlZ2VjFrWS1jb2szSV9CT3Rjc3Q2a3VKdmdZZXJRazQxQlVwZHpfZ1dneW4wQ3dyRDZicTh3ZkFpRXE3R1JfV2dxeWZ0WkVJVzl0czdDYWFlUlFleFI1aF84ZHc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "04/06/2026 15:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 19:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "With Trump in a holding pattern on Iran war, allies and critics worry he risks getting boxed in - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FoUzgzN1F6cnU5Z3NxcHhDRkFUckwtMTdHOHA2eG15eTlTS0Q2OFc0ZzdqbXZYekEtbjFCd2FKbHNfeWNSeTdVTzVHTHh5VHduMXI5WnNjUlhMSWF2T1pyY3pIN2xIMWYyaEZFaHU3d3hvWW96eFVUdWRObGN3WWZKZ0VOaE9uVm02RHF4VGc?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FoUzgzN1F6cnU5Z3NxcHhDRkFUckwtMTdHOHA2eG15eTlTS0Q2OFc0ZzdqbXZYekEtbjFCd2FKbHNfeWNSeTdVTzVHTHh5VHduMXI5WnNjUlhMSWF2T1pyY3pIN2xIMWYyaEZFaHU3d3hvWW96eFVUdWRObGN3WWZKZ0VOaE9uVm02RHF4VGc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 15:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin faces rival visions of war and peace at Russia's 'Davos' - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTJRTHBCTURmWWtXSlBDdjlVMGhSN3FIN0hISnNMSjhJZnFJdXhQeXlabVB2TVl4M19uUDFMYW5xTDROUl9USzRHZ05ZbnpHM1JfMEl0cmZDQ2tSVkJOV3NFSmdXRHZxbTZ4cnNwa2VGQ282Z3JWTzB2NGpRdG1qMTZQZXRTZHEyQ2JrNDllWHJoTnVN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTJRTHBCTURmWWtXSlBDdjlVMGhSN3FIN0hISnNMSjhJZnFJdXhQeXlabVB2TVl4M19uUDFMYW5xTDROUl9USzRHZ05ZbnpHM1JfMEl0cmZDQ2tSVkJOV3NFSmdXRHZxbTZ4cnNwa2VGQ282Z3JWTzB2NGpRdG1qMTZQZXRTZHEyQ2JrNDllWHJoTnVNMFItanJ3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 18:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s Iran war messaging is not winning over Americans – or their representatives - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Andreeva dismantles nervous Kostyuk amid tense backdrop of Russia-Ukraine war - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVhmYVFPaGFBcTBubTd2VzREUHl1MWZvbDU4X3cxZmxmWFU4ZFVHcDhBcHhpTW02V0dVdXE5QV9WZndYY2NpaU1zUjJ4akZpWVlVTkxsSWkxUF9DdldKbHpUNW55SkNrbnF4NWF3RG5yemk5ZkJyUUwzdFlBMEhvV21PRHJJM01hdXYtYk5BR184dmlhUTk2dmcxRWlkdFhzS0sxcF9QNm5QUW1Wc3JfbVZR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 18:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin on Ukraine war and the prospects for peace - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXhSZDVST1ctQXQ0SDZ1STNoNDUxOGFrUkJVVHM2UWc1RnpyTGk0dFRjYW51cUlNM1hYRVBLN2t3ZmNOS2FhdEdkeFlmNklzWktpTUxkeFh0Q09OekpNV1BBa0szUTlGcjNYdlNuc1RjVm10TnVKYnEtWkxlNUxWWQ?oc=5\" target=\"_blank\">Put...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXhSZDVST1ctQXQ0SDZ1STNoNDUxOGFrUkJVVHM2UWc1RnpyTGk0dFRjYW51cUlNM1hYRVBLN2t3ZmNOS2FhdEdkeFlmNklzWktpTUxkeFh0Q09OekpNV1BBa0szUTlGcjNYdlNuc1RjVm10TnVKYnEtWkxlNUxWWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 18:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran and the US both think they are winning the war. The truth is they are both losing | Sanam Vakil - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJseWVodFBFV3RrVU5fM2pKMDBPOC1qWklTN0hXdGp0VlBTaU1JMkVLWHc1T04xRlZjX2YtWm9KX0p4Vm5UVkxBbWNqN2pmNVZpdndBV3hQMUFTRjdMLXMzak5BMnEwTHBYbmNmTjNnSUZ2N2JXQWh0bVBVZ0hyR2JSZFdIcUJ4cnZyUHlYZW5JNnV3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTJseWVodFBFV3RrVU5fM2pKMDBPOC1qWklTN0hXdGp0VlBTaU1JMkVLWHc1T04xRlZjX2YtWm9KX0p4Vm5UVkxBbWNqN2pmNVZpdndBV3hQMUFTRjdMLXMzak5BMnEwTHBYbmNmTjNnSUZ2N2JXQWh0bVBVZ0hyR2JSZFdIcUJ4cnZyUHlYZW5JNnV3S2pkQ2wzeDE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 15:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil prices fall 3% on report Trump reluctant to restart Iran war - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0NXWmJpWklEeHA2dXNldlYyVzNnUWxsY0pHcS12WmpkLThoU0ZzT2VwNmxLOXRMSzlVOFJqZldDMmtOR1k5dEd6NGhqVmM2U18xVlVscmtTSVVaR3BxSXA4RTd1dkZpaE9TTTdpVm83Q0dqSWJ2QTNCdXM5NGQxS3JWbjA4WTZFeUNJTzkwSlpRR2_S...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0NXWmJpWklEeHA2dXNldlYyVzNnUWxsY0pHcS12WmpkLThoU0ZzT2VwNmxLOXRMSzlVOFJqZldDMmtOR1k5dEd6NGhqVmM2U18xVlVscmtTSVVaR3BxSXA4RTd1dkZpaE9TTTdpVm83Q0dqSWJ2QTNCdXM5NGQxS3JWbjA4WTZFeUNJTzkwSlpRR2_SAZgBQVVfeXFMUEZESWlJYUxfSDRzZTlyVllORmk4YW9Dd01BRzVJdVBhcTgxTnF1RXRCT3V4U2ROYTRoaUI1d094S0RFN3VsR0NFRk5veGlLdEdwSUxhQjhLSUlUTnNrUUNKV1NTVnRQZkFzUFMyUk9WWjh3cFNXcU5xSFc3SXZla01pVlZyR2RHMTh1OUtMMmQ4SHRlUC1FdVg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 12:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaC1FUm1UYy1rOVFvcUI1MGY3T1U2VVQtMkVKandMNGZ1WHIxSC00blRhLWhtdDFUellNNXBJTWpMOUV5SmlfbkRmV0FGYkptYnBUZ3pndldld2VvYnF5TGtUN2cxLVhsVG9kcXlLaGRwbThxdTIzS1pOOEZLT2NJTV9WaG9GMG5aWEJTSGhfcXJGeUpi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaC1FUm1UYy1rOVFvcUI1MGY3T1U2VVQtMkVKandMNGZ1WHIxSC00blRhLWhtdDFUellNNXBJTWpMOUV5SmlfbkRmV0FGYkptYnBUZ3pndldld2VvYnF5TGtUN2cxLVhsVG9kcXlLaGRwbThxdTIzS1pOOEZLT2NJTV9WaG9GMG5aWEJTSGhfcXJGeUpic1VQY0Q2bGM0YWQyYVRtYg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/06/2026 15:50"
       }
     },
     {
@@ -725,147 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran War and the End of the “Middle East” - The New Yorker",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd1VmanBZLWNfeU5FV0JIMkRkZTdyTWJLYl9vMzgtUDExU29rWUJkSkZuVVQ2UFFrVDU1cFEtMHRxbGtHR2ZIOFdlY0RZUHpMYWExNjZWdnlFLTRENFV1d1dVNU1VVFJySXI0MVhRUWhPWk9nUTBvQ3lhcm9OeThleThSUVZSaDdraHp3?oc=5",
+        "titulo_evento": "Lawmakers vote to curb Trump war on Iran ahead of similar effort on Lebanon - Middle East Eye",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0JWWUtGWDcyYzBWOFNGd3B4Z3NCLVVDSXNqbnFpdEk5cjlVTjAtODlrU1BkRWNwZDV2WkM5V1FGUlhYM051bjE5dEU0UHBlb3lqWFVneWdycWpGNmhXSlFxa0NiM19neXB6UW41VWJ0d3JnWXlrVWRWNmh6bzdKR3MtdjlNSzFBUm91bHYxQzBBUUNZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0JWWUtGWDcyYzBWOFNGd3B4Z3NCLVVDSXNqbnFpdEk5cjlVTjAtODlrU1BkRWNwZDV2WkM5V1FGUlhYM051bjE5dEU0UHBlb3lqWFVneWdycWpGNmhXSlFxa0NiM19neXB6UW41VWJ0d3JnWXlrVWRWNmh6bzdKR3MtdjlNSzFBUm91bHYxQzBBUUNZa2tJQkpZYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 14:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House rebukes Trump over war in Iran - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5\" target=\"_blank\">House rebukes Trump o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUnBLNENSVVl0VmkxUTc4TExkYVlteXNTX2prN1lLQ2p3ZlpCVDdRc3NXV09EQzF3WFRkcmJpcmZnSjFTZC0zQThBNGZEc3lnSkNQb3I1VnNKTUZLMnhlNUt2NkItV1R2enBHeDBTN1dOY2dZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 12:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The House voted to end the war in Iran. What happens next? - WBAL-TV",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGxtMndYblpocjRqV0wtOUpZNHc4bkx3YjZXWHc4YmNHOC1SVjdmSThNM1JLc2NNUFZRT1hqeElOS1MzM1BycGM2ZTA3bUNWc2t1UFNURWtMM1l1eTJyZms1U3Q1R0pXRXgzTUt5dFdLMi1hSW1GY3loMDhvYTlYOXN4bDMzY2ZFNGE5dEF0RkdDZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGxtMndYblpocjRqV0wtOUpZNHc4bkx3YjZXWHc4YmNHOC1SVjdmSThNM1JLc2NNUFZRT1hqeElOS1MzM1BycGM2ZTA3bUNWc2t1UFNURWtMM1l1eTJyZms1U3Q1R0pXRXgzTUt5dFdLMi1hSW1GY3loMDhvYTlYOXN4bDMzY2ZFNGE5dEF0RkdDZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 12:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Oil prices fall 3% on report Trump reluctant to restart Iran war - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0NXWmJpWklEeHA2dXNldlYyVzNnUWxsY0pHcS12WmpkLThoU0ZzT2VwNmxLOXRMSzlVOFJqZldDMmtOR1k5dEd6NGhqVmM2U18xVlVscmtTSVVaR3BxSXA4RTd1dkZpaE9TTTdpVm83Q0dqSWJ2QTNCdXM5NGQxS3JWbjA4WTZFeUNJTzkwSlpRR2_S...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0NXWmJpWklEeHA2dXNldlYyVzNnUWxsY0pHcS12WmpkLThoU0ZzT2VwNmxLOXRMSzlVOFJqZldDMmtOR1k5dEd6NGhqVmM2U18xVlVscmtTSVVaR3BxSXA4RTd1dkZpaE9TTTdpVm83Q0dqSWJ2QTNCdXM5NGQxS3JWbjA4WTZFeUNJTzkwSlpRR2_SAZgBQVVfeXFMUEZESWlJYUxfSDRzZTlyVllORmk4YW9Dd01BRzVJdVBhcTgxTnF1RXRCT3V4U2ROYTRoaUI1d094S0RFN3VsR0NFRk5veGlLdEdwSUxhQjhLSUlUTnNrUUNKV1NTVnRQZkFzUFMyUk9WWjh3cFNXcU5xSFc3SXZla01pVlZyR2RHMTh1OUtMMmQ4SHRlUC1FdVg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 12:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House votes to block Trump from ordering more strikes on Iran - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 16:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House rebukes Iran war and Trump names attorney general nomination: Morning Rundown - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDV2RzhSYWFaZkJIV01iaEJaQi1BMS04bDJIU29xdUxCYTNuc0lYOHZReEpNY1hKSGhuSmtVRF9xMkQzUnhTUjFpWnJfWUwyMU1XLWpROHdISngwYkw2WnNISTlvNExDeUxOcXZWaWdEY2RabTNlUzJFNm51RFdOYm9zMWpGZkZOVWZ1NHd1UzFmMTFW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeDV2RzhSYWFaZkJIV01iaEJaQi1BMS04bDJIU29xdUxCYTNuc0lYOHZReEpNY1hKSGhuSmtVRF9xMkQzUnhTUjFpWnJfWUwyMU1XLWpROHdISngwYkw2WnNISTlvNExDeUxOcXZWaWdEY2RabTNlUzJFNm51RFdOYm9zMWpGZkZOVWZ1NHd1UzFmMTFWY1dYRHJzMjBod3hueExWQXZ2TU8?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 11:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: US House votes to limit Trump's war powers - DW",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXB5dlI5LXctTkd5ZmhmUEZwNHdqWkdEWkFpa2VZeEFPa2lFTmRiQXQ0bHkwNFZlNHM4TGtydDg2NVJ6SEpDelhrVHh4cTFmLUhXR2Myb3dsV1o2R0t6ZXl1NVlWa2dad0NOb3dBVDMxVUV0XzBUOUhtb2czOFhoOC1wWVJtQ1A4eVgtcElGQQ?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXB5dlI5LXctTkd5ZmhmUEZwNHdqWkdEWkFpa2VZeEFPa2lFTmRiQXQ0bHkwNFZlNHM4TGtydDg2NVJ6SEpDelhrVHh4cTFmLUhXR2Myb3dsV1o2R0t6ZXl1NVlWa2dad0NOb3dBVDMxVUV0XzBUOUhtb2czOFhoOC1wWVJtQ1A4eVgtcElGQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 12:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House approves war powers resolution to halt military action against Iran in a rebuke of Trump - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnR3dXhONnF2YWJ2MDY1TGhPVnJzMVVCRVJ6YzI4MmNGUzI5Mk5La1UxRDEyRmhEbkQxQ0tnVnVQb0lhUlgtNnhOYXBUU1lJREZIamt3SkFjUDh4akxaWU9YWmtUN0llYjN1MzdFM0J6RUJlSXNUekJqaWlxYjhCWDFJREVldkU5aTAyRlJldw?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnR3dXhONnF2YWJ2MDY1TGhPVnJzMVVCRVJ6YzI4MmNGUzI5Mk5La1UxRDEyRmhEbkQxQ0tnVnVQb0lhUlgtNnhOYXBUU1lJREZIamt3SkFjUDh4akxaWU9YWmtUN0llYjN1MzdFM0J6RUJlSXNUekJqaWlxYjhCWDFJREVldkU5aTAyRlJldw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/06/2026 22:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "With Trump in a holding pattern on Iran war, allies and critics worry he risks getting boxed in - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FoUzgzN1F6cnU5Z3NxcHhDRkFUckwtMTdHOHA2eG15eTlTS0Q2OFc0ZzdqbXZYekEtbjFCd2FKbHNfeWNSeTdVTzVHTHh5VHduMXI5WnNjUlhMSWF2T1pyY3pIN2xIMWYyaEZFaHU3d3hvWW96eFVUdWRObGN3WWZKZ0VOaE9uVm02RHF4VGc?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FoUzgzN1F6cnU5Z3NxcHhDRkFUckwtMTdHOHA2eG15eTlTS0Q2OFc0ZzdqbXZYekEtbjFCd2FKbHNfeWNSeTdVTzVHTHh5VHduMXI5WnNjUlhMSWF2T1pyY3pIN2xIMWYyaEZFaHU3d3hvWW96eFVUdWRObGN3WWZKZ0VOaE9uVm02RHF4VGc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 15:35"
+        "data_noticia": "04/06/2026 16:20"
       }
     },
     {
@@ -890,84 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "House Votes to Restrain Trump’s Iran War Powers in Bipartisan Rebuke - Time Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcF9raEZlYmVaQXFQenQwNzZQRmx4aXVWcjgtX3RJNWlfTjVmR0Z3dVlORHBNS2EtQlhqRjc3c3RGMDVTZnhEMGt0ZjI4WDZDTzQ2OUJxalpmM3N1UEl2TGNWQ1d3MUVqaFhPd2x0YUlqeU5xeC0yQ0Iza3l1N0w4S29qOWdjWC16WkZjWE04VFg?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcF9raEZlYmVaQXFQenQwNzZQRmx4aXVWcjgtX3RJNWlfTjVmR0Z3dVlORHBNS2EtQlhqRjc3c3RGMDVTZnhEMGt0ZjI4WDZDTzQ2OUJxalpmM3N1UEl2TGNWQ1d3MUVqaFhPd2x0YUlqeU5xeC0yQ0Iza3l1N0w4S29qOWdjWC16WkZjWE04VFg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 09:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "First Thing: Trump announces Israel-Lebanon ceasefire as House passes war powers resolution - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMk1fbHRMZ1ktbEhnb2lOM2FYWGM5dGFMeFdLeF90TnlTbzN4dlpSbWNteU1jbEs5cmF5YkdTc3pYeHp5UGRtVTRoLTVTUmpJVmF1d1ZvbVVHUm1nYTlJWmZqU2RKYnNWYmIyY3k1ZHo5dC1oeHlILVNOR05aMFQyNTZrRTBwQXRGbDlVWHBZelloOW5E...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMk1fbHRMZ1ktbEhnb2lOM2FYWGM5dGFMeFdLeF90TnlTbzN4dlpSbWNteU1jbEs5cmF5YkdTc3pYeHp5UGRtVTRoLTVTUmpJVmF1d1ZvbVVHUm1nYTlJWmZqU2RKYnNWYmIyY3k1ZHo5dC1oeHlILVNOR05aMFQyNTZrRTBwQXRGbDlVWHBZelloOW5ETjAzR2QtOGpoTDBoZk1GRWRkSmpWbGZEYlgwU0dyamhSUG9rUXc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 13:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Iran war messaging is not winning over Americans – or their representatives - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1dWQ0UwZ0dETmcxVGY2UnF5OXFBSWF0TjN2LTRGNU82bU95VGhDS0Z3djJaQU5UcHotTlFGNnRNQ2dsMHFmdHFSVUlhQVJUOE5LNmRrWmVETk1XUnBpTG5uaW1zblZINkM2cExNbkt5Wkt3Y3JCMWhOUzU2dGVocHV2UTJYeUVkR2oyUEdEZlhrNHc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 16:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US House votes to end Trump’s Iran war: Does it matter? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1jZUx2V3FUS052MFZpQjlHejNYV3NZVTNXdVVOSmdISC12RktsWEh6cFNQbW4zR29veEJLRnVkc3ZVNThYazNPZkhUVEJpNXh1YVZoT29yQXZvTUNsTFd4SmZfV2NzVU5KdzNiejdBaWxvcmtDWlAzcWREWDJPYWhUZ3plc2pQRWtPb1BiTHdsbjl2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1jZUx2V3FUS052MFZpQjlHejNYV3NZVTNXdVVOSmdISC12RktsWEh6cFNQbW4zR29veEJLRnVkc3ZVNThYazNPZkhUVEJpNXh1YVZoT29yQXZvTUNsTFd4SmZfV2NzVU5KdzNiejdBaWxvcmtDWlAzcWREWDJPYWhUZ3plc2pQRWtPb1BiTHdsbjl2TGFv0gGcAUFVX3lxTE16ckd5S1hiaGs5ZXpnMWtzSnJLSzJUeEhlUDcyUXh2YTJfOGVDNUxmd2pfLTdZQWptUTR2STRjSUFmelRIalNlMnRuUDMtUk5obVN2bWNRdHdla3BCcld5dEVJc0VtMTNwa2hka3dMRVg0eVVCV3o2dFdNSFBnaE9pemwxQm4tQ1pRMjJXbmZNRzVudmVxZVRadUU2eQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 09:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9605,
-          23.6978
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGlHZS1SWEJvVzNoUW52UDRSOGZHYno5d0pjcGNHOUVSSmNjS2JLV3RPdnpYdE5XOVJUZE9BM1hTOWZqcjBpb0lleVd0MWlKeHdMUnNCczNabXB3QUdOWE94aFUtbTBxZUk3X29jX1pCS1RlYXhvcWZPUFd6dE5QT0pqdDBaQlM0a254MXROejByQTZs...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMGlHZS1SWEJvVzNoUW52UDRSOGZHYno5d0pjcGNHOUVSSmNjS2JLV3RPdnpYdE5XOVJUZE9BM1hTOWZqcjBpb0lleVd0MWlKeHdMUnNCczNabXB3QUdOWE94aFUtbTBxZUk3X29jX1pCS1RlYXhvcWZPUFd6dE5QT0pqdDBaQlM0a254MXROejByQTZscElyTF8yMC0zakpIdDdON2lFOEFOTzdlRXltb1dUT3hiRzFLcHZ2OVJWSXpHeVlzV2pFbVVXV09TZXFNenc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/06/2026 11:36"
+        "titulo_evento": "Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area - Goldman Sachs",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdU42ZGRRWUZxeUYwWWZ2bGJwaUFEeXkzNXl6R1NHZ2h4MEVWUF9LX0g2VlM2ckQtSDFJaXdjSUZ0TFJfNXJTcXhObDlWVUlYLWh1ODFfYVhEMzlucUZ0cnRPdEh2cU53TmZWTVRoeWVJZUFIRVRVVmxNQUh2ejVBLW03TDh2ZGVTSVVWMU1rdm5qQ2I3OTE5Qkt1VnVmMVh2SFBxY3NCMnJQRHJYVGxtcS1ncVg?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/06/2026 18:56"
       }
     },
     {
@@ -1009,16 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "US Sanctions On Iran's Largest Cryptocurrency Platform Could Hurt Ordinary Iranians, Experts Say - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZAB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZABQVVfeXFMT24wX0lNZlFfdEFIejNKMDg5VHpnR1FuODQwaEhpYkpBdkJ6dVNtTE5pMjN3UFAzWkVkbXh3TmZOLVBTaWdXWkwxZ2VPeDV2N21fLTAzYmZxVW5pQUEyWEs2SGllTktGd01Kcjlmbm5jWmc1S0JtUHY0WnpVaXZCWnJGYWxaWEZCZ2FjSnVXdnNz?oc=5",
+        "titulo_evento": "EU trade chief swipes at China overcapacity, but vows ‘meaningful’ discussions - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnFnTF9SRWRieEhVY0JRd1d3WEloTkNyWm1oQkpXdkhRLWVCZ2k4VkYxZmlLYks1RzFTREZFcjdPbTYta3lfX1hnSk1TdGhmcXpCNjZHaDFTUzFJMDItSFQ1SVBjTDZhdy02YVE2V3RjTjcyeVViQjNsb1hpb0ZvZW1fTWpPMFJxQlVmZV9qTFNUNU9y...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnFnTF9SRWRieEhVY0JRd1d3WEloTkNyWm1oQkpXdkhRLWVCZ2k4VkYxZmlLYks1RzFTREZFcjdPbTYta3lfX1hnSk1TdGhmcXpCNjZHaDFTUzFJMDItSFQ1SVBjTDZhdy02YVE2V3RjTjcyeVViQjNsb1hpb0ZvZW1fTWpPMFJxQlVmZV9qTFNUNU9yYWxXckZjTVktVGNJUXp0OUxaTVdrRnJjX3dPTUFZREw2eWl6WjRPZHp1NTZjcnFjQ2lLSnJtUGHSAcwBQVVfeXFMUHVEZGNkZk1hYXF3X3hSMkg0SzV3dk9jY01IamI1RHhMTEpDWVlDaVFyWHRzQllBNlBKMVI4LTRCV015Q2Z4Ri1WaFh5WE5xaXMtdjlIcTBkaEpPVnZOSF9kcERpLVFZRXE2a282VTgxMWpTZzJtbEY2LVZTb0NLTXQ0VjdwUjZqeTNITHNzT3pTYnRhZTJRTENzM2YwZjJEXzNPYVhIMks0RnJERVNLOHlpM1g1dUJoNC01TGtLdlpPNVJNckFqSXo4anVJ?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/06/2026 12:47"
+        "data_noticia": "04/06/2026 16:06"
       }
     },
     {
@@ -1043,16 +1026,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin envoy says Russia-US talks on energy, economy continue - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVhGUDFEc1oxODBWd1hqRF9ucHFkYUlHOFk1b0hfWWZUd05rVk4xT2d3OURRMWVlaExMNEY3V0FiOThKcjlGYzlxNDhSbTUxaDhSXy1jSHp3cjAxNWdIU0tlZWVtRFVJd1RCYkJVVGtEYXg5R1lsZTVNY2VQd2luR1NHdkJIektDc0pjSlh4QUdfQV9T...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVhGUDFEc1oxODBWd1hqRF9ucHFkYUlHOFk1b0hfWWZUd05rVk4xT2d3OURRMWVlaExMNEY3V0FiOThKcjlGYzlxNDhSbTUxaDhSXy1jSHp3cjAxNWdIU0tlZWVtRFVJd1RCYkJVVGtEYXg5R1lsZTVNY2VQd2luR1NHdkJIektDc0pjSlh4QUdfQV9TWkpCRjF5RnZBMGc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/06/2026 17:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "EU trade chief swipes at China overcapacity, but vows ‘meaningful’ discussions - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVnJmRi01NGlJLVNHczU3RFU4RnJRQl8tWUVYcGl4SlpDRjZjMF9wMjdUSnlQRENJajd1SHZuazJCR01jVUdZV1JFZ2ZlUzhmZ0F0eDhTU3l1OW1UdXlYS1N1NW5jdDRkTl95aXozU2NfemxtblpJRVNWWEtkdmZRSUFSY3d3WDUyNEhEQ2R4Y2tBeTRH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVnJmRi01NGlJLVNHczU3RFU4RnJRQl8tWUVYcGl4SlpDRjZjMF9wMjdUSnlQRENJajd1SHZuazJCR01jVUdZV1JFZ2ZlUzhmZ0F0eDhTU3l1OW1UdXlYS1N1NW5jdDRkTl95aXozU2NfemxtblpJRVNWWEtkdmZRSUFSY3d3WDUyNEhEQ2R4Y2tBeTRHLVlKSVFOUU5QSmRONXNUYkVqb3lrQXFxNk1DQUlRYzgySmtQQXZhdm1WMHRMRlh1RWpyaU9XV0dobWdOanpKM01nQmhsMUstWUJ4Nmh0ZGlCaFlQQ0dZMUh4blc0Z3dYRHRJ?oc=5",
+        "titulo_evento": "Are China and Europe moving toward a trade war? - The Week",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaGpxbGZIWGVQdzlWMDZWZVRUM0lWQTlhVDk5dmRvRldTTTlvaE50MTRBSWdBYktjMndaQVRqVFFITFRjcjRmMzhtUnhsZGh5dVFkT01kSTl4U1lFTXZDQThMeERoZXVSLTJTS1k5aw?oc=5\" target=\"_blank\">Are China and Europe moving...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaGpxbGZIWGVQdzlWMDZWZVRUM0lWQTlhVDk5dmRvRldTTTlvaE50MTRBSWdBYktjMndaQVRqVFFITFRjcjRmMzhtUnhsZGh5dVFkT01kSTl4U1lFTXZDQThMeERoZXVSLTJTS1k5aw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "04/06/2026 15:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US Sanctions On Iran's Largest Cryptocurrency Platform Could Hurt Ordinary Iranians, Experts Say - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZAB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBfSU1mUV90QUh6M0owODlUemdHUW44NDBoSGliSkF2Qnp1U21MTmkyM3dQUDNaRWRteHdOZk4tUFNpZ1daTDFnZU94NXY3bV8tMDNiZnFVbmlBQTJYSzZIaWVOS0Z3TUpyOWZubmNaZzVLQm1QdjRaelVpdkJackZhbFpYRkJnYWNKdVd2c3PSAZABQVVfeXFMT24wX0lNZlFfdEFIejNKMDg5VHpnR1FuODQwaEhpYkpBdkJ6dVNtTE5pMjN3UFAzWkVkbXh3TmZOLVBTaWdXWkwxZ2VPeDV2N21fLTAzYmZxVW5pQUEyWEs2SGllTktGd01Kcjlmbm5jWmc1S0JtUHY0WnpVaXZCWnJGYWxaWEZCZ2FjSnVXdnNz?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/06/2026 16:06"
+        "data_noticia": "04/06/2026 12:47"
       }
     }
   ]
