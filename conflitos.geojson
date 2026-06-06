@@ -130,6 +130,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+        "descricao": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "06/06/2026 10:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
         "titulo_evento": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
         "descricao": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
         "url_fonte": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
@@ -182,7 +199,7 @@
       },
       "properties": {
         "titulo_evento": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-        "descricao": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
+        "descricao": "Israel kills two Lebanese army officers, one soldier, and issues more forced displacement orders for southern Lebanon.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "06/06/2026 00:00"
@@ -261,33 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Families clear rubble after overnight Israeli strikes in Gaza",
-        "descricao": "Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli strikes in Gaza\n",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "05/06/2026 19:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Is the latest US ceasefire deal for Lebanon meaningless?",
-        "descricao": "Israel and Hezbollah continue fighting after truce announcement.",
-        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "05/06/2026 18:45"
+        "titulo_evento": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "descricao": "The regional governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "url_fonte": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "06/06/2026 10:54"
       }
     },
     {
@@ -312,23 +312,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-        "descricao": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-        "url_fonte": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "05/06/2026 18:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
@@ -339,6 +322,23 @@
         "url_fonte": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "06/06/2026 07:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+        "descricao": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+        "url_fonte": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/06/2026 18:16"
       }
     },
     {
@@ -601,16 +601,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "Putin to Zelenskyy: No peace talks — and don’t call me old",
-        "descricao": "\"Unfortunately, Russia once again chooses war,\" responded the Ukrainian leader on Friday night.",
-        "url_fonte": "https://www.politico.eu/article/vladimir-putin-to-volodymyr-zelenskyy-letter-no-peace-talks-dont-call-me-old/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "05/06/2026 18:29"
+        "titulo_evento": "Taiwan’s Top Diplomat Opens Up About Trump’s Maneuvering",
+        "descricao": "In a new interview, the self-governing island’s top diplomat to the United States says he isn’t worried about being “traded off to the Chinese.”",
+        "url_fonte": "https://www.politico.com/news/magazine/2026/06/06/taiwan-trump-china-weapons-diplomat-interview-00952075?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Economia (Politico Europe)",
+        "data_noticia": "06/06/2026 11:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The War in Iran Will Impact the Global Economy for Years to Come - The New Yorker",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3E0ZVV6Y0UtNTFlQmRNdWJST0hSbDlUaHBrUE5XY2tydlE1TFAwVGdtSzBEcUtLMlhmZ0h5NFFUSFE5VTh1dUc2WWhqUE1TUFZnbEwtZXRQamVzYmw3eW55cmNvUnl5TkVoVHpWRzRERUJleDJDZW9xR3FCcmRlRlQtUFBvUldvaE0wNG05Yk9HWV9k...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3E0ZVV6Y0UtNTFlQmRNdWJST0hSbDlUaHBrUE5XY2tydlE1TFAwVGdtSzBEcUtLMlhmZ0h5NFFUSFE5VTh1dUc2WWhqUE1TUFZnbEwtZXRQamVzYmw3eW55cmNvUnl5TkVoVHpWRzRERUJleDJDZW9xR3FCcmRlRlQtUFBvUldvaE0wNG05Yk9HWV9kUTR3RA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "06/06/2026 10:00"
       }
     },
     {
@@ -652,6 +669,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany's Iran war lessons after 100 days - DW",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UmVKZ0lJeVU3Z2cyanJTMWNkaFZ2MG9ud0pRSWFTX2JYdUxycHNfUWM0dmJfRWJRdTkxbFhTUy0tTjBBRFNWR21nQVhvZnBuUzlLbng0MVota1pZQ3d0ZzZMRGpZVDdMNDVrSnFTRVM3c25zRi05NmpxWkZOd9IBfkFVX3lxTE93RFZIRnJ2b3F2OHpY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UmVKZ0lJeVU3Z2cyanJTMWNkaFZ2MG9ud0pRSWFTX2JYdUxycHNfUWM0dmJfRWJRdTkxbFhTUy0tTjBBRFNWR21nQVhvZnBuUzlLbng0MVota1pZQ3d0ZzZMRGpZVDdMNDVrSnFTRVM3c25zRi05NmpxWkZOd9IBfkFVX3lxTE93RFZIRnJ2b3F2OHpYZlhoODBQSmtZUm9fTWhreWxDbk5yNmJ6b0ZKTDZGTVpqR1MxclYwRndXLVBpaTU4UEg3VHZYNzhhTXE5T0ZvdVByTWVHNjZDSnNOUVRTMFRHdUhyREY3c3VfNjdjaVhVd05hWWhyM29Ydw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "06/06/2026 05:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -662,23 +696,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSU1sbWtpMTk5S250Y3JWd2w4UGlfcW5uQk5WN3pKc1hPdVZqd05meE82MVJ2X0laMS1FOFNjaDB0bkRzdnpBSkNqdFg2eW0wR2RSNjFIN0oxNHV5UEd6SG14d2RaN3lNSW1ZRXVmMS1teEREUEJCMFlnWFpKUDRJMkVKMTZXRGVFVmpZR0EyeVZyZGp0OHBOTEZBV2NTWnQzNXgtRFNn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "06/06/2026 07:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says Iran has not agreed to a deal to end the war because ‘they’re strong, they’re proud’ - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVoTjZCaDliM1lqYU8yTkhlalJzWW00SVlsbTFBQnFVdVRPQ1dPMFlWU0ZYUG9hYndfb2NpSHpyQUdFRm10SlczN3BpLWN4TVd6MHRLajFHNFo2NFRPVnRUVGNkVDFLaFExZmVYWVduQWNyMkNRbV8zUXM2MVpTb2JRTjZvLUcyekE0bHRvVTNlVHgy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVoTjZCaDliM1lqYU8yTkhlalJzWW00SVlsbTFBQnFVdVRPQ1dPMFlWU0ZYUG9hYndfb2NpSHpyQUdFRm10SlczN3BpLWN4TVd6MHRLajFHNFo2NFRPVnRUVGNkVDFLaFExZmVYWVduQWNyMkNRbV8zUXM2MVpTb2JRTjZvLUcyekE0bHRvVTNlVHgyVDlRYTF5QndJSUR4?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/06/2026 21:46"
       }
     },
     {
@@ -725,40 +742,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon Cuts 180 Religious Identities From Military Personnel Records - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHdtN3hqT0ltSHBucWdibFFOQ09VTlFjbFRMVGp4bHhUSUM1TU5PZXpKa1lMeUNSVXo5dndSNlIxOHhfQkVoYWYzeTludElIaGpHYUFiOU44UzByNWRWMTY5TWhodHZneHBwUW9QUllYTWVVWlN6YWhaTEQ0c25PcDRn?oc=5\" target=\"_blank\">P...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHdtN3hqT0ltSHBucWdibFFOQ09VTlFjbFRMVGp4bHhUSUM1TU5PZXpKa1lMeUNSVXo5dndSNlIxOHhfQkVoYWYzeTludElIaGpHYUFiOU44UzByNWRWMTY5TWhodHZneHBwUW9QUllYTWVVWlN6YWhaTEQ0c25PcDRn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/06/2026 21:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany's Iran war lessons after 100 days - dw.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UmVKZ0lJeVU3Z2cyanJTMWNkaFZ2MG9ud0pRSWFTX2JYdUxycHNfUWM0dmJfRWJRdTkxbFhTUy0tTjBBRFNWR21nQVhvZnBuUzlLbng0MVota1pZQ3d0ZzZMRGpZVDdMNDVrSnFTRVM3c25zRi05NmpxWkZOd9IBfkFVX3lxTE93RFZIRnJ2b3F2OHpY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2UmVKZ0lJeVU3Z2cyanJTMWNkaFZ2MG9ud0pRSWFTX2JYdUxycHNfUWM0dmJfRWJRdTkxbFhTUy0tTjBBRFNWR21nQVhvZnBuUzlLbng0MVota1pZQ3d0ZzZMRGpZVDdMNDVrSnFTRVM3c25zRi05NmpxWkZOd9IBfkFVX3lxTE93RFZIRnJ2b3F2OHpYZlhoODBQSmtZUm9fTWhreWxDbk5yNmJ6b0ZKTDZGTVpqR1MxclYwRndXLVBpaTU4UEg3VHZYNzhhTXE5T0ZvdVByTWVHNjZDSnNOUVRTMFRHdUhyREY3c3VfNjdjaVhVd05hWWhyM29Ydw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "06/06/2026 02:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
         "titulo_evento": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups - The New York Times",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOE4tVEtBT1BtS05VWmNUZTVueHhBMDQ4aGhFWEZaZk8zUVR5bGhnbDlRZi1RR1BBNXhyRE1yc2R6MVpDRTh4UnFULXFrbFAzV2UyVFBMVldaYjlod3RLa1kxR25WbHBZOXlnSzF6WG9jWHJreUZQYzB3U3BPTGNCY1VR?oc=5\" target=\"_blank\">P...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOE4tVEtBT1BtS05VWmNUZTVueHhBMDQ4aGhFWEZaZk8zUVR5bGhnbDlRZi1RR1BBNXhyRE1yc2R6MVpDRTh4UnFULXFrbFAzV2UyVFBMVldaYjlod3RLa1kxR25WbHBZOXlnSzF6WG9jWHJreUZQYzB3U3BPTGNCY1VR?oc=5",
@@ -771,16 +754,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon must divulge cost of Iran war under House proposal - Military Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxuLURaUEdsaWFzMDcyZE93UmsxZjk3aGtnaFlRVDZsZGxwUmp0clY1U0JQczVlMHV6b2RzcGhJLWgzU0hUQkg3azdfU0NQZ0E4dXVaeGt4alNISE5fTFhnZ1I0a0RYd0k4MjlaS1g5eS1yUGYyS203RHNjTVU4eElIaVdMMUxsZlU4ck1jWHJKQVdE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxuLURaUEdsaWFzMDcyZE93UmsxZjk3aGtnaFlRVDZsZGxwUmp0clY1U0JQczVlMHV6b2RzcGhJLWgzU0hUQkg3azdfU0NQZ0E4dXVaeGt4alNISE5fTFhnZ1I0a0RYd0k4MjlaS1g5eS1yUGYyS203RHNjTVU4eElIaVdMMUxsZlU4ck1jWHJKQVdER1huTExzYjh4T3R2bTVSUzcwSm9ZVklla0NEOTY3YjNoVXRmeGF6amltRlJHZw?oc=5",
+        "titulo_evento": "Pope Leo makes clear Iran is not a 'just war,' as he travels to Madrid for week in Spain - Religion News Service",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUFhN3R6eGNhS1hIUXZzTDhpUFFxUkdxcUJlc09MTkNGeVQwd0ExZXNVczFDMUZCdFF3aUx3dXF0Q0xyX2NLNWJBT1d4b3VZdUJ6akVZVmowQWpIR1JGVEpnMXN6VEVQSW4wNjdqM25wOUJ2Vzd5a0Z3RmptTUJnNXNucWZUd1Iwd0l4dUdLOXZNbG5F...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUFhN3R6eGNhS1hIUXZzTDhpUFFxUkdxcUJlc09MTkNGeVQwd0ExZXNVczFDMUZCdFF3aUx3dXF0Q0xyX2NLNWJBT1d4b3VZdUJ6akVZVmowQWpIR1JGVEpnMXN6VEVQSW4wNjdqM25wOUJ2Vzd5a0Z3RmptTUJnNXNucWZUd1Iwd0l4dUdLOXZNbG5FenJwQVBYR0xqYWZmUHFfdEEyaTZNMUQ2ZEZlbGd1dFhVTDZaX0N1TFAtYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/06/2026 16:31"
+        "data_noticia": "06/06/2026 10:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon Cuts 180 Religious Identities From Military Personnel Records - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHdtN3hqT0ltSHBucWdibFFOQ09VTlFjbFRMVGp4bHhUSUM1TU5PZXpKa1lMeUNSVXo5dndSNlIxOHhfQkVoYWYzeTludElIaGpHYUFiOU44UzByNWRWMTY5TWhodHZneHBwUW9QUllYTWVVWlN6YWhaTEQ0c25PcDRn?oc=5\" target=\"_blank\">P...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHdtN3hqT0ltSHBucWdibFFOQ09VTlFjbFRMVGp4bHhUSUM1TU5PZXpKa1lMeUNSVXo5dndSNlIxOHhfQkVoYWYzeTludElIaGpHYUFiOU44UzByNWRWMTY5TWhodHZneHBwUW9QUllYTWVVWlN6YWhaTEQ0c25PcDRn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/06/2026 21:45"
       }
     },
     {
@@ -793,11 +793,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "CENTCOM: Iran Did Not Damage 5th Fleet Headquarters In Bahrain - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "06/06/2026 02:15"
+        "titulo_evento": "Trump says Iran has not agreed to a deal to end the war because ‘they’re strong, they’re proud’ - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVoTjZCaDliM1lqYU8yTkhlalJzWW00SVlsbTFBQnFVdVRPQ1dPMFlWU0ZYUG9hYndfb2NpSHpyQUdFRm10SlczN3BpLWN4TVd6MHRLajFHNFo2NFRPVnRUVGNkVDFLaFExZmVYWVduQWNyMkNRbV8zUXM2MVpTb2JRTjZvLUcyekE0bHRvVTNlVHgy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVoTjZCaDliM1lqYU8yTkhlalJzWW00SVlsbTFBQnFVdVRPQ1dPMFlWU0ZYUG9hYndfb2NpSHpyQUdFRm10SlczN3BpLWN4TVd6MHRLajFHNFo2NFRPVnRUVGNkVDFLaFExZmVYWVduQWNyMkNRbV8zUXM2MVpTb2JRTjZvLUcyekE0bHRvVTNlVHgyVDlRYTF5QndJSUR4?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/06/2026 21:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The War in Iran Will Impact the Global Economy for Years to Come - The New Yorker",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3E0ZVV6Y0UtNTFlQmRNdWJST0hSbDlUaHBrUE5XY2tydlE1TFAwVGdtSzBEcUtLMlhmZ0h5NFFUSFE5VTh1dUc2WWhqUE1TUFZnbEwtZXRQamVzYmw3eW55cmNvUnl5TkVoVHpWRzRERUJleDJDZW9xR3FCcmRlRlQtUFBvUldvaE0wNG05Yk9HWV9k...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3E0ZVV6Y0UtNTFlQmRNdWJST0hSbDlUaHBrUE5XY2tydlE1TFAwVGdtSzBEcUtLMlhmZ0h5NFFUSFE5VTh1dUc2WWhqUE1TUFZnbEwtZXRQamVzYmw3eW55cmNvUnl5TkVoVHpWRzRERUJleDJDZW9xR3FCcmRlRlQtUFBvUldvaE0wNG05Yk9HWV9kUTR3RA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "06/06/2026 10:00"
       }
     },
     {
@@ -839,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          34.4668,
+          31.5017
         ]
       },
       "properties": {
-        "titulo_evento": "An Unwarranted War, a Global Economic Drag - China-US Focus",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2FON2w3ck5rZXNhOEd3eGxURDNweWtJWXAzaVlIbFRwaEZTcU9STW5Va0Vvb1duTTB5Tnp5Y2lEYm4zaURwdlIzcWRJT3gyX1hFR2lxYzFoV3c1alBBQWRsaW9tVzhQWjU2RWtua3dqUXN1Z3BWRUZaTEE1SlMwbUp5a2tIc3hRb29XbXlsUQ?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2FON2w3ck5rZXNhOEd3eGxURDNweWtJWXAzaVlIbFRwaEZTcU9STW5Va0Vvb1duTTB5Tnp5Y2lEYm4zaURwdlIzcWRJT3gyX1hFR2lxYzFoV3c1alBBQWRsaW9tVzhQWjU2RWtua3dqUXN1Z3BWRUZaTEE1SlMwbUp5a2tIc3hRb29XbXlsUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "05/06/2026 13:49"
+        "titulo_evento": "From Gaza to Global Markets: The Economic Fallout of Middle East Tensions - shockya.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hxZ1dPZTU4Q2dCMjBMYnh3ekU2MzhNSW0wMHVGYU55UQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "06/06/2026 00:02"
       }
     },
     {
@@ -873,16 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "From Gaza to Global Markets: The Economic Fallout of Middle East Tensions - shockya.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hxZ1dPZTU4Q2dCMjBMYnh3ekU2MzhNSW0wMHVGYU55UQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "06/06/2026 00:02"
+        "titulo_evento": "An Unwarranted War, a Global Economic Drag - China-US Focus",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2FON2w3ck5rZXNhOEd3eGxURDNweWtJWXAzaVlIbFRwaEZTcU9STW5Va0Vvb1duTTB5Tnp5Y2lEYm4zaURwdlIzcWRJT3gyX1hFR2lxYzFoV3c1alBBQWRsaW9tVzhQWjU2RWtua3dqUXN1Z3BWRUZaTEE1SlMwbUp5a2tIc3hRb29XbXlsUQ?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY2FON2w3ck5rZXNhOEd3eGxURDNweWtJWXAzaVlIbFRwaEZTcU9STW5Va0Vvb1duTTB5Tnp5Y2lEYm4zaURwdlIzcWRJT3gyX1hFR2lxYzFoV3c1alBBQWRsaW9tVzhQWjU2RWtua3dqUXN1Z3BWRUZaTEE1SlMwbUp5a2tIc3hRb29XbXlsUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "05/06/2026 13:49"
       }
     },
     {
@@ -907,16 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Europe 2.0: a new political economy for the age of Trump and China - European Consortium for Political Research (ECPR)",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3JnUXBfRjBqRFZjcThBVkN4SDltNFYxTF9rMGlZc19uV3FmSm5CcWpmbzNxOTV5WWd2QWFPMWxGREJrVVRMUlBqWF84Q2xhRVhYRmlQakc0bkRlNTlsRmhLajlrTWhXek00aUoyVjBINkRJSEhnY1BhZTFLUnVwV3N6NlEydw?oc=5\" target=\"_bl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3JnUXBfRjBqRFZjcThBVkN4SDltNFYxTF9rMGlZc19uV3FmSm5CcWpmbzNxOTV5WWd2QWFPMWxGREJrVVRMUlBqWF84Q2xhRVhYRmlQakc0bkRlNTlsRmhLajlrTWhXek00aUoyVjBINkRJSEhnY1BhZTFLUnVwV3N6NlEydw?oc=5",
+        "titulo_evento": "Putin defends economy, blasts West as Ukraine gains ground - MSN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0RvNEZmcnpzZ1AxRXNCNlpmUFF0SmtnbldULVkzdWNEN19DMFNhUzk0S0I4cmJuaV9wNXFlYUluTXBSck80VTBoNUtvMUs1dlhJa0V6elp3WEV2LUR4akpzYjhWTHh4Z3ZZc2JHNXVZMk94cHpOWF9lNE00czI2X3I4bFBEb0N1UDk1WGlEV2tMb3hm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0RvNEZmcnpzZ1AxRXNCNlpmUFF0SmtnbldULVkzdWNEN19DMFNhUzk0S0I4cmJuaV9wNXFlYUluTXBSck80VTBoNUtvMUs1dlhJa0V6elp3WEV2LUR4akpzYjhWTHh4Z3ZZc2JHNXVZMk94cHpOWF9lNE00czI2X3I4bFBEb0N1UDk1WGlEV2tMb3hmY29JV3lHdTZhalhyem55bDBkSUVWby15SW5mbndDMjhlTjlhVFNoRVRZT0JKRUxsR2d0MTQ2TlpRd05sOVlhMEJBSUh1RS1aRkl3WlpuaVVOVkFoYm9DejdMbXo?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "05/06/2026 18:40"
+        "data_noticia": "06/06/2026 07:57"
       }
     }
   ]
