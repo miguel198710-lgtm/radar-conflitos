@@ -159,6 +159,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.2245,
+          39.3999
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
+        "descricao": "Portugal beat Nigeria 2-1 as Pedro Neto and Francisco Conceicao net, but Cristiano Ronaldo scuffs golden chances.",
+        "url_fonte": "https://www.aljazeera.com/sports/2026/6/10/ronaldo-misses-big-chances-in-portugals-world-cup-warmup-win-over-nigeria?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/06/2026 22:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
+        "descricao": "US Central Command has described the attacks as a result of &#039;Iran’s unwarranted and continued aggression&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/06/2026 21:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -254,40 +288,6 @@
         "url_fonte": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "10/06/2026 16:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2245,
-          39.3999
-        ]
-      },
-      "properties": {
-        "titulo_evento": "LIVE: Portugal vs Nigeria – World Cup 2026 international friendly",
-        "descricao": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the World Cup warm-up.",
-        "url_fonte": "https://www.aljazeera.com/sports/liveblog/2026/6/10/live-portugal-vs-nigeria-world-cup-2026-international-friendly?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/06/2026 16:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
-        "descricao": "US president claims Iran is &#039;completely defeated&#039; and renews threats to bomb the country&#039;s civilian infrastructure.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/06/2026 15:53"
       }
     },
     {
@@ -419,23 +419,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump vows fresh attacks on Iran and accuses negotiators of 'playing us for suckers'",
-        "descricao": "The US launched air strikes against Iran early on Wednesday and Tehran fired back at countries in the region in escalating attacks that threatened to derail efforts to end the war.",
-        "url_fonte": "http://www.euronews.com/2026/06/10/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "10/06/2026 15:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "US strikes Iran-bound tanker near Oman, sparking India protest over missing crew",
         "descricao": "US Central Command said it fired on the Palau-flagged Settebello after the crew ignored orders, hitting its engine room as the vessel attempted to carry Iranian oil in violation of the US blockade.",
         "url_fonte": "http://www.euronews.com/2026/06/10/one-dead-and-two-missing-in-missile-strike-on-tanker-near-oman",
@@ -458,6 +441,23 @@
         "url_fonte": "http://www.euronews.com/2026/06/10/mexico-city-counts-down-to-2026-world-cup-opener-at-historic-azteca-stadium",
         "categoria": "Política (Euronews (Europa))",
         "data_noticia": "10/06/2026 07:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Infantino defends World Cup ticket prices, dismisses referee US entry dispute",
+        "descricao": "\nFIFA President Gianni Infantino defended World Cup ticket prices on Wednesday, saying critics should blame the wider North American market if FIFA was overcharging. Speaking before the tournament opener, he said FIFA lacked authority to influence US...",
+        "url_fonte": "https://www.france24.com/en/sport/20260610-infantino-defends-world-cup-ticket-prices-dismisses-referee-us-entry-dispute",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/06/2026 22:26"
       }
     },
     {
@@ -708,11 +708,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East: US to hit Iran 'hard,' Trump says",
-        "descricao": "US President Donald Trump said US forces would attack Iran again \"very hard.\" The statement came after hostilities escalated between US and Iranian forces. Follow DW for more.",
-        "url_fonte": "https://www.dw.com/en/middle-east-us-to-hit-iran-hard-trump-says/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "The United States says it has launched new attacks on Iran",
+        "descricao": "US Central Command said it hit new targets in Iran in response to Tehran's \"unwarranted and continued aggression.\" Iranian state media reported blasts in several parts of the country. Follow DW for more.",
+        "url_fonte": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "10/06/2026 17:53"
+        "data_noticia": "10/06/2026 22:03"
       }
     },
     {
@@ -839,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Belgium rejects US World Cup demand for Congo travel ban amid Ebola outbreak",
-        "descricao": "Health Minister Frank Vandenbroucke said Brussels will follow scientific advice and not bow to political pressure from Washington.",
-        "url_fonte": "https://www.politico.eu/article/belgium-frank-vandenbroucke-us-world-cup-congo-travel-ban-ebola/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "10/06/2026 11:49"
+        "titulo_evento": "US launches a second straight day of airstrikes in Iran",
+        "descricao": "President Donald Trump and Secretary of Defense Pete Hegseth had telegraphed the action earlier in the day.",
+        "url_fonte": "https://www.politico.com/news/2026/06/10/u-s-second-straight-day-air-strikes-iran-00957752?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "10/06/2026 22:35"
       }
     },
     {
@@ -856,16 +856,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine’s Flamingo missiles hit Russian factory producing key drone components",
-        "descricao": "The Progress plant in Cheboksary manufactures the antennas Moscow uses to bypass Kyiv's air defenses.",
-        "url_fonte": "https://www.politico.eu/article/ukraines-flamingo-missiles-hit-russias-defense-plant-missile-and-drone-antennas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "10/06/2026 10:30"
+        "titulo_evento": "OpenAI says China launched influence campaign to shape US attitudes on AI data centers",
+        "descricao": "The report's findings are likely to further fuel claims made by Republicans and pro-AI voices that foreign entities have tried to meddle in the debate over AI data centers.",
+        "url_fonte": "https://www.politico.com/news/2026/06/10/openai-china-ai-data-centers-report-00957612?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "10/06/2026 22:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Crude Oil Prices Sink as Israel-Iran Ceasefire Holds",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/markets/commodities/articles/crude-oil-prices-sink-israel-153729067.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ceasefire Caps Oil Rally as China Demand Weakens",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/sectors/energy/articles/ceasefire-caps-oil-rally-china-154500596.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -929,11 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US military says it’s striking ‘multiple targets’ in Iran in latest escalation of tensions - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM?oc=5",
+        "titulo_evento": "U.S. military says it has begun striking 'multiple targets' in Iran in latest escalation of tensions - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0FBTmlZN2t6WTJfNE8yRFhWMm9xMVN4cTEyb0l1YnBUbW1WVEx1RUtCSGV2aHZJaHRwUGhXOXhkTjU2bW80WU9UV2g2enJaOE04elQzYUNWYjMyUkhTNS1Ec3JvelFsVnVpNmh3SXRkdl9DcWFlWUR5SmFsVmd2cVJ4cEh0czYxVm51SVVlOGRoYWlm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0FBTmlZN2t6WTJfNE8yRFhWMm9xMVN4cTEyb0l1YnBUbW1WVEx1RUtCSGV2aHZJaHRwUGhXOXhkTjU2bW80WU9UV2g2enJaOE04elQzYUNWYjMyUkhTNS1Ec3JvelFsVnVpNmh3SXRkdl9DcWFlWUR5SmFsVmd2cVJ4cEh0czYxVm51SVVlOGRoYWlmMVZKd2NkRVV4eUlOUHVTWXotZ0VzWHpsdVV1cTRtZGpGRFllaU5sVV96VlEtZWUwc2FDM2lkc1XSAdIBQVVfeXFMTzd2eWhVSEJBN1IwYmFrVTViSU9POThfdnlrMFBrUXNqWndZMVlhbVlxckFKd24ySDdBV09fMDRhdEU1bFJNcnpjMjIzWkFkdjBkdjB3N2dtazZ3a2p6VklGSmdjajlyYlZ0RHJOMlk3bXFETXVwM3FQV2tkU2d3QXFKZWVyMmdkdjZHQnVQWno2bEJCb1k2ZmplMWRFNlFPWUw0dFVEVkpDRjRHZmVDS3pnUm9jRGtkT2ZYQk5aOUtHbE1JYmdjd3ZWSVNyWWZSQUtn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 21:46"
+        "data_noticia": "10/06/2026 22:02"
       }
     },
     {
@@ -958,16 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine strikes occupied Mariupol port, Russia’s key oil refineries - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9xcGJfcHRNQ3RydDNXbjc1NXFQbkdId2hlVnVYamxWWV9YRkdKc2lGby1mdEtNWV9INXJQNkUzcUladkRFaDJaZnBUdWM0blVIcW5PdVZDOFlNdXJrWlJxWDJLb0hxTjJ4WnhadThWOGpPU2JzYml4am0tdVNDWlJTQ29uaThhTUlmdDltSjNKVXk2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9xcGJfcHRNQ3RydDNXbjc1NXFQbkdId2hlVnVYamxWWV9YRkdKc2lGby1mdEtNWV9INXJQNkUzcUladkRFaDJaZnBUdWM0blVIcW5PdVZDOFlNdXJrWlJxWDJLb0hxTjJ4WnhadThWOGpPU2JzYml4am0tdVNDWlJTQ29uaThhTUlmdDltSjNKVXk2Vm9LbFJTZDhXOHdRcTNxWjZjZUZaWkFGeHBRaXVrNNIBuAFBVV95cUxON1hwLVN2elBTdDJNVnZ2a0hrdVAzRFVpeThuVk9UUFIzbnVoZDFxLTJFaUFqZmJVUlM3Mm11YXBMU1lpQW9VUWQ0TUhFZEVqWll3WXFYSXRSLWJIUVQwUmJGd2FGMExmSXlOX3QtckFJNWtPb3FXTkZON2RxZ3FlR0VseGV6ZjVfTFRqdnA4US1ESWIwdGVpd0lPVFpEVkV4OGdRZ3pscW9lY2VrM1JFVnI3T0xuS0M0?oc=5",
+        "titulo_evento": "US military says it’s striking ‘multiple targets’ in Iran in second day of renewed fire - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 18:53"
+        "data_noticia": "10/06/2026 23:11"
       }
     },
     {
@@ -975,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1OUlRWWFhRVY4Rk5rVE1R?oc=5",
+        "titulo_evento": "Trump says ‘I love the inflation’ as Iran war continues to spike prices - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPamUyT1JzY0s0VW4tRXkteFBDSllkby1lZWtPVW9fcWZkNTNISGJJV2tYeEZibmY5VzdzNG9GUnhXeWt6ZUVXcFMtMk5ITWdzRkdrRVZUQXdmeFVqeGlUTnJJQ19fNDd6SkNTNzVRckFnMU1ZanRFS2dCMG5XTmFaVzFxcjRLMWI2OWNCU04wX3ZBX2FH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamUyT1JzY0s0VW4tRXkteFBDSllkby1lZWtPVW9fcWZkNTNISGJJV2tYeEZibmY5VzdzNG9GUnhXeWt6ZUVXcFMtMk5ITWdzRkdrRVZUQXdmeFVqeGlUTnJJQ19fNDd6SkNTNzVRckFnMU1ZanRFS2dCMG5XTmFaVzFxcjRLMWI2OWNCU04wX3ZBX2FHZmt1NlJWblBGR1ByLWtGQzJvck9nLUMwU3JBSmhlSk45NmtXUU5nQld3SGVQS21kbnc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 12:39"
+        "data_noticia": "10/06/2026 21:56"
       }
     },
     {
@@ -1009,16 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says ‘I love the inflation’ as Iran war continues to spike prices - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPamUyT1JzY0s0VW4tRXkteFBDSllkby1lZWtPVW9fcWZkNTNISGJJV2tYeEZibmY5VzdzNG9GUnhXeWt6ZUVXcFMtMk5ITWdzRkdrRVZUQXdmeFVqeGlUTnJJQ19fNDd6SkNTNzVRckFnMU1ZanRFS2dCMG5XTmFaVzFxcjRLMWI2OWNCU04wX3ZBX2FH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamUyT1JzY0s0VW4tRXkteFBDSllkby1lZWtPVW9fcWZkNTNISGJJV2tYeEZibmY5VzdzNG9GUnhXeWt6ZUVXcFMtMk5ITWdzRkdrRVZUQXdmeFVqeGlUTnJJQ19fNDd6SkNTNzVRckFnMU1ZanRFS2dCMG5XTmFaVzFxcjRLMWI2OWNCU04wX3ZBX2FHZmt1NlJWblBGR1ByLWtGQzJvck9nLUMwU3JBSmhlSk45NmtXUU5nQld3SGVQS21kbnc?oc=5",
+        "titulo_evento": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’ - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3BUT2hyVXdVeXcwVFZqbmF0WHNzYm9EYjhfQ3RSRlYxLXNuMWJnYWNxd05WUUhmS0owZERrZFRtYUdoMXdBNkdYSEdOeTV0UkZoWmZkSHV6aTNrRGVxRFNHdTBKVTlxUUZZX0tkTUNtcGZlWXNVd2NicmczNnZMXzQ1NzdSMUh3?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3BUT2hyVXdVeXcwVFZqbmF0WHNzYm9EYjhfQ3RSRlYxLXNuMWJnYWNxd05WUUhmS0owZERrZFRtYUdoMXdBNkdYSEdOeTV0UkZoWmZkSHV6aTNrRGVxRFNHdTBKVTlxUUZZX0tkTUNtcGZlWXNVd2NicmczNnZMXzQ1NzdSMUh3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 20:28"
+        "data_noticia": "10/06/2026 21:48"
       }
     },
     {
@@ -1031,11 +1065,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'Are we in a war, or are we not in a war?' Democratic lawmaker responds to Trump saying the U.S. is going to attack Iran - U.S. Representative Chrissy Houlahan (.gov)",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUDBuQkJDNkVVWHZoQTlyaVlPUUpTZnFHbndDbXBLQXJGQkN2VUhvUmMzZHB2bGxKWFYyRWpfX1dTU1VPXzFPOWZWNmtMcHhpYmd1NVo0blRHcVlQa1Q1dkFYOXJnNFlpbWVBT3g4N2hIczBPRUE?oc=5\" target=\"_blank\">'Are we in a war, ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUDBuQkJDNkVVWHZoQTlyaVlPUUpTZnFHbndDbXBLQXJGQkN2VUhvUmMzZHB2bGxKWFYyRWpfX1dTU1VPXzFPOWZWNmtMcHhpYmd1NVo0blRHcVlQa1Q1dkFYOXJnNFlpbWVBT3g4N2hIczBPRUE?oc=5",
+        "titulo_evento": "US launches new strikes after Trump threatens to attack Iran 'very hard' - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1Bh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 21:38"
+        "data_noticia": "10/06/2026 22:16"
       }
     },
     {
@@ -1043,33 +1077,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Trump hardens tone against Iran, says ‘may keep going’ with strikes - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWi1LaHhvQ1BXMVZhRGhtOFhQQ09hTW95b0dnNDg0QzlYcldFem5GU2pyNTdaRk1lZkFQb05HUzl3eDJVTGd5TTV2Q2VFb1FHUEVMZ3hobnRoLTdXQWRWOU1Ib29paDR0aTZnZU5lUGc3Vk5NSUtMdGYzSVU2em1mOGpTQWZ3Y1lrTkNYZmtQbXFKQ25u...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWi1LaHhvQ1BXMVZhRGhtOFhQQ09hTW95b0dnNDg0QzlYcldFem5GU2pyNTdaRk1lZkFQb05HUzl3eDJVTGd5TTV2Q2VFb1FHUEVMZ3hobnRoLTdXQWRWOU1Ib29paDR0aTZnZU5lUGc3Vk5NSUtMdGYzSVU2em1mOGpTQWZ3Y1lrTkNYZmtQbXFKQ25uOUdZSjJDYU5heEV5b0x1R1dYbkrSAa4BQVVfeXFMT0hqSF9hZl9yc2pjSWh5amFDeUxVOWJJUlVwNzVYREpOTnRoSHhBRS1NZzkxNGRHbE56WnZrc0cxRjB3NWNlX3lPVVIyUlBWXzkxODJkRkNaVUZ2UFNjdGFlTWpqbi1oc1pxLVR3bWQyTlR6S2lxN1BEOGEyU0FWWldxTXU0SjNJZ3BISUdfdVJteUFYbWN2VjV1RzJyVGFfU2M0c1llU0YxNjNCeFh3?oc=5",
+        "titulo_evento": "Ukraine strikes occupied Mariupol port, Russia’s key oil refineries - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9xcGJfcHRNQ3RydDNXbjc1NXFQbkdId2hlVnVYamxWWV9YRkdKc2lGby1mdEtNWV9INXJQNkUzcUladkRFaDJaZnBUdWM0blVIcW5PdVZDOFlNdXJrWlJxWDJLb0hxTjJ4WnhadThWOGpPU2JzYml4am0tdVNDWlJTQ29uaThhTUlmdDltSjNKVXk2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9xcGJfcHRNQ3RydDNXbjc1NXFQbkdId2hlVnVYamxWWV9YRkdKc2lGby1mdEtNWV9INXJQNkUzcUladkRFaDJaZnBUdWM0blVIcW5PdVZDOFlNdXJrWlJxWDJLb0hxTjJ4WnhadThWOGpPU2JzYml4am0tdVNDWlJTQ29uaThhTUlmdDltSjNKVXk2Vm9LbFJTZDhXOHdRcTNxWjZjZUZaWkFGeHBRaXVrNNIBuAFBVV95cUxON1hwLVN2elBTdDJNVnZ2a0hrdVAzRFVpeThuVk9UUFIzbnVoZDFxLTJFaUFqZmJVUlM3Mm11YXBMU1lpQW9VUWQ0TUhFZEVqWll3WXFYSXRSLWJIUVQwUmJGd2FGMExmSXlOX3QtckFJNWtPb3FXTkZON2RxZ3FlR0VseGV6ZjVfTFRqdnA4US1ESWIwdGVpd0lPVFpEVkV4OGdRZ3pscW9lY2VrM1JFVnI3T0xuS0M0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 19:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6173,
-          55.7558
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Car bomb kills senior Russian military official near Moscow - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFVQeXRfcXMxVmVWN0NWQW5oclMyUmFjMmwyYVR0NFd5engzaGh5ODdzci1wa0tHRnE2RlNMWVNVekdPaVc1Q1JES1NWdERpSjJfSWhjOVlHT2dPNHpVeG1rYW92SGQzMEJHMWhmU1RnYjVERlFreVVYS0UwVFdQSjF6REZCcmdxUXY2MHVyWVpIVUt6...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFVQeXRfcXMxVmVWN0NWQW5oclMyUmFjMmwyYVR0NFd5engzaGh5ODdzci1wa0tHRnE2RlNMWVNVekdPaVc1Q1JES1NWdERpSjJfSWhjOVlHT2dPNHpVeG1rYW92SGQzMEJHMWhmU1RnYjVERlFreVVYS0UwVFdQSjF6REZCcmdxUXY2MHVyWVpIVUt6X2Rvc3lEMGxPNFBaOUNTYUxDMGU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 18:55"
+        "data_noticia": "10/06/2026 18:53"
       }
     },
     {
@@ -1082,24 +1099,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says Iran will 'pay the price' for stalled talks, as U.S. and Tehran trade fire - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUE0YXVNU0RmczlXQS1MQU9pZ1I2QWtxQVJpb0lCY0dtc0xCSV9iMEFBTGFXV18tWGxyS0tMaXgtZV9tXzlfUEJ2enZkYWVmMzBmYWliVWRidVlBemgyNTExMkp0N05PNldMLTF1M085dDZZdGx4NTlFRzVWVFlUMTQ4REdacmk4SXdWaE1LSG1mS2J5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUE0YXVNU0RmczlXQS1MQU9pZ1I2QWtxQVJpb0lCY0dtc0xCSV9iMEFBTGFXV18tWGxyS0tMaXgtZV9tXzlfUEJ2enZkYWVmMzBmYWliVWRidVlBemgyNTExMkp0N05PNldMLTF1M085dDZZdGx4NTlFRzVWVFlUMTQ4REdacmk4SXdWaE1LSG1mS2J5RjRyZFlHVVJkRTdVWXlUdUhDaTZXVHVyQzNpTWktMWJpVknSAbwBQVVfeXFMTW5yX2R3eVNWZ3A4TEh2a1luaWkwdFpxVzc4a29XdGktblJYaFVNVnBUMDBqRENEcjZkVXJIOXc4U3BTUjFqeDdNT1puR1NWcXlGQUNMMksxQk14Z1Bfc254V0FKY1ZGYVUyYmtoUkd2N2lHN1BmcFZfcTBDcndKNld5RjU0cGs2cUl4Ny1wcVIxTExfbDAyZlloR2t2SWdqd0ljb2RVV1pSTTFyWTVPeXctZUp3WjhGWWZXVkk?oc=5",
-        "categoria": "Economia (Google News Military)",
-        "data_noticia": "10/06/2026 13:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard' - CNBC",
+        "titulo_evento": "U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction - CNBC",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5JRzk3dDJ5dEFyWGw2dGY2Z0hxUy12c29QVElKMUxxNUYzeVdMVXBiWm9vZUlxYzBzakpMOGsyMVhLZ2p1WnByX2dkVWVwNi1uNmt2UWZwdU5ZaG90Vm9DQWs5OGhUSWtfdGlYTjU2TVA3d9IBd0FVX3lxTE1MeFk0ZWNVVUM5X2xWaVRCN1IyVDFxMjcw...",
         "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRzk3dDJ5dEFyWGw2dGY2Z0hxUy12c29QVElKMUxxNUYzeVdMVXBiWm9vZUlxYzBzakpMOGsyMVhLZ2p1WnByX2dkVWVwNi1uNmt2UWZwdU5ZaG90Vm9DQWs5OGhUSWtfdGlYTjU2TVA3d9IBd0FVX3lxTE1MeFk0ZWNVVUM5X2xWaVRCN1IyVDFxMjcwWERtUjlXWS10UmFMdVBpMlZ4akhDSWRBR09QVjA4SjBUX0VhVnl6YTMtOFdwVEd6Q1R5S2tVSmJQZ1c4YlNCTXIxemM5Z2w1RWljYl9zQ21EWFc0bGxN?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -1128,16 +1128,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTZ3VnBtdEZSLVFHMTRCbThBaC1WSlZrcXdIY2phYnozUE9sNjMyblhJaTc3b3g2V2pubHpvUVlKTVdaaHdPWS1BYWhDU3JpbEREaGJ0cjE4Tm9xVmpkekZoVTh5RFRRMlVYYVB5REU5eGhJNkRqanh1blN3VXh4bWN4eS05Z0R4aEFrWXJUakI3dw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbTZ3VnBtdEZSLVFHMTRCbThBaC1WSlZrcXdIY2phYnozUE9sNjMyblhJaTc3b3g2V2pubHpvUVlKTVdaaHdPWS1BYWhDU3JpbEREaGJ0cjE4Tm9xVmpkekZoVTh5RFRRMlVYYVB5REU5eGhJNkRqanh1blN3VXh4bWN4eS05Z0R4aEFrWXJUakI3dw?oc=5",
+        "titulo_evento": "US military says it’s striking ‘multiple targets’ in Iran in latest escalation of tensions - WBTV",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWUV3Uk9HWU5Qbk9hY2tRZjd4MFpJbW1ndm9fS19TSGphVm5ab25VY3RVUDhPSzMyQTB1SXUzczhMSWgxLUthMTlvS1Q3ZU5JVGtDN3NXd3haMUNnZkU2dGVQOWNLYnRaTTRNZlJTck9YV2pCNlJJcTB5YUFsWU5hRE9WQW9uNlhRR2NRaFhOWUwtbzZO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWUV3Uk9HWU5Qbk9hY2tRZjd4MFpJbW1ndm9fS19TSGphVm5ab25VY3RVUDhPSzMyQTB1SXUzczhMSWgxLUthMTlvS1Q3ZU5JVGtDN3NXd3haMUNnZkU2dGVQOWNLYnRaTTRNZlJTck9YV2pCNlJJcTB5YUFsWU5hRE9WQW9uNlhRR2NRaFhOWUwtbzZOZHZaTWdMcFhCN2owNUlFZHM0aWJQV0FPWHF3cw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/06/2026 18:23"
+        "data_noticia": "10/06/2026 21:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 21:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1JKTEhka19uekR3VVR1Rzc5M1E1WWhaSUtjQ0hGZk9uN1R2REI1RXBkaW00ZEpIWGtmVVhZWUdTaXhOUmRleTBsM21JY3Jjb0l2c1kyUUIta1JRNk1VQUJzQmVHZXpvYXdpa1VVUEVZOVNLekZMQlVUSkdkeFM2SGVNMS1rUzVlWjgzTGhrY0JRczNm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1JKTEhka19uekR3VVR1Rzc5M1E1WWhaSUtjQ0hGZk9uN1R2REI1RXBkaW00ZEpIWGtmVVhZWUdTaXhOUmRleTBsM21JY3Jjb0l2c1kyUUIta1JRNk1VQUJzQmVHZXpvYXdpa1VVUEVZOVNLekZMQlVUSkdkeFM2SGVNMS1rUzVlWjgzTGhrY0JRczNmNkRzNjJyNHZxRjJGUzg2OTBzZ21EZzQybWN2d9IBtgFBVV95cUxQUVBUODBGNGg4anlodGNFMXQ2TVkxaHZ6dGE2NFZ3SFRGaDNDLUhyYWwzOUFUMmZiVEJ1WUhqWkVlQTFhdUotb3V1YmZtSmU0SmJBcFNJVlVMM1lmM3doVmhRS0IyY01XbWtHQUd6UGVXQVdPOVFrVnJtWlpVV0xsOFBxejVPZ1JJUGlCZi03b21NRjBIS3I2U0V5RkpiRlJ0VG55ODZ1TDBQLUROTm1LdVVSdzlIQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 22:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Are we in a war, or are we not in a war?' Democratic lawmaker responds to Trump saying the U.S. is going to attack Iran - U.S. Representative Chrissy Houlahan (.gov)",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUDBuQkJDNkVVWHZoQTlyaVlPUUpTZnFHbndDbXBLQXJGQkN2VUhvUmMzZHB2bGxKWFYyRWpfX1dTU1VPXzFPOWZWNmtMcHhpYmd1NVo0blRHcVlQa1Q1dkFYOXJnNFlpbWVBT3g4N2hIczBPRUE?oc=5\" target=\"_blank\">'Are we in a war, ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUDBuQkJDNkVVWHZoQTlyaVlPUUpTZnFHbndDbXBLQXJGQkN2VUhvUmMzZHB2bGxKWFYyRWpfX1dTU1VPXzFPOWZWNmtMcHhpYmd1NVo0blRHcVlQa1Q1dkFYOXJnNFlpbWVBT3g4N2hIczBPRUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 21:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1OUlRWWFhRVY4Rk5rVE1R?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 12:39"
       }
     },
     {
@@ -1196,33 +1264,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.9253,
-          -14.235
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Coffee Markets Enter Transition Phase as Brazil Harvest Advances and Supply Signals Shift - StoneX",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzFCYms1N0RHMEhGWlBuQVVQRUFoUlhfMjBQb1BIUFV2dGk3RmJMRTdrRDRScTJTRTJpRWV1ZTU5WUR5MDBCN1BEX2lkb3JSbUpLUmE0YTdNN1RoYmFTR3hGM1R3bm1KR0d2QlI5U2dUTHNTdWpGVjh5NE1yNFVzd3ZhYm5GMDh6M2wwTlpwLUd6Nng3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzFCYms1N0RHMEhGWlBuQVVQRUFoUlhfMjBQb1BIUFV2dGk3RmJMRTdrRDRScTJTRTJpRWV1ZTU5WUR5MDBCN1BEX2lkb3JSbUpLUmE0YTdNN1RoYmFTR3hGM1R3bm1KR0d2QlI5U2dUTHNTdWpGVjh5NE1yNFVzd3ZhYm5GMDh6M2wwTlpwLUd6Nng3a1lha1NwZzEydXE2VnhBYmhvMnV5Uk5SVHhRbmpBTEdKZko5Tm9PVm1tUUVNUkVSYURR?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/06/2026 19:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Upfreights Broadens China Freight Forwarding Access Across New Global Markets - The Daily Tribune News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNTXBNY2poZGQ2RWRCdHNKeVE3Vm9HS3BLb1A1ZTFFY3hNZTZjQnNjVEVBUHNWTHcxMWtHbnptWlh3eDhwVkJrRVhidF82bW9YYzlza2lKYmptUGRIelhiVEV0T0tKTnRaOGJJUmN0djMwNi1fb2szajRJdmU1dU0wT0lLb1d3OHVrV0g1bVA1ZklwejlG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTXBNY2poZGQ2RWRCdHNKeVE3Vm9HS3BLb1A1ZTFFY3hNZTZjQnNjVEVBUHNWTHcxMWtHbnptWlh3eDhwVkJrRVhidF82bW9YYzlza2lKYmptUGRIelhiVEV0T0tKTnRaOGJJUmN0djMwNi1fb2szajRJdmU1dU0wT0lLb1d3OHVrV0g1bVA1ZklwejlGUHdWSDgyS2NDcWRVbEpvamlmY1F5TnZwLW1OOTI0LXpYN1dSZm9mRzk4YmJfTFJwV1dqQWdEWEFHT1NfS2dqSV9OWG5Rd29vZHo4VDFUZ2MwcjhhRkhXWDd4Q3ZKa1FFd2hkQVZPZ2FtcjJwcHo5bE9vVU9MbmZtRE5hWHRXbDViQ1U?oc=5",
+        "titulo_evento": "The US.-Iran war dealt a big blow to the global economy. The IMF tells us how bad it could get. - MSN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNWE1YNWNDcDY0YjdBR3ZrVkNWTGdhYzZsMW16Ny1pOUMxOUNDWWwxeTFzYVJ3Z1czel9pQUJ0MWh0dFZoaWFrbm5FVHhBZXNRY0d1Rll1aUJ5S0lHajZJSW1wUTlwemZ6dm5YSWt3Ni1fLUJYSWI1MjM2ZkZheUNuN2c5dEVKYVBmc181M1VZanRBcERR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWE1YNWNDcDY0YjdBR3ZrVkNWTGdhYzZsMW16Ny1pOUMxOUNDWWwxeTFzYVJ3Z1czel9pQUJ0MWh0dFZoaWFrbm5FVHhBZXNRY0d1Rll1aUJ5S0lHajZJSW1wUTlwemZ6dm5YSWt3Ni1fLUJYSWI1MjM2ZkZheUNuN2c5dEVKYVBmc181M1VZanRBcERReE9MakJ1bW5jRTA4c25MNE4tVjlxNmtDTzhOcFFPUlBhUG5DNjlENHI4YUZkQnhpdUVhXzlQU0VTRklRcURCY2VwanFEVklTTWxoVnpoSmVhVkJtQ2ZqMzRFUEREbVpRb0RCS1FVdXZOaG9zQTRMX05NTXZXQUVRYWF5TDllVll0UWttMS1fbFRNYWg0bnN4RnVvdWRFUW9oZ3gzd2ZzWjJOUXMtRUNKVFYyNGZJVElDOXdoUEtIWlNDZ3IzSTU2V3RkYVR2d2pxVDJTMHNRWXBvVC04Mm9HdVNmN3JFdHUyU2xnbUFxU2h0dVEwcm9QSXc?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "10/06/2026 17:04"
+        "data_noticia": "10/06/2026 10:56"
       }
     }
   ]
