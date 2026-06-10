@@ -142,6 +142,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+        "descricao": "Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "10/06/2026 00:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+        "descricao": "Lebanon&#039;s Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/06/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US military launches ‘self-defence strikes’ targeting Iran",
+        "descricao": "US Central Command (CENTCOM) says its forces began launching ‘self-defence’ strikes against Iran.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/06/2026 23:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -193,13 +244,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US attacks Iran after Trump calls for response to Apache helicopter downing",
-        "descricao": "US president says that, although the pilots were rescued, Washington &#039;must, of necessity, respond to this attack&#039;.",
+        "titulo_evento": "US attacks Iran after Apache helicopter downed in Strait of Hormuz",
+        "descricao": "Blasts in Iran&#039;s Qeshm Island, Sirik, Jask and Bandar Abbas after Trump blamed Tehran for downing a US helicopter.",
         "url_fonte": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "09/06/2026 16:54"
@@ -227,67 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says in ‘final throes’ of peace deal but Israel kills 17 in Lebanon",
-        "descricao": "The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "09/06/2026 13:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons",
-        "descricao": "Former detainees tell Al Jazeera they were routinely sexually abused, starved and attacked by dogs.",
-        "url_fonte": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "09/06/2026 13:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK government ‘concerned’ by abuse claims against West Ham co-owner",
-        "descricao": "David Sullivan quit as joint chair of the relegated Premier League club to fight what he said were &#039;false allegations&#039;.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/9/uk-government-concerned-by-abuse-claims-against-west-ham-co-owner?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "09/06/2026 13:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US striking Iran in response to downing of helicopter, military says",
+        "titulo_evento": "US strikes Iran in response to downing of helicopter, military says",
         "descricao": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond. ",
         "url_fonte": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "09/06/2026 21:43"
+        "data_noticia": "10/06/2026 00:33"
       }
     },
     {
@@ -627,7 +627,7 @@
         "descricao": "The US military announced fresh \"self-defense\" attacks on Iran after the downing of an Apache helicopter over the Strait of Hormuz. DW has more.",
         "url_fonte": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "09/06/2026 22:40"
+        "data_noticia": "10/06/2026 01:15"
       }
     },
     {
@@ -839,23 +839,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK faces ‘eye-watering’ public sector cuts to fund defense pledges",
-        "descricao": "The author of Britain's refreshed defense strategy called on Labour MPs and \"pacifist\" members to accept big trade-offs on defense spending.",
-        "url_fonte": "https://www.politico.eu/article/uk-faces-eye-watering-public-sector-cuts-to-fund-defense-pledges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "09/06/2026 15:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -980,28 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5XbmdxRXY4ZzkyRFltQm50eXk5UTZBNy1remRvREZMZURwX2dSTHRUU1FJOTdqNnVLMmJDdThGaE8zZEpubThhNE54c3JGMnJWbjBVV2hQbnVWV0RFYnp4Rm41b3o3Z1R4bURLa0pvZHAwMVZZLU1sQVh2TTljWHBIc01pejZsSGc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5XbmdxRXY4ZzkyRFltQm50eXk5UTZBNy1remRvREZMZURwX2dSTHRUU1FJOTdqNnVLMmJDdThGaE8zZEpubThhNE54c3JGMnJWbjBVV2hQbnVWV0RFYnp4Rm41b3o3Z1R4bURLa0pvZHAwMVZZLU1sQVh2TTljWHBIc01pejZsSGc?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "09/06/2026 17:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war update: US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast - ABC7 Bay Area",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVlqR3ZYUW15aG9HRzJVQzZScFd0WW5HYkF5cXU1NExjRm9FYjBHb01ZNGdzZW5kaTViUEdkTFVrS09WaHdFME1NZ00tZFFlM28yTlQ2bDcxd2lQZEJzWXpxVHZhUWNubzJIc0VralpjVUtPSl83ZG5QeGNncGNjcnA4WE9nTXFqM2xLN1ZNVjBpXzhT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVlqR3ZYUW15aG9HRzJVQzZScFd0WW5HYkF5cXU1NExjRm9FYjBHb01ZNGdzZW5kaTViUEdkTFVrS09WaHdFME1NZ00tZFFlM28yTlQ2bDcxd2lQZEJzWXpxVHZhUWNubzJIc0VralpjVUtPSl83ZG5QeGNncGNjcnA4WE9nTXFqM2xLN1ZNVjBpXzhTWkdyU3dCeWg5Y2hFX3BXSTdpYmpiN0pkbVhaTkNFNkTSAboBQVVfeXFMUDFYc0JIYUZKbmdyRS01QUs4WDhYcXU0YnJpekdzQXQ5RGw5Wk9CTGtINmhWb1VEeHZkUHJnRHpvSVFBVkJnNHNpak9IR1Bjd2E4MzVBSEF4ZHpPczM4Yk01ZjQxMEJYQVdSdVZCVUhkV21JaUROdTNrUGdjcUN3aWZhNXBSSXVaT1c2S3JmQTh2VTd0RlY4ODRwSUVkLWN6Yk03Y0JvODNJM0JpWm15aGVTdGVBSVRnTGJB?oc=5",
+        "titulo_evento": "Opinion | Everybody Is a Loser in This Middle East War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVV9DS09veXEzUUc2X3BkZk5zRjlrZFdsSWFLdW1KU1JFQVptOXhKU1hjVERMZWR0WkpDNEpwWENVZ2JvdXhPdEEwcXc4YVZTTGNtNnZvZUdtYUJxSDkxOFV0NGdGYlJGYnFhWm0ydE5lMDdhWWJJRlZ4YXJ1OEJtOXlxYWF4QjBkLWtfVUt4bDJIeXdQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVV9DS09veXEzUUc2X3BkZk5zRjlrZFdsSWFLdW1KU1JFQVptOXhKU1hjVERMZWR0WkpDNEpwWENVZ2JvdXhPdEEwcXc4YVZTTGNtNnZvZUdtYUJxSDkxOFV0NGdGYlJGYnFhWm0ydE5lMDdhWWJJRlZ4YXJ1OEJtOXlxYWF4QjBkLWtfVUt4bDJIeXdQVUxj?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 21:59"
+        "data_noticia": "09/06/2026 21:00"
       }
     },
     {
@@ -1043,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Behind the scenes: How Israel and Iran nearly pulled Trump back to war - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdTdybjZHMG5MZ0tMUzlTZzMyWk5yQzNtMWtObFB2M3pPQkhRQzM2QmNsZG1xd3JTSmtzUDdOWFZjS1pmUzVPVWhmSmM2amdXVFRUbW14QUNNN2wyZ3M5ODR5cndwOGd3Q056NEY5TDBnR0xHa3k2VQ?oc=5\" target=\"_blank\">Behind the scen...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdTdybjZHMG5MZ0tMUzlTZzMyWk5yQzNtMWtObFB2M3pPQkhRQzM2QmNsZG1xd3JTSmtzUDdOWFZjS1pmUzVPVWhmSmM2amdXVFRUbW14QUNNN2wyZ3M5ODR5cndwOGd3Q056NEY5TDBnR0xHa3k2VQ?oc=5",
+        "titulo_evento": "Ukraine war briefing: Moscow car bomb kills Russian ammunition chief – reports - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHhIcFNmcHR1NjBuSGctSi0tdkttcTcxdmk2ZGFoOUEyT3MycTVpRVpBQ2NFY1c4c0M2MXEyUzdEV1VSUkp6dEdPeXQ4UThmRG1DQ2l1N2VYQ1NsbGV3LTAxV1VkdXBlMk4zVlE2UTlOWmZ5Y2hOMURQM0FNek9ESm9Cc2RnaWZ0alE4dFFZaHJLTTdO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHhIcFNmcHR1NjBuSGctSi0tdkttcTcxdmk2ZGFoOUEyT3MycTVpRVpBQ2NFY1c4c0M2MXEyUzdEV1VSUkp6dEdPeXQ4UThmRG1DQ2l1N2VYQ1NsbGV3LTAxV1VkdXBlMk4zVlE2UTlOWmZ5Y2hOMURQM0FNek9ESm9Cc2RnaWZ0alE4dFFZaHJLTTdOdmQ2bjV2aHJYaXVOZHVCSmc3ZHNQSExtdFBkZ00yY25DVnhFMWxKUFFB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 18:06"
+        "data_noticia": "10/06/2026 01:02"
       }
     },
     {
@@ -1065,11 +1031,79 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Explainer: Congress has backed Iran war powers resolutions. Now what? - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3dOU1IyOFhLMUxNVkRtMzV3RHJxNGlJemJhVXpkaFhPdGxMYVctaVBTVkloR2JuZ3VOc2pfeUhHVUxkMWZzWUk4V2txUS1mVXFieHdpbTVSTWNidGNLUUtKOHVGYlZNelZqRmNsTUE2d2cyZEE1c1VWTDFWQVJWcXBZazFvVnhVSThra2VUZHNGMVRu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3dOU1IyOFhLMUxNVkRtMzV3RHJxNGlJemJhVXpkaFhPdGxMYVctaVBTVkloR2JuZ3VOc2pfeUhHVUxkMWZzWUk4V2txUS1mVXFieHdpbTVSTWNidGNLUUtKOHVGYlZNelZqRmNsTUE2d2cyZEE1c1VWTDFWQVJWcXBZazFvVnhVSThra2VUZHNGMVRuMVBJWW9vSmpCWjdsQ1lZ?oc=5",
+        "titulo_evento": "China May wholesale inflation hits near 4-year high on Iran war, AI costs; consumer inflation misses - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlFzVVkwTDNOVFEyS1Q1bDV3WEl6RlF4d0g1QURRb1o0aHVIeXdYNllDSnNKSEZpRHZPemRNQk5PSDIxVENIOXEtSVhNaE0wRnR3RFNsb1IwYXprSUtXSjF1QmFsWFFUbkhLTm03alFJVnJ6Ny1OR2xSbFNfbmlPWTM1MUVrQ1otQ0h3WENWVlhZTVNh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlFzVVkwTDNOVFEyS1Q1bDV3WEl6RlF4d0g1QURRb1o0aHVIeXdYNllDSnNKSEZpRHZPemRNQk5PSDIxVENIOXEtSVhNaE0wRnR3RFNsb1IwYXprSUtXSjF1QmFsWFFUbkhLTm03alFJVnJ6Ny1OR2xSbFNfbmlPWTM1MUVrQ1otQ0h3WENWVlhZTVNhT1AwOWE1TjEyNzU5YXJnYzFWZ1Z1a2JiejVneg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 22:17"
+        "data_noticia": "10/06/2026 01:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran and Israel continue to trade missile strikes - 1A | Speak Freely",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNIQjd5WFRNd2xOb1B1UTUzQVFMeVJGV1VoT1B3WGhsUzBkYWFHNjJNVlYwc0F4LWstbW5QMS1qOHMyN2xEMkxIWkhjdmlkQzZkRUFsbVp3bHNVYkFWb09NUEdxSUhJLWlzbjJocV9scGN5ckYxNVFLNUYzN0lzU2RORQ?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNIQjd5WFRNd2xOb1B1UTUzQVFMeVJGV1VoT1B3WGhsUzBkYWFHNjJNVlYwc0F4LWstbW5QMS1qOHMyN2xEMkxIWkhjdmlkQzZkRUFsbVp3bHNVYkFWb09NUEdxSUhJLWlzbjJocV9scGN5ckYxNVFLNUYzN0lzU2RORQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/06/2026 23:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine winning war with Russia, retired U.S. generals say, as top Ukrainian commander says over 230 square miles retaken - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE1KeUVEcEZrSU9ucndjSWxIaF9hVElxUzFuczF4VHRSUU03RFZLRzE4MUZKZnN4UU0xTVF3cnBuclM0bWw5ZkdZNWQ4a2tZV3M1YVl3NlZYZzhWM1JFLUdtV0FxQVZKbGtjUzZabkFJQ0w1Q3dZN0ZaMVlEY2prclJn?oc=5\" target=\"_blank\">U...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE1KeUVEcEZrSU9ucndjSWxIaF9hVElxUzFuczF4VHRSUU03RFZLRzE4MUZKZnN4UU0xTVF3cnBuclM0bWw5ZkdZNWQ4a2tZV3M1YVl3NlZYZzhWM1JFLUdtV0FxQVZKbGtjUzZabkFJQ0w1Q3dZN0ZaMVlEY2prclJn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 01:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5XbmdxRXY4ZzkyRFltQm50eXk5UTZBNy1remRvREZMZURwX2dSTHRUU1FJOTdqNnVLMmJDdThGaE8zZEpubThhNE54c3JGMnJWbjBVV2hQbnVWV0RFYnp4Rm41b3o3Z1R4bURLa0pvZHAwMVZZLU1sQVh2TTljWHBIc01pejZsSGc?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5XbmdxRXY4ZzkyRFltQm50eXk5UTZBNy1remRvREZMZURwX2dSTHRUU1FJOTdqNnVLMmJDdThGaE8zZEpubThhNE54c3JGMnJWbjBVV2hQbnVWV0RFYnp4Rm41b3o3Z1R4bURLa0pvZHAwMVZZLU1sQVh2TTljWHBIc01pejZsSGc?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "09/06/2026 17:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US military launches ‘self-defence strikes’ targeting Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0I4RTFaVXpFVzlROXc4VkhqbzlWU0JCNlhaQWplblM4UFBaOHNoRFJOR18xS2VMWlotRWZ6bExXQ3BQdUtwQ0NVU2R2UTJuRndkbWw4cXZxX2VnUjdpbkM3N0JUZHNCXzMwUWNyUzhpOUpQQzdPOF92S3NRWFJWcGdzZE5nNjE5YkNFZUs1Q2MtaDR3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0I4RTFaVXpFVzlROXc4VkhqbzlWU0JCNlhaQWplblM4UFBaOHNoRFJOR18xS2VMWlotRWZ6bExXQ3BQdUtwQ0NVU2R2UTJuRndkbWw4cXZxX2VnUjdpbkM3N0JUZHNCXzMwUWNyUzhpOUpQQzdPOF92S3NRWFJWcGdzZE5nNjE5YkNFZUs1Q2MtaDR3emtPNnJJekZVb1BUVUQ5aXdZMmh6Z9IBrwFBVV95cUxOeDdfYzR4eFZMby12bWhjWGxkMWN2YXlYUVZZdWdWalJlaEhaazFfYlp1TXI5MkVDQXd6cm00a0FGT2szYWlRMTBWWUR5b0wxQUV2YWhILTlEWlV3N0NsbXF6Mng2RTZ3RDdKY0F1bkJrYjR6b19GTUpzTnl5SEFzQnhENEZtRzdaSHlkbU5na0VBTGRQNnZIdDRQQ3NGd2p2TnAybk1ZNWpzMHl4ZFA0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 00:05"
       }
     },
     {
@@ -1094,6 +1128,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US attacks Iran after Apache helicopter downed in Strait of Hormuz - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U3RXhmWS1NWEQ1QzhPZmFULVhEMGwtOVRSSVBKVVowLUxSNUFvYmZUUGljZThPdkVOaVJicmJ2SFJENmdudGZOdWVVNmFqRTJFQ0ZjUzE1RXdJYjNKS2Q2V0Nfcm9HenY0bEF2V1pHdDRadXZxZ1loTlQwYks1VklkV04yRklIQ2FVSXJKQ1pDQmFo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U3RXhmWS1NWEQ1QzhPZmFULVhEMGwtOVRSSVBKVVowLUxSNUFvYmZUUGljZThPdkVOaVJicmJ2SFJENmdudGZOdWVVNmFqRTJFQ0ZjUzE1RXdJYjNKS2Q2V0Nfcm9HenY0bEF2V1pHdDRadXZxZ1loTlQwYks1VklkV04yRklIQ2FVSXJKQ1pDQmFoeEVXSmtJSEViQnhzQmh3WEg2LVVEV2lS0gGyAUFVX3lxTE4xQ2Ixb01CVTZLSDFRNFZQbGI0M1Z2YmVFZVJoanVEbUJzMk5mc1p5cUo3Z2kzcGNpaVI5RHlFaWJlZ0JaMDBnMUV4UGFFTnFDOHctallaeHJiWHM5WVZVaGhOOExlR1RPUTEwNS15Z2pqYnp1TnRDRWhFdHFzVGplMW1NbEdNVjJmdkhiQXE1ZE9rMVdxSkZRU2FYa0lZdm9CdzA0amluNG5ta0ZEN0h0THc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/06/2026 01:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1111,50 +1162,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine winning war with Russia, retired U.S. generals say, as top Ukrainian commander says over 230 square miles retaken - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE1KeUVEcEZrSU9ucndjSWxIaF9hVElxUzFuczF4VHRSUU03RFZLRzE4MUZKZnN4UU0xTVF3cnBuclM0bWw5ZkdZNWQ4a2tZV3M1YVl3NlZYZzhWM1JFLUdtV0FxQVZKbGtjUzZabkFJQ0w1Q3dZN0ZaMVlEY2prclJn?oc=5\" target=\"_blank\">U...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE1KeUVEcEZrSU9ucndjSWxIaF9hVElxUzFuczF4VHRSUU03RFZLRzE4MUZKZnN4UU0xTVF3cnBuclM0bWw5ZkdZNWQ4a2tZV3M1YVl3NlZYZzhWM1JFLUdtV0FxQVZKbGtjUzZabkFJQ0w1Q3dZN0ZaMVlEY2prclJn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 18:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Opinion | Everybody Is a Loser in This Mideast War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVV9DS09veXEzUUc2X3BkZk5zRjlrZFdsSWFLdW1KU1JFQVptOXhKU1hjVERMZWR0WkpDNEpwWENVZ2JvdXhPdEEwcXc4YVZTTGNtNnZvZUdtYUJxSDkxOFV0NGdGYlJGYnFhWm0ydE5lMDdhWWJJRlZ4YXJ1OEJtOXlxYWF4QjBkLWtfVUt4bDJIeXdQ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVV9DS09veXEzUUc2X3BkZk5zRjlrZFdsSWFLdW1KU1JFQVptOXhKU1hjVERMZWR0WkpDNEpwWENVZ2JvdXhPdEEwcXc4YVZTTGNtNnZvZUdtYUJxSDkxOFV0NGdGYlJGYnFhWm0ydE5lMDdhWWJJRlZ4YXJ1OEJtOXlxYWF4QjBkLWtfVUt4bDJIeXdQVUxj?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 21:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US attacks Iran after Trump calls for response to Apache helicopter downing - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U3RXhmWS1NWEQ1QzhPZmFULVhEMGwtOVRSSVBKVVowLUxSNUFvYmZUUGljZThPdkVOaVJicmJ2SFJENmdudGZOdWVVNmFqRTJFQ0ZjUzE1RXdJYjNKS2Q2V0Nfcm9HenY0bEF2V1pHdDRadXZxZ1loTlQwYks1VklkV04yRklIQ2FVSXJKQ1pDQmFo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U3RXhmWS1NWEQ1QzhPZmFULVhEMGwtOVRSSVBKVVowLUxSNUFvYmZUUGljZThPdkVOaVJicmJ2SFJENmdudGZOdWVVNmFqRTJFQ0ZjUzE1RXdJYjNKS2Q2V0Nfcm9HenY0bEF2V1pHdDRadXZxZ1loTlQwYks1VklkV04yRklIQ2FVSXJKQ1pDQmFoeEVXSmtJSEViQnhzQmh3WEg2LVVEV2lS0gGyAUFVX3lxTE4xQ2Ixb01CVTZLSDFRNFZQbGI0M1Z2YmVFZVJoanVEbUJzMk5mc1p5cUo3Z2kzcGNpaVI5RHlFaWJlZ0JaMDBnMUV4UGFFTnFDOHctallaeHJiWHM5WVZVaGhOOExlR1RPUTEwNS15Z2pqYnp1TnRDRWhFdHFzVGplMW1NbEdNVjJmdkhiQXE1ZE9rMVdxSkZRU2FYa0lZdm9CdzA0amluNG5ta0ZEN0h0THc?oc=5",
+        "titulo_evento": "US strikes Iran in response to downing of helicopter, military says - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMU5qNmNLREM0TFZjR2hkZ1ZTSlZFNktlWjhZX0Z0YnM0UFRicUNkaUxxTzRvM195emt5aWhYX2FONkFUR1ZwNHdwQVphYm5YVnJ4RHJjbEh0QQ?oc=5\" target=\"_blank\">US strikes Iran in response to downing of helicopter, m...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMU5qNmNLREM0TFZjR2hkZ1ZTSlZFNktlWjhZX0Z0YnM0UFRicUNkaUxxTzRvM195emt5aWhYX2FONkFUR1ZwNHdwQVphYm5YVnJ4RHJjbEh0QQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 22:36"
+        "data_noticia": "10/06/2026 00:33"
       }
     },
     {
@@ -1196,50 +1213,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.7129,
-          37.0902
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "How War in the Middle East Impacts Supply Delivery for Children Worldwide - unicef usa",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTZNdGw4ZWRqQktTMDd6ZjZnbFE2VTdINEFOMmVZUVJZZDExeUZGT1B1dnZYZEtndk5XN0c0WEQ5MllNX05jSlFXd19ySDY0SmZURFpmektIZ3BrXzYya0djQjZ4cDZfNFNDZ25BdXFra3BOSkUyUF8xM2Z1cnItVXVYakJZa0dfTXZDT3JpRjd2dFNt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTTZNdGw4ZWRqQktTMDd6ZjZnbFE2VTdINEFOMmVZUVJZZDExeUZGT1B1dnZYZEtndk5XN0c0WEQ5MllNX05jSlFXd19ySDY0SmZURFpmektIZ3BrXzYya0djQjZ4cDZfNFNDZ25BdXFra3BOSkUyUF8xM2Z1cnItVXVYakJZa0dfTXZDT3JpRjd2dFNtaW5kNW05aFA?oc=5",
+        "titulo_evento": "U.S. launches new strikes on Iran after downing of U.S. helicopter - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWdvRUJXeEttQUppc3Z2YnF1ZEdwLXNBN085ekR4SUhDaXZocVNJQ3BnRlZPUWNOMHBxNHJzSmxGZExnU1VleDJNQm1uYlpNNkJsT3VXeHZGWTAtYjQ1NFAzM1VuNGwwWEsyRHBydzl6ZkFvTl9WQU1CN19rQ0xuWkZZcmFhNkM3SEtybU9FNUtYTDdz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWdvRUJXeEttQUppc3Z2YnF1ZEdwLXNBN085ekR4SUhDaXZocVNJQ3BnRlZPUWNOMHBxNHJzSmxGZExnU1VleDJNQm1uYlpNNkJsT3VXeHZGWTAtYjQ1NFAzM1VuNGwwWEsyRHBydzl6ZkFvTl9WQU1CN19rQ0xuWkZZcmFhNkM3SEtybU9FNUtYTDdzemVweW5FZkR1aDRBc0xaaUFBZTBSUnd2SkxNam8zZ01xemE3Rmx6YVpULV83b3ByZXZMVw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 21:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’ - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU5Tm5adFlYUTZxcjhETGdPTDhkelJNUDk3dEpPNUNrZTJ3WlkzM3VKWEtRSHpxeDdvOUM5WXBNRmdMZ3l0LWRRRVo0VWM5WEROY3VhWndFWkc1NzFvb1pReDN3dUVLTE8waFQybXAzTUJhSXdYa1c4MVFNeUc2X0FRVjE3aHQ3aTJmOVRQaDdfcFNG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWU5Tm5adFlYUTZxcjhETGdPTDhkelJNUDk3dEpPNUNrZTJ3WlkzM3VKWEtRSHpxeDdvOUM5WXBNRmdMZ3l0LWRRRVo0VWM5WEROY3VhWndFWkc1NzFvb1pReDN3dUVLTE8waFQybXAzTUJhSXdYa1c4MVFNeUc2X0FRVjE3aHQ3aTJmOVRQaDdfcFNGdXNwc2V4NWhZYml1eE9CYWI3ZjlTQdIBrwFBVV95cUxPRmN6REFGd0xtNlpSSnh5eTFkNjhyUFRHRTJINDd0VWNEd0pUbVNEUHZ6TFdxWkg4bllZWEdCT0Q3aUFRREFvZzJVaUdlbzFPOW1Yc1UtZVBGazVwa3FmcVltTDBlLWpKOWd3eGpiYTN3dFV3eGNiVkNkRk94bkdZdGJOcXFvbFJQVkVsd1V6dVVqbnBuVE0yTXg5c3B2dEZUdFRWYV9FazhxcFFHUnlj?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 14:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Suggests Stealing Half of Iran’s Oil as War Payback - The New Republic",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9yM205T1pyRFdLUW1Ed0drdzA5a2xpYmlmd05VaUgzUDUydEZKdFBvVXZSM29Nam1ibXE1RnZmMzBiajdUb1RXM3R0RFExOFJQN0hxcHBUUXEzcm5nRF9iWmZtOVZGaEhha1h5QVpSbFpFZw?oc=5\" target=\"_blank\">Trump Suggests Stealing...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yM205T1pyRFdLUW1Ed0drdzA5a2xpYmlmd05VaUgzUDUydEZKdFBvVXZSM29Nam1ibXE1RnZmMzBiajdUb1RXM3R0RFExOFJQN0hxcHBUUXEzcm5nRF9iWmZtOVZGaEhha1h5QVpSbFpFZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/06/2026 19:57"
+        "data_noticia": "10/06/2026 02:07"
       }
     },
     {
@@ -1264,33 +1247,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.0152,
-          -9.19
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Peru race tightens again amid market volatility as overseas, rural ballots pour in - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzdKVkNBcVpqTUgwbjNQWW1DZFU2aVhhLTVpcWhhUG1wX01Xd2ktWXdxRDRxdDRVQkp0VktzdVAzd2RLaXA3eUY3cHpwTWYwYkFNM0I1RDVNQ3dWbjI2ZHhaZVRxZmNzY3F3RjJRajV3TENTZXFQTmNNNlp4cmpsN3FkMUJlVmZKLU1iTUhZcWlUeV9i...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzdKVkNBcVpqTUgwbjNQWW1DZFU2aVhhLTVpcWhhUG1wX01Xd2ktWXdxRDRxdDRVQkp0VktzdVAzd2RLaXA3eUY3cHpwTWYwYkFNM0I1RDVNQ3dWbjI2ZHhaZVRxZmNzY3F3RjJRajV3TENTZXFQTmNNNlp4cmpsN3FkMUJlVmZKLU1iTUhZcWlUeV9iZTBlQ2pmUmRQU05qcndIaE9nalFudmJGVkhXb1hn?oc=5",
+        "titulo_evento": "Trump says a breakdown in peace talks with Iran could mean 'you won't have the strait open for months' - Yahoo Finance",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWElKX3dVdWFmLWRhV0hOSEJiOC1zeTNoTXJtYVZIb1B1UkxQMWwwZWxPUVBWa3k3SFdaek5oWFM3NkNyTDNkNDZMQnlpUHYyN3FJbUhGMF8tQVlYaVBkS2tqUHFPLUExWklLUHZHbFRkdFZTbmVpcXphQVdFZmc0Ry1JTFZuLWFGbnplaG53VVZZSEVX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWElKX3dVdWFmLWRhV0hOSEJiOC1zeTNoTXJtYVZIb1B1UkxQMWwwZWxPUVBWa3k3SFdaek5oWFM3NkNyTDNkNDZMQnlpUHYyN3FJbUhGMF8tQVlYaVBkS2tqUHFPLUExWklLUHZHbFRkdFZTbmVpcXphQVdFZmc0Ry1JTFZuLWFGbnplaG53VVZZSEVXcWJjSE5TODFnVXAwcGFqaWdHRzFhWUtya0ZySXl1SzRWYlhZWk0wS0w1VzhFeEVyZktnMzBDV29YVDR0alRlVWh4VmNNZlIwTjAzR2JCUWRUVk1rSWdfVw?oc=5",
         "categoria": "Política (Google News Markets)",
-        "data_noticia": "09/06/2026 22:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Driven by AI demand, China on track to pass US as top nuclear energy producer - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUJiWFQ4YVM5VkZvX1JnZ3RHS202U1paa2cxUnN2TkxDRnlTanhuVXk1cXpkMXIwRVhudXdhMUNYQ1JOdVNGcjRVcjZSWjZINGZxUHBTQ1dHa0wtY1ZTUHlFMDVUdzl1TS1ZU3JLdlV1YnFBRFlDazhOTlhVS2pvZ3I1S2lPUE1QZFJNaTVLd0VPVnY4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUJiWFQ4YVM5VkZvX1JnZ3RHS202U1paa2cxUnN2TkxDRnlTanhuVXk1cXpkMXIwRVhudXdhMUNYQ1JOdVNGcjRVcjZSWjZINGZxUHBTQ1dHa0wtY1ZTUHlFMDVUdzl1TS1ZU3JLdlV1YnFBRFlDazhOTlhVS2pvZ3I1S2lPUE1QZFJNaTVLd0VPVnY4TGt6R09EYkdua1FkWU5iS0lvMWhwREZJUllxVTlidWlLZ2U0U18yVHppMmVnd9IBwgFBVV95cUxOYThQOHZTdjREcDVVVjhReVdqemZqSmVhbjdraHRjSnZ4dFF1d3JaM0UzLVNtcm9ZYzFyTFpWUmRnZWQtUDkyOGRRcUI1cVg3dXJJUmtWTjBpRmRaOW1BaXh5S2NjM3oyZHVDbW9XeTR4am5TVGFobFk5SmlRUU5LRXY4QzMzNWtWN3NMdXRKNW01TWs4OXFsOHotZnFDSmpZcVd2U2pPeV91LURFOFZTdE1VbG9qNEZpc0FwdGtseUdkQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "09/06/2026 14:00"
+        "data_noticia": "09/06/2026 20:21"
       }
     }
   ]
