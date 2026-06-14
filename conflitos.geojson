@@ -79,7 +79,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+        "titulo_evento": "Israel attacks southern Beirut after alleged Hezbollah drone fire",
         "descricao": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
         "url_fonte": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -329,13 +329,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East war live: Israel military hits southern Beirut with air strikes",
-        "descricao": "\nIsrael announced on Sunday that it had carried out air strikes on the southern suburbs of Beirut, which it considers a stronghold of the pro-Iranian militant group Hezbollah. US and Pakistani leaders forecast a Sunday signing of an agreement to end ...",
+        "titulo_evento": "Middle East live: Iran questions US willingness to fulfill commitments after Israel attack on Beirut",
+        "descricao": "\nIran’s ⁠top ​negotiator on Sunday questioned the United States willingness to fulfill its commitments after Israel ​attacked ⁠Beirut’s southern suburbs. In a post on X, Baqer Qalibaf referred to the ongoing peace negotiations between Tehran and Wash...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "14/06/2026 05:12"
@@ -390,6 +390,23 @@
         "url_fonte": "https://www.france24.com/en/sport/20260613-brazil-morocco-live-world-cup-2026-first-heavyweight-clash-in-group-stage",
         "categoria": "Economia (France 24)",
         "data_noticia": "13/06/2026 21:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why is Bulgaria banning arms supplies to Ukraine?",
+        "descricao": "Bulgaria's new government has banned state arms supplies to Ukraine. The ban does not, however, affect commercial exports, raising the question as to whether the move was aimed more at a domestic audience than at Kyiv.",
+        "url_fonte": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "14/06/2026 12:54"
       }
     },
     {
@@ -538,23 +555,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US, Venezuela say Tren de Aragua leader killed in strike",
-        "descricao": "The leader of the Venezuela-based Tren de Aragua gang has died in a US strike, US President Donald Trump says. The gang has been labeled a terrorist organization by Washington.",
-        "url_fonte": "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "13/06/2026 06:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
         "titulo_evento": "Ukraine is winning the drone war. Now it needs to win over Trump.",
         "descricao": "Battlefield gains and drone deals with Europe have given Kyiv rare leverage heading into the G7 world leaders’ summit, even as Washington's attention is elsewhere.",
         "url_fonte": "https://www.politico.com/news/2026/06/14/ukraine-us-g7-drones-00960697?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -618,16 +618,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Qatari mediators travel to Tehran for final touches on a possible deal to end war - AP News",
+        "titulo_evento": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal - AP News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5\"...",
         "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 09:48"
+        "data_noticia": "14/06/2026 12:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What the US says is in the potential Iran war agreement - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 10:26"
       }
     },
     {
@@ -645,6 +662,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTFrTWF4NThUbjQwVVJZcUFhZkh2SHlhVWNNRzhDbVpsNFBxekFKaHBJa0pwbkZCMy1TSnJxVnNjRDMwQWduZVZLR0dacVZMazlYRUxDejV2Q0tnQVRkS0hzenpQc0l0anN3cllodjVnMWN2bFlZS1ZIX0RWTDd6bHVvaFV6REJvc2pNdE5ZTkNpYjlDSVhZbzF3T0RkVmc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "14/06/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran deal does not solve all Israel's problems, war was never meant to - analysis - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5\" target=\"_blank\">Iran deal does not solve all Israel's problems, war w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 12:34"
       }
     },
     {
@@ -674,11 +708,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "What the US says is in the potential Iran war agreement - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5",
+        "titulo_evento": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZMkJzclp6eXBUU1dnMDVfRWZnYTBSNVRiSEhFZFVyU2RpdGVIa3JDeXNkRXhoN1ZQcklLU3dSN3RVOHBQQk1NQ253SFZiV0VxRHJ3OTQzM3NRYS1FVm56M1FUOUdjM2ZxYzJhdXhEcHBqT2taV3UwY3p3?oc=5\" target=\"_blank\">Trump says de...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZMkJzclp6eXBUU1dnMDVfRWZnYTBSNVRiSEhFZFVyU2RpdGVIa3JDeXNkRXhoN1ZQcklLU3dSN3RVOHBQQk1NQ253SFZiV0VxRHJ3OTQzM3NRYS1FVm56M1FUOUdjM2ZxYzJhdXhEcHBqT2taV3UwY3p3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 07:24"
+        "data_noticia": "14/06/2026 03:46"
       }
     },
     {
@@ -691,11 +725,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZMkJzclp6eXBUU1dnMDVfRWZnYTBSNVRiSEhFZFVyU2RpdGVIa3JDeXNkRXhoN1ZQcklLU3dSN3RVOHBQQk1NQ253SFZiV0VxRHJ3OTQzM3NRYS1FVm56M1FUOUdjM2ZxYzJhdXhEcHBqT2taV3UwY3p3?oc=5\" target=\"_blank\">Trump says de...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZMkJzclp6eXBUU1dnMDVfRWZnYTBSNVRiSEhFZFVyU2RpdGVIa3JDeXNkRXhoN1ZQcklLU3dSN3RVOHBQQk1NQ253SFZiV0VxRHJ3OTQzM3NRYS1FVm56M1FUOUdjM2ZxYzJhdXhEcHBqT2taV3UwY3p3?oc=5",
+        "titulo_evento": "Iran war: Trump, Pakistan tease deal, but doubts remain - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 03:46"
+        "data_noticia": "14/06/2026 11:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The U.S. got pushed into the Iran war. Can Trump get us out? - Houston Chronicle",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjlKalVHcjQyRnI5WDYwYlN5WGJPRXlHd2dyYVRmQ0JJRjlaWGdmb205UUNlOGtNS3ZVenJRZEpHUlBPM1Ytc1N0TnRWVy0tTnRtZm9VTzgtM3ExNnhDdmdGR2JZTWJOOEEwdHl5TEdvU0JTNTZ0VWZaUkRuNFh0UVpNR0tyXzBXamJ2Z1h5eEhUc2Rp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjlKalVHcjQyRnI5WDYwYlN5WGJPRXlHd2dyYVRmQ0JJRjlaWGdmb205UUNlOGtNS3ZVenJRZEpHUlBPM1Ytc1N0TnRWVy0tTnRtZm9VTzgtM3ExNnhDdmdGR2JZTWJOOEEwdHl5TEdvU0JTNTZ0VWZaUkRuNFh0UVpNR0tyXzBXamJ2Z1h5eEhUc2RpakgwRmZIZFhGU0NxdGVqa2Z2bmJKSnBTbEUwZ0RGTkttVmFtN3c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 11:47"
       }
     },
     {
@@ -725,28 +776,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran deal does not solve all Israel's problems, war was never meant to - analysis - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5\" target=\"_blank\">Iran deal does not solve all Israel's problems, war w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5",
+        "titulo_evento": "Israel says its military attacked Hezbollah targets in Beirut's southern suburbs - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1ZSMHdVR0RXSjFrUkp3dFVfMlYzVlBjQjNVRUdNYVZhRzNBNzJtcHdmYklfaTFmYlgyZnI3MS1vSzYtcHRHdUgtSXh2aVpzUzFlQ0RJdWJIRmJnV3FmZG9FaTlUS0MyQWtVUW8zZDc4LWxWV0lkcDJ1NzNCdjhYUUR6d1dYOXZKblkwaUFRLWRiZzds...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1ZSMHdVR0RXSjFrUkp3dFVfMlYzVlBjQjNVRUdNYVZhRzNBNzJtcHdmYklfaTFmYlgyZnI3MS1vSzYtcHRHdUgtSXh2aVpzUzFlQ0RJdWJIRmJnV3FmZG9FaTlUS0MyQWtVUW8zZDc4LWxWV0lkcDJ1NzNCdjhYUUR6d1dYOXZKblkwaUFRLWRiZzdsU1dKbUdDMlg3Wk5leXN0edIBqgFBVV95cUxQSnZ1QzRmZzdTQ0FINWZVZVB3emhMNmN0eXc4RG9xQzEwSkZwSVU1Y0plRU0zNHpPQkw1aERzNVlMTUpYRzVocFFVd3FtbVl2QUxiRmZaejluNnRTMkdRNWVjQkN5czJyaFVqc2VONFRZZGNnQ0FNQUhFZlc1OWY5eGRYSUg4SHVnQVpMTnR1eDN1ZkFaWGFmbGZWRjg2dWV0R3A2a2dMMmR6Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 08:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FobzBGTzVTSUh3M2RlSjBrM2dVZk8yN2N0VnN0YTJXNW1lTGIwRURCWjJKNHU5RzkwQ1NnbFRtVERQMVdYYzJBU19qaDY3WmEtNzVwajg0bnk1eG5kRW1fME1QblVabk1jckNmVDhPRlRlS2hiN3U4U3FwTDI4M3c5TmxKSmw0bHlHd1NsUlo2cmtf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FobzBGTzVTSUh3M2RlSjBrM2dVZk8yN2N0VnN0YTJXNW1lTGIwRURCWjJKNHU5RzkwQ1NnbFRtVERQMVdYYzJBU19qaDY3WmEtNzVwajg0bnk1eG5kRW1fME1QblVabk1jckNmVDhPRlRlS2hiN3U4U3FwTDI4M3c5TmxKSmw0bHlHd1NsUlo2cmtfbDRiNXF1TjZiYWxiQUxSX21TMndUdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 07:00"
+        "data_noticia": "14/06/2026 12:11"
       }
     },
     {
@@ -763,7 +797,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc3htM1JvcDRxY19PR2JBeUxDYy1hbHB2dUxzV1JKMEtJemJia1VFaFdTYzlXT2N0RHJ6ZDBlWEpxU2JSY0xoRXdjeXdJbDluQjhQY2FyNnNYODhoM1BJSWEtNmZjYUk1eENWTU1uNURqNmk1N1VhbVdn?oc=5\" target=\"_blank\">Trump Again C...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gc3htM1JvcDRxY19PR2JBeUxDYy1hbHB2dUxzV1JKMEtJemJia1VFaFdTYzlXT2N0RHJ6ZDBlWEpxU2JSY0xoRXdjeXdJbDluQjhQY2FyNnNYODhoM1BJSWEtNmZjYUk1eENWTU1uNURqNmk1N1VhbVdn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 07:16"
+        "data_noticia": "14/06/2026 10:21"
       }
     },
     {
@@ -805,33 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: Trump, Pakistan tease deal, but doubts remain - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?oc=5",
+        "titulo_evento": "Russia is losing the war in Ukraine, and Putin is desperate. But that’s when he’s at his most dangerous | Simon Tisdall - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FobzBGTzVTSUh3M2RlSjBrM2dVZk8yN2N0VnN0YTJXNW1lTGIwRURCWjJKNHU5RzkwQ1NnbFRtVERQMVdYYzJBU19qaDY3WmEtNzVwajg0bnk1eG5kRW1fME1QblVabk1jckNmVDhPRlRlS2hiN3U4U3FwTDI4M3c5TmxKSmw0bHlHd1NsUlo2cmtf...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FobzBGTzVTSUh3M2RlSjBrM2dVZk8yN2N0VnN0YTJXNW1lTGIwRURCWjJKNHU5RzkwQ1NnbFRtVERQMVdYYzJBU19qaDY3WmEtNzVwajg0bnk1eG5kRW1fME1QblVabk1jckNmVDhPRlRlS2hiN3U4U3FwTDI4M3c5TmxKSmw0bHlHd1NsUlo2cmtfbDRiNXF1TjZiYWxiQUxSX21TMndUdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 08:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel says military attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 11:17"
+        "data_noticia": "14/06/2026 07:00"
       }
     },
     {
@@ -844,62 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "U.S., Iran expected to \"electronically\" sign agreement to end war Sunday - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE84dVo1TW5STXdMMTN4NmpzLWZmdUxUU1Z1a1doX1RaUDd6dXhQZ2RGOG5OZUwxM2tpay1iM0hObmFQbVc5S2VGdEhKdGs2N2pJZHFBMHFPRU5UTTZ6M3M2VFhTZFpMUlZEanJVVTFISQ?oc=5\" target=\"_blank\">U.S., Iran expected to \"ele...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84dVo1TW5STXdMMTN4NmpzLWZmdUxUU1Z1a1doX1RaUDd6dXhQZ2RGOG5OZUwxM2tpay1iM0hObmFQbVc5S2VGdEhKdGs2N2pJZHFBMHFPRU5UTTZ6M3M2VFhTZFpMUlZEanJVVTFISQ?oc=5",
+        "titulo_evento": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDhLRXNOMjg2Z01yYnhTRmdJaE1RN0pvN21Cdk1iWm9jU2hhLXZvWUxEbnVILXBqMUt3dlFVTG9kYV84Um55WFMwT3ZPUkdzbnpCMkcweE82Y29yQ0IzTmtWMF9nRldiYi0ya1FRQUZpNXM5RjBXd1ZFWGVWYWxCRGJOR0tCU1RjY3BJN3hOR1lMUXh0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDhLRXNOMjg2Z01yYnhTRmdJaE1RN0pvN21Cdk1iWm9jU2hhLXZvWUxEbnVILXBqMUt3dlFVTG9kYV84Um55WFMwT3ZPUkdzbnpCMkcweE82Y29yQ0IzTmtWMF9nRldiYi0ya1FRQUZpNXM5RjBXd1ZFWGVWYWxCRGJOR0tCU1RjY3BJN3hOR1lMUXh0Y3ZyM2ZxQ042NUdmVk9Ka1JXdjNodkdO0gHAAUFVX3lxTE5weWg2cGNZNjNwLWprdG1VdDAwS00tRjRuVjZSbXlxNkR3OXdLNGJOUlNIQU5pZTF0YnZia0NEZDF2SVlmdHNORVFTa3p3eUN3eDYxWFRvYWdjRGdTSkdRckxJUXFQYUNxS2h5X1hyelBoWVMzbUNxY2daQ3RiT0NXZ2k0NEV3OGl0V2JNRzNVNm1ncXhTWTc3MFJCajNmN3FQWkV1OGdSRU1MZ2VqNUFDWlFOdHpndW5VUEI2cWgyeA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 04:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Godlewski: ‘You betcha’ Tiffany sides with Trump on cutting healthcare, dragging U.S. into war with Iran - WisPolitics",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGpmbkpCT1pvb2RXY2c0Q2VtT1p3ZExXSXg2MlRSVlJwRmxRTWt4Z2RrVTBKQ0Nld3J1R0V1YWtkaUpBUjRFNHN3NnR1cEJYQkoxc1N1dWZuV2NCYWdSWWxBekZYeTdhZEE5cHIwMjN1NVUtVjgxV2wtWmNEOWpzNi1PLU9OMHlNQ3hVZU9KSmdvWnNO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGpmbkpCT1pvb2RXY2c0Q2VtT1p3ZExXSXg2MlRSVlJwRmxRTWt4Z2RrVTBKQ0Nld3J1R0V1YWtkaUpBUjRFNHN3NnR1cEJYQkoxc1N1dWZuV2NCYWdSWWxBekZYeTdhZEE5cHIwMjN1NVUtVjgxV2wtWmNEOWpzNi1PLU9OMHlNQ3hVZU9KSmdvWnNOTExLbnVLaVNPWXNHVXVpMGlZOVBydjJlTDVVWjBpdklmWXY5UVNLS01fZ0lycThhWXhaSVdpeld6UQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/06/2026 23:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran at the World Cup: War, Visa Issues, Ticket Problems and a Pride Match - Newsweek",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1FLM3lLNGhnUzJabldwNTBXX0xHbDBNeFVIVkNsZzNYU21GZHNJVXZ5OVFaTHN5c3V2ejhYOFJjbFlJVlBxem9RWmI3ejU4TDZHTVp0ZnBUQkM1Uk1yTHctNnhPektjRXZlRGdnZDJSbmFYU2pTQWhfdU5naU9ZWXFiUzAzRy0zV3o5YnJMSmZvb1BJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1FLM3lLNGhnUzJabldwNTBXX0xHbDBNeFVIVkNsZzNYU21GZHNJVXZ5OVFaTHN5c3V2ejhYOFJjbFlJVlBxem9RWmI3ejU4TDZHTVp0ZnBUQkM1Uk1yTHctNnhPektjRXZlRGdnZDJSbmFYU2pTQWhfdU5naU9ZWXFiUzAzRy0zV3o5YnJMSmZvb1BJaXhGTlR2UHg1c1lTakQtUFY2Y1U?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 08:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran Update Special Report, June 13, 2026 - Institute for the Study of War",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ21WcHlHLVY0anVsTDZyZDM4Y1ZVd3RLN0NjM1o0ZnRub1JDWFpTejlyZ29IOVZadzBlR0hfZnFmNDFoWno3Q25WTV92Y1hjb0xQaEZ5VXdCLXJiOTlTMUdhUGcxdWNZUGNmSWU1QmNqMEt5dmJzS2h2Wmxlc2Y4b2pRbUlyVGlUc3ZtZmxKbWxDbW5i...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ21WcHlHLVY0anVsTDZyZDM4Y1ZVd3RLN0NjM1o0ZnRub1JDWFpTejlyZ29IOVZadzBlR0hfZnFmNDFoWno3Q25WTV92Y1hjb0xQaEZ5VXdCLXJiOTlTMUdhUGcxdWNZUGNmSWU1QmNqMEt5dmJzS2h2Wmxlc2Y4b2pRbUlyVGlUc3ZtZmxKbWxDbW5i?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/06/2026 22:29"
+        "data_noticia": "14/06/2026 11:28"
       }
     },
     {
@@ -916,7 +882,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjFDTG5Ld1VzRzhjVmo0ZnU4aEhqTngtcm12MTB3Q3pHazNXdU9zZTQza3haSWc4SVUwZE9ONHcxXzB3MmtIVkVpOTc5OW1sVnVNNWpnOUF0TkluNnNpTmVLS0RPRXpONlNOMW83R1ZMUEN5RXltYnU1ZWxqRGVHS2lYbWFYSFhVdkVMZmlsenpadG51...",
         "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjFDTG5Ld1VzRzhjVmo0ZnU4aEhqTngtcm12MTB3Q3pHazNXdU9zZTQza3haSWc4SVUwZE9ONHcxXzB3MmtIVkVpOTc5OW1sVnVNNWpnOUF0TkluNnNpTmVLS0RPRXpONlNOMW83R1ZMUEN5RXltYnU1ZWxqRGVHS2lYbWFYSFhVdkVMZmlsenpadG51eVA4VXdRYnBxVTVpVU9HQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 10:32"
+        "data_noticia": "14/06/2026 13:11"
       }
     },
     {
@@ -924,16 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russia’s overwhelming manpower advantage against Ukraine is starting to wane - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObmZWdHd2WDBveVY0QUlfZGVwMmdNa1Njd25Db2ZuanNnWXY5VVh3cENSRGt6d1dPbXJfVUFBZ1loNFhxOVpxYnBTMTg5Um90OXdMbVJtU1JiNmFLZkpsVHlVeDJDUEkwV0N0U0JrQUl1MjR2NTJvWjNjSGF4VDk0a25KZW8?oc=5\" target=\"_blank...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmZWdHd2WDBveVY0QUlfZGVwMmdNa1Njd25Db2ZuanNnWXY5VVh3cENSRGt6d1dPbXJfVUFBZ1loNFhxOVpxYnBTMTg5Um90OXdMbVJtU1JiNmFLZkpsVHlVeDJDUEkwV0N0U0JrQUl1MjR2NTJvWjNjSGF4VDk0a25KZW8?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "14/06/2026 04:00"
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 08:54"
       }
     },
     {
@@ -975,16 +941,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.7129,
-          37.0902
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "'Super El Niño' will have an alarming financial impact, experts fear - USA Today",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcE1SY3FJNTRvT2xiYjlUNk5KMTJFXzY3NklZeXBpM2I5cUctSTFxMklVLUtyU3hIVHR5bHZ0ZjZNVEl5Yk1sUE1xOTZ2bUZkRnptazRPZ1R4LU9mR3MxRnh0X2RERnlIeTlhQUdMOGs4bGxCLWlDNFFKTUFKNVQzMUZScDlGX3o0RldVMzEyd3N2YWFK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcE1SY3FJNTRvT2xiYjlUNk5KMTJFXzY3NklZeXBpM2I5cUctSTFxMklVLUtyU3hIVHR5bHZ0ZjZNVEl5Yk1sUE1xOTZ2bUZkRnptazRPZ1R4LU9mR3MxRnh0X2RERnlIeTlhQUdMOGs4bGxCLWlDNFFKTUFKNVQzMUZScDlGX3o0RldVMzEyd3N2YWFK?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "13/06/2026 13:59"
+        "titulo_evento": "Opinion | Why Shein’s French fines are a warning to Chinese firms going global - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFR3c3RvQWNLWnRXTjd1YVd6STR2Rko5Y1Y3Zm1scTdIOFNsTTNPTDI3Z0dJVzFOcnZUanlQOXlsaUEzNnlkaVVvVUhGRTlHc0RmLVRIT0RIZzl1b09aX01KNW5WX3d5c0w3UTc5ZUZjdmtiekNjdXY5eTFpZnItY05rWnhmcFBtSzBiTnM1cDFLSTh5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFR3c3RvQWNLWnRXTjd1YVd6STR2Rko5Y1Y3Zm1scTdIOFNsTTNPTDI3Z0dJVzFOcnZUanlQOXlsaUEzNnlkaVVvVUhGRTlHc0RmLVRIT0RIZzl1b09aX01KNW5WX3d5c0w3UTc5ZUZjdmtiekNjdXY5eTFpZnItY05rWnhmcFBtSzBiTnM1cDFLSTh5NXQyLUZFbDk2UjF1VFIwM1R6c0hmRElRa1FsdXltWExJQnh2ZExqSGNB0gG-AUFVX3lxTE9xZG9NU1RxUGlJQW9Yczlsb3lkRnNPcHQzNjJEWHB5QUJEZXYycFhwUVpWbWgyZmhCWVdRaFdPVVh4eDUxai1TNlp0aFB0eFMxbHBJTjR2ZDhqck1Ncnlzb1ZpLW5vSFdrU1NzNjQzaGhkQVlkdmFTN0ZvQWVmdmFKdzhTVzZfVmhjT2I0V0ZsTFpGS29mU19wdGItUUpFbHBIQlM5eFA5Nk4teVYxTll5VDRocE5Ra0ZHV2VYX0E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "14/06/2026 12:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "GT Voice: How does China’s energy security system support regional economy? - Global Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BdENyaGp0bzE0OEVzN3pncjFOd3RmQjNTaFZ5dHNfWXk0eDVaZHYxdnN4OXAwdjgtRHBPWUphSUQwWUk0QXpwdEU0anZfUHliNkhtajJRSzVoR2VFRFk3TUpn?oc=5\" target=\"_blank\">GT Voice: How does China’s energy security sy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BdENyaGp0bzE0OEVzN3pncjFOd3RmQjNTaFZ5dHNfWXk0eDVaZHYxdnN4OXAwdjgtRHBPWUphSUQwWUk0QXpwdEU0anZfUHliNkhtajJRSzVoR2VFRFk3TUpn?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "14/06/2026 13:09"
       }
     },
     {
