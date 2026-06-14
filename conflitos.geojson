@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Gaza mourns four killed in Israeli strike",
+        "descricao": "Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "14/06/2026 20:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+        "descricao": "AJ probe: Israel expands military control by 1,000sq km on three fronts, using land grabs to mask strategic failures.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "14/06/2026 19:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -130,8 +164,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
-        "descricao": "Donald Trump says there should be &#039;no more attacks&#039; by Israel or Hezbollah on &#039;special day&#039; when deal could be signed.",
+        "titulo_evento": "Trump condemns Israel’s attack on Beirut as Iran says US responsible",
+        "descricao": "Trump calls for no more attacks, says deal to end war still close, as Iranian officials vow strong response. ",
         "url_fonte": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "14/06/2026 15:22"
@@ -152,74 +186,6 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "14/06/2026 14:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
-        "descricao": "Israel attacked Beirut again in an apparent attempt to test and derail an agreement.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "14/06/2026 12:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-        "descricao": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "14/06/2026 11:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "At least three killed as Israel attacks southern Beirut",
-        "descricao": "Israeli escalation in Lebanon&#039;s capital raises concerns that peace negotiations between US and Iran could be derailed.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "14/06/2026 10:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Will the US-Iran deal be signed on Sunday? What we know so far",
-        "descricao": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "14/06/2026 09:18"
       }
     },
     {
@@ -278,50 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -102.5528,
+          23.6345
         ]
       },
       "properties": {
-        "titulo_evento": "Israeli strikes hit Beirut as US-Iran talks near completion",
-        "descricao": "Israeli jets struck Beirut's Dahiyeh district on Sunday, hitting the Ghobeiry area. Prime Minister Benjamin Netanyahu's office confirmed the strikes targeted Hezbollah infrastructure. Trump warns Israel and Iran not to 'blow it' after new strikes thr...",
-        "url_fonte": "http://www.euronews.com/2026/06/14/israeli-strikes-hit-beirut-as-us-iran-talks-near-completion",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "14/06/2026 15:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump warns Netanyahu over Beirut strike as US-Iran peace deal hangs in the balance",
-        "descricao": "Iranian state media reported on Sunday that Tehran has not yet reached a final decision on the proposed peace deal to end the war between the United States and Iran.",
-        "url_fonte": "http://www.euronews.com/2026/06/14/iranian-media-says-tehran-is-yet-to-make-a-final-decision-on-us-peace-deal",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "14/06/2026 11:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK: Royal Opera Chorus marks 2026 World Cup start with London performance",
-        "descricao": "London marked the 2026 World Cup kick-off with SeokJong Baek and the Royal Opera Chorus performing Puccini’s ‘Nessun dorma’ in Covent Garden.",
-        "url_fonte": "http://www.euronews.com/video/2026/06/13/uk-royal-opera-chorus-marks-2026-world-cup-start-with-london-performance",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "13/06/2026 10:45"
+        "titulo_evento": "Iran’s World Cup team arrive in United States",
+        "descricao": "\nIran’s World Cup team touched down on American soil on Sunday, arriving at Los Angeles International Airport after a short flight from their base camp in Mexico. This is the first time in the cup’s nearly 100-year history that a host nation receives...",
+        "url_fonte": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "14/06/2026 20:34"
       }
     },
     {
@@ -533,16 +465,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
-        "descricao": "\nOn the eve of the G7 summit in Evian, France, neighbouring Geneva is expecting thousands of protesters to converge on the city on Sunday, under close police surveillance, more than 20 years after the violence that marred the 2003 G8 summit. The \"No-...",
-        "url_fonte": "https://www.france24.com/en/europe/20260614-thousands-of-protesters-expected-in-geneva-ahead-of-g7-summit",
-        "categoria": "Política (France 24)",
-        "data_noticia": "14/06/2026 09:17"
+        "titulo_evento": "Iran war: Trump calls for 'no more attacks'",
+        "descricao": "Trump said a peace deal with Iran was close and warned warring parties not to \"blow it.\" The president specifically called on Israel to stop strikes on Lebanon and Hezbollah to refrain from attacks as well. DW has more.",
+        "url_fonte": "https://www.dw.com/en/iran-war-trump-calls-for-no-more-attacks/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "14/06/2026 20:20"
       }
     },
     {
@@ -669,23 +601,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: Trump calls for 'no more attacks'",
-        "descricao": "The US president said a peace deal with Iran was close and warned warring parties not to \"blow it.\" Trump has suggested an initial deal could be sign Sunday. DW has more.",
-        "url_fonte": "https://www.dw.com/en/iran-war-trump-calls-for-no-more-attacks/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "14/06/2026 05:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -102.5528,
           23.6345
         ]
@@ -754,6 +669,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Donald Trump’s least favorite country might just win Donald Trump’s World Cup",
+        "descricao": "Tournament favorite Spain is at odds with the U.S. president over Iran, Gaza, defense spending, immigration and green energy.",
+        "url_fonte": "https://www.politico.eu/article/donald-trump-least-spain-win-world-cup/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "14/06/2026 20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -788,40 +720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test",
-        "descricao": "",
-        "url_fonte": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
-        "categoria": "Política (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
-        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.2137,
           46.2276
         ]
@@ -844,11 +742,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing - Oregon Public Broadcasting - OPB",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTJ5UEMtQjB6VE13OUJER0kwRjNUU3FHWDJsdUJ1dGNxcDZHc1RGQVFpWHhvNERpS0RZd0VsMnlhZUdzUkpPZVZWOW15cWduSUVaSmpmdUhpSnR3SUIwaXZBSGxDa0tZU0dKNzJyZlJpQjZnOWlRRFlSSF8wMjJmakRnWnhFOEQzTDZEMTZyaEliME9T...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTJ5UEMtQjB6VE13OUJER0kwRjNUU3FHWDJsdUJ1dGNxcDZHc1RGQVFpWHhvNERpS0RZd0VsMnlhZUdzUkpPZVZWOW15cWduSUVaSmpmdUhpSnR3SUIwaXZBSGxDa0tZU0dKNzJyZlJpQjZnOWlRRFlSSF8wMjJmakRnWnhFOEQzTDZEMTZyaEliME9TUXluMHFmMy16ZTJWZFhud3c1b0k?oc=5",
+        "titulo_evento": "What the US says is in the potential Iran war agreement - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 15:52"
+        "data_noticia": "14/06/2026 19:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump reportedly tells Putin he is prepared to help end war in Ukraine - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTM0aUNJT2RSb3YxeHFtRHdVX19HVGhhd0NzTlE5N2t1VTQxMEFCQnpUUml1eEpvbVBsT2tpbnBwTHhsX3NUaEw5WElJR0U1WjNGaVdMcE1vSFF4dzR6UnVkeFZ0S3ZRUS1ObnRadExpVkt6UTR0Smk0TkRDcjl0bFpkNUF5R3ZCbTEzTjRaNFVudw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTM0aUNJT2RSb3YxeHFtRHdVX19HVGhhd0NzTlE5N2t1VTQxMEFCQnpUUml1eEpvbVBsT2tpbnBwTHhsX3NUaEw5WElJR0U1WjNGaVdMcE1vSFF4dzR6UnVkeFZ0S3ZRUS1ObnRadExpVkt6UTR0Smk0TkRDcjl0bFpkNUF5R3ZCbTEzTjRaNFVudw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 19:00"
       }
     },
     {
@@ -861,11 +776,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "What the US says is in the potential Iran war agreement - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5",
+        "titulo_evento": "Iran war: Trump calls for 'no more attacks' - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZEM0E3bDZSVzhHbGNDNHpIelRUTF9sclBDYlNVTTBCbmY3MXpRaF9uQUJPY0x0b3V4ZHk1NzVOVG1vYmczSzlNYU04RUFaN1h1VmIyZXpsa3I1ejZBellGN3BWMjRZenBSeWphZEdhSy1JYlJ2OEZjLUJtRGx6Wm1n?oc=5\" target=\"_blank\">I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcDZEM0E3bDZSVzhHbGNDNHpIelRUTF9sclBDYlNVTTBCbmY3MXpRaF9uQUJPY0x0b3V4ZHk1NzVOVG1vYmczSzlNYU04RUFaN1h1VmIyZXpsa3I1ejZBellGN3BWMjRZenBSeWphZEdhSy1JYlJ2OEZjLUJtRGx6Wm1n?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 16:27"
+        "data_noticia": "14/06/2026 20:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran deal does not solve all Israel's problems, war was never meant to - analysis - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5\" target=\"_blank\">Iran deal does not solve all Israel's problems, war w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 19:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Stock Futures Await Iran War Deal Trump Promised Today - Barron's",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1IS2FJMkVqN3dpYUJ4UlpNam00NUYyR1hPYmt2bmVHYVNCbmczaWI2bG1IQXpSVDdaUExtb3pUaUdJUTRCbGd3NlJtNVR6Nnh0Q2V0VUcwMGt0VFpzY3JWVEFYVGVaNlRVOFJyWDl0NVlXb3kwajBGbkFR?oc=5\" target=\"_blank\">Stock Futures...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IS2FJMkVqN3dpYUJ4UlpNam00NUYyR1hPYmt2bmVHYVNCbmczaWI2bG1IQXpSVDdaUExtb3pUaUdJUTRCbGd3NlJtNVR6Nnh0Q2V0VUcwMGt0VFpzY3JWVEFYVGVaNlRVOFJyWDl0NVlXb3kwajBGbkFR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 20:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump warns Israel and Iran not to 'blow it' after new strikes threaten emerging ceasefire deal - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 18:39"
       }
     },
     {
@@ -895,6 +861,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 19:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "US And Iran Edge Closer To Agreement To End Regional War - i24NEWS",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHJSNjlCdEVjQlBEV1NYYWtkUzRRUVkydUlMRnB3bkFSUmx0djZtVkhGN2hvb1VMSUZFeDRRX2VzYm4wX0g3bG1BQXlCZUxLSE5RX3QxNFdKeDlRU2FMSGpiUFVpU19JN2pabFF1WUxvTkVVTzVBcHNzVXJmYmtiNldlYU5wV2RMSGtLQndMOWtYaFBX...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOHJSNjlCdEVjQlBEV1NYYWtkUzRRUVkydUlMRnB3bkFSUmx0djZtVkhGN2hvb1VMSUZFeDRRX2VzYm4wX0g3bG1BQXlCZUxLSE5RX3QxNFdKeDlRU2FMSGpiUFVpU19JN2pabFF1WUxvTkVVTzVBcHNzVXJmYmtiNldlYU5wV2RMSGtLQndMOWtYaFBXaTdUd0ZBZ1lTYU9EbGpBSWdvZXV2a3l6a0ItQlFjV01kLWtkT2RiY2NUamhidw?oc=5",
@@ -912,79 +895,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump warns Israel and Iran not to 'blow it' after new strikes threaten emerging ceasefire deal - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
+        "titulo_evento": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOOW5Bd29BMzMwWkt0SG9nOVBLTlV2eFltX3NwV0F4eFFMZmhlQU5vMTZ0UWpxdmN0blJhLXc3ZWxPV2wyTGMyLU42VVozb3lvLS1qVFBCUl9HZ043bmNveW1vdDgwQkZtYlRxSlBHOU1jWmw4UDloREVmTjVLVzZFZTJhSzRxLTJJV2duU2RWbDhDcUYw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOW5Bd29BMzMwWkt0SG9nOVBLTlV2eFltX3NwV0F4eFFMZmhlQU5vMTZ0UWpxdmN0blJhLXc3ZWxPV2wyTGMyLU42VVozb3lvLS1qVFBCUl9HZ043bmNveW1vdDgwQkZtYlRxSlBHOU1jWmw4UDloREVmTjVLVzZFZTJhSzRxLTJJV2duU2RWbDhDcUYwUGxxUnl0eTFEQVBEVjlHWGRFdFBEZDctR0Ixd3NzcGdlUm8wc0c0bDF3X1Zfb2pJ0gHKAUFVX3lxTE1WZ1d2aFdEaFA1cXFaQUV5eWE5cVkyM0ZmNVBfeGJmOXo3MkJZTDJYTGVvcHFXSk9nSk9LN2ctOFRadV8zNUQwX0luUzd2dWJnMWlvNEV2d2xyR09qUmdINlZVRnhZeDQxWC02MC1UOVhnQXdxekVoZkdBNnBZOXpMQWJJNFBkQmRQNGNnMzdwaEZLVzJEWkxoTnJOWXJoY1NwVjIxcDVRMjcwLWZJelNLRVI5eFFxcVRyQU54X2RpeEFlRWlEMExiM2c?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 15:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Sen. James Lankford says Congress should ratify any deal Trump makes with Iran - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFpFN290SWgzd1VrWVlNZjhyNDQyOEsyYjcxUEdiNzcyTjVIakFHODhybmxjNklmZ1FCRWNrdGZQX1o0cmxmNUxxN1I5ODNNODdISU1oaW9tdDM1TV90MVMxLWtJeEthYUh0UU5JVnJuU1h4VS1peTF5cTFCeGhnTVZxblN3S0FzUWQ5SmdNLVFSQnVn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFpFN290SWgzd1VrWVlNZjhyNDQyOEsyYjcxUEdiNzcyTjVIakFHODhybmxjNklmZ1FCRWNrdGZQX1o0cmxmNUxxN1I5ODNNODdISU1oaW9tdDM1TV90MVMxLWtJeEthYUh0UU5JVnJuU1h4VS1peTF5cTFCeGhnTVZxblN3S0FzUWQ5SmdNLVFSQnVnTGJvM0JoV05RVDRfVEtWVVhGWQ?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "14/06/2026 15:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 16:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 16:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Haviv Rettig Gur: When Will the War with Iran End? - The Free Press",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE?oc=5\" target=\"_blank\">Haviv Rettig Gur: When Will the Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 11:52"
+        "data_noticia": "14/06/2026 15:46"
       }
     },
     {
@@ -1026,6 +941,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Haviv Rettig Gur: When Will the War with Iran End? - The Free Press",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE?oc=5\" target=\"_blank\">Haviv Rettig Gur: When Will the Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 11:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Sen. James Lankford says Congress should ratify any deal Trump makes with Iran - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFpFN290SWgzd1VrWVlNZjhyNDQyOEsyYjcxUEdiNzcyTjVIakFHODhybmxjNklmZ1FCRWNrdGZQX1o0cmxmNUxxN1I5ODNNODdISU1oaW9tdDM1TV90MVMxLWtJeEthYUh0UU5JVnJuU1h4VS1peTF5cTFCeGhnTVZxblN3S0FzUWQ5SmdNLVFSQnVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFpFN290SWgzd1VrWVlNZjhyNDQyOEsyYjcxUEdiNzcyTjVIakFHODhybmxjNklmZ1FCRWNrdGZQX1o0cmxmNUxxN1I5ODNNODdISU1oaW9tdDM1TV90MVMxLWtJeEthYUh0UU5JVnJuU1h4VS1peTF5cTFCeGhnTVZxblN3S0FzUWQ5SmdNLVFSQnVnTGJvM0JoV05RVDRfVEtWVVhGWQ?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "14/06/2026 15:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 16:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHpZTmo0OG1OTnEtUkhsWWtMN2pOMm1Hc0k5VDNmUVlHUVgyc190UUJTWEUyQ0Q4a0U1SzIzYm9EN1h3a2hDSEtXZ05tQi1DeGRCVncyQXNMN1J2Z0dCbUV4cjMyd2Z0WTFVS2pjajhyaGJMZWtoVDI1ZDdGQnZSQ3BzMEtLUGgwUVNBUXRIdjdZVElw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHpZTmo0OG1OTnEtUkhsWWtMN2pOMm1Hc0k5VDNmUVlHUVgyc190UUJTWEUyQ0Q4a0U1SzIzYm9EN1h3a2hDSEtXZ05tQi1DeGRCVncyQXNMN1J2Z0dCbUV4cjMyd2Z0WTFVS2pjajhyaGJMZWtoVDI1ZDdGQnZSQ3BzMEtLUGgwUVNBUXRIdjdZVElwaDZXQndJdVMwVEhnMkF5MzJ6OXpnaFpWMFNrQdIBtgFBVV95cUxQWWx4SHVxOXhqZGhUaFBERUZJaFcyWmU0SGFBWFJpQjlORENFNlZqVFNpRXB3cWFMNXVZMThfdjVpTTdENURPTm11WDBwQmsySElYTGtsdi1EMEU0NEwzdTZsN1BJbVZGaEtXWFpyc0VPaWhuZnBMU0hXNXlVeU5GLVNWWmFZUHd2TTdtdkhUbldlZmpoNFRKa0VRM2M0ckQyOE5LZjZONG9SS2RnZXVRVXBNanRMUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 19:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war: Trump, Pakistan tease deal, but doubts remain - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWFIyb0lLQzVMUDl3aGxKZ0t5QnRvb2lxZ3hyN1AxaHZVM0ZfSkRpcjc1Tnk3M1dKVHJKbDc1Y1paZk8zUUx2emxyclN5MXV2N2VUN001dXhxS1p5elZjbW1EU0ZJekNqZ29GdjJuYXNzRXFVQkJiMjI1Tm5lZDZfUGlUM0t5eG5DanY3WVFpUU5rQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 15:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A timeline of what Trump has said about an end to the Iran war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0J1bzVlN2p3WVh3djVyNXB2Sjl1WE81aFBvcEk1akxiYjV4TWcxVUdtNDhoYnRybm1JeV9Kb25mT0VSV29sZWhxX2YzTkN1Vm55bVBPRTAzT1lURm9JRnJNQ0VQbjlrYmMxQTVNdkpEcF9qbnlraWxzbV9ZaC1UWnlUbXE1Mkp5eTNEcVZxU21Wb3Vv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0J1bzVlN2p3WVh3djVyNXB2Sjl1WE81aFBvcEk1akxiYjV4TWcxVUdtNDhoYnRybm1JeV9Kb25mT0VSV29sZWhxX2YzTkN1Vm55bVBPRTAzT1lURm9JRnJNQ0VQbjlrYmMxQTVNdkpEcF9qbnlraWxzbV9ZaC1UWnlUbXE1Mkp5eTNEcVZxU21Wb3VvZVVET1FjR0NQdklBY0RvODQzcXBvZkJPSGh0WGR3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/06/2026 20:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -1036,91 +1053,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnJYQUE1TmpueVh2ZVVxTHowTXd4UmQ4WERoVjluLTk3MGR6MFl5NEVSZElvNXBodzJKQUxBV1J4OHF5Si1RUDVyN05ORFRudEVnNnVCSVNLSmtpd1RJc0JyYlBRaHZibU9KS1ZmdlJjdVdjYkxqS1ZqVDBWbkQ1VGhLbm1vU0pRVkhGOTVWYkZxM0QwbzhyeDYwcDJCNVpnX2EyeTYxNlNZUdIBrwFBVV95cUxOTXBSa0FvY2J4alVHZHJPbjlQNDctbnVjbTZsc2Ytb0dPY1NpUnB4SHkxOEhHQ0JlUkttMXlUZy1fbG5ERkROa2RDRHYwSTBKTzRQSmp2cVM0V3JIOG8xcWNYcnBHeFg1QTMzd1Jld20tZGp1TkdrOTVucVMyWHhIME5Wc1oweTBqX2hpYWFqSE1rei1EVGF2QXdYelBqT2JpanNFQU5QU0RRZWFrTWFR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "14/06/2026 18:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran deal does not solve all Israel's problems, war was never meant to - analysis - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5\" target=\"_blank\">Iran deal does not solve all Israel's problems, war w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0bDgtT2VhYW5kRThUS0ZEdWhXYlpWalZxNDRGNld5aW51T3NocmFhbUUwXzVSZnZKTF9pMUpMc1JnU3lyWWJiaUxsT05KcXN4MEsyRm1wSTY0RUs1?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 12:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war day 107: Washington, Tehran close to signing first stage of deal - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVRmZmZkNlpRNnNuUHQ4VkFlSWJ4c0ZBZGZ1dGxSVEw1MDF0WFl5NFdLTUpsMkhXRnhkU1JjS0xXdlVWcFdvTWdHU2dWQTdQZTl4X0xid1c3UUZ2TlpEWjdkWkR6U0p6cUgxV0U3Mm9kSmZhSG03V244Y3hzSHozMXdNUm94d241QXRUR3RsRTI3dV9H...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVRmZmZkNlpRNnNuUHQ4VkFlSWJ4c0ZBZGZ1dGxSVEw1MDF0WFl5NFdLTUpsMkhXRnhkU1JjS0xXdlVWcFdvTWdHU2dWQTdQZTl4X0xid1c3UUZ2TlpEWjdkWkR6U0p6cUgxV0U3Mm9kSmZhSG03V244Y3hzSHozMXdNUm94d241QXRUR3RsRTI3dV9HTlJqa2NVQWNHX3A0Y0c3aXdkRVhSVHBmNndmNXp30gG3AUFVX3lxTFBGZS1vTDRnRlY0WHdNNGJlejYycl9jd2l6OVROYWhEc1lTNHcwOUdRdzd5VkhZUVZsbVBJQ1M0d191YlZ1RTktdlQ4a1I5U0t6YVJqREEta0drVjJfNl9FV2EySUNnYkpqaWJ5dmE0c09aTHA0cTF3TUxqekdqQzRhRTVaTnJHeE5EWFo5RFpZY3Q4Q01rM1dLUU5ZVFh1OGtFZnh1VnI5bTdxNVJ4WnhDLWZzcXBCSQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 07:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Video US and Iran both signaling a deal to end war is close - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qdVJYS2lCVXhGaDBsSnNUTFJ6a3gyNGlINVN1M3NScUNtWmlNcHpXYzM4RTRyMWdhZk9zZFVQY3hwYzB6VGdXUFQxcEU?oc=5\" target=\"_blank\">Video US and Iran both signaling a deal to end war is close</a>&nbsp;&nbsp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qdVJYS2lCVXhGaDBsSnNUTFJ6a3gyNGlINVN1M3NScUNtWmlNcHpXYzM4RTRyMWdhZk9zZFVQY3hwYzB6VGdXUFQxcEU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 13:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pump pain, Wall Street gain: Iran war sends U.S. oil profits, stocks soaring as the big winners - Fortune",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTFrTWF4NThUbjQwVVJZcUFhZkh2SHlhVWNNRzhDbVpsNFBxekFKaHBJa0pwbkZCMy1TSnJxVnNjRDMwQWduZVZLR0dacVZMazlYRUxDejV2Q0tnQVRkS0hzenpQc0l0anN3cllodjVnMWN2bFlZS1ZIX0RWTDd6bHVvaFV6REJvc2pNdE5ZTkNpYjlD...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTFrTWF4NThUbjQwVVJZcUFhZkh2SHlhVWNNRzhDbVpsNFBxekFKaHBJa0pwbkZCMy1TSnJxVnNjRDMwQWduZVZLR0dacVZMazlYRUxDejV2Q0tnQVRkS0hzenpQc0l0anN3cllodjVnMWN2bFlZS1ZIX0RWTDd6bHVvaFV6REJvc2pNdE5ZTkNpYjlDSVhZbzF3T0RkVmc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Amid years of war, these Israelis are still pushing for peace - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjFDTG5Ld1VzRzhjVmo0ZnU4aEhqTngtcm12MTB3Q3pHazNXdU9zZTQza3haSWc4SVUwZE9ONHcxXzB3MmtIVkVpOTc5OW1sVnVNNWpnOUF0TkluNnNpTmVLS0RPRXpONlNOMW83R1ZMUEN5RXltYnU1ZWxqRGVHS2lYbWFYSFhVdkVMZmlsenpadG51...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjFDTG5Ld1VzRzhjVmo0ZnU4aEhqTngtcm12MTB3Q3pHazNXdU9zZTQza3haSWc4SVUwZE9ONHcxXzB3MmtIVkVpOTc5OW1sVnVNNWpnOUF0TkluNnNpTmVLS0RPRXpONlNOMW83R1ZMUEN5RXltYnU1ZWxqRGVHS2lYbWFYSFhVdkVMZmlsenpadG51eVA4VXdRYnBxVTVpVU9HQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 16:00"
       }
     },
     {
@@ -1145,33 +1077,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia's war machine strains as volunteer recruitment drops 20% this year - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTczajBTLVNrbk5Yczc2OEZXSktyOVk4cGtnZjdPWFBFN0xURW9LbHZUWmlXb0x1RUs0V3pmMHYyOURZbGdtMkd0eENEejFqYUlwMk5zSXJmQ2xPZlZ3a3UwQkpWTzlQcHFrd3dEWkVHLUc3S0ZMVFJhN0h1SWRTMnVZQ3RvUEotUHc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTczajBTLVNrbk5Yczc2OEZXSktyOVk4cGtnZjdPWFBFN0xURW9LbHZUWmlXb0x1RUs0V3pmMHYyOURZbGdtMkd0eENEejFqYUlwMk5zSXJmQ2xPZlZ3a3UwQkpWTzlQcHFrd3dEWkVHLUc3S0ZMVFJhN0h1SWRTMnVZQ3RvUEotUHc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 17:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Live - Trump says Israel shouldn’t have attacked Beirut as US-Iran deal ‘very close’ - ایران اینترنشنال",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5\" target=\"_blank\">Live - Trump says Israel shouldn’t have attacked B...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE?oc=5",
+        "titulo_evento": "Israel says its military attacked Hezbollah targets in Beirut's southern suburbs - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1ZSMHdVR0RXSjFrUkp3dFVfMlYzVlBjQjNVRUdNYVZhRzNBNzJtcHdmYklfaTFmYlgyZnI3MS1vSzYtcHRHdUgtSXh2aVpzUzFlQ0RJdWJIRmJnV3FmZG9FaTlUS0MyQWtVUW8zZDc4LWxWV0lkcDJ1NzNCdjhYUUR6d1dYOXZKblkwaUFRLWRiZzds...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1ZSMHdVR0RXSjFrUkp3dFVfMlYzVlBjQjNVRUdNYVZhRzNBNzJtcHdmYklfaTFmYlgyZnI3MS1vSzYtcHRHdUgtSXh2aVpzUzFlQ0RJdWJIRmJnV3FmZG9FaTlUS0MyQWtVUW8zZDc4LWxWV0lkcDJ1NzNCdjhYUUR6d1dYOXZKblkwaUFRLWRiZzdsU1dKbUdDMlg3Wk5leXN0edIBqgFBVV95cUxQSnZ1QzRmZzdTQ0FINWZVZVB3emhMNmN0eXc4RG9xQzEwSkZwSVU1Y0plRU0zNHpPQkw1aERzNVlMTUpYRzVocFFVd3FtbVl2QUxiRmZaejluNnRTMkdRNWVjQkN5czJyaFVqc2VONFRZZGNnQ0FNQUhFZlc1OWY5eGRYSUg4SHVnQVpMTnR1eDN1ZkFaWGFmbGZWRjg2dWV0R3A2a2dMMmR6Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/06/2026 16:54"
+        "data_noticia": "14/06/2026 12:11"
       }
     },
     {
@@ -1223,6 +1138,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BdENyaGp0bzE0OEVzN3pncjFOd3RmQjNTaFZ5dHNfWXk0eDVaZHYxdnN4OXAwdjgtRHBPWUphSUQwWUk0QXpwdEU0anZfUHliNkhtajJRSzVoR2VFRFk3TUpn?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "14/06/2026 13:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia’s overwhelming manpower advantage against Ukraine is starting to wane - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObmZWdHd2WDBveVY0QUlfZGVwMmdNa1Njd25Db2ZuanNnWXY5VVh3cENSRGt6d1dPbXJfVUFBZ1loNFhxOVpxYnBTMTg5Um90OXdMbVJtU1JiNmFLZkpsVHlVeDJDUEkwV0N0U0JrQUl1MjR2NTJvWjNjSGF4VDk0a25KZW8?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmZWdHd2WDBveVY0QUlfZGVwMmdNa1Njd25Db2ZuanNnWXY5VVh3cENSRGt6d1dPbXJfVUFBZ1loNFhxOVpxYnBTMTg5Um90OXdMbVJtU1JiNmFLZkpsVHlVeDJDUEkwV0N0U0JrQUl1MjR2NTJvWjNjSGF4VDk0a25KZW8?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "14/06/2026 04:00"
       }
     }
   ]
