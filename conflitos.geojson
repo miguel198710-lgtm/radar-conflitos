@@ -91,6 +91,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+        "descricao": "Producers will need time to ramp up output, while port bottlenecks and heightened demand will keep US prices up.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/06/2026 00:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Trump says MoU with Tehran signed electronically",
+        "descricao": "Backlash to US-Iran deal grows in Israel as Iranian vessels pass through Strait of Hormuz after US lifts naval blockade.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/06/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.4668,
           31.5017
         ]
@@ -176,40 +210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France vs Senegal: World Cup 2026 – Mbappe, teams, lineups, start, Dembele",
-        "descricao": "Two-time champions France begin their Group I campaign by taking on Senegal in New York New Jersey on Tuesday.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/15/france-vs-senegal-world-cup-2026-mbappe-teams-lineups-start-dembele?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "15/06/2026 18:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
-        "descricao": "Ukrainian President Volodymyr Zelenskyy visited a landmark Kyiv cathedral damaged by Russian missile and drone strikes. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "15/06/2026 18:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -219,7 +219,7 @@
         "descricao": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
         "url_fonte": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "15/06/2026 20:33"
+        "data_noticia": "16/06/2026 00:03"
       }
     },
     {
@@ -288,6 +288,23 @@
         "url_fonte": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "15/06/2026 07:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "G7 leaders to meet Zelensky as Trump signals possible Ukraine breakthrough",
+        "descricao": "\nG7 leaders will hold talks with President Volodymyr Zelensky on Ukraine on Tuesday, as US President Donald Trump suggested there may be room for progress after more than four years of war with Russia. The summit in Evian will also address Iran, amid...",
+        "url_fonte": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "16/06/2026 02:43"
       }
     },
     {
@@ -465,23 +482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war: US, Iran announce tentative peace deal",
-        "descricao": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif said both sides would terminate military operations, including in Lebanon. DW has more.",
-        "url_fonte": "https://www.dw.com/en/iran-war-us-iran-announce-tentative-peace-deal/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "14/06/2026 22:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -516,16 +516,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Germany news: President Steinmeier heads to Asia",
-        "descricao": "German President Frank-Walter Steinmeier is kicking off a trip to Asia. And veteran goalkeeper Manuel Neuer will take to the field with the national squad in Germany's first match of the 2026 World Cup.",
-        "url_fonte": "https://www.dw.com/en/germany-news-president-steinmeier-heads-to-asia/live-77535533?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "14/06/2026 05:48"
+        "titulo_evento": "Brussels diplomats mourn end of US-hosted ‘like-minded’ dinners",
+        "descricao": "Monthly gatherings were once a staple of Washington’s influence operation in the EU capital. Now that key channel for informal diplomacy has all but disappeared.",
+        "url_fonte": "https://www.politico.eu/article/brussels-diplomats-mourn-end-of-us-hosted-like-minded-dinners/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "16/06/2026 02:00"
       }
     },
     {
@@ -543,57 +543,6 @@
         "url_fonte": "https://www.politico.eu/article/uk-hits-russia-with-fresh-energy-sanctions-at-g7/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "15/06/2026 21:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UE, Otan, Ukraine : Bardella parle à POLITICO",
-        "descricao": "⁠Dans une interview à POLITICO ⁠sur les questions internationales, Jordan Bardella explique qu’il n’a pas du tout renoncé à « tout changer » au fonctionnement de l’Union européenne quand bien même le projet de Frexit défendu par le Rassemblement nati...",
-        "url_fonte": "https://www.politico.eu/podcast/playbook-paris-podcast/ue-otan-ukraine-bardella-parle-a-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "15/06/2026 16:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Switzerland-France feud erupts over G7 security costs",
-        "descricao": "Switzerland says France should cough up  millions to help pay for costs linked to the G7 summit taking place in Evian-les-Bains.",
-        "url_fonte": "https://www.politico.eu/article/switzerland-france-feud-over-g7-security-costs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "15/06/2026 15:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Carney warns Canadians must ‘take control’ of food after Trump claims US ‘doesn’t need anything’ from Canada",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/economy/policy/articles/carney-warns-canadians-must-control-113500079.html",
-        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
       }
     },
     {
@@ -674,11 +623,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Over 3 months later: Donald Trump’s Iran war continues to drain American wallets - California State Portal | CA.gov",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVF3QXpfOTlMUlZfVERpNHRuNjBCVDJOVXVOZFItbmlnRWtiMlliUE9iQUR6a1ZaMnFUaG5ERmx3UkxieUlYRTJVOU1CeEZBbk5mcWJJMzdEaHFacnEtdlMtVlFDVURyTFJhUUpzS1dVVkw0RFJKRnZsR2RBQTFmZENOem9UTmh6X2hIZjhYNUdSaDlE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVF3QXpfOTlMUlZfVERpNHRuNjBCVDJOVXVOZFItbmlnRWtiMlliUE9iQUR6a1ZaMnFUaG5ERmx3UkxieUlYRTJVOU1CeEZBbk5mcWJJMzdEaHFacnEtdlMtVlFDVURyTFJhUUpzS1dVVkw0RFJKRnZsR2RBQTFmZENOem9UTmh6X2hIZjhYNUdSaDlEbm8tNndvVHFZNFJRd3diZ1FRNW1XdThKdnZ5cVNqbw?oc=5",
+        "titulo_evento": "What to know about the deal to end the Iran war - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3k4T0R4Z2dkeGdxZTdVU094cmd6SU9QYkVvcEpyWmNNXzZOT19mQThpeEktSW9XcURhM1dSdk1EVzBTMjZDeXRpZzlrX19JVFVZdC1SYmwxbl9FemlBNnM2bjNRNnpndjdZZUJEQ1Fkb29RMXIwYnkzN3JKcUN4alVLeV9adTRMTk1Rb3NWQ1dEYTU2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3k4T0R4Z2dkeGdxZTdVU094cmd6SU9QYkVvcEpyWmNNXzZOT19mQThpeEktSW9XcURhM1dSdk1EVzBTMjZDeXRpZzlrX19JVFVZdC1SYmwxbl9FemlBNnM2bjNRNnpndjdZZUJEQ1Fkb29RMXIwYnkzN3JKcUN4alVLeV9adTRMTk1Rb3NWQ1dEYTU2MGdlSEZjcDNWS21WNDR6QTBB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 18:06"
+        "data_noticia": "15/06/2026 21:58"
       }
     },
     {
@@ -691,11 +640,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "What to know about the deal to end the Iran war - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3k4T0R4Z2dkeGdxZTdVU094cmd6SU9QYkVvcEpyWmNNXzZOT19mQThpeEktSW9XcURhM1dSdk1EVzBTMjZDeXRpZzlrX19JVFVZdC1SYmwxbl9FemlBNnM2bjNRNnpndjdZZUJEQ1Fkb29RMXIwYnkzN3JKcUN4alVLeV9adTRMTk1Rb3NWQ1dEYTU2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3k4T0R4Z2dkeGdxZTdVU094cmd6SU9QYkVvcEpyWmNNXzZOT19mQThpeEktSW9XcURhM1dSdk1EVzBTMjZDeXRpZzlrX19JVFVZdC1SYmwxbl9FemlBNnM2bjNRNnpndjdZZUJEQ1Fkb29RMXIwYnkzN3JKcUN4alVLeV9adTRMTk1Rb3NWQ1dEYTU2MGdlSEZjcDNWS21WNDR6QTBB?oc=5",
+        "titulo_evento": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon' - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWXpLSDRjQ213dEplSHdRcktLRlN3cmJGZXlWb2xuMWJTdDBiSnZ1SkR1SW1VdTJUNVFfZzFUN1hnUVVqaWs2MGxON0RxRlVralAxdC03V19OZw?oc=5\" target=\"_blank\">Trump says deal to end war with Iran already signed and...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWXpLSDRjQ213dEplSHdRcktLRlN3cmJGZXlWb2xuMWJTdDBiSnZ1SkR1SW1VdTJUNVFfZzFUN1hnUVVqaWs2MGxON0RxRlVralAxdC03V19OZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 21:58"
+        "data_noticia": "16/06/2026 00:03"
       }
     },
     {
@@ -725,62 +674,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon' - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWXpLSDRjQ213dEplSHdRcktLRlN3cmJGZXlWb2xuMWJTdDBiSnZ1SkR1SW1VdTJUNVFfZzFUN1hnUVVqaWs2MGxON0RxRlVralAxdC03V19OZw?oc=5\" target=\"_blank\">Trump says deal to end war with Iran already signed and...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWXpLSDRjQ213dEplSHdRcktLRlN3cmJGZXlWb2xuMWJTdDBiSnZ1SkR1SW1VdTJUNVFfZzFUN1hnUVVqaWs2MGxON0RxRlVralAxdC03V19OZw?oc=5",
+        "titulo_evento": "Vance says nuclear inspectors ‘absolutely’ will return to Iran under terms to end war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXd0WU1xVFZHX1VkSW8tMXVhYVhia1JjTjZ3YmxUcXZ0cVN5MU1obnE4ZDhyX2xQMVI5NnVCSHpLS1lfbnVjVlMzRUlnejNWMDZBQkxGc1R0U3BGQjJoU2xleE0xUndrcTZQX0U0MUV4dmJIMU1sNGZpaVBIMDBfbVZfSGZZenc2dGpobGRQOGdsdHhq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXd0WU1xVFZHX1VkSW8tMXVhYVhia1JjTjZ3YmxUcXZ0cVN5MU1obnE4ZDhyX2xQMVI5NnVCSHpLS1lfbnVjVlMzRUlnejNWMDZBQkxGc1R0U3BGQjJoU2xleE0xUndrcTZQX0U0MUV4dmJIMU1sNGZpaVBIMDBfbVZfSGZZenc2dGpobGRQOGdsdHhqdWV5eXVEMHJNQmNIWjgySGJyLVd6YnJwVFdYRzVCcE9Bak5CMVN0S3p4SQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 20:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Opposition leaders assail Netanyahu over claims about Iran war goals, saving Israel from annihilation - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjRoLW5Yd1IzbGZKQkxkNFdyYlJkV2xlM3ZuQVJVWFVmX1Y5WlFheHdUc3NUQWRaNzB5bVBKWGVGZVlyemRpMUFKSWRiU2RXRTBrUlpzalpXZk4xakZYT0J3ZE1wZTd3VExXMXQ2cHQtZXRDLWZJc0FjUjlieHJ3VUNlNHZiY0RvaFhELVV0WDBGVTVM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjRoLW5Yd1IzbGZKQkxkNFdyYlJkV2xlM3ZuQVJVWFVmX1Y5WlFheHdUc3NUQWRaNzB5bVBKWGVGZVlyemRpMUFKSWRiU2RXRTBrUlpzalpXZk4xakZYT0J3ZE1wZTd3VExXMXQ2cHQtZXRDLWZJc0FjUjlieHJ3VUNlNHZiY0RvaFhELVV0WDBGVTVMSWZtTnMwMlRSdDBSSi1LMURfNkhVeGRmelh0UjBhRlF3aG05cjZvLVpwVkIzYndKYVI0b2k4OFpndkR3YWRzWEZMY1hVOU8yUE5R?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 20:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Iran gained the strategic upper hand in the war with the US and Israel - The Conversation",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFc5S19kRFFfcGFMbGstUVZpWDB3aU9iX013Sm5xcjBlRFY2ZW5mdjdNQ0l6elZxZmRXWmlPZ19qOWJSTFRQXy1sSXlEOGRTU0lacmYxOVlFeTdvSWFCNml0UmY5dXhsQmYtTF9KRndMNzYxVFd1bm0yeHA3QlRYZFhJRi1LazFnUXF2Smw4NUZ6Ykpt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFc5S19kRFFfcGFMbGstUVZpWDB3aU9iX013Sm5xcjBlRFY2ZW5mdjdNQ0l6elZxZmRXWmlPZ19qOWJSTFRQXy1sSXlEOGRTU0lacmYxOVlFeTdvSWFCNml0UmY5dXhsQmYtTF9KRndMNzYxVFd1bm0yeHA3QlRYZFhJRi1LazFnUXF2Smw4NUZ6YkptTG91U0JnT2o4UDNqRWdPdTQtZnRneWJhQ2c?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 14:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Iran war ended terribly for the US, and even worse for Israel - The Forward",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1pekFUX3BQWkxvbE1HWk1xazVieERqM2JIR0pqZVhNZHhOdnJ1YmV5cEdac1hpY21BQXVGX09ZUTBRZm9SSmV4YVBhVmFxeFlEY3VidHVYR3B6al9FSHNXLUJNazh4YkQxT1E?oc=5\" target=\"_blank\">The Iran war ended terribly for th...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pekFUX3BQWkxvbE1HWk1xazVieERqM2JIR0pqZVhNZHhOdnJ1YmV5cEdac1hpY21BQXVGX09ZUTBRZm9SSmV4YVBhVmFxeFlEY3VidHVYR3B6al9FSHNXLUJNazh4YkQxT1E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 16:59"
+        "data_noticia": "15/06/2026 22:25"
       }
     },
     {
@@ -810,11 +708,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE54NjFDN2JpbVBfMkp1QzZXZWdhamNlZWd5UFVrb1FIVUhaRjVrMS1DNUZEaVl1UERBX2cxUWhiWF9YWGh3YmE1Mi1oOVFmdW9OQldwa2xvSlBMZw?oc=5\" target=\"_blank\">US and Iran agree deal to end war as Trump says Strait ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54NjFDN2JpbVBfMkp1QzZXZWdhamNlZWd5UFVrb1FIVUhaRjVrMS1DNUZEaVl1UERBX2cxUWhiWF9YWGh3YmE1Mi1oOVFmdW9OQldwa2xvSlBMZw?oc=5",
+        "titulo_evento": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDB1LUtGclZqdEloSXk0SXRYbGxLdlJfa1RWZWFiLUNwQUdBZlB6bUozN0kteEVWeklVa29SanJSRUFuSnhLQkkyQ3BTck5LajBIbmFHYzNQZEFRZllsTVh4a2tFbENJczd2eHl4U0hYRnRxT1FJVllqUEo5ZHlmX0I2aEF5RjhqM3FEUFNtY1c1SXln...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDB1LUtGclZqdEloSXk0SXRYbGxLdlJfa1RWZWFiLUNwQUdBZlB6bUozN0kteEVWeklVa29SanJSRUFuSnhLQkkyQ3BTck5LajBIbmFHYzNQZEFRZllsTVh4a2tFbENJczd2eHl4U0hYRnRxT1FJVllqUEo5ZHlmX0I2aEF5RjhqM3FEUFNtY1c1SXlnSTQ2QU53SG1Dai1qUF9zUkNyV25CWE9fLVFOaDR5ZDVkRVHSAbwBQVVfeXFMTU1RcGVxUUJaQ25BT0Z1c3B5XzlFYXdQamoxbmFtQm1aZVZON2dkV0VhU2pMeE1ia1dhSi1fZkZWUDNuUktJR3RoektXSDZydGhlaFB5TUpFdWNHSVI4ZFhxYUU3MGljUUZyc0NPbVpVbjJMdGZTTHpXd2pzQ2pHNVgybmFHUTdNa0lFc0lmSXA3TklnaWRsNXlSaXY0dEI0SVFZTmRLbXFfN3VsRTdqb3U4V3RoOURRUUdpeGo?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 18:27"
+        "data_noticia": "16/06/2026 00:18"
       }
     },
     {
@@ -827,8 +725,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Opinion | President Trump Lost This War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA4enlNc0hFaXZOcElpRWExZDhVcW14YW9RMTJ3akdBNlpCZ1VfbFczTUFFLVhGdE5vdllmQXM2cWV0Z2QwdHpEMjctcDB3Z2R0dHA0QmN3Slh2anlHbVl1cC1JQWtWRFRNb2xPc2NKRUk0clVWeDVR?oc=5\" target=\"_blank\">Opinion | Preside...",
+        "titulo_evento": "Opinion | Trump Lost The War He Started In Iran - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA4enlNc0hFaXZOcElpRWExZDhVcW14YW9RMTJ3akdBNlpCZ1VfbFczTUFFLVhGdE5vdllmQXM2cWV0Z2QwdHpEMjctcDB3Z2R0dHA0QmN3Slh2anlHbVl1cC1JQWtWRFRNb2xPc2NKRUk0clVWeDVR?oc=5\" target=\"_blank\">Opinion | Trump L...",
         "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4enlNc0hFaXZOcElpRWExZDhVcW14YW9RMTJ3akdBNlpCZ1VfbFczTUFFLVhGdE5vdllmQXM2cWV0Z2QwdHpEMjctcDB3Z2R0dHA0QmN3Slh2anlHbVl1cC1JQWtWRFRNb2xPc2NKRUk0clVWeDVR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "15/06/2026 20:46"
@@ -844,11 +742,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump and Iran reach tentative deal to end war, but obstacles to peace remain - OSV News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWM3NlNrNGlCUEFVQXRwamxvRHdTc2xPVnFDS21laVpqM2xkUXpwREtNLWRXNG53N2tIZE5XSk56Y1N3LVpCcTFZXzViSWdHUEtlQWc5M2R6Ni1VWFVta2xLUjZaNG40Q2pUMkRBcllUZ0dQZmlXVzJ3dnVwclFfUlQ5MnB2VnNTdDVsRWVqT1Nzc3ht...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWM3NlNrNGlCUEFVQXRwamxvRHdTc2xPVnFDS21laVpqM2xkUXpwREtNLWRXNG53N2tIZE5XSk56Y1N3LVpCcTFZXzViSWdHUEtlQWc5M2R6Ni1VWFVta2xLUjZaNG40Q2pUMkRBcllUZ0dQZmlXVzJ3dnVwclFfUlQ5MnB2VnNTdDVsRWVqT1Nzc3htbC0tUnFyUzJ6b3FodF9z?oc=5",
+        "titulo_evento": "Trump touts deal with Iran to end war sending oil prices plummeting - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0ZqcWZrblEwVjA2ZmlZUnpQZ1dDcVF1dmpRa3VSeWlTU2huMWhUUzJiWVMwbWJZZkFSalprVmhHRnhwUTM3dEplT3plLTlWUVl1SFhwZmtnSUZOdjlHQXNScnNtU0FTTmp1NGYzcy1OWXRWR2RIOGtmQVJlTG5OUldkX2doMUFPV3FvV0hac09MM1Jo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0ZqcWZrblEwVjA2ZmlZUnpQZ1dDcVF1dmpRa3VSeWlTU2huMWhUUzJiWVMwbWJZZkFSalprVmhHRnhwUTM3dEplT3plLTlWUVl1SFhwZmtnSUZOdjlHQXNScnNtU0FTTmp1NGYzcy1OWXRWR2RIOGtmQVJlTG5OUldkX2doMUFPV3FvV0hac09MM1JoMjhIN3hXdVRmdkRiS3ZvLUJ5NHBKOVdzQ3dxZnd5cHg5akxhSzY1MjVLSUM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 20:36"
+        "data_noticia": "15/06/2026 22:54"
       }
     },
     {
@@ -861,11 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Netanyahu and Trump on collision course as US, Iran agree to halt war - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdPRTlRSUZXM2ZEc05FTzM5NEZSalItZ2FYSlNfSVdFcUY1UVZhVXJRZFVZd0RvMlFsSEthdHlDeDJHdWQ0TUVUMFRxNmQyaG5zUDNiTjRRQzVLWGVwVXRSWDlGSlVudk9DdDRORU9CM2ZVb05Oa3NpU2hOR2xrTzBQdTFPVmpfdFhtWWlRS3BMNGY0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVTdPRTlRSUZXM2ZEc05FTzM5NEZSalItZ2FYSlNfSVdFcUY1UVZhVXJRZFVZd0RvMlFsSEthdHlDeDJHdWQ0TUVUMFRxNmQyaG5zUDNiTjRRQzVLWGVwVXRSWDlGSlVudk9DdDRORU9CM2ZVb05Oa3NpU2hOR2xrTzBQdTFPVmpfdFhtWWlRS3BMNGY0WlREandpSGpvUXVLaHlDS3dhdXBBeS1SQmc?oc=5",
+        "titulo_evento": "Trump’s Iran accord offers exit from war — and fresh political risks - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZBckxBS2ltRWthVHM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 19:59"
+        "data_noticia": "15/06/2026 22:01"
       }
     },
     {
@@ -873,33 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSbi16U3FSdmZNNFhoNWczbDI1YlhYTy1wS2N1dVRWR2Y1d01rOE1iX19KOGg1WTQ4Mk9KRERXUHRKOEdhOEU1V1BYUEZWV2RtakN2M2hxTzZ1Zw?oc=5\" target=\"_blank\">Bowen: Iran deal ends Trump's war that revealed limit o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSbi16U3FSdmZNNFhoNWczbDI1YlhYTy1wS2N1dVRWR2Y1d01rOE1iX19KOGg1WTQ4Mk9KRERXUHRKOEdhOEU1V1BYUEZWV2RtakN2M2hxTzZ1Zw?oc=5",
+        "titulo_evento": "How Iran gained the strategic upper hand in the war with the US and Israel - The Conversation",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFc5S19kRFFfcGFMbGstUVZpWDB3aU9iX013Sm5xcjBlRFY2ZW5mdjdNQ0l6elZxZmRXWmlPZ19qOWJSTFRQXy1sSXlEOGRTU0lacmYxOVlFeTdvSWFCNml0UmY5dXhsQmYtTF9KRndMNzYxVFd1bm0yeHA3QlRYZFhJRi1LazFnUXF2Smw4NUZ6Ykpt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFc5S19kRFFfcGFMbGstUVZpWDB3aU9iX013Sm5xcjBlRFY2ZW5mdjdNQ0l6elZxZmRXWmlPZ19qOWJSTFRQXy1sSXlEOGRTU0lacmYxOVlFeTdvSWFCNml0UmY5dXhsQmYtTF9KRndMNzYxVFd1bm0yeHA3QlRYZFhJRi1LazFnUXF2Smw4NUZ6YkptTG91U0JnT2o4UDNqRWdPdTQtZnRneWJhQ2c?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 14:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/06/2026 19:13"
+        "data_noticia": "15/06/2026 14:17"
       }
     },
     {
@@ -917,6 +798,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUQ3bkx1eDNQeFdsU1NqSEQxd0dxbWhUWVFZSndmcXA0N2p2Vl9BSWV0XzBOQ1FIcTBVR2o1U0MwYmJ6SFIyajJJQlh6WklXN1lla2pFYVZob1QwTHd3elJvdDA0cEVoc21ibnRmUlRGaUxWTjUzSHlUTzNEaGtPSGNxTG00akk?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "15/06/2026 12:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Asia markets temper Iran deal optimism, BOJ decision in view - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5\" target=\"_blank\">Asia m...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "16/06/2026 01:14"
       }
     },
     {
@@ -958,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Oil prices fall on US, Iran deal announcement - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNallCNE9mRXY2dXF1dW92bDNUMmNqUUtoWUlEc19nUVJUT0FMLWpEM3ZteFk3d2VUVTV4VlotMks0YVhSV0hTdm9kU3c1QlhaRFdyUEVUZXFjdGpaYzZ5Wk5BMW84Zm1wQUhzUU1YOVNPUzMySnVQU2VLWHRneF8wMGJZb2pSY0E?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNallCNE9mRXY2dXF1dW92bDNUMmNqUUtoWUlEc19nUVJUT0FMLWpEM3ZteFk3d2VUVTV4VlotMks0YVhSV0hTdm9kU3c1QlhaRFdyUEVUZXFjdGpaYzZ5Wk5BMW84Zm1wQUhzUU1YOVNPUzMySnVQU2VLWHRneF8wMGJZb2pSY0E?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "15/06/2026 19:40"
+        "titulo_evento": "Tallying the global cost of the US-Israel war against Iran - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRndNdE5lQmQ1Zm40ZzlqOTBUUHNxWDRGZ0NHVk1GanVJVDVWOVgzXzc5MnBvamtiTWlLV1IxSzloZHVqd3Z2MTltZUVYdWxrRU9YdGcxOG1YUmhNa2Iza0VIYjNIdEFzbVF5LU9FUTZ4QXhnREF3MGdTRGxOSnhDSllEcy1yNElCS2hWeW93c2VIZkZm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRndNdE5lQmQ1Zm40ZzlqOTBUUHNxWDRGZ0NHVk1GanVJVDVWOVgzXzc5MnBvamtiTWlLV1IxSzloZHVqd3Z2MTltZUVYdWxrRU9YdGcxOG1YUmhNa2Iza0VIYjNIdEFzbVF5LU9FUTZ4QXhnREF3MGdTRGxOSnhDSllEcy1yNElCS2hWeW93c2VIZkZmZWt4SktBazloSjhKNzFXZ2k4QQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "15/06/2026 13:45"
       }
     },
     {
@@ -992,33 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tallying the global cost of the US-Israel war against Iran - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRndNdE5lQmQ1Zm40ZzlqOTBUUHNxWDRGZ0NHVk1GanVJVDVWOVgzXzc5MnBvamtiTWlLV1IxSzloZHVqd3Z2MTltZUVYdWxrRU9YdGcxOG1YUmhNa2Iza0VIYjNIdEFzbVF5LU9FUTZ4QXhnREF3MGdTRGxOSnhDSllEcy1yNElCS2hWeW93c2VIZkZm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRndNdE5lQmQ1Zm40ZzlqOTBUUHNxWDRGZ0NHVk1GanVJVDVWOVgzXzc5MnBvamtiTWlLV1IxSzloZHVqd3Z2MTltZUVYdWxrRU9YdGcxOG1YUmhNa2Iza0VIYjNIdEFzbVF5LU9FUTZ4QXhnREF3MGdTRGxOSnhDSllEcy1yNElCS2hWeW93c2VIZkZmZWt4SktBazloSjhKNzFXZ2k4QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "15/06/2026 13:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Trump’s Iran accord offers exit from war — and fresh political risks - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZBckxBS2ltRWthVHM?oc=5",
+        "titulo_evento": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDB1LUtGclZqdEloSXk0SXRYbGxLdlJfa1RWZWFiLUNwQUdBZlB6bUozN0kteEVWeklVa29SanJSRUFuSnhLQkkyQ3BTck5LajBIbmFHYzNQZEFRZllsTVh4a2tFbENJczd2eHl4U0hYRnRxT1FJVllqUEo5ZHlmX0I2aEF5RjhqM3FEUFNtY1c1SXln...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDB1LUtGclZqdEloSXk0SXRYbGxLdlJfa1RWZWFiLUNwQUdBZlB6bUozN0kteEVWeklVa29SanJSRUFuSnhLQkkyQ3BTck5LajBIbmFHYzNQZEFRZllsTVh4a2tFbENJczd2eHl4U0hYRnRxT1FJVllqUEo5ZHlmX0I2aEF5RjhqM3FEUFNtY1c1SXlnSTQ2QU53SG1Dai1qUF9zUkNyV25CWE9fLVFOaDR5ZDVkRVHSAbwBQVVfeXFMTU1RcGVxUUJaQ25BT0Z1c3B5XzlFYXdQamoxbmFtQm1aZVZON2dkV0VhU2pMeE1ia1dhSi1fZkZWUDNuUktJR3RoektXSDZydGhlaFB5TUpFdWNHSVI4ZFhxYUU3MGljUUZyc0NPbVpVbjJMdGZTTHpXd2pzQ2pHNVgybmFHUTdNa0lFc0lmSXA3TklnaWRsNXlSaXY0dEI0SVFZTmRLbXFfN3VsRTdqb3U4V3RoOURRUUdpeGo?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "15/06/2026 20:23"
+        "data_noticia": "16/06/2026 00:18"
       }
     }
   ]
