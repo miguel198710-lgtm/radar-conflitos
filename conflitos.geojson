@@ -125,6 +125,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry",
+        "descricao": "United Nations Commission of Inquiry says Israel&#039;s &#039;deliberate targeting&#039; of Gaza children part of ongoing &#039;genocide&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "23/06/2026 08:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds",
+        "descricao": "US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/06/2026 07:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -215,43 +249,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Conservative radio host defends Trump, says he’s better than Vance",
-        "descricao": "Prominent conservative radio host, spoke at the International Policy Summit to defend Trump’s handling of the Iran war.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/23/conservative-radio-host-defends-trump-says-hes-better-than-vance?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "23/06/2026 03:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-        "descricao": "Iran’s chief negotiator said the Strait will never return to the way it was before the war.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "23/06/2026 01:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
         "descricao": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-        "url_fonte": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "23/06/2026 05:39"
       }
@@ -268,7 +268,7 @@
       "properties": {
         "titulo_evento": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
         "descricao": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
-        "url_fonte": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "21/06/2026 23:57"
       }
@@ -285,7 +285,7 @@
       "properties": {
         "titulo_evento": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
         "descricao": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-        "url_fonte": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "22/06/2026 16:42"
       }
@@ -302,7 +302,7 @@
       "properties": {
         "titulo_evento": "Trump-backed political outsider wins Colombia election, initial count shows",
         "descricao": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
-        "url_fonte": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "22/06/2026 03:31"
       }
@@ -319,9 +319,298 @@
       "properties": {
         "titulo_evento": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
         "descricao": "Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.",
-        "url_fonte": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "22/06/2026 00:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Is Germany looking again at coal-powered electricity?",
+        "descricao": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "21/06/2026 23:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brussels residents cool off in fountains as heatwave grips Belgium",
+        "descricao": "People flocked to fountains in Brussels' Parc du Cinquantenaire as temperatures climbed during a heatwave expected to intensify later this week.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/23/brussels-residents-cool-off-in-fountains-as-heatwave-grips-belgium",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "23/06/2026 08:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Messi extends World Cup goal record in win over Austria as France, Norway advance to knockout rounds",
+        "descricao": "Argentina, France and Norway advance to the knockout stages as Messi, Mbappe and Haaland continue to shine, scoring a brace each in their second fixtures of the group stage in a tightly contested race for the World Cup Golden Boot.",
+        "url_fonte": "http://www.euronews.com/2026/06/23/messi-extends-world-cup-goal-record-in-win-over-austria-as-france-norway-advance-to-knocko",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "23/06/2026 08:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kazakhstan brings New Silk Road revival to Brussels as Tokayev visits EU leaders",
+        "descricao": "Kazakhstan's president has arrived in Brussels this week to meet EU leaders and assess the delivery of promises made at last year's EU-Central Asia summit in Samarkand, with the Middle Corridor trade route connecting China to Europe through Central A...",
+        "url_fonte": "http://www.euronews.com/2026/06/23/kazakhstan-brings-new-silk-road-revival-to-brussels-as-tokayev-visits-eu-leaders",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "23/06/2026 07:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vance says direct talks with Iran set 'good foundation' for deal to end the war",
+        "descricao": "Lower-level officials are continuing to engage in what officials described as “technical talks” in Switzerland following Vance, Ghalibaf and Araghchi’s departure, as the US and Iran look to inch closer to a concrete deal.",
+        "url_fonte": "http://www.euronews.com/2026/06/23/vance-says-direct-talks-with-iran-set-good-foundation-for-deal-to-end-the-war",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "23/06/2026 05:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Messi smashes all-time World Cup goalscoring record with 18 goals for Argentina",
+        "descricao": "Messi has become the highest-scoring player in World Cup history with 18 goals. He now has two more than the previous record holder, former Germany striker Miroslav Klose.",
+        "url_fonte": "http://www.euronews.com/2026/06/22/messi-breaks-all-time-world-cup-goalscoring-record-with-17th-goal-for-argentina",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "22/06/2026 20:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US-backed political newcomer wins Colombia election, marking country's right-wing shift",
+        "descricao": "With nearly all votes counted, the election results polarised the country, sparking both celebrations and protests across the country.",
+        "url_fonte": "http://www.euronews.com/2026/06/22/us-backed-political-newcomer-wins-colombia-election-marking-countrys-right-wing-shift",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "22/06/2026 11:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China announces sanctions on 10 US companies as trade tensions flare",
+        "descricao": "The sanctions come a month after US President Donald Trump visited Beijing for talks with Chinese President Xi Jinping aimed at stabilising relations.",
+        "url_fonte": "http://www.euronews.com/2026/06/22/china-announces-sanctions-on-10-us-companies-as-trade-tensions-flare",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "22/06/2026 10:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Temu version': World's largest Messi statue mocked online",
+        "descricao": "\nPRESS REVIEW – Tuesday, June 23: This Tuesday marks 10 years since millions of British people voted for Brexit. The milestone comes one day after Prime Minister Keir Starmer's tearful resignation. Also, the internet goes crazy for \"hot podium guy\", ...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/press-review/20260623-argentina-s-messi-statue-dubbed-the-temu-version-of-messi",
+        "categoria": "Política (France 24)",
+        "data_noticia": "23/06/2026 10:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France tries to handle extreme temperatures as heatwave carries on",
+        "descricao": "\nFrance is going through a record heatwave, with 54 departments on high alert. At least 18 people have died from heat related causes. For French people, the main issue is how to cope with these extreme temperatures, especially at night, where they ar...",
+        "url_fonte": "https://www.france24.com/en/france-tries-to-handle-extreme-temperatures-as-heatwave-carries-on",
+        "categoria": "Política (France 24)",
+        "data_noticia": "23/06/2026 10:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Resistance fighter Marc Bloch becomes first historian to enter France's Panthéon",
+        "descricao": "\nThis Tuesday June 23, Marc Bloch will be inducted into Paris's Panthéon mausoleum. A leading 20th-century historian, he co-founded the French academic journal \"Les Annales\" and was also a soldier in both World Wars. Bloch, who was Jewish, joined the...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/focus/20260623-resistance-fighter-marc-bloch-becomes-first-historian-to-enter-france-s-panth%C3%A9on",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/06/2026 10:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Protests erupt in Colombia as far-right set to win presidential election",
+        "descricao": "\nProtests have erupted in Colombia against the election of the far-right candidate Abelardo de la Espriella. Though election officials have yet to formally announce a winner, with almost all of the votes counted, the pro-Trump lawyer and businessman ...",
+        "url_fonte": "https://www.france24.com/en/protests-erupt-in-colombia-as-far-right-set-to-win-presidential-election",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/06/2026 10:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran set to return to mainstream oil market as US temporarily waives sanctions",
+        "descricao": "\nAs 60 days of peace negotiations between the US and Iran continue, Tehran appears to have won significant concessions from Washington. Chief among those is the waiving of sanctions on Iranian oil exports. US sanctions have been in place for decades,...",
+        "url_fonte": "https://www.france24.com/en/iran-set-to-return-to-mainstream-oil-market-as-us-temporarily-waives-sanctions",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/06/2026 10:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK facing 'pivotal moment' as it prepares for 7th PM since Brexit vote",
+        "descricao": "\nBritish Prime Minister Keir Starmer won his job after leading his party to a massive victory in 2024. Less than two years later, he resigned as his party rebelled in the wake of widespread losses in local elections. It coincides with the tenth anniv...",
+        "url_fonte": "https://www.france24.com/en/uk-facing-pivotal-moment-as-it-prepares-for-7th-pm-since-brexit-vote",
+        "categoria": "Política (France 24)",
+        "data_noticia": "23/06/2026 09:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran agree on Lebanon ceasefire and lifting sanctions on Iranian oil, but much remains",
+        "descricao": "\nBoth Tehran and Washington hailed the negotiations that took place in Switzerland on June 22 to create a roadmap to close down the war in the Middle East. US Vice president JD Vance said it laid a good foundation for a deal to end the war. The parti...",
+        "url_fonte": "https://www.france24.com/en/us-iran-agree-on-lebanon-ceasefire-and-lifting-sanctions-on-iranian-oil-but-much-remains",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/06/2026 09:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US waives Iran oil sanctions as part of 60-day peace negotiations",
+        "descricao": "\nThe United States temporarily waived sanctions on Iranian oil exports on Monday, opening the door for Tehran to return to global energy markets as negotiations between the two countries continue. In this edition, we look at the impact this has had o...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/business/20260623-us-waives-iran-oil-sanctions-as-part-of-60-day-peace-negotiations",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "23/06/2026 09:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel’s targeting of Palestinian children establishes ‘genocidal intent’ in Gaza, UN probe says",
+        "descricao": "\nIsraeli authorities and security forces \"deliberately targeted and killed\" children in what has become a key factor in its \"genocidal intent\" to \"destroy the larger Palestinian group in Gaza\", a UN inquiry revealed Tuesday. Israel has slammed the re...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260623-israel-s-deliberate-targeting-of-children-part-of-ongoing-gaza-genocide-un-probe",
+        "categoria": "Política (France 24)",
+        "data_noticia": "23/06/2026 08:07"
       }
     },
     {
@@ -380,67 +669,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          4.4699,
+          50.5039
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East live: Iran says Strait of Hormuz will be administered by Tehran",
-        "descricao": "\nIran’s chief negotiator Mohammad Bagher Ghalibaf said on Tuesday that the Strait of Hormuz will be administered by Tehran following US-Iran talks in Switzerland, as negotiations continue over regional security arrangements and the future of the key ...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260623-middle-east-live-iran-says-strait-of-hormuz-will-be-administered-by-tehran",
-        "categoria": "Política (France 24)",
-        "data_noticia": "23/06/2026 02:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World Cup 2026: France-Iraq match disrupted amid thunderstorm",
-        "descricao": "\nThough France's \"Les Bleus\" won their group stage fixture against Iraq in commanding fashion on Monday, the two sides were forced to stop play for nearly two hours due to a thunderstorm hitting the venue they were playing at in Philadelphia.What hap...",
-        "url_fonte": "https://www.france24.com/en/video/20260623-world-cup-2026-france-iraq-match-disrupted-amid-thunderstorm",
-        "categoria": "Política (France 24)",
-        "data_noticia": "23/06/2026 01:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Romania parliament rejects liberal PM-designate Adrian Vestea",
-        "descricao": "\nRomania's parliament rejected prime minister-designate Adrian Vestea on Monday, extending months of political turmoil in the EU and NATO member bordering Ukraine and raising the prospect of a snap election if a second government nominee also fails t...",
-        "url_fonte": "https://www.france24.com/en/europe/20260622-romania-parliament-rejects-liberal-pm-designate-adrian-vestea",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/06/2026 22:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World Cup 2026: France-Iraq match suspended as stadium is evacuated due to thunderstorms",
-        "descricao": "\nHeavy rain and an approaching thunderstorm delayed the second half of France's World Cup match against Iraq on Monday, forcing thousands of fans to seek shelter in the first weather-related disruption of the tournament. The stoppage came as severe w...",
-        "url_fonte": "https://www.france24.com/en/sport/20260622-world-cup-2026-france-iraq-match-suspended-as-stadium-is-evacuated-due-to-thunderstorms",
-        "categoria": "Política (France 24)",
-        "data_noticia": "22/06/2026 22:18"
+        "titulo_evento": "EU hosts Taliban for migrant return talks in Brussels",
+        "descricao": "The EU is hosting Taliban officials after Belgium granted temporary visas for talks on returning failed Afghan asylum-seekers. The meeting is one of the bloc's highest-level contacts with the Taliban since 2021.",
+        "url_fonte": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "23/06/2026 09:39"
       }
     },
     {
@@ -453,79 +691,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Vance says UN nuclear inspectors will return to Iran as US suspends sanctions",
-        "descricao": "\nThe United States temporarily eased sanctions on Iranian oil on Monday after Vice President JD Vance said Tehran had agreed to allow UN nuclear inspectors back into the country, marking a significant step in renewed negotiations aimed at curbing Ira...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260622-vance-says-un-nuclear-inspectors-will-return-to-iran-as-us-suspends-sanctions",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/06/2026 21:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
-        "descricao": "\nStarting Tuesday, US Secretary of State Marco Rubio is slated to visit three Gulf allies that were attacked by Iran during the US and Israeli war: the United Arab Emirates, Kuwait and Bahrain. Rubio appears to have his work cut out for him. The US’s...",
-        "url_fonte": "https://www.france24.com/en/rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-with-gulf-allies",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/06/2026 21:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Turnover at 10 Downing Street raises questions about 'whether Britain is indeed governable'",
-        "descricao": "\nU.K. Prime Minister Keir Starmer resigned on Monday, paving the way for Britain to have its seventh prime minister in just over a decade. Speaking with FRANCE 24's Mark Owen, Martin Farr, Senior Lecturer in Contemporary British History at Newcastle ...",
-        "url_fonte": "https://www.france24.com/en/turnover-at-10-downing-street-raises-questions-about-whether-britain-is-indeed-governable",
-        "categoria": "Política (France 24)",
-        "data_noticia": "22/06/2026 19:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-        "descricao": "\nUkraine has intensified its drone attacks on the Russian-controlled territory of Crimea, prompting a fuel shortage on the peninsula. The campaign has prompted officials there to halt gasoline sales to the public and has caused a larger threat to Rus...",
-        "url_fonte": "https://www.france24.com/en/ukrainian-attacks-prompt-russian-held-crimea-to-halt-civilian-gasoline-sales",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/06/2026 18:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Labour's last chance? Burnham set to replace Starmer as UK faces far-right surge",
-        "descricao": "\nAnother post-Brexit prime minister bites the dust. Keir Starmer owning up to the obvious, that he's too unpopular to lead the Labour Party into the next general election. After replacing the hard left's Jeremy Corbyn, the same Starmer won a whopping...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/the-debate/20260622-labour-s-last-chance-burnham-set-to-replace-starmer-as-uk-faces-far-right-surge",
-        "categoria": "Política (France 24)",
-        "data_noticia": "22/06/2026 18:14"
+        "titulo_evento": "India news: US waiver clears way for Iran oil purchase",
+        "descricao": "Iran has contacted Indian refiners to sell its oil after the US temporarily lifted sanctions on Tehran. Meanwhile, an Indian startup founder is going to head Meta's WhatsApp. Follow DW for more.",
+        "url_fonte": "https://www.dw.com/en/india-news-us-waiver-clears-way-for-iran-oil-purchase/live-77667895?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "23/06/2026 07:53"
       }
     },
     {
@@ -618,23 +788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US waives Iran oil sanctions citing progress in talks",
-        "descricao": "US officials have cited ongoing negotiations on allowing nuclear inspections and opening the Strait of Hormuz in pausing sanctions for 60 days. JD Vance said a \"foundation\" is in place for a final deal.",
-        "url_fonte": "https://www.dw.com/en/us-waives-iran-oil-sanctions-citing-progress-in-talks/live-77653016?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "22/06/2026 11:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -652,16 +805,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5674,
-          41.8719
+          4.3517,
+          50.8503
         ]
       },
       "properties": {
-        "titulo_evento": "Giorgia Meloni’s American reckoning",
-        "descricao": "With its low defense spending and trade surplus with America, Italy was always bound to clash with Trump. Their spat can now help Meloni's re-election hopes. ",
-        "url_fonte": "https://www.politico.eu/article/giorgia-meloni-donald-trump-italy-us-american-reckoning/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "23/06/2026 02:02"
+        "titulo_evento": "Von der Leyen plans Armenia visit to show support for pro-EU government",
+        "descricao": "Commission chief's trip underscores Brussels' backing for Armenia's Western turn after a landmark election that dealt a blow to Russian influence in the region.",
+        "url_fonte": "https://www.politico.eu/article/ursula-von-der-leyen-plans-armenia-visit-to-show-support-for-pro-eu-government/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "23/06/2026 09:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "America’s Thirst for Gasoline May Not Recover After Iran War",
+        "descricao": "People drove less and bought more-efficient cars when fuel prices surged, habits that could stick over the long term.",
+        "url_fonte": "https://www.nytimes.com/2026/06/23/business/economy/gasoline-demand-destruction.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "23/06/2026 09:01"
       }
     },
     {
@@ -678,7 +865,7 @@
         "descricao": "Citing lower trade and investment, analysts broadly agree that Britain’s economy is smaller than it would have been if the country had stayed in the E.U.",
         "url_fonte": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "23/06/2026 04:00"
+        "data_noticia": "23/06/2026 07:45"
       }
     },
     {
@@ -737,16 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "While the World Scrambles for Oil, China Sits on Full Tanks",
-        "descricao": "The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.",
-        "url_fonte": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
-        "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "21/06/2026 09:01"
+        "titulo_evento": "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTDlaaGlpZW9HTi1jU3pyX19Ybk9rcXpPRWptZFJFSk1HTzhVUTdqOXJFbDVNOU1XSHFwVzE4N0g1RFdVYVNUOFl0TG16TGRBSkZVWkZFVTFtMGVTWTg5RGxaY2JhOW9FbGhLV2lpbkF4eTUzQV9pYk8tLU9iRFhrNjJacw?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTDlaaGlpZW9HTi1jU3pyX19Ybk9rcXpPRWptZFJFSk1HTzhVUTdqOXJFbDVNOU1XSHFwVzE4N0g1RFdVYVNUOFl0TG16TGRBSkZVWkZFVTFtMGVTWTg5RGxaY2JhOW9FbGhLV2lpbkF4eTUzQV9pYk8tLU9iRFhrNjJacw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 09:29"
       }
     },
     {
@@ -754,16 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "The Next Russia Threat: Moscow’s Military Power After Ukraine - Foreign Affairs",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE81aHdmVjc1aVZvVDg0SHNaS2U4d3dsUmhFTV82cFRBdlN5VVNPMVQ0RV92WllLZlRVZGhIRzNDVkg2eWhnek5SODhVMUllRFh0TG4wYkZXVTlzSVItVTRQcVVhbUNMODlCZHllQWgxN2ItQVBxN29IQzJJcw?oc=5\" target=\"_blank\">The Next Ru...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81aHdmVjc1aVZvVDg0SHNaS2U4d3dsUmhFTV82cFRBdlN5VVNPMVQ0RV92WllLZlRVZGhIRzNDVkg2eWhnek5SODhVMUllRFh0TG4wYkZXVTlzSVItVTRQcVVhbUNMODlCZHllQWgxN2ItQVBxN29IQzJJcw?oc=5",
+        "titulo_evento": "As War With U.S. Eases, Iran Steps Up Hangings of Dissidents - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUhZQ1dHb1N5WE9NM3Y5bWNLcGRkREFMODRHbWZiNVNkSG5xQmNsQWthRVVsUl9YYkZJbzlHTG1rbUpjbDVsTi1vRUNiMUgxYnYyOUhzZDlUamhPSzVkUzVTMmxZSjBMMnhxOFFhNXEyRVdMcmpvdFdCeF9qSmpnMTk1Tzl3Yy14ZU1USGd1YV82emhR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUhZQ1dHb1N5WE9NM3Y5bWNLcGRkREFMODRHbWZiNVNkSG5xQmNsQWthRVVsUl9YYkZJbzlHTG1rbUpjbDVsTi1vRUNiMUgxYnYyOUhzZDlUamhPSzVkUzVTMmxZSjBMMnhxOFFhNXEyRVdMcmpvdFdCeF9qSmpnMTk1Tzl3Yy14ZU1USGd1YV82emhRT2dfNzhIVDl3ZGNhTkhUOFh4MEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/06/2026 04:00"
+        "data_noticia": "23/06/2026 08:25"
       }
     },
     {
@@ -788,6 +975,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWxoaHRXckdsdzBlTkJRYkJ2YnlqWU1LNVhKVW40ank0eVhLZmN5bFNJejVrcmtyU1NUZG9IZ3N6Sk1TTVdEU2g4c1hpeHgtaTZ5c1p5NERfRU8zMF9RdnlYQk1GUWlOU2szMHh0b2ZEb092akQ0NmxmSXN1VGViQ0E0aHFRanJTeHlILVFfMG16eGNp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWxoaHRXckdsdzBlTkJRYkJ2YnlqWU1LNVhKVW40ank0eVhLZmN5bFNJejVrcmtyU1NUZG9IZ3N6Sk1TTVdEU2g4c1hpeHgtaTZ5c1p5NERfRU8zMF9RdnlYQk1GUWlOU2szMHh0b2ZEb092akQ0NmxmSXN1VGViQ0E0aHFRanJTeHlILVFfMG16eGNpYjRmeXFDNGFhY1JtUmsycVdyWjlXVWJ3T2g2a3VsclRvQkFyelAzci10WWo1dw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 07:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Taiwan begins 5-day military drill with tanks patrolling streets - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWs2REVRb2NaS2pEdU04WHE0em40UDVGWm5wZ0VqelB3OU52YW05U1VKaUhmMkk3cVJZRjhIbGhnaVFTcTVhT0ZVakVVSW4xbVdUWE9ZZXA0Wm8ySjk1ZkcwZFBDZ05vMmdSQjZBb1EyY3dPTWNTc2RwQTdsZndDdHVOWGdOcnJpODZmajRROTNTMWlC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWs2REVRb2NaS2pEdU04WHE0em40UDVGWm5wZ0VqelB3OU52YW05U1VKaUhmMkk3cVJZRjhIbGhnaVFTcTVhT0ZVakVVSW4xbVdUWE9ZZXA0Wm8ySjk1ZkcwZFBDZ05vMmdSQjZBb1EyY3dPTWNTc2RwQTdsZndDdHVOWGdOcnJpODZmajRROTNTMWlCQTRTMjRZMXZ5TFZNaWJMcC1oZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 04:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -798,6 +1019,40 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdC05cmNJRnlwTWxRQ2J4TlFiNWxESklFUW5sajFFVTV1WnRmcEVKdzRqWmZFeXBlZmE5ZFJ3M1dmNl93OXE3YmNmc2x6Rl91SWZvNXM0dVRpRU5hY1REMTlFQVFDeW1UNFhKLV9NYUYwYUZ6LTAyY3RXNWsxTWFTb2Q3cHRlXzVwU0dHanh1LXBMaFhRdEVHaGQ0alZNb3FLakl5Q0VRMGdmcnkzZnhCeVp5aVA2QjI2aTJ6TkhhbWtmNlJ5RWJvQ2p3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "23/06/2026 03:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Opinion | Trump’s Iran Debacle Could Be a Gift for America - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPclZueHpCUll0UERkUVp5VkRGVHpqMk4zWGUyd1h1UHpLQWRvV2hQQkx2Yl9XWm9ORm15TURWOU1kZkF4UTJiNXRJc2RqWi04dnU4Tm93b2JLMkVhck5zRFVhenVKSGpLaHF0N1JXaXpjcWRMeTFCRy0tcUZla3VOSXhB?oc=5\" target=\"_blank\">O...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclZueHpCUll0UERkUVp5VkRGVHpqMk4zWGUyd1h1UHpLQWRvV2hQQkx2Yl9XWm9ORm15TURWOU1kZkF4UTJiNXRJc2RqWi04dnU4Tm93b2JLMkVhck5zRFVhenVKSGpLaHF0N1JXaXpjcWRMeTFCRy0tcUZla3VOSXhB?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "23/06/2026 05:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Next Russia Threat: Moscow’s Military Power After Ukraine - Foreign Affairs",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE81aHdmVjc1aVZvVDg0SHNaS2U4d3dsUmhFTV82cFRBdlN5VVNPMVQ0RV92WllLZlRVZGhIRzNDVkg2eWhnek5SODhVMUllRFh0TG4wYkZXVTlzSVItVTRQcVVhbUNMODlCZHllQWgxN2ItQVBxN29IQzJJcw?oc=5\" target=\"_blank\">The Next Ru...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81aHdmVjc1aVZvVDg0SHNaS2U4d3dsUmhFTV82cFRBdlN5VVNPMVQ0RV92WllLZlRVZGhIRzNDVkg2eWhnek5SODhVMUllRFh0TG4wYkZXVTlzSVItVTRQcVVhbUNMODlCZHllQWgxN2ItQVBxN29IQzJJcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 04:00"
       }
     },
     {
@@ -844,6 +1099,57 @@
         ]
       },
       "properties": {
+        "titulo_evento": "United States versus Iran, the war of unequal forces that neither side could win - EL PAÍS English",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1JaalgydFp1WDl1X3FhOUYtNWJscUNCSC1sWmJnTEdsbTFDUGI2aDloLW5iSHpUSzB0VXBGV1hQc00zVHlWZDdaNFRHNnNqNE1IR1J4NlJ4LWlCaTdfTzFfNm1GUXJta2g3Tnd6NGtRWHVxeElDVU5TVmJnQnJuR3UwOXJOdWdkTXg5LVJwZkZuWUs0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1JaalgydFp1WDl1X3FhOUYtNWJscUNCSC1sWmJnTEdsbTFDUGI2aDloLW5iSHpUSzB0VXBGV1hQc00zVHlWZDdaNFRHNnNqNE1IR1J4NlJ4LWlCaTdfTzFfNm1GUXJta2g3Tnd6NGtRWHVxeElDVU5TVmJnQnJuR3UwOXJOdWdkTXg5LVJwZkZuWUs0UGhJcXJ6RDJzY1F1bUpFRElZRXZHYVZBNlpCMUdWZmpGQ0p3NDBSeTJnTWpFMGJUQlZpX1J5ZVNhakl5SGfSAeYBQVVfeXFMTXJ4eldULVZyYm1kTmQ1Y3c2a09fa1Q2U0tkdmFRX1FEOUNlUXpKOGRaXzd5b2FIdXBHQmpTNUZrY1Fzem5LTjdwMnpscjFBcmlwTDM2V0w4ZFhBZnlBYURIaHdJcmJFV3pETTF0SmJ2Q25Fa0c1Y1FaTlhlU3hPanZTZHlwS2xhdi1WelNBXzN2ZF8wZmtsNnpxWVhXcGNHVTFFejZEUl9XbllnRlkwTEo4ZGh0S1lhYWdoNEhucU1VenlxV056TmpacHR3VVV2ZXFOLUJzWldRcVVvMnh2R1JCZW1xX3c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 07:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israeli stocks, shekel tumble as US-Iran peace talks reverse war rally - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFVfNVFySkJsR2pqNHlWVzE3c0xIZ0dRejlPX0dDTm1MNVJ0clhBcFh1WFhjOUU2cjJtVGlDUC1Lb1FpWWkxcmhrWS1yQ0h5aG9VaGZXU3RmSnB6VUlGbERzMXN3QmVGajFpbU1sbHkxb05uQnR2Q0xnT3QyVmIxMm5BLWNvcng5cTFnNVlVbUVhdlVU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFVfNVFySkJsR2pqNHlWVzE3c0xIZ0dRejlPX0dDTm1MNVJ0clhBcFh1WFhjOUU2cjJtVGlDUC1Lb1FpWWkxcmhrWS1yQ0h5aG9VaGZXU3RmSnB6VUlGbERzMXN3QmVGajFpbU1sbHkxb05uQnR2Q0xnT3QyVmIxMm5BLWNvcng5cTFnNVlVbUVhdlVUN0o1NzdTMFJMcVJMbEp1bzBra2UwOTVNM080?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 07:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global shares mostly slip amid caution about the war in Iran - Pittsburgh Post-Gazette",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3NROEU3bl91N0Nnd3lDTVZZZTJwblczNWdnek1ZMGw0cFB0djh1bkJ3Y1ZHb2lwWnN5OEVwRmkxR1hRaVlkXzNQMERtX0hWaTNpTlpWRzd4eUlUc0lQZlFkYXplS0pDYmhvY3I3Wk1aZ2pRam1vTmJ6U25INjd0QjJaRHFnanJxRk9xQm9OeXJ6ZHRj...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3NROEU3bl91N0Nnd3lDTVZZZTJwblczNWdnek1ZMGw0cFB0djh1bkJ3Y1ZHb2lwWnN5OEVwRmkxR1hRaVlkXzNQMERtX0hWaTNpTlpWRzd4eUlUc0lQZlFkYXplS0pDYmhvY3I3Wk1aZ2pRam1vTmJ6U25INjd0QjJaRHFnanJxRk9xQm9OeXJ6ZHRjbENqdFUzR1Brd19iTkk4WU8tRTBvSkk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/06/2026 10:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "U.S.-Iran talks set ‘good foundation’ for deal to end war, Vance says - NBC News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F3TUhPcm9hMVI3M1JlRU1PSW1XV2RFLWJvVk9OWm10ZE9NR3pIOW1zVXZjQjhaV2ZGYTd4U284MTBidF93Q0dZTDdmNEFEcnNiaWRIVmM5VFJua0xzcUM1MGdxSXpROTZ2cDR3STFRNEVwMk0xZk5kdE5YMG1ZdHRRck1vaDVzWHNFYWNNbnR0aFdI...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F3TUhPcm9hMVI3M1JlRU1PSW1XV2RFLWJvVk9OWm10ZE9NR3pIOW1zVXZjQjhaV2ZGYTd4U284MTBidF93Q0dZTDdmNEFEcnNiaWRIVmM5VFJua0xzcUM1MGdxSXpROTZ2cDR3STFRNEVwMk0xZk5kdE5YMG1ZdHRRck1vaDVzWHNFYWNNbnR0aFdIVHdaUlNBZzZsRUYzOUpGYnRxV0lLbzRla1dkRWpBUQ?oc=5",
@@ -861,43 +1167,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "India pivots to Russian crude and coal to mitigate Iran war fallout - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmg5eThzVGtyeGJTQkhoNVhXOFo2bDBfMEluWUlHaWlBUE9vSi1KcFFySFB5aGg5V3lIT1d3LS1Oa0Q4a09aOTFiRGM2c0FrVmFNVWJRaUJBaU9teGRmYkVKSHRRU2xsRGE1cGpOVHMyUUpVNGRZSEtXRXRNWEJ5X2JLSnp3cDU4OGN5aG5uQzdFRWg3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmg5eThzVGtyeGJTQkhoNVhXOFo2bDBfMEluWUlHaWlBUE9vSi1KcFFySFB5aGg5V3lIT1d3LS1Oa0Q4a09aOTFiRGM2c0FrVmFNVWJRaUJBaU9teGRmYkVKSHRRU2xsRGE1cGpOVHMyUUpVNGRZSEtXRXRNWEJ5X2JLSnp3cDU4OGN5aG5uQzdFRWg3QUMxcjhpNEhYdkhxYVBVNmdzdGgySkhXcXNyYzFoVl8zRURXc2paRVowWUNNUXh0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/06/2026 06:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "We Parsed Trump’s Shifting Rhetoric on the Iran War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTnJzV1h1YUxmcWx6c21nWWRQR2pqcExhaG9OS3Jxa2tkN1pySjMzd0p5WFh5TmR0VXVUdklKa01sSm05eGJJaWQzWExPTFExbGtsZVZyNlhuMmZKeFgxVTd1VElBNFExdThHWlRjUTZCVWd6Zmt4Z1VHTERaR1FheHY0MXI4c1NwWmdwclVub0RYU3li...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnJzV1h1YUxmcWx6c21nWWRQR2pqcExhaG9OS3Jxa2tkN1pySjMzd0p5WFh5TmR0VXVUdklKa01sSm05eGJJaWQzWExPTFExbGtsZVZyNlhuMmZKeFgxVTd1VElBNFExdThHWlRjUTZCVWd6Zmt4Z1VHTERaR1FheHY0MXI4c1NwWmdwclVub0RYU3liVUx3ek1tem9jdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/06/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea’s Kim Wants More Nuclear Forces After US-Iran War - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXQ2MU5rdkdCbkh1amJZbkNyMlFMSXgtWGpLUF9ibzJ5YjZZLVZmemUweGhlQlNkbUJaOEF4VFFSVXFkN1BkbDZYa0xwd2VTNWtkTmFCT1BpUS1iUVU5THo4c2NpZUx5Q3dMYWhXdTlqTG1RNE11YUh6OHVGWUY3R21oZFVBbXdEY2ltZG9tWHFiUURU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcXQ2MU5rdkdCbkh1amJZbkNyMlFMSXgtWGpLUF9ibzJ5YjZZLVZmemUweGhlQlNkbUJaOEF4VFFSVXFkN1BkbDZYa0xwd2VTNWtkTmFCT1BpUS1iUVU5THo4c2NpZUx5Q3dMYWhXdTlqTG1RNE11YUh6OHVGWUY3R21oZFVBbXdEY2ltZG9tWHFiUURUWUMtaEFOaVEtZ3R4OHlxdjNqTzE4VW5BdlluV3VB?oc=5",
+        "titulo_evento": "Asian shares are trading mixed amid caution about the war in Iran - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTVhQbllWR0N3WjdabjhDRHlKVmRCVG01WGVORXRDZ3R0U0xwOFVHM2RFZ1ZQQlBMdG00OUJPVXdEMWN1MjFDTjh3enNfbTJ6dVgzbFJDOGxMV01EN21CaGYwc1NiaTZ3bUNOWFJYQTVRZ3dieFgtZjVNMjNwU1ZzUkdvNURJVEpMRDl3TTMxS2UxRDlY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVhQbllWR0N3WjdabjhDRHlKVmRCVG01WGVORXRDZ3R0U0xwOFVHM2RFZ1ZQQlBMdG00OUJPVXdEMWN1MjFDTjh3enNfbTJ6dVgzbFJDOGxMV01EN21CaGYwc1NiaTZ3bUNOWFJYQTVRZ3dieFgtZjVNMjNwU1ZzUkdvNURJVEpMRDl3TTMxS2UxRDlYRzBsaHpFUU8yd9IBowFBVV95cUxOamYweWFoTS1Db1dhQkpYUjRvUElLRGM3bW50UXQwNDdLcExTNXhJcDFMTEtJS3ZFeWJZSmliaEVPRHZobnV0M0VqRk9hcGhfeEtzV2FaSEdwSHRpQy1UTTFLRXlQN256MDlfa2tGU1hGQlhnVlk0TGxKRFR0b1FQTnBpZjVYZjFRb0QzcjZ6UHJDUXFvbGNpQkJQVW5udWh3bmJB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "23/06/2026 03:05"
       }
@@ -907,16 +1179,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Russia’s war economy has problems—but is not about to crash - The Economist",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGJpQy0tZUZUaU5ETEtZNmMxeHFiSjd1TnhaaUJWTDFBVFhITmVmTXVGaW5DUjY1TnRsRUFoVWhCcGlKYVZTZFk4SnpfNXF1UDByMmxNc3c4czJFZm5lMk0tVEpJdURHWUVqS0ZmTkVTWWRONVZzYlNPOGJ2SFBuSjU5NG1MZjNMRGpqWnUwZWk5cFlZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGJpQy0tZUZUaU5ETEtZNmMxeHFiSjd1TnhaaUJWTDFBVFhITmVmTXVGaW5DUjY1TnRsRUFoVWhCcGlKYVZTZFk4SnpfNXF1UDByMmxNc3c4czJFZm5lMk0tVEpJdURHWUVqS0ZmTkVTWWRONVZzYlNPOGJ2SFBuSjU5NG1MZjNMRGpqWnUwZWk5cFlZcmlGUk43N2xkNE4zT2I0U3Jza2puXzZHa1ZCTmhFdkxHOTg5?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/06/2026 19:07"
+        "titulo_evento": "‘It’s Unnerving’: Markets Recoil in Global Sell-Off Driven by Tech Stocks - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTNJNHI1N2NmTjJITTkySzlabHgxazlCdGVDLVFnMEJwTnZRZmthbTFTTlh5VmFYUFJuM0ZzdUotNjdLeGUxWWM5eWlkY3dvNk1MWEpubktfazVYdTM2d19FWTNkd3ZUOHhCaXN5VU5RNEMtQ0xqVEJJMlo4eE0wRGlsbF9DLUE3NjZEcVh1RXJwLTlN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTNJNHI1N2NmTjJITTkySzlabHgxazlCdGVDLVFnMEJwTnZRZmthbTFTTlh5VmFYUFJuM0ZzdUotNjdLeGUxWWM5eWlkY3dvNk1MWEpubktfazVYdTM2d19FWTNkd3ZUOHhCaXN5VU5RNEMtQ0xqVEJJMlo4eE0wRGlsbF9DLUE3NjZEcVh1RXJwLTlNLUs2dg?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "23/06/2026 10:33"
       }
     },
     {
@@ -924,33 +1196,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -79.1834,
+          21.5218
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s regime survived the war. Can it make peace with its own people? - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcEN3Um1FdmNTd3VzQjlzUTFHNUhVdWVUZmpzRE92bmc1aFY4YjJURUw2Y3JFRGg2bXpRMVUwTURNb1dlREVlMGR6d2hTSW9QdmNONmZiNUNEZkxaU29vREhrNndsODAxMG03RDRJUERxVktxakkwZ1pLcmVRb0M0bVV3SW5PVWJZb2NXcjVfXzBSQTJw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEN3Um1FdmNTd3VzQjlzUTFHNUhVdWVUZmpzRE92bmc1aFY4YjJURUw2Y3JFRGg2bXpRMVUwTURNb1dlREVlMGR6d2hTSW9QdmNONmZiNUNEZkxaU29vREhrNndsODAxMG03RDRJUERxVktxakkwZ1pLcmVRb0M0bVV3SW5PVWJZb2NXcjVfXzBSQTJweGcycDhhTUdfdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/06/2026 22:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "DW News. . The Pentagon just added three of China’s biggest companies to a military-linked blacklist, and they aren’t weapons manufacturers. Alibaba, BYD, and Baidu are just three of 188 Chinese companies on a list spanning EVs, AI, and semiconductors. - facebook.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQODFoTkM5RjhYSVhILW51cDJ1bE8yQ0lSWlhDWGtyR2VGclBxSWg5MVFvVTlORkRxbmx1eEVyTzRGNnpMaGlzTTZ6a3V5a3djc05KMENzS1BxcHN1UUdBNV9SM0hNMVlBU1AwUXBva1N4SkRMQjN0d3ZVWjRpd2FYXy1UU29aVU1jczVpZVNqeXJEWTNO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQODFoTkM5RjhYSVhILW51cDJ1bE8yQ0lSWlhDWGtyR2VGclBxSWg5MVFvVTlORkRxbmx1eEVyTzRGNnpMaGlzTTZ6a3V5a3djc05KMENzS1BxcHN1UUdBNV9SM0hNMVlBU1AwUXBva1N4SkRMQjN0d3ZVWjRpd2FYXy1UU29aVU1jczVpZVNqeXJEWTNOSEMwVjZZZU9wRVZSRXNLcWlkSFZ2VVBpb2RaX3RYSjJIZURrdHlMZHhaaDNPM0ZTc0d1THRxV3UxNzBUUTg0eHB1MXhsVVFKTTBJeA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/06/2026 04:38"
+        "titulo_evento": "Cuba’s last hand – Economy and ecology - ips-journal.eu",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQThVVkg4eUh1Q2FaVUNGcVl2ak1hbDBCZjA2R1piZ0l4dG9SYXMwMjd1aXBjUFkteDFFRFdhUzBNLW5uWXF4NHgxcHhkcWRELWtRMXF1S295YWp0SFgwUXR4QkwwWVZUeE42RFpvYjl2SFpmeW5fb1dJZEpoSVkwUg?oc=5\" target=\"_blank\">Cub...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQThVVkg4eUh1Q2FaVUNGcVl2ak1hbDBCZjA2R1piZ0l4dG9SYXMwMjd1aXBjUFkteDFFRFdhUzBNLW5uWXF4NHgxcHhkcWRELWtRMXF1S295YWp0SFgwUXR4QkwwWVZUeE42RFpvYjl2SFpmeW5fb1dJZEpoSVkwUg?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "23/06/2026 09:59"
       }
     },
     {
@@ -980,79 +1235,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Watch Tech Tumble Overshadows Markets' Iran Hopes | The Asia Trade 6/23/2026 - Bloomberg.com",
+        "titulo_evento": "Watch Tech Tumble Overshadows Markets' Iran Hopes | The Asia Trade 6/23/2026 - Bloomberg",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkF3eXNnUGFqMTIteVd3VFlVWW5oS3B1MEdZM3NFNHV3NU5wZkN0aFFCTzl1SWhEUWU5NUQxampGVVdvRG9YOGswT0hfUEZXOC1iaEhZMUxpQW5ZTzZpdWhzekNoVTF1Vng4WWJHYTlEVzR2WER4eTgxalE4dk1manZ2S3NLdw?oc=5\" target=\"_bl...",
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkF3eXNnUGFqMTIteVd3VFlVWW5oS3B1MEdZM3NFNHV3NU5wZkN0aFFCTzl1SWhEUWU5NUQxampGVVdvRG9YOGswT0hfUEZXOC1iaEhZMUxpQW5ZTzZpdWhzekNoVTF1Vng4WWJHYTlEVzR2WER4eTgxalE4dk1manZ2S3NLdw?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "23/06/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global markets slip after US eases Iran sanctions, investors reassess Fed bets - mezha.net",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DS1Q0X0x0c3NudW5iaXJ0ZjFtd3EtWV9DNEd1WE9LcUlMYXkwaGNTRUNvUjBBLXFka3UzclNmRnlJZEVCcGxiWHZRdmZsSmY1UU4wQVVuSDZPNHpFVXB3em9sZXJaSkk3?oc=5\" target=\"_blank\">Global markets slip after US eases Ir...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DS1Q0X0x0c3NudW5iaXJ0ZjFtd3EtWV9DNEd1WE9LcUlMYXkwaGNTRUNvUjBBLXFka3UzclNmRnlJZEVCcGxiWHZRdmZsSmY1UU4wQVVuSDZPNHpFVXB3em9sZXJaSkk3?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "23/06/2026 03:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What do business leaders think about China's role in the global economy? - Modern Ghana",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE44V3FkV0U0dDV5QzFkZFVXVGZUZWU5bl9GVFI5eEQ3QkxFcDlNMlgxM0taNjNZWUJ4X051cmpFdmZXSnhZWWJqREVlU2NkMkRvci03WUtfY0pNVWliZ1E2OdIBXEFVX3lxTE56dlBJNmxsVUNiU0JSVHZFUzVEckdMNHhYUEdmUGdJclJqcHBMeWp1NGpn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44V3FkV0U0dDV5QzFkZFVXVGZUZWU5bl9GVFI5eEQ3QkxFcDlNMlgxM0taNjNZWUJ4X051cmpFdmZXSnhZWWJqREVlU2NkMkRvci03WUtfY0pNVWliZ1E2OdIBXEFVX3lxTE56dlBJNmxsVUNiU0JSVHZFUzVEckdMNHhYUEdmUGdJclJqcHBMeWp1NGpnQlpyLVEyb3RLVHlaQS04MHhoQW0zRlg2T1F6Z3oxaGtyOWRsX2FNZlBk?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "23/06/2026 07:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US-Iran War Oil Price Impact 2026: Energy Markets Face Historic Crisis - Intellectia AI",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1JZURZWENWUEtYZF9BNlNpNjZHQngxT2VySnJVb1pUMmNvNDRFeHNaVGVsX3ROTFBoeUZYRDVFbnk3QlN1dlowS2VMS1NaQjBsLV9PNGJjZWZBTUx5ejZnVURyV3J0ZG1Gcy1FQXFn?oc=5\" target=\"_blank\">US-Iran War Oil Price Impact ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JZURZWENWUEtYZF9BNlNpNjZHQngxT2VySnJVb1pUMmNvNDRFeHNaVGVsX3ROTFBoeUZYRDVFbnk3QlN1dlowS2VMS1NaQjBsLV9PNGJjZWZBTUx5ejZnVURyV3J0ZG1Gcy1FQXFn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "23/06/2026 07:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Will a US-Iran deal transform the Iranian economy? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnhJT0dTNVZMTkdLWE8zVzUzSVd5UExIRUw2Qm5LMFhiOFFYZ1pDd0pnUjFSM3R4NFNZY0RWZWsyaDc3NFNsVG9YSFpfSFJodjBIRFZaSGQ4aDV0YWdkVUVNdTVoaERLMWt1aURYOTJ3RU43SXg2dV9BazhFUFRxakhtLWluQmlVVkRBMkU1Yjcwa19h...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnhJT0dTNVZMTkdLWE8zVzUzSVd5UExIRUw2Qm5LMFhiOFFYZ1pDd0pnUjFSM3R4NFNZY0RWZWsyaDc3NFNsVG9YSFpfSFJodjBIRFZaSGQ4aDV0YWdkVUVNdTVoaERLMWt1aURYOTJ3RU43SXg2dV9BazhFUFRxakhtLWluQmlVVkRBMkU1Yjcwa19hTmUwZlZrWGt4WXJmLUg2X0pGS0tGNVEzYVHSAbMBQVVfeXFMUFNiWGVUWVpzMHdETGtldXNIcURZWllQQjYzVGZIYnp5VVhYYlF0RzA0VW1peHpkVW9weFVqZkliZ291Ny16S1dfc3ZLRWFsSW1GWEZWX3IzQTBLaXBrMVAxTmlLUzhJYlZpVkVNM0lBeWJrUko0SjhSamxvU1JpRF9rdW80M29TNVRBc0JfSEV0ZnlHNTFqQjdTbDV0YU80cUdDeVlPSHJZaS1rZnFUU2pfU28?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "22/06/2026 17:19"
+        "data_noticia": "23/06/2026 05:16"
       }
     }
   ]
