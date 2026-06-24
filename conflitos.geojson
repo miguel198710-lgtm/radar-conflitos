@@ -125,6 +125,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
+        "descricao": "Presidential candidate Ivan Cepeda accepted the victory of his opponent Abelardo de la Espriella.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "24/06/2026 18:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+        "descricao": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "24/06/2026 18:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -237,57 +271,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
         "categoria": "Economia (Al Jazeera)",
         "data_noticia": "24/06/2026 12:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Japan weighs deploying forces to demine the Strait of Hormuz",
-        "descricao": "Japan is considering sending its navy to help clear mines in the Strait of Hormuz following the US-Iran ceasefire.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "24/06/2026 12:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Senate approves Iran war powers resolution: What that means for Trump",
-        "descricao": "Four Republicans cross party lines to vote in favour of the measure.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "24/06/2026 11:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea commissions warship as Kim eyes nuclear navy",
-        "descricao": "Kim Jong Un vows to equip North Korea&#039;s navy with nuclear weapons, signaling a strategic shift in military capabilities.",
-        "url_fonte": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "24/06/2026 11:24"
       }
     },
     {
@@ -448,6 +431,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Tehran labels framework deal 'US defeat' as Trump threatens to halt talks",
+        "descricao": "Iranian key negotiator hailed the US–Iran framework deal as a “declaration of US defeat,” while Trump warned that talks would end immediately if reports that Tehran is seeking to impose tolls on ships transiting the Strait of Hormuz prove to be true.",
+        "url_fonte": "http://www.euronews.com/2026/06/24/tehran-labels-framework-deal-us-defeat-as-trump-threatens-to-halt-talks",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "24/06/2026 15:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kazakhstan signs €10bn in deals with Europe as Tokayev wraps Brussels visit",
+        "descricao": "During President Kassym-Jomart Tokayev's visit to Brussels, strategic documents were signed with the EU, and 30 commercial deals were concluded with EU companies, with the EU being the Central Asian country's largest trading and investment partner.",
+        "url_fonte": "http://www.euronews.com/2026/06/24/kazakhstan-signs-10bn-in-deals-with-europe-as-tokayev-wraps-brussels-visit",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "24/06/2026 11:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "IAEA chief says inspections of Iran's nuclear sites 'going to happen'",
+        "descricao": "IAEA's Grossi pushed back against Tehran's claim that no agreement has been reached to allow inspectors to inspect bombed enrichment sites, citing the signed US-Iran framework deal.",
+        "url_fonte": "http://www.euronews.com/2026/06/24/iaea-chief-says-nuclear-inspections-of-irans-enrichment-sites-going-to-happen-despite-tehr",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "24/06/2026 09:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Giant Messi statue honors Argentina's World Cup hero",
+        "descricao": "A giant mural near Buenos Aires and a towering statue in Patagonia highlight Lionel Messi's enduring status as a symbol of unity and pride for Argentines during the World Cup.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/23/giant-messi-statue-honors-argentinas-world-cup-hero",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "23/06/2026 21:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Belgian royals roll out red carpet for Japan's emperor",
+        "descricao": "Japanese Emperor Naruhito and Empress Masako received a ceremonial welcome at the Royal Palace of Brussels as they began a state visit to Belgium.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/23/belgian-royals-roll-out-red-carpet-for-japans-emperor",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "23/06/2026 21:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UN launches Hormuz evacuation for 11,000 stranded seafarers",
+        "descricao": "The operation follows a peace agreement between the United States and Iran that ended months of conflict and allowed commercial shipping to resume through one of the world's most important maritime routes.",
+        "url_fonte": "http://www.euronews.com/2026/06/23/un-launches-hormuz-evacuation-for-11000-stranded-seafarers",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "23/06/2026 18:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France Heatwave: Air conditioning comes at a price not all can afford",
+        "descricao": "\nAir conditioning for all?Ayodelé Ikuesan advocates for strengthening public services and investing in long-term climate solutions, warning the most vulnerable members of society won't be able to afford AC to combat record-breaking heatwaves.More on ...",
+        "url_fonte": "https://www.france24.com/en/video/20260624-france-heatwave-air-conditioning-comes-at-a-price-not-all-can-afford",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "24/06/2026 18:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kyiv using AI-powered Hornet drones to strike deep into Russian territory",
+        "descricao": "\nUkraine has stepped up strikes on Russian infrastructure and resources with the aim of choking off its war machine, and as part of that, it's been using a new drone powered by artificial intelligence that seems to be giving it the upper hand over fo...",
+        "url_fonte": "https://www.france24.com/en/kyiv-using-ai-powered-hornet-drones-to-strike-deep-into-russian-territory",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "24/06/2026 18:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France 'best prepared' in Europe for heatwaves, while UK views heat as 'occasional inconvenience'",
+        "descricao": "\nNadia Massih is pleased to welcome Ian Williams, Professor of Applied Environmental Science in the Faculty of Engineering and Physical Sciences at the University of Southampton, UK. He argues that Europe's current heatwave should not be understood a...",
+        "url_fonte": "https://www.france24.com/en/video/20260624-france-best-prepared-in-europe-for-heatwaves-while-uk-views-heat-as-occasional-inconvenience-1",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "24/06/2026 18:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -560,74 +696,6 @@
         "url_fonte": "https://www.france24.com/en/tv-shows/entre-nous/20260624-how-us-independence-is-being-celebrated-across-the-pond",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "24/06/2026 14:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Amnesty International: Libyan authorities 'are more and more violent towards migrants'",
-        "descricao": "\nNGOs are accusing the European Union of being \"complicit in horrific violations and abuses in Libya\". Amnesty International in particular says the EU is effectively cooperating with what it calls a xenophobic and racist country. The accusation comes...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/perspective/20260624-amnesty-international-libyan-authorities-are-more-and-more-violent-towards-migrants",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "24/06/2026 13:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Forty drown in France as people seek relief from Europe's heatwave",
-        "descricao": "\nForty people ​have drowned in France over recent days as they sought to cool down to escape record heat, the prime minister said on Tuesday, as a heatwave swept across much of Europe.\n",
-        "url_fonte": "https://www.france24.com/en/video/20260624-forty-drown-in-france-as-people-seek-relief-from-europe-s-heatwave",
-        "categoria": "Política (France 24)",
-        "data_noticia": "24/06/2026 13:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France eyes bill against sexual violence after schoolgirl's murder",
-        "descricao": "\nThe French Prime Minister Sebastien Lecornu announced on Tuesday that a \"comprehensive\" bill against gender-based and sexual violence will be examined by MPs in the autumn. It follows the death of 11 year-old Lyhanna shook the country and led to acc...",
-        "url_fonte": "https://www.france24.com/en/video/20260624-france-eyes-bill-against-sexual-violence-after-schoolgirl-s-murder",
-        "categoria": "Política (France 24)",
-        "data_noticia": "24/06/2026 13:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Does Senate rebuke show Trump's grip on GOP is slipping?",
-        "descricao": "\nThe ​US Senate backed legislation on Tuesday directing President Donald Trump to halt US military action against Iran, the latest rebuke of the Republican president from an increasingly restive Congress.While likely to remain largely symbolic, the v...",
-        "url_fonte": "https://www.france24.com/en/video/20260624-does-senate-rebuke-show-trump-s-grip-on-gop-is-slipping",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "24/06/2026 13:11"
       }
     },
     {
@@ -771,23 +839,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trains resume after radio issue resolved, Deutsche Bahn says",
-        "descricao": "Train services across Germany have resumed following a technical meltdown on Tuesday night. But regional and suburban rail operators warned that continued delays were possible into Wednesday morning.",
-        "url_fonte": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "23/06/2026 21:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.1451,
           51.9194
         ]
@@ -815,6 +866,23 @@
         "url_fonte": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "23/06/2026 16:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "European leaders pledge stronger role in NATO before Trump-Rutte talks",
+        "descricao": "The E5 group also called for Ukraine aid to rank high on the agenda at the upcoming  alliance summit in Ankara.",
+        "url_fonte": "https://www.politico.eu/article/european-leaders-e5-stronger-role-nato-donald-trump-mark-rutte-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "24/06/2026 18:10"
       }
     },
     {
@@ -912,11 +980,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The 4 GOP senators who broke ranks and voted to block Trump from resuming Iran war - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWNPaGtTMmJWS3NkelZQNGZlLUItVTEwZFFobW1rQzRqelZYUFBzOHFrOUFPX0w0bE1NS3JZRGpXSzkwLW9hcGZ5ek8tOWRpX3VZdGN6UndPOFhhMkFYRGw2aG9XNHVxODZnM1dUQnNWRGFoaDBraVlqVF9iVzF6UjZYWEU1eUdLNFg4YTRqaUN6ZVNm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWNPaGtTMmJWS3NkelZQNGZlLUItVTEwZFFobW1rQzRqelZYUFBzOHFrOUFPX0w0bE1NS3JZRGpXSzkwLW9hcGZ5ek8tOWRpX3VZdGN6UndPOFhhMkFYRGw2aG9XNHVxODZnM1dUQnNWRGFoaDBraVlqVF9iVzF6UjZYWEU1eUdLNFg4YTRqaUN6ZVNmU25XVW80enQ3ekt3RUxEbzlXUm1scE82LWVFWVhQQi1HR1JUQzdBODZmY0QwREU?oc=5",
+        "titulo_evento": "Senate votes to block Trump from resuming Iran war - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpI...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpITVVaQklR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 17:44"
+        "data_noticia": "24/06/2026 18:24"
       }
     },
     {
@@ -958,16 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Global oil prices fall to lowest level since before the Iran War - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVVCcFgzVUF3MjVKcGlfa3lzM1BoTGhuYmNnMHEyclJPS3dWeU5CMExwcklHVDlLendiS1E2NFBOZmdfcTZ0UUVVOHh4b3Jaa01JZmNoNUlOTXlzZjRyd2JtRllpWnlsZU5CTHQyVFNQWWlBbWFiZ25ZTHd1TWNpaDhHVDNDUS1pcWY1akhGaTRsRm9y...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVVCcFgzVUF3MjVKcGlfa3lzM1BoTGhuYmNnMHEyclJPS3dWeU5CMExwcklHVDlLendiS1E2NFBOZmdfcTZ0UUVVOHh4b3Jaa01JZmNoNUlOTXlzZjRyd2JtRllpWnlsZU5CTHQyVFNQWWlBbWFiZ25ZTHd1TWNpaDhHVDNDUS1pcWY1akhGaTRsRm9yV0Ew0gGcAUFVX3lxTE9hVWdqTURMTDdOWFZCRV9zREhYVGFkbmNuNzRaUGlLb3A3RTBlQTFNcTdqZ0xyRTRRRHp5NVRDUXVGZmptZzNXcm5PWHByRmYyMFdRZmlRYVFxV01vRVpMRDlqWkZrQ1NsVEpYQ0tIeGVVaHhVSFFFRlBpTExPbktQdXQ1SjcyZm5qQTVHa2NSaVJrV0VpbF9tOXVaNA?oc=5",
+        "titulo_evento": "What U.S. Special Operations Veterans Are Learning From Ukraine's War - Forbes",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09GQlJqMmYtU2ZLeVVkZUNPcElDUDgxaWEtTUhRd0dLOUJlTF9vLXMyQ0tBUXhzeWNaSHBDM0NYTDc4Z2c2ZnlRak1IV2tURjRPSDJXN0YtVkJZa0lLQy1sSmJDU2tQdEpCYmhzcGFDNjFJeDAwSW9xOXlHM3B5REZYUHVJLTIxLTItVlY0dHRTZW93...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09GQlJqMmYtU2ZLeVVkZUNPcElDUDgxaWEtTUhRd0dLOUJlTF9vLXMyQ0tBUXhzeWNaSHBDM0NYTDc4Z2c2ZnlRak1IV2tURjRPSDJXN0YtVkJZa0lLQy1sSmJDU2tQdEpCYmhzcGFDNjFJeDAwSW9xOXlHM3B5REZYUHVJLTIxLTItVlY0dHRTZW93SXVsRTFLMnhJUkYwSGk3Tl9ZMWx3Z1BjQ1ZpYkViMUp3NE5ST1lLZVFhTlc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 16:34"
+        "data_noticia": "24/06/2026 13:00"
       }
     },
     {
@@ -992,50 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What U.S. Special Operations Veterans Are Learning From Ukraine's War - Forbes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09GQlJqMmYtU2ZLeVVkZUNPcElDUDgxaWEtTUhRd0dLOUJlTF9vLXMyQ0tBUXhzeWNaSHBDM0NYTDc4Z2c2ZnlRak1IV2tURjRPSDJXN0YtVkJZa0lLQy1sSmJDU2tQdEpCYmhzcGFDNjFJeDAwSW9xOXlHM3B5REZYUHVJLTIxLTItVlY0dHRTZW93...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ09GQlJqMmYtU2ZLeVVkZUNPcElDUDgxaWEtTUhRd0dLOUJlTF9vLXMyQ0tBUXhzeWNaSHBDM0NYTDc4Z2c2ZnlRak1IV2tURjRPSDJXN0YtVkJZa0lLQy1sSmJDU2tQdEpCYmhzcGFDNjFJeDAwSW9xOXlHM3B5REZYUHVJLTIxLTItVlY0dHRTZW93SXVsRTFLMnhJUkYwSGk3Tl9ZMWx3Z1BjQ1ZpYkViMUp3NE5ST1lLZVFhTlc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 13:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5674,
-          41.8719
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Italy rebukes NATO's Rutte over remarks on US use of bases in Iran war - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORDAtcFJlNU1BcXI3bU5hODkwa0p5UDJBaWZiRjhSbHRIZTB0SzhnSUhJWnZiQW0tVGxVUnNQa3NwVXBpdXFSUjFpSFR0bjhmMnNScERBVHRoRVhYdDUzUDNKTTIyQk5RenlNNU1XQ3QxcGRPcmRWYnRxZXI0ellwV0dscmtBVmk1ZU45UUVhYjIzV0tR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORDAtcFJlNU1BcXI3bU5hODkwa0p5UDJBaWZiRjhSbHRIZTB0SzhnSUhJWnZiQW0tVGxVUnNQa3NwVXBpdXFSUjFpSFR0bjhmMnNScERBVHRoRVhYdDUzUDNKTTIyQk5RenlNNU1XQ3QxcGRPcmRWYnRxZXI0ellwV0dscmtBVmk1ZU45UUVhYjIzV0tRZ0pZMU1ZOFBwWlBjTWxrMWFCLUlFRHZCMnM1WTI5SXFqZkVSRy1XWXFpdVc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 13:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Watch live: House Dems speak in wake of seismic NY primaries; Iran war powers vote - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkc3cVl5UVIwSGl4VE0ycUhOZ2lxVUdCWFNLTW1XcmlJQnMzZ2pGSXRJRnpHYllpbXlSY184cWxLLUdUdFRJYnVJazkzN1ljaVZpQ0ZEZTlYTWd0aDNrdjFBY1lLeXd5Wm1LdTJFYlBEakozeGdfNEVJckFPVFUzYVR6bTRTUWJqZFRhMURsbElid0Fv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkc3cVl5UVIwSGl4VE0ycUhOZ2lxVUdCWFNLTW1XcmlJQnMzZ2pGSXRJRnpHYllpbXlSY184cWxLLUdUdFRJYnVJazkzN1ljaVZpQ0ZEZTlYTWd0aDNrdjFBY1lLeXd5Wm1LdTJFYlBEakozeGdfNEVJckFPVFUzYVR6bTRTUWJqZFRhMURsbElid0FvUWtMZXloMVJ3VXkzRWUtVUVpSU41QUVp0gGyAUFVX3lxTE5tSFFPSXNpM25CVlBsaVRJeThiTjlTbHlLcjR5RlN6U3BiMjBBUGRCbUNwOXVSczBTWW1VbFRZVGE1dXI5MV80cUxqd25DZktLeVoxSzYyT2FoZFg1U212V0s3dllYRVBlb0VvRnhjWHZ4RVhocWFUdHRhWlBrV2JNNTcxNGtfM2NBMmo5aU1ESWpDRkh0QlN2OWtMUGxFYXJXd3RYVm5NRzFlTnlVcUtWWVE?oc=5",
+        "titulo_evento": "Senate votes to end Iran war, joining House - The Week",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ramdRZW0ybVIxVzhCdkhLQTZIYktQMEI0WlF4d1Z1SEpzNWsxWm1Xb05BanRFdWNLeWxqRXVHZDVvdHRGLVF5blF2WHd2NWZUdDFRMGJ6VG1OT01hcTBaYXNmbXhDSFJHbTVhQTRZYnJhSHJjS1E?oc=5\" target=\"_blank\">Senate votes to en...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ramdRZW0ybVIxVzhCdkhLQTZIYktQMEI0WlF4d1Z1SEpzNWsxWm1Xb05BanRFdWNLeWxqRXVHZDVvdHRGLVF5blF2WHd2NWZUdDFRMGJ6VG1OT01hcTBaYXNmbXhDSFJHbTVhQTRZYnJhSHJjS1E?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 15:04"
+        "data_noticia": "24/06/2026 15:01"
       }
     },
     {
@@ -1048,11 +1082,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Senate votes to block Trump from resuming Iran war - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpITVVaQklR?oc=5",
+        "titulo_evento": "The 4 GOP senators who broke ranks and voted to block Trump from resuming Iran war - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWNPaGtTMmJWS3NkelZQNGZlLUItVTEwZFFobW1rQzRqelZYUFBzOHFrOUFPX0w0bE1NS3JZRGpXSzkwLW9hcGZ5ek8tOWRpX3VZdGN6UndPOFhhMkFYRGw2aG9XNHVxODZnM1dUQnNWRGFoaDBraVlqVF9iVzF6UjZYWEU1eUdLNFg4YTRqaUN6ZVNm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWNPaGtTMmJWS3NkelZQNGZlLUItVTEwZFFobW1rQzRqelZYUFBzOHFrOUFPX0w0bE1NS3JZRGpXSzkwLW9hcGZ5ek8tOWRpX3VZdGN6UndPOFhhMkFYRGw2aG9XNHVxODZnM1dUQnNWRGFoaDBraVlqVF9iVzF6UjZYWEU1eUdLNFg4YTRqaUN6ZVNmU25XVW80enQ3ekt3RUxEbzlXUm1scE82LWVFWVhQQi1HR1JUQzdBODZmY0QwREU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 17:06"
+        "data_noticia": "24/06/2026 18:21"
       }
     },
     {
@@ -1077,16 +1111,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1834,
-          21.5218
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "What hundreds of military videos reveal about Cuba’s military capabilities - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZ2hYV1F6RjZnNVcxS0IxNm80N25DSnVKVGpfOXVqNllfbGNsT1NmNVB5RXhwaXVGTlV5dXpVRzNDQzB2dVFGQU01M1BrZVBIUjNtTkV2c3JvOTZoMmNwSnZiYy1BaHNXOG1hT0N6aWtqMW9iY1lGdW95NmV0TlE?oc=5\" target=\"_blank\">What h...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZ2hYV1F6RjZnNVcxS0IxNm80N25DSnVKVGpfOXVqNllfbGNsT1NmNVB5RXhwaXVGTlV5dXpVRzNDQzB2dVFGQU01M1BrZVBIUjNtTkV2c3JvOTZoMmNwSnZiYy1BaHNXOG1hT0N6aWtqMW9iY1lGdW95NmV0TlE?oc=5",
+        "titulo_evento": "Global oil prices fall to lowest level since before the Iran War - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVVCcFgzVUF3MjVKcGlfa3lzM1BoTGhuYmNnMHEyclJPS3dWeU5CMExwcklHVDlLendiS1E2NFBOZmdfcTZ0UUVVOHh4b3Jaa01JZmNoNUlOTXlzZjRyd2JtRllpWnlsZU5CTHQyVFNQWWlBbWFiZ25ZTHd1TWNpaDhHVDNDUS1pcWY1akhGaTRsRm9y...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVVCcFgzVUF3MjVKcGlfa3lzM1BoTGhuYmNnMHEyclJPS3dWeU5CMExwcklHVDlLendiS1E2NFBOZmdfcTZ0UUVVOHh4b3Jaa01JZmNoNUlOTXlzZjRyd2JtRllpWnlsZU5CTHQyVFNQWWlBbWFiZ25ZTHd1TWNpaDhHVDNDUS1pcWY1akhGaTRsRm9yV0Ew0gGcAUFVX3lxTE9hVWdqTURMTDdOWFZCRV9zREhYVGFkbmNuNzRaUGlLb3A3RTBlQTFNcTdqZ0xyRTRRRHp5NVRDUXVGZmptZzNXcm5PWHByRmYyMFdRZmlRYVFxV01vRVpMRDlqWkZrQ1NsVEpYQ0tIeGVVaHhVSFFFRlBpTExPbktQdXQ1SjcyZm5qQTVHa2NSaVJrV0VpbF9tOXVaNA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 10:30"
+        "data_noticia": "24/06/2026 16:34"
       }
     },
     {
@@ -1111,40 +1145,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEtwa1VNb056SktGd1hVNnhfcGhTeVJ0MTNMMURrQTdKRm9hVGZON0xYam5uWl9tVjRKTkxsTDQxY3lPSEw0NExjUmpndUdXcE1HaXpESjhtWW1mS2p3TFB2T1BfWjd4SGc1RzR1aXJVZktRNWJsd0kzclFJU1NjazVvZmxEbDA?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEtwa1VNb056SktGd1hVNnhfcGhTeVJ0MTNMMURrQTdKRm9hVGZON0xYam5uWl9tVjRKTkxsTDQxY3lPSEw0NExjUmpndUdXcE1HaXpESjhtWW1mS2p3TFB2T1BfWjd4SGc1RzR1aXJVZktRNWJsd0kzclFJU1NjazVvZmxEbDA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 10:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Alibaba Sues Pentagon Over China Military Label - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBHLWlHSlptUFRMSzQ3RFNUcVlQdVdITXlucU9zYl9aaG5WZkFKNFlHS3hWV251Rl9xLUl5amJBamt0Um1qVlh0Vm1ReDVrNVlidWQ2RWxmSkFvc1dnNmw0TnpKY0VhaXRpRjBXN2wzMTMtOVVEZG1aX21SQXR0UQ?oc=5\" target=\"_blank\">Alibaba...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHLWlHSlptUFRMSzQ3RFNUcVlQdVdITXlucU9zYl9aaG5WZkFKNFlHS3hWV251Rl9xLUl5amJBamt0Um1qVlh0Vm1ReDVrNVlidWQ2RWxmSkFvc1dnNmw0TnpKY0VhaXRpRjBXN2wzMTMtOVVEZG1aX21SQXR0UQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 12:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -1162,16 +1162,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Germany Scraps Plan for Biggest Military Ship Since World War II - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURCaTZxdy1QbFR6dUhpVGMwZC00eVVFOENFeHBwSnEzb2swY1JUQmZkYl84RTRPNDJ5UXdfaHg3ZXdHLVRZZF9QNEJDODBBaWU0TERUdzlMaXI2N1VhX2tndV9IOUNvTFF5LUpibVplSWYxYXJYTTFGUmhRblNiNkVfdzNZOUpWZTJsYjBrdkt6eVpI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURCaTZxdy1QbFR6dUhpVGMwZC00eVVFOENFeHBwSnEzb2swY1JUQmZkYl84RTRPNDJ5UXdfaHg3ZXdHLVRZZF9QNEJDODBBaWU0TERUdzlMaXI2N1VhX2tndV9IOUNvTFF5LUpibVplSWYxYXJYTTFGUmhRblNiNkVfdzNZOUpWZTJsYjBrdkt6eVpIekVocGJtdFl5Rm5FZUdsQmVKU0p3bTJMUUctaFVrTFgzY3NQWU03WHVB?oc=5",
+        "titulo_evento": "Opinion | 7 Lessons and Consequences of the Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBReThxSFJLMWxJSHRvREpXMl9IWDlzVGlEbnBVSUMxQm13MkpvUnRrckhhWVR0VmtfekZVTDFRRTJuZTEwb0JwLXZOLVVQZ3NMRnBhY3Bmdnh6bkpnWWhVWm83LVZvb1FFUzZRd2tlcGJWUQ?oc=5\" target=\"_blank\">Opinion | 7 Lessons and...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTFBReThxSFJLMWxJSHRvREpXMl9IWDlzVGlEbnBVSUMxQm13MkpvUnRrckhhWVR0VmtfekZVTDFRRTJuZTEwb0JwLXZOLVVQZ3NMRnBhY3Bmdnh6bkpnWWhVWm83LVZvb1FFUzZRd2tlcGJWUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 15:31"
+        "data_noticia": "24/06/2026 19:00"
       }
     },
     {
@@ -1196,16 +1196,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -95.7129,
+          37.0902
         ]
       },
       "properties": {
-        "titulo_evento": "Senate Votes to Curb President’s Power Regarding Iran War - The Well News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUUzQVhNejJuekwzY3JabndhaWdzdm04VktBdjU5QXdBTVlBaXJNbnRqeUZFWkszVlAtQVRpc3pUTjdmUlZxOE9uZVBXaTRrdDlWbmtCVFJBejc1X2JXa05Vc1FFMDY0Wko2SmFvMUZ4VGVQRE5vVktTVFEzUW14WnFYQ0swQk9IQVhUNEpfRWhWNVZ1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUUzQVhNejJuekwzY3JabndhaWdzdm04VktBdjU5QXdBTVlBaXJNbnRqeUZFWkszVlAtQVRpc3pUTjdmUlZxOE9uZVBXaTRrdDlWbmtCVFJBejc1X2JXa05Vc1FFMDY0Wko2SmFvMUZ4VGVQRE5vVktTVFEzUW14WnFYQ0swQk9IQVhUNEpfRWhWNVZ1TFozQmhvRQ?oc=5",
+        "titulo_evento": "In symbolic rebuke of Trump, Senate signals support for ending Iran war - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWN5WlRJUWtwdEpSUXZ5cXk1Z0xxR19fQVQ0VFFIbER4SzBQeS1TOTRHMnZWckswQWxfMGtUdEJLS2E4WFZEME92UE9KTXdXZ3JPcl9oSVYzSzZsdldtNXFmWHYtWWtKVWcwQ3IwazQ2R3huNFJlYzFZdTVZWUZOanlZckx1TzlfU0tLM0d6ZWxSY1J2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWN5WlRJUWtwdEpSUXZ5cXk1Z0xxR19fQVQ0VFFIbER4SzBQeS1TOTRHMnZWckswQWxfMGtUdEJLS2E4WFZEME92UE9KTXdXZ3JPcl9oSVYzSzZsdldtNXFmWHYtWWtKVWcwQ3IwazQ2R3huNFJlYzFZdTVZWUZOanlZckx1TzlfU0tLM0d6ZWxSY1J2VzM3TDdEZG1BdUE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 12:53"
+        "data_noticia": "24/06/2026 16:00"
       }
     },
     {
@@ -1213,16 +1213,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -79.1834,
+          21.5218
         ]
       },
       "properties": {
-        "titulo_evento": "Trump knocks GOP senators who voted for Iran war powers resolution, making his ‘job more difficult’ - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0lpcW4wOU1oOEMxMWpkOFlaS3dkOVVKVmdLamoxd2lpOTBoRVZscC1pWjVrUzMtbnQ3OXMyX0J6bGVrLTd6NGwyOXF5b19JTVBFaTBMcHowV2VBZEZVc0lsUkJsT2dxUUloWHpRWVRnQXBKZWMzNHRZOFM2ZVpzOGFFM2ZXb2w2TkJsTWNXazI3Zi1x...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc0lpcW4wOU1oOEMxMWpkOFlaS3dkOVVKVmdLamoxd2lpOTBoRVZscC1pWjVrUzMtbnQ3OXMyX0J6bGVrLTd6NGwyOXF5b19JTVBFaTBMcHowV2VBZEZVc0lsUkJsT2dxUUloWHpRWVRnQXBKZWMzNHRZOFM2ZVpzOGFFM2ZXb2w2TkJsTWNXazI3Zi1xaXFENzgtVXVQNlVzNm1VZ1IwbmjSAa4BQVVfeXFMT3g3ejdhbkRETUNrUjVocHd5eEJMZWRSdUVtYUcyU0pETDM4eERYVHFiTlQ2c0RBSkpRVE5jX1NoSEdKWjIxaEFvYnFPVW9Mc1FWbnVQdUxWVm5JelR1UGI3NmcwYTc5dk1qcUp4Ry1kYzFxaDRDQ09hUGtpNHBSLVVxLTNQR3hIei1VdTNHQ2hQOFBnSDJWM1BOOFVXbU5JdTlSQ3h3dmQ3MUdWTVd3?oc=5",
+        "titulo_evento": "What hundreds of military videos reveal about Cuba’s military capabilities - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZ2hYV1F6RjZnNVcxS0IxNm80N25DSnVKVGpfOXVqNllfbGNsT1NmNVB5RXhwaXVGTlV5dXpVRzNDQzB2dVFGQU01M1BrZVBIUjNtTkV2c3JvOTZoMmNwSnZiYy1BaHNXOG1hT0N6aWtqMW9iY1lGdW95NmV0TlE?oc=5\" target=\"_blank\">What h...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZ2hYV1F6RjZnNVcxS0IxNm80N25DSnVKVGpfOXVqNllfbGNsT1NmNVB5RXhwaXVGTlV5dXpVRzNDQzB2dVFGQU01M1BrZVBIUjNtTkV2c3JvOTZoMmNwSnZiYy1BaHNXOG1hT0N6aWtqMW9iY1lGdW95NmV0TlE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/06/2026 12:36"
+        "data_noticia": "24/06/2026 10:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany Scraps Plan for Biggest Military Ship Since World War II - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURCaTZxdy1QbFR6dUhpVGMwZC00eVVFOENFeHBwSnEzb2swY1JUQmZkYl84RTRPNDJ5UXdfaHg3ZXdHLVRZZF9QNEJDODBBaWU0TERUdzlMaXI2N1VhX2tndV9IOUNvTFF5LUpibVplSWYxYXJYTTFGUmhRblNiNkVfdzNZOUpWZTJsYjBrdkt6eVpI...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWURCaTZxdy1QbFR6dUhpVGMwZC00eVVFOENFeHBwSnEzb2swY1JUQmZkYl84RTRPNDJ5UXdfaHg3ZXdHLVRZZF9QNEJDODBBaWU0TERUdzlMaXI2N1VhX2tndV9IOUNvTFF5LUpibVplSWYxYXJYTTFGUmhRblNiNkVfdzNZOUpWZTJsYjBrdkt6eVpIekVocGJtdFl5Rm5FZUdsQmVKU0p3bTJMUUctaFVrTFgzY3NQWU03WHVB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/06/2026 15:31"
       }
     },
     {
@@ -1240,23 +1257,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWRuaUEwVm40WmpnaWE3QU5NaWVMQjFKcjBBT3lMNWh6bkdSLUxFMklTaFdoanFzYV9qS216b0czYnp4UDN5dkxORTNMcEV5Q2RDZG82WVpRMzNBYXhrbm81LXhKbThpVzBfT1JGajJIZ3R3dEFOdVVTOGV1SWVxU3RuU0p5YzFSUDJJMmlQVUJTLWItTWxuenJjYlo?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "24/06/2026 16:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran to inject more foreign currency into economy after deal with US - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEsxbDFWeDZtaFFISTlZXy1oZnVDVkxoaFFqNjVPZzdCU3BHOW1OTC13bW02M3JUbTBzMVU2ZjhNRngwWjFUX0dON1g1VmdJWGhaZE9xcl9oZm85MXdqVHJSdHZyOTc1QVdlT0prV2NibDlYWk9jYk84M1A0eEdOREE2ZHFqOG5KQ1dpdTMwZ1Q1dFdq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEsxbDFWeDZtaFFISTlZXy1oZnVDVkxoaFFqNjVPZzdCU3BHOW1OTC13bW02M3JUbTBzMVU2ZjhNRngwWjFUX0dON1g1VmdJWGhaZE9xcl9oZm85MXdqVHJSdHZyOTc1QVdlT0prV2NibDlYWk9jYk84M1A0eEdOREE2ZHFqOG5KQ1dpdTMwZ1Q1dFdqQl9Mb2NxaDQyS3VmREhiOVNuQUtsYjNnTV9aMjFnU0J5OEtxdmY0?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "24/06/2026 11:37"
       }
     }
   ]
