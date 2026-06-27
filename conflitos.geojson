@@ -74,6 +74,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+        "descricao": "Israel&#039;s Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/06/2026 10:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+        "descricao": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "27/06/2026 10:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -227,40 +261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Paris Diamond League to go ahead with safety measures amid heatwave",
-        "descricao": "Only competitions involving professional athletes will be held, with all other activities cancelled.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "26/06/2026 23:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
-        "descricao": "The country is still reeling from devastating pair of earthquakes that killed hundreds of people earlier this week.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "26/06/2026 23:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -270,7 +270,7 @@
         "descricao": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "27/06/2026 08:25"
+        "data_noticia": "27/06/2026 10:40"
       }
     },
     {
@@ -431,16 +431,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.5897,
-          6.4238
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
-        "descricao": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "26/06/2026 21:44"
+        "titulo_evento": "UK maritime agency raises Strait of Hormuz threat level after oil tanker reports being struck",
+        "descricao": "It comes after the US military carried out strikes on Iran, which it said were in response to Iranian drone attacks on shipping in the Strait.",
+        "url_fonte": "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/06/2026 13:00"
       }
     },
     {
@@ -448,16 +448,186 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Watch: Lightning strikes seen across UK",
-        "descricao": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "26/06/2026 19:26"
+        "titulo_evento": "Venezuela satellite images reveal scale of disaster",
+        "descricao": "Venezuela was hit by a pair of earthquakes last Thursday, leaving the La Guaira area badly battered. Here is a set of before-and-after images to show the scale of the disaster.",
+        "url_fonte": "http://www.euronews.com/2026/06/27/venezuela-satellite-images-reveal-scale-of-disaster",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/06/2026 11:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Searches continue for Venezuela earthquake survivors",
+        "descricao": "More than 520 emergency responders from across the EU have been mobilised to support search and rescue efforts in Venezuela, the European Commission said.",
+        "url_fonte": "http://www.euronews.com/2026/06/27/searches-continue-for-venezuela-earthquake-survivors",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/06/2026 10:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
+        "descricao": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
+        "url_fonte": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/06/2026 07:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
+        "descricao": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
+        "url_fonte": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "26/06/2026 21:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
+        "descricao": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
+        "url_fonte": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "26/06/2026 20:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Marco Rubio announces Israel-Lebanon framework deal, hailing it as first step toward peace",
+        "descricao": "The officials did not disclose details of the deal, which was signed by Yechiel Leiter and Nada Hamadeh, Israeli and Lebanese ambassadors to the United States.",
+        "url_fonte": "http://www.euronews.com/2026/06/26/marco-rubio-announces-israel-lebanon-framework-deal-hailing-it-as-first-step-toward-peace",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "26/06/2026 20:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel declassifies Entebbe raid documents on eve of 50th anniversary",
+        "descricao": "Secret documents reveal Israeli officials privately weighed negotiations before ordering the daring 1976 Uganda hostage rescue operation.",
+        "url_fonte": "http://www.euronews.com/2026/06/26/israel-declassifies-entebbe-raid-documents-on-eve-of-50th-anniversary",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "26/06/2026 19:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Help, we are trapped': Venezuela earthquake victims turn to Euronews' TikTok to beg for rescue\"",
+        "descricao": "Lack of resources and patchy telecoms have driven many Venezuelans to despair. In this context, outlets’ social networks, including Euronews, have become key platforms for appeals for help.",
+        "url_fonte": "http://www.euronews.com/2026/06/26/help-we-are-trapped-venezuela-earthquake-victims-turn-to-euronews-tiktok-to-beg-for-rescue",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "26/06/2026 18:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine: Zaporizhzhia ablaze after Russian missile and drone attack leaves at least nine hurt",
+        "descricao": "Russian missile and drone strikes set an office building ablaze in central Zaporizhzhia on 26 June, injuring at least nine people and triggering a major emergency response.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/26/ukraine-zaporizhzhia-ablaze-after-russian-missile-and-drone-attack-leaves-at-least-nine-hu",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "26/06/2026 16:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Venezuela earthquakes: bodies recovered as rescue efforts continue in La Guaira",
+        "descricao": "Rescue teams worked through the ruins of collapsed buildings in La Guaira on 25 June after twin earthquakes devastated northern Venezuela, killing at least 188 people and injuring around 1,500.",
+        "url_fonte": "http://www.euronews.com/video/2026/06/26/venezuela-earthquakes-bodies-recovered-as-rescue-efforts-continue-in-la-guaira",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "26/06/2026 10:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Venezuela: Tens of thousands still missing after twin earthquakes",
+        "descricao": "\nForeign search and rescue teams have arrived in Venezuela to assist with the desperate and slow-moving search for survivors after the country's most powerful earthquake in more than a century. The death toll nearly doubled on Thursday to 920, but au...",
+        "url_fonte": "https://www.france24.com/en/venezuela-tens-of-thousands-still-missing-after-twin-earthquakes",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/06/2026 10:33"
       }
     },
     {
@@ -594,6 +764,40 @@
         "url_fonte": "https://www.france24.com/en/sport/20260627-world-cup-2026-saudi-spain-cape-verde-uruguay",
         "categoria": "Política (France 24)",
         "data_noticia": "27/06/2026 02:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany news: Heat soars as political reforms split opinion",
+        "descricao": "As Europe's heatwave rages, Germany continues to swelter with new records expected Saturday. Elsewhere, politicians bicker over reforms and industry blames train operator DB for billions in losses. DW has the latest.",
+        "url_fonte": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "27/06/2026 11:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why Germany's Deutsche Bahn will face delays for many years",
+        "descricao": "Delayed, unreliable and forced into long detours due to construction: Germany no longer sets the pace when it comes to rail travel — and this is unlikely to change anytime soon. The company is mired in a deep crisis.",
+        "url_fonte": "https://www.dw.com/en/why-germany-s-deutsche-bahn-will-face-delays-for-many-years/a-77721079?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "27/06/2026 10:11"
       }
     },
     {
