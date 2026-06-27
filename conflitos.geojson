@@ -74,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Three killed as Ukraine and Russia trade attacks overnight",
+        "descricao": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "27/06/2026 11:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -220,40 +237,6 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/27/rescue-efforts-turn-to-recovery-as-aftershocks-shake-venezuela?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "27/06/2026 03:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump justifies strikes on Iran amid ceasefire",
-        "descricao": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/06/2026 00:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war live: IRGC ‘targets’ US military sites in region after attacks",
-        "descricao": "The IRGC says it has &#039;targeted&#039; US military in the region after Trump administration launched attacks on the country.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/06/2026 00:00"
       }
     },
     {
@@ -431,186 +414,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "UK maritime agency raises Strait of Hormuz threat level after oil tanker reports being struck",
-        "descricao": "It comes after the US military carried out strikes on Iran, which it said were in response to Iranian drone attacks on shipping in the Strait.",
-        "url_fonte": "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "27/06/2026 13:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela satellite images reveal scale of disaster",
-        "descricao": "Venezuela was hit by a pair of earthquakes last Thursday, leaving the La Guaira area badly battered. Here is a set of before-and-after images to show the scale of the disaster.",
-        "url_fonte": "http://www.euronews.com/2026/06/27/venezuela-satellite-images-reveal-scale-of-disaster",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "27/06/2026 11:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Searches continue for Venezuela earthquake survivors",
-        "descricao": "More than 520 emergency responders from across the EU have been mobilised to support search and rescue efforts in Venezuela, the European Commission said.",
-        "url_fonte": "http://www.euronews.com/2026/06/27/searches-continue-for-venezuela-earthquake-survivors",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "27/06/2026 10:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
-        "descricao": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
-        "url_fonte": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "27/06/2026 07:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
-        "descricao": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
-        "url_fonte": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/06/2026 21:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
-        "descricao": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
-        "url_fonte": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "26/06/2026 20:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Marco Rubio announces Israel-Lebanon framework deal, hailing it as first step toward peace",
-        "descricao": "The officials did not disclose details of the deal, which was signed by Yechiel Leiter and Nada Hamadeh, Israeli and Lebanese ambassadors to the United States.",
-        "url_fonte": "http://www.euronews.com/2026/06/26/marco-rubio-announces-israel-lebanon-framework-deal-hailing-it-as-first-step-toward-peace",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/06/2026 20:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel declassifies Entebbe raid documents on eve of 50th anniversary",
-        "descricao": "Secret documents reveal Israeli officials privately weighed negotiations before ordering the daring 1976 Uganda hostage rescue operation.",
-        "url_fonte": "http://www.euronews.com/2026/06/26/israel-declassifies-entebbe-raid-documents-on-eve-of-50th-anniversary",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "26/06/2026 19:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Help, we are trapped': Venezuela earthquake victims turn to Euronews' TikTok to beg for rescue\"",
-        "descricao": "Lack of resources and patchy telecoms have driven many Venezuelans to despair. In this context, outlets’ social networks, including Euronews, have become key platforms for appeals for help.",
-        "url_fonte": "http://www.euronews.com/2026/06/26/help-we-are-trapped-venezuela-earthquake-victims-turn-to-euronews-tiktok-to-beg-for-rescue",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "26/06/2026 18:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine: Zaporizhzhia ablaze after Russian missile and drone attack leaves at least nine hurt",
-        "descricao": "Russian missile and drone strikes set an office building ablaze in central Zaporizhzhia on 26 June, injuring at least nine people and triggering a major emergency response.",
-        "url_fonte": "http://www.euronews.com/video/2026/06/26/ukraine-zaporizhzhia-ablaze-after-russian-missile-and-drone-attack-leaves-at-least-nine-hu",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "26/06/2026 16:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela earthquakes: bodies recovered as rescue efforts continue in La Guaira",
-        "descricao": "Rescue teams worked through the ruins of collapsed buildings in La Guaira on 25 June after twin earthquakes devastated northern Venezuela, killing at least 188 people and injuring around 1,500.",
-        "url_fonte": "http://www.euronews.com/video/2026/06/26/venezuela-earthquakes-bodies-recovered-as-rescue-efforts-continue-in-la-guaira",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "26/06/2026 10:23"
+        "titulo_evento": "Budapest pride continues despite heat",
+        "descricao": "\nThis Saturday marks Budapest's first official Pride march since longtime LGBTQ rights opponent Viktor Orbán left office as prime minister. Thousands of people are expected to take part despite soaring temperatures. While this year's parade has been ...",
+        "url_fonte": "https://www.france24.com/en/budapest-pride-continues-despite-heat",
+        "categoria": "Política (France 24)",
+        "data_noticia": "27/06/2026 12:30"
       }
     },
     {
@@ -827,9 +640,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: US military hits Iran over cargo vessel attack",
-        "descricao": "US President Donald Trump has accused Iran of carrying out a drone attack on a cargo vessel on Thursday and violating the US-Iran deal. In response, the US military has launched fresh strikes on Iran. DW has more.",
-        "url_fonte": "https://www.dw.com/en/iran-war-us-military-hits-iran-over-cargo-vessel-attack/live-77729995?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "US, Iran trade strikes as truce faces threat",
+        "descricao": "The United States and Iran each launched strikes in the worst escalation since they signed their interim peace deal. Follow DW for more.",
+        "url_fonte": "https://www.dw.com/en/us-iran-trade-strikes-as-truce-faces-threat/live-77729995?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "26/06/2026 20:50"
       }
@@ -844,9 +657,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How the Iran war impacts Abu Dhabi's AI strategy",
-        "descricao": "Abu Dhabi's ambitions to turn the UAE into a global hub for digital infrastructure and AI, dubbed \"UAE AI Strategy 2031,\" face pressure after the war with Iran. But the UAE is also known for its business resilience.",
-        "url_fonte": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "How the Iran war has disrupted Abu Dhabi's AI strategy",
+        "descricao": "Abu Dhabi's ambitions to turn the United Arab Emirates into a global hub for digital infrastructure and artificial Intelligence face pressure after the Iran war. But the country is also known for its business resilience.",
+        "url_fonte": "https://www.dw.com/en/how-the-iran-war-has-disrupted-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "26/06/2026 14:36"
       }
@@ -883,6 +696,23 @@
         "url_fonte": "https://www.dw.com/en/king-charles-won-t-live-in-buckingham-palace-reveals-taxes/a-77715823?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "25/06/2026 23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukrainian missiles strike defense plant deep in Russia, Zelenskyy says",
+        "descricao": "Flamingo missiles struck the \"Titan-Barricade\" manufacturing site in Volgograd, Ukrainian president said.",
+        "url_fonte": "https://www.politico.eu/article/ukraine-missiles-hit-putin-defense-plant-russia-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "27/06/2026 12:45"
       }
     },
     {
@@ -929,6 +759,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Renewed Strikes Threaten Setback to Shipping Recovery in Persian Gulf",
+        "descricao": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.",
+        "url_fonte": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "27/06/2026 11:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Oil Prices Return to Prewar Levels After Four Months",
         "descricao": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.",
         "url_fonte": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
@@ -951,6 +798,380 @@
         "url_fonte": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html",
         "categoria": "Defesa/Conflito (NYT Business)",
         "data_noticia": "26/06/2026 09:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE5FZXRUMFlMa2d1OWJhZW11RFJjeUw3Z1lzbEM4c3NQQXA3MDRYbFI2SW5KU3Bac3A2bDE1dGt5ZkV1UTg5dml2VXNFZHlwSEJLaXZMRVZOamwtOFNMSmtHYkNjazdidVpUZDRoWjB2ak5McGNndHdoZEdhMklSTmlvQWtRaDV6RDRBWTI4RzVwek5C...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE5FZXRUMFlMa2d1OWJhZW11RFJjeUw3Z1lzbEM4c3NQQXA3MDRYbFI2SW5KU3Bac3A2bDE1dGt5ZkV1UTg5dml2VXNFZHlwSEJLaXZMRVZOamwtOFNMSmtHYkNjazdidVpUZDRoWjB2ak5McGNndHdoZEdhMklSTmlvQWtRaDV6RDRBWTI4RzVwek5CQUtDZXZzQzZEVklSaXdKekNQU25mZlpndEhYbDNGMVdhblhmc1E5bXFELXJBMTdidHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 12:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump sows confusion on Iran war, bouncing from threats to negotiation and back again - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlBNzA2NDRIZ3VpWWdRM29XRjBUNG9UM1dILUFyd1VvWVBSdmd6bU9OVGtMVmt0MEN2NWxuc1VjaUJ4TUFmQVczQWNkUnIzS0laOHE1VS14anRUQlNjZUNDMlhsZFd2U3owbS1SM0tuVWw2akxzbG9jTVFqcmcwSVZJSm44UU9SN01NZDNISmF2a0Y5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlBNzA2NDRIZ3VpWWdRM29XRjBUNG9UM1dILUFyd1VvWVBSdmd6bU9OVGtMVmt0MEN2NWxuc1VjaUJ4TUFmQVczQWNkUnIzS0laOHE1VS14anRUQlNjZUNDMlhsZFd2U3owbS1SM0tuVWw2akxzbG9jTVFqcmcwSVZJSm44UU9SN01NZDNISmF2a0Y5M2ZFWUtkMWtQeFRleVVna3RRZVlXVjg1MWxNWVpSZUgyWGRkbnFIYQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US Forces Strike Iran In Response to Tehran's Attack On Hormuz Shipping - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 07:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US strikes Iran after attack on cargo ship - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tQjhhNDhhLTVYMWZLTFhVa3Y5and2bVJrZ3YwcHlkUjlMWWNpSVlMVTV3RXdFanE5b2JSWEVLN2Z5RDFKNzhTTFczRjNHYUkxUnNTdm1OcTROZw?oc=5\" target=\"_blank\">US strikes Iran after attack on cargo ship</a>&nbsp;&nb...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tQjhhNDhhLTVYMWZLTFhVa3Y5and2bVJrZ3YwcHlkUjlMWWNpSVlMVTV3RXdFanE5b2JSWEVLN2Z5RDFKNzhTTFczRjNHYUkxUnNTdm1OcTROZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 10:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine claims missile strike on military-industrial facility in Volgograd, Russia - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmVQOWdqb1lwTnc1cDBTdDZ5RkN3eExMN2RGbF9TN3ZrSmI4aUdDdlp4YUJyR3VkZ3c0ZFliM0dSRWFxdl85a1p1SGJvVTBvb0tqY1VHRGpEMzUwZDVqQ0FqT1Uzd2dTMk9BMHV1ekxwZ29IUFpETUpVNGdsb29qOEJMYjRRTzBVaTc1TmVrQnhrbTV5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmVQOWdqb1lwTnc1cDBTdDZ5RkN3eExMN2RGbF9TN3ZrSmI4aUdDdlp4YUJyR3VkZ3c0ZFliM0dSRWFxdl85a1p1SGJvVTBvb0tqY1VHRGpEMzUwZDVqQ0FqT1Uzd2dTMk9BMHV1ekxwZ29IUFpETUpVNGdsb29qOEJMYjRRTzBVaTc1TmVrQnhrbTV5UmY5TnlWaXdIMUIzWUdOZUI4dXVnY0xMSnYtUFY5d2YwdUJmTWIyQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 12:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US strikes Iran in response to a drone attack on a ship - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0cnBFR1A3aDFQVkNFY1I5ZUc0SWY?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 06:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine Hits Volgograd Military Plant With Flamingo Missiles - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDBMWXV4c19XSFlCNFZubHd6bVNIcmMtUUh5ck51ZDB4M3FFUld3ZGJXS09jSnN6MXp5bjlaZG51N2FJb1FFQUZLeGVOUVROTHI1OVprT2o5aEdCVUZYRjFXNzQzazJGWjJrMG1kbFVtQVZFNnFGMkgzZ2tzT3hKUFE0THBoUVkyQmhtS2ROdm0xLVdq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDBMWXV4c19XSFlCNFZubHd6bVNIcmMtUUh5ck51ZDB4M3FFUld3ZGJXS09jSnN6MXp5bjlaZG51N2FJb1FFQUZLeGVOUVROTHI1OVprT2o5aEdCVUZYRjFXNzQzazJGWjJrMG1kbFVtQVZFNnFGMkgzZ2tzT3hKUFE0THBoUVkyQmhtS2ROdm0xLVdqV3NJbTdkZGxzTWJTSnZURmsteFFWTWNTMkR1cGxob1BzczNDVzJ4dXRlZTc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 08:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Theater of Congress’s Iran War Votes - National Review",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTlCMTlUQ2pmS0pMNGFhbV9SNDJfRU5ua29RcGhvTk1LTFJMRmx5Y3U0a1JZcFZwaVRzSi1kVVFpQWhob0VETUpOQjl3RDZaZWhHSzF2YVNfeXVlVU9PTVZpeWV3LWZIMFVMWE9aci1ZMFRqaDlPVHRjRGNJaERwcVhKVlV1UdIBiwFBVV95cUxNSlYt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQTlCMTlUQ2pmS0pMNGFhbV9SNDJfRU5ua29RcGhvTk1LTFJMRmx5Y3U0a1JZcFZwaVRzSi1kVVFpQWhob0VETUpOQjl3RDZaZWhHSzF2YVNfeXVlVU9PTVZpeWV3LWZIMFVMWE9aci1ZMFRqaDlPVHRjRGNJaERwcVhKVlV1UdIBiwFBVV95cUxNSlYtbDlVYkQ4Y0E1U0IyaXBTNkRzalU0RlMzMGd4bDdUUjVUT1Raa1ZiTlpDMTVjNDRyMy00WEppSjBXcXd0NDhSelRkSFBKQ01xcjVOVDJfdVJSaVVmcTRjSjlsMkU0blFNcFhCeUtjQU1qZVE5MUY4NHNBRE9Db21PUGxYaUxrbE5B?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 10:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran launches retaliatory strikes on Bahrain after latest US attacks - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWFlc2NVMzM5OFBXcnpNQmxTakcyQ3RtLTZMZVNuQzBIdXRFMmNYenRHT2w5ZjdTMjdMQWlPTmgzY2xWN0M3TF9NSTFwckdWelNJOWw4Nk1JOHJHeXA5Yk5aaWliV2VEcW84ZW5UakRuUXVEZnUzbTNhblBURGd3OFVGemsyR2lJMzk1UHU4WkJ5SWVh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWFlc2NVMzM5OFBXcnpNQmxTakcyQ3RtLTZMZVNuQzBIdXRFMmNYenRHT2w5ZjdTMjdMQWlPTmgzY2xWN0M3TF9NSTFwckdWelNJOWw4Nk1JOHJHeXA5Yk5aaWliV2VEcW84ZW5UakRuUXVEZnUzbTNhblBURGd3OFVGemsyR2lJMzk1UHU4WkJ5SWVhUUVJWNIBngFBVV95cUxPTUNyb1JNZlQ3MGlneGpFNngtOU1rWGFPbHNlTGhWbVlNTTFXano2T21XODJHRlhldGVLRlZ5UENRY0l6dTJOdGNEQ3VNMDdRZlIyQ1NCSDlxV185NGJEZGFOZWVZb2xEeXRhXzQ0VWNlV1lvUEFmM1ZFZDNaQTFORXBaMllxUC1ydGdEUC1jZnBuQ3BSY3YwYmduaTZDUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 12:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Russian-occupied Crimea declares ‘emergency’ as Zelenskyy’s forces step up attacks - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWjNhMjFtaVFRbGxweWszZDlNMGljUTAwTi1HN0FVdjl4QjI5bFRGM0J0TEUwQW1MX2R2QnBTNFhUZXhXYVhYdFM5dTNMbXVDQzdaNERCbVFCYU53aE9pWi1zR0xONVExYmNmZzZMU1ozNmhaeEpzNWI5QjNRZEMtdzBWZi1GdXpRUmxGeW90eE1ON2Iz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWjNhMjFtaVFRbGxweWszZDlNMGljUTAwTi1HN0FVdjl4QjI5bFRGM0J0TEUwQW1MX2R2QnBTNFhUZXhXYVhYdFM5dTNMbXVDQzdaNERCbVFCYU53aE9pWi1zR0xONVExYmNmZzZMU1ozNmhaeEpzNWI5QjNRZEMtdzBWZi1GdXpRUmxGeW90eE1ON2IzcFlRSHNLa01xYjU5VUY3ZFMyNmt5SVU4UmFZQzVrTUdxdzJ2SURscUQ1SWwxZWpRZFZEZUl0WGxlYjctQzYzMUdNTXVUdFIxbDdN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 03:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war day 120: Tehran condemns US strikes, says it violates MoU - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEJwUXpYZkFYVnduaDY5ejFiaGxOS3c4TWxmVndRQXRmOGhXZTlNOEdWOEt6V2xZblJLQnVXdjBZc3h2YlptNmdJV0hPODF1UzVzbkRHVzFHRDJnak96MUk5ZEVhd1FfZkF1LXAwcDNBa2ZuMG45V01jTlpITXBrOTBiOC1yTDVhLVlya25zTFJ2SjB5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEJwUXpYZkFYVnduaDY5ejFiaGxOS3c4TWxmVndRQXRmOGhXZTlNOEdWOEt6V2xZblJLQnVXdjBZc3h2YlptNmdJV0hPODF1UzVzbkRHVzFHRDJnak96MUk5ZEVhd1FfZkF1LXAwcDNBa2ZuMG45V01jTlpITXBrOTBiOC1yTDVhLVlya25zTFJ2SjB5WGl0bnVrNnFab0NTTXNOTEZpdmFUcUxEY3Z30gG0AUFVX3lxTE02bDJNR1ZYRU1mUDMzdVY1VkJ4N0ZYX2VlREZNTWZpZVNxMzVVczIwNURZdkN5X25TSTNha2VWN0ptSzBjc09aQUltZHlVWEJzUE1hck5rcXJPWHJ1T09XX0NkZVBJQnMyVElVQ3h1ZnVyeV92dzM1ZnpraUtieWQ4UzRfUVpWU2EwMFZJYXZ4UFhMMmJrN3V6M0RqclZQeHZDeEg1aTN2ZVBYdGNUaE5NQWZkLQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 10:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Three killed as Ukraine and Russia trade attacks overnight - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2JVa2VpQzE1c2hDemVfZzkyeHkzLVlVSmlDT2k3V25zdlNHQ1hfWTJTSzNYQ3ZBNW1PWEtJckt4RmZtaUdMSEJrYWRvOWpPQ0ZpRVJPcFMzWDZlU3dGVW1ZdGdzeUFWQU9vM3Z6a2VraVZWWkpoVVlLUDRvcWdqb0FTbXhQNHY3c0NiT2NQU0U0WWtG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV2JVa2VpQzE1c2hDemVfZzkyeHkzLVlVSmlDT2k3V25zdlNHQ1hfWTJTSzNYQ3ZBNW1PWEtJckt4RmZtaUdMSEJrYWRvOWpPQ0ZpRVJPcFMzWDZlU3dGVW1ZdGdzeUFWQU9vM3Z6a2VraVZWWkpoVVlLUDRvcWdqb0FTbXhQNHY3c0NiT2NQU0U0WWtGOEl0MHdsRlNuRHlT0gGmAUFVX3lxTE45ZFBQZFI4RU9SbWM3RlZwMloxZHc4YkxRVDdNZ3A2LURGVTF0RFJkZ1ZQSEEzaUJvVFYyVm5UVWtNV2d3NW1kWjJkc2hDSnBGTDc5cVM2a0tydnJ3MUQzb1UzY3lyOF9HcXZFcTBybjJJZUk1MzVyVy1TdENZOFJIUi1kRkU0Y3NrTHlsRjFac2hTb3VFNng1Rk9KcmNvRURRcEdHMHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 12:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. military releases video of new Iran strike - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb25aMm5zLUxkUVFUdWhYSWU2UlBQWWxqUXNKSlN3LVp1UmlTUTctZ01BNzFfTkNvM3NwZzJNbzVGNnRoYTFhczhHR0JSZjZNUjdiZTZtekdkcDhqN0NHRlBIeF9yNy1QbzVFcFk2YXltbjFWdFZnQ0NUdDdHRmEzLWR0Y1A2ekJjOWMtX0ZRZ2YwUi1x...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb25aMm5zLUxkUVFUdWhYSWU2UlBQWWxqUXNKSlN3LVp1UmlTUTctZ01BNzFfTkNvM3NwZzJNbzVGNnRoYTFhczhHR0JSZjZNUjdiZTZtekdkcDhqN0NHRlBIeF9yNy1QbzVFcFk2YXltbjFWdFZnQ0NUdDdHRmEzLWR0Y1A2ekJjOWMtX0ZRZ2YwUi1xVUczag?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 04:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US, Iran trade strikes: What to know, will it unravel the MoU? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkNZUnZVQm9OZzRUUFVOVG9URHVIQUhQekhXYnMxTEhiU0tkU1FjMlkydFJtQ2NSb0dtX3ZwZ25neEF3VmQ3RG5CWHJQdUN2V2VwejJVS2N4cEZjMlI5bVN5aDUwcWs0OTZfMzJFY0VzeEx1b0FJR0JVNTdFSEMyMnQ0MDl5ckVOVE1Iank4R05iWjlh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkNZUnZVQm9OZzRUUFVOVG9URHVIQUhQekhXYnMxTEhiU0tkU1FjMlkydFJtQ2NSb0dtX3ZwZ25neEF3VmQ3RG5CWHJQdUN2V2VwejJVS2N4cEZjMlI5bVN5aDUwcWs0OTZfMzJFY0VzeEx1b0FJR0JVNTdFSEMyMnQ0MDl5ckVOVE1Iank4R05iWjlheWV5NVIzYlFzVjdI0gGmAUFVX3lxTE4tNHNGbWxpSGdPSzR6Yk5RenlIenFSdU5MTVBxRnBHaG1aRXg2ZmhMTkNNd2VYSkJlVHQ3VWw1Q0p1Z2R3V1NnUjhrYnc1OWxxUV9xUTJGbHpGTml3SkRTUmlFUTJoQTh1bGtNc1FfbE9OeF9EUmdUZkxCaEh1aXBwaHk4X0pKVUYzdFZCTkVYSnB3ODNXMlN2Q2VPT0x1N2VWUW5VREE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 10:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Fresh ship struck in Hormuz as Iran, US trade attacks in worst escalation since peace deal - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEty...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamVFR0VfZVlNU01BWjNWakdNczVUSHAzNWFlM0J3MGV1b0ZmbldmdnhQUHVpLTNabjVZSG5tSDJ0RDlQREk0emJnT3ZGbjFEZjVpTEt2UDgxOXpMdWV3dTIzX1ZtQVNpeUdDRVplMkUxd0FVNzNPTEFwZ3BVSUo4SG1BcHFDeEdYS2tIM3RUaWpZNEtyeWlub0h5c29pNjJmdDZ6Y2tha2hKWkNGa3Y0Y2JNYnk4ZWJuUlk4?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 11:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Iran War Supplemental Is Rife with Wasteful Spending and Should Be Rejected - The Debt Dispatch",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0yQ01hWEV6ZVQ2QUhFTkptQkJnUEVWTFpaeTk1V1hhT0p0U0NqX1N3dGpHbEVPeGNyWkdmOWZ5elNzaGdCWFFXc09URVJWWXRzMXcxRHRtTC1WaV9xOV9lTGYta0tNakxzdkI3bE8tQ3hsMEZ2aVhKbg?oc=5\" target=\"_blank\">The Iran War Su...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yQ01hWEV6ZVQ2QUhFTkptQkJnUEVWTFpaeTk1V1hhT0p0U0NqX1N3dGpHbEVPeGNyWkdmOWZ5elNzaGdCWFFXc09URVJWWXRzMXcxRHRtTC1WaV9xOV9lTGYta0tNakxzdkI3bE8tQ3hsMEZ2aVhKbg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 10:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war news: Iranian drones attack Bahrain and a ship is struck in the Strait of Hormuz after US Iran strikes - 6abc Philadelphia",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGN0NFY2xKb3R3Y21pZFFvZVZkMHd0WlUtMTE1b1lDR3pndkZkRUkxZWU1QXA4MXB1c2h1QmlJaVJMT0RRQ1VlbEYwYXZiNEFBMnNxMXZjWlJBUVhxMm9fdGNMZTVkTkdiSloyeExlSEktR0dVM0hJdmtYc1ZSVExmbHB3dU81RjN4cXBONC1YaEg3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGN0NFY2xKb3R3Y21pZFFvZVZkMHd0WlUtMTE1b1lDR3pndkZkRUkxZWU1QXA4MXB1c2h1QmlJaVJMT0RRQ1VlbEYwYXZiNEFBMnNxMXZjWlJBUVhxMm9fdGNMZTVkTkdiSloyeExlSEktR0dVM0hJdmtYc1ZSVExmbHB3dU81RjN4cXBONC1YaEg3ZW1taWd2V25SZEVPa2ZHUTdXS2MtOUFBdHdWdHRwd1c1Z9IBuwFBVV95cUxOVE5fODdrQndTelJORng3YW9LOHEwZ0g0OUw0bXc1empjRlZrcV9rcW04cmdORlJOWTdQWDNGRlJ5VWp3TGtpVkxGZ19mT0ZRUWtCMjZETDFHRV9qYjNTdDVtMy1QRDFqbjFMcHNRN0hVUjhUTTEwcjdGY2puYl9Nblp4cThNby1GSUduZllrWkotMnB0dTluNUFXNExscmZVbjViUmQ3bjkwZkJqMEl1dlJwVGJQQVFLX3Nj?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 12:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Inside a secretive Ukrainian team launching deep drone strikes at Russia - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWZveTNRc0FLZ1NVeUI1a21Pcnl3alU1VzFpaFZ0OXQxMjFsdkJhb2VjOXlxckZsSFphNWJLWm5ROWJBaGE1UmdvR2FjOUZGaGFjNmZiSVd1TEZtY2VZZ09hMHNGSHJSak1SYjJYaUxHNEhoa19VUUlCb0s5LTFyc21Rb0thdw?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWZveTNRc0FLZ1NVeUI1a21Pcnl3alU1VzFpaFZ0OXQxMjFsdkJhb2VjOXlxckZsSFphNWJLWm5ROWJBaGE1UmdvR2FjOUZGaGFjNmZiSVd1TEZtY2VZZ09hMHNGSHJSak1SYjJYaUxHNEhoa19VUUlCb0s5LTFyc21Rb0thdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/06/2026 09:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Wins SCOTUS cases, Iran War & Global Economy, Tiffani Jaseph wins 2026 Teacher of the Year - Arizona PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVM3SlNNRlRhQjhUSWpObWtGWEYwMFNYdzlLLUg5dHgwa3hDdGM3RkpQSHlRemhBU2NESGwzMVhZWTR1QlNnTWwzTENyeElRSTNMeGhQOV9qbXlJWG5VRHNjcnhTV2FDZnFJbnQ3X0t5U2hIX1RxUUpvYUhzR1hiYUdnTEFzSlZfRWdRMkYxVTdzWXFG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVM3SlNNRlRhQjhUSWpObWtGWEYwMFNYdzlLLUg5dHgwa3hDdGM3RkpQSHlRemhBU2NESGwzMVhZWTR1QlNnTWwzTENyeElRSTNMeGhQOV9qbXlJWG5VRHNjcnhTV2FDZnFJbnQ3X0t5U2hIX1RxUUpvYUhzR1hiYUdnTEFzSlZfRWdRMkYxVTdzWXFGdXhxQl8xZURlenZKOVV6X1h5UzFJeW01SDFRRXdITnVrLXpZUGhCYlIxVEhUT2tfMmc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "26/06/2026 19:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil Prices Return to Prewar Levels, Four Months Later - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVFBVG0xbVNkUlBOWnAzbEZvMllFSUlpclhndUxRY1RZUGo0SlMtWDBqWTZlT1FzNDV2SDljWWdPYkJmdi1WUllJWHh1NmxjSGJYVDVNNi14VlBZRms2clVzSXdrYWdiZVJxaE1KeWJSd0lndUdsMkJmUFF6dGo2RE5vWDgxSzRQTjg0Ym8wa2E?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVFBVG0xbVNkUlBOWnAzbEZvMllFSUlpclhndUxRY1RZUGo0SlMtWDBqWTZlT1FzNDV2SDljWWdPYkJmdi1WUllJWHh1NmxjSGJYVDVNNi14VlBZRms2clVzSXdrYWdiZVJxaE1KeWJSd0lndUdsMkJmUFF6dGo2RE5vWDgxSzRQTjg0Ym8wa2E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "26/06/2026 21:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Just how much trouble is Canada's economy in? - Yahoo News Malaysia",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU9YX0hTZDFHN3JUNERFYV9TRnJJMjdBUFh6a2N3Tk1QQWx2Yjlmc2ljN3VWX2tWRVlpb3REMm10WHRhR3NmQk9qaE1wRFg3ZWJsQ05kZUFYeEd5UV9fV09VN0RJOUZ2SVlHVVJEaUVqUFMzS0RGMnBtbFZ5VElqZml6QUdTdVU?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSU9YX0hTZDFHN3JUNERFYV9TRnJJMjdBUFh6a2N3Tk1QQWx2Yjlmc2ljN3VWX2tWRVlpb3REMm10WHRhR3NmQk9qaE1wRFg3ZWJsQ05kZUFYeEd5UV9fV09VN0RJOUZ2SVlHVVJEaUVqUFMzS0RGMnBtbFZ5VElqZml6QUdTdVU?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "26/06/2026 23:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia’s Gulf Pivot: How Oman Is Emerging as a Strategic Partner for Moscow’s Post-Sanctions Economy - EU Reporter",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkMxTkhxZER2aktJXzBVVkJhczYtMDNtSXlwMjFqQmlWSjJxRE1RVUhScl8zNHgtcTR2a0FkSTRVYnhvOGFhTWJ0eFAyQjdoVVk2WGl3dlpPazVxOVAzSFNYb0oxTEwtZnlTZHpJVi1LYkw0WEJmOEJPSWtoS1FsVzc2bEtucVd1UTRRSFl6eWpnbGFa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkMxTkhxZER2aktJXzBVVkJhczYtMDNtSXlwMjFqQmlWSjJxRE1RVUhScl8zNHgtcTR2a0FkSTRVYnhvOGFhTWJ0eFAyQjdoVVk2WGl3dlpPazVxOVAzSFNYb0oxTEwtZnlTZHpJVi1LYkw0WEJmOEJPSWtoS1FsVzc2bEtucVd1UTRRSFl6eWpnbGFaQi1tMzFWaENodmpJVlhfeXZkajBuc181bEY0YTJMLWNzMVcxTXJxdmJWSDhTTWU3U05XOGpaV2dvR3pBQldVT0hYNWo?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/06/2026 10:24"
       }
     }
   ]
