@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia bombards Kyiv in one of war’s biggest strikes, at least 21 people killed",
+        "descricao": "Multiple explosions shook central Kyiv and reverberated across the capital throughout the night as thousands of residents rushed to bomb shelters.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/07/02/russia-bombards-kyiv-in-one-of-wars-biggest-strikes-at-least-21-people-killed/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "02/07/2026 16:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -147,11 +164,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Shifting Fortunes of the Kurds",
-        "descricao": "<p>The Kurds&#8217; fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers&#8217; Party (PKK) to dissolve and engage in talks with the Turkish government,...",
-        "url_fonte": "https://warontherocks.com/the-shifting-fortunes-of-the-kurds/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "30/06/2026 17:45"
+        "titulo_evento": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+        "descricao": "Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "02/07/2026 17:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+        "descricao": "Former Ukrainian soldier accused of &#039;war crime&#039; and leading a team of divers to blow up Nord Stream pipelines.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "02/07/2026 16:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
+        "descricao": "Israel has rejected a UN Commission report that says its army deliberately targets Palestinian children.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "02/07/2026 16:26"
       }
     },
     {
@@ -210,57 +261,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4699,
-          50.5039
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-        "descricao": "Late VAR penalty leads to fury as Senegal blows 2-0 lead, loses 3-2 to Belgium in dramatic World Cup round of 32 exit.\n",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/7/2/controversial-penalty-ends-senegals-fifa-world-cup-run-against-belgium?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "02/07/2026 12:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2245,
-          39.3999
-        ]
-      },
-      "properties": {
-        "titulo_evento": "FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race",
-        "descricao": "Spain, Portugal and Switzerland take centre stage as the knockout drama continues across North America.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/2/fifa-world-cup-portugal-vs-croatia-prediction-schedules-round-of-16-race?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "02/07/2026 10:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
-        "descricao": "Research finds that trade deal requiring UK to buy more medicines from US takes away money from other parts of NHS.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/2/an-extra-229000-deaths-is-that-the-cost-of-us-uk-drugs-deal?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "02/07/2026 10:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -270,7 +270,7 @@
         "descricao": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.\n",
         "url_fonte": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
-        "data_noticia": "02/07/2026 14:11"
+        "data_noticia": "02/07/2026 16:11"
       }
     },
     {
@@ -283,11 +283,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'Most massive' Russian attack on Kyiv kills at least 20",
-        "descricao": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+        "titulo_evento": "'Most massive' Russian attack on Kyiv kills at least 21",
+        "descricao": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "02/07/2026 15:16"
+        "data_noticia": "02/07/2026 16:15"
       }
     },
     {
@@ -363,50 +363,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Any deal with Tehran is 'a pause before the next war,' Reza Pahlavi tells Euronews",
-        "descricao": "In an exclusive interview with Euronews, Reza Pahlavi said the framework agreement would allow the Islamic Republic to regroup and rearm, with the only winner from the deal being the regime in Tehran.",
-        "url_fonte": "http://www.euronews.com/2026/07/02/any-deal-with-tehran-is-a-pause-before-the-next-war-reza-pahlavi-tells-euronews",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "02/07/2026 13:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Smoke rises over Kyiv after Russian overnight strikes",
-        "descricao": "Smoke rises over Kyiv after a large-scale Russian missile and drone attack overnight that killed at least eight people and injured dozens.",
-        "url_fonte": "http://www.euronews.com/video/2026/07/02/smoke-rises-over-kyiv-after-russian-overnight-strikes",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "02/07/2026 11:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Russia's petrol crisis worsens as citizens feel the bite of Moscow's war in Ukraine",
-        "descricao": "A third of Russia's refining capacity has been knocked out by Ukrainian drone attacks, causing petrol shortages across more than half of Russia's regions.",
-        "url_fonte": "http://www.euronews.com/2026/07/02/russias-petrol-crisis-worsens-as-citizens-feel-the-bite-of-moscows-war-in-ukraine",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "02/07/2026 07:00"
+        "titulo_evento": "Unprecedented images show how Russia is using drones from the war in Ukraine in Africa",
+        "descricao": "\nRussian mercenaries from the Africa Corps, which has replaced the well-known Wagner Group in providing support to the Malian army, are deploying new combat drones in Mali. Frequently found on the frontlines in Ukraine, these drones are now entering ...",
+        "url_fonte": "https://www.france24.com/en/africa/20260702-unprecedented-images-russia-using-drones-war-ukraine-africa",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "02/07/2026 16:17"
       }
     },
     {
@@ -414,67 +380,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4699,
-          50.5039
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
-        "titulo_evento": "US, Belgium and England all survive tough tests to reach World Cup Round of 16",
-        "descricao": "England and Belgium narrowly escaped shock Round of 32 eliminations on Wednesday. Harry Kane's late double rescued England in a 2–1 win over DR Congo, while Belgium overturned a 2–0 deficit to edge Senegal 3–2 in extra time.",
-        "url_fonte": "http://www.euronews.com/2026/07/02/us-belgium-and-england-all-survive-tough-tests-to-reach-world-cup-round-of-16",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "02/07/2026 06:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela's death toll at least 2,295 as medical crisis widens",
-        "descricao": "Doctors fear a severe medical crisis in Venezuela following the 24 June earthquakes that killed 2,295 and injured more than 11,000. Thousands of displaced survivors are living in crowded shelters without clean water.",
-        "url_fonte": "http://www.euronews.com/2026/07/02/venezuela-death-toll-rises-to-2295-as-medical-crisis-widens",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "02/07/2026 05:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Nicolás Maduro sued in US court over alleged extrajudicial killings in Venezuela",
-        "descricao": "Maduro is currently in a New York jail awaiting trial on criminal charges of drug trafficking after the US military removed him from office in an extraordinary raid in Venezuela in January.",
-        "url_fonte": "http://www.euronews.com/2026/07/01/nicolas-maduro-sued-in-us-court-over-alleged-extrajudicial-killings-in-venezuela",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "01/07/2026 21:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine hits Russia's Ufa oil refinery for second time in a week, Zelenskyy says",
-        "descricao": "Ukraine’s domestically developed and manufactured drones and missiles have been hammering Russian oil facilities, including refineries, terminals, storage depots and pipeline pumping stations, for months.",
-        "url_fonte": "http://www.euronews.com/2026/07/01/ukraine-hits-russias-ufa-oil-refinery-for-second-time-in-a-week-zelenskyy-says",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "01/07/2026 15:32"
+        "titulo_evento": "Paris des Arts: Special edition in Fez, Morocco",
+        "descricao": "\nThis week, Paris des Arts turns its cameras to Fez, the Moroccan imperial city, for the 29th edition of the Festival of World Sacred Music, which celebrates the dialogue between cultures and spiritualities.\n",
+        "url_fonte": "https://www.france24.com/en/tv-shows/paris-des-arts/20260702-paris-des-arts-special-edition-in-fez-morocco",
+        "categoria": "Política (France 24)",
+        "data_noticia": "02/07/2026 16:04"
       }
     },
     {
@@ -686,16 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "FRANCE 24 meets Macdi, Senegal's star content creator",
-        "descricao": "\nHe’s one of Francophone Africa’s most followed influencers. With his humourous content about everyday life, Macdi has drawn a huge number of followers into his enigmatic universe of wild scenarios. Over the last three months he’s gained over two mil...",
-        "url_fonte": "https://www.france24.com/en/france-24-meets-macdi-senegal-s-star-content-creator",
-        "categoria": "Política (France 24)",
-        "data_noticia": "02/07/2026 11:01"
+        "titulo_evento": "German coalition agrees on sweeping reform package",
+        "descricao": "After its first year in office, Germany's coalition government is seeking to revive a sluggish economy and push through key changes with its broad package of reforms. The plans met with a mixed reaction.",
+        "url_fonte": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "02/07/2026 16:17"
       }
     },
     {
@@ -805,84 +720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
-        "titulo_evento": "Kallas proposes new Russia sanctions after massive strikes in Kyiv",
-        "descricao": " Any new measures will need to be approved unanimously by EU countries.",
-        "url_fonte": "https://www.politico.eu/article/kallas-proposes-new-russia-sanctions-massive-strikes-kyiv/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "02/07/2026 13:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU extends Ukraine-style trade relief to Armenia",
-        "descricao": "The package would open the bloc's market to roughly 80 percent of Armenian exports.",
-        "url_fonte": "https://www.politico.eu/article/eu-extends-ukraine-style-trade-relief-to-armenia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "02/07/2026 10:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany indicts Ukrainian over Nord Stream sabotage, alleges Kyiv-backed plot",
-        "descricao": "Prosecutors say the operation was devised “on behalf of state authorities” to cut off Russian gas revenues.",
-        "url_fonte": "https://www.politico.eu/article/germany-charges-ukrainian-suspect-nord-stream-sabotage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "titulo_evento": "Tous bienvenus aux Rencontres d’Aix (sauf RN et LFI)",
+        "descricao": "Le podcast Playbook Paris se délocalise au parc Jourdan des Rencontres économiques d’Aix-en-Provence, où se bousculent les politiques et la plupart des candidats à la présidentielle — à l’exception notable des responsables du RN et de LFI. Malgré les...",
+        "url_fonte": "https://www.politico.eu/podcast/playbook-paris-podcast/tous-bienvenus-aux-rencontres-daix-sauf-rn-et-lfi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
-        "data_noticia": "02/07/2026 09:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Top EU court upholds Google Android fine in landmark antitrust case",
-        "descricao": "The judgment strengthens Brussels’ hand as it increasingly relies on new digital competition rules to police Big Tech.",
-        "url_fonte": "https://www.politico.eu/article/top-eu-court-upholds-google-android-fine-in-landmark-antitrust-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "02/07/2026 08:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Massive Russia attack on Ukraine kills 13, injures over 80 in Kyiv",
-        "descricao": "Ukrainian authorities said they were only able to shoot down 4 of the 24 ballistic missiles launched by Moscow.",
-        "url_fonte": "https://www.politico.eu/article/russia-latest-massive-attack-kills-13-injures-over-80-in-kyiv/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "02/07/2026 08:30"
+        "data_noticia": "02/07/2026 16:02"
       }
     },
     {
@@ -912,11 +759,96 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Analysis: Iran War Fallout Shifting America’s Middle East Anchor From Riyadh to Jerusalem - Combat Antisemitism Movement",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkExNGRXdl8xMXc3SnJGMU94M0gxVTMtbWJRWGkwWk5XM3U3WDdTQ3J5dHg4ZDYyQnYwSXpKUDJhSDBXaklRaTNMRDY1c0gxNXlnX2d3N2xCNkh6Z3JMbVVTcmYwVE03WWVUNHVlQnRicHhsQnBaY0FGTEpRcGZ0SEJYX3pEQVNudU0zXzRZbmoyMHRF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkExNGRXdl8xMXc3SnJGMU94M0gxVTMtbWJRWGkwWk5XM3U3WDdTQ3J5dHg4ZDYyQnYwSXpKUDJhSDBXaklRaTNMRDY1c0gxNXlnX2d3N2xCNkh6Z3JMbVVTcmYwVE03WWVUNHVlQnRicHhsQnBaY0FGTEpRcGZ0SEJYX3pEQVNudU0zXzRZbmoyMHRFY2VXM1RqVTBoTnZVSnNpdU5qUm51aE1STENqaXY4aVc4bHNERHZOS1FDT0lEQjlFV19XQkJicWZrTldsbnc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/07/2026 16:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Senate votes to halt Iran war, then flips - The Hill",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXM0bW1La2V6Vm9jME55cmVrU0tuNFVFMHF1cTB6UmN6S1lEcExlTi1vaFIyXzJjYlNYS3VNY0x3dy1uSFNDNUprZmhvb1pzaEFacGl4RHhibVBpX01FOXZSc3pjNF9ma0pLQV9rRGVVeThjLUdsWjllcjVTeVJueEtwNkVOR3RtLTJoajFSeFVfdllt...",
         "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXM0bW1La2V6Vm9jME55cmVrU0tuNFVFMHF1cTB6UmN6S1lEcExlTi1vaFIyXzJjYlNYS3VNY0x3dy1uSFNDNUprZmhvb1pzaEFacGl4RHhibVBpX01FOXZSc3pjNF9ma0pLQV9rRGVVeThjLUdsWjllcjVTeVJueEtwNkVOR3RtLTJoajFSeFVfdlltRGfSAZsBQVVfeXFMTjF5WVZ2ZjZQbG13OHVvZHdIY084RXd0OTJwcHIzTjlUZ2d5OWFCREtIaU9UUXBaNGV2Z1hfSmFyRzJySTdBLUF1Z3NDc1ZBVG5JQUVwc1M5VWZ2Z2VDYjItSEs4YjNzSXRLT0J2NlBjalQwandrMHFuYlltcUh0MUdyOUs4UElFcFVtX1pJTGZOSGhQN1ppV21ZUk0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "02/07/2026 13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Most massive' Russian attack on Kyiv kills at least 21 - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dUpsLTQ3NVJJTExOeFkwREpNTmlEWjdKZGNJcXpJYjEwenhORmUwcWcxQnRWam81bzNNN0pidzl5bnF5dGpvZnNYTUU0LXAtT3MxY2gwcW9hUQ?oc=5\" target=\"_blank\">'Most massive' Russian attack on Kyiv kills at least 21...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dUpsLTQ3NVJJTExOeFkwREpNTmlEWjdKZGNJcXpJYjEwenhORmUwcWcxQnRWam81bzNNN0pidzl5bnF5dGpvZnNYTUU0LXAtT3MxY2gwcW9hUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/07/2026 16:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin Retaliates With New Strikes After Ukraine Takes the War to Russia - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFZuR1RfYXY2VlBVZTZmVGVyZjloUno4d2phY18zTFZKYWRkQTd6RzJOVHREeVZlYVZIcGl2ckgwbThMWTV4VkFDdzZtcFpMbWtPVkZrMlBMY2lVWXZ2eExvTV9DMzF1c0prdmFLMU1qU2YxLVNSd0xaM1U2YWdGUEFQcFRUekZYb2U3N2VsYw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFZuR1RfYXY2VlBVZTZmVGVyZjloUno4d2phY18zTFZKYWRkQTd6RzJOVHREeVZlYVZIcGl2ckgwbThMWTV4VkFDdzZtcFpMbWtPVkZrMlBMY2lVWXZ2eExvTV9DMzF1c0prdmFLMU1qU2YxLVNSd0xaM1U2YWdGUEFQcFRUekZYb2U3N2VsYw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/07/2026 14:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia lands heavy strikes on Ukraine’s capital, killing at least 21 - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/07/2026 15:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror' - Time Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NoeTZNeHY4cUVWRm4yUFpWV2RwT1dHenZDdXkxMjZfbklSOE9CcjlTdWc3MHZtWDNESDd5OGo2UzctUWRfeE5DOWVMWHV2c3UyZndwVU4tcWpndmloQ0hlZDlZaE94TFdsWWZ1akxaYmZPeGJTMzByQ1hXaVJNTVlNR0d2cjNqcWVGRWxpTkxIUQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NoeTZNeHY4cUVWRm4yUFpWV2RwT1dHenZDdXkxMjZfbklSOE9CcjlTdWc3MHZtWDNESDd5OGo2UzctUWRfeE5DOWVMWHV2c3UyZndwVU4tcWpndmloQ0hlZDlZaE94TFdsWWZ1akxaYmZPeGJTMzByQ1hXaVJNTVlNR0d2cjNqcWVGRWxpTkxIUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/07/2026 14:44"
       }
     },
     {
@@ -946,62 +878,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia Signals Ukraine May Have Used Its First Ballistic Missile - Bloomberg",
+        "titulo_evento": "Russia Signals Ukraine May Have Used Its First Ballistic Missile - Bloomberg.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFNLMW4yOFFrNXNZZF9TUVBXbTQ5TnoxallUNUdnZXBaNWRncHRzMzZ5NnZGOGtvVE9mSjZqY18ySkF2dE9YeW5wYk4zaU1FWnV6R0RZclJjbW01TTNVNlJnSXNYTlFpT190b2NlUl9WS0FodmJkeldMc1F2Mm5WdHhZTnNJOS0tU2Q1VnhPeThvd1Vn...",
         "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFNLMW4yOFFrNXNZZF9TUVBXbTQ5TnoxallUNUdnZXBaNWRncHRzMzZ5NnZGOGtvVE9mSjZqY18ySkF2dE9YeW5wYk4zaU1FWnV6R0RZclJjbW01TTNVNlJnSXNYTlFpT190b2NlUl9WS0FodmJkeldMc1F2Mm5WdHhZTnNJOS0tU2Q1VnhPeThvd1VnVlZGdF8tN2pMcFdGVHZ6SHpCUWlkQlNLdnJzc09CRjRvdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "02/07/2026 10:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Most massive' Russian attack on Kyiv kills at least 20 - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dUpsLTQ3NVJJTExOeFkwREpNTmlEWjdKZGNJcXpJYjEwenhORmUwcWcxQnRWam81bzNNN0pidzl5bnF5dGpvZnNYTUU0LXAtT3MxY2gwcW9hUQ?oc=5\" target=\"_blank\">'Most massive' Russian attack on Kyiv kills at least 20...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96dUpsLTQ3NVJJTExOeFkwREpNTmlEWjdKZGNJcXpJYjEwenhORmUwcWcxQnRWam81bzNNN0pidzl5bnF5dGpvZnNYTUU0LXAtT3MxY2gwcW9hUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 13:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia Launches Drone and Missile Attack on Kyiv in Deadly 'Night of Horror' - Time Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NoeTZNeHY4cUVWRm4yUFpWV2RwT1dHenZDdXkxMjZfbklSOE9CcjlTdWc3MHZtWDNESDd5OGo2UzctUWRfeE5DOWVMWHV2c3UyZndwVU4tcWpndmloQ0hlZDlZaE94TFdsWWZ1akxaYmZPeGJTMzByQ1hXaVJNTVlNR0d2cjNqcWVGRWxpTkxIUQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0NoeTZNeHY4cUVWRm4yUFpWV2RwT1dHenZDdXkxMjZfbklSOE9CcjlTdWc3MHZtWDNESDd5OGo2UzctUWRfeE5DOWVMWHV2c3UyZndwVU4tcWpndmloQ0hlZDlZaE94TFdsWWZ1akxaYmZPeGJTMzByQ1hXaVJNTVlNR0d2cjNqcWVGRWxpTkxIUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 14:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 13:35"
       }
     },
     {
@@ -1031,11 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Bloodier than Stalingrad: Number of casualties in Russia’s war on Ukraine reaches 2 million - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNIdmRRN3BKbFBKMzlkRTlGdkFQbXRFcFRBV3hEVXFjRFYxbE5TU0tGZ0VoYmhreElTZ05jQ3JESVZhclNCRjB5aWxxNUtRUVYyWUh5RmlnTnZKUlZXZUxhX2xpNllZZXFZd0hCdGxPR1lmTWdCUWZiNklSN1BGREdmRTZlc0VWcGc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNIdmRRN3BKbFBKMzlkRTlGdkFQbXRFcFRBV3hEVXFjRFYxbE5TU0tGZ0VoYmhreElTZ05jQ3JESVZhclNCRjB5aWxxNUtRUVYyWUh5RmlnTnZKUlZXZUxhX2xpNllZZXFZd0hCdGxPR1lmTWdCUWZiNklSN1BGREdmRTZlc0VWcGc?oc=5",
+        "titulo_evento": "Russia’s staggering losses push Ukraine war casualties past 2 million - Stars and Stripes",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEw1Z3kwWmVlV3ljX0dkSkZpcVQzdlZaVmJFUUF3OWI0VFdBQWlpNVQtc2luNm5iT1E3ZVlLT1Vab3A1WGZDRnlIaGM3cjFybExFZUpSenNTWDhpSTA5RkU0bVpqSm9FMUFBdzN5ZUJxVFc4T1JjZkhMVENXWDl1SFNHNkJDUGZ1RUoxRXlqdmxpTkk1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEw1Z3kwWmVlV3ljX0dkSkZpcVQzdlZaVmJFUUF3OWI0VFdBQWlpNVQtc2luNm5iT1E3ZVlLT1Vab3A1WGZDRnlIaGM3cjFybExFZUpSenNTWDhpSTA5RkU0bVpqSm9FMUFBdzN5ZUJxVFc4T1JjZkhMVENXWDl1SFNHNkJDUGZ1RUoxRXlqdmxpTkk1MjVpa1hzcGZuNFlEMGhMRg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 10:16"
+        "data_noticia": "02/07/2026 09:04"
       }
     },
     {
@@ -1065,11 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia’s staggering losses push Ukraine war casualties past 2 million - Stars and Stripes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEw1Z3kwWmVlV3ljX0dkSkZpcVQzdlZaVmJFUUF3OWI0VFdBQWlpNVQtc2luNm5iT1E3ZVlLT1Vab3A1WGZDRnlIaGM3cjFybExFZUpSenNTWDhpSTA5RkU0bVpqSm9FMUFBdzN5ZUJxVFc4T1JjZkhMVENXWDl1SFNHNkJDUGZ1RUoxRXlqdmxpTkk1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEw1Z3kwWmVlV3ljX0dkSkZpcVQzdlZaVmJFUUF3OWI0VFdBQWlpNVQtc2luNm5iT1E3ZVlLT1Vab3A1WGZDRnlIaGM3cjFybExFZUpSenNTWDhpSTA5RkU0bVpqSm9FMUFBdzN5ZUJxVFc4T1JjZkhMVENXWDl1SFNHNkJDUGZ1RUoxRXlqdmxpTkk1MjVpa1hzcGZuNFlEMGhMRg?oc=5",
+        "titulo_evento": "Bloodier than Stalingrad: Number of casualties in Russia’s war on Ukraine reaches 2 million - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNIdmRRN3BKbFBKMzlkRTlGdkFQbXRFcFRBV3hEVXFjRFYxbE5TU0tGZ0VoYmhreElTZ05jQ3JESVZhclNCRjB5aWxxNUtRUVYyWUh5RmlnTnZKUlZXZUxhX2xpNllZZXFZd0hCdGxPR1lmTWdCUWZiNklSN1BGREdmRTZlc0VWcGc?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjNIdmRRN3BKbFBKMzlkRTlGdkFQbXRFcFRBV3hEVXFjRFYxbE5TU0tGZ0VoYmhreElTZ05jQ3JESVZhclNCRjB5aWxxNUtRUVYyWUh5RmlnTnZKUlZXZUxhX2xpNllZZXFZd0hCdGxPR1lmTWdCUWZiNklSN1BGREdmRTZlc0VWcGc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 09:04"
+        "data_noticia": "02/07/2026 10:16"
       }
     },
     {
@@ -1077,50 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18 - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1ZZV3lGNlVnYWVtbHhuTGk2M2RpVWhrMFNtVXRTUTQ5TTJIMHZoVUljanhYOExrUVp4WjN6SzI2M2FzY09GOWptVk9KYXVpQjhGSzl5cklSM1JFdFNUbWJSdjVPYVZzNWFrTjVRcldybXloY281cDViQkhheXdaSnRBRWhJNTdMa01kYTBpMmhTWkV3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1ZZV3lGNlVnYWVtbHhuTGk2M2RpVWhrMFNtVXRTUTQ5TTJIMHZoVUljanhYOExrUVp4WjN6SzI2M2FzY09GOWptVk9KYXVpQjhGSzl5cklSM1JFdFNUbWJSdjVPYVZzNWFrTjVRcldybXloY281cDViQkhheXdaSnRBRWhJNTdMa01kYTBpMmhTWkV3YkE1YTNyX0RhNTdqUWNvWjNncGQtd181enc?oc=5",
+        "titulo_evento": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1o3dzB2azYzSjRrc1Z3cHV1SUUzZnVic3B6TFR5WDRYYTl6OFpUUi1VSDZ4MC1mckUzQy1xMXU2OC1tNzdNQXEzeENxQmx6UkhVTFI5engyUDhLZHlQWXlrcFpqOWtpX3pDX2NQcFRhTEZ0WlU4RkloN3YzcW52SHdzcFJSYmtwdlE0YXpMTmxrb1FZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY1o3dzB2azYzSjRrc1Z3cHV1SUUzZnVic3B6TFR5WDRYYTl6OFpUUi1VSDZ4MC1mckUzQy1xMXU2OC1tNzdNQXEzeENxQmx6UkhVTFI5engyUDhLZHlQWXlrcFpqOWtpX3pDX2NQcFRhTEZ0WlU4RkloN3YzcW52SHdzcFJSYmtwdlE0YXpMTmxrb1FZSUdCdzE2VXpSNVNGb2hj0gGoAUFVX3lxTE5xSGVHcHIydENZT25KaUlQV1Z5Z1AwVGkwZmR3WjNfUXlKQlc5VFUzcS1HN0NHaU9SZEY0T0R6NFJSVTZVRDhBNlBPaEo3OXp3U0RHVWtxZjBhWGNBSjBtTElFQWkzZjhNMHI3WkZFRUJZcTFINzhQNFJNN2pTZTF4T1F5ekpqQ2c3V3hQYTRhalhhTy1uems1RVhtRXhXRl9EazMyVk1Lag?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 08:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Each Supply to Russia’s War Machine Is a Contribution to War Crimes and Crimes Against Humanity - Global Rights Compliance",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1NqeXZCYjl3eUFzdWxPZlU2TjRtTExucHh3RkVVbmJjYXJaOE1Ydk5DNnBYYkk1NXBkSlZNVjZFbHQ5bEdKM3RqSmVfRjkwdGpWenF1NjE2T2MxdFR6bE9GREdpaE03c0ZYVjMwRUtNQkpib0toUklRbHVWZHVyb1dZMG9lQlRyOVFTWEd2Y3hnZ1hu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1NqeXZCYjl3eUFzdWxPZlU2TjRtTExucHh3RkVVbmJjYXJaOE1Ydk5DNnBYYkk1NXBkSlZNVjZFbHQ5bEdKM3RqSmVfRjkwdGpWenF1NjE2T2MxdFR6bE9GREdpaE03c0ZYVjMwRUtNQkpib0toUklRbHVWZHVyb1dZMG9lQlRyOVFTWEd2Y3hnZ1huQk9nMEFSX1VZS1lRSWZtT1NLUzJOTkFSUWllbEl6ajM1R0lER29FY0haWFNPdWJfa2hDRk1B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 15:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Facing New Pressure From Ukraine, Putin Signals Intent to Dig In - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFZuR1RfYXY2VlBVZTZmVGVyZjloUno4d2phY18zTFZKYWRkQTd6RzJOVHREeVZlYVZIcGl2ckgwbThMWTV4VkFDdzZtcFpMbWtPVkZrMlBMY2lVWXZ2eExvTV9DMzF1c0prdmFLMU1qU2YxLVNSd0xaM1U2YWdGUEFQcFRUekZYb2U3N2VsYw?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFZuR1RfYXY2VlBVZTZmVGVyZjloUno4d2phY18zTFZKYWRkQTd6RzJOVHREeVZlYVZIcGl2ckgwbThMWTV4VkFDdzZtcFpMbWtPVkZrMlBMY2lVWXZ2eExvTV9DMzF1c0prdmFLMU1qU2YxLVNSd0xaM1U2YWdGUEFQcFRUekZYb2U3N2VsYw?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "02/07/2026 12:17"
+        "data_noticia": "02/07/2026 13:22"
       }
     },
     {
@@ -1145,16 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Russian attack on Kyiv kills at least 13, injures dozens - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJPRDcxX1U0SEdQZkNOWFZXOW9aRXp6YkJjeGhJZ1ZIZjkwWjZXbV90V0NZYTZyUTV3OFBuV3U4M19XbUtuR3lrN1g1Wk90TndnLWFXN3BYbE1DX0NRNVJVazNscDdNLXZpMHBRS3FPR1d3SWdPM3IyLUlDM29vbjBkekRocEdz0gGnAUFVX3lxTE44...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJPRDcxX1U0SEdQZkNOWFZXOW9aRXp6YkJjeGhJZ1ZIZjkwWjZXbV90V0NZYTZyUTV3OFBuV3U4M19XbUtuR3lrN1g1Wk90TndnLWFXN3BYbE1DX0NRNVJVazNscDdNLXZpMHBRS3FPR1d3SWdPM3IyLUlDM29vbjBkekRocEdz0gGnAUFVX3lxTE44U1JHYzJaUHJDVldkbmpIc3F2Rmk4MVRtTXZ6QkhoSXI0M2FMMVJ3MFdqUGhKNlNxRHBHM0c5WVR2Mnh6NkR4YWc1T1lUWHdpVkFvSHdCd2RVd040bnp6aUVtVWVFd2lVMnpUOEFnVEF2ODkzU0phNXZrSlEyb3Bya3lmVl94M3NCTWsyRVpDaTdIQUxsUzJrd0FuSGRpUUZxalF4X29j?oc=5",
+        "titulo_evento": "Each Supply to Russia’s War Machine Is a Contribution to War Crimes and Crimes Against Humanity - Global Rights Compliance",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1NqeXZCYjl3eUFzdWxPZlU2TjRtTExucHh3RkVVbmJjYXJaOE1Ydk5DNnBYYkk1NXBkSlZNVjZFbHQ5bEdKM3RqSmVfRjkwdGpWenF1NjE2T2MxdFR6bE9GREdpaE03c0ZYVjMwRUtNQkpib0toUklRbHVWZHVyb1dZMG9lQlRyOVFTWEd2Y3hnZ1hu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1NqeXZCYjl3eUFzdWxPZlU2TjRtTExucHh3RkVVbmJjYXJaOE1Ydk5DNnBYYkk1NXBkSlZNVjZFbHQ5bEdKM3RqSmVfRjkwdGpWenF1NjE2T2MxdFR6bE9GREdpaE03c0ZYVjMwRUtNQkpib0toUklRbHVWZHVyb1dZMG9lQlRyOVFTWEd2Y3hnZ1huQk9nMEFSX1VZS1lRSWZtT1NLUzJOTkFSUWllbEl6ajM1R0lER29FY0haWFNPdWJfa2hDRk1B?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 07:36"
+        "data_noticia": "02/07/2026 15:57"
       }
     },
     {
@@ -1162,33 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "War, political psychology and the future of US-Iran relations - Clingendael",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVluNEwxSmp5SUhsXzY4cXUzNUxQWlZMRmtIbUtLTGtsR0ExYk41akdaQWdBanZpaXhDZmoySm00aEVxcDU1MkU4bFpsZzNrV01May1GMEJiZGt0WjZrTW1rTFdSaUZwVldscFh0c3hGeW5SaUM3SUh6TEhpM2xUSFhnOHFKY0xnSzRJU3NqN2JuejJ4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVluNEwxSmp5SUhsXzY4cXUzNUxQWlZMRmtIbUtLTGtsR0ExYk41akdaQWdBanZpaXhDZmoySm00aEVxcDU1MkU4bFpsZzNrV01May1GMEJiZGt0WjZrTW1rTFdSaUZwVldscFh0c3hGeW5SaUM3SUh6TEhpM2xUSFhnOHFKY0xnSzRJU3NqN2JuejJ4VzZXYg?oc=5",
+        "titulo_evento": "Russia hits Ukraine's capital with a massive drone and missile attack, killing at least 18 - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1ZZV3lGNlVnYWVtbHhuTGk2M2RpVWhrMFNtVXRTUTQ5TTJIMHZoVUljanhYOExrUVp4WjN6SzI2M2FzY09GOWptVk9KYXVpQjhGSzl5cklSM1JFdFNUbWJSdjVPYVZzNWFrTjVRcldybXloY281cDViQkhheXdaSnRBRWhJNTdMa01kYTBpMmhTWkV3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1ZZV3lGNlVnYWVtbHhuTGk2M2RpVWhrMFNtVXRTUTQ5TTJIMHZoVUljanhYOExrUVp4WjN6SzI2M2FzY09GOWptVk9KYXVpQjhGSzl5cklSM1JFdFNUbWJSdjVPYVZzNWFrTjVRcldybXloY281cDViQkhheXdaSnRBRWhJNTdMa01kYTBpMmhTWkV3YkE1YTNyX0RhNTdqUWNvWjNncGQtd181enc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 13:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany charges Nord Stream suspect with attacking pipeline on behalf of Ukraine - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0pkOEMwSmtmTHBfN05lUzFIdndmZEE5RHpEaUVERVRSU21jMG1XMFV3LWdJVWJpQlZ0MHVtT0xINl9sWlhxOXRZcE9kUGFNTkc5RWJra3BWNEN3alU3N2FZeHc5eUUxeGNpaFJLYndoQWJDZkNVSHlrV2dXY194X1Ewd21Ic0dsWnhoNWdoQ1JqbENK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0pkOEMwSmtmTHBfN05lUzFIdndmZEE5RHpEaUVERVRSU21jMG1XMFV3LWdJVWJpQlZ0MHVtT0xINl9sWlhxOXRZcE9kUGFNTkc5RWJra3BWNEN3alU3N2FZeHc5eUUxeGNpaFJLYndoQWJDZkNVSHlrV2dXY194X1Ewd21Ic0dsWnhoNWdoQ1JqbENKQ3hJMGdobUY1NzRNUTkzaUVNRWpGc0NJVFFGMTltbFptV0V5RUpN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/07/2026 11:15"
+        "data_noticia": "02/07/2026 08:47"
       }
     },
     {
@@ -1201,28 +1031,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "As Far Right Rises, German Leaders Look to Jump-Start the Economy - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVTYkdfQi04SS1STDZXdjhVMnZLTnpYajhCZFpaSXBMc0tVdF9Lc0xSaktRbzJTNVJXaWVnUnp6bTREUWNpeHY5UTFPWUN3Ry1Qc3ROU3FXSFFUZ0xIb2RJSGdIVURob1ZaVnhFZ25IcEFJb0ppTDhJMmZ5LUJHLUl4YWVSQUFHN0Rzb0hsdHJnSUlf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVTYkdfQi04SS1STDZXdjhVMnZLTnpYajhCZFpaSXBMc0tVdF9Lc0xSaktRbzJTNVJXaWVnUnp6bTREUWNpeHY5UTFPWUN3Ry1Qc3ROU3FXSFFUZ0xIb2RJSGdIVURob1ZaVnhFZ25IcEFJb0ppTDhJMmZ5LUJHLUl4YWVSQUFHN0Rzb0hsdHJnSUlfS3c?oc=5",
+        "titulo_evento": "Can the World’s Largest Stadium Explain the Global Economy? - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3V5WWVvQ2ZmVTdOYjVZRkJ0cGJab0xFNFUzNVV0c1VUdnBibnlzbjY2ZV9mYVV3RW1jNFNmLVlmTmJhd29WNXU4RnE5SUsxbjk2aG44cC1QbURqaWExdG1DQzBMTHVjM18xYmxrQ3NKcUF2aXA5WjlPVEEyRER1M01IZThFNGM5MW1PVkJWb1Y?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3V5WWVvQ2ZmVTdOYjVZRkJ0cGJab0xFNFUzNVV0c1VUdnBibnlzbjY2ZV9mYVV3RW1jNFNmLVlmTmJhd29WNXU4RnE5SUsxbjk2aG44cC1QbURqaWExdG1DQzBMTHVjM18xYmxrQ3NKcUF2aXA5WjlPVEEyRER1M01IZThFNGM5MW1PVkJWb1Y?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "02/07/2026 10:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. Innovation, From SpaceX To AI, Is Still A Rocket For America's Economy. But China Is A Growing Rival. - Investor's Business Daily",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNamhiczNqZy1JTWdXQXNWX3dGVEZOb3N6dFBqUFViVndLZmtJdklYZXhTTW9XZWJiWFNsS3R4WThEQ0VXMC1uSVBYQjFDbW4wUTM5eGNQVWhoakIxTEpCOVNGamtwNlFrVm9BVURSQzR1ZFZBRjVtbjQ1WmxoV285ZDlqUjMydVNCUmpscEs3clJLQU1U...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamhiczNqZy1JTWdXQXNWX3dGVEZOb3N6dFBqUFViVndLZmtJdklYZXhTTW9XZWJiWFNsS3R4WThEQ0VXMC1uSVBYQjFDbW4wUTM5eGNQVWhoakIxTEpCOVNGamtwNlFrVm9BVURSQzR1ZFZBRjVtbjQ1WmxoV285ZDlqUjMydVNCUmpscEs3clJLQU1URmZYcXN2Yw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "02/07/2026 14:20"
+        "data_noticia": "02/07/2026 14:50"
       }
     },
     {
@@ -1236,8 +1049,8 @@
       },
       "properties": {
         "titulo_evento": "China accused of trying to ‘infiltrate’ US-Mexico-Canada trade agreement - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSVA5Q3VFV3pXZmZKLUltMk91RE4tbmtYWDVKR0hyZkZNTU53NjBpUU9jOG9HMTNXMkNfWThwQ0kxVWVmdVhuSF81TklKcThkMVB1dE9RWC1ubVcwblJFRlNocHZKaHRtRkdzemU1cVJKaHd0eHAwV0hWeHpyTDdEZ2JUNmU4bktGaDhoenU2d1VudVRj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSVA5Q3VFV3pXZmZKLUltMk91RE4tbmtYWDVKR0hyZkZNTU53NjBpUU9jOG9HMTNXMkNfWThwQ0kxVWVmdVhuSF81TklKcThkMVB1dE9RWC1ubVcwblJFRlNocHZKaHRtRkdzemU1cVJKaHd0eHAwV0hWeHpyTDdEZ2JUNmU4bktGaDhoenU2d1VudVRjRFZBbWZhbTJfNUdmMVFtOEJVblpyRWt6OHlkU1JtUTZXSjBmNUI2Y0lnWHFCVUNQcVF3d19uYTVrYjRXMGZ0eTF2QlR4aVXSAdsBQVVfeXFMTVgyYUFRbkpIWmxLdGF3THZGdzAyUHpCM2pDU0hkeEVuSFVEcXNPSmNKM1h6YUxkU09icW1QaHRIZHJuTjhSS3Z6TThtSEFPelRaRFg0SGZRSUtFbU90cWM5Nl9mZFVqM05fREM5Y3hKb2NSY0dUU0wybFU4emxKUWNoYlNQS2x0MmcyeV85WDVGbjdDN2p2QWpaSURyZ2Z3SGVyeW1tUE5YUGNJc0RGdlJKaE4zdzVHRFFGVHlZMkRGbzJ5ekMtU25jcms0SFRLaWlDcDBBbWFVcGYw?oc=5",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDJhQVFuSkhabEt0YXdMdkZ3MDJQekIzakNTSGR4RW5IVURxc09KY0ozWHphTGRTT2JxbVBodEhkcm5OOFJLdnpNOG1IQU96VFpEWDRIZlFJS0VtT3RxYzk2X2ZkVWozTl9EQzljeEpvY1JjR1RTTDJsVTh6bEpRY2hiU1BLbHQyZzJ5XzlYNUZuN0M3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDJhQVFuSkhabEt0YXdMdkZ3MDJQekIzakNTSGR4RW5IVURxc09KY0ozWHphTGRTT2JxbVBodEhkcm5OOFJLdnpNOG1IQU96VFpEWDRIZlFJS0VtT3RxYzk2X2ZkVWozTl9EQzljeEpvY1JjR1RTTDJsVTh6bEpRY2hiU1BLbHQyZzJ5XzlYNUZuN0M3anZBalpJRHJnZndIZXJ5bW1QTlhQY0lzREZ2UkpoTjN3NUdEUUZUeVkyREZvMnl6Qy1TbmNyazRIVEtpaUNwMEFtYVVwZjDSAdsBQVVfeXFMTVgyYUFRbkpIWmxLdGF3THZGdzAyUHpCM2pDU0hkeEVuSFVEcXNPSmNKM1h6YUxkU09icW1QaHRIZHJuTjhSS3Z6TThtSEFPelRaRFg0SGZRSUtFbU90cWM5Nl9mZFVqM05fREM5Y3hKb2NSY0dUU0wybFU4emxKUWNoYlNQS2x0MmcyeV85WDVGbjdDN2p2QWpaSURyZ2Z3SGVyeW1tUE5YUGNJc0RGdlJKaE4zdzVHRFFGVHlZMkRGbzJ5ekMtU25jcms0SFRLaWlDcDBBbWFVcGYw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "02/07/2026 12:00"
       }
@@ -1269,11 +1082,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Can the World’s Largest Stadium Explain the Global Economy? - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3V5WWVvQ2ZmVTdOYjVZRkJ0cGJab0xFNFUzNVV0c1VUdnBibnlzbjY2ZV9mYVV3RW1jNFNmLVlmTmJhd29WNXU4RnE5SUsxbjk2aG44cC1QbURqaWExdG1DQzBMTHVjM18xYmxrQ3NKcUF2aXA5WjlPVEEyRER1M01IZThFNGM5MW1PVkJWb1Y?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3V5WWVvQ2ZmVTdOYjVZRkJ0cGJab0xFNFUzNVV0c1VUdnBibnlzbjY2ZV9mYVV3RW1jNFNmLVlmTmJhd29WNXU4RnE5SUsxbjk2aG44cC1QbURqaWExdG1DQzBMTHVjM18xYmxrQ3NKcUF2aXA5WjlPVEEyRER1M01IZThFNGM5MW1PVkJWb1Y?oc=5",
+        "titulo_evento": "As Far Right Rises, German Leaders Look to Jump-Start the Economy - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVTYkdfQi04SS1STDZXdjhVMnZLTnpYajhCZFpaSXBMc0tVdF9Lc0xSaktRbzJTNVJXaWVnUnp6bTREUWNpeHY5UTFPWUN3Ry1Qc3ROU3FXSFFUZ0xIb2RJSGdIVURob1ZaVnhFZ25IcEFJb0ppTDhJMmZ5LUJHLUl4YWVSQUFHN0Rzb0hsdHJnSUlf...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVTYkdfQi04SS1STDZXdjhVMnZLTnpYajhCZFpaSXBMc0tVdF9Lc0xSaktRbzJTNVJXaWVnUnp6bTREUWNpeHY5UTFPWUN3Ry1Qc3ROU3FXSFFUZ0xIb2RJSGdIVURob1ZaVnhFZ25IcEFJb0ppTDhJMmZ5LUJHLUl4YWVSQUFHN0Rzb0hsdHJnSUlfS3c?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "02/07/2026 04:01"
+        "data_noticia": "02/07/2026 12:21"
       }
     },
     {
@@ -1291,6 +1104,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTdacURtUnVjQWtiVU1Jc3dkTExhcnV4VHlNQ3lBWW1uUjFQME1BWWE1TnZWZ19fOHRmdkNseUN3X013V2lmWXFUZENrVmdGcDM4ZHpDWloyQUF4YURJYjZzeTJhTmJWVFozUjFReHpfTjQzZXAxa09YR1E1NW9xaGE1MEZ2bmRuR2ZlOHF0cWY3Z0pPVjJpb1IyenR4QzRzRWFRNUh3?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "02/07/2026 10:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UNDP Associate Administrator Opens the 2026 Global Digital Economy Conference in Beijing as UNDP Launches New Innovation Lab to Advance Digital-friendly Cities - UNDP",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR3FDQl9DT3JPYWhhUnRfRUpPZUhJWXFGXzhNdGFQWUJKSGVoQk9IcThkWTRHWXNxVnNneXdDd3p3MlI1NnByekJTUHotd1ZhSlNNOXhfLXd5OWFvTEVYSU9nUmZCMmE2UTB1OHFwS2xwLWJnQ1IwN0Q5OHhFUThrMGZIS05vLTc3WlZDbG55MEF2cTNJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR3FDQl9DT3JPYWhhUnRfRUpPZUhJWXFGXzhNdGFQWUJKSGVoQk9IcThkWTRHWXNxVnNneXdDd3p3MlI1NnByekJTUHotd1ZhSlNNOXhfLXd5OWFvTEVYSU9nUmZCMmE2UTB1OHFwS2xwLWJnQ1IwN0Q5OHhFUThrMGZIS05vLTc3WlZDbG55MEF2cTNJTUx0OHVoZ0hrRE8wTkk4RmtfeG5pSGtCM3B5SU9nVzl1VlkzT0o0WE11aUtpdlVSX3Q5ekpuMWMtM1poX2Zxb3dkdkVLLVM0ODB2R0p5N2VTdmxVMGtEcXc3T1ZYZG5PNlZF?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "02/07/2026 04:50"
       }
     }
   ]
