@@ -74,40 +74,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia bombards Kyiv in one of war’s biggest strikes, at least 21 people killed",
-        "descricao": "Multiple explosions shook central Kyiv and reverberated across the capital throughout the night as thousands of residents rushed to bomb shelters.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/07/02/russia-bombards-kyiv-in-one-of-wars-biggest-strikes-at-least-21-people-killed/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "02/07/2026 16:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK ratchets up nuclear spending, with new warhead and delivery planes in the works",
-        "descricao": "Central to the current package is Astraea, the warhead designated A21/Mk7 that the Atomic Weapons Establishment has been developing since 2020.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/07/02/uk-ratchets-up-nuclear-spending-with-new-warhead-and-delivery-planes-in-the-works/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "02/07/2026 14:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.3517,
           50.8503
         ]
@@ -118,6 +84,23 @@
         "url_fonte": "https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "03/07/2026 07:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian attacks leave trail of destruction across Ukraine",
+        "descricao": "Russian attacks leave trail of destruction across Ukraine\n",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/07/2026 15:46"
       }
     },
     {
@@ -169,23 +152,6 @@
         "url_fonte": "https://www.aljazeera.com/sports/2026/7/4/key-takeaways-from-round-of-32-stage-at-world-cup-2026?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "04/07/2026 08:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Could Israel really build settlements in Gaza?",
-        "descricao": "After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/07/2026 05:41"
       }
     },
     {
@@ -254,23 +220,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "03/07/2026 10:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Polish PM warns critical months ahead in face of Russian threat",
-        "descricao": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/07/2026 16:41"
       }
     },
     {
@@ -521,23 +470,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Germany: Merz rebukes Trump jab over defense at Baltic event",
-        "descricao": "In a meeting with Baltic leaders, Germany's Chancellor Friedrich Merz played up Germany's defense spending. It comes after new criticism from President Donald Trump that Germany is lagging behind other NATO allies.",
-        "url_fonte": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "03/07/2026 15:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
         "titulo_evento": "Far-right AfD threatens eastern Germany's energy transition",
         "descricao": "Germany's far-right AfD wants to revive coal and nuclear power and curb non-EU immigration. Businesses in eastern Germany warn that its policies could harm the economy.",
         "url_fonte": "https://www.dw.com/en/far-right-afd-threatens-eastern-germany-s-energy-transition/a-77806872?maca=en-rss-en-all-1573-xml-mrss",
@@ -576,7 +508,41 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSk5HVnE1LXVjTEp6cEVKQ1kzRDV5emVtcFZaTjJ5Qm9oNml4bm44b2RpY0VzVVlqSGVxUUwxbXpQS0RaUk95dTRGVGNKbElVQ3lzVkJwck9NaGNCZDZya1VyR252NFIwS2lTS1pJckNZSzg0TFEzRTRzeXBaSEU5U2psRmVoT0FDeDlCYnBkaGhuMXJQ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSk5HVnE1LXVjTEp6cEVKQ1kzRDV5emVtcFZaTjJ5Qm9oNml4bm44b2RpY0VzVVlqSGVxUUwxbXpQS0RaUk95dTRGVGNKbElVQ3lzVkJwck9NaGNCZDZya1VyR252NFIwS2lTS1pJckNZSzg0TFEzRTRzeXBaSEU5U2psRmVoT0FDeDlCYnBkaGhuMXJQR3ZPaFdaNjhPY0JJQmVjQm1kMk9fMXfSAbABQVVfeXFMT2taZTF2M1MtOE0zWVpMS0NWM0N0SEhHTWNOV3M2VGYtWDlzOXpLZmcxVkR2eVMxcl9LUFpGS1A1dGpvWjBvb2I5MXY2WklpcFlJWGEtaGdRZk1iM3JSQXp0TnFaN0lWRU1LREwtSUVMU3lpR0xuZDZHdUxRNDJSYkk4VEg2YTRjR1dtRjZlYXdvSGRxZ2xaTlowajZOZ0hxQkhlaFEyeTB4T1R0YWJ4cFg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 13:29"
+        "data_noticia": "04/07/2026 16:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Turkey's new Somalia spaceport doubles as missile range, threatening Israel - report - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMTM5Q1hYcUpEWnBTWG1UbFpMQUs5eEJ2RGJFM0tPbG9BTGhYMEJMWGlzTTJWODU4ekhHZ2FKMG53czB2UXFjZ1U2OEt3Z1VNMnFSVFZQdnkxdnlH?oc=5\" target=\"_blank\">Turkey's new Somalia spaceport doubles as missile ran...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMTM5Q1hYcUpEWnBTWG1UbFpMQUs5eEJ2RGJFM0tPbG9BTGhYMEJMWGlzTTJWODU4ekhHZ2FKMG53czB2UXFjZ1U2OEt3Z1VNMnFSVFZQdnkxdnlH?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 15:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China's military promotes 2 new generals after anti-corruption purge thins ranks - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVd4alBVVF95T2F3ZmswV3VnTTA4V21FMm1rZ2UwVjZBZmRlRzlMMy0xRk1XWnYtcUV3bHdycFNrUmY0X0pTMEFkcXAzbDZQaVlYcVJsYl9qU0NUNDdhdGM5NzQ0LU93T09QSlJDWGpIMS1IV3NIZlpxdW9sZ18xcHRJYXExbFBvbllZYzBzWjdvd2Qx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVd4alBVVF95T2F3ZmswV3VnTTA4V21FMm1rZ2UwVjZBZmRlRzlMMy0xRk1XWnYtcUV3bHdycFNrUmY0X0pTMEFkcXAzbDZQaVlYcVJsYl9qU0NUNDdhdGM5NzQ0LU93T09QSlJDWGpIMS1IV3NIZlpxdW9sZ18xcHRJYXExbFBvbllZYzBzWjdvd2QxYzFLRmtIMnBZRXpoWVRjOTRnSmwtdmdvX2d1SGw1MzhqSU5wSVI4Y3hjTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 14:07"
       }
     },
     {
@@ -601,57 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWJCYWxLMXkzWHhuX0NjLWNfMEc1RE5HVk5GTWlHQ0xkOUZHU2FjcHR4RmQ4VEg3TEhJeUMtM1dLaGN4NmMzYWwzeGpCUkNEUEU1a3VlMkVFdTRtaXl3enFaanFKcnBiNDFIc0FVaV94T2FJLWVmZHRZQlJwd0l4Rm9ybl9NMkFvTnhzWlNZRlZwS3JF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWJCYWxLMXkzWHhuX0NjLWNfMEc1RE5HVk5GTWlHQ0xkOUZHU2FjcHR4RmQ4VEg3TEhJeUMtM1dLaGN4NmMzYWwzeGpCUkNEUEU1a3VlMkVFdTRtaXl3enFaanFKcnBiNDFIc0FVaV94T2FJLWVmZHRZQlJwd0l4Rm9ybl9NMkFvTnhzWlNZRlZwS3JFN2E3WklKTFk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 12:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine Is Bringing the War With Russia to Crimea, Strike After Strike - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3F5QzFCQWtobkFnUUxSN3FUeVlwancxaDlYdHVMNXVxSzdOQUhybjdndkVrQVhxb01xcllqcU5hMlprb05fOWY2UHp0dDVuTWQwQzFtM1RDZktXRk9KemE1QUl1bVNpajZWY3VSYVVRN3gxaWtGT3gzRXE3SWJYNzlBaUxQRTJKMlU2RE4xTXFucHBh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3F5QzFCQWtobkFnUUxSN3FUeVlwancxaDlYdHVMNXVxSzdOQUhybjdndkVrQVhxb01xcllqcU5hMlprb05fOWY2UHp0dDVuTWQwQzFtM1RDZktXRk9KemE1QUl1bVNpajZWY3VSYVVRN3gxaWtGT3gzRXE3SWJYNzlBaUxQRTJKMlU2RE4xTXFucHBhSWVSUTZXenU2T2s?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 07:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Second World War gun recovered from river in Germany - Euronews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVF6WElmSG04OGREa2cxMmhCQ25oVUtrZ2NRU0tRWkVpek96YTZKamotbTVmazlWeS0yeW5zZWlQdzFQdXd4MTIteG16dHBKYTRSZVJNVWpnYjE1WlpHQTFCd1lBV3BoVjNoM21fNHVvMkNNU3pOR0UydU8zSW16VVNfR2lKaUF5WE9Iai1lVHh1WGh2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVF6WElmSG04OGREa2cxMmhCQ25oVUtrZ2NRU0tRWkVpek96YTZKamotbTVmazlWeS0yeW5zZWlQdzFQdXd4MTIteG16dHBKYTRSZVJNVWpnYjE1WlpHQTFCd1lBV3BoVjNoM21fNHVvMkNNU3pOR0UydU8zSW16VVNfR2lKaUF5WE9Iai1lVHh1WGh2TG9UMUo4dW5jMHM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 09:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -661,41 +576,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHNQZlVoZFcyWUFDTDN1X3pQTEVzOHB6NzZmUEZrY1NnU0Y0QXpqTUdDbzFkeWtFZmxvZldrSnczOXhQSjVzcUg5b2lFaWFoMkxGSnJ0eXM2dGtPcFkxY0N6dlVhaDlnYmdHYVRjUDR3ZEN4YlE5cjNsVkF5ZkVWRGxwUFUwejhxLUR4TzRlR2hleFd6...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHNQZlVoZFcyWUFDTDN1X3pQTEVzOHB6NzZmUEZrY1NnU0Y0QXpqTUdDbzFkeWtFZmxvZldrSnczOXhQSjVzcUg5b2lFaWFoMkxGSnJ0eXM2dGtPcFkxY0N6dlVhaDlnYmdHYVRjUDR3ZEN4YlE5cjNsVkF5ZkVWRGxwUFUwejhxLUR4TzRlR2hleFd6MWplVkZSc3NGTXY3eVRhYXVUZF96MFNXdWtlX016SQ?oc=5",
         "categoria": "Política (Google News Military)",
-        "data_noticia": "04/07/2026 14:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine Is Winning Its War On Russian Oil Refineries. On The Front Line, It's A Bloody Slugfest. - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNREdsZGp4dTJ0azhUYkV4S3lncmNBYS12SkVaWlhNdzY0RzNPZWdyTTVCbUhOMDBabGVVX1hpeEt0ZmJkbnJaX0M0ZUEydGY5RFMzSW5oRC0xNnFieEFXTTNrcUZTUl9BbllIeTE0RkFpUlFyeWhLS29hOF9DUVd6Q0pyTHJXQdIBiAFBVV95cUxOdE0w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREdsZGp4dTJ0azhUYkV4S3lncmNBYS12SkVaWlhNdzY0RzNPZWdyTTVCbUhOMDBabGVVX1hpeEt0ZmJkbnJaX0M0ZUEydGY5RFMzSW5oRC0xNnFieEFXTTNrcUZTUl9BbllIeTE0RkFpUlFyeWhLS29hOF9DUVd6Q0pyTHJXQdIBiAFBVV95cUxOdE0wMHhSUnAzRGY0ajVjelNERm5JNmc2QWVuaWdfTy1CTGZtZjlXcjVQblRMUW9JbWNKc2N6bUNHYWVlSGlHVERQaF9CYWY5STZWaGt6bTE4Uml1M1Rpa0JER3g5aF9CbmRyWVhWWTNBY0M5bjQ3MW0tQ21CSjI4N182RHBZbGxp?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 08:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s military promotes 2 new generals after anti-corruption purge thins ranks - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGU2eFgtRzEyZzRUcnh3OVg1ZVdaQXU0Sjg5aHRQZUQ0R2lNSUFpM2lkUHZ1MXE2bDVlbGkzTkNveVF3c2pYakFVaTZhZmpZai1mRWpFZkI5NldDQnJxd1dJQkZadEJyOTRXWmlWM1ZtSEVWbTRJR2wtdEpvVkpDb3JUc0x2b284bk0wTFY4a1dUR0c2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGU2eFgtRzEyZzRUcnh3OVg1ZVdaQXU0Sjg5aHRQZUQ0R2lNSUFpM2lkUHZ1MXE2bDVlbGkzTkNveVF3c2pYakFVaTZhZmpZai1mRWpFZkI5NldDQnJxd1dJQkZadEJyOTRXWmlWM1ZtSEVWbTRJR2wtdEpvVkpDb3JUc0x2b284bk0wTFY4a1dUR0c2b2lldE91RmJFR1hYYjlkd3JPSdIBrAFBVV95cUxNQnMtTnRDaGpoQ2VXcU5MZmVfNEdvMDlpOEJPa3BUZkh0ZmlOOWc5ZGRTakVSTjV5d2Jaa3pHaWxfbTRtR29sNVFiQmRBZE40YTZwSTB5RTBaak5nbm1sbm5sWS1WUFRSbDAwN1lNUXh3Rmxub2NQenpPWkh4a2p6Q1BVZzdfeXZuWEdJVlB4c3FBQUtBdmxXWlVFS2JWdjlmejZmemp5WGZzeWRa?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 09:46"
+        "data_noticia": "04/07/2026 16:18"
       }
     },
     {
@@ -720,84 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran rejects UK-France Hormuz statement, warns against foreign military presence - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFF6ekN0WmhydXZ5bmFKYXZMcGZacFNkd0MtaFc0YjZSc1BROWt0aDhPaDliQTZGNno0S1pHQTFxWnA2OVJ4YU9TRVZwU0ozMUdkSzcyNkRWNkxxLW9DS3NLTnhnZGgtM1pndXQydGo5ZkdqUU9KeDZUaEkzVHVXd3l0SkllSWM5eWxNbng5WjgyRXp1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFF6ekN0WmhydXZ5bmFKYXZMcGZacFNkd0MtaFc0YjZSc1BROWt0aDhPaDliQTZGNno0S1pHQTFxWnA2OVJ4YU9TRVZwU0ozMUdkSzcyNkRWNkxxLW9DS3NLTnhnZGgtM1pndXQydGo5ZkdqUU9KeDZUaEkzVHVXd3l0SkllSWM5eWxNbng5WjgyRXp1bnVlYWNKTGxVOTBKUXg4VkVaa2VJbjBVTmRVc1Q1RW5VYmxZa2NGR1lKUzR2UQ?oc=5",
+        "titulo_evento": "Iran begins dayslong funeral for Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNod0xTMjJIckxKX0NjQ1Z3OXJDbEZFcXNka1dQNVFfdjE5WVNnNUFfRWFuaEtnRExzV3huaXBRQ1BCUnozUnV0eG9ReGlvTUdrNDU2SjBKNzVkaE42MVNPcWt1a2U1RTllNTFFUjVuMnBkYU44SUUzSUtDaDUzbE1SNHlxMVQ5aXBHS3BxamR0eHpu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNod0xTMjJIckxKX0NjQ1Z3OXJDbEZFcXNka1dQNVFfdjE5WVNnNUFfRWFuaEtnRExzV3huaXBRQ1BCUnozUnV0eG9ReGlvTUdrNDU2SjBKNzVkaE42MVNPcWt1a2U1RTllNTFFUjVuMnBkYU44SUUzSUtDaDUzbE1SNHlxMVQ5aXBHS3BxamR0eHpuWGo1WWxJNWRNaXFBVUd5SHhYaW41dDVreWVJYVhiYVhLQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 09:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia Deploys S-400 For First Ever Strategic Ballistic Missile Defence Operation: How Capable Is It? - Military Watch Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5XM1dQZklPdUhPN01tc1BaZG5ib2Y3aUhvTFNQVm9PcS1DbWg1amZ2UWNJMmU1NUlLMmhmeGNSMUYyb3JlS1JaMmcyeTRkazRWMDVYTGVxYzA5NTh2Z25iSkVTNU01bDE5anh0N0h5TEprRzMxdDlCX3lVSUd3TFNfSEdjSEhWbG9wbEY4SGpVd011...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5XM1dQZklPdUhPN01tc1BaZG5ib2Y3aUhvTFNQVm9PcS1DbWg1amZ2UWNJMmU1NUlLMmhmeGNSMUYyb3JlS1JaMmcyeTRkazRWMDVYTGVxYzA5NTh2Z25iSkVTNU01bDE5anh0N0h5TEprRzMxdDlCX3lVSUd3TFNfSEdjSEhWbG9wbEY4SGpVd011OWtZcjllSQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 06:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Germany calls reports Russian soldiers are being trained in China ‘deeply disturbing’ - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGU4NUtKRDZqcGk3MkZuMFdKSktGb3lWMVpyaWJoTFRYdC1Ya2lxcFdBTnU4UEVIMkJEbWRQRVZrVEF4dDA1NFdXYmNKUXoxcHpCdEF1XzNITXhncVlqanBNcHA1NUdYQlRXWVNxLWN0b0tNR040eGF3ZWs1TVJvdkhlNF9iMnJIbnFnYjBhTTdITjVZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGU4NUtKRDZqcGk3MkZuMFdKSktGb3lWMVpyaWJoTFRYdC1Ya2lxcFdBTnU4UEVIMkJEbWRQRVZrVEF4dDA1NFdXYmNKUXoxcHpCdEF1XzNITXhncVlqanBNcHA1NUdYQlRXWVNxLWN0b0tNR040eGF3ZWs1TVJvdkhlNF9iMnJIbnFnYjBhTTdITjVZRUV4ODdRWFpzQ3U2YmtWQTR6UnZ6djBiTlFKaUI4YUplXzBLckE3YlpCd2tTX2NKVXR1YURnNTdNQ1pxbjlyZXAteXFtSGRjNU80eHBONTI?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 03:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Lured by Russia, African soldiers end up on deadly front lines of Ukraine war - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUpsNElFTTAyYnVjMkVmMXU1RlB1UFU2TVNNU0VVSEJHUjhTdVFwVzdxeGJheFdUT0FIXzJ2NnNvd3NwTWJhT3FNV01qV19XRlU0Z3VwWmFuUHdneVhPTzd2VVlaSm5BRDFEY0RXMTR6YmVTcWpSUHFKbXhrZEF1MExwclZaWnZ3bTl3UXNMdkxpc2tT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUpsNElFTTAyYnVjMkVmMXU1RlB1UFU2TVNNU0VVSEJHUjhTdVFwVzdxeGJheFdUT0FIXzJ2NnNvd3NwTWJhT3FNV01qV19XRlU0Z3VwWmFuUHdneVhPTzd2VVlaSm5BRDFEY0RXMTR6YmVTcWpSUHFKbXhrZEF1MExwclZaWnZ3bTl3UXNMdkxpc2tTck44VENfLWdmdTdvY1dGa3JrWXJfby1KRXQ4?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/07/2026 22:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Turkey's new Somalia spaceport doubles as missile range, threatening Israel - report - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMTM5Q1hYcUpEWnBTWG1UbFpMQUs5eEJ2RGJFM0tPbG9BTGhYMEJMWGlzTTJWODU4ekhHZ2FKMG53czB2UXFjZ1U2OEt3Z1VNMnFSVFZQdnkxdnlH?oc=5\" target=\"_blank\">Turkey's new Somalia spaceport doubles as missile ran...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMTM5Q1hYcUpEWnBTWG1UbFpMQUs5eEJ2RGJFM0tPbG9BTGhYMEJMWGlzTTJWODU4ekhHZ2FKMG53czB2UXFjZ1U2OEt3Z1VNMnFSVFZQdnkxdnlH?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 00:44"
+        "data_noticia": "04/07/2026 16:10"
       }
     },
     {
@@ -810,11 +623,147 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iranians chant ‘Death to America’ as crowds mourn Ayatollah Khamenei — whose nuclear quest brought war - New York Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHJ0bHVFN1FJRU5MbTV2SU9fZDB2dEJadGt5TWJGZE0zSHNDOWN5MnFLMFhXbVJSZEJxWTlPRndsbTZqWENpRENqTGM1cW5maS1aWF9TTTUtNlFyakozaVBtY1hxdFhJRDgtSkVnSDhBYnZxbG9iNGxQVThHcWVZTU5UZUE3NEY1T0FPRXdtcG1LNXV0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHJ0bHVFN1FJRU5MbTV2SU9fZDB2dEJadGt5TWJGZE0zSHNDOWN5MnFLMFhXbVJSZEJxWTlPRndsbTZqWENpRENqTGM1cW5maS1aWF9TTTUtNlFyakozaVBtY1hxdFhJRDgtSkVnSDhBYnZxbG9iNGxQVThHcWVZTU5UZUE3NEY1T0FPRXdtcG1LNXV0WDdWcFg1WmVWZVYtS24wN0Y4OV80UTZZYjd2ZlZfLUtNVEJUUmFJSW51am1MZ1d1SVBZSjMzSWs1UQ?oc=5",
+        "titulo_evento": "Ukraine Is Bringing the War With Russia to Crimea, Strike After Strike - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3F5QzFCQWtobkFnUUxSN3FUeVlwancxaDlYdHVMNXVxSzdOQUhybjdndkVrQVhxb01xcllqcU5hMlprb05fOWY2UHp0dDVuTWQwQzFtM1RDZktXRk9KemE1QUl1bVNpajZWY3VSYVVRN3gxaWtGT3gzRXE3SWJYNzlBaUxQRTJKMlU2RE4xTXFucHBh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3F5QzFCQWtobkFnUUxSN3FUeVlwancxaDlYdHVMNXVxSzdOQUhybjdndkVrQVhxb01xcllqcU5hMlprb05fOWY2UHp0dDVuTWQwQzFtM1RDZktXRk9KemE1QUl1bVNpajZWY3VSYVVRN3gxaWtGT3gzRXE3SWJYNzlBaUxQRTJKMlU2RE4xTXFucHBhSWVSUTZXenU2T2s?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/07/2026 13:41"
+        "data_noticia": "04/07/2026 07:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Begins Dayslong Funeral For Khamenei Amid Tight Security - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "04/07/2026 07:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Second World War gun recovered from river in Germany - Euronews",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVF6WElmSG04OGREa2cxMmhCQ25oVUtrZ2NRU0tRWkVpek96YTZKamotbTVmazlWeS0yeW5zZWlQdzFQdXd4MTIteG16dHBKYTRSZVJNVWpnYjE1WlpHQTFCd1lBV3BoVjNoM21fNHVvMkNNU3pOR0UydU8zSW16VVNfR2lKaUF5WE9Iai1lVHh1WGh2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVF6WElmSG04OGREa2cxMmhCQ25oVUtrZ2NRU0tRWkVpek96YTZKamotbTVmazlWeS0yeW5zZWlQdzFQdXd4MTIteG16dHBKYTRSZVJNVWpnYjE1WlpHQTFCd1lBV3BoVjNoM21fNHVvMkNNU3pOR0UydU8zSW16VVNfR2lKaUF5WE9Iai1lVHh1WGh2TG9UMUo4dW5jMHM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 09:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "WATCH: Blue Angels lead US military flyover - FOX 5 New York",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MUNJVEZtNUV1UF93UU1JUy02LTU2dm9jc3FtYUVTLTNSZHl6WDFMRTIzQlByZ2poZTdUTnUySXl2UnVIN29MbkxKbjF4dy1yU2swR0Q2WUROR0Znc0HSAWNBVV95cUxPYlNqVk5QRkFsd196ZlBsbWs2ZXJFeFYxZ0NmNWhZYlBXT2Q5TVFjaXRFcFRP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MUNJVEZtNUV1UF93UU1JUy02LTU2dm9jc3FtYUVTLTNSZHl6WDFMRTIzQlByZ2poZTdUTnUySXl2UnVIN29MbkxKbjF4dy1yU2swR0Q2WUROR0Znc0HSAWNBVV95cUxPYlNqVk5QRkFsd196ZlBsbWs2ZXJFeFYxZ0NmNWhZYlBXT2Q5TVFjaXRFcFRPMEh4U18zOVM3cHlnWHBvTXN3eHpsdmQ0QWVydEJVUUlYLUhlUGpOY0VNRWlzcFE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 15:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine Is Winning Its War On Russian Oil Refineries. On The Front Line, It's A Bloody Slugfest. - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNREdsZGp4dTJ0azhUYkV4S3lncmNBYS12SkVaWlhNdzY0RzNPZWdyTTVCbUhOMDBabGVVX1hpeEt0ZmJkbnJaX0M0ZUEydGY5RFMzSW5oRC0xNnFieEFXTTNrcUZTUl9BbllIeTE0RkFpUlFyeWhLS29hOF9DUVd6Q0pyTHJXQdIBiAFBVV95cUxOdE0w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREdsZGp4dTJ0azhUYkV4S3lncmNBYS12SkVaWlhNdzY0RzNPZWdyTTVCbUhOMDBabGVVX1hpeEt0ZmJkbnJaX0M0ZUEydGY5RFMzSW5oRC0xNnFieEFXTTNrcUZTUl9BbllIeTE0RkFpUlFyeWhLS29hOF9DUVd6Q0pyTHJXQdIBiAFBVV95cUxOdE0wMHhSUnAzRGY0ajVjelNERm5JNmc2QWVuaWdfTy1CTGZtZjlXcjVQblRMUW9JbWNKc2N6bUNHYWVlSGlHVERQaF9CYWY5STZWaGt6bTE4Uml1M1Rpa0JER3g5aF9CbmRyWVhWWTNBY0M5bjQ3MW0tQ21CSjI4N182RHBZbGxp?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 08:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Mass grief at Khamenei funeral projects hardline grip on post-war Iran - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 14:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China's military promotes 2 new generals after anti-corruption purge thins ranks - WKNO FM",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1pLVmt5alYtZ1AxaEVIaXlUeVgtM1V3YUFmc0pKV1FISWF0Nmh3SDdET1ItaU1tY2xCRHBPNVpNZHV4UUg0MkF6MWVFUnRSaWdrSmh2OXAzQ3czMTU4ME52MmxjY1NLV3BiVkxJR0FKa3B6RWlPV0Y2X1U0MjE3MFZ3RHRVaFZvQkVCN25yNThkUms2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1pLVmt5alYtZ1AxaEVIaXlUeVgtM1V3YUFmc0pKV1FISWF0Nmh3SDdET1ItaU1tY2xCRHBPNVpNZHV4UUg0MkF6MWVFUnRSaWdrSmh2OXAzQ3czMTU4ME52MmxjY1NLV3BiVkxJR0FKa3B6RWlPV0Y2X1U0MjE3MFZ3RHRVaFZvQkVCN25yNThkUms2RDhFNHBlT0tNM045X1ZsYmtUYjF3RlZ1S0VNaXhzTzJucUw5b3o4ZEx3bHVqS19VWWRfek92d1RuZ2s3U1Vz?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 14:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s regime survived the war and is now savvier, ruthless and more hard-line - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOclI0Z1JvNGdQQ3RjY2MxMWd5TXFaZUNDNmI4c09GMkpiTkJicHRWUGJMd0tsQjg0MVZPRnBIT2lKaFh1ck5UY0JDZnp5MUhnZXdOYTVac0NsTGUxQ3BCRXZSVV9JUC14LU90ZWR2QlF6eUhjTVpudEJsdUc1NWhIV0xkZzhfQ0ZQbHZ5MmpfU3EwdHd5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclI0Z1JvNGdQQ3RjY2MxMWd5TXFaZUNDNmI4c09GMkpiTkJicHRWUGJMd0tsQjg0MVZPRnBIT2lKaFh1ck5UY0JDZnp5MUhnZXdOYTVac0NsTGUxQ3BCRXZSVV9JUC14LU90ZWR2QlF6eUhjTVpudEJsdUc1NWhIV0xkZzhfQ0ZQbHZ5MmpfU3EwdHd5R2FKZm9tYkFhZFA0OGRzSUx1V3VNOGg2Y3N4Y2RsYm1XVlU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran rejects UK-France Hormuz statement, warns against foreign military presence - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFF6ekN0WmhydXZ5bmFKYXZMcGZacFNkd0MtaFc0YjZSc1BROWt0aDhPaDliQTZGNno0S1pHQTFxWnA2OVJ4YU9TRVZwU0ozMUdkSzcyNkRWNkxxLW9DS3NLTnhnZGgtM1pndXQydGo5ZkdqUU9KeDZUaEkzVHVXd3l0SkllSWM5eWxNbng5WjgyRXp1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFF6ekN0WmhydXZ5bmFKYXZMcGZacFNkd0MtaFc0YjZSc1BROWt0aDhPaDliQTZGNno0S1pHQTFxWnA2OVJ4YU9TRVZwU0ozMUdkSzcyNkRWNkxxLW9DS3NLTnhnZGgtM1pndXQydGo5ZkdqUU9KeDZUaEkzVHVXd3l0SkllSWM5eWxNbng5WjgyRXp1bnVlYWNKTGxVOTBKUXg4VkVaa2VJbjBVTmRVc1Q1RW5VYmxZa2NGR1lKUzR2UQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/07/2026 09:15"
       }
     },
     {
@@ -845,8 +794,8 @@
       },
       "properties": {
         "titulo_evento": "Currency advantages, K-beauty fuel Chinese shopping trips, spending in Korea - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFk4c041alF1bjNKQzJZTnp2ZHNiQ0VQa3RwODUzWnhGSF9yRW9zR3h6TFVLSTREMkVLWHNXaWFXdlBUTnhkTjdRVi1JUW1oaE9EUFROb3RNSnF1Y1d0OEFCbUlTdFV4dDZxN3NxeGZqdTRfNUVSOUFFMVhiOERtWlVld3JXdHZaRGNfOWRxZmk2N0VB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFk4c041alF1bjNKQzJZTnp2ZHNiQ0VQa3RwODUzWnhGSF9yRW9zR3h6TFVLSTREMkVLWHNXaWFXdlBUTnhkTjdRVi1JUW1oaE9EUFROb3RNSnF1Y1d0OEFCbUlTdFV4dDZxN3NxeGZqdTRfNUVSOUFFMVhiOERtWlVld3JXdHZaRGNfOWRxZmk2N0VBZTV5SERqN09ZTWhGc3VZWEhuUTZLVUFYSW56UWt5clpvOFQxSXNlSXJyWEhOVFJ4TzZkVkJEONIBywFBVV95cUxQWDRWZTIwV25IQkxEZ1dCdDZ4aHMxUS1jb3lrNVJleHItNTQzUXFpdzRzVzZTbHg4YkVvQjJ6YUlzVFgyaHk1WTEtd1J3VXpLdWtFMzFKSFNDVE5ieG9keGpxMEpkSFhCZTRRby1NUkYtX1ZWNk9UOUxHVWxwa0pReUNXa2EySkYzSnN6Z2ZDUzczLWtCdkxfcEdCWXo4U2FwUUxpYTJ4VkltZjdIN0w3Q2ZwSmc4LTZVckRVVG5KN0dHSkJlQ00zU0xaQQ?oc=5",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDRWZTIwV25IQkxEZ1dCdDZ4aHMxUS1jb3lrNVJleHItNTQzUXFpdzRzVzZTbHg4YkVvQjJ6YUlzVFgyaHk1WTEtd1J3VXpLdWtFMzFKSFNDVE5ieG9keGpxMEpkSFhCZTRRby1NUkYtX1ZWNk9UOUxHVWxwa0pReUNXa2EySkYzSnN6Z2ZDUzczLWtC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDRWZTIwV25IQkxEZ1dCdDZ4aHMxUS1jb3lrNVJleHItNTQzUXFpdzRzVzZTbHg4YkVvQjJ6YUlzVFgyaHk1WTEtd1J3VXpLdWtFMzFKSFNDVE5ieG9keGpxMEpkSFhCZTRRby1NUkYtX1ZWNk9UOUxHVWxwa0pReUNXa2EySkYzSnN6Z2ZDUzczLWtCdkxfcEdCWXo4U2FwUUxpYTJ4VkltZjdIN0w3Q2ZwSmc4LTZVckRVVG5KN0dHSkJlQ00zU0xaQdIBywFBVV95cUxQWDRWZTIwV25IQkxEZ1dCdDZ4aHMxUS1jb3lrNVJleHItNTQzUXFpdzRzVzZTbHg4YkVvQjJ6YUlzVFgyaHk1WTEtd1J3VXpLdWtFMzFKSFNDVE5ieG9keGpxMEpkSFhCZTRRby1NUkYtX1ZWNk9UOUxHVWxwa0pReUNXa2EySkYzSnN6Z2ZDUzczLWtCdkxfcEdCWXo4U2FwUUxpYTJ4VkltZjdIN0w3Q2ZwSmc4LTZVckRVVG5KN0dHSkJlQ00zU0xaQQ?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "04/07/2026 08:00"
       }
@@ -866,40 +815,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lR1V1TG4yYnJicGV2NFhLVDFFNnFFSTZzTmhlQmpienFic2x3bk1jQ3BYbDh1aThzbGd5emJqZU02MVFrdDVmZnNsY1JLd2VpVzB3OXEyeGNnUmtRN09zRDdHeGE2d3pVMzJZQTF3?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "04/07/2026 12:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s expanding market is creating new opportunities for the world - Capitalfm.co.ke",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWNramVHMjBIQ1ZIazhydUMyc004ME1aY05GTk1GaGkzRkI0S3RUTFg4U3JjcERyVkN1STdfWjJ6VmIzeldDSTRaYXQxUnlrWFluY2N1MWdKcVQxN21aSzluclRmdEJudWZXM3o1OU15YUo0RWNGQUFKZG55VElUeEdsOHpZbjFaaFQ2ekFUUWZjUFJa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWNramVHMjBIQ1ZIazhydUMyc004ME1aY05GTk1GaGkzRkI0S3RUTFg4U3JjcERyVkN1STdfWjJ6VmIzeldDSTRaYXQxUnlrWFluY2N1MWdKcVQxN21aSzluclRmdEJudWZXM3o1OU15YUo0RWNGQUFKZG55VElUeEdsOHpZbjFaaFQ2ekFUUWZjUFJab05QSQ?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "04/07/2026 01:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Kongsberg and Ukraine’s DevDroid to cooperate on remotely operated robotic combat systems for Ukraine and international markets - Defence Industry Europe",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdkVnbHV1THRIOWlhNTlmNjZZRUN1UjR3YzhzMkNNQmVKNEl3LWRsZ2kwZkxER0h4X2h2VjJLYVJnSVA3UE12Zkcxbk1vbHJFNERKbnJNcTVpdEFyOVZkTW1UVl92Nk5rSE9XM1lSejRLZ2R3WlhWUC0wejZLalNvY2hqTHNGYTc5VFU1eFJxMExldUgy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdkVnbHV1THRIOWlhNTlmNjZZRUN1UjR3YzhzMkNNQmVKNEl3LWRsZ2kwZkxER0h4X2h2VjJLYVJnSVA3UE12Zkcxbk1vbHJFNERKbnJNcTVpdEFyOVZkTW1UVl92Nk5rSE9XM1lSejRLZ2R3WlhWUC0wejZLalNvY2hqTHNGYTc5VFU1eFJxMExldUgycGNyV2hZTkJyVDFCUHRWU1FqaGNmSW5mdDV2bER5WFFNSXVlcHpTTG5qQndxM1pzbHU0S0pyaGl0dnN4eVpDN3N5ckdybktEWkJISzlRdEVLVG1Ka0tJ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/07/2026 12:12"
       }
     }
   ]
