@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Volunteers vow to keep searching for Venezuela earthquake survivors",
+        "descricao": "Rescue teams in Venezuela’s La Guaira State say they’re never going to give up their search for earthquake survivors.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/5/volunteers-vow-to-keep-searching-for-venezuela-earthquake-survivors?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "05/07/2026 20:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match",
+        "descricao": "Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension.",
+        "url_fonte": "https://www.aljazeera.com/sports/2026/7/5/trump-thanks-fifa-as-it-suspends-baloguns-ban-for-belgium-world-cup-match?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "05/07/2026 18:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           38.1157,
           20.2802
         ]
@@ -74,16 +108,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -95.7129,
+          37.0902
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "descricao": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "Trump thanks Fifa for spending USA striker's ban",
+        "descricao": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa. ",
+        "url_fonte": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "04/07/2026 18:41"
+        "data_noticia": "05/07/2026 19:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1157,
+          20.2802
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Cargo ship reports being attacked in the Red Sea, maritime agency says",
+        "descricao": "\"Vessels are advised to transit with caution and report any suspicious activity to UKMTO,\" the agency said.",
+        "url_fonte": "http://www.euronews.com/2026/07/05/cargo-ship-attacked-in-the-red-sea-maritime-agency-says",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "05/07/2026 11:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump warns of communist threat as Washington parade cancelled due to heatwave",
+        "descricao": "\"Communism is a mortal threat to American liberty,\" Trump said during a speech on Friday. \"It is the greatest threat to our country\".",
+        "url_fonte": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "04/07/2026 12:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelensky warns of new Russian attacks as battle for Kostyantynivka continues",
+        "descricao": "\nUkrainian President Volodymyr Zelensky said on Sunday that fighting was continuing for the eastern town of Kostyantynivka, rejecting Moscow's claim that Russian forces had captured the strategic settlement. Zelensky also warned Russia was preparing ...",
+        "url_fonte": "https://www.france24.com/en/europe/20260705-zelensky-warns-of-new-russian-attacks-as-battle-for-kostyantynivka-continues",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/07/2026 20:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brazil vs Norway live: Nyland saves VAR-awarded Guimaraes penalty",
+        "descricao": "\nTwo of the World Cup’s most dreaded strikers face off on Sunday as five-time champions Brazil take on tournament dark horses Norway at the New York New Jersey Stadium for a place in the quarter-finals. The injured Lucas Paqueta is replaced by Gabrie...",
+        "url_fonte": "https://www.france24.com/en/sport/20260705-brazil-vs-norway-live-vinicius-jr-haaland-go-head-to-head-in-world-cup-last-16",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/07/2026 18:57"
       }
     },
     {
@@ -431,23 +533,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
-        "descricao": "International rescue teams have begun closing up operations as deaths in Venezuela double quakes approach 3,000. Families are still looking for signs of their missing loved ones.",
-        "url_fonte": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "05/07/2026 03:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -601,6 +686,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump blends history, military, politics: 7 takeaways from the 250th - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFJ3dnROWjc1R1pucm9Kd3NnQm9GLXh3VHBMOVhsSGFhaGl0LS1LamxlazNETGZoT3BZS0dKQTl4dmFLUW16bzNXaElWLWFiSnVvb0dMUW1oemNsNFlHbUFHNDQ5Smg0S0JSeUR6dk83MjExeTVyQXNkWXQtdkVvT3Z0YmN5aGxTSWhSaFRVU1M4OXZP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFJ3dnROWjc1R1pucm9Kd3NnQm9GLXh3VHBMOVhsSGFhaGl0LS1LamxlazNETGZoT3BZS0dKQTl4dmFLUW16bzNXaElWLWFiSnVvb0dMUW1oemNsNFlHbUFHNDQ5Smg0S0JSeUR6dk83MjExeTVyQXNkWXQtdkVvT3Z0YmN5aGxTSWhSaFRVU1M4OXZPM3g2Qm5aUDI?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/07/2026 19:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -618,6 +720,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Egypt’s President el-Sisi inaugurates massive new military headquarters - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU9FSl9SNzByVFdrZ2ZVRk51X25QeDIzSFF4R3BTb2gtNk1HWmZMcGFJUWl4RThOYl9LT01UU2Qtd0lNbnN1SXBIVTRwTnFobVp2LXowWFh1bEY2SnU4VUlmZzV3SURMZkVIOFdSNVpmVl9fNG4yV3NXN2duaUZSRnNrMUFRWlZKem1ZOWtiVVhXTkYx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU9FSl9SNzByVFdrZ2ZVRk51X25QeDIzSFF4R3BTb2gtNk1HWmZMcGFJUWl4RThOYl9LT01UU2Qtd0lNbnN1SXBIVTRwTnFobVp2LXowWFh1bEY2SnU4VUlmZzV3SURMZkVIOFdSNVpmVl9fNG4yV3NXN2duaUZSRnNrMUFRWlZKem1ZOWtiVVhXTkYxWlQwVDE5bjV5NDZwNTI1d2tnUmxQZkVwLW1oSWRFRXZpaVdNUFNubWs4NzJXczDSAcMBQVVfeXFMTzFnRGlEaG5YQVF0ZjhDNVdCLWw2UlV0bjVyRFRpaFl3VnpOVFNwUDhMUjQ3aG9ER283S0pVeWk4ODczLUpZNHBYVUYybVVLWGZVOFo5STFKYm90Mm9ZSEdqNUp1S0h0Qkxpdjk1dnBoanJzMlI5dVVJaUVMclZYOW4yckR1OXk0MVRieEhZTGZFM0xZaFl5dTFpQTF0bTNBQjhxeUVKNXJITmhvcmhfRktCTnhiXy15YzhOdHB6NDVYdlN3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/07/2026 18:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel Military Chief Visits Beaufort Castle, Warns of Continued Operations Against Hezbollah - Kurdistan24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXVLbk5MUUpmaGFLckpFeHFUa1B4Z1JqcUw2YUpDMlV2Q3ZUM3lKcVBBejV3U0g4ckl2NmdhMUczbDJKVGRhcWNnNmdYZk05ZFNFQmdob2VKdTl1Vzl4ODVyRVJuSGdDQUxxcFZIVG8yZk93QnN2UzJWTkU0V3M2b1BGOHMxenFhdXhzaDhVVHEwZTdC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXVLbk5MUUpmaGFLckpFeHFUa1B4Z1JqcUw2YUpDMlV2Q3ZUM3lKcVBBejV3U0g4ckl2NmdhMUczbDJKVGRhcWNnNmdYZk05ZFNFQmdob2VKdTl1Vzl4ODVyRVJuSGdDQUxxcFZIVG8yZk93QnN2UzJWTkU0V3M2b1BGOHMxenFhdXhzaDhVVHEwZTdCNzVWOC1FR29zczZHcVRQbWNGVlhPSXpTbEgtRWNicllMUXJhaWlmdi1tZWhRTDEwQ1BLVU04eEVmbDBlWkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/07/2026 18:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -628,6 +764,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVJOZDU4Vk91cTh1NHRuQWswdk5hQU9vWjROM2xlTGYyZHNCYkVSbkEwaGdtcnZtMVZMLUx6S1JCR2pzbWctU2JmZTRxbG1OM0NkUnBSV3BybzlVV3gyZ0EzUTd0WXA3bHpaWUJ6OWdsUGdWbFVGVnVoajlLeVo4dA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "05/07/2026 14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3U5VGZ2R1ZROGFwTHBlV2R6bTRUQXRMdjJkNFk0T0JRNWtMNkZjVkNwQ2Q1LTVxVHVpYkQwMVVtMGdsQWVMVnNoSWR6YjBudHNONUZOMU5EY0huOEttaURtRXpQeGgtTVZLdWtFTlpqcGdxMWo5a0VqcVpraUM2Q2FLYmw4aFlLOFVDdlhqeDY0eXNH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3U5VGZ2R1ZROGFwTHBlV2R6bTRUQXRMdjJkNFk0T0JRNWtMNkZjVkNwQ2Q1LTVxVHVpYkQwMVVtMGdsQWVMVnNoSWR6YjBudHNONUZOMU5EY0huOEttaURtRXpQeGgtTVZLdWtFTlpqcGdxMWo5a0VqcVpraUM2Q2FLYmw4aFlLOFVDdlhqeDY0eXNHQ2lQU2Q3eUhyRElITUVvZzN4QzA4ekd5NXV6TDE0LVDSAboBQVVfeXFMTkExTkczTTFGUE9rYWhGUjZjTDlncXhzNXE1N2lQS0xEbnZyZXBaNnpESzRfNGRQUXBOZUpLUjBFUVE0V2tSb2tDbDRNUlE3STdubFR0cElCU1hub3BvMl9iMlZFMFZkdktjR3NnajZfOU00VnVDUVhUek1YdHRmRVZpTkJtYXVid3lxdVpyWVZBdVRvRERrRmNtNmhsdHdKT2lBcWlMSm80WTZVWWxQb3dmVzFWNjE0d3BB?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "05/07/2026 19:09"
       }
     },
     {
@@ -686,50 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine setting new military standards for NATO – Turkish defense expert - Ukrinform - Ukrainian National News Agency",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2Q3YVVIaXdTbUdzdm1vRVZic04xaERWQ2ZQVkpEY3hKNW9ENnBNU0NqbExFNDdsb1B0LWV2NGpHWHUtWFJ0OTJJUFl1dXpESUtaUFp6Nm03V0NIYkpOaE9icDZIdk9yaWNVenM5UlhmU2VEN3AybUVvUkJ4WW1IaGhNZmlBQzBOZ1hyVWIxTXRyZkRJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2Q3YVVIaXdTbUdzdm1vRVZic04xaERWQ2ZQVkpEY3hKNW9ENnBNU0NqbExFNDdsb1B0LWV2NGpHWHUtWFJ0OTJJUFl1dXpESUtaUFp6Nm03V0NIYkpOaE9icDZIdk9yaWNVenM5UlhmU2VEN3AybUVvUkJ4WW1IaGhNZmlBQzBOZ1hyVWIxTXRyZkRJTTJXLW53YVlBT21lX3pTaGNnd2k5Q0dwWXVBWElIel9GUjFBVHhxd3c3cjBqQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 15:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Egypt’s President el-Sisi inaugurates massive new military headquarters - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU9FSl9SNzByVFdrZ2ZVRk51X25QeDIzSFF4R3BTb2gtNk1HWmZMcGFJUWl4RThOYl9LT01UU2Qtd0lNbnN1SXBIVTRwTnFobVp2LXowWFh1bEY2SnU4VUlmZzV3SURMZkVIOFdSNVpmVl9fNG4yV3NXN2duaUZSRnNrMUFRWlZKem1ZOWtiVVhXTkYx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQU9FSl9SNzByVFdrZ2ZVRk51X25QeDIzSFF4R3BTb2gtNk1HWmZMcGFJUWl4RThOYl9LT01UU2Qtd0lNbnN1SXBIVTRwTnFobVp2LXowWFh1bEY2SnU4VUlmZzV3SURMZkVIOFdSNVpmVl9fNG4yV3NXN2duaUZSRnNrMUFRWlZKem1ZOWtiVVhXTkYxWlQwVDE5bjV5NDZwNTI1d2tnUmxQZkVwLW1oSWRFRXZpaVdNUFNubWs4NzJXczDSAcMBQVVfeXFMTzFnRGlEaG5YQVF0ZjhDNVdCLWw2UlV0bjVyRFRpaFl3VnpOVFNwUDhMUjQ3aG9ER283S0pVeWk4ODczLUpZNHBYVUYybVVLWGZVOFo5STFKYm90Mm9ZSEdqNUp1S0h0Qkxpdjk1dnBoanJzMlI5dVVJaUVMclZYOW4yckR1OXk0MVRieEhZTGZFM0xZaFl5dTFpQTF0bTNBQjhxeUVKNXJITmhvcmhfRktCTnhiXy15YzhOdHB6NDVYdlN3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 18:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.8243,
-          39.0742
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Could Greece’s Air Force Stand Up to Turkey’s in a War? Here’s What to Know - The National Interest",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1VUWVkOTdqVWdMSjRndlppVkVQNFg0N0dRQURYcEI3TVpfQlJ1MjF3WXB5VUdfWFJiY2l0NlROVkZyUWlYbmhnZHpfMWotMzROcnRPRmdTWkk1X3ctRFVJWjBnT1Z4MDNtTEt5Tk44X2ozSUt1di1mc084OU9mYnFvald6azkyd1lYY1ROVUhDUGhB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1VUWVkOTdqVWdMSjRndlppVkVQNFg0N0dRQURYcEI3TVpfQlJ1MjF3WXB5VUdfWFJiY2l0NlROVkZyUWlYbmhnZHpfMWotMzROcnRPRmdTWkk1X3ctRFVJWjBnT1Z4MDNtTEt5Tk44X2ozSUt1di1mc084OU9mYnFvald6azkyd1lYY1ROVUhDUGhBYUEzMUN4cU1VcXhOQ2g0VUNqaUtGbGRJemRQbEFzbTBodml2V0E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 16:03"
+        "titulo_evento": "WINNERS & LOSERS: Iran War Splits Global Markets Into Clear Winners and Losers - EnergyNow.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWF9iTXpyYlBtRzZkSUFJY1BDckNjMG45UFYyZVJDTzNkbkcta2lWTTFzR0J3NDBnbXBPM0NzNFBTb0JlWVFfd2hrRGZxeU5FOW9yS29OTnd0RVlDSjRSMVNCckIzNjdFVlRWU2s1Y3pQRnljMXNrU3dJWjE2Qk94RDdTZWpMOWR3NWtmNC1IaEZBaEhk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWF9iTXpyYlBtRzZkSUFJY1BDckNjMG45UFYyZVJDTzNkbkcta2lWTTFzR0J3NDBnbXBPM0NzNFBTb0JlWVFfd2hrRGZxeU5FOW9yS29OTnd0RVlDSjRSMVNCckIzNjdFVlRWU2s1Y3pQRnljMXNrU3dJWjE2Qk94RDdTZWpMOWR3NWtmNC1IaEZBaEhkeHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "05/07/2026 10:59"
       }
     }
   ]
