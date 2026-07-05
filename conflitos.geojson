@@ -57,16 +57,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.5528,
-          23.6345
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "This immigrant served in the US military. Now he faces deportation",
-        "descricao": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
-        "url_fonte": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "05/07/2026 00:49"
+        "titulo_evento": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "descricao": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/07/2026 12:29"
       }
     },
     {
@@ -101,40 +101,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "04/07/2026 18:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.0152,
-          -9.19
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-        "descricao": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "04/07/2026 07:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-        "descricao": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "03/07/2026 21:00"
       }
     },
     {
@@ -203,6 +169,40 @@
         "url_fonte": "http://www.euronews.com/2026/07/03/iran-fm-confirms-reports-israel-planned-to-target-tehrans-negotiators",
         "categoria": "Defesa/Conflito (Euronews (Europa))",
         "data_noticia": "03/07/2026 17:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran's new Supreme Leader Mojtaba Khamenei absent from mass funeral for father",
+        "descricao": "\nAyatollah Ali Khamenei’s son and successor was not among the family members and thousands of mourners who turned out Sunday for a second day of ceremonies to honour Iran’s late supreme leader. Mojtaba Khamenei has remained out of the public eye sinc...",
+        "url_fonte": "https://www.france24.com/en/asia-pacific/20260705-iran-new-supreme-leader-mojtaba-khamenei-absent-from-mass-funeral-for-father",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/07/2026 14:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran needs to 'normalise relations with the US somehow' to save economy, expert says",
+        "descricao": "\nIranian leaders joined prayers Sunday over the casket of late supreme leader Ali Khamenei during a second day of funeral ceremonies. Arash Azizi, contribuing writer at the Atlantic, said Iran needs to \"normalise relations with the US somehow\" as he ...",
+        "url_fonte": "https://www.france24.com/en/iran-needs-to-normalise-relations-with-the-us-somehow-to-save-economy-expert-says",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "05/07/2026 13:11"
       }
     },
     {
@@ -363,16 +363,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.5897,
-          6.4238
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Venezuela quake death toll rises to nearly 3,000 as tens of thousands still reported missing",
-        "descricao": "\nFatalities from Venezuela's devastating twin earthquakes jumped to nearly 3,000 people, official updated figures showed on Saturday, as international rescue teams began winding down search operations for survivors. Tens of thousands more are still r...",
-        "url_fonte": "https://www.france24.com/en/americas/20260704-venezuela-quake-death-toll-rises-to-nearly-3-000-as-tens-of-thousands-still-reported-missing",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/07/2026 20:19"
+        "titulo_evento": "Cargo ship reportedly attacked in Red Sea off Yemen",
+        "descricao": "The UK Maritime Trade Office said a vessel was attacked 30 nautical miles southwest of Hodeida, which is under control of the Houthi rebels. The Iran-backed group recently vowed to resume attacks in the Red Sea.",
+        "url_fonte": "https://www.dw.com/en/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/a-77838529?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "05/07/2026 14:06"
       }
     },
     {
@@ -550,6 +550,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘The risk is Russia becomes desperate’: the Swedish Baltic Sea island preparing for invasion - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOam9oeVFPUjFuYVBaQl90Yl8yRTk0bUNCemN4QmJhSml5SFZkbm1YOFd6SkNLQmZWNGlUOFlHZi1GUEw5LWFCODJuRlBVSmtwRFVWSWRIRDNUS0lWMFV1dTh4U2ZMcmVTV3UzVGFnZXpZT24tSjNmazJJaUQ1dnIxNVZhREhpUThtTFpnV18yb1lMMHpF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOam9oeVFPUjFuYVBaQl90Yl8yRTk0bUNCemN4QmJhSml5SFZkbm1YOFd6SkNLQmZWNGlUOFlHZi1GUEw5LWFCODJuRlBVSmtwRFVWSWRIRDNUS0lWMFV1dTh4U2ZMcmVTV3UzVGFnZXpZT24tSjNmazJJaUQ1dnIxNVZhREhpUThtTFpnV18yb1lMMHpFcWRwTVkxcVpKcy1Vc0ZWVQ?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "05/07/2026 13:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           47.5868,
           15.5527
         ]
@@ -584,6 +601,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Compared Chicago Shootings to Iran War. Here’s What the Data Shows - Newsweek",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkhvYy1SVkpNQ2FBb3NsSklQX0haVkdOYk1UZEh5LVlxVEMtdzdkajZaV2NFUHMtVmZGUkhHUk1BTlN0bG1EWnM4X0RJcGoxUzBoemlSeENqbnlpeXdhMGhjM2VQaWN5SS1MN1EtRDFiZlE4WW9xeG12d2RHTm4zLVRuQ3JNdDNzbElnMkFBcmZsb3RQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkhvYy1SVkpNQ2FBb3NsSklQX0haVkdOYk1UZEh5LVlxVEMtdzdkajZaV2NFUHMtVmZGUkhHUk1BTlN0bG1EWnM4X0RJcGoxUzBoemlSeENqbnlpeXdhMGhjM2VQaWN5SS1MN1EtRDFiZlE4WW9xeG12d2RHTm4zLVRuQ3JNdDNzbElnMkFBcmZsb3RQZS1NYmpIUmRaazRTMDYxQ1BQMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/07/2026 11:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -601,33 +635,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia–North Korea Military Cooperation in Response to China’s Tactical Ambiguity - Asia Society",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORy1SVUYtTWd4eHR1U2FIRkdXS3F6NkVvZXpIaGFfc25DQUFVNG4wNkhVT1IycHowbEpzQ2NGN2xWcUI4MDFqTUxpLWFQY01JMm85VF8tdmtLSTR5N0djZUFtYy0wZ2VHNjIwQktmRjI5NHp2Ym1TMUJWVV9neFBUTlJkY0s1elJRVHZOWDJlMHRwRzFI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORy1SVUYtTWd4eHR1U2FIRkdXS3F6NkVvZXpIaGFfc25DQUFVNG4wNkhVT1IycHowbEpzQ2NGN2xWcUI4MDFqTUxpLWFQY01JMm85VF8tdmtLSTR5N0djZUFtYy0wZ2VHNjIwQktmRjI5NHp2Ym1TMUJWVV9neFBUTlJkY0s1elJRVHZOWDJlMHRwRzFITFZsSHJrTldxUmwyWE5MbTRYVGFmTWhVWGY4NWstb2tVZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 02:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine war briefing: Trump repositions himself as peacemaker in long call with Putin - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWRxcFVvMll2RktSLVRld213VHlsNEtsbzhBWlBnWmRTTThseVVwUlNrQkM2SHRrTDhvMFJIdjY3Smx5MFdwMHg2YXlsTkk5bnNvMU12UHoxdWtOX0hUQ3h1QlJoZUQ2OHBBMmEwNjgyT01WRTZ4MEFwUE1zSldyLTZmZnhGTnd6NXAtTVcwUnM1THdv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWRxcFVvMll2RktSLVRld213VHlsNEtsbzhBWlBnWmRTTThseVVwUlNrQkM2SHRrTDhvMFJIdjY3Smx5MFdwMHg2YXlsTkk5bnNvMU12UHoxdWtOX0hUQ3h1QlJoZUQ2OHBBMmEwNjgyT01WRTZ4MEFwUE1zSldyLTZmZnhGTnd6NXAtTVcwUnM1THdvck1xTE1xRWtkbGhaMlJIQjF4b2U4RlNzSERaQ0FHUmR5OS16d2o2eWJVNVZ1VWpaOEt3V0xn?oc=5",
+        "titulo_evento": "Trump holds separate calls with Putin and Zelenskyy on ending war in Ukraine - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVJOZDU4Vk91cTh1NHRuQWswdk5hQU9vWjROM2xlTGYyZHNCYkVSbkEwaGdtcnZtMVZMLUx6S1JCR2pzbWctU2JmZTRxbG1OM0NkUnBSV3BybzlVV3gyZ0EzUTd0WXA3bHpaWUJ6OWdsUGdWbFVGVnVoajlLeVo4dA?oc=5\" target=\"_blank\">Tru...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVJOZDU4Vk91cTh1NHRuQWswdk5hQU9vWjROM2xlTGYyZHNCYkVSbkEwaGdtcnZtMVZMLUx6S1JCR2pzbWctU2JmZTRxbG1OM0NkUnBSV3BybzlVV3gyZ0EzUTd0WXA3bHpaWUJ6OWdsUGdWbFVGVnVoajlLeVo4dA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 02:06"
+        "data_noticia": "05/07/2026 14:13"
       }
     },
     {
@@ -652,16 +669,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "British military says cargo ship reports being under attack in the Red Sea off the coast of Yemen - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2pCSVdYTF9aaExNRTVUTXBGa2sxWjg4V0xyYkktNWUyV0RYbTNLbGVkeUdOUU9vSEZHWUF5X1YwYjB0angzcWM0MGsySU84dUVhbFIwUEE4a0tCOHo1aGhKbzNHZG90ajBHNFJmZGh3WVlWX1l3MzdaekdiM1pObWxhU3k2bHZ4TXFSckJMOXpIVUd1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2pCSVdYTF9aaExNRTVUTXBGa2sxWjg4V0xyYkktNWUyV0RYbTNLbGVkeUdOUU9vSEZHWUF5X1YwYjB0angzcWM0MGsySU84dUVhbFIwUEE4a0tCOHo1aGhKbzNHZG90ajBHNFJmZGh3WVlWX1l3MzdaekdiM1pObWxhU3k2bHZ4TXFSckJMOXpIVUd1N3dsbk02NTh1V1NfYUYzTDZaTdIBrAFBVV95cUxONUpRd1VGOHhRdWdIcUgxdFZxVmV0aXlWSWJkZzlOdUp3ZG1JajctZzFMTTBTQjRKYk56aW95eVpfeEpKR1BYV3R6ZlMxQnM4NzVQVURXYVgtQVVDbkZycTBPWVpWWjg3QWJ0dVppTmdFZy1IVXRJNlg3bVBXa240aFg5VjQ0M0VjXzRnVy0zRl9LVWlOSnFBVUcxcTBxZk1aaTJrM21LVFlab2xT?oc=5",
+        "titulo_evento": "Israel sent IDF soldiers, Iron Dome system to Abu Dhabi during Iran war - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcTg0bzdmQVY1NEFrU0pUc1FRWnhKY2lIRUljQXVIRUFkeXdQbE1tU1NESmpNQ2VaaGN5aTZMb1ZzOG5wRnJfTWduS2xOOUtXT2lRRVpnQjhKMWk2?oc=5\" target=\"_blank\">Israel sent IDF soldiers, Iron Dome system to Abu Dha...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pcTg0bzdmQVY1NEFrU0pUc1FRWnhKY2lIRUljQXVIRUFkeXdQbE1tU1NESmpNQ2VaaGN5aTZMb1ZzOG5wRnJfTWduS2xOOUtXT2lRRVpnQjhKMWk2?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 09:34"
+        "data_noticia": "05/07/2026 06:12"
       }
     },
     {
@@ -674,79 +691,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine War, Day 1,593: Kyiv Cuts Power in Besieged Crimea - EA WorldView",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE40RU9KUFRCd0syNTROOC01VVhWWkRPMzRHc3Rsd1dHbmhyZkJGRHJYQWVsYjZ1d3hUdm1oNldhN2Y0dE1PZUc3T0lyZWNCLXB3c3ZSbnJzUk5wMWZ4QUhaSGFFTEV1MmNGdk4xQ005VGNEa0l3ZXVvSHVKTQ?oc=5\" target=\"_blank\">Ukraine War...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40RU9KUFRCd0syNTROOC01VVhWWkRPMzRHc3Rsd1dHbmhyZkJGRHJYQWVsYjZ1d3hUdm1oNldhN2Y0dE1PZUc3T0lyZWNCLXB3c3ZSbnJzUk5wMWZ4QUhaSGFFTEV1MmNGdk4xQ005VGNEa0l3ZXVvSHVKTQ?oc=5",
+        "titulo_evento": "War in Ukraine shows rapid military adaptation matters more than army size — Turkish expert - Ukrinform - Ukrainian National News Agency",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0FuaGI0cnVSdWJIcUtoUmRQMDFjRnRHV1lvam9XNEtxa0VZWjgzcFNPV3FXb3FSOUxIc1Vyc3NvU2pGODFaaFJuR1U0QlpUVEI3RGZ2UTRMWnFyN0FlbVFzeDBOZDh6X20tV0t4VklSX1NtSUFaOWc0dmhMZC12UnYxQS1QdXVzcEtBRFVHWm5BMmhR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0FuaGI0cnVSdWJIcUtoUmRQMDFjRnRHV1lvam9XNEtxa0VZWjgzcFNPV3FXb3FSOUxIc1Vyc3NvU2pGODFaaFJuR1U0QlpUVEI3RGZ2UTRMWnFyN0FlbVFzeDBOZDh6X20tV0t4VklSX1NtSUFaOWc0dmhMZC12UnYxQS1QdXVzcEtBRFVHWm5BMmhRM0twOUVoNXl4NHAyeXlPUEdKRllpdllscWp4eXRZUHhIQ0RPNWRTb19NR0xXY2JTN0oydmhvakl2akd3UExiLXpn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 10:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Minister confirms Israel deployed Iron Dome battery to UAE during war - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGh3aUNvSTBIRVd3LTVMX2h6Q012RnFsNHU0eHJQSG9CV3FnSFc3bWVweEtfcjZ4T2ZuellGdUE0SXJ4UlVKVjNsUnBDbnRYZ0IwMHNqV0lTUThtUzdzdHg5bHJVU2k0dk80UmtGd1AzNUNRN1VFakNBZElacmpnUTFTeWRnZWNrMkhwX2J2TjludkVI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGh3aUNvSTBIRVd3LTVMX2h6Q012RnFsNHU0eHJQSG9CV3FnSFc3bWVweEtfcjZ4T2ZuellGdUE0SXJ4UlVKVjNsUnBDbnRYZ0IwMHNqV0lTUThtUzdzdHg5bHJVU2k0dk80UmtGd1AzNUNRN1VFakNBZElacmpnUTFTeWRnZWNrMkhwX2J2TjludkVIZHRleEpSMzc4TF9QTk9NRGYxWlFTZDBtZTc0TGtMUXZ2QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 05:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Netanyahu Minister Confirms Israel Sent Iron Dome System to UAE During Iran War - Haaretz",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQa3BwbjBPLU9SUHJrWmtqeDBLSldVRmxWaTMtTjk0WnZYcFA2ZjBkTG5qek0wSEhnTHl4SHZuUXNLUnMwaTdCekNDc0ZjOHJOODdYRjM5ajc5cW56Y3lCMGY2cUxXSk9ibzFkU2FQUHhQM0s1Wnp4UUI2UGpuTFEzWm9tckVqTzN2LWJqV0NJUl9NU1VQ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQa3BwbjBPLU9SUHJrWmtqeDBLSldVRmxWaTMtTjk0WnZYcFA2ZjBkTG5qek0wSEhnTHl4SHZuUXNLUnMwaTdCekNDc0ZjOHJOODdYRjM5ajc5cW56Y3lCMGY2cUxXSk9ibzFkU2FQUHhQM0s1Wnp4UUI2UGpuTFEzWm9tckVqTzN2LWJqV0NJUl9NU1VQd1BXV1ltR21od09RMTgzZktBbjBiYkVHNjNaazhJdEozMlAtTE5xUUhuSW16UF9rdlN6aE4zMTZkWEtqQVlGMEoycFVMeW9jSmdXU1dsZ0VHYVdxTXJUbndFbGNHTlQwbTlMWHVDZ3JUdjZESlhXNFAtSEdtNkp0d2owOXNodEJTby10MVplR01Bcno4SlJYUVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 11:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "After 1,000 Days of War, Israel's North Is Running Out of Resilience - Haaretz",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQTVZV2ZLcDJidmRjN1BIakdPWlZWUGlONlRKaDZvOVMyeGRrNGpmLUk1bEVVYkpud0VtbHZLUkZFRWxiQ19qLWcyWk9YSnRsbkVFR01ualZxaVpEUEpOUTFnbnQwQlVuREh2T3czOXAtRFQtZUotWFdDU08tU0hiZXdObzNkVGZjYjFVQlByNkY1VkdF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQTVZV2ZLcDJidmRjN1BIakdPWlZWUGlONlRKaDZvOVMyeGRrNGpmLUk1bEVVYkpud0VtbHZLUkZFRWxiQ19qLWcyWk9YSnRsbkVFR01ualZxaVpEUEpOUTFnbnQwQlVuREh2T3czOXAtRFQtZUotWFdDU08tU0hiZXdObzNkVGZjYjFVQlByNkY1VkdFcmg3SFlzR0UtR0NrTmE5QUljZ3Ywem92el9GWV9vaWJwdjZ4Wm1TWExCUHdsV0Z1SFVrcElIMktQUDlIRWJQWFVDY0pTelNvQUpiVHdFWVlWTnhiRlRxQ2RqaGUtajlHWFhtcHFfYmJzSG8?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 12:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A 9-hour procession of military aircraft for America’s 250th takes off in D.C. - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2wwcUtVSk1ZM0xTY0NzZS1qU2ZBalVzemw1NVJTMlI5b282bHc4SEFyYm5wdnBacHdUZ0hiYkxYN0RWaElCSTNPU2E0RUZkVk1MUUNVZTE1WkcxY3VNWEtTc05FYjczUGFCb0pYWGhLX1hadTRoTmVadzFrdWVTWDFVWUpyXzdGMUxBY0d4R3k1X1NU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2wwcUtVSk1ZM0xTY0NzZS1qU2ZBalVzemw1NVJTMlI5b282bHc4SEFyYm5wdnBacHdUZ0hiYkxYN0RWaElCSTNPU2E0RUZkVk1MUUNVZTE1WkcxY3VNWEtTc05FYjczUGFCb0pYWGhLX1hadTRoTmVadzFrdWVTWDFVWUpyXzdGMUxBY0d4R3k1X1NUclM0OHJoTGRyVEFXT0F4THF6MGRCWjI1ampaZlZDTWNZdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/07/2026 04:12"
+        "data_noticia": "05/07/2026 12:59"
       }
     }
   ]
