@@ -108,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukrainian attacks cause chaos at fuel stations across Russia",
+        "descricao": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/07/2026 20:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Can the agreement between Iran and the US be rescued?",
+        "descricao": "Latest attacks jeopardise ceasefire and memorandum of understanding.",
+        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/07/2026 19:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -130,8 +164,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-        "descricao": "Ukrainian official says Russia&#039;s attack on Kramatorsk kills four, including a teenager, and injures nine.",
+        "titulo_evento": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
+        "descricao": "Ukrainian officials say Russia&#039;s attack on Kramatorsk kills four, while a strike on Zaporizhzhia kills one.",
         "url_fonte": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "10/07/2026 17:21"
@@ -165,7 +199,7 @@
       },
       "properties": {
         "titulo_evento": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-        "descricao": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war. ",
+        "descricao": "Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.",
         "url_fonte": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "10/07/2026 16:30"
@@ -186,40 +220,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "10/07/2026 15:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-        "descricao": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/07/2026 14:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-        "descricao": "Likely incoming UK PM hints at policy shifts towards Israel&#039;s genocidal war on Gaza. But analysts are wary.",
-        "url_fonte": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/07/2026 13:38"
       }
     },
     {
@@ -334,11 +334,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "World Cup: Morocco fans dream of revenge as France quarter-final looms",
-        "descricao": "Morocco fans gathered outside the French team's hotel in Boston ahead of the World Cup quarter-final, convinced their team can finally overcome France and continue its historic run.",
-        "url_fonte": "http://www.euronews.com/2026/07/09/world-cup-morocco-fans-dream-of-revenge-as-france-quarter-final-looms",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "09/07/2026 11:30"
+        "titulo_evento": "European Parliament calls for terrorist listing of Rapid Support Forces in Sudan",
+        "descricao": "\nFirst, the European Parliament calls on EU member states to officially designate the  Rapid Support Forces in Sudan a terrorist organisation. Then, Kenya's Rastafarian community waits with bated breath as the country's high court gears up to deliver...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/eye-on-africa/20260710-european-parliament-calls-for-terrorist-listing-of-rapid-support-forces-in-sudan",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/07/2026 20:16"
       }
     },
     {
@@ -356,6 +356,23 @@
         "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "10/07/2026 19:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Spain-Belgium live: Red Devils stun La Roja with De Ketelaere's equaliser",
+        "descricao": "\nSpain and Belgium clash in a tasteful quarter-final encounter on Friday, with both European nations seeking to reach the World Cup semi-finals in a 1986 rematch. The Roja and the Red Devils bring contrasting styles and experiences to this knockout t...",
+        "url_fonte": "https://www.france24.com/en/sport/20260710-spain-belgium-live-roja-s-perfect-defence-meets-red-devils-resilience-in-quarter-final",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/07/2026 16:48"
       }
     },
     {
@@ -465,57 +482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Sudan: El-Obeid civilians trapped under RSF siege",
-        "descricao": "\nThe UN has raised the alarm over a worsening humanitarian crisis in El-Obeid, a city besieged by the Rapid Support Forces (RSF) in Sudan, where many civilians are dying amid relentless attacks. FRANCE 24 correspondent Bastien Renoul spoke to residen...",
-        "url_fonte": "https://www.france24.com/en/sudan-el-obeid-civilians-trapped-under-rsf-siege",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/07/2026 12:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
-        "descricao": "\nAfter a NATO summit focused on Iran, Ukraine and ties with Donald Trump, Turkish President Recep Tayyip Erdogan surprised leaders with an unusual gift: engraved vintage revolvers with live ammunition. The unexpected presents created diplomatic and l...",
-        "url_fonte": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/07/2026 12:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Bayeux Tapestry's risky journey across the Channel",
-        "descricao": "\nNearly 1,000 years after chronicling the Norman conquest of England, the Bayeux Tapestry is making history once again. The fragile 11th-century embroidery has arrived in London on an unprecedented loan to the British Museum, prompting delight and co...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/france-in-focus/20260710-the-bayeux-tapestry-s-risky-journey-across-the-channel",
-        "categoria": "Política (France 24)",
-        "data_noticia": "10/07/2026 12:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.405,
           52.52
         ]
@@ -611,23 +577,6 @@
         "url_fonte": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "10/07/2026 06:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Bayeux Tapestry arrives in British Museum for historic exhibition",
-        "descricao": "After nearly 1,000 years, the medieval masterpiece is back on British soil. The Bayeux Tapestry was transferred from France to London in a highly secretive operation and will be on display in September.",
-        "url_fonte": "https://www.dw.com/en/bayeux-tapestry-arrives-in-british-museum-for-historic-exhibition/a-77899496?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Economia (DW (Alemanha/UE))",
-        "data_noticia": "10/07/2026 06:27"
       }
     },
     {
@@ -737,23 +686,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mortgage rates edge higher as US-Iran ceasefire falls apart: Mortgage and refinance interest rates today",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-higher-as-us-iran-ceasefire-falls-apart-mortgage-and-refinance-interest-rates-today-100000098.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -839,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Two Days of U.S. Strikes in Iran Signal a Sharp Escalation - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5\" target=\"_blank\">Two Days of...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5",
+        "titulo_evento": "Trump revels in America's military might as Iran fighting drags on - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80WHNNRW5IVDZCZHFtRTVhNXdkZklNeGlOUUZ2WEdhY1NuZHMyNVhEck1WcjZjZFlZWGd2OXV5d0FmYUdrSmRldV92bGY4LW1JUGpqUnBaaVJxRjVKMlBtRkEzaVVMQWZING5JcmxkTFdYZjNF?oc=5\" target=\"_blank\">Trump revels in Ameri...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WHNNRW5IVDZCZHFtRTVhNXdkZklNeGlOUUZ2WEdhY1NuZHMyNVhEck1WcjZjZFlZWGd2OXV5d0FmYUdrSmRldV92bGY4LW1JUGpqUnBaaVJxRjVKMlBtRkEzaVVMQWZING5JcmxkTFdYZjNF?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 15:05"
+        "data_noticia": "10/07/2026 15:49"
       }
     },
     {
@@ -856,16 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE1WaU53cDFhOTJVUUNHeHFFam5KUk04TDBEZ1RubG9vNVVhVmRPRGhPYlVFOHpHdnNUVWswNlZGMWpsd1hOdUhwMEp3X1pRYUs4MHNqeE5xMUF5c0FxU0VKajVwR2FsSEQyamhVcDhUTDdPWFRoa1NjV1VwamVWb3BCTU1WYlc4dW1zOFJmNk1ONXJj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE1WaU53cDFhOTJVUUNHeHFFam5KUk04TDBEZ1RubG9vNVVhVmRPRGhPYlVFOHpHdnNUVWswNlZGMWpsd1hOdUhwMEp3X1pRYUs4MHNqeE5xMUF5c0FxU0VKajVwR2FsSEQyamhVcDhUTDdPWFRoa1NjV1VwamVWb3BCTU1WYlc4dW1zOFJmNk1ONXJjWFl3elI1eXA3NkpwU3NqSy0zMjlyOFZJTEQw?oc=5",
+        "titulo_evento": "Patriot missile deal and Trump’s praise for Zelensky put pressure on Russia - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmZsWVA1VUVsekZ4MllzR0xlNjdxd2E3UUl6Zktja09ONktGeEt6Q3E2RU04VmdmRU8zUk9KS2d3N0JzYmM3QVZhYkp3LTJxQnJ4LUh0Ymt6UTIwaHo5OVhYbW0wSHhZSUxDSVhDWG13SmZPQW12bEZrb0JmQUVPTmRlcjMtZnBaX2ptMjRHaDFPZVNE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmZsWVA1VUVsekZ4MllzR0xlNjdxd2E3UUl6Zktja09ONktGeEt6Q3E2RU04VmdmRU8zUk9KS2d3N0JzYmM3QVZhYkp3LTJxQnJ4LUh0Ymt6UTIwaHo5OVhYbW0wSHhZSUxDSVhDWG13SmZPQW12bEZrb0JmQUVPTmRlcjMtZnBaX2ptMjRHaDFPZVNEa0w4OFdSUTR3OFpWdVg1Qm9PX0xQdDF6eUlVVndB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 17:40"
+        "data_noticia": "10/07/2026 20:49"
       }
     },
     {
@@ -895,45 +827,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHkwdlI2TnRPMkRaazlUc0x4cVhHM0xBNG56RUMxeTRtS0tSOGhFcFRfQjlnc2g5OFU0UGs0N2tyLWJYeUpCUUt0LUdBbkl5dDcxRjRpNkNCWTRVdTNVeVRUQVkxdUlRTHp0WS1hbmtMNDdsaEktNmZnZm13SjFZZllWcDBvUGp0MmtLbHVCVVBXeXFi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHkwdlI2TnRPMkRaazlUc0x4cVhHM0xBNG56RUMxeTRtS0tSOGhFcFRfQjlnc2g5OFU0UGs0N2tyLWJYeUpCUUt0LUdBbkl5dDcxRjRpNkNCWTRVdTNVeVRUQVkxdUlRTHp0WS1hbmtMNDdsaEktNmZnZm13SjFZZllWcDBvUGp0MmtLbHVCVVBXeXFibEFzRU5ycHNCMXhQcnlEV3FnbGFlWHU3dkg0X2gyRdIBuAFBVV95cUxQUjk1OHBZNkZhX3FFbnN4SGZvc1RpZy1pb1JtRW1fVFpzN05hWElBTTRudzg0OTJFM3VHc3hRMXhMUEU1SjNfbXFCTXFMbjFiMGNiUjRHOGQ2a0RQaUNlQXdfeFZsRmwtZXNDbnVCeGlDc3BIeGdoenU1ckIya1RaZnFiODUycXIyTnA3WENGSXJLVXpqYi04dVVnbjBJN0FVQmxtODg5VnVrV0JId2pxS1Q4by13RmxG?oc=5",
+        "titulo_evento": "Trump admin. to support heavy tariffs on Russian oil in effort to end Ukraine war, sources say - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE1WaU53cDFhOTJVUUNHeHFFam5KUk04TDBEZ1RubG9vNVVhVmRPRGhPYlVFOHpHdnNUVWswNlZGMWpsd1hOdUhwMEp3X1pRYUs4MHNqeE5xMUF5c0FxU0VKajVwR2FsSEQyamhVcDhUTDdPWFRoa1NjV1VwamVWb3BCTU1WYlc4dW1zOFJmNk1ONXJj...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE1WaU53cDFhOTJVUUNHeHFFam5KUk04TDBEZ1RubG9vNVVhVmRPRGhPYlVFOHpHdnNUVWswNlZGMWpsd1hOdUhwMEp3X1pRYUs4MHNqeE5xMUF5c0FxU0VKajVwR2FsSEQyamhVcDhUTDdPWFRoa1NjV1VwamVWb3BCTU1WYlc4dW1zOFJmNk1ONXJjWFl3elI1eXA3NkpwU3NqSy0zMjlyOFZJTEQw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 09:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFEYlNEcENmdkw0c3dKQVY3RUMtcjlfWDFFNnYwdEMwRmVwcGVrM0NHQld2SE05eXdSZlBqX1pHMGlVT05TRnpRUXN4NHBnQndvRVRTSzVRQ0djRlVZYkJiVDhxVHNDclJJLWc2UUJqNkpYRVdLbmR0ZDVXbjItcUtPZmxENUJKTGszdWNwZnFfOExZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFEYlNEcENmdkw0c3dKQVY3RUMtcjlfWDFFNnYwdEMwRmVwcGVrM0NHQld2SE05eXdSZlBqX1pHMGlVT05TRnpRUXN4NHBnQndvRVRTSzVRQ0djRlVZYkJiVDhxVHNDclJJLWc2UUJqNkpYRVdLbmR0ZDVXbjItcUtPZmxENUJKTGszdWNwZnFfOExZeXpaS19sa1c3aWti0gGmAUFVX3lxTE9DU2tuZkdWVG04LVRUX2JjT1pNWjlRMGxnd3A2SnlScUIya2FZbTFjV3BrY2VpRWFIeG8zRGNCdzlueDJUeV9GbGdpS3dNdE5oQl85VXFYVExLLTA4anpTaEw3bEd3eTlnNmZsWDB4ZExiMjhxcWt1bDBDWVJxRUpxc3ByaDA3elZERHlwbjE3YVNCN3pJUWs4bi1KZFF1blUzV1ljOWc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 15:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump revels in America's military might as Iran fighting drags on - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80WHNNRW5IVDZCZHFtRTVhNXdkZklNeGlOUUZ2WEdhY1NuZHMyNVhEck1WcjZjZFlZWGd2OXV5d0FmYUdrSmRldV92bGY4LW1JUGpqUnBaaVJxRjVKMlBtRkEzaVVMQWZING5JcmxkTFdYZjNF?oc=5\" target=\"_blank\">Trump revels in Ameri...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80WHNNRW5IVDZCZHFtRTVhNXdkZklNeGlOUUZ2WEdhY1NuZHMyNVhEck1WcjZjZFlZWGd2OXV5d0FmYUdrSmRldV92bGY4LW1JUGpqUnBaaVJxRjVKMlBtRkEzaVVMQWZING5JcmxkTFdYZjNF?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 12:48"
+        "data_noticia": "10/07/2026 17:40"
       }
     },
     {
@@ -946,11 +844,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Ukraine War Is in Its Fifth Year. Is Peace Possible? - KQED",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFczNlhHWkp4bFNmaGpOaEdtZVZWMDhZbWNRUVdYZGVZNUt3UnJLTWxMTkttemhxMkh1Wmw0dmFlMkRoTFl2VnNuRGhtUWZHNkxQSTFEUHBuUURWbnhlZE5GS2tJSHI5LTR0T3RkNmdtcm50QThMQ3ktd1p0OXNnS29RNkdmZGJxTzltRFNVRHJxLV8w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFczNlhHWkp4bFNmaGpOaEdtZVZWMDhZbWNRUVdYZGVZNUt3UnJLTWxMTkttemhxMkh1Wmw0dmFlMkRoTFl2VnNuRGhtUWZHNkxQSTFEUHBuUURWbnhlZE5GS2tJSHI5LTR0T3RkNmdtcm50QThMQ3ktd1p0OXNnS29RNkdmZGJxTzltRFNVRHJxLV8wVjdOQm9iOA?oc=5",
+        "titulo_evento": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHkwdlI2TnRPMkRaazlUc0x4cVhHM0xBNG56RUMxeTRtS0tSOGhFcFRfQjlnc2g5OFU0UGs0N2tyLWJYeUpCUUt0LUdBbkl5dDcxRjRpNkNCWTRVdTNVeVRUQVkxdUlRTHp0WS1hbmtMNDdsaEktNmZnZm13SjFZZllWcDBvUGp0MmtLbHVCVVBXeXFi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHkwdlI2TnRPMkRaazlUc0x4cVhHM0xBNG56RUMxeTRtS0tSOGhFcFRfQjlnc2g5OFU0UGs0N2tyLWJYeUpCUUt0LUdBbkl5dDcxRjRpNkNCWTRVdTNVeVRUQVkxdUlRTHp0WS1hbmtMNDdsaEktNmZnZm13SjFZZllWcDBvUGp0MmtLbHVCVVBXeXFibEFzRU5ycHNCMXhQcnlEV3FnbGFlWHU3dkg0X2gyRdIBuAFBVV95cUxQUjk1OHBZNkZhX3FFbnN4SGZvc1RpZy1pb1JtRW1fVFpzN05hWElBTTRudzg0OTJFM3VHc3hRMXhMUEU1SjNfbXFCTXFMbjFiMGNiUjRHOGQ2a0RQaUNlQXdfeFZsRmwtZXNDbnVCeGlDc3BIeGdoenU1ckIya1RaZnFiODUycXIyTnA3WENGSXJLVXpqYi04dVVnbjBJN0FVQmxtODg5VnVrV0JId2pxS1Q4by13RmxG?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 19:04"
+        "data_noticia": "10/07/2026 09:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Military leaders: ‘China and Russia remain the most significant long-term nuclear threats’ - KARK",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW12VHRqQUJDZTBsVlY0dmtZb0ZiMDVfZ3VNZmhPN2FMTlFYVnFIbC0zQmZKa0JLTWN2RXlmLTRpN21GOU5vbjYtT2pqRmJlZC1qVFpTV3pnS0FlT2puX1hBTnIxNjdZbUl6a0dYNHFubDVKbnJKT3VUcXU5NDN5RGZkaTJkRi1KUWNxakVuVElRaFBT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW12VHRqQUJDZTBsVlY0dmtZb0ZiMDVfZ3VNZmhPN2FMTlFYVnFIbC0zQmZKa0JLTWN2RXlmLTRpN21GOU5vbjYtT2pqRmJlZC1qVFpTV3pnS0FlT2puX1hBTnIxNjdZbUl6a0dYNHFubDVKbnJKT3VUcXU5NDN5RGZkaTJkRi1KUWNxakVuVElRaFBTSWdKRnlnX0FjeWNpRWIzNkZHQlNMTVJIT01nVTFkSTY?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/07/2026 20:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Two Days of U.S. Strikes in Iran Signal a Sharp Escalation - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5\" target=\"_blank\">Two Days of...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/07/2026 15:05"
       }
     },
     {
@@ -967,58 +899,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBhQXVobXk3T0xQaVlfSlBsa2phR1R4cXJONmdENjVCc1UxRm9vcDhLTjcyWDhIR3RfWjRNbkJlNHBTNFgxckxWNF9jby01NU9Wdk1tSUpucm9zZmc5WkJkeXVJalVLOEdSZTVnNmVVb18wd9IBd0FVX3lxTE85a0M4RGw1YmVtN2NqZW5zNm5QN2JncGJG...",
         "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQXVobXk3T0xQaVlfSlBsa2phR1R4cXJONmdENjVCc1UxRm9vcDhLTjcyWDhIR3RfWjRNbkJlNHBTNFgxckxWNF9jby01NU9Wdk1tSUpucm9zZmc5WkJkeXVJalVLOEdSZTVnNmVVb18wd9IBd0FVX3lxTE85a0M4RGw1YmVtN2NqZW5zNm5QN2JncGJGcE9VRmZTeDJLRnphZTlLUzNZU19pWGxvOWwySHYtdkxyaXdsWUZiQm54VWFGQm0xNXJybEpzX3BqeVc2OXZLa01rTUxJTWRUTEpmWXBfM0h3aTYyNXZZ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 16:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China blocks exports of helium, key for chipmaking, as Iran war squeezes supply - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2Q2dEh5VWx3d29Qck56WDZFVXFyRTdzOVpBSWVmZU9yU0x5MHNVWjNGU2JuYmptaTFMSWNybVdlYmxKSWlISzJpbGFidTZ3cnA0Q2F0bWNkZHBFNlI1ZldYV2t2NEJUbERKTlpNdG00YlBKTUFjNFpiYXdnU1h5cUwtWVhudlc0ZVVNdnlWWDdRZmZO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2Q2dEh5VWx3d29Qck56WDZFVXFyRTdzOVpBSWVmZU9yU0x5MHNVWjNGU2JuYmptaTFMSWNybVdlYmxKSWlISzJpbGFidTZ3cnA0Q2F0bWNkZHBFNlI1ZldYV2t2NEJUbERKTlpNdG00YlBKTUFjNFpiYXdnU1h5cUwtWVhudlc0ZVVNdnlWWDdRZmZOek82Mk93?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 14:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Patriot missile deal and Trump’s praise for Zelensky put pressure on Russia - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmZsWVA1VUVsekZ4MllzR0xlNjdxd2E3UUl6Zktja09ONktGeEt6Q3E2RU04VmdmRU8zUk9KS2d3N0JzYmM3QVZhYkp3LTJxQnJ4LUh0Ymt6UTIwaHo5OVhYbW0wSHhZSUxDSVhDWG13SmZPQW12bEZrb0JmQUVPTmRlcjMtZnBaX2ptMjRHaDFPZVNE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmZsWVA1VUVsekZ4MllzR0xlNjdxd2E3UUl6Zktja09ONktGeEt6Q3E2RU04VmdmRU8zUk9KS2d3N0JzYmM3QVZhYkp3LTJxQnJ4LUh0Ymt6UTIwaHo5OVhYbW0wSHhZSUxDSVhDWG13SmZPQW12bEZrb0JmQUVPTmRlcjMtZnBaX2ptMjRHaDFPZVNEa0w4OFdSUTR3OFpWdVg1Qm9PX0xQdDF6eUlVVndB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 18:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Kyiv reaches ‘political’ agreement with US on Patriot interceptor production licences - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRlNpTUhvSmx2RHo5QTlDR3UzMjQwa0hNVjEzTExKTEZhT0ZlYmNkSFVuN3oyc0J0azFLSUtfRjJNQ0dVekI4aTZ5Zl9GTGdqcXlrZ0RyNFhacU95UkFCQkxqc2JRd1pIb2p4V25RZ0ZZYm9iMS14bGlwU25lYjVDZGhvR3JjNmx3UTFMYU5WLU9EVEZN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRlNpTUhvSmx2RHo5QTlDR3UzMjQwa0hNVjEzTExKTEZhT0ZlYmNkSFVuN3oyc0J0azFLSUtfRjJNQ0dVekI4aTZ5Zl9GTGdqcXlrZ0RyNFhacU95UkFCQkxqc2JRd1pIb2p4V25RZ0ZZYm9iMS14bGlwU25lYjVDZGhvR3JjNmx3UTFMYU5WLU9EVEZNTnNrVmdiVDNKbEVDWEhhaV9mZ2gwVE9OWjE1SDRWRDdUMGpvNnJEbjBEcE1PWHJnZDFSM1U5U1FvbTBDaUZqWE1RcXRlSTM1SDlySVc4VmI?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 11:06"
+        "data_noticia": "10/07/2026 18:14"
       }
     },
     {
@@ -1070,23 +951,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVFCMUpZbUljV0JpME5vbHFwOFVHVFdla3ZMS3VpQ05OZlh4QnV1SUt3UFliYkdUS0lVclc4RS1hXzNsd2haZEVTVGNvWmEydlBWZGxYNF9aSW1mUDdsZ3MwdG1jSWFwQXRHd1lqQ29HWWhmcnl3T0ZjdmZvV3FleTZaeFlQOEQyYUZ1SGd1UHVTaUFzYjcxcFNJRHJNN0ZRZmdLRQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "10/07/2026 12:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Wall St. Sets Limits on Prediction Market Trading - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWxXd0lucFBMV0RyQ3Q5Sy11UEJZVnNneFNablBlZ0x4X290SVh1TktDZkJhMkgzeklyU0VCelBFVVdUVzBfOWJFZURORkx5SlZyUXMzcWZqa19hNFJ4dHNGMmQ4T3VKdWZYelNLRjlRZmNER2ptLWlUamNwSDN0NWpUc1RyUVU1YURHcjhJUkh2S2ly...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWxXd0lucFBMV0RyQ3Q5Sy11UEJZVnNneFNablBlZ0x4X290SVh1TktDZkJhMkgzeklyU0VCelBFVVdUVzBfOWJFZURORkx5SlZyUXMzcWZqa19hNFJ4dHNGMmQ4T3VKdWZYelNLRjlRZmNER2ptLWlUamNwSDN0NWpUc1RyUVU1YURHcjhJUkh2S2lya3E1RWUxNTQ?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "10/07/2026 11:30"
       }
     }
   ]
