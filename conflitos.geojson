@@ -113,6 +113,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Are the US and Iran at war again?",
+        "descricao": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/07/2026 04:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
         "descricao": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
@@ -176,40 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Can the agreement between Iran and the US be rescued?",
-        "descricao": "Latest attacks jeopardise ceasefire and memorandum of understanding.",
-        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/07/2026 19:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China lands reusable rocket for first time, state media says",
-        "descricao": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "10/07/2026 06:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -244,6 +227,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Spain score late winner to beat Belgium and set up clash with France",
+        "descricao": "Spain will now go on to face Didier Deschamps' France - arguably the tournament's standout performer so far - in Dallas in the semifinals on Tuesday.",
+        "url_fonte": "http://www.euronews.com/2026/07/11/spain-score-late-winner-to-beat-belgium-and-set-up-clash-with-france",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "11/07/2026 07:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Spain: Nine injured in fourth San Fermín bull run in Pamplona",
+        "descricao": "The fourth San Fermin bull run was once again a fast and dangerous dash along the cobbled streets of Pamplona.",
+        "url_fonte": "http://www.euronews.com/video/2026/07/10/spain-nine-injured-in-fourth-san-fermin-bull-run-in-pamplona",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "10/07/2026 15:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "OPCW reinstates Syria’s voting rights, citing 'significant change in circumstances'",
+        "descricao": "In 2013, Syria agreed to join the OPCW and disclose and hand over its toxic stockpile under Russian and US pressure and to avert the threat of air strikes by Washington and its allies.",
+        "url_fonte": "http://www.euronews.com/2026/07/09/opcw-reinstates-syrias-voting-rights-citing-significant-change-in-circumstances",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "09/07/2026 19:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait?",
+        "descricao": "\nUS President Donald Trump’s surprise announcement that he will approve a license for Ukraine to produce its own Patriot missile interceptors signals a potential breakthrough for Kyiv, though experts caution that it will not translate into an immedia...",
+        "url_fonte": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/07/2026 05:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live: Trump says US will 'completely decimate' Iran if it attempts to assassinate him",
+        "descricao": "\nPresident Donald Trump said Friday the United States would \"completely decimate\" Iran if it attempted or succeeded in assassinating the sitting president. \"Orders have already been given, and the US Military is ready, willing, and able, for a one ye...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260711-live-trump-threatens-iran-after-khamenei-s-funeral-saw-open-calls-for-his-killing",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/07/2026 05:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.2137,
           46.2276
         ]
@@ -261,14 +329,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Poland could cut arms aid to Ukraine as WWII spat continues",
+        "descricao": "As Poland observes a day of remembrance for the victims of a Ukrainian nationalist military unit, there are increasing signs that it could cut off its neighbor from military aid, even as the war against Russia continues.",
+        "url_fonte": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/07/2026 05:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "US wants Iranian pledge to halt Hormuz attacks — officials",
-        "descricao": "US officials said Washington wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. President Trump also threatened to \"completely decimate\" Iran if it attempted to assassinate him.",
-        "url_fonte": "https://www.dw.com/en/us-wants-iranian-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "US wants Iran to pledge to halt Hormuz attacks — officials",
+        "descricao": "US officials say Washington wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. Donald Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him.",
+        "url_fonte": "https://www.dw.com/en/us-wants-iran-to-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "11/07/2026 03:20"
       }
@@ -284,7 +369,7 @@
       },
       "properties": {
         "titulo_evento": "Cuba suffers second nationwide blackout in five days",
-        "descricao": "Cuba's electricity grid has crumbled amid a six-month US fuel blockade and already dilapidated energy infrastructure.",
+        "descricao": "Cuba's electricity grid has crumbled amid a six-month US fuel blockade and already-dilapidated energy infrastructure.",
         "url_fonte": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "10/07/2026 23:27"
@@ -363,40 +448,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Violence on trains in Germany is on the rise",
-        "descricao": "The verdict in the trial over the killing of a train conductor highlights growing aggression toward railway employees in Germany. What is causing it — and what can be done about it?",
-        "url_fonte": "https://www.dw.com/en/violence-on-trains-in-germany-is-on-the-rise/a-77892064?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "09/07/2026 14:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
-        "descricao": "Chancellor Friedrich Merz has informed the Bundestag parliament of a deal to buy US Tomahawk cruise missiles and station them in Germany. He said this closed a \"important strategic ‌gap ​in our defense.\"",
-        "url_fonte": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "09/07/2026 09:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -458,23 +509,6 @@
         "url_fonte": "https://www.politico.eu/article/volodymyr-zelenskyy-china-urged-vladimir-putin-not-use-nuclear-weapons-in-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "10/07/2026 08:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mortgage rates edge higher as US-Iran ceasefire falls apart: Mortgage and refinance interest rates today",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-higher-as-us-iran-ceasefire-falls-apart-mortgage-and-refinance-interest-rates-today-100000098.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
       }
     },
     {
@@ -550,6 +584,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5\" target=\"_blank\">Trump Says ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/07/2026 03:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -577,23 +628,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kZ3Rqa0RFOTdnQlEzT09ZYl9Fak95Vi1TWHNtc1hlMFFOSWRiQl91SzVSNlh1Z3I5QktrSUU4dkxqTmxLTGxZWnVZcUtqZkF0RzZSc3RuSDZRbjgxTlRzRUpNQUotb0s1Mmc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "10/07/2026 22:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5\" target=\"_blank\">Trump Says ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43bGE4OGdlMDhtYm1rUjlQR0RuaXZyMVg1NlhJYXFRUWZ5Y2NNdkFOYkp3dHZmcTdnaElUbXMtR1FqZ25WZ0Z2c016Rk9XNTJSMzdMYzlMc0tDSUtPZ2dudnhLNUtoSzAwVnQ1dzJCemZkcnhOWGtJYy1Dcw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/07/2026 03:48"
       }
     },
     {
@@ -635,16 +669,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Patriot missile license a 'long-term' investment for Ukraine – but can it afford the wait? - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUdGMWkxUjFwODJ1OUJGR2NvMnc3SDFYbkNYX3N1bld1cFNJSUlGV3d3TjQ4ZG5BLUxzY0Jld21jZlkwUko0V3A0b2JuOGF1R2JqYmh5VmZKN1hFUkx0bU1pZGlzNldsMEF2Tmh5Y2pFa3dYcVl4aThGVmRkMVdJZm5POERhb0JJWFVtSmpGUDJnSWdU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUdGMWkxUjFwODJ1OUJGR2NvMnc3SDFYbkNYX3N1bld1cFNJSUlGV3d3TjQ4ZG5BLUxzY0Jld21jZlkwUko0V3A0b2JuOGF1R2JqYmh5VmZKN1hFUkx0bU1pZGlzNldsMEF2Tmh5Y2pFa3dYcVl4aThGVmRkMVdJZm5POERhb0JJWFVtSmpGUDJnSWdUMHRsMmgyS2dSSmpjY0l6SWMydw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/07/2026 05:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0ZTl4Tk96SHd6b3M?oc=5",
+        "titulo_evento": "Are the US and Iran at war again? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxjTDNIenA2cFJWMVFUTUszVV83Qjk4eTlQTDlfNnN5aG5CSzZOUTVZUjVRYXJ4SEMxbW0zOXQ2RzMtQi1Pb09sbzNILTlNYnBnazlFMDVGOTNmalprSTJUQ2FXOC1ZdXFuTE4zbGp6dDNBdFFDRHl3MFVjQWFSZTljNVBUV1RzQ0400gGQAUFVX3lx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxjTDNIenA2cFJWMVFUTUszVV83Qjk4eTlQTDlfNnN5aG5CSzZOUTVZUjVRYXJ4SEMxbW0zOXQ2RzMtQi1Pb09sbzNILTlNYnBnazlFMDVGOTNmalprSTJUQ2FXOC1ZdXFuTE4zbGp6dDNBdFFDRHl3MFVjQWFSZTljNVBUV1RzQ0400gGQAUFVX3lxTE1tWHNzUU9kS2l2R29KQU4tQnlIU2tpN3NjRHBVVG9GQlFBdzVkdF9lU29SMXdlZFpSM3VuSXNwQ0pXUmQyYWZKY2FERklYdzJIRkhkU3RXdV8tMHFtcUFzM2Y5VU9DS2UzNlBXM1lMdk5GWl82cW9mcUNWNHpReW1wcENpeFVIMnNDU2RtUXE1Qw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/07/2026 22:17"
+        "data_noticia": "11/07/2026 05:12"
       }
     },
     {
@@ -679,6 +730,57 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNS1tT1FpZHlmNTlrblgyWnlEOVB4Yk5lbW9hUlVCZ1BiYTFhU2RaNFdDekpxR20zVjl5ZWVLLW9NU2xqUnZ5UjA1Y1N2V3dSOTludGhqaHNjb1NDM0hNNk9tVXdwT0JVeVRTZmpwS0Zldjd6aWxUWl96MTFiTEYzUmI1TWszRTNLVWdqRkIyTUxqdWdh0gGaAUFVX3lxTFBrRUdnNUIwbHY3Sm93M1B5cDZudUdvdEltWjRIYnpULXg3bWd2bTF1d2s0T2lOdkNmM3RZRG83d3JOSFNla3NNclhyNmV1YTBGc2REYUFsanZTbG1mNEdyNHFtYmE0QlF3d0ttd1NZemktcU04NkRYVzVQcE1nWllCTGlyRDNXREVEdVlBeTF4UnRwaFZuU2xwNVE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "10/07/2026 17:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US-Israel war on Iran - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5\" target=\"_blank\">US-Israel war on Iran</a>&nbsp;&nbsp;<f...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/07/2026 04:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US demands Iran publicly state that Strait of Hormuz is open and Tehran won't attack ships anymore - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0ZTl4Tk96SHd6b3M?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/07/2026 22:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Analysis: China's ballistic missile launch was a message for the US - San Mateo Daily Journal",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZHlyVThpeGNIRWVKRy1mb29fNl9XUWNpZVdHV3ZPaTVOamZEYkFsX1lEY2p6UTZUR2N2RmJQT25qcUg1NF8wa1B2cm5PZHU4T3JXMjl5TWVZVV9jbkJkbEM2M0NWYlBkQ3N3d09XUng4dFNsM3VQaVdnYXBBSHRITTFXVHdEUGhMMWZpem9ORGgwTkdU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZHlyVThpeGNIRWVKRy1mb29fNl9XUWNpZVdHV3ZPaTVOamZEYkFsX1lEY2p6UTZUR2N2RmJQT25qcUg1NF8wa1B2cm5PZHU4T3JXMjl5TWVZVV9jbkJkbEM2M0NWYlBkQ3N3d09XUng4dFNsM3VQaVdnYXBBSHRITTFXVHdEUGhMMWZpem9ORGgwTkdUNlJjS1BzdkdMQVJmZWNlMzZkbTQ3bUdLWWxaVHBVVDc2WWl5SVkyaFpBVnhMaUYzMVgtV1ZIUEFpb0xGb25qUHhNNGVwQTFCSFdXc3FEdjZ2M3RNck90d1dB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/07/2026 05:30"
       }
     },
     {
@@ -730,6 +832,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NY3hDT25IcTBDcFV4RkJ2amJISGFjWlh4Rkx3cVlYbGw2RjdCOTA0X1BfOEF3Qk16ekJjVXNla18wVWU0Nlp5Y01YQTZ4VEdzaW5rdk5zRTZ1Zw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "11/07/2026 00:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia’s diesel export ban deals new shock to strained energy market - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPSEdjV2Fzd2E5eDR3TXJTTDBEQW1Pb2cwc083ak1RazVQT1BtdmpVRFdTQXZHMzhwSl82VUpBc1lyakNSdjN1dGZIMEpfTVFmMjdnakJKTlA1OUt0V0N0elZmYjZNdzlFZWVYdXZqMGlTLXgzV3otZ2xSR2FFQW82Mk5nNVB5MmlwNHNHcmp3XzFmd05Z...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSEdjV2Fzd2E5eDR3TXJTTDBEQW1Pb2cwc083ak1RazVQT1BtdmpVRFdTQXZHMzhwSl82VUpBc1lyakNSdjN1dGZIMEpfTVFmMjdnakJKTlA1OUt0V0N0elZmYjZNdzlFZWVYdXZqMGlTLXgzV3otZ2xSR2FFQW82Mk5nNVB5MmlwNHNHcmp3XzFmd05ZMG9LWlZfcFdOeXp1LUM2MWRwUW1yZ3MzZHNySDRDMGpJNDIwWjAwQ09HNk5jd1VoOFFWUEdOWTNqUdIBzgFBVV95cUxPMm5waU53WXF1MkJ1QTA4dGpzeE9uUkJFb3hoQ0loRVJaSTJQODIyd0tPVTBTa0hLdUNCY1BXSVA4ZmZqdVp4eU5STDYyQ2hscGJ2RmRYTThvV3doblA0NFZLS3RuNEh1UTVBVXF5NFNiOWp2U0FDbllvV2Z4aWozWE9FbWRBbUtPRXV3M0tNd3c0NDFualg2VEw2ZkVMVU13U19mZDYwby1ac2ZnZFZGZC1jRldManBWbFZXYmVxR0NZMG9vRmZIMER5RGV3QQ?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "11/07/2026 02:31"
       }
     }
   ]
