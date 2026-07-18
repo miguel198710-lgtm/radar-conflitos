@@ -91,6 +91,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Belgium bans imports from Israeli settlements in occupied Palestine",
+        "descricao": "The move comes as EU foreign ministers remain deadlocked over a bloc-wide ban on illegal settlement trade.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "18/07/2026 16:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+        "descricao": "IMF releases £346m in emergency funds as new details emerge about the disaster response.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "18/07/2026 15:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -130,8 +164,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran accuses US of striking critical infrastructure as war intensifies",
-        "descricao": "The conflict has been escalating since US President Donald Trump declared 10 days ago the peace deal with Iran is over.",
+        "titulo_evento": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
+        "descricao": "Conflict has been escalating since US President Donald Trump declared 10 days ago that peace deal with Iran was over.",
         "url_fonte": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "18/07/2026 12:59"
@@ -193,23 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A seventh night of US strikes cuts water to villages in Iran’s south",
-        "descricao": "The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "18/07/2026 04:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -253,7 +270,7 @@
         "descricao": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "18/07/2026 11:48"
+        "data_noticia": "18/07/2026 16:26"
       }
     },
     {
@@ -346,16 +363,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukrainian drone strikes on Russian warehouses kill 7",
-        "descricao": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing seven night-shift workers. Kyiv said the facilities supplied components used to make drones and navigation equipment.",
-        "url_fonte": "https://www.dw.com/en/ukrainian-drone-strikes-on-russian-warehouses-kill-7/a-78018446?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Gulf council blasts \"war crimes\" by Iran",
+        "descricao": "\nThe United States and Iran continued exchanging strikes on Saturday as tensions over control of the Strait of Hormuz escalated. US Central Command carried out a seventh consecutive night of attacks, targeting military infrastructure and maritime cap...",
+        "url_fonte": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "18/07/2026 16:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Power, desalination plants hit in Kuwait",
+        "descricao": "\nThe United States and Iran continued exchanging strikes on Saturday as tensions over control of the Strait of Hormuz escalated. US Central Command carried out a seventh consecutive night of attacks, targeting military infrastructure and maritime cap...",
+        "url_fonte": "https://www.france24.com/en/power-desalination-plants-hit-in-kuwait",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "18/07/2026 16:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pogacar wins Tour de France 14th stage to extend overall lead",
+        "descricao": "\nSlovenia's cycling phenomenon Tadej Pogacar launched a devastating late attack Saturday to win the mountainous 14th stage of the Tour de France, extending his lead over Jonas Vingegaard. \n",
+        "url_fonte": "https://www.france24.com/en/sport/20260718-pogacar-wins-tour-de-france-14th-stage-to-extend-overall-lead",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "18/07/2026 15:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Josh Kerr smashes men’s mile world record that stood unbroken since 1999",
+        "descricao": "\nBritain's Josh Kerr clocked 3min 42.66sec in the men's mile at a high-octane Diamond League on Saturday, smashing the record set by Morocco's Hicham El Guerrouj in Rome in 1999.\n",
+        "url_fonte": "https://www.france24.com/en/sport/20260718-josh-kerr-smashes-men-s-mile-world-record-that-stood-unbroken-since-1999",
+        "categoria": "Política (France 24)",
+        "data_noticia": "18/07/2026 15:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine drones target Russian warehouses and oil sites",
+        "descricao": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing nine people and injuring over 60 more. Kyiv said its strikes targeted suppliers for Moscow's ongoing invasion of Ukraine.",
+        "url_fonte": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "18/07/2026 12:06"
+        "data_noticia": "18/07/2026 16:37"
       }
     },
     {
@@ -403,7 +488,7 @@
       },
       "properties": {
         "titulo_evento": "Iran threatens 'full-scale' offensive if US keeps bombing",
-        "descricao": "An Iranian general warned no border will be safe if the US strikes continue past the next few days. Meanwhile, the US rejected Tehran's claims that two oil tankers exploded near the Strait of Hormuz. DW has the latest.",
+        "descricao": "An Iranian general said no border would be safe if the US strikes continue past the next few days. Meanwhile, the US rejected Tehran's claims that two oil tankers exploded near the Strait of Hormuz. DW has the latest.",
         "url_fonte": "https://www.dw.com/en/iran-threatens-full-scale-offensive-if-us-keeps-bombing/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "18/07/2026 03:18"
@@ -475,23 +560,6 @@
         "url_fonte": "https://www.politico.com/news/magazine/2026/07/17/ai-safety-regulation-debate-factions-00990453?_sp_pass_consent=true&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "18/07/2026 09:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How food delivery works in Ukraine’s ‘killing zone’",
-        "descricao": "In the breadbasket of the world, people on the front lines can’t access food without the help of U.N. convoys outrunning Russian drones.",
-        "url_fonte": "https://www.politico.eu/article/ukraine-front-line-food-crisis-un-convoys-russian-drones/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "18/07/2026 02:00"
       }
     },
     {
@@ -601,6 +669,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Scoop: U.S. sending dozens of refueling planes to Israel as Iran escalation looms - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0wdWZPMDJyNmZjNk04ZXNBaGo0b3pTdHdXRmJaQ253WlNoVDNkOVFDLU5Oc1FYNXRlTF9sWExqTmwta3poTjNJaUFjMVlEbHlqdWhKNHhScXJZZE12bXpNN0R6SC1jck9UOElHckE4cjV6V0tDRnc?oc=5\" target=\"_blank\">Scoop: U.S. sendin...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wdWZPMDJyNmZjNk04ZXNBaGo0b3pTdHdXRmJaQ253WlNoVDNkOVFDLU5Oc1FYNXRlTF9sWExqTmwta3poTjNJaUFjMVlEbHlqdWhKNHhScXJZZE12bXpNN0R6SC1jck9UOElHckE4cjV6V0tDRnc?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "18/07/2026 06:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran pauses interim deal obligations amid renewed US strikes - NewsNation",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXBBUkE2OVJqTE9WQmZPWmtKRHUyYlZwaklWSmpIVWFfdzdxUFQ1cEhucDEzUVRheDA0TXRuOVVocmlFc1lpejRSa1BteWlaVXpVVGo4ZjNzejN2WXhVYk5SNzVodUtZYkhHWjRQX18tcXphdVgzN3dpMDRYdUNLMGFwSUg4TkpC0gGOAUFVX3lxTE9l...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXBBUkE2OVJqTE9WQmZPWmtKRHUyYlZwaklWSmpIVWFfdzdxUFQ1cEhucDEzUVRheDA0TXRuOVVocmlFc1lpejRSa1BteWlaVXpVVGo4ZjNzejN2WXhVYk5SNzVodUtZYkhHWjRQX18tcXphdVgzN3dpMDRYdUNLMGFwSUg4TkpC0gGOAUFVX3lxTE9lSUFHMEdoMW0wOFdKTGc0c0xXX1RjVWtrVjJmODlLbmhOVEpKWXoxeE5oa2Vhb1NMaC1yZVp5Z0VweGlNdFZSbTQ4M3VyYVRlWVdTbHQ1d3lQY3p4SVBXamotOHdRbkc0UGtQb0p5cjhPeGxfNEJteFRheEZkdXVqVlQyYThhVFo0Z2ExZXc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/07/2026 15:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -611,6 +713,57 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUZ4NFJJSU1NWWE3TlpSd0dvVzVwcVZFYW1kcEJIRVhJSDhxR052U1ctZWdjZ1BVNHlBYTFHRy1oLUFTa3VXU2czRzlUMFA5R1B4OWJ1VERrUlRuWE9IUzlhM1RMSnNKajh6eGhMSGZLMUFDSWl5ZGRkUG9Uby1iTldqdUVzcnFReGFrZC1MaWZ2QS1fRHNZT2twN25EWV9TaVIzVk9n0gGrAUFVX3lxTE1GemlvVkpUUGRsUFZLRnJiaGFaaUl4Q29qS29hcHFRbVFHLVhPTEtJbmpVUlhUZlRWZDQ5a2paTFBaS0ttbXl4Smk3aWVKZnVXRlFWaXRiX2l5UDBCSG1tdVQ1UzRzT2JWVlI3aWxnU2ZSY1FnV1p0b0hmRFBZOEdxY3M0QXNzUTczQzFJVS16RGJDRlVVZmR0dEd4SERleVIyQkQ1alhuS2ctQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "18/07/2026 09:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran claims strikes on US bases in Kuwait, Jordan, Bahrain - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oc0xoQnFzU3BKNU9TTUZPN1duc29zUWpGZXpOV3dTdkNlY1ZiakJoY1pSUm5idkpRYXo5TktyLXJXWWplX1Jtc3Z3MVlNV0RaX2puX3p4OUtUdnhGSktCTzJiMmowZzdobkE?oc=5\" target=\"_blank\">Iran claims strikes on US bases in...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oc0xoQnFzU3BKNU9TTUZPN1duc29zUWpGZXpOV3dTdkNlY1ZiakJoY1pSUm5idkpRYXo5TktyLXJXWWplX1Jtc3Z3MVlNV0RaX2puX3p4OUtUdnhGSktCTzJiMmowZzdobkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/07/2026 16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US strikes hit Iran for seventh consecutive night - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaGhLUndVdDNoZERNejRHOEQ4cUc0RS15bFo4YkV5bEtCb2NFSHB4T1NFM2FBSHFMVnNjX2I2TWNVWWlESFpoRTAxdGR6SkxMZjQybUw4djRpUQ?oc=5\" target=\"_blank\">US strikes hit Iran for seventh consecutive night</a>&n...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaGhLUndVdDNoZERNejRHOEQ4cUc0RS15bFo4YkV5bEtCb2NFSHB4T1NFM2FBSHFMVnNjX2I2TWNVWWlESFpoRTAxdGR6SkxMZjQybUw4djRpUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/07/2026 16:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What to know about Iran attacks on Gulf states after another night of US strikes - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0VYMzA3aDhxanVlcmtDTjExUHA5UjNzZUZCX1JQYTMzd2tWR0pRaTFJNWVzN0xyS3E2dHo3QVdCc0d0S19udkZoel9yWkF2V2s5ZzhmdjRudTM5ZHJjcWtxRzVGbjhZd2VNYWpFeW05eld2OGRTNTdoVC0yRW8xdFBaRGduZGxSNG1qdWx4R2tXZTBP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0VYMzA3aDhxanVlcmtDTjExUHA5UjNzZUZCX1JQYTMzd2tWR0pRaTFJNWVzN0xyS3E2dHo3QVdCc0d0S19udkZoel9yWkF2V2s5ZzhmdjRudTM5ZHJjcWtxRzVGbjhZd2VNYWpFeW05eld2OGRTNTdoVC0yRW8xdFBaRGduZGxSNG1qdWx4R2tXZTBPYlQ0dkctaHBWQzJkY1pV?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/07/2026 16:06"
       }
     },
     {
@@ -640,79 +793,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran? - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFJMQmVwMHBzV3hXbjJiRWMySzBzU3B1MTJBS0FDeTJhdm0wcVd6aEU2QXVMd01EV2pjOVF6MHN5VnR2NGRhQnZ4Z2lKRFZyWkk5SWUyMGM5NzA0bEZyYWxwZHFxSVdoSkc4QXZjWUtidGdtNDExOURGRG1pcmExN1AyeVg3bTh1d1Rz?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFJMQmVwMHBzV3hXbjJiRWMySzBzU3B1MTJBS0FDeTJhdm0wcVd6aEU2QXVMd01EV2pjOVF6MHN5VnR2NGRhQnZ4Z2lKRFZyWkk5SWUyMGM5NzA0bEZyYWxwZHFxSVdoSkc4QXZjWUtidGdtNDExOURGRG1pcmExN1AyeVg3bTh1d1Rz?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 09:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran claims strikes on US bases in Kuwait, Jordan, Bahrain - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oc0xoQnFzU3BKNU9TTUZPN1duc29zUWpGZXpOV3dTdkNlY1ZiakJoY1pSUm5idkpRYXo5TktyLXJXWWplX1Jtc3Z3MVlNV0RaX2puX3p4OUtUdnhGSktCTzJiMmowZzdobkE?oc=5\" target=\"_blank\">Iran claims strikes on US bases in...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oc0xoQnFzU3BKNU9TTUZPN1duc29zUWpGZXpOV3dTdkNlY1ZiakJoY1pSUm5idkpRYXo5TktyLXJXWWplX1Jtc3Z3MVlNV0RaX2puX3p4OUtUdnhGSktCTzJiMmowZzdobkE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 12:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US strikes hit Iran for seventh consecutive night - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaGhLUndVdDNoZERNejRHOEQ4cUc0RS15bFo4YkV5bEtCb2NFSHB4T1NFM2FBSHFMVnNjX2I2TWNVWWlESFpoRTAxdGR6SkxMZjQybUw4djRpUQ?oc=5\" target=\"_blank\">US strikes hit Iran for seventh consecutive night</a>&n...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yaGhLUndVdDNoZERNejRHOEQ4cUc0RS15bFo4YkV5bEtCb2NFSHB4T1NFM2FBSHFMVnNjX2I2TWNVWWlESFpoRTAxdGR6SkxMZjQybUw4djRpUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 11:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7129,
-          37.0902
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What to know about Iran attacks on Gulf states after another night of US strikes - USA Today",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0VYMzA3aDhxanVlcmtDTjExUHA5UjNzZUZCX1JQYTMzd2tWR0pRaTFJNWVzN0xyS3E2dHo3QVdCc0d0S19udkZoel9yWkF2V2s5ZzhmdjRudTM5ZHJjcWtxRzVGbjhZd2VNYWpFeW05eld2OGRTNTdoVC0yRW8xdFBaRGduZGxSNG1qdWx4R2tXZTBP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0VYMzA3aDhxanVlcmtDTjExUHA5UjNzZUZCX1JQYTMzd2tWR0pRaTFJNWVzN0xyS3E2dHo3QVdCc0d0S19udkZoel9yWkF2V2s5ZzhmdjRudTM5ZHJjcWtxRzVGbjhZd2VNYWpFeW05eld2OGRTNTdoVC0yRW8xdFBaRGduZGxSNG1qdWx4R2tXZTBPYlQ0dkctaHBWQzJkY1pV?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 13:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran accuses US of striking critical infrastructure as war intensifies - Al Jazeera",
+        "titulo_evento": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk10ZEFwTXRSZS12YXVYU0RhQnJ3eXJFTlVtc2FyRDlpUTdCWl9peDJpMGYzSHdGa0RPSkpQVUYxWnV6b2R4ZFowMER2N21GYkw1dl9SNzVZdjI0bTdTZWpBV2FVMzJzMFlrSTduOW1PbmhqNkFTaGJ4MmFxQVJwcnhwNUVIb21lSzM0STctdWR4MFk2...",
         "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSk10ZEFwTXRSZS12YXVYU0RhQnJ3eXJFTlVtc2FyRDlpUTdCWl9peDJpMGYzSHdGa0RPSkpQVUYxWnV6b2R4ZFowMER2N21GYkw1dl9SNzVZdjI0bTdTZWpBV2FVMzJzMFlrSTduOW1PbmhqNkFTaGJ4MmFxQVJwcnhwNUVIb21lSzM0STctdWR4MFk2M0hxam1TeTJGOThuNm1GMlhFZkYycHlLZ2JDWtIBtgFBVV95cUxPekM3c1pKVzhKMEZDNXJieE9ydE1IMU5XZHJBYXUzUFA0YVR2RnctUTdST0U2dG94RGZwakRHOUlPYjE2anFQdU10U3cxa3I3NFhPSko1bGRrRFlSc2syTGFnRDZxLUdYSkk4NE95VU1Ga2dwR2lGeUVkSUFBTXVQWldqbFl0V1Z2NVhvSl9PQnYxNC13dHJPNEl5dWpzbm1pdng3MzhHQXpmcmE4cktVX3JPNDBwUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 13:11"
+        "data_noticia": "18/07/2026 16:16"
       }
     },
     {
@@ -737,16 +822,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Then and now: Re-evaluating Israel's expanding military engagements 25 years later - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUJnWjdUVU1xTnpPNFhnRDdYQUd1TU12TDFLcUw4Z1FUczZSS1JxcENybFdNMnMzREhWSTJPZ0hBVjRDRFBXVXRuVER5XzQzU1hOZnVHWWhycElrdkpBUGtuTk9WeDlVNnl6Wm5XOFF6bEpNbERManNPRUJ6SjBDNW9ZT0ViNElrWVYwbURLUDN0U1Rv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUJnWjdUVU1xTnpPNFhnRDdYQUd1TU12TDFLcUw4Z1FUczZSS1JxcENybFdNMnMzREhWSTJPZ0hBVjRDRFBXVXRuVER5XzQzU1hOZnVHWWhycElrdkpBUGtuTk9WeDlVNnl6Wm5XOFF6bEpNbERManNPRUJ6SjBDNW9ZT0ViNElrWVYwbURLUDN0U1RvOTkwYnlCcExZaS1taXFjdE9kaWw2Yi0tSFo1OWdqLVdYVjl6T0ROejUzTTJDSUE?oc=5",
+        "titulo_evento": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran? - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFJMQmVwMHBzV3hXbjJiRWMySzBzU3B1MTJBS0FDeTJhdm0wcVd6aEU2QXVMd01EV2pjOVF6MHN5VnR2NGRhQnZ4Z2lKRFZyWkk5SWUyMGM5NzA0bEZyYWxwZHFxSVdoSkc4QXZjWUtidGdtNDExOURGRG1pcmExN1AyeVg3bTh1d1Rz?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFJMQmVwMHBzV3hXbjJiRWMySzBzU3B1MTJBS0FDeTJhdm0wcVd6aEU2QXVMd01EV2pjOVF6MHN5VnR2NGRhQnZ4Z2lKRFZyWkk5SWUyMGM5NzA0bEZyYWxwZHFxSVdoSkc4QXZjWUtidGdtNDExOURGRG1pcmExN1AyeVg3bTh1d1Rz?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 11:42"
+        "data_noticia": "18/07/2026 09:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin Just GUTTED Russia to Keep His War Alive - Kyiv Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5\" target=\"_blank\">Putin Just GUTTED Russia to Keep His War Alive</a>&nbsp;&nbsp;<font col...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/07/2026 14:37"
       }
     },
     {
@@ -759,28 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s IRGC claims attacks on US military airbase in Jordan - NewsNation",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXBBUkE2OVJqTE9WQmZPWmtKRHUyYlZwaklWSmpIVWFfdzdxUFQ1cEhucDEzUVRheDA0TXRuOVVocmlFc1lpejRSa1BteWlaVXpVVGo4ZjNzejN2WXhVYk5SNzVodUtZYkhHWjRQX18tcXphdVgzN3dpMDRYdUNLMGFwSUg4TkpC0gGOAUFVX3lxTE9l...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXBBUkE2OVJqTE9WQmZPWmtKRHUyYlZwaklWSmpIVWFfdzdxUFQ1cEhucDEzUVRheDA0TXRuOVVocmlFc1lpejRSa1BteWlaVXpVVGo4ZjNzejN2WXhVYk5SNzVodUtZYkhHWjRQX18tcXphdVgzN3dpMDRYdUNLMGFwSUg4TkpC0gGOAUFVX3lxTE9lSUFHMEdoMW0wOFdKTGc0c0xXX1RjVWtrVjJmODlLbmhOVEpKWXoxeE5oa2Vhb1NMaC1yZVp5Z0VweGlNdFZSbTQ4M3VyYVRlWVdTbHQ1d3lQY3p4SVBXamotOHdRbkc0UGtQb0p5cjhPeGxfNEJteFRheEZkdXVqVlQyYThhVFo0Z2ExZXc?oc=5",
+        "titulo_evento": "Iran attacks US allies in Middle East as renewed conflict enters second week - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcU9EZm52ekUycVNuTEhRUk84ZXdGYVlaaXN5R3lKbGdmVzBRVHlZT0o2WVhKd29DeGNpZ3Zld1dZSm1RWjBjYXZjMmxINkgyODZkMjlhQTJmNEg1d1JFZmlFLUxicXNBVFp4cFM3OUdrQk5YSDI5bTFNNjhkVE5FazVKY25fOFJpNFN1RmczOHFTV1N4d2R5OGI4MmRFWUZYNUpSbUdpRUNVY3JZYm9xcXV4QXNxaUUtM2c?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 11:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Scoop: U.S. sending dozens of refueling planes to Israel as Iran escalation looms - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0wdWZPMDJyNmZjNk04ZXNBaGo0b3pTdHdXRmJaQ253WlNoVDNkOVFDLU5Oc1FYNXRlTF9sWExqTmwta3poTjNJaUFjMVlEbHlqdWhKNHhScXJZZE12bXpNN0R6SC1jck9UOElHckE4cjV6V0tDRnc?oc=5\" target=\"_blank\">Scoop: U.S. sendin...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wdWZPMDJyNmZjNk04ZXNBaGo0b3pTdHdXRmJaQ253WlNoVDNkOVFDLU5Oc1FYNXRlTF9sWExqTmwta3poTjNJaUFjMVlEbHlqdWhKNHhScXJZZE12bXpNN0R6SC1jck9UOElHckE4cjV6V0tDRnc?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "17/07/2026 16:40"
+        "data_noticia": "18/07/2026 16:26"
       }
     },
     {
@@ -793,28 +878,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US and Iran escalate strikes across Mideast - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDdzTHpvMkVtSEIzSklZWnpnSk8wZVE4QVUzOHFBLXl2Smc0eUxaTkNQdi1KLTBtb3piRU5aeDlXcVB3eXRRazRlcXVWaHl4QTFMOUR6S0VwMjlpWGlCd1hwSGgyV3NEd3QycE1CWEZ5VEVpbFdKVEdUSE14MThPUmdoTFFJXzRQTDdBMVZaeDYxam41TWY2VnBhZjU4ME0?oc=5",
+        "titulo_evento": "Tensions escalate as Iran and U.S. continue to exchange strikes - CBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJbVhRNk9RcnJnY01EU1Q4V2RfbHlrNHlqLWVJeUg0ZnFwal9NajE5b2xlakNUbEUxUXR4Q2RLREZxTVZVN05JZ09VZnBrZnZIT2c2RV9ud3Y2R3VCblM4UXphSFppUjQ?oc=5\" target=\"_blank\">Tensions escalate as Iran and U.S. con...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJbVhRNk9RcnJnY01EU1Q4V2RfbHlrNHlqLWVJeUg0ZnFwal9NajE5b2xlakNUbEUxUXR4Q2RLREZxTVZVN05JZ09VZnBrZnZIT2c2RV9ud3Y2R3VCblM4UXphSFppUjQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 04:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US launches seventh straight night of strikes on Iran - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3F0Tk5uODljNVJMbFh5OS12WlAzeEE4VTBJRFd1NzU4UDNDVTlNUzBNNnBTaXFOODZYN1phZ2JyZ3FEVE5udkJka3ZILVFSQ3hab094dmhOUnJmdC0xUnhJWjJSaG4yZ0R6VFJTTUpKd2ZfY1dsSlRDeC04WEFpZXVad0V6SEp0QnQ3TlhtbkVSckdY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX3F0Tk5uODljNVJMbFh5OS12WlAzeEE4VTBJRFd1NzU4UDNDVTlNUzBNNnBTaXFOODZYN1phZ2JyZ3FEVE5udkJka3ZILVFSQ3hab094dmhOUnJmdC0xUnhJWjJSaG4yZ0R6VFJTTUpKd2ZfY1dsSlRDeC04WEFpZXVad0V6SEp0QnQ3TlhtbkVSckdYNmd1YzdB0gGfAUFVX3lxTFAxbFdvUUcwd3BSUWNsak5VYlN2SmxHYU5yYmlGOVUzbm0ybzlPczhobE1NMDJDSFNkdU1Da1V2VHNaZDZVajFtY0FDcDdtVF9sc05CdzEwdW1zVnc4T2o0c1EyQjdKWnN3YXNhendhdGhXX2xwYnRMUEtZamNPS1dUTVVnUWlPQ1hGWmQ3RTJ0Qm14U0ozd3J4S1ViSmN2Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 06:26"
+        "data_noticia": "18/07/2026 15:16"
       }
     },
     {
@@ -832,57 +900,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXNmWUV3RG0tVjFXRDU3c1VLR0FlZU53ZUdnNEVkX2Rybk1IUDI1c3Nsc2lmekhoMFZ6bmExU1NUbFRqX3lkRGI5UnpGcE5VYXdNSGpqLWRRZWFwSE51MTNXbUdoRU5hMENwbHl5UjIxdFNDTEtMS1N1Z3dKYUh5bmlB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "18/07/2026 13:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5\" target=\"_blank\">Iran War Updates: ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMzBFRnhWbGIwdEpFcVJVd251LTBDMXRMS01VRmNFNUVaZlo0ZzlDWjhsOUlqVVdHYk95V2JJVFlvNWxCck0tWWRyMkhLNkZ0anVzM0dnM1BsUzZMYzNROWQ3SVRWNGNxOUU4VFdwV1JQaDJpWVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 00:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin Just GUTTED Russia to Keep His War Alive - Kyiv Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5\" target=\"_blank\">Putin Just GUTTED Russia to Keep His War Alive</a>&nbsp;&nbsp;<font col...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 11:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US-Iran war enters more dangerous phase as critical infrastructure becomes new battlefield - Firstpost",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUFGZXFyS2FlQVlfMkpPOWs3STV0S293Y1lLMkdvLVBaaE9oazFPTmNoOU1KSExJS212dDE2SGozYjVSVzdOdFFFTVBjRjBZeHZRaUpjZDJJWHNRMFotT1Q3dHFOQXpQVTlWTXNSaXdfV29zMS1YXzFWQWRUUmhzRVItQXExbVdCbkI0Y2FHQmtKUUpq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWUFGZXFyS2FlQVlfMkpPOWs3STV0S293Y1lLMkdvLVBaaE9oazFPTmNoOU1KSExJS212dDE2SGozYjVSVzdOdFFFTVBjRjBZeHZRaUpjZDJJWHNRMFotT1Q3dHFOQXpQVTlWTXNSaXdfV29zMS1YXzFWQWRUUmhzRVItQXExbVdCbkI0Y2FHQmtKUUpqcW5ZaDhiNU10U3k5aWhpd1lvZGN6S3hodlRXRy0weHEwZGpBUTBKQ0U1S25IaWEyd3BuYjdkWlZaZ3gxcFHSAdcBQVVfeXFMT3laTTJ0dTBMT0NoYlhzNmxIenk1TnlfTEs4Rk53cnc5eHVzRFd2R3hocDNNMnpfZmUyZG5GUE5LbzlKaXZRQ3k0Xzk1QXBnR0QzdDZubE1ZY0VfVWd4WkdmQ2F3NUNEUUtzc1VpbGZ2ZVprZUVXWFZtWWRNMnZybmZpejdNU3BsNTFOOWlvTmdKdTdXSUItNU9iMV96Tnh0U2N0bFFzd2hkbFNhczhhbUs2SDJxNVBUYndoVkxKV0dNelczSUQyTlIyRUNqZXlXWkJUT3I2ekE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/07/2026 12:23"
       }
     },
     {
