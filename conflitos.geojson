@@ -142,6 +142,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+        "descricao": "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "22/07/2026 20:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump: Iran will ‘pay a big price’ for US troop deaths",
+        "descricao": "US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "22/07/2026 20:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -249,45 +283,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
-        "descricao": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "22/07/2026 13:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli strike leaves two Palestinians burnt beyond recognition",
-        "descricao": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "22/07/2026 13:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
         "titulo_evento": "US to announce deal allowing Saudi Arabia a nuclear programme",
         "descricao": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "22/07/2026 14:49"
+        "data_noticia": "22/07/2026 20:05"
       }
     },
     {
@@ -304,7 +304,7 @@
         "descricao": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz. ",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "22/07/2026 10:15"
+        "data_noticia": "22/07/2026 18:57"
       }
     },
     {
@@ -499,16 +499,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Iran vows to bomb own land as fears grow over Kuwait incursion",
-        "descricao": "Iranian MPs called for capturing US soldiers and launching ground attacks on Kuwait and Bahrain, as discussions grew over a possible ground operation by either side and US strikes entered their 10th consecutive day.",
-        "url_fonte": "http://www.euronews.com/2026/07/21/iran-vows-to-bomb-own-land-as-fears-grow-over-kuwait-incursion",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "21/07/2026 13:52"
+        "titulo_evento": "'Mykhailo Fedorov was fired for his successes in fighting corruption in the defense sector'",
+        "descricao": "\nFrançois Picard is pleased to welcome Daria Kaleniuk, Executive Director of the Anti-corruption Action Centre. Ukraine's wartime challenge is no longer only military, but institutional. Ms. Kaleniuk contends that battlefield success and democratic r...",
+        "url_fonte": "https://www.france24.com/en/video/20260722-mykhailo-fedorov-was-fired-for-his-successes-in-fighting-corruption-in-the-defense-sector-1",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "22/07/2026 19:45"
       }
     },
     {
@@ -521,11 +521,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive: In Kobane, Syria's Kurdish-majority city, postwar integration processes get underway",
-        "descricao": "\nFRANCE 24’s Wassim Nasr traveled to Kobane, the northern Syrian city that became the symbol of Kurdish resistance during the civil war, to report on recent efforts to integrate Kurdish and Syrian government forces.\n",
-        "url_fonte": "https://www.france24.com/en/exclusive-in-kobane-syria-s-kurdish-majority-city-postwar-integration-processes-get-underway",
+        "titulo_evento": "Exclusive: In Syria's Kurdish-majority city Kobane, postwar integration efforts get under way",
+        "descricao": "\nNorthern Syria’s Kobane, or Ayn al-Arab, was a flashpoint city during the Kurdish fight against the Islamic State (IS) group nearly a decade ago. Today, it’s at the heart of the Syrian government’s bid to integrate the northern Kurdish majority regi...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260722-exclusive-syria-kurdish-majority-city-kobane-postwar-integration-efforts-get-under-way",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/07/2026 17:07"
+        "data_noticia": "22/07/2026 19:07"
       }
     },
     {
@@ -703,40 +703,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany greenlights controversial joint French-Russian nuclear project",
-        "descricao": "\nGermany's environment ministry on Wednesday approved a French-Russian project to produce fuel rods used in Russian-designed reactors in the northwestern German town of Lingen. The joint venture project by a subsidiary of French company Framatome and...",
-        "url_fonte": "https://www.france24.com/en/europe/20260722-germany-greenlights-controversial-joint-french-russian-nuclear-project",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/07/2026 12:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pete Hegseth asks US Senate for 'urgent' Iran war funding increase",
-        "descricao": "\nThe cost of the US military campaign against Iran has already cost 37.5 billion dollars. The figure was revealed by the US Defense Secretary Pete Hegseth as he appeared before the Senate to make the case for the war and ask for an additional 67 bill...",
-        "url_fonte": "https://www.france24.com/en/pete-hegseth-asks-us-senate-for-urgent-iran-war-funding-increase",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/07/2026 09:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -777,7 +743,7 @@
       },
       "properties": {
         "titulo_evento": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
-        "descricao": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Brent North Sea crude surpassed $95 per barrel for the first time in nearly six weeks. Follow DW.",
+        "descricao": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Iran's foreign minister said any attack would \"compel a powerful and decisive response.\" Follow DW.",
         "url_fonte": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "22/07/2026 13:52"
@@ -811,7 +777,7 @@
       },
       "properties": {
         "titulo_evento": "Germany news: Prosecutors search Deutsche Bank headquarters",
-        "descricao": "Officials are reportedly investigating fraudulent tax claims made by the bank's Postbank subsidiary between 2008 and 2010. Meanwhile, the story of Timmy the whale continues with new DNA results. Follow DW for more.",
+        "descricao": "Officials are reportedly investigating fraudulent tax claims made by the bank's Postbank subsidiary between 2008 and 2010. Meanwhile, the story of Timmy the whale continues with new DNA results.",
         "url_fonte": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "22/07/2026 10:55"
@@ -924,23 +890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Analyst Report: Bank of New York Mellon Corp",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/research/reports/ARGUS_2777_AnalystReport_1784718461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -950,7 +899,7 @@
         "descricao": "But stock investors shrug off Iran developments as they await crucial earnings reports from tech firms including Alphabet and Tesla.",
         "url_fonte": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html",
         "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "22/07/2026 13:59"
+        "data_noticia": "22/07/2026 20:03"
       }
     },
     {
@@ -1048,11 +997,45 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Trump’s war on Iran is unpopular and expensive. He’s perfectly OK with that - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0Y5MDUtYktseXR2VzdYY0dqVU93bUNQU09QVjEyLUFnQ2N6bnJMWkRoNGJzZzNvLS1LdFFYZ1J4bXlUejNLQXZpenczV3pvZGgwbkRZSjVhaTZwbDZmbEpPUjlUMUVFdlVSWWRta2hLQVViV3RnX2Q4VWNFV3VPeVNCS2loZ1NtYUE?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0Y5MDUtYktseXR2VzdYY0dqVU93bUNQU09QVjEyLUFnQ2N6bnJMWkRoNGJzZzNvLS1LdFFYZ1J4bXlUejNLQXZpenczV3pvZGgwbkRZSjVhaTZwbDZmbEpPUjlUMUVFdlVSWWRta2hLQVViV3RnX2Q4VWNFV3VPeVNCS2loZ1NtYUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "The costs of the Iran war are rising, as Trump and Tehran signal no letup in the expanding conflict - NBC News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDhhM3dwNExYeUkxSU5xQzhhTGdLSDdNdk1ZY0hicHh4eWJiRGdWc21Hc0ZIZDdMdTFZdndtWDRMM2JEYVE2cHR5UVJtZHJiYXU1ZkxkTlBlcmhKSkxvVl9zVEZ1dlNKcGhwVXR6cFZQMWRtM2pWX2labU96N0hlcnlXWFpyQXJYN2pGMGJReHpFNHpu...",
         "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDhhM3dwNExYeUkxSU5xQzhhTGdLSDdNdk1ZY0hicHh4eWJiRGdWc21Hc0ZIZDdMdTFZdndtWDRMM2JEYVE2cHR5UVJtZHJiYXU1ZkxkTlBlcmhKSkxvVl9zVEZ1dlNKcGhwVXR6cFZQMWRtM2pWX2labU96N0hlcnlXWFpyQXJYN2pGMGJReHpFNHpuc0s0UzU5NXI1SXBEa2xMbjRuMWVVYXVTRjZhMg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "22/07/2026 17:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump administration weighing military options in Mali, officials say - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUJVUWJPbm4xb0s0Y0pLUTdRM1VINjFCNmUzVEI2bS12UjdkV1VEamgzdE9nclZBZ3AybFFaSndHWlVuVkdFRlRhTGZ1WmpiMUJLQmJXTUw0M1NSODhGX2JxM2dVcXM2T0VGRF9yVzZVbkJfUlpKMTVuSjhvUzB1SHN4dUZ3VVVyNkZjOEdmWGVqS09V...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUJVUWJPbm4xb0s0Y0pLUTdRM1VINjFCNmUzVEI2bS12UjdkV1VEamgzdE9nclZBZ3AybFFaSndHWlVuVkdFRlRhTGZ1WmpiMUJLQmJXTUw0M1NSODhGX2JxM2dVcXM2T0VGRF9yVzZVbkJfUlpKMTVuSjhvUzB1SHN4dUZ3VVVyNkZjOEdmWGVqS09VZkRuZllZaUhVVVFpT0Y2TlJvdzJ3TzAweHFMbVcwYlFvTlVjQmYxbW5TWk8yQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 20:40"
       }
     },
     {
@@ -1077,14 +1060,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "4 US soldiers killed in Iran war return to American soil - Military Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODJZQlJUc3VCSE14Ullld3FGVU5GcDdHZEJhTVVzb3UwRkF2c0hPVUlnNzZhaFVTYTNnd3VMUTlJUVRfRWRrNXRBb0lSclgzekJoR0FTUXU0aXp0YmlYdndyY2RJUTVudnZReTZBa0xfUG1xQi1XZWEzSWQ0clV4bk4zQW0tVGxkdF9kcUhwcTdaZHJ2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODJZQlJUc3VCSE14Ullld3FGVU5GcDdHZEJhTVVzb3UwRkF2c0hPVUlnNzZhaFVTYTNnd3VMUTlJUVRfRWRrNXRBb0lSclgzekJoR0FTUXU0aXp0YmlYdndyY2RJUTVudnZReTZBa0xfUG1xQi1XZWEzSWQ0clV4bk4zQW0tVGxkdF9kcUhwcTdaZHJ2WXo0dEZFdmZZVkg0c2VXWkNaN1JiQXNTNllrbXVjcmE2WkdM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 16:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Trump administration weighing military options in Mali, officials say - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUJVUWJPbm4xb0s0Y0pLUTdRM1VINjFCNmUzVEI2bS12UjdkV1VEamgzdE9nclZBZ3AybFFaSndHWlVuVkdFRlRhTGZ1WmpiMUJLQmJXTUw0M1NSODhGX2JxM2dVcXM2T0VGRF9yVzZVbkJfUlpKMTVuSjhvUzB1SHN4dUZ3VVVyNkZjOEdmWGVqS09V...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUJVUWJPbm4xb0s0Y0pLUTdRM1VINjFCNmUzVEI2bS12UjdkV1VEamgzdE9nclZBZ3AybFFaSndHWlVuVkdFRlRhTGZ1WmpiMUJLQmJXTUw0M1NSODhGX2JxM2dVcXM2T0VGRF9yVzZVbkJfUlpKMTVuSjhvUzB1SHN4dUZ3VVVyNkZjOEdmWGVqS09VZkRuZllZaUhVVVFpT0Y2TlJvdzJ3TzAweHFMbVcwYlFvTlVjQmYxbW5TWk8yQQ?oc=5",
+        "titulo_evento": "Trump attends dignified transfer as 4 U.S. troops killed in Iran war return home - NBC4 Washington",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMzV1cHZZWkFra0xuTG1uOUFYaHlTUFVDaTI2N0JuZEoxd1FOTmtPN3Ewc21IT2NWZ1dteUNVUzI0ZGR6elpoNndwYWw2djJTSHk0TWNoeGNRTEtsaFJpYTUwOWFTT3RYREhpcExNRkdZNHRaVHNSSXA0d1pla2VLcmJiaGdvLXduRjdJUkJDSmd0Q3VO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMzV1cHZZWkFra0xuTG1uOUFYaHlTUFVDaTI2N0JuZEoxd1FOTmtPN3Ewc21IT2NWZ1dteUNVUzI0ZGR6elpoNndwYWw2djJTSHk0TWNoeGNRTEtsaFJpYTUwOWFTT3RYREhpcExNRkdZNHRaVHNSSXA0d1pla2VLcmJiaGdvLXduRjdJUkJDSmd0Q3VOd2c0ZURWblBPZDRhcnZzUFZDLVhSSmFrRjhfUXAyelBBYllVX3VYRDcwWW90UEJlOUh5azhYQ0NycjZ3VmxVLW130gHeAUFVX3lxTE1OdlBYZGlrOVJZcS1OOVdDTVJROXd3T0xtRDhuOUFYRjVRZlVoaHBvcHFTWHdBYXI5UG4yVjgyVkVzQUk0WmhONzFFalR2ZGFaZkVaUUdiLU0xeTV5NDdiRWdfbGxUcFNGbk9jYUloMmdja0VpUE9vZ1dqcUUxUlRSQVlKXzlCeGlndW16ZDFiNmlpWUNGSE9CczR5MlM5OHBLMHJKQlRsVnpxOWd1S215VjVFMWpQZ09WbjZ2dndUWHl4QkJPZ24wY09BVUJUNExUbm5adk1ZdTZmQlJYZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "22/07/2026 17:40"
       }
@@ -1111,6 +1111,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG05aF9TcWpCYXkxZ084b0tjU0FEZm1hZHJEUG1QcEQ5TFliNHF6b0xnQWIzcE5CdUFBa1VqY09Za2NsUWVwVlVEQXRIekZseDdKTnZOX1lCRllXeEdreUU3bHFOck1EbGc2RTltVlVMdHFGd0NHcDZTblY3NXJXeVpqWjN0UjVHeWd2VVBNTVVna1RP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG05aF9TcWpCYXkxZ084b0tjU0FEZm1hZHJEUG1QcEQ5TFliNHF6b0xnQWIzcE5CdUFBa1VqY09Za2NsUWVwVlVEQXRIekZseDdKTnZOX1lCRllXeEdreUU3bHFOck1EbGc2RTltVlVMdHFGd0NHcDZTblY3NXJXeVpqWjN0UjVHeWd2VVBNTVVna1RPRUpKUVotTUpqTmfSAaQBQVVfeXFMTlE3UjdBV2ZTYXQtVHlPcTcwZE9nMmFFVFdXbXZMRlhCd3BNUzJQR1NZZkplc1BlLUJ4cHBxS0JFWmJtMkVRZ3NqNG9CSWtTLXNKbWhkNGtRdDJPRU9selZFTW5La1RLYURrczBROVp2RmZoVlRTZE5YbHNWVDZycHVNV09fT1JtT2tnWFhqd1hhNDQ5SURzZjlFR1hzTnRHMS1vNW8?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 18:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global Oil Price Jumps as War Threats Intensify - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBsU21OTy10NFdpd2RodTgyVkkzTXdNNk9qemFFVFpyNTNhd1MtdnpubE9yZHRIR3gwZzEzRkF4RW5TU0t2enMzNWhjTU1FOGdwdWJ4MGg3cGcyMzJtR0JxdnlSYURrYWtBcWJLb3RreERyc2o0cExr?oc=5\" target=\"_blank\">Global Oil Price ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsU21OTy10NFdpd2RodTgyVkkzTXdNNk9qemFFVFpyNTNhd1MtdnpubE9yZHRIR3gwZzEzRkF4RW5TU0t2enMzNWhjTU1FOGdwdWJ4MGg3cGcyMzJtR0JxdnlSYURrYWtBcWJLb3RreERyc2o0cExr?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 20:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Polls Show Even MAGA Has Soured on Trump’s Iran War - New York Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWNUSmtkT3F1aEZtMGtGVUFPTG5kWGxxSkcxeDlYWTVYd1E1Z2pucnMxZlRqNnROWmRPU1FtOHhURUlkUGFCZEJ2QWFCWGI2NGZ1dU16Z3VOcS1CalZacmpTNU16a1JYYnJJSjFBcDlrM1pOS003NFc2MzNfZ0pudE9QOXE1N3hIc2FEblcwNnZleVdz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWNUSmtkT3F1aEZtMGtGVUFPTG5kWGxxSkcxeDlYWTVYd1E1Z2pucnMxZlRqNnROWmRPU1FtOHhURUlkUGFCZEJ2QWFCWGI2NGZ1dU16Z3VOcS1CalZacmpTNU16a1JYYnJJSjFBcDlrM1pOS003NFc2MzNfZ0pudE9QOXE1N3hIc2FEblcwNnZleVdzN0ROeERvRQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 19:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump honors return of four US soldiers killed in Iran war - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUp1LVhEM2s3YTRpUU9xZFBnczhmZ3A4eERNS3hTNUI1Z0dSZDM4QmNzTFEyRTIycWZoMnJPYlQ5V0xjWEp1b3JsdDB1WGR4ZTBtX2NjRjFqQU9WUF80NjZzVmE4bV82QXc5NkEzSG9NMzlseGZ5d3RyWktoRkZ1akttLTdKVGdtRXJyRW43NUV4SU8t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUp1LVhEM2s3YTRpUU9xZFBnczhmZ3A4eERNS3hTNUI1Z0dSZDM4QmNzTFEyRTIycWZoMnJPYlQ5V0xjWEp1b3JsdDB1WGR4ZTBtX2NjRjFqQU9WUF80NjZzVmE4bV82QXc5NkEzSG9NMzlseGZ5d3RyWktoRkZ1akttLTdKVGdtRXJyRW43NUV4SU8tRlFFYUQyeVFzMmlXVGx4QUxxNmFmSnphNm9ZSEx5Uk1ReWlOMFhSNGlBZ2w0T0U?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 19:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "House Republicans push $95 billion package for the Iran war and Trump’s priorities - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRnJzMFNDX1hzNm1GaDlqcDE1Y0U3a0Q5U09JRkpnZjBkWlNDYnM0eFNtYzRmOWVJU3RMazB3YkJYcjNTendTZFczZExNaE1WREJkcGFNenpYMVhPQ1g0LVh2NXc3eFdTbVpVb3A1S3hDZUhHckFkYnJKeWY0bkdjbjdMamQtMEdVSTRwTmJxNkRwcTFG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnJzMFNDX1hzNm1GaDlqcDE1Y0U3a0Q5U09JRkpnZjBkWlNDYnM0eFNtYzRmOWVJU3RMazB3YkJYcjNTendTZFczZExNaE1WREJkcGFNenpYMVhPQ1g0LVh2NXc3eFdTbVpVb3A1S3hDZUhHckFkYnJKeWY0bkdjbjdMamQtMEdVSTRwTmJxNkRwcTFGeWZqV2VXNzhoUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 18:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Thanks to Trump’s Iran war, the Pentagon is almost broke - MS NOW",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjM3LUVwR3E4dUpMNWR3UktpbTh1cnR5dGZNcENlLWw3MERjc2lHM2dFOWc1VmVnMXl5VnFTVk1EaW5WaHlndjU4Mkpyd3FVT3ktZjBEX1BkcURsY2JZUS1YeXp5eEFhdnFPYzVUdnVGdEM5R0lyaTY2YnU3NVRXRFFfcFhUQzl0ZklZaQ?oc=5\" tar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjM3LUVwR3E4dUpMNWR3UktpbTh1cnR5dGZNcENlLWw3MERjc2lHM2dFOWc1VmVnMXl5VnFTVk1EaW5WaHlndjU4Mkpyd3FVT3ktZjBEX1BkcURsY2JZUS1YeXp5eEFhdnFPYzVUdnVGdEM5R0lyaTY2YnU3NVRXRFFfcFhUQzl0ZklZaQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 18:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'We got to wrap it up.' House Speaker Johnson pushes to end Iran war - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXVEd0g5V18wWURqM1FjOGZCejZadUNMUVlIZXhXMU5LQmUxbVgxR2VPamRXeE9mUWVoa2RFR3ktVEJ6YWZidUFDRWFlTFVPM0RCVE5CX3JXTTNjZXQ1aFZmam00THo1UkxJUmFUVDRqdTMwSGlDR2ttcGJmZ2E4WHRGYzhMNzVUMGg1TVU1QVFxRUdP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXVEd0g5V18wWURqM1FjOGZCejZadUNMUVlIZXhXMU5LQmUxbVgxR2VPamRXeE9mUWVoa2RFR3ktVEJ6YWZidUFDRWFlTFVPM0RCVE5CX3JXTTNjZXQ1aFZmam00THo1UkxJUmFUVDRqdTMwSGlDR2ttcGJmZ2E4WHRGYzhMNzVUMGg1TVU1QVFxRUdPWkNBVnY0LW5GMllKeGgwZ3FJNVBPUWhs?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 18:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1128,84 +1247,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "18 US troops killed, 447 wounded in Iran War. How that compares to past conflicts - WXII",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSk15UjJpcHVRNFZUdS1tQ3RFcXczNjFUdklEei0wcXJCR09QVldueWQwZ0hlMkpjaURxa1EtUmxzU09naERCTl9paFIxRHF2OEVJRXpvcTllcmdTZHYtUkgyZnBqSW9hTUlsWG5UYWptQXlTTzZ4ekF5dHBWUjdpNmhfWDc3bTJZbHc?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSk15UjJpcHVRNFZUdS1tQ3RFcXczNjFUdklEei0wcXJCR09QVldueWQwZ0hlMkpjaURxa1EtUmxzU09naERCTl9paFIxRHF2OEVJRXpvcTllcmdTZHYtUkgyZnBqSW9hTUlsWG5UYWptQXlTTzZ4ekF5dHBWUjdpNmhfWDc3bTJZbHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/07/2026 15:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Zelensky fires head of Ukraine military - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0M1c1ZDZGxaczlpOWJRTVZOSlhNeEI2bUl6dFFKa0lVcVJYMnRYaGxqYzFkamU1cG9hSWx0QnVUWnlpelVNLWJlQkRtNVFRSVh0bm85c1JqSW5uQjhFMmgwLTh6Y2twNjN5Q3NkTGdwak9qcldTMTN5M28zNzU5azI0RmUxYW9BTW9Bdm9JUHlFb2_S...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0M1c1ZDZGxaczlpOWJRTVZOSlhNeEI2bUl6dFFKa0lVcVJYMnRYaGxqYzFkamU1cG9hSWx0QnVUWnlpelVNLWJlQkRtNVFRSVh0bm85c1JqSW5uQjhFMmgwLTh6Y2twNjN5Q3NkTGdwak9qcldTMTN5M28zNzU5azI0RmUxYW9BTW9Bdm9JUHlFb2_SAZgBQVVfeXFMTUJGSnpiWjEwZmpMa0hBZkhLOHExeFdUSFJyQkIzUGlRMUI4b0h1NmVnakFrOTVIYzU5MjA2Z0pHdk05MGZQdzFmdXZuSWxFY2dkQ3czWFZXTEVZM3YyZ1E5ZVZ5WmtaZzZOWkpUSjlPeUFHOGsxVWhqbGxhcjhxV1BoNC1xUG5LTmhEQnA4R3JmMmtIQWJBRGI?oc=5",
+        "titulo_evento": "From battlefield to bureaucracy, Ukraine's new military chief faces tests - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0xuVWVvNnhxc3RjTlNIMV9oenlKWGtrLXFic0Z6UVBZMHhXZk1fdkNXZHBubExVYUJPUDV2Y2FYcUR1SFZIbFM2YWRlS25LZHdRVS1Mc1RzWGhXQ0g3OF82b0lvckctLXBYX2ctQko0elFEQ1gteTdxRTUwNXk3RExVM2VsSHJnSFBsYThDUi1saGxZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0xuVWVvNnhxc3RjTlNIMV9oenlKWGtrLXFic0Z6UVBZMHhXZk1fdkNXZHBubExVYUJPUDV2Y2FYcUR1SFZIbFM2YWRlS25LZHdRVS1Mc1RzWGhXQ0g3OF82b0lvckctLXBYX2ctQko0elFEQ1gteTdxRTUwNXk3RExVM2VsSHJnSFBsYThDUi1saGxZYlpzUzhUMkRCajNwWXNvc3pMekVFb0dSMldDaGkyX1lidEJBTzctdTNqakxQdVNy?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 17:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s war on Iran is unpopular and expensive. He’s perfectly OK with that - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0Y5MDUtYktseXR2VzdYY0dqVU93bUNQU09QVjEyLUFnQ2N6bnJMWkRoNGJzZzNvLS1LdFFYZ1J4bXlUejNLQXZpenczV3pvZGgwbkRZSjVhaTZwbDZmbEpPUjlUMUVFdlVSWWRta2hLQVViV3RnX2Q4VWNFV3VPeVNCS2loZ1NtYUE?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0Y5MDUtYktseXR2VzdYY0dqVU93bUNQU09QVjEyLUFnQ2N6bnJMWkRoNGJzZzNvLS1LdFFYZ1J4bXlUejNLQXZpenczV3pvZGgwbkRZSjVhaTZwbDZmbEpPUjlUMUVFdlVSWWRta2hLQVViV3RnX2Q4VWNFV3VPeVNCS2loZ1NtYUE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 17:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hegseth requests more funding for Iran war and Zelenskyy fires his commander in chief: Morning Rundown - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUVJQjZrMW9vZ3NRS3ZKTEZkeHlzWElUT2tlRmhIZnJET1BMX1lPMHlITHdCU3lheHdjU0lQSV9QakxseFg3LWp3bjhydUJiTW1ScWg0Z1lrbDdURmhYMldwU29MeEU5NEExVHdRRzJXQWEyOEF2RF8zakJYV0tFdF95MXE4X2czWFc4bWNQM3RmLXNT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUVJQjZrMW9vZ3NRS3ZKTEZkeHlzWElUT2tlRmhIZnJET1BMX1lPMHlITHdCU3lheHdjU0lQSV9QakxseFg3LWp3bjhydUJiTW1ScWg0Z1lrbDdURmhYMldwU29MeEU5NEExVHdRRzJXQWEyOEF2RF8zakJYV0tFdF95MXE4X2czWFc4bWNQM3RmLXNTV3lxa3c2eE81QTlOek5HN1REVnF1WUN6Y2tLZElR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 11:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUF2MXRaY2J0aDdrOENIcW1scDFJUV9wOS1SSUJWOGNWNjBnZVE1TkVWV2k3NWhXZDRzMzNrTUJidDV2WGk0YXZRNGxoWllOdXZvU25DSHFWR2dOY1VnLVpRNXBFUl92TzAydkxMSmJYSFo4QnFxZU9sZWlKNlhTd0k0UmRmclZ0SG5NVjdITy10aUpL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUF2MXRaY2J0aDdrOENIcW1scDFJUV9wOS1SSUJWOGNWNjBnZVE1TkVWV2k3NWhXZDRzMzNrTUJidDV2WGk0YXZRNGxoWllOdXZvU25DSHFWR2dOY1VnLVpRNXBFUl92TzAydkxMSmJYSFo4QnFxZU9sZWlKNlhTd0k0UmRmclZ0SG5NVjdITy10aUpLWXpEU3hSY9IBoAFBVV95cUxOdlJ6dVVraV9GMlY4bXgyUWlpaHRxT19rRmlzMnY3c0tiYWhzWVk0Z1RQT1ZRaHgtMGNuaWFKV3dnejk3YWRVRlBOal9QOVRVMkl6WklHTW1PUEtnbkhrY1ZiZF9TMkExa2VQc0dmWEJUb3JyY3ZwUHJCWVBWcjVIYjRUTHNMZENjQ19nRjRfY1p2aGtjWDBNOVdkT3FGYlFq?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 12:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump attends dignified transfer of U.S. service members killed in Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWng1LUpYSHNqQnlwMHBMX2UtNC1DR05penBMVHhPNjdDMVhycHk5R3dVQUZoaFhVMno0c1R0ZXU3aXJpY3ZjT1A5YVZzcmZyeE8tU3BYeEh4M0dERnRjMHZEU0h2aWVQd2tsd0xIYlBrRm9wZ3h6X3dyaExheXhzbTdKdzFQOHhKajczaDd5RXBvUEZz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWng1LUpYSHNqQnlwMHBMX2UtNC1DR05penBMVHhPNjdDMVhycHk5R3dVQUZoaFhVMno0c1R0ZXU3aXJpY3ZjT1A5YVZzcmZyeE8tU3BYeEh4M0dERnRjMHZEU0h2aWVQd2tsd0xIYlBrRm9wZ3h6X3dyaExheXhzbTdKdzFQOHhKajczaDd5RXBvUEZzMmZKNkZKbVVQcXRFeXMtYkRDRGdtSG9rSXViYVI0QmJHbm5DOTZLZnFR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 17:24"
+        "data_noticia": "22/07/2026 18:30"
       }
     },
     {
@@ -1230,91 +1298,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A Mandate for Change and a Monumental Test for Ukraine’s New Military Chief - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORlBkcHQ4YWlwQnRqdWxXNk9oTEozQ243Z1IxQ2ROanF0dWs5UkpULWlHdTljeUExYlhXb0Fya0IzWktfWVJwS2FYcmJTTHNJTjhQTzZid3pyeWNsSnA5UUN5YlRneS12b2dRVGhGX3ljUU1CdGdiamJNZ3dlWTFGWkpXem8wTHo0cnlqcg?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlBkcHQ4YWlwQnRqdWxXNk9oTEozQ243Z1IxQ2ROanF0dWs5UkpULWlHdTljeUExYlhXb0Fya0IzWktfWVJwS2FYcmJTTHNJTjhQTzZid3pyeWNsSnA5UUN5YlRneS12b2dRVGhGX3ljUU1CdGdiamJNZ3dlWTFGWkpXem8wTHo0cnlqcg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 10:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Mykhailo Drapatyi takes over as Kyiv’s top commander - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmxvbEZJVVZUN0JyY0xGNXI3a2NoekRuMmNSQXY3LUhuVGdTUVY1QjVabllPMFlIQzFhbFROa2dFZkhBYXdTSVNQQzhuU0llazRza01RM1pBMFN1amxkQmFBdHRlUVRwcmF1ZGNQUTZrWEk3QVFoaHNPZ01OZWRiMzAzTEx5MXVuUUJ3ZTdVTFJEZ0Zm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmxvbEZJVVZUN0JyY0xGNXI3a2NoekRuMmNSQXY3LUhuVGdTUVY1QjVabllPMFlIQzFhbFROa2dFZkhBYXdTSVNQQzhuU0llazRza01RM1pBMFN1amxkQmFBdHRlUVRwcmF1ZGNQUTZrWEk3QVFoaHNPZ01OZWRiMzAzTEx5MXVuUUJ3ZTdVTFJEZ0ZmTDZKamU2MzdWM2laX1hVZ3ZJVHcxdEJCZW9NNDJwTDRMb3piQmc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 16:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Latest combat deaths show risk has shifted to troops far from Iran’s borders - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHYyRzZlSENBT2FnN0cxdHhtV0ZHREdqcVZDQ3Y0RGFScTVncFVEQW83amFpbXZJUVh3YzE2UldnZnVadlNDa05yTnlqOFJtMnlrUWUzM1ZZcVV6R212YjlCZEEwZ3ZveTZKQWR5ek1OeVJROWdmd1MteU81djF6T2h1dWpKSFhHT1NqWkVwT0ZEOWV6...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHYyRzZlSENBT2FnN0cxdHhtV0ZHREdqcVZDQ3Y0RGFScTVncFVEQW83amFpbXZJUVh3YzE2UldnZnVadlNDa05yTnlqOFJtMnlrUWUzM1ZZcVV6R212YjlCZEEwZ3ZveTZKQWR5ek1OeVJROWdmd1MteU81djF6T2h1dWpKSFhHT1NqWkVwT0ZEOWV6TjJuVkYteTNhNW5ubkRtMTZyUG5IMUIyV2dIU1Z5RGZNeU5aUFR2aktKNzBHZzZRNGkxV0ZDY05xUVJZMVhwY2NKWQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 17:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A country I’ve never been to, a war I never fought - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTd1LWNrMXhJSUEwYmxrVFFURnFsZkp2clh1bkRHVzFqRm5ZZE5WelhaMDFUOVg0dDRXMGEtN2txZEVtQjRTSTJxdW0wajZiQWZhVEN2QTBrOXdpNXd5TTFJbnhjOGxSajZfOGlaV280Ylo4anlaZUtlMXFzV3ZBQ3lmSXFqcnZB?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTd1LWNrMXhJSUEwYmxrVFFURnFsZkp2clh1bkRHVzFqRm5ZZE5WelhaMDFUOVg0dDRXMGEtN2txZEVtQjRTSTJxdW0wajZiQWZhVEN2QTBrOXdpNXd5TTFJbnhjOGxSajZfOGlaV280Ylo4anlaZUtlMXFzV3ZBQ3lmSXFqcnZB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 17:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump attends return of troops killed in Jordan, Iraq; warns Iran will ‘pay the price’ - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWF1b2RxVlN0cWpYTEoydW15bmUzbWRXbHJKdHlsWEU0SF96T2ZaTThRV0k5QU96aEJZQmlrYnlmbjJBTjd2eWZEVVJIVU9OSE9fZ2RfVzU1cGtqandIOF9JSjdmYnQyTDk5VE5wb21ER2xJWGE5UmltNWFUN0FzdGhfaGozazAxWV9rZjdYTVlMSnFx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWF1b2RxVlN0cWpYTEoydW15bmUzbWRXbHJKdHlsWEU0SF96T2ZaTThRV0k5QU96aEJZQmlrYnlmbjJBTjd2eWZEVVJIVU9OSE9fZ2RfVzU1cGtqandIOF9JSjdmYnQyTDk5VE5wb21ER2xJWGE5UmltNWFUN0FzdGhfaGozazAxWV9rZjdYTVlMSnFxY0hNZlJxU0RTaVkxb1Z1ODNQVXnSAa4BQVVfeXFMTlhEb3hOeHpVcW9QVFRjcXJvWGtIUWxONk1xMkU5QkltVDRLU0I0eXRnWGVqc1htLWJFUGljcjhBRTV6UGxrNFNaZU5wTGp0UUlhQXZQcnJmbjdiaGFYNV9HSzROMzB3UHB3TFdpeTcyclFqb3p6OUlIMTJYb3BSSmMzLV9Gb3Zub2NDeWhORFhPQzg1b3p5U2FDQU51YU5RLThWY2VHWUtzZm5PSVRR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/07/2026 16:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -1325,6 +1308,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDhhM3dwNExYeUkxSU5xQzhhTGdLSDdNdk1ZY0hicHh4eWJiRGdWc21Hc0ZIZDdMdTFZdndtWDRMM2JEYVE2cHR5UVJtZHJiYXU1ZkxkTlBlcmhKSkxvVl9zVEZ1dlNKcGhwVXR6cFZQMWRtM2pWX2labU96N0hlcnlXWFpyQXJYN2pGMGJReHpFNHpuc0s0UzU5NXI1SXBEa2xMbjRuMWVVYXVTRjZhMg?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "22/07/2026 17:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG05aF9TcWpCYXkxZ084b0tjU0FEZm1hZHJEUG1QcEQ5TFliNHF6b0xnQWIzcE5CdUFBa1VqY09Za2NsUWVwVlVEQXRIekZseDdKTnZOX1lCRllXeEdreUU3bHFOck1EbGc2RTltVlVMdHFGd0NHcDZTblY3NXJXeVpqWjN0UjVHeWd2VVBNTVVna1RP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG05aF9TcWpCYXkxZ084b0tjU0FEZm1hZHJEUG1QcEQ5TFliNHF6b0xnQWIzcE5CdUFBa1VqY09Za2NsUWVwVlVEQXRIekZseDdKTnZOX1lCRllXeEdreUU3bHFOck1EbGc2RTltVlVMdHFGd0NHcDZTblY3NXJXeVpqWjN0UjVHeWd2VVBNTVVna1RPRUpKUVotTUpqTmfSAaQBQVVfeXFMTlE3UjdBV2ZTYXQtVHlPcTcwZE9nMmFFVFdXbXZMRlhCd3BNUzJQR1NZZkplc1BlLUJ4cHBxS0JFWmJtMkVRZ3NqNG9CSWtTLXNKbWhkNGtRdDJPRU9selZFTW5La1RLYURrczBROVp2RmZoVlRTZE5YbHNWVDZycHVNV09fT1JtT2tnWFhqd1hhNDQ5SURzZjlFR1hzTnRHMS1vNW8?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "22/07/2026 18:57"
       }
     },
     {
@@ -1371,11 +1371,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders - Chattanooga Times Free Press",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVZSZ3YyU3hPZGtOVWNDVWEzaGQybjVQMXBpWkpINE4yVm5wSnNPSHJSUWlTQWNIYW5VR2o2MnU4cC1ibmhDZ01ESDdCUWlOM2tta0RTY3ZuWW1Rc0Vqay1vRzNMQVBicGVGR0hYUi00RThzZjVVN2N0dUZUYjRqU3BWT0RCTDBpTWt5OGJYVkFwSTU4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVZSZ3YyU3hPZGtOVWNDVWEzaGQybjVQMXBpWkpINE4yVm5wSnNPSHJSUWlTQWNIYW5VR2o2MnU4cC1ibmhDZ01ESDdCUWlOM2tta0RTY3ZuWW1Rc0Vqay1vRzNMQVBicGVGR0hYUi00RThzZjVVN2N0dUZUYjRqU3BWT0RCTDBpTWt5OGJYVkFwSTU4LXRLRVBKdGR2MEtHdEZOeHd2b3BELV9SV0RDXzF0Tzgza0F5akV4XzVOX2JqbzE5YlU3S05FLTQycmpQQnMyaUMtRTRLd181WFJF?oc=5",
+        "titulo_evento": "Iran’s demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders - Northwest Asian Weekly",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1dMdzFyOUVMTmZGUkd4MkNWWE83WEV5dVkyNll3YmZuZmROOHB2bVZ4dEV5MWR3UFAwXzYyRWlEUGs1WnR5WnNkQy1HZE1ub3I0NEJkalNPeTdXb1B3aU1BS2IwOVFtUS1qNEJHbDVCNDVGSEozcEp2cGdCMHVxbjJaaHJkZTVwd25jM2tCbkVuZEc5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1dMdzFyOUVMTmZGUkd4MkNWWE83WEV5dVkyNll3YmZuZmROOHB2bVZ4dEV5MWR3UFAwXzYyRWlEUGs1WnR5WnNkQy1HZE1ub3I0NEJkalNPeTdXb1B3aU1BS2IwOVFtUS1qNEJHbDVCNDVGSEozcEp2cGdCMHVxbjJaaHJkZTVwd25jM2tCbkVuZEc5M19VZ0phR0hGWjY4T05LODluWGdLbkhOMkdHS0EwWnFCbkpfa091VEtmTGRfX201VTdsYTRFUHc?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "22/07/2026 18:00"
+        "data_noticia": "22/07/2026 16:50"
       }
     },
     {
@@ -1400,6 +1400,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s Trade Negotiator Doubles Down on Tariffs Before Global Duties Expire - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1hvZWdFamhORDJEXzEwSDc1dmttVDJBWlhIM1U3WGdCc2N0MEtuRlo1WFJWVWpIaGFlbXJ3dEplRUlXZlVndDNIVDl5dEV0OTZINFZKWE8wVUhSOVotei12cEE3M1dNNHE0bDl5SWJOQmtQZEFxazRnUzdaXzc2Y0pHLUxJdzFYamN2S2x3?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1hvZWdFamhORDJEXzEwSDc1dmttVDJBWlhIM1U3WGdCc2N0MEtuRlo1WFJWVWpIaGFlbXJ3dEplRUlXZlVndDNIVDl5dEV0OTZINFZKWE8wVUhSOVotei12cEE3M1dNNHE0bDl5SWJOQmtQZEFxazRnUzdaXzc2Y0pHLUxJdzFYamN2S2x3?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "22/07/2026 15:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1417,23 +1434,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Trade Negotiator Doubles Down on Tariffs Before Global Duties Expire - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1hvZWdFamhORDJEXzEwSDc1dmttVDJBWlhIM1U3WGdCc2N0MEtuRlo1WFJWVWpIaGFlbXJ3dEplRUlXZlVndDNIVDl5dEV0OTZINFZKWE8wVUhSOVotei12cEE3M1dNNHE0bDl5SWJOQmtQZEFxazRnUzdaXzc2Y0pHLUxJdzFYamN2S2x3?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1hvZWdFamhORDJEXzEwSDc1dmttVDJBWlhIM1U3WGdCc2N0MEtuRlo1WFJWVWpIaGFlbXJ3dEplRUlXZlVndDNIVDl5dEV0OTZINFZKWE8wVUhSOVotei12cEE3M1dNNHE0bDl5SWJOQmtQZEFxazRnUzdaXzc2Y0pHLUxJdzFYamN2S2x3?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "22/07/2026 18:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1444,23 +1444,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWF9vWUczZGpscndZeUlFRXU3d0o3cHFmWlNQSVRqMU1pTDlHd1RUNlk1aXE1SjRfNWlzSURXZWRMMHRrcEVhMkJpa1dzb19fN2t0eWdkZU1zWFF5dlJpcDdOVEZwejRmcTFzR0Y5c1NiOWVwOVZ3WDgzb2x4U2pSRHFLOHU1Zw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "22/07/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Beijing vows to protect Chinese firms after EU hits Alibaba unit with fine - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGFtS2lCU21pdWlsR0EzMDdlVFhGcEhWMlpVUXEtaUUtejgwYjktZTJTOU04SkdXd2hTTlZDM21wREpVMy1MX0pfd0tnNVlGZ0w5UTEtZGhGekx1enNNQ0d1QktfUW5CVmwybXlPUDdKWjM0TzVKMEJJN0U2em40dW1TS2h3UHFEYjkwcHJIZjQwTlRf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGFtS2lCU21pdWlsR0EzMDdlVFhGcEhWMlpVUXEtaUUtejgwYjktZTJTOU04SkdXd2hTTlZDM21wREpVMy1MX0pfd0tnNVlGZ0w5UTEtZGhGekx1enNNQ0d1QktfUW5CVmwybXlPUDdKWjM0TzVKMEJJN0U2em40dW1TS2h3UHFEYjkwcHJIZjQwTlRfQXoxSkJuMTJQUG4zdTJmeWM5S3N2RjgwOTFHaVVjU2dscTF1WjZCOW04WGRJSkoz0gHEAUFVX3lxTE4xbHJxbWJEaDgtZGpiQ0NnbEhMY0dLRXprWkxTMlVhLS0yRnlyVHBBWm8xQUllNEJxZVItUEs0ZXo0aGZ2eWExS0JkMWtQN05qakFTV2JzaUoydllPLW1hNlZXdldSVGU1MGhhVkFlOVBZRGdtR0c4TC15NkRqZlJHTDU5a0ZrdzdVVFBrYVdIZXA1bUVQXzRNRHVMbF9PVEhSYUJHcDJrNWNNcUY5dFNpMnJPVER6cnpuejdfOFZaZVhReU0?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "22/07/2026 12:00"
       }
     }
   ]
