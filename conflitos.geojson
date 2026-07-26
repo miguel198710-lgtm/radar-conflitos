@@ -11,6 +11,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+        "descricao": "Tehran described the attack on its vessel as an act of aggression while accusing Kyiv of seeking to expand the war in Ukraine.",
+        "url_fonte": "https://www.defensenews.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "26/07/2026 13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
         "titulo_evento": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
         "descricao": "Drone units operating far behind the front line on Ukraine’s sweeping steppe have hit more than 180 vessels and other sea-borne targets in recent weeks.",
         "url_fonte": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
@@ -50,6 +67,74 @@
         "url_fonte": "https://warontherocks.com/global-risks-heating-up/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "24/07/2026 17:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Controversial Argentina World Cup banner gets new life in print",
+        "descricao": "A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "26/07/2026 14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel and the cost paradox of the Iran war",
+        "descricao": "Israel instigated the war on Iran and yet it has borne few of its costs. ",
+        "url_fonte": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "26/07/2026 14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+        "descricao": "The head of internal security for Hamas in central Gaza was among the dead.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "26/07/2026 13:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Yemen’s health workers race to halt latest outbreak of deadly dengue fever",
+        "descricao": "Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "26/07/2026 13:39"
       }
     },
     {
@@ -159,101 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-        "descricao": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
-        "url_fonte": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "26/07/2026 08:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel debate boils over in the United States",
-        "descricao": "How far have US politics - and media - really shifted on the topic of Israel?",
-        "url_fonte": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "26/07/2026 08:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-        "descricao": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "26/07/2026 07:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.5429,
-          -35.6751
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo",
-        "descricao": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "26/07/2026 07:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
-        "descricao": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "26/07/2026 05:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.405,
           52.52
         ]
       },
       "properties": {
         "titulo_evento": "What we know so far about the Berlin Pride ramming attack",
-        "descricao": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night. ",
+        "descricao": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night. ",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "26/07/2026 11:41"
+        "data_noticia": "26/07/2026 13:40"
       }
     },
     {
@@ -329,16 +329,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "French firefighters battle blazes with military cargo planes",
-        "descricao": "\nFire crews in France are battling unchecked wildfires that have forced more than 300,000 people to flee were overwhelmed on Sunday as the unpredictable blazes advances. To help stop the flames from spreading, a giant A400M military cargo aircraft ha...",
-        "url_fonte": "https://www.france24.com/en/french-firefighters-battle-blazes-with-military-cargo-planes",
+        "titulo_evento": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei",
+        "descricao": "\nBrazilian Senator Flavio Bolsonaro, eldest son of former president Jair Bolsonaro, on Saturday formally launched his bid to challenge President Luiz Inacio Lula da Silva in October's election, showcasing support from Argentine President Javier Milei...",
+        "url_fonte": "https://www.france24.com/en/flavio-bolsonaro-launches-brazil-presidential-campaign-touts-support-from-milei",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "26/07/2026 12:35"
+        "data_noticia": "26/07/2026 14:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Deadly Berlin Pride ramming believed to be 'Islamist terror attack', Germany says",
+        "descricao": "\nGerman ​Interior Minister Alexander Dobrindt ​said on Sunday that all evidence ​surrounding Saturday ‌night's ⁠attack at Berlin's ‌Pride celebration so ⁠far points to an Islamist terrorist ​attack. Police are still hunting for the prime suspect in t...",
+        "url_fonte": "https://www.france24.com/en/europe/20260726-deadly-berlin-pride-ramming-was-islamist-terror-attack-says-german-interior-minister",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "26/07/2026 11:41"
       }
     },
     {
@@ -533,6 +550,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Wildfires spread in France and Spain forcing more to flee",
+        "descricao": "Spain's prime minister warned of \"difficult hours ahead,\" as France's interior minister called the blaze near Bordeaux \"unpredictable.\" Evacuations in both countries continued as high winds keep fires moving.",
+        "url_fonte": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "26/07/2026 13:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany classifies Berlin Pride ramming as 'terror attack'",
+        "descricao": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
+        "url_fonte": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "26/07/2026 13:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -560,23 +611,6 @@
         "url_fonte": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "26/07/2026 07:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany classifies Berlin Pride ramming as 'terror attack'",
-        "descricao": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
-        "url_fonte": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "26/07/2026 05:51"
       }
     },
     {
@@ -669,6 +703,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "titulo_evento": "German minister calls deadly Berlin Pride assault ‘Islamist terrorist attack’",
+        "descricao": "Police are conducting major manhunt for the suspected assailant, identified as a 21-year-old German of Lebanese descent.",
+        "url_fonte": "https://www.politico.eu/article/germanys-interior-minister-calls-deadly-berlin-pride-assault-islamist-terrorist-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "26/07/2026 14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           105.3188,
           61.524
         ]
@@ -754,40 +805,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
-        "descricao": "The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.",
-        "url_fonte": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
-        "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "24/07/2026 14:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Clock Ticks Down to Europe’s Ban on Russian Gas Tankers",
-        "descricao": "Europeans say they fear a rising dependence on American energy even with a Jan. 1 deadline to end liquefied natural gas imports from Russia.",
-        "url_fonte": "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html",
-        "categoria": "Política (NYT Business)",
-        "data_noticia": "24/07/2026 14:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -831,7 +848,41 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5\" target=\"_blank\">Trump Holds...",
         "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZDFwek83TzF4YkIzeWJRVUo0Umg0QkpkVHZWSEVkOC1QTHNqLThmdHlPdDhEVjEza2xQVW9LeFktSFZ6N2Jza2xPSEdhUXVGSEJ1VUtGNUEtRmFvdk9FQ3gyYlFBbnVZckpxY2VtUkFTNUo4dDNNMVN4WQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/07/2026 22:19"
+        "data_noticia": "25/07/2026 22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ambassador Mike Waltz dismisses concerns over depleted U.S. weapons stockpile amid war with Iran - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOVERIMFhDOTAzMWdsa3FiTUdoano4bk1HZjVydzRjazBMZkYtTEtmMkcyaTVtTEdsMzZGeG5mYVFQWEhrNU9Kcl9PV1Y1QndCY2YtMy1VT2pBWGlnTFNPeUpJeE1TMkJRZ2ZBLTVzZWt1OFpESGZRb2Npb2xITVV0bDdEalNzZ2RfLW8xM1RnaV9MYW5N...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVERIMFhDOTAzMWdsa3FiTUdoano4bk1HZjVydzRjazBMZkYtTEtmMkcyaTVtTEdsMzZGeG5mYVFQWEhrNU9Kcl9PV1Y1QndCY2YtMy1VT2pBWGlnTFNPeUpJeE1TMkJRZ2ZBLTVzZWt1OFpESGZRb2Npb2xITVV0bDdEalNzZ2RfLW8xM1RnaV9MYW5NRVJKX0NCM1ppVHRoeGZRSGgwMkswOVdLVEo4N2xsbjlNR3NQQTdvSUVfcGJEV2R3dW1yR1R5aDdDQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "26/07/2026 13:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel and the cost paradox of the Iran war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlQ4LW5SNnhoNE03Wkh0eXg5RWdkREhtX3hrT0ZJd0xzb0xCOUJ3ay1UQjFDN2p6Q3VncFRvQkdkM3Z4UVZkWExPQUxCMW9DbENkSk1DR2M3X3VlSjRYTVZhM1pVaHJhSzdaa252MzRlQnhOMDdmdkVUc1VRdFVRemljby11Z2NiamNSU2t6QzVBUdIB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlQ4LW5SNnhoNE03Wkh0eXg5RWdkREhtX3hrT0ZJd0xzb0xCOUJ3ay1UQjFDN2p6Q3VncFRvQkdkM3Z4UVZkWExPQUxCMW9DbENkSk1DR2M3X3VlSjRYTVZhM1pVaHJhSzdaa252MzRlQnhOMDdmdkVUc1VRdFVRemljby11Z2NiamNSU2t6QzVBUdIBlwFBVV95cUxOWmZJN1kzc0ZnUW8yMDJCcFpyOE83Sm5QQjJQLVd6aF9hdlUwalN3YW9tcC11b0J4dE9KRnRhSHc0azFXVFE5cnJXWk54NmJZQzZrYng5bTBNVm1HOFpVb3FwaXB6Q1ZrLXpDZXJGMVF4a0x6ekFEbHJ3WjV5b0RPdDhKYVlvTEtsY3diNjJCTkQ2TVQteERn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "26/07/2026 14:09"
       }
     },
     {
@@ -856,6 +907,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran using cheap, accurate missiles to strike US assets across Middle East - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSEtPb2FZTmkwYXg1ekoxRWFEX3Q1VTlHaTFuemdJMFB1Y0FBMnRxY3BZLUFOdGp4QV80cXNxVmUyNFdiVmNhU3FtOHllWGg0RkxVODc0bVlSa1luckRhTGlYZlM3YnRZZHc?oc=5\" target=\"_blank\">Iran using cheap, accurate missile...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSEtPb2FZTmkwYXg1ekoxRWFEX3Q1VTlHaTFuemdJMFB1Y0FBMnRxY3BZLUFOdGp4QV80cXNxVmUyNFdiVmNhU3FtOHllWGg0RkxVODc0bVlSa1luckRhTGlYZlM3YnRZZHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "26/07/2026 11:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -873,33 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Iran using cheaper, more accurate missiles to target US assets across Middle East - report - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSEtPb2FZTmkwYXg1ekoxRWFEX3Q1VTlHaTFuemdJMFB1Y0FBMnRxY3BZLUFOdGp4QV80cXNxVmUyNFdiVmNhU3FtOHllWGg0RkxVODc0bVlSa1luckRhTGlYZlM3YnRZZHc?oc=5\" target=\"_blank\">Iran using cheaper, more accurate ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HSEtPb2FZTmkwYXg1ekoxRWFEX3Q1VTlHaTFuemdJMFB1Y0FBMnRxY3BZLUFOdGp4QV80cXNxVmUyNFdiVmNhU3FtOHllWGg0RkxVODc0bVlSa1luckRhTGlYZlM3YnRZZHc?oc=5",
+        "titulo_evento": "Opinion | How Congress lost its war power - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTM1LWUzU1FmRkxFNGJDS3B2RGgwRlVxNTNjeVVvYVZiQ1RPSzhDRXNPN0VFVDJoNmx2alhtT05rY2VNaFh4c2VDZ0VGSkhWME9PdHVqalFjZHVWdmVpSmdGMnVzZjBtbU53eGIzREVnMFJCSFFCcE5YaC1ZMjhYUGJoWkZydFR3NnhCQlhLNWk2ckc3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTM1LWUzU1FmRkxFNGJDS3B2RGgwRlVxNTNjeVVvYVZiQ1RPSzhDRXNPN0VFVDJoNmx2alhtT05rY2VNaFh4c2VDZ0VGSkhWME9PdHVqalFjZHVWdmVpSmdGMnVzZjBtbU53eGIzREVnMFJCSFFCcE5YaC1ZMjhYUGJoWkZydFR3NnhCQlhLNWk2ckc3ZzhPaWNuLWtOYnVPLUgza2tzQjZDN2hfQktB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 11:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Encyclopedia Britannica",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Deal, Explained, United States, Israel,...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 05:00"
+        "data_noticia": "26/07/2026 14:30"
       }
     },
     {
@@ -924,67 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Opinion | How Congress lost its war power - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTM1LWUzU1FmRkxFNGJDS3B2RGgwRlVxNTNjeVVvYVZiQ1RPSzhDRXNPN0VFVDJoNmx2alhtT05rY2VNaFh4c2VDZ0VGSkhWME9PdHVqalFjZHVWdmVpSmdGMnVzZjBtbU53eGIzREVnMFJCSFFCcE5YaC1ZMjhYUGJoWkZydFR3NnhCQlhLNWk2ckc3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTM1LWUzU1FmRkxFNGJDS3B2RGgwRlVxNTNjeVVvYVZiQ1RPSzhDRXNPN0VFVDJoNmx2alhtT05rY2VNaFh4c2VDZ0VGSkhWME9PdHVqalFjZHVWdmVpSmdGMnVzZjBtbU53eGIzREVnMFJCSFFCcE5YaC1ZMjhYUGJoWkZydFR3NnhCQlhLNWk2ckc3ZzhPaWNuLWtOYnVPLUgza2tzQjZDN2hfQktB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 12:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 03:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Column: In Ukraine, the war with Russia has created a nation of 'superhumans' - Los Angeles Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ld1Y2VnBHY09zREhoM290ck82U2NndC1LUWdISTBJbUViWlc3dzR6bFh4N1lkcE9mdjBSY2dXZ3UwQlB6MnJWb21jV3FxYWtuN0N2RGVORm1wOFJSMWg3MzE3Tm5nMUFDWVVyb1ZZa3A0TjNUNjR1NjM2RFJuN2pxYWpNUzYt?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ld1Y2VnBHY09zREhoM290ck82U2NndC1LUWdISTBJbUViWlc3dzR6bFh4N1lkcE9mdjBSY2dXZ3UwQlB6MnJWb21jV3FxYWtuN0N2RGVORm1wOFJSMWg3MzE3Tm5nMUFDWVVyb1ZZa3A0TjNUNjR1NjM2RFJuN2pxYWpNUzYt?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5\" target=\"_blank\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5",
+        "titulo_evento": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5\" target=\"_blank\">U.S.-I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 09:01"
+        "data_noticia": "26/07/2026 09:53"
       }
     },
     {
@@ -1014,11 +1014,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "U.S.-Iran War Pauses for 2nd Straight Day - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5\" target=\"_blank\">U.S.-I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMVUxSFVRRVc0RHVsME5BOWFKUjEtblN4WEpLYzRMYlEtY3RjVjhyTHZmMW92bEZRZVN1Vjh5TEdvYTlJbUkzRXl0azYxU0tGS2czT2RlWm1aVVNGQ0U2WnhLX0F0X3pZZmJxWUFJUG1nOTZPNXRScmNZRlc1dms?oc=5",
+        "titulo_evento": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPems4eWFxMUp2N21pajlRbUEtUHBBbVBKU0pUcTNfWW1abGRHTnJVbU95aVhITERhdVM0aE93dHM2UXZjLTk2Ri1iZG9EZ0tVVDZ6UktwZXo0YVF4VmdsbGx0QWhXQ2FZUHQ3THVha2cyekpXZllTa2lTMTY1dHhuQjVERQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 09:53"
+        "data_noticia": "26/07/2026 09:01"
       }
     },
     {
@@ -1043,50 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC1NV0I2aXEwczAtZVE4Y3FWNW1OVFRWT0k3M05xZ0d5V1FLZXNvWlJUVThTQXF4MnU0bndRMnBrV0J0b2d4ZF9FRl9CQzQxUGhxRmI5SHhYWnRkUmljVTc0ZUtCZlc3NEJtUEFreGg0U3ZOb0tQLXYtOURYLW1kdw?oc=5\" target=\"_blank\">U.S...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC1NV0I2aXEwczAtZVE4Y3FWNW1OVFRWT0k3M05xZ0d5V1FLZXNvWlJUVThTQXF4MnU0bndRMnBrV0J0b2d4ZF9FRl9CQzQxUGhxRmI5SHhYWnRkUmljVTc0ZUtCZlc3NEJtUEFreGg0U3ZOb0tQLXYtOURYLW1kdw?oc=5",
+        "titulo_evento": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Encyclopedia Britannica",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Deal, Explained, United States, Israel,...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 01:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine strikes Russian Iran-bound cargo as Iran war widens - Euronews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1BVeERvdHF5RUxXZkxNcDc1ZnVDS3pXVHlqNE4wdVkyLUdLUDFaYmFzZllUYzM4TXlkUUF6eDJqUmNpTGNSZHdNS0hRZmF1akZzRmt2bllHaWJFNUxvYy1URmh0RXR1WWNsc1JNU2RxbWYwMFk0UEx4cHRiaEtZb3FpeEx4bDl1azYtUThlM0Y5cjkz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1BVeERvdHF5RUxXZkxNcDc1ZnVDS3pXVHlqNE4wdVkyLUdLUDFaYmFzZllUYzM4TXlkUUF6eDJqUmNpTGNSZHdNS0hRZmF1akZzRmt2bllHaWJFNUxvYy1URmh0RXR1WWNsc1JNU2RxbWYwMFk0UEx4cHRiaEtZb3FpeEx4bDl1azYtUThlM0Y5cjkzV3dSLWp4Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 11:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Missiles, Mobilization, and Tehran: Can the Houthis Wage a Wider War? - The Media Line",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGxQVGdMM3JrNlBLUnZUeHZEZHRUZE9wc0Z2RV8xQU5MLWtKN0FybFZKUlJyTHpZaWJNeldwemZrMmhfU2JqQWVGYWExc04wcUZpZkQ4bDAzdVBoUlNvM0NJdkY0eTkwblNFdWRxOEJJbS1aV1dBZW54clFicXZOMGMtS0lCVExMMGlpX1V3QzN3dlpy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGxQVGdMM3JrNlBLUnZUeHZEZHRUZE9wc0Z2RV8xQU5MLWtKN0FybFZKUlJyTHpZaWJNeldwemZrMmhfU2JqQWVGYWExc04wcUZpZkQ4bDAzdVBoUlNvM0NJdkY0eTkwblNFdWRxOEJJbS1aV1dBZW54clFicXZOMGMtS0lCVExMMGlpX1V3QzN3dlpyZE03LU5YeWhQcm92YUJFeGlMMzRWa2RSbENv?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 12:02"
+        "data_noticia": "26/07/2026 05:00"
       }
     },
     {
@@ -1111,33 +1077,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Iran army says war to ‘expand further’ if US attacks restart - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnNGckpYejAydFFDZHdVc2xnSkxXeFhZLXFkT25NRzdDdDBKUGF2NnNoNjJ0eG9JWlJPRjh3eDVvTERiMkk5dHRoODg4S01YdV9OQmJkeGRJX054SHlnRzlIX1g5UXo3UDZ6SWFxQ0QxSkpUQzN5dGZDekRTMDFjYTB5a05BU2VYN3VsMnFnUTRpVEVP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnNGckpYejAydFFDZHdVc2xnSkxXeFhZLXFkT25NRzdDdDBKUGF2NnNoNjJ0eG9JWlJPRjh3eDVvTERiMkk5dHRoODg4S01YdV9OQmJkeGRJX054SHlnRzlIX1g5UXo3UDZ6SWFxQ0QxSkpUQzN5dGZDekRTMDFjYTB5a05BU2VYN3VsMnFnUTRpVEVPa1c3c2VRcHhKMzVWLXpBQS1Zbw?oc=5",
+        "titulo_evento": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC1NV0I2aXEwczAtZVE4Y3FWNW1OVFRWT0k3M05xZ0d5V1FLZXNvWlJUVThTQXF4MnU0bndRMnBrV0J0b2d4ZF9FRl9CQzQxUGhxRmI5SHhYWnRkUmljVTc0ZUtCZlc3NEJtUEFreGg0U3ZOb0tQLXYtOURYLW1kdw?oc=5\" target=\"_blank\">U.S...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC1NV0I2aXEwczAtZVE4Y3FWNW1OVFRWT0k3M05xZ0d5V1FLZXNvWlJUVThTQXF4MnU0bndRMnBrV0J0b2d4ZF9FRl9CQzQxUGhxRmI5SHhYWnRkUmljVTc0ZUtCZlc3NEJtUEFreGg0U3ZOb0tQLXYtOURYLW1kdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 07:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin Just GUTTED Russia to Keep His War Alive - Kyiv Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5\" target=\"_blank\">Putin Just GUTTED Russia to Keep His War Alive</a>&nbsp;&nbsp;<font col...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUkhCTUJlc1d3UjlHVVJib3lSc3Bzd2w0QW5obVVpbG9Eb2ZRbkpiWW5CM3JFckxfQUxSa1EySkdGNjhkemxoM01wR3o2Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "26/07/2026 07:57"
+        "data_noticia": "26/07/2026 01:26"
       }
     },
     {
@@ -1150,11 +1099,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
+        "titulo_evento": "Trump's 'perfect' Iran war hits a dead end: Can diplomacy succeed where bombs couldn't? - Firstpost",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0FJWVlCNmNRaXhNZmRXcjhZMENmSVc0NGxMSGd6amhzd1pnbm53VW9pWF85b2RDSF9IVmwxSEtONlpPaFA0ZEEzdV9HZ1BsUEhjVzBfVmpYS3UwV1ZVMkhnNUk3NTRqUEFfM3RBZVBQMXVjTGZReFp4NW1kaVJnN2FLdnlNWmRzMzJrcGtmVnB3d0gz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0FJWVlCNmNRaXhNZmRXcjhZMENmSVc0NGxMSGd6amhzd1pnbm53VW9pWF85b2RDSF9IVmwxSEtONlpPaFA0ZEEzdV9HZ1BsUEhjVzBfVmpYS3UwV1ZVMkhnNUk3NTRqUEFfM3RBZVBQMXVjTGZReFp4NW1kaVJnN2FLdnlNWmRzMzJrcGtmVnB3d0gzSlROeldUUS1KX19ISHFKV0lyVm9ldGVHQTNzRVc2T0N6QzMySk1PSWVUbEpITW91UGc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/07/2026 23:18"
+        "data_noticia": "26/07/2026 14:27"
       }
     },
     {
@@ -1162,16 +1111,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war, tariffs raise new risks for a resilient U.S. economy - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERrdThNdjQxcE5icld5alRtRm1mbjNYSXpYR0dEWkRreTJkc2MyMTRiZk9TSlpkejBINVdPN1NfVU43MktNLWRlOS1ubTBTdzBIUlppTDFmejVuT1hKb0Z1dDVGcDlGV0R3VGQzS3FXR0ZRS2xGanktLXQ1UFVsX18tSnMzeWdCRGdTNTJJTlNmek5W...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERrdThNdjQxcE5icld5alRtRm1mbjNYSXpYR0dEWkRreTJkc2MyMTRiZk9TSlpkejBINVdPN1NfVU43MktNLWRlOS1ubTBTdzBIUlppTDFmejVuT1hKb0Z1dDVGcDlGV0R3VGQzS3FXR0ZRS2xGanktLXQ1UFVsX18tSnMzeWdCRGdTNTJJTlNmek5WUHBPd0djRDhJR1V5bHZOR09SRy0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "25/07/2026 17:00"
+        "titulo_evento": "Column: In Ukraine, the war with Russia has created a nation of 'superhumans' - Los Angeles Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ld1Y2VnBHY09zREhoM290ck82U2NndC1LUWdISTBJbUViWlc3dzR6bFh4N1lkcE9mdjBSY2dXZ3UwQlB6MnJWb21jV3FxYWtuN0N2RGVORm1wOFJSMWg3MzE3Tm5nMUFDWVVyb1ZZa3A0TjNUNjR1NjM2RFJuN2pxYWpNUzYt?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ld1Y2VnBHY09zREhoM290ck82U2NndC1LUWdISTBJbUViWlc3dzR6bFh4N1lkcE9mdjBSY2dXZ3UwQlB6MnJWb21jV3FxYWtuN0N2RGVORm1wOFJSMWg3MzE3Tm5nMUFDWVVyb1ZZa3A0TjNUNjR1NjM2RFJuN2pxYWpNUzYt?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "26/07/2026 10:00"
       }
     },
     {
