@@ -11,6 +11,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
+        "descricao": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says.",
+        "url_fonte": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "30/07/2026 17:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
         "descricao": "Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air defense missile launchers.",
         "url_fonte": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
@@ -91,6 +108,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Turtle rescued from rubble a month after Venezuela earthquake",
+        "descricao": "A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "30/07/2026 18:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.1834,
           21.5218
         ]
@@ -159,40 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli strikes kill at least four, including children, across Gaza Strip",
-        "descricao": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "30/07/2026 11:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Several children killed and wounded in Israeli attacks across Gaza",
-        "descricao": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "30/07/2026 10:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -215,11 +215,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "descricao": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "Why limited war with the US may suit Iran better than peace",
+        "descricao": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "29/07/2026 18:41"
+        "data_noticia": "30/07/2026 17:26"
       }
     },
     {
@@ -261,16 +261,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "France wildfires: Risk remains 'extremely high' despite slight weather improvement",
-        "descricao": "\nFrance's wildfire risk remains \"extremely high\" despite a slight improvement in weather conditions, Interior Minister Laurent Nunez said on Thursday (July 30), citing persistent drought and fast-spreading blazes across the country. Nunez said higher...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-france-wildfires-risk-remains-extremely-high-despite-slight-weather-improvement",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 14:18"
+        "titulo_evento": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "descricao": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "29/07/2026 18:41"
       }
     },
     {
@@ -278,33 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
+          -63.6167,
+          -38.4161
         ]
       },
       "properties": {
-        "titulo_evento": "Warsaw blames Moscow after a missile crashes in Poland",
-        "descricao": "\nPolish authorities are investigating an object that came down in eastern Poland overnight and is thought to be a Russian missile, Prime Minister Donald Tusk said on Thursday. The discovery followed reports of an explosion, with investigators finding...",
-        "url_fonte": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 14:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "French interior minister says wildfire situation still 'quite complicated'",
-        "descricao": "\nFrench Interior Minister Laurent Nunez said the \"situation is still quite complicated\" as wildfires continued to burn after a crisis meeting Thursday in Paris. Regarding the giant wildfires that have spread in Gironde region, Nunez said the blaze st...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-french-interior-minister-says-wildfire-situation-still-quite-complicated",
-        "categoria": "Política (France 24)",
-        "data_noticia": "30/07/2026 12:47"
+        "titulo_evento": "Milei authorises expulsion of foreigners over anti-Argentina hate speech",
+        "descricao": "The government said the changes were a response to what it described as \"recent displays of hostility towards the Argentine Republic and Argentinians,\" although it did not cite specific examples.",
+        "url_fonte": "http://www.euronews.com/2026/07/30/milei-authorises-expulsion-of-foreigners-over-anti-argentina-hate-speech",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "30/07/2026 17:26"
       }
     },
     {
@@ -317,28 +300,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Hundreds of migrants enter Spain's north African territory Ceuta from Morocco",
-        "descricao": "\nThe president of Spain's north African exclave Ceuta on Thursday warned of a \"total humanitarian and social emergency\" after hundreds of migrants entered the territory by swimming across from neighbouring Morocco in recent days. \n",
-        "url_fonte": "https://www.france24.com/en/europe/20260730-hundreds-of-migrants-enter-spain-north-african-territory-ceuta-from-morocco",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 12:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "#Ukraine pounded in Russian attack, Polish airspace 'violated'",
-        "descricao": "\nIn #Russia's latest deadly attack on #Ukraine, an unidentified object violated Polish airspace and crashed into a field. Ukrainian President Volodymyr #Zelensky has urged allies for anti-ballistic #missiles against 'Russian terror', while the #EU ha...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-ukraine-pounded-in-russian-attack-polish-airspace-violated-1",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 11:31"
+        "titulo_evento": "Thousands of migrants storm Ceuta border from Morocco",
+        "descricao": "Thousands crossed into Spain's North African enclave of Ceuta from Morocco, prompting local authorities to request a national emergency and military support.",
+        "url_fonte": "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "30/07/2026 17:10"
       }
     },
     {
@@ -351,11 +317,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Greek firefighters battle deadly wildfires on Crete for a second day",
-        "descricao": "\nGreek firefighters were ⁠battling deadly wildfires on ​the island of Crete for a second day on Thursday, as wildfires continue to ​spread across Europe following days of devastating blazes in Spain and France. On Wednesday, three Greek firefighters ...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-greek-firefighters-battle-deadly-wildfires-on-crete-for-a-second-day",
-        "categoria": "Política (France 24)",
-        "data_noticia": "30/07/2026 10:21"
+        "titulo_evento": "Drone footage captures massive Castellon wildfire in eastern Spain",
+        "descricao": "Wildfires continue to burn across Spain as crews battle blazes in Castellon and Zamora, with thousands evacuated and aircraft supporting firefighting efforts.",
+        "url_fonte": "http://www.euronews.com/video/2026/07/30/drone-footage-captures-massive-castellon-wildfire-in-eastern-spain",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "30/07/2026 15:34"
       }
     },
     {
@@ -363,67 +329,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          21.8243,
+          39.0742
         ]
       },
       "properties": {
-        "titulo_evento": "Tens of thousands of French wildfire evacuees allowed to return home",
-        "descricao": "\nFrench authorities gave the go-ahead Thursday for 84,000 evacuees forced out by a monster wildfire to go back to their homes in southwest France, the strongest sign yet that firefighters are turning a corner in their battle against the flames that h...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-tens-of-thousands-of-french-wildfire-evacuees-allowed-to-return-home",
-        "categoria": "Política (France 24)",
+        "titulo_evento": "Crete wildfire kills two firefighters as fierce flames spread in Greece",
+        "descricao": "Wildfires continue to burn across Crete, Greece, where two firefighters died as strong winds fuelled the blaze and aircraft joined rescue efforts.",
+        "url_fonte": "http://www.euronews.com/video/2026/07/30/crete-wildfire-kills-two-firefighters-as-fierce-flames-spread-in-greece",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "30/07/2026 13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "FIFA opens disciplinary cases against Argentina for World Cup final scuffle and 'Malvinas' banner",
+        "descricao": "Argentina midfielder Leandro Paredes faces three charges of assault in the post-game clashes after Spain’s 1-0 win on July 19, defender Nahuel Molina faces two charges and coach Roberto Ayala one.",
+        "url_fonte": "http://www.euronews.com/2026/07/30/fifa-opens-disciplinary-cases-against-argentina-for-world-cup-final-scuffle-and-malvinas-b",
+        "categoria": "Política (Euronews (Europa))",
         "data_noticia": "30/07/2026 10:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Poland says giant crater left by explosion after Russia attacks on Ukraine",
-        "descricao": "\nPolish authorities said Thursday that a 10 metre (33 feet) wide crater had been left by an explosion in an eastern region that occurred as Russia staged new missile attacks on neighbouring Ukraine. Polish authorities did not immediately give the cau...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-poland-says-giant-crater-left-by-explosion-after-russia-attacks-on-ukraine",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 10:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Drone reveals charred forest landscape after wildfires scorch France",
-        "descricao": "\nDrone footage captured on Wednesday (July 29) revealed the scale of destruction left by wildfires in southwestern France, showing charred land, uprooted and burnt trees and the remains of destroyed houses near Le Temple. The blaze in the Landes area...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-drone-reveals-charred-forest-landscape-after-wildfires-scorch-france",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 09:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US launches wave of strikes on Iran in response to Tehran missile attack in Jordan",
-        "descricao": "\nThe US military completed a \"heavy wave of strikes\" against Iran on Thursday in retaliation against Tehran targeting American bases in Jordan, as fighting intensified in the Middle East war after a nearly week-long pause. The reignited hostilities h...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-us-launches-wave-of-strikes-on-iran-in-response-to-tehran-missile-attack-in-jordan",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 09:48"
       }
     },
     {
@@ -436,11 +368,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US military launches 'powerful' retaliatory strikes on Iran",
-        "descricao": "\nThe United States military launched \"powerful\" strikes on Iran on Thursday, in retaliation for Tehran's attacks targeting US bases in Jordan as the Middle East war reignited and again drew in the Islamic republic's proxies. The first strikes after a...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-us-military-launches-powerful-retaliatory-strikes-on-iran",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 09:05"
+        "titulo_evento": "US resumes direct attacks on Iran one day after foiling strikes on Jordanian bases hosting its troops",
+        "descricao": "Trump vowed to hit Iran “very hard” following Tehran's recent attacks on bases hosting US troops in Jordan and other US allies in the region, including Egypt and the Gulf states.",
+        "url_fonte": "http://www.euronews.com/2026/07/30/washington-resumes-direct-attacks-on-iran-a-day-after-its-foiled-strikes-on-jordanian-base",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "30/07/2026 05:53"
       }
     },
     {
@@ -448,33 +380,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "Russian strikes kill at least 8, wound dozens across Ukraine",
-        "descricao": "\nRussian strikes killed at least eight people and wounded more than a dozen others across Ukraine, authorities said on Thursday, triggering renewed calls from Kyiv for its allies to send air defence supplies. The overnight attack, which involved 74 m...",
-        "url_fonte": "https://www.france24.com/en/video/20260730-russian-strikes-kill-at-least-8-wound-dozens-across-ukraine",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/07/2026 09:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Paris neighbourhoods: The charming 3rd arrondissement",
-        "descricao": "\nIn this edition of French Connections, Genie Godula and Florence Villeminot continue their tour of Paris with a stop in the 3rd arrondissement. This is the quieter, more local side of the Marais and one of the oldest neighbourhoods in the French cap...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/french-connections/20260730-paris-neighbourhoods-the-charming-3rd-arrondissement",
-        "categoria": "Política (France 24)",
-        "data_noticia": "30/07/2026 09:00"
+        "titulo_evento": "Spain will send troops to Ceuta to help with border security",
+        "descricao": "Authorities in the Spanish city of Ceuta asked Madrid to declare a national emergency and send military assistance. Crowds of people breached the border of the territory next to Morocco as police lost control.",
+        "url_fonte": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "30/07/2026 18:13"
       }
     },
     {
@@ -505,27 +420,10 @@
       },
       "properties": {
         "titulo_evento": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
-        "descricao": "Tehran has threatened a response after a Ukrainian strike on a Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
+        "descricao": "Tehran has threatened a response after a Ukrainian strike on an Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
         "url_fonte": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "30/07/2026 14:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ceuta asks Spain to declare emergency over Morocco migrants",
-        "descricao": "Authorities in the Spanish city of Ceuta have asked Madrid to declare a national emergency and offer military assistance. Footage showed crowds of people walking around the breakwaters to gain entry to the territory.",
-        "url_fonte": "https://www.dw.com/en/ceuta-asks-spain-to-declare-emergency-over-morocco-migrants/a-78177638?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "30/07/2026 13:21"
       }
     },
     {
@@ -577,23 +475,6 @@
         "url_fonte": "https://www.dw.com/en/deaths-in-ukraine-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "30/07/2026 09:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany news: Deutsche Bahn returns to profit",
-        "descricao": "Rail operator Deutsche Bahn has returned to profit for the first time in years, helped by rising demand. Meanwhile, a court is set to hear a case about the forwarding of private WhatsApp messages. DW has more.",
-        "url_fonte": "https://www.dw.com/en/germany-news-deutsche-bahn-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "30/07/2026 08:11"
       }
     },
     {
@@ -720,23 +601,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The race to save von der Leyen’s big speech",
-        "descricao": "Brussels may have entered summer mode, but one of the first big political moments everyone will be watching when they return to work is Commission President Ursula von der Leyen’s State of the Union address in September.&#160;And officials still at t...",
-        "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-race-to-save-von-der-leyens-big-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "30/07/2026 04:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -771,16 +635,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2prN282V24wLTlNdWt6TFM0VURZSjF5SktyblBSWmNPeGtidHNKd09ZVkdmMnlZS3hUbEJmWFE0NUVaVHAyVW5PX0lQY0Vqa19sVW83NWQyVW9qRXR4MGVyVVpPV3lEeVg3czR6UElsdG1ZSHZWXzRKcER2ZFBGM2ZBU3JLOUNhX3RQV0lpMmtHdjYt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2prN282V24wLTlNdWt6TFM0VURZSjF5SktyblBSWmNPeGtidHNKd09ZVkdmMnlZS3hUbEJmWFE0NUVaVHAyVW5PX0lQY0Vqa19sVW83NWQyVW9qRXR4MGVyVVpPV3lEeVg3czR6UElsdG1ZSHZWXzRKcER2ZFBGM2ZBU3JLOUNhX3RQV0lpMmtHdjYtc1pIQ0lNLUFMX2dqUVlIc1ozdHdQQXVNRWc?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "30/07/2026 10:56"
+        "titulo_evento": "Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 17:42"
       }
     },
     {
@@ -788,16 +652,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. hits dozens more targets in Iran as violence widens - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUE5LbjBwN0lKZVVxQXJRcjEydEtIeUlNUjgyRzBnU1RQUE1fN2dSZkdKb1BWVTJ4cF8zcUJoNXh4dGlBcGRhaGNCNXNqck9LWl85WmhfQ1RlNUoyZ1JSRHY1VmpqM3ZWUHN6TWpnN3Y4Sl8zci12UUk4S1RvUHZJa3Y1WjJBb01SZ3dSOWV2ZXVGSklP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUE5LbjBwN0lKZVVxQXJRcjEydEtIeUlNUjgyRzBnU1RQUE1fN2dSZkdKb1BWVTJ4cF8zcUJoNXh4dGlBcGRhaGNCNXNqck9LWl85WmhfQ1RlNUoyZ1JSRHY1VmpqM3ZWUHN6TWpnN3Y4Sl8zci12UUk4S1RvUHZJa3Y1WjJBb01SZ3dSOWV2ZXVGSklPODE2V2poQTUwNFNLd3o1V3AwbnM3TVVoUnlrbmdUOW5UYmI0UFB3?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "30/07/2026 16:27"
+        "titulo_evento": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnhRWEFZaDdpMkNfSDhNVmJ6NmxmQUxmZVlfZHJldjhpdVBLdnlaYzVOX3pYNE0wTkhyYmRjempCeDBMNURTejFDNlB5RThIYlhOOWlfb2xvbElYbEl4X3NhUlpYaWwwTkhxSDZSazdXMVc0ei1CYW4xakkzUENEb0tPRXJ4VktVVExvZGpTWnJ6azU5cjVEUmdPS3V0LUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 16:03"
       }
     },
     {
@@ -810,7 +674,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "NATO jets scramble as Russian missile detonates in Poland - aljazeera.com",
+        "titulo_evento": "NATO jets scramble as Russian missile detonates in Poland - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9PdFl1R0FYVXhXOFVhYTlYZF9pdF8yRk1PWjNjWEhpYVJ6cTViaF9uTHFBYkdPX25BNk1zX1B5T2pMZDA2NjBQTnlUb0owdzNZQ1NCZVhVMS1RemxIc1dDNlB4TVUwcXRwdG9zdzk3dDFFeFRORjNZdGtRN2hWQVUxWk9qZmx3Mk53SVlsQlplQ3dh...",
         "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9PdFl1R0FYVXhXOFVhYTlYZF9pdF8yRk1PWjNjWEhpYVJ6cTViaF9uTHFBYkdPX25BNk1zX1B5T2pMZDA2NjBQTnlUb0owdzNZQ1NCZVhVMS1RemxIc1dDNlB4TVUwcXRwdG9zdzk3dDFFeFRORjNZdGtRN2hWQVUxWk9qZmx3Mk53SVlsQlplQ3dhOXZNdUZQdTBVTnPSAaQBQVVfeXFMTkszWllTMEJhbmJmMTJiUUlObDdhLTlVb2R3bzZrMm9BUjJSSTEwX3pRa2xZdTNwLTdYVUVjVnhXWnIwUWVNY1NJYUdGREdfR2VMb1FWSkVJSW5JLUJUSThhTHBpZVAyWWRGZDhTbGRNam5PUjRmRWNDb3psMnBNVXgwTGQwLUFDQnFEdTB4Z0tvbGR3UWpHZnYtTEVNVlFXalpBS3k?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -827,11 +691,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Real Reason Trump Hasn’t Been Able to Win the War With Iran - Slate Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXVWM3pIdFhFM25vdm1zQy1kQmdxd0F0SWNPQW1FY21jUmtUN053YzNiV08xb0pweUVDOGs5akdKT0xrc3FWUVhyNEwwU0ZXRHBaU2hrcUtRU2FmN19yR1RxdGp4SGtyMm5Bc1JqYnBRT1ZnaVRxWDFFbTVLNFVUWlVFVVFtUWc2?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXVWM3pIdFhFM25vdm1zQy1kQmdxd0F0SWNPQW1FY21jUmtUN053YzNiV08xb0pweUVDOGs5akdKT0xrc3FWUVhyNEwwU0ZXRHBaU2hrcUtRU2FmN19yR1RxdGp4SGtyMm5Bc1JqYnBRT1ZnaVRxWDFFbTVLNFVUWlVFVVFtUWc2?oc=5",
+        "titulo_evento": "Senate Dems see momentum despite repeat losses on Iran war votes - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11UTY0Rkp3MzBaV2lBR2dLTzFJbGF4NUJqNGVKZUpleDN5eXR5YVJLVVFuZEltUFZkNEZsRHNVdHlzaU1FSy1KWjMwM05ibk5GZHpFSUZWd3VUTmtNNWE3OV9LUzdIWEtjbW9xRzJnUS1WZGtwS0JkTjZfQ0FrMHM?oc=5\" target=\"_blank\">Senate...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11UTY0Rkp3MzBaV2lBR2dLTzFJbGF4NUJqNGVKZUpleDN5eXR5YVJLVVFuZEltUFZkNEZsRHNVdHlzaU1FSy1KWjMwM05ibk5GZHpFSUZWd3VUTmtNNWE3OV9LUzdIWEtjbW9xRzJnUS1WZGtwS0JkTjZfQ0FrMHM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 14:00"
+        "data_noticia": "30/07/2026 18:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. hits dozens more targets in Iran as violence widens - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUE5LbjBwN0lKZVVxQXJRcjEydEtIeUlNUjgyRzBnU1RQUE1fN2dSZkdKb1BWVTJ4cF8zcUJoNXh4dGlBcGRhaGNCNXNqck9LWl85WmhfQ1RlNUoyZ1JSRHY1VmpqM3ZWUHN6TWpnN3Y4Sl8zci12UUk4S1RvUHZJa3Y1WjJBb01SZ3dSOWV2ZXVGSklP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUE5LbjBwN0lKZVVxQXJRcjEydEtIeUlNUjgyRzBnU1RQUE1fN2dSZkdKb1BWVTJ4cF8zcUJoNXh4dGlBcGRhaGNCNXNqck9LWl85WmhfQ1RlNUoyZ1JSRHY1VmpqM3ZWUHN6TWpnN3Y4Sl8zci12UUk4S1RvUHZJa3Y1WjJBb01SZ3dSOWV2ZXVGSklPODE2V2poQTUwNFNLd3o1V3AwbnM3TVVoUnlrbmdUOW5UYmI0UFB3?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "30/07/2026 17:22"
       }
     },
     {
@@ -844,28 +725,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "U.S., Iran trade missile barrages as hopes dim for quick resolution - spectrumlocalnews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVThfeDNZQTh3RlAtTkhoUG1nSi0zUEwtd3JUY3IzVnpiZ1lCd3VYWFJlNzgyRFZpWmhERWFqbEluZ3lpQ1EwRHpOa1h4NUxoVW81Q0tJVHNHbUprYzVIS0hUQkJydER4b3VfR3NXVmRkYWNjVXJXa1MwLU5pb0pNd3FRckdaNXpZM3RpcmItTEk0X3JP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVThfeDNZQTh3RlAtTkhoUG1nSi0zUEwtd3JUY3IzVnpiZ1lCd3VYWFJlNzgyRFZpWmhERWFqbEluZ3lpQ1EwRHpOa1h4NUxoVW81Q0tJVHNHbUprYzVIS0hUQkJydER4b3VfR3NXVmRkYWNjVXJXa1MwLU5pb0pNd3FRckdaNXpZM3RpcmItTEk0X3JPcUczRA?oc=5",
+        "titulo_evento": "Senate Republicans block resolution to halt Iran war - thehill.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEtpYnViV1FmUTJDMTJFMnd1cHR0bXlzejV4YzhZcm1mM1VyWDFycWdsUnNLY0R3azZwOWVJcnBmSi1qSnJTNFRUSUlRSTV4UXFBZHlVb21KVE9paTJNTXBtQkhzeURMem05U0lZWG4zUERnZXBweDZ6MTdGQ09jNtIBhgFBVV95cUxPQzJrMzZ3LU9w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEtpYnViV1FmUTJDMTJFMnd1cHR0bXlzejV4YzhZcm1mM1VyWDFycWdsUnNLY0R3azZwOWVJcnBmSi1qSnJTNFRUSUlRSTV4UXFBZHlVb21KVE9paTJNTXBtQkhzeURMem05U0lZWG4zUERnZXBweDZ6MTdGQ09jNtIBhgFBVV95cUxPQzJrMzZ3LU9wa1BzU1ItNnFPNEdyZTh3b0lXRi1mMHpjdVI3a0RFeW8zTzV3ZzJFSjZtNHNuXzVhOGppbFNmWkdodjVuRDFwcUpVbVNQMmZ0V2hGRDlYa3hBZEw3bDh2TkdWQjJYRFByRl9iRTRRc2RPdjhTanJIYTdtZkRRZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 11:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New Strikes Engulf More Countries in the Iran War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDFXRnZYalhsWXp0YllnODNxNHUzRVlCQmRIaFZJX1JEY0JKSkVBMXUxX09kendCVjcwMXFTSTlIdWVsbFR4X0EyTVR6UU1TMm56YlRCUXZaaDhpeGEtWEp6UGhpR3pIdUJFOUdpQkxpa2c2VWtXTmVYLWxzUU5NcFgtd2diOXdwVkJqeWJfSQ?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDFXRnZYalhsWXp0YllnODNxNHUzRVlCQmRIaFZJX1JEY0JKSkVBMXUxX09kendCVjcwMXFTSTlIdWVsbFR4X0EyTVR6UU1TMm56YlRCUXZaaDhpeGEtWEp6UGhpR3pIdUJFOUdpQkxpa2c2VWtXTmVYLWxzUU5NcFgtd2diOXdwVkJqeWJfSQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 16:05"
+        "data_noticia": "30/07/2026 17:17"
       }
     },
     {
@@ -890,6 +754,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "War powers resolution fails as Senate Republicans stand by Trump on Iran - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2J0Y3RxcVFtSnVYN3BTVWEwQmk5YXlhZjRzUDRTdFFGMFZteGJWekUydzZCTko5ZmlLenRqTThKRnllZFdnblNoSGpWMFNzejNIaXd3NjJMbE1ORy1MZTBaZ19ZR1RaRjFxbDNQNHZVWWhkYTZTNWlrenVkeGZwcExkVEFFRVRvVHpORXE5WHFJZTA5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2J0Y3RxcVFtSnVYN3BTVWEwQmk5YXlhZjRzUDRTdFFGMFZteGJWekUydzZCTko5ZmlLenRqTThKRnllZFdnblNoSGpWMFNzejNIaXd3NjJMbE1ORy1MZTBaZ19ZR1RaRjFxbDNQNHZVWWhkYTZTNWlrenVkeGZwcExkVEFFRVRvVHpORXE5WHFJZTA5bGN2b00zWE3SAaIBQVVfeXFMUFhzeDZwZ0VhNzdzOEFBMmc3Qy00bTVqNkZER2RoOS05aTV6NHdDcmdjZXRheTM4V2VQUFlfVWREQ1NSTW9pY2pRaEFMcThZMFRTcUNJNTZUbVZpcjZ0VTAtUFJ1blFnSDUzTFBWWHdtcUxvOHRPdnVoVlFnbUNPQkdsRjFkNVhRdEx5RFNCMktmd3hRY0VPdlk4a2tqZlRyVnNB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 17:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Exactly what Iran intended’: Some Jordanians buckle under missile pressure, demand US withdrawal - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE54VVphZmgwcWVyejBSTndTTlRQb3lKZVluX2oyTXZTWU9HR3RXVWdBZmMxbk1LdHJMXzBKbnEyUHl6QU5xWEc3Wi0wWDhtYmlEeXR6R2xEakc0QmhQ?oc=5\" target=\"_blank\">‘Exactly what Iran intended’: Some Jordanians buckle ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54VVphZmgwcWVyejBSTndTTlRQb3lKZVluX2oyTXZTWU9HR3RXVWdBZmMxbk1LdHJMXzBKbnEyUHl6QU5xWEc3Wi0wWDhtYmlEeXR6R2xEakc0QmhQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 16:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Real Reason Trump Hasn’t Been Able to Win the War With Iran - Slate Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXVWM3pIdFhFM25vdm1zQy1kQmdxd0F0SWNPQW1FY21jUmtUN053YzNiV08xb0pweUVDOGs5akdKT0xrc3FWUVhyNEwwU0ZXRHBaU2hrcUtRU2FmN19yR1RxdGp4SGtyMm5Bc1JqYnBRT1ZnaVRxWDFFbTVLNFVUWlVFVVFtUWc2?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXVWM3pIdFhFM25vdm1zQy1kQmdxd0F0SWNPQW1FY21jUmtUN053YzNiV08xb0pweUVDOGs5akdKT0xrc3FWUVhyNEwwU0ZXRHBaU2hrcUtRU2FmN19yR1RxdGp4SGtyMm5Bc1JqYnBRT1ZnaVRxWDFFbTVLNFVUWlVFVVFtUWc2?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vote to limit Trump’s Iran war powers fails in the Senate - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEhYTGNVOFdHd29CSW1PXzZtc2p2UGxuSE5xT2NOLUY2WTF2ZDF0RURwSm1CRzEzQVJuYmJoWDNvN3ZfVWE1NWhsdTIwdDhGSVJYaTc3bWZxdTk2ejNVWjEtbG85aFlsUHhtaHdMUk5UVUxlRVlieXpnSHp2bUlvZkpNaXY2bXg3UFZVTF9IcjVJblBw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcEhYTGNVOFdHd29CSW1PXzZtc2p2UGxuSE5xT2NOLUY2WTF2ZDF0RURwSm1CRzEzQVJuYmJoWDNvN3ZfVWE1NWhsdTIwdDhGSVJYaTc3bWZxdTk2ejNVWjEtbG85aFlsUHhtaHdMUk5UVUxlRVlieXpnSHp2bUlvZkpNaXY2bXg3UFZVTF9IcjVJblBwYmpZZUNDNUNMUms?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 18:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -899,7 +831,58 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQk5vdHRuWVBpS2p5QXNiNjUwQ01RRzl4OHhUMlU0T3JwM0ZqRVU1MzVGWGdUNWVoMWQycHBFWXBmQXo2VFYyZnl0VXg5MkllQ0ZCQk1UVkZFNHBPMEJueVRFcDhaaVhiSE1HR1dBUE0wbjY0UWZpZ296V1hvY0w0Vks0MF9EU2lGZ204RHpHaGJkMG83...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQk5vdHRuWVBpS2p5QXNiNjUwQ01RRzl4OHhUMlU0T3JwM0ZqRVU1MzVGWGdUNWVoMWQycHBFWXBmQXo2VFYyZnl0VXg5MkllQ0ZCQk1UVkZFNHBPMEJueVRFcDhaaVhiSE1HR1dBUE0wbjY0UWZpZ296V1hvY0w0Vks0MF9EU2lGZ204RHpHaGJkMG83bFZPSE1TZmtnRHBoeFNrY1JYd1prMko1aFNBZjY3a2c1ZklkOU1zRG9lMUdmd2JiMTJBYlhqaGYtOElHcjZubHljcWd4Rlp2UVE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 16:59"
+        "data_noticia": "30/07/2026 18:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "At least 8 killed as Russia strikes Ukraine a day after Zelenskyy warning - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZOLXFfRGdVeGhoLWtQZHdMZDVwRE9Xb2Rlb2liQ1RQdHUtWEpmczFyN1hjNEZJamFJcmtxNEswNWVrRGRiWmRYSk9KS3lmTHJLeUhydnpLY0g4SVdsQzlWOXBaT3FQMVY1TXFoRTZsczJNUnNjektBVkcyVTZMSmlCeGR4Z0o4bWhrUHdVR0xSWTdU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZOLXFfRGdVeGhoLWtQZHdMZDVwRE9Xb2Rlb2liQ1RQdHUtWEpmczFyN1hjNEZJamFJcmtxNEswNWVrRGRiWmRYSk9KS3lmTHJLeUhydnpLY0g4SVdsQzlWOXBaT3FQMVY1TXFoRTZsczJNUnNjektBVkcyVTZMSmlCeGR4Z0o4bWhrUHdVR0xSWTdUenJHQ1JFN1l5UUJwWHlzTHRLbElpZnhfd2hBMdIBtgFBVV95cUxNTUNxcWtDdUFFdWY1Qm92SGVjNUlPVGpKSFppTUYzN3RPLV9QR1pQcXFjdVFNZ28wQ1dXaVFyNHhSWEY3OXczUmQ0OWRGZENJTlM0eFowRFh0UWFFT1ZHY0tXSXdiQTFNUlplQUhKbXllSTVPcXBQY0lTbzJDanhtSGRRYXlOVjhTOWF3RlZDb0c5Q05iRnpNTFFBUlJSV2FiR0s2SmxuZmlqa2s1eVpMNlV4Mk5NQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 12:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin The Puppeteer: How Russia Benefits From Trump’s War in Iran - Time Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0lMdFkxeDFFQ091OW5BVFUySG9YNW1NWEhyZkNySXNTOTVnRS1QbHdmVTZ2UTU1ekt2SEg2TmJjVDdGOXpaUTZ0R3EtWXV5S08zNEV3dVU4RE1XVkNNZFJmOWhQV2ZHV090blRtVkExemtKcVpQd2xZYnRqZEpTdjN6MDhQS1dDTHFORV9rWGlCZEVq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0lMdFkxeDFFQ091OW5BVFUySG9YNW1NWEhyZkNySXNTOTVnRS1QbHdmVTZ2UTU1ekt2SEg2TmJjVDdGOXpaUTZ0R3EtWXV5S08zNEV3dVU4RE1XVkNNZFJmOWhQV2ZHV090blRtVkExemtKcVpQd2xZYnRqZEpTdjN6MDhQS1dDTHFORV9rWGlCZEVqYjVKaHFRUGRqTDlDZ2tn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 14:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war will probably endure until the fall, says Brookings’ Michael O’Hanlon - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmNlMFFNX1lSd0hpWXUyeU5sdHktRHNwRTVKMXVaVHdUcGl5eHcza0IwWkNKU05DYm5BbGlPVHVnbjFsYl80RzZMNVJUajVwQS1FQ1U3OVA4WmhjdHFEV0ZDek5DWHFESm00ZjRyVGVCZ2ttSEVYcS1tQzRlR3h2QWI0TnVmNHVkNFI2dTNjNVVoalFk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmNlMFFNX1lSd0hpWXUyeU5sdHktRHNwRTVKMXVaVHdUcGl5eHcza0IwWkNKU05DYm5BbGlPVHVnbjFsYl80RzZMNVJUajVwQS1FQ1U3OVA4WmhjdHFEV0ZDek5DWHFESm00ZjRyVGVCZ2ttSEVYcS1tQzRlR3h2QWI0TnVmNHVkNFI2dTNjNVVoalFkNm5rX3RfMTNEQ192eHRZamt0RzY0b3hPSFdKYVNWRGk0Uy1RelVJRw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/07/2026 17:41"
       }
     },
     {
@@ -924,108 +907,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran vows to ‘punish the aggressor today’ after U.S. unleashes ‘heavy wave’ of strikes - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnN0M1BBZmhESEUzUk12VFVZck5SUHJ3RVRVeS02WkVfZ3pEN3lOalM1YzlTWkZXbE9LSk1HY3JmaEs1bVNOTXlpY1ZFMW1HRzd4VFMwWWk0WHJPMTR5NUIwZ1c4MTJnTVFuZjRJSHVzbndGaE04OVh6R3J2SU9RaGpiVVlYSHFLa1lCLTZVek5VRWF0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnN0M1BBZmhESEUzUk12VFVZck5SUHJ3RVRVeS02WkVfZ3pEN3lOalM1YzlTWkZXbE9LSk1HY3JmaEs1bVNOTXlpY1ZFMW1HRzd4VFMwWWk0WHJPMTR5NUIwZ1c4MTJnTVFuZjRJSHVzbndGaE04OVh6R3J2SU9RaGpiVVlYSHFLa1lCLTZVek5VRWF0QnFqUnZIczJ2RklIYnAwQjJDdzZDZXNJazZIMA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 12:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "At least 8 killed as Russia strikes Ukraine a day after Zelenskyy warning - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZOLXFfRGdVeGhoLWtQZHdMZDVwRE9Xb2Rlb2liQ1RQdHUtWEpmczFyN1hjNEZJamFJcmtxNEswNWVrRGRiWmRYSk9KS3lmTHJLeUhydnpLY0g4SVdsQzlWOXBaT3FQMVY1TXFoRTZsczJNUnNjektBVkcyVTZMSmlCeGR4Z0o4bWhrUHdVR0xSWTdU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnZOLXFfRGdVeGhoLWtQZHdMZDVwRE9Xb2Rlb2liQ1RQdHUtWEpmczFyN1hjNEZJamFJcmtxNEswNWVrRGRiWmRYSk9KS3lmTHJLeUhydnpLY0g4SVdsQzlWOXBaT3FQMVY1TXFoRTZsczJNUnNjektBVkcyVTZMSmlCeGR4Z0o4bWhrUHdVR0xSWTdUenJHQ1JFN1l5UUJwWHlzTHRLbElpZnhfd2hBMdIBtgFBVV95cUxNTUNxcWtDdUFFdWY1Qm92SGVjNUlPVGpKSFppTUYzN3RPLV9QR1pQcXFjdVFNZ28wQ1dXaVFyNHhSWEY3OXczUmQ0OWRGZENJTlM0eFowRFh0UWFFT1ZHY0tXSXdiQTFNUlplQUhKbXllSTVPcXBQY0lTbzJDanhtSGRRYXlOVjhTOWF3RlZDb0c5Q05iRnpNTFFBUlJSV2FiR0s2SmxuZmlqa2s1eVpMNlV4Mk5NQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 12:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Defense News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2doTXpvNzBGWWRCRU1zbmh4NG1LamsxMTR6cTA1eVpvakRaZ3N2alNuekZYVGhRU3Rrd0RVT1hqYW83NGNCTmdldHpvSEUzUi0xUHk4dlhmaG1KQjNzRjFKTnIxR1hZd3BlcndwRXJmd2l3elRlVFI5ZkFpMmFUN3JuX01hZzFuTUZuc2Itd1pNY2VC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2doTXpvNzBGWWRCRU1zbmh4NG1LamsxMTR6cTA1eVpvakRaZ3N2alNuekZYVGhRU3Rrd0RVT1hqYW83NGNCTmdldHpvSEUzUi0xUHk4dlhmaG1KQjNzRjFKTnIxR1hZd3BlcndwRXJmd2l3elRlVFI5ZkFpMmFUN3JuX01hZzFuTUZuc2Itd1pNY2VCTjlVRW16eWNCVXRFQ1lBUnNvczNxVTliQ2t0SkxzYk5mNDBKTlJLRmtLTGNYUm4xY1hGWmIwc2UzQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 15:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US launches ‘heavy wave’ of new attacks on Iran - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFVX3lxTE1id1NxcERIelVSWk9aamxvSE1tQ3duZkY5VFRPVm5hQzd4bEp6MENxeXNjRlhIczlvbG1ZQ19HeHJxY2JNOE5LVHVqMGhYeGhGa3Z6QjZnNjhQcjRBcHNXeVRObXN4a2l6WUtxcUpTalNYSEdRR3k5dEJKN3lFZjEwcFFzLVFzZkx1NXJsMFByQnJWZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 13:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "NATO Says Russian Missile Hit Poland During Ukraine Attack - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0ZTSzMyRUZsQlpsTFR2VEtyVHNTX2V3aW9KdVFqaDUxZDdsY25hclhCOXZtZkdoZHdIUDV5X2ZLMDVvOGFBd1NGZUplcWgxVzV4MjRmekE3cHpBMjdDNy1yTkpoZ2RQZTN0WVZoNU9VbFNWWlowMXZIUjV1bjZjcGlGNFd5bFJFMnc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0ZTSzMyRUZsQlpsTFR2VEtyVHNTX2V3aW9KdVFqaDUxZDdsY25hclhCOXZtZkdoZHdIUDV5X2ZLMDVvOGFBd1NGZUplcWgxVzV4MjRmekE3cHpBMjdDNy1yTkpoZ2RQZTN0WVZoNU9VbFNWWlowMXZIUjV1bjZjcGlGNFd5bFJFMnc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 09:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Iran war frustration and on the frontline of France’s wildfire: Morning Rundown - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWU4WFRrZEhWdnRiSDZscmt2NVUwbGdqWGx5U1VVTlJSaU95Nzk4c0kzMkdhUDE1S25XU1FrWUJaM05XUkNQZGJycFgyWnlTdGJ0Q0hEX0ZWdEI3MFE3SWFHNGh3WkNwdnZnaEkwQ1B4NzVGRV9oaUJURXVONk40R1hHbDAzUzY5X2pBMUNuY3VudHph...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWU4WFRrZEhWdnRiSDZscmt2NVUwbGdqWGx5U1VVTlJSaU95Nzk4c0kzMkdhUDE1S25XU1FrWUJaM05XUkNQZGJycFgyWnlTdGJ0Q0hEX0ZWdEI3MFE3SWFHNGh3WkNwdnZnaEkwQ1B4NzVGRV9oaUJURXVONk40R1hHbDAzUzY5X2pBMUNuY3VudHphTTcxTFF3RDhoSVY0NmhiRGszeFloMlR6c19B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 10:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.1451,
           51.9194
         ]
@@ -1043,16 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russia likely fired North Korean missile in Ukraine strike that killed family, sources say - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRk...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+        "titulo_evento": "Iran vows to ‘punish the aggressor today’ after U.S. unleashes ‘heavy wave’ of strikes - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnN0M1BBZmhESEUzUk12VFVZck5SUHJ3RVRVeS02WkVfZ3pEN3lOalM1YzlTWkZXbE9LSk1HY3JmaEs1bVNOTXlpY1ZFMW1HRzd4VFMwWWk0WHJPMTR5NUIwZ1c4MTJnTVFuZjRJSHVzbndGaE04OVh6R3J2SU9RaGpiVVlYSHFLa1lCLTZVek5VRWF0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnN0M1BBZmhESEUzUk12VFVZck5SUHJ3RVRVeS02WkVfZ3pEN3lOalM1YzlTWkZXbE9LSk1HY3JmaEs1bVNOTXlpY1ZFMW1HRzd4VFMwWWk0WHJPMTR5NUIwZ1c4MTJnTVFuZjRJSHVzbndGaE04OVh6R3J2SU9RaGpiVVlYSHFLa1lCLTZVek5VRWF0QnFqUnZIczJ2RklIYnAwQjJDdzZDZXNJazZIMA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 16:10"
+        "data_noticia": "30/07/2026 12:24"
       }
     },
     {
@@ -1065,11 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s War Within - The Atlantic",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2NuSXVNUGNfUnkyNmhkWTc4VDAyV3J4ckwxa09WZ2RSRl8tbDgtOHdyby1sYnRHZHNKZ1VIZFBrV3ZZdUprdnBuU3B2c1k1NVZ0aGFndUFqcWE0ZVdPQmNtdTJDXzBJRjhQNmxkQkRJZGV1bDVyUzRuandoblZLUFRJczBEX3pJNXdMUUwwYUpqbUE?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2NuSXVNUGNfUnkyNmhkWTc4VDAyV3J4ckwxa09WZ2RSRl8tbDgtOHdyby1sYnRHZHNKZ1VIZFBrV3ZZdUprdnBuU3B2c1k1NVZ0aGFndUFqcWE0ZVdPQmNtdTJDXzBJRjhQNmxkQkRJZGV1bDVyUzRuandoblZLUFRJczBEX3pJNXdMUUwwYUpqbUE?oc=5",
+        "titulo_evento": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say - Military Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUllvbVJ1a1ExMDZydHRaV3JpNnNZWERQUmYxazJoX0lpVEJTWlFQOWZQLVA2TEpfT1l5VXBWdmF1NF92ZG1jSTJEWHhPX1YwOTBHa1FaYno1OVZXNE9KM1VUZXI1TlA5d01ZLUl0cVM5LXhlSUNiOERFdFl1MDY3WDB3S3JmQk9yTnNDUEhKdzJ1YmJY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUllvbVJ1a1ExMDZydHRaV3JpNnNZWERQUmYxazJoX0lpVEJTWlFQOWZQLVA2TEpfT1l5VXBWdmF1NF92ZG1jSTJEWHhPX1YwOTBHa1FaYno1OVZXNE9KM1VUZXI1TlA5d01ZLUl0cVM5LXhlSUNiOERFdFl1MDY3WDB3S3JmQk9yTnNDUEhKdzJ1YmJYZU5JYjQ5bmNxTXA5MjBBX1NoUzF6aWhUSFh3cUhBOTFsRVE2SlFrdXo4Uzh4eFRRbzAwaGdURmNnUF9FLXhNajYxUXlKanBqMkRZUFI0azU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 11:00"
+        "data_noticia": "30/07/2026 17:48"
       }
     },
     {
@@ -1082,11 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US economy slowed more than expected as the Iran war took hold - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2s5bWs3bTB3c2hFVXNkMUZ5dlRyeGQzMUN6T1ZJbll1alBJVnE0Um52LVZ0dl9zaDhubFVwMzdqdUtNQjQ1T0RfOTdPdEZzYjFjeElLRTEwc1ZRV0Q4ZXpYQ2E5RWhJNWZhYlNxN25kdThPa3lKYTIwMEhaalhPUTJVM0dNVDFEa2x0eHN3cDRGSUJJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2s5bWs3bTB3c2hFVXNkMUZ5dlRyeGQzMUN6T1ZJbll1alBJVnE0Um52LVZ0dl9zaDhubFVwMzdqdUtNQjQ1T0RfOTdPdEZzYjFjeElLRTEwc1ZRV0Q4ZXpYQ2E5RWhJNWZhYlNxN25kdThPa3lKYTIwMEhaalhPUTJVM0dNVDFEa2x0eHN3cDRGSUJJVHpjaEhWYXdVOHNqOWln0gGoAUFVX3lxTE5wUmdCTUczajByQXhGc0s3Tm9lek90UTVmWW1XTEQ1azhvU3R6clZjQmZHR1N5bHNQLTF6d2E2V2NFRi1HRER1amstbTBQcmlRal91UEhpbmQ2dW9rUXFzRU5VSF91X0IxWUNHRXlCNjNXbk9HaDBPNWN1MmVfaGo0UlNtcXdRODUxRXNjdTJfVDhCdmp3QVZlLU95Vkg1ZzlkZzRZYzQ3Rw?oc=5",
+        "titulo_evento": "US launches ‘heavy wave’ of new attacks on Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFVX3lxTE1id1NxcERIelVSWk9aamxvSE1tQ3duZkY5VFRPVm5hQzd4bEp6MENxeXNjRlhIczlvbG1ZQ19HeHJxY2JNOE5LVHVqMGhYeGhGa3Z6QjZnNjhQcjRBcHNXeVRObXN4a2l6WUtxcUpTalNYSEdRR3k5dEJKN3lFZjEwcFFzLVFzZkx1NXJsMFByQnJWZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 12:44"
+        "data_noticia": "30/07/2026 13:07"
       }
     },
     {
@@ -1099,11 +980,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US launches 'heavy' strikes on Iran after attempted attack on American troops - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTU0lxSXpCeTVrS1JXemlVdmNyZ2NjaDhpWFhCY2hwa2pmdk5yblB4M2FBN3cwQU9RTWJCRTJCTDFGaHZEZC1ENUEwdGFCLUhrY1VrZU1GVHhOZw?oc=5\" target=\"_blank\">US launches 'heavy' strikes on Iran after attempted att...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTU0lxSXpCeTVrS1JXemlVdmNyZ2NjaDhpWFhCY2hwa2pmdk5yblB4M2FBN3cwQU9RTWJCRTJCTDFGaHZEZC1ENUEwdGFCLUhrY1VrZU1GVHhOZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/07/2026 10:49"
+        "titulo_evento": "Economy Slows Amid Iran Conflict Impact - 700WLW",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0dpT1RlckZjX1QzOXdWQzVqdE9PbUs4NXo4ZUVueHlFY3V3N0kwNHJkeXlMMUsycW5MNGVvdFg1WXBkNERVbUxhX0FjY3NseDRuYTNNX0VGQlFJVE5CUGZqUm9sbVllcjZmRW16YlZNdkd0LXRhWjBLVWVENFlEQ0RpN2FQU1c4TFRHYll3?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0dpT1RlckZjX1QzOXdWQzVqdE9PbUs4NXo4ZUVueHlFY3V3N0kwNHJkeXlMMUsycW5MNGVvdFg1WXBkNERVbUxhX0FjY3NseDRuYTNNX0VGQlFJVE5CUGZqUm9sbVllcjZmRW16YlZNdkd0LXRhWjBLVWVENFlEQ0RpN2FQU1c4TFRHYll3?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "30/07/2026 14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          41.8719
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Italy's economy weathering Iran war better than expected, data suggests - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29QdzlsOWszZ3h5X2p3cUdSajVjVXIydnBhczFBQWoyeHJaREZON1BZRDRwVy03SmVmQjBkM2l5UEpMRktHRmNzTWt3SF94VTZCcjk0UDlJLXNuRktHa0RJaWNxX2duZjF5akswaGdIblY2ZjJ6R2g3REtjUEdLZDhlZHNGU1k4UnZMQkhJcTJJOWRL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29QdzlsOWszZ3h5X2p3cUdSajVjVXIydnBhczFBQWoyeHJaREZON1BZRDRwVy03SmVmQjBkM2l5UEpMRktHRmNzTWt3SF94VTZCcjk0UDlJLXNuRktHa0RJaWNxX2duZjF5akswaGdIblY2ZjJ6R2g3REtjUEdLZDhlZHNGU1k4UnZMQkhJcTJJOWRLZmxHWjR4WmhuWTlpQ2RnWmlB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "30/07/2026 11:07"
       }
     },
     {
@@ -1145,23 +1043,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5674,
-          41.8719
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Italy's economy weathering Iran war better than expected, data suggests - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29QdzlsOWszZ3h5X2p3cUdSajVjVXIydnBhczFBQWoyeHJaREZON1BZRDRwVy03SmVmQjBkM2l5UEpMRktHRmNzTWt3SF94VTZCcjk0UDlJLXNuRktHa0RJaWNxX2duZjF5akswaGdIblY2ZjJ6R2g3REtjUEdLZDhlZHNGU1k4UnZMQkhJcTJJOWRL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb29QdzlsOWszZ3h5X2p3cUdSajVjVXIydnBhczFBQWoyeHJaREZON1BZRDRwVy03SmVmQjBkM2l5UEpMRktHRmNzTWt3SF94VTZCcjk0UDlJLXNuRktHa0RJaWNxX2duZjF5akswaGdIblY2ZjJ6R2g3REtjUEdLZDhlZHNGU1k4UnZMQkhJcTJJOWRLZmxHWjR4WmhuWTlpQ2RnWmlB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "30/07/2026 11:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1172,23 +1053,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTJEeFp5c3pveGFrLXM5dGxlVjVOMDRDR3I3RUhVWmhyd19nWUVfNW8ySjdsbVNoUVpqVm0wZWhvN09WYW5TV0hnaGpKVGFWa216c0tNNF9FNVVDQS13dE9mMW1yaERQZURieVNrNXE0ajJoU01xbkIydzJMQzg1endNaEg0ZGxnZTZ0bzc1VE4tRFR6NE1rZDFFZ3RwdTh3cWFaQzBBVGVvN1Fuc3luNS01aXhsU25i?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "30/07/2026 09:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Economy Slows Amid Iran Conflict Impact - iHeart",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk1CRGFNVWNvNU5zY201a255MHR2a1AzN2VldUgxcWRGX05uMzVSTURHQjV4QkFPaVdMc2xjdG9zbmc2ZUJHMzAzdVdmTWdIWFFXY2NzLUtjS05leW4xVjVOdklFVS1jYWY2WHJSZGJpekt0dEpoTkpRNjIxeGo3NnNNSTJaT0JLdHlJ?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk1CRGFNVWNvNU5zY201a255MHR2a1AzN2VldUgxcWRGX05uMzVSTURHQjV4QkFPaVdMc2xjdG9zbmc2ZUJHMzAzdVdmTWdIWFFXY2NzLUtjS05leW4xVjVOdklFVS1jYWY2WHJSZGJpekt0dEpoTkpRNjIxeGo3NnNNSTJaT0JLdHlJ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "30/07/2026 14:38"
       }
     }
   ]
