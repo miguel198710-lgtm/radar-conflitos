@@ -108,23 +108,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tanks, troops and space",
-        "descricao": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.",
-        "url_fonte": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "02/08/2026 14:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -203,6 +186,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "02/08/2026 16:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live: Trump says new talks with Iran to begin Monday after calling off strikes",
+        "descricao": "\nUS President Donald Trump said that negotiations with Iran will begin Monday after he decided to hold off on new strikes against the Islamic republic to pursue a deal. Read our live blog to see how events unfolded.\n",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260802-live-trump-says-new-talks-with-iran-to-begin-monday-after-calling-off-strikes",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "02/08/2026 22:11"
       }
     },
     {
@@ -368,28 +368,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East live: Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict",
+        "titulo_evento": "Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict",
         "descricao": "\nUS President Donald Trump said Saturday that the United States and Israel had agreed to hold off on new strikes on Iran – provided a deal to end the months-long conflict is \"rapidly\" reached. Iran's acting defence minister said his country would \"ne...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260802-live-trump-says-us-to-stop-new-strikes-on-iran-calls-for-rapid-deal-on-hormuz",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "02/08/2026 05:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli strikes on residential buildings kill at least 13 in Gaza",
-        "descricao": "\nIsraeli strikes on Gaza overnight killed at least 13 people after hitting several residential buildings, local authorities said on Sunday. Seven people were also killed in Israeli strikes on Saturday, a day after Hamas said it had agreed to the late...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260801-israeli-strikes-kill-eight-overnight-despite-hopes-for-a-deal",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "01/08/2026 18:57"
       }
     },
     {
@@ -623,11 +606,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Dow Jones Futures Due As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+        "titulo_evento": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
         "descricao": "",
         "url_fonte": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-        "categoria": "Política (Yahoo Finance (Global))",
+        "categoria": "Economia (Yahoo Finance (Global))",
         "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+        "descricao": "The markets’ moves were the first since President Trump said late Saturday that he had halted a U.S. assault as Iran.",
+        "url_fonte": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "02/08/2026 22:31"
       }
     },
     {
@@ -686,16 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Scoop: Saudi crown prince raises concerns over Trump's plans for massive Iran strikes - axios.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9aMzI3b2dFUjY0VXJHaWxPWVB1ay1TVHhRVW42emxqcU9zOFN3ME9feTdPUTE4WUxSajFGcUdQTWRydjR2UDA4QVlfdXRNdlhkQURuS1B2b3NySjB4dXdUaUFOVlhibTFHckxvWnhLbHBFcGtuX2Q1ZXhB?oc=5\" target=\"_blank\">Scoop: Saudi ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aMzI3b2dFUjY0VXJHaWxPWVB1ay1TVHhRVW42emxqcU9zOFN3ME9feTdPUTE4WUxSajFGcUdQTWRydjR2UDA4QVlfdXRNdlhkQURuS1B2b3NySjB4dXdUaUFOVlhibTFHckxvWnhLbHBFcGtuX2Q1ZXhB?oc=5",
+        "titulo_evento": "As Trump cites progress on deal to end war, Iran and Israel remain on alert - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHV6dXFDM1hKanZxUW12NVNULXRwUkpfR3lhTEh3TzZhRGFjMGNwVWd6Z3ZQSFBTTkxNUFFsVGI1aTFEZlVLNnZIWDdQd1c5RmZSSUxIbVJxdTQ0QjRZN2JVbEJDUWZON29qQlQ2Vk80Mzc1OGl5Q3pDSEFpWEZlRWl2NXhSa2J4dXZhbXJfdzd2amx1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHV6dXFDM1hKanZxUW12NVNULXRwUkpfR3lhTEh3TzZhRGFjMGNwVWd6Z3ZQSFBTTkxNUFFsVGI1aTFEZlVLNnZIWDdQd1c5RmZSSUxIbVJxdTQ0QjRZN2JVbEJDUWZON29qQlQ2Vk80Mzc1OGl5Q3pDSEFpWEZlRWl2NXhSa2J4dXZhbXJfdzd2amx1ZWFLajRoRFIwRDJUUWw5czlldk5yNVlhbzF4bzFSeG9JZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 20:08"
+        "data_noticia": "02/08/2026 22:09"
       }
     },
     {
@@ -737,23 +737,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Lowering the bar for victory in the Iran war - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlENjRLUTBUT0I2UDVfdFlWNDZ0clA3YllIcVhodnYzbThzb1prdlppcXpZejlXZkRVamxhckNVcmlfbXZJQ2xjTVJFTzhHRlBCc3draFZKejlfOXpIbTVQZjR4MHNXYTUzTlZySF9uSUZxSWNISFFkRjBnTzlmVTZ2Zjd1LXFT0gGOAUFVX3lxTE56...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlENjRLUTBUT0I2UDVfdFlWNDZ0clA3YllIcVhodnYzbThzb1prdlppcXpZejlXZkRVamxhckNVcmlfbXZJQ2xjTVJFTzhHRlBCc3draFZKejlfOXpIbTVQZjR4MHNXYTUzTlZySF9uSUZxSWNISFFkRjBnTzlmVTZ2Zjd1LXFT0gGOAUFVX3lxTE56TEJhMGVuQmN2X05vQld1WGpUUUJKUGw1eW5IR29fZVoydlV1Mno3dUx0SVF6aWc1ajgxUGgwNkhfclVMQmZHZXlsa3JPVEpZNERMS28zOWk3eFozbkFySEg5dUJxc0dzcTltUm1Ibkc2MXNsT3hCb21GektuNy1kSU5FOG40UHVSc3RkZlE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 15:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -776,11 +759,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY2JjZElLTGFUT0wxcXhvbnJFd2taYzlXaUhRNWNwOUFvbFBLX3MtWnhWeXpHUUlxRjBJcWwyaktlVnBOVmxPdFJSSUhIa0FZQmU2VU5zTHdVN0VXdVVWMWFrZUVBSlgwcXc3cXliY2FkVWNYbkdGX0dB0gF_QVVfeXFMTnJKWHBaeTFfYUZ3RHoyMWx0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY2JjZElLTGFUT0wxcXhvbnJFd2taYzlXaUhRNWNwOUFvbFBLX3MtWnhWeXpHUUlxRjBJcWwyaktlVnBOVmxPdFJSSUhIa0FZQmU2VU5zTHdVN0VXdVVWMWFrZUVBSlgwcXc3cXliY2FkVWNYbkdGX0dB0gF_QVVfeXFMTnJKWHBaeTFfYUZ3RHoyMWx0c0NWSFpsc1ZZUzZoN3JiRUFla3FfVDFVMllZcHplSTRmRExUMHU4aG16T29MOGluZ1RyOFJ5ME13aktEZUJ0c01OQmlaUzRNRHFYblNGOE0xVVc2WG1lcWZkLWpDTGsxS0Z3blVvSQ?oc=5",
+        "titulo_evento": "Trump says he will order halt to Iran strikes after pa­ra­meters reached for deal to end war - Spectrum News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVRfOUZkUDRQekRzbm9xUmRxU3JvRUtoY3V6ZW94XzRvWEhoVmQxYzcwUDVYT3dYdm1lUkZkSnh4NzRWVTgxWE83eEp3SVcyOFRkZGppMGd6NUhlelBfWmM4d0FwcWRkeTlONTgzemFHd29JaXpZQTc4R0hIZlE5Zm1YV2RmLUxsaWZQMjQteUdiWVVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVRfOUZkUDRQekRzbm9xUmRxU3JvRUtoY3V6ZW94XzRvWEhoVmQxYzcwUDVYT3dYdm1lUkZkSnh4NzRWVTgxWE83eEp3SVcyOFRkZGppMGd6NUhlelBfWmM4d0FwcWRkeTlONTgzemFHd29JaXpZQTc4R0hIZlE5Zm1YV2RmLUxsaWZQMjQteUdiWVVnRWFR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 13:00"
+        "data_noticia": "02/08/2026 15:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0z...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/08/2026 18:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump administration calls itself the most transparent. Yet few details of the Iran war have been shared. - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05qQzV1OHdTNWpiM25ueXlUMEpiamd3MG9VTWwzWHJJVy02Q3RwdV95dUdmcHZoNjBLRzhhM3dsOVFFTGVtNGdtU1p0Y1VGVTJUaktOZlRFRDhIMkpJZkQ3alVTT2hsOWMwX3B0VG4zdjNReWxZLXVVRF8zZXBqNVhkRU91UzQ?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05qQzV1OHdTNWpiM25ueXlUMEpiamd3MG9VTWwzWHJJVy02Q3RwdV95dUdmcHZoNjBLRzhhM3dsOVFFTGVtNGdtU1p0Y1VGVTJUaktOZlRFRDhIMkpJZkQ3alVTT2hsOWMwX3B0VG4zdjNReWxZLXVVRF8zZXBqNVhkRU91UzQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/08/2026 16:15"
       }
     },
     {
@@ -810,28 +827,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0z...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy05LW5ObUpORjFnYnd6WWR0UmJrOVVXR19TU1JqcFBxdUtwMGRGZm5DX2hNZ3h0dWhRWk5Rd3M1cGY5WnpneE85T1JDOEdtYnZUMWl0b1AwN0JseTRCQTNmVlllQzN1djg3RzIyWENCdGx2SzdZSXJLNHJJeXFPVHVwc292NnlCbDJTdDhHQ3ZURE0zaEJvdHR2dkxyRVk1a1FoTmtoZw?oc=5",
+        "titulo_evento": "Lowering the bar for victory in the Iran war - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlENjRLUTBUT0I2UDVfdFlWNDZ0clA3YllIcVhodnYzbThzb1prdlppcXpZejlXZkRVamxhckNVcmlfbXZJQ2xjTVJFTzhHRlBCc3draFZKejlfOXpIbTVQZjR4MHNXYTUzTlZySF9uSUZxSWNISFFkRjBnTzlmVTZ2Zjd1LXFT0gGOAUFVX3lxTE56...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTlENjRLUTBUT0I2UDVfdFlWNDZ0clA3YllIcVhodnYzbThzb1prdlppcXpZejlXZkRVamxhckNVcmlfbXZJQ2xjTVJFTzhHRlBCc3draFZKejlfOXpIbTVQZjR4MHNXYTUzTlZySF9uSUZxSWNISFFkRjBnTzlmVTZ2Zjd1LXFT0gGOAUFVX3lxTE56TEJhMGVuQmN2X05vQld1WGpUUUJKUGw1eW5IR29fZVoydlV1Mno3dUx0SVF6aWc1ajgxUGgwNkhfclVMQmZHZXlsa3JPVEpZNERMS28zOWk3eFozbkFySEg5dUJxc0dzcTltUm1Ibkc2MXNsT3hCb21GektuNy1kSU5FOG40UHVSc3RkZlE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 18:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Trump cites progress on deal to end war, Iran and Israel remain on alert - washingtonpost.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHV6dXFDM1hKanZxUW12NVNULXRwUkpfR3lhTEh3TzZhRGFjMGNwVWd6Z3ZQSFBTTkxNUFFsVGI1aTFEZlVLNnZIWDdQd1c5RmZSSUxIbVJxdTQ0QjRZN2JVbEJDUWZON29qQlQ2Vk80Mzc1OGl5Q3pDSEFpWEZlRWl2NXhSa2J4dXZhbXJfdzd2amx1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHV6dXFDM1hKanZxUW12NVNULXRwUkpfR3lhTEh3TzZhRGFjMGNwVWd6Z3ZQSFBTTkxNUFFsVGI1aTFEZlVLNnZIWDdQd1c5RmZSSUxIbVJxdTQ0QjRZN2JVbEJDUWZON29qQlQ2Vk80Mzc1OGl5Q3pDSEFpWEZlRWl2NXhSa2J4dXZhbXJfdzd2amx1ZWFLajRoRFIwRDJUUWw5czlldk5yNVlhbzF4bzFSeG9JZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 19:08"
+        "data_noticia": "02/08/2026 15:00"
       }
     },
     {
@@ -844,28 +844,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "GOP Sen. John Kennedy says U.S. has ‘lost perspective’ on war with Iran: Full interview - NBC News",
+        "titulo_evento": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY2JjZElLTGFUT0wxcXhvbnJFd2taYzlXaUhRNWNwOUFvbFBLX3MtWnhWeXpHUUlxRjBJcWwyaktlVnBOVmxPdFJSSUhIa0FZQmU2VU5zTHdVN0VXdVVWMWFrZUVBSlgwcXc3cXliY2FkVWNYbkdGX0dB0gF_QVVfeXFMTnJKWHBaeTFfYUZ3RHoyMWx0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY2JjZElLTGFUT0wxcXhvbnJFd2taYzlXaUhRNWNwOUFvbFBLX3MtWnhWeXpHUUlxRjBJcWwyaktlVnBOVmxPdFJSSUhIa0FZQmU2VU5zTHdVN0VXdVVWMWFrZUVBSlgwcXc3cXliY2FkVWNYbkdGX0dB0gF_QVVfeXFMTnJKWHBaeTFfYUZ3RHoyMWx0c0NWSFpsc1ZZUzZoN3JiRUFla3FfVDFVMllZcHplSTRmRExUMHU4aG16T29MOGluZ1RyOFJ5ME13aktEZUJ0c01OQmlaUzRNRHFYblNGOE0xVVc2WG1lcWZkLWpDTGsxS0Z3blVvSQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/08/2026 13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "GOP Sen. John Kennedy says U.S. has ‘lost perspective’ on war with Iran: Full interview - nbcnews.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDNzS2NzQkQ1UjU1Z2NXU1E2T2swRjVUb0x1bnpNa3RHekwzMy1zSGhiZnhnV0lPUmJIdFpKel9yZEZQemtPQW5ib2dpMnpSYVFsQlpmMmlBTWswaUE1WU5oRWpraU9sZjVYQVU4UTJjSWtjV2d1d0l6VzJMSXlGcGE1NjZ1TXFfMzBuWUF6REtUODlN...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeDNzS2NzQkQ1UjU1Z2NXU1E2T2swRjVUb0x1bnpNa3RHekwzMy1zSGhiZnhnV0lPUmJIdFpKel9yZEZQemtPQW5ib2dpMnpSYVFsQlpmMmlBTWswaUE1WU5oRWpraU9sZjVYQVU4UTJjSWtjV2d1d0l6VzJMSXlGcGE1NjZ1TXFfMzBuWUF6REtUODlNWDF4RHdEcDVIYWpBcDl2ZG1HcHFtQjVGMVE3SzFMUjhTSHFiWXBBMkRHZ2Y2Vy1oR2RuTGRMU1FLTEgtbGVJT0R1Yw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "02/08/2026 13:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "After months on the Iran war’s sidelines, Yemen’s Houthis open a dangerous new front - washingtonpost.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0d0tYNlVjTzJTcUg1MjQ1VVdaTGxFT1NtWnpaUlBXajBidWRSUHc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 16:00"
       }
     },
     {
@@ -890,6 +890,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "After months on the Iran war’s sidelines, Yemen’s Houthis open a dangerous new front - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZNR0NxMlRvamQxeTFqSmRFdm94SGU5RF9fUGZwTUd0TVdZd3ZfUkFTdGxfc0czWWdrc2FYdVk2WWNHYVB3WjhwdVBabGYwNXpBaE1JcUZybVVIYkZjdjVoUWZBdDdRTWIxR0lTQWVIcWlQeWpUb2NXcWVUaS05R01sX0hPUzJIbW1HbXZQakJheDg0d0tYNlVjTzJTcUg1MjQ1VVdaTGxFT1NtWnpaUlBXajBidWRSUHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "02/08/2026 16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -900,40 +917,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi02ZFFMaEZRSjQtcjVoQ3RkQ0ttQi1VeG0zMkFURE9ITWRXV3VzdUZ4d3FRT2IxRXpHZU9Xa3NxMXRkUFA3Rklhd3oySEFSZFRoWVJyZUxYME5sbzNFQmN2YWpmNy1FbV9UREtDbmNjLWVKZG1GSE5oTENteEUwWTFNVzVjRHpZUlBYbGx3dWxvalgyVmJxMXNR0gGfAUFVX3lxTFBqMTdMVE5JUHJGNVVFMlJkV2dEYUxHNjFibndKOGw5dTRqSWM1dUFuLWJXYzlnVENERjhXT2FuV1hTOWtVdUxPZ0wxNkw1R2pTcE5zdlBodjFQZzMySmw4NmxUYlllTmdEUXN5TlFYSl9HYUJWbXVUTVBVZGpaRDZjTW15cUxWU2h0UEZiTG1ENlptdmgtMUdQM2kza0I1Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "02/08/2026 12:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJRMGhCUTV1M3RUVzBvR3dIeEJQNmtYQlZMNXpuNTFEZGZqMmJhMU1ZMWhDNVhGNm11VHVqUGZkZDRqak5jQzljSHQ5cDBoUTV6akVtZ1Aycm9lTHlwbVhFcGdXQVM5a1NtSEhDMncxWWYyWGJvMndKMktwMmJiVVV1ZzkybV93Z3ZnbVR5S2hBWFZY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJRMGhCUTV1M3RUVzBvR3dIeEJQNmtYQlZMNXpuNTFEZGZqMmJhMU1ZMWhDNVhGNm11VHVqUGZkZDRqak5jQzljSHQ5cDBoUTV6akVtZ1Aycm9lTHlwbVhFcGdXQVM5a1NtSEhDMncxWWYyWGJvMndKMktwMmJiVVV1ZzkybV93Z3ZnbVR5S2hBWFZYQk83VmNPN2Z1M0JSWUNuaVJvMEHSAa4BQVVfeXFMT2g3SWN5WGJFOXAyTFQxSE1xTmtBNWMxeGRIY2hpSV9kUnFZaGVaTVhqMUctN3V1MTViNWtwdjNMTWZxSHM4WDR1OFZLOGpqaFo4Q19Jc0dHUnlBd3E1NkY3NzJ3RDNWanhNS2dzNGo1MFhKS21pZ3VxdkV3SElfSmlQNUJrdmxiX0NjaXJTOXo0MTNJV3UtLWpnNURQSDY4ZTZvcmtPYjN4cDJtVlZB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 14:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7129,
-          37.0902
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war could unleash a marine 'super-spreader event' - USA Today",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWnoyZkFWWWxvRlB0cEtsYXNBU3FCWVhDbHllVEU3ZEc1bVY5TmZMeFB6XzRqdmp5MmFYckg3Rjdia0VLenFsZGpUQkx0UXVZMXRoSTlSbUZHSlVpNUhJcTZ1SHBRalkxTXJCeWtfcElFVTMwQmtjUTlZd2VCTTZLVDFsMC1JNW5wRVZpd3gyemxyYUZm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnoyZkFWWWxvRlB0cEtsYXNBU3FCWVhDbHllVEU3ZEc1bVY5TmZMeFB6XzRqdmp5MmFYckg3Rjdia0VLenFsZGpUQkx0UXVZMXRoSTlSbUZHSlVpNUhJcTZ1SHBRalkxTXJCeWtfcElFVTMwQmtjUTlZd2VCTTZLVDFsMC1JNW5wRVZpd3gyemxyYUZmZHBfZ2RXdlhMdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "02/08/2026 15:45"
       }
     },
     {
@@ -963,7 +946,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Israel’s labor shortage shows why foreign workers are vital to the economy - jpost.com",
+        "titulo_evento": "Israel’s labor shortage shows why foreign workers are vital to the economy - The Jerusalem Post",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fNmVEOWZpVDJJanVvYVNMVXpIcy03c2dYR0xIYWdoanpvQXdTQ1lpVndCbmZBSmFqX1BMa2V6SmhNY00wVGlReHpYc01pTldPYWlQdHFFdw?oc=5\" target=\"_blank\">Israel’s labor shortage shows why foreign workers are vital...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fNmVEOWZpVDJJanVvYVNMVXpIcy03c2dYR0xIYWdoanpvQXdTQ1lpVndCbmZBSmFqX1BMa2V6SmhNY00wVGlReHpYc01pTldPYWlQdHFFdw?oc=5",
         "categoria": "Economia (Google News Markets)",
@@ -1019,6 +1002,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUk5qMEs1Q0Mwd3JYUzdrZzBvbEFVaFFKQTJxbEduTWIzeFROX2I0UWR4Q09UQkhJb3JwUEV5RjRuN21KaDloREw1VGdyR2FKajZ6dUxUWC02MTdJYzN5Vk5ReG96TE9NZklyOEh3OVVwNW5HcVh4eWVFMmFYWmktRGRQMUtkdXdxOVpCNW9xRUpRQV9zY2lVVC1XMGF6ZkpHWVBIREdTZjQyWUpHUG9YdG5NalhpRXdjMHRoWXVGTUNBWmgzWTFUUVZrZFhERjNibHl2dThaTm7SAdgBQVVfeXFMUFJOajBLNUNDMHdyWFM3a2cwb2xBVWhRSkEycWxHbk1iM3hUTl9iNFFkeENPVEJISW9ycFBFeUY0bjdtSmg5aERMNVRnckdhSmo2enVMVFgtNjE3SWMzeVZOUXhvekxPTWZJcjhIdzlVcDVuR3FYeHllRTJhWFppLURkUDFLZHV3cTlaQjVvcUVKUUFfc2NpVVQtVzBhemZKR1lQSERHU2Y0MllKR1BvWHRuTWpYaUV3YzB0aFl1Rk1DQVpoM1kxVFFWa2RYREYzYmx5dnU4Wk5u?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "02/08/2026 05:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran has plan ready for responding to potential attacks on infrastructure: Report - Gulf News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFNSWVM2NjJzUWlIRlNaSENWSlZFQU1PX3R6SnBoNklwbmRkSl91NHh2ZExpaDNxN1lIRjdRUXhIbERXTGJhS3R3S09Kb1hvMkxUWE1zdDVXZ2NSbHEyVFR4N3ZFQXlTWnItY3N6TkR3R01FWDZRSVY3NXVwYzVfUkRTbDdjSFdjbE80ZkRKS3EyMU9J...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFNSWVM2NjJzUWlIRlNaSENWSlZFQU1PX3R6SnBoNklwbmRkSl91NHh2ZExpaDNxN1lIRjdRUXhIbERXTGJhS3R3S09Kb1hvMkxUWE1zdDVXZ2NSbHEyVFR4N3ZFQXlTWnItY3N6TkR3R01FWDZRSVY3NXVwYzVfUkRTbDdjSFdjbE80ZkRKS3EyMU9JXzl1bDlROVFyQkFSYldLQm9iRmxyOHItTkJ2dC1TU29GVGhKYkgxOWE1UGhad9IB1AFBVV95cUxNSnJHWTB2YWJ6QkZWcEhfOUtxYjdaMHhsMGZkdjRkdmkzS3M2R0pRdEdrQ1hzYkxWbnpNcGh1am51WFJMbkVuWVRsOFl6TWdSRnlUMWQ0RDlSRkZIZnRyMUZMRTNmbmtza0hVc1JTcG1OQWlPeE5pRWdqWmxUVjVqNnEwbnYyV256QldjeGFvVVlPU3BFdmJjNUxuenVvUXJoYXRvQWJKbnhWSnJaNWpaMG5MMzVCc1E4YU9KcVhxblpReC1GeWw1TDN3MzBZNjFhcUJqSA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "02/08/2026 22:14"
       }
     }
   ]
