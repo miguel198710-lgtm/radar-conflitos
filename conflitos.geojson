@@ -91,12 +91,80 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+        "descricao": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "04/08/2026 03:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+        "descricao": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "04/08/2026 02:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1834,
+          21.5218
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Does the US blockade on Cuba make America safer?",
+        "descricao": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/08/2026 01:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+        "descricao": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/08/2026 01:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+        "titulo_evento": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
         "descricao": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -185,7 +253,7 @@
         "descricao": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/08/2026 18:04"
+        "data_noticia": "04/08/2026 03:37"
       }
     },
     {
@@ -227,101 +295,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          34.4668,
+          31.5017
         ]
       },
       "properties": {
-        "titulo_evento": "Trump warns Tehran facing 'last chance before decapitation'",
-        "descricao": "\"We're talking about the Strait, the opening of the Strait, having it open literally by tomorrow, completely open,\" Trump told reporters while speaking from the White House on Monday.",
-        "url_fonte": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/08/2026 22:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Wildfire uncovers unexploded WWII shells in France",
-        "descricao": "A wildfire in southwest France exposed unexploded World War II shells, forcing bomb disposal teams to clear the area before evacuated residents can return home.",
-        "url_fonte": "http://www.euronews.com/video/2026/08/03/wildfire-uncovers-unexploded-wwii-shells-in-france",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/08/2026 15:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Wildfires destroy hundreds of homes near Spokane, Washington",
-        "descricao": "Wildfires in eastern Washington forced 5,000 home evacuations, destroyed about 600 buildings and continued to strain firefighting resources.",
-        "url_fonte": "http://www.euronews.com/video/2026/08/03/wildfires-destroy-hundreds-of-homes-near-spokane-washington",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/08/2026 09:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1834,
-          21.5218
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Cuba state energy firm reports new nationwide blackout as US embargo continues",
-        "descricao": "The power cuts have made normal life almost impossible, with each outage also meaning that water supplies trickle away and ceiling fans slow to a halt.",
-        "url_fonte": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/08/2026 09:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's foreign ministry contradicts Trump and says no negotiations taking place with US",
-        "descricao": "Washington and Tehran have been at war since 28 February, when the US and Israel launched surprise strikes against Iran, though months of on-off diplomacy have led to periods of relative calm.",
-        "url_fonte": "http://www.euronews.com/2026/08/03/trump-says-new-iran-talks-set-to-start-on-monday-after-calling-off-massive-attack",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/08/2026 07:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.7275,
-          37.9838
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Helicopters and firefighters fight fast-moving wildfire near Athens",
-        "descricao": "Firefighters and helicopters battled a fast-moving wildfire west of Athens as strong winds fueled the blaze and forced emergency operations across the area.",
-        "url_fonte": "http://www.euronews.com/video/2026/08/02/helicopters-and-firefighters-fight-fast-moving-wildfire-near-athens",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "02/08/2026 21:26"
+        "titulo_evento": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+        "descricao": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Economia (BBC World)",
+        "data_noticia": "03/08/2026 23:13"
       }
     },
     {
@@ -334,11 +317,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
-        "descricao": "On Friday, Trump had said he was \"losing faith\" in the prospect of a peace deal and threatened to hit Iran \"very hard.\"",
-        "url_fonte": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "02/08/2026 08:10"
+        "titulo_evento": "Did Iran hack water systems in seven US states?",
+        "descricao": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "04/08/2026 02:29"
       }
     },
     {
@@ -618,16 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Cuba could collapse. Here’s what Trump wants.",
-        "descricao": "\nAfter Venezuela and Iran, could Cuba be Donald Trump’s next target?\n \nAs the island endures its worst crisis in decades, Washington is hardening its stance and imposing further sanctions.\n \nIs this merely political posturing, or part of a genuine st...",
-        "url_fonte": "https://www.france24.com/en/cuba-could-collapse-what-s-trump-s-plan-for-the-island",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "03/08/2026 10:37"
+        "titulo_evento": "Venezuela earthquake death toll crosses 6,000",
+        "descricao": "The updated death toll comes weeks after the 7.2 and 7.5 magnitude quakes hit on June 24, causing massive damage to people and property.",
+        "url_fonte": "https://www.dw.com/en/venezuela-earthquake-death-toll-crosses-6-000/a-78224912?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "04/08/2026 04:02"
       }
     },
     {
@@ -641,7 +624,7 @@
       },
       "properties": {
         "titulo_evento": "Iran war: Trump tells Iranian leaders to make deal or surrender",
-        "descricao": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more.",
+        "descricao": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\"",
         "url_fonte": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "03/08/2026 16:40"
@@ -754,16 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          21.8243,
+          39.0742
         ]
       },
       "properties": {
-        "titulo_evento": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
-        "descricao": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists overlooks the parallels with right-wing extremism.",
-        "url_fonte": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "02/08/2026 09:20"
+        "titulo_evento": "Greece’s Mitsotakis: EU needs new tools to fight back against weaponized migration",
+        "descricao": "Europe's standard procedures do not adequately address scenarios where asylum is instrumentalized to create hybrid pressure.",
+        "url_fonte": "https://www.politico.eu/article/greece-kyriakos-mitsotakis-eu-tools-weaponized-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "04/08/2026 02:00"
       }
     },
     {
@@ -788,50 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Poland appeals €1.3B Pfizer vaccine ruling",
-        "descricao": "Warsaw says the end of the pandemic and Russia's invasion of Ukraine upended the deal.",
-        "url_fonte": "https://www.politico.eu/article/poland-appeal-pfizer-vaccine-ruling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "03/08/2026 16:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Farage needs the border to be the battle of the summer",
-        "descricao": "The Reform UK leader is back on his core issue amid intense scrutiny of his financial arrangements. ",
-        "url_fonte": "https://www.politico.eu/article/nigel-farage-immigration-plan-operation-fortress-uk-borders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "03/08/2026 14:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Von der Leyen rallies to support Spain after Ceuta crisis",
-        "descricao": "Commission president responds after Spanish PM accuses some European leaders of attacking him instead of offering solidarity.",
-        "url_fonte": "https://www.politico.eu/article/ursula-von-der-leyen-support-spain-ceuta-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "03/08/2026 11:56"
+        "titulo_evento": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+        "descricao": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.",
+        "url_fonte": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "04/08/2026 04:01"
       }
     },
     {
@@ -856,16 +805,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.7129,
-          37.0902
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Stop complaining about the Iran war. I'm making bank! | Opinion - USA Today",
+        "titulo_evento": "Stop complaining about the Iran war. I'm making bank! | Opinion - usatoday.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSG1RaUdPYXV3V0NNa0JndV9IX0FGcVZWNkc3bmdMZEtUSGh4NENWZ1lyTnJnT0ptUmdSb0FhZVREX3ZqYmJEMU5UbW1hQjJ3bEJSaUtLOW9aejZneHZzXzNjUFZWOVVVc0RoNWRNVUppRy1TWElRWWxNSVM4ZG9NZURLRzdLZWVVWlJIVHBsN29Dc0RL...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSG1RaUdPYXV3V0NNa0JndV9IX0FGcVZWNkc3bmdMZEtUSGh4NENWZ1lyTnJnT0ptUmdSb0FhZVREX3ZqYmJEMU5UbW1hQjJ3bEJSaUtLOW9aejZneHZzXzNjUFZWOVVVc0RoNWRNVUppRy1TWElRWWxNSVM4ZG9NZURLRzdLZWVVWlJIVHBsN29Dc0RLZXdwenF6X2lPaFd6MjBWUjZ6VmhRb1k?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "03/08/2026 21:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s Stop-Start Iran War - الحرة",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE05NUw1SVZoNVpyMDg5WXV1SWlCLVhOSkJpV1ptUVFpRHRELWtsd2pJQ2xDSzlXTUtWa1JROXE3c1MyZw?oc=5\" target=\"_blank\">Trump’s Stop-Start Iran War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الحرة</font>",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05NUw1SVZoNVpyMDg5WXV1SWlCLVhOSkJpV1ptUVFpRHRELWtsd2pJQ2xDSzlXTUtWa1JROXE3c1MyZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 02:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Military’s former top commander says Kyiv has no chance of joining Nato - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnM5MEtTeFRpOVA0ME1RU3FlUXdxR0NXOVprR19kOXdnLTkwQm9kc0tQNzc0MU1GT0ZDOXRYTXptMnd0NlY0RzBRdTN6c3BhMHpsd3F0bjFsVzVIM3FWeUQ3akwtSzJnRjhoRUFKa3VjcnlValpicmF1LUlpQlFlRUNZeTNVNDY0Z3ZpYjdRREFjcG5q...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnM5MEtTeFRpOVA0ME1RU3FlUXdxR0NXOVprR19kOXdnLTkwQm9kc0tQNzc0MU1GT0ZDOXRYTXptMnd0NlY0RzBRdTN6c3BhMHpsd3F0bjFsVzVIM3FWeUQ3akwtSzJnRjhoRUFKa3VjcnlValpicmF1LUlpQlFlRUNZeTNVNDY0Z3ZpYjdRREFjcG5qTW8wZEd4eERVb0c5QkRhbnBnSTBmTUFOOGJrVURPYjE4S19sWWJGVngwQ3pvTUJFZW5PZW1rQzBMYTJQby04?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 03:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9T...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 01:02"
       }
     },
     {
@@ -907,23 +907,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Five Scenarios: How Washington Sees the Iran War Ending - الحرة",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Mb3ZRa05fb2VRWGJTdHpIa3pfeXF5dHNxSjR3VndXOTE0d1A1b1pXSWFkRUJ0cHF0RVF5VE03dy1BZw?oc=5\" target=\"_blank\">Five Scenarios: How Washington Sees the Iran War Ending</a>&nbsp;&nbsp;<font color=\"#6f...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Mb3ZRa05fb2VRWGJTdHpIa3pfeXF5dHNxSjR3VndXOTE0d1A1b1pXSWFkRUJ0cHF0RVF5VE03dy1BZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/08/2026 20:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -934,6 +917,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZxblAwb3V2Z2N2SF85bjh6RDhPbW0xQllmVjJSbW1hRC1SbU9zVmdNRWktVEstY0thQ2RBdzBtS1U0aUNweExSYng1a1B4d2hsRFZaZ01SMmg5SUZVUW0wbmZtNFBsemtieUlVQXZJdjdac3RqY2tISFFaaUV1ajRn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "03/08/2026 20:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says ongoing talks are Iran’s ‘last chance’ - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmM3LUpzRC03eDlGaUR6amdueU9WSDdIM0FYNXlpdXJmbEdOZk9ZcTVzLWpUcktsZ3Z5eXd3S0M5Y3RRVGtINFFqUDdFS0JzUkkzY1A1LUo1cnVDc1MzMG43TXU4TGZWcHZQWUFndWd4ei0zdnE4d3dDWDIwM0haMDdWdFJiV0N4TTcxWGMyclpHMlNv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmM3LUpzRC03eDlGaUR6amdueU9WSDdIM0FYNXlpdXJmbEdOZk9ZcTVzLWpUcktsZ3Z5eXd3S0M5Y3RRVGtINFFqUDdFS0JzUkkzY1A1LUo1cnVDc1MzMG43TXU4TGZWcHZQWUFndWd4ei0zdnE4d3dDWDIwM0haMDdWdFJiV0N4TTcxWGMyclpHMlNvaWNhUUZUV04tX1E1NVJpOU1KSUZUNEtBMVlFSENQOGZNcDDSAbwBQVVfeXFMTmhBcW5BNGtIRnNLSWJLY2JCZlA2UERacTZfbnc3STh1TGhrYml6RXdMazBKWjJLNTBZZEIxOExZQk5xbEFnWWRDbF9aX0tvT05VX09rWUlYZFNEU3V5N29oaXh3Q2RmNFpVTHdfQmRQekVGdE9PS1NndWl4TGNZNTR3bjcwUUVLUDVma1NRQVZiZFd6aGdNNUVaZjBzNjJGbVRCdnhuTEptMHRKaThTNm1mdTNqR3JvaUNYV0Q?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "03/08/2026 20:52"
       }
     },
     {
@@ -963,11 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says ongoing talks are Iran’s ‘last chance’ - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmM3LUpzRC03eDlGaUR6amdueU9WSDdIM0FYNXlpdXJmbEdOZk9ZcTVzLWpUcktsZ3Z5eXd3S0M5Y3RRVGtINFFqUDdFS0JzUkkzY1A1LUo1cnVDc1MzMG43TXU4TGZWcHZQWUFndWd4ei0zdnE4d3dDWDIwM0haMDdWdFJiV0N4TTcxWGMyclpHMlNv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmM3LUpzRC03eDlGaUR6amdueU9WSDdIM0FYNXlpdXJmbEdOZk9ZcTVzLWpUcktsZ3Z5eXd3S0M5Y3RRVGtINFFqUDdFS0JzUkkzY1A1LUo1cnVDc1MzMG43TXU4TGZWcHZQWUFndWd4ei0zdnE4d3dDWDIwM0haMDdWdFJiV0N4TTcxWGMyclpHMlNvaWNhUUZUV04tX1E1NVJpOU1KSUZUNEtBMVlFSENQOGZNcDDSAbwBQVVfeXFMTmhBcW5BNGtIRnNLSWJLY2JCZlA2UERacTZfbnc3STh1TGhrYml6RXdMazBKWjJLNTBZZEIxOExZQk5xbEFnWWRDbF9aX0tvT05VX09rWUlYZFNEU3V5N29oaXh3Q2RmNFpVTHdfQmRQekVGdE9PS1NndWl4TGNZNTR3bjcwUUVLUDVma1NRQVZiZFd6aGdNNUVaZjBzNjJGbVRCdnhuTEptMHRKaThTNm1mdTNqR3JvaUNYV0Q?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "03/08/2026 20:52"
+        "titulo_evento": "Traktorsazi Expands Tractor Exports, Strengthening Iran’s Presence in Global Markets - Maquinac",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDFXS0RRWkc1VzlVVWxZbXhmdGpESE5Jek9XZ2hUbG9OTGN5ZWc4Y0FMZGN5dkE5bFRPbmpVZ2pWOG1WTWh5clZ6V0l2eDdXSDhMTlF5MFFkMk8wak5zQnhqRk51cTNBd1hZNkJZWWhfVk1KZVFSS3BkRmpXeEU3VVpEMkVmSE9HN1ZVNlZJVHV6VXZN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDFXS0RRWkc1VzlVVWxZbXhmdGpESE5Jek9XZ2hUbG9OTGN5ZWc4Y0FMZGN5dkE5bFRPbmpVZ2pWOG1WTWh5clZ6V0l2eDdXSDhMTlF5MFFkMk8wak5zQnhqRk51cTNBd1hZNkJZWWhfVk1KZVFSS3BkRmpXeEU3VVpEMkVmSE9HN1ZVNlZJVHV6VXZNcTNnTW9yS2otSTltX0xwdEwwbXl4UVEybmEteFJ3?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/08/2026 01:16"
       }
     },
     {
@@ -975,33 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -58.3816,
+          -34.6037
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine imposes sanctions against 43 companies, individuals serving Russia’s military-industrial complex - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbTRDRzI0RTcxTk45SEg2aXB4dHZONjdacHB3NnhVX1B2VFlIdWsxMG53ZHh6dm9GTXMycDJGUjhTNWVvcGZBdjRLQUFFb3RTR2NuVTZtVjY0eW9ueFBfNE9wMWJUbmVxeFN5ejVyZHNILWQtWkhxUHRyRnQ4ekVzZUZGOG5tOWJ3SVlHdm42aHFDbkRK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbTRDRzI0RTcxTk45SEg2aXB4dHZONjdacHB3NnhVX1B2VFlIdWsxMG53ZHh6dm9GTXMycDJGUjhTNWVvcGZBdjRLQUFFb3RTR2NuVTZtVjY0eW9ueFBfNE9wMWJUbmVxeFN5ejVyZHNILWQtWkhxUHRyRnQ4ekVzZUZGOG5tOWJ3SVlHdm42aHFDbkRKVXZ2TGpZX1lNMDhMZmxKWE9WMVBwNjZLQ042M04xNjN5Z0hUeVROdHA5RHNsWWhwLWE3ZlVOdUpEanJUM2gtdVdocF9sYnFrRWQtc2pFbEhtcnRWdnpZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/08/2026 21:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Assumption Testing: The Iran War Is a Case of Alliance Entanglement - Stimson Center",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHk3OXNicmJhbk1RRExvM0l1QUFLZFd0X1JtQ0dROUlwTWZ1cjRIMUwzbjlvcHRNRjRuLU1vWlFMSVhyQURlRDFTWDZRaGluUm9GWDNGVTNWN2J2a2UzYzNMenFHQ0FqUmE4LURWRG9kbGNkU005Q3V4TTliZTV4VnZhVWpQNzM4aXV2N09ZRkdMaERI...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHk3OXNicmJhbk1RRExvM0l1QUFLZFd0X1JtQ0dROUlwTWZ1cjRIMUwzbjlvcHRNRjRuLU1vWlFMSVhyQURlRDFTWDZRaGluUm9GWDNGVTNWN2J2a2UzYzNMenFHQ0FqUmE4LURWRG9kbGNkU005Q3V4TTliZTV4VnZhVWpQNzM4aXV2N09ZRkdMaERINjdwUDZEOUU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/08/2026 20:23"
+        "titulo_evento": "Milei’s money man shuns foreign markets after failed bond binge - Buenos Aires Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzVCcExHY3Y3LUZKMkNDcWZrU3ZoLTYxRnNBdlI5aldaLW5DX0tVVmpKdUlSd2JSQm0yWWtEbzJhUXk3VGNBYlBGTlJkdU9iX3FydVNkZ29BaTJuWjU0UEIwY0xISXE4aUlrMWcxRFhhLXA4Q3BWY0pXU0ktak5GWnhBaHVzTlJMNFpUQVB0ZFJCSF8t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzVCcExHY3Y3LUZKMkNDcWZrU3ZoLTYxRnNBdlI5aldaLW5DX0tVVmpKdUlSd2JSQm0yWWtEbzJhUXk3VGNBYlBGTlJkdU9iX3FydVNkZ29BaTJuWjU0UEIwY0xISXE4aUlrMWcxRFhhLXA4Q3BWY0pXU0ktak5GWnhBaHVzTlJMNFpUQVB0ZFJCSF8tRFl4b2F6UVpvWkNZNHc2X0tzdTNlVjJEV19ENFR30gGyAUFVX3lxTE5jNUJwTEdjdjctRkoyQ0NxZmtTdmgtNjFGc0F2UjlqV1otbkNfS1VWakp1SVJ3YlJCbTJZa0RvMmFReTdUY0FiUEZOUmR1T2JfcXJ1U2Rnb0FpMm5aNTRQQjBjTEhJcThpSWsxZzFEWGEtcDhDcFZjSldTSS1qTkZaeEFodXNOUkw0WlRBUHRkUkJIXy1EWXhvYXpRWm9aQ1k0dzZfS3N1M2VWMkRXX0Q0VHc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "03/08/2026 23:07"
       }
     }
   ]
