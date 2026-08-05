@@ -164,6 +164,40 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+        "descricao": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon. ",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "05/08/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
+        "descricao": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/08/2026 23:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Funeral for family killed in US strike on Iran’s Qeshm Island",
         "descricao": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island. ",
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
@@ -210,40 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-        "descricao": "IRGC spokesman Hossein Mohebbi said last month that Iran&#039;s missile production rate increased during the ceasefire.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/08/2026 18:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel election pressure fuels settlement push as West Bank violence surges",
-        "descricao": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "04/08/2026 18:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -254,6 +254,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "04/08/2026 17:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian ballistic missile strike on Kyiv kills one and injures others",
+        "descricao": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/08/2026 01:35"
       }
     },
     {
@@ -288,23 +305,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "04/08/2026 11:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "More than 170 migrants rescued after boat catches fire in Channel",
-        "descricao": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France. ",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "04/08/2026 19:45"
       }
     },
     {
@@ -363,6 +363,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "More than 170 migrants rescued after boat catches fire in Channel",
+        "descricao": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France. ",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "04/08/2026 19:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.6173,
           55.7558
         ]
@@ -373,6 +390,40 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "04/08/2026 09:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US revokes Brazilian ambassador's visa amid escalating diplomatic dispute",
+        "descricao": "\nWashington stripped Brazil's ambassador of her US visa in an escalating diplomatic standoff, saying the move would be reversed if Brasília approves President Donald Trump's nominee for ambassador ahead of Brazil's closely watched presidential electi...",
+        "url_fonte": "https://www.france24.com/en/americas/20260805-us-revokes-brazilian-ambassador-s-visa-amid-escalating-diplomatic-dispute",
+        "categoria": "Política (France 24)",
+        "data_noticia": "05/08/2026 00:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US says Iran Hormuz deal could come 'today or tomorrow' as oil prices plunge",
+        "descricao": "\nA senior Trump administration official said an agreement to restore shipping through the Strait of Hormuz could be reached as soon as \"today or tomorrow,\" fueling hopes of a diplomatic breakthrough despite Iran's public denials that it is negotiatin...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260805-us-says-iran-hormuz-deal-could-come-today-or-tomorrow-as-oil-prices-plunge",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "05/08/2026 00:09"
       }
     },
     {
@@ -454,7 +505,7 @@
       },
       "properties": {
         "titulo_evento": "Middle East: India says commercial ship sunk off Yemen",
-        "descricao": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections. DW has more.",
+        "descricao": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah's objections.",
         "url_fonte": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "04/08/2026 18:03"
@@ -505,7 +556,7 @@
       },
       "properties": {
         "titulo_evento": "Ukraine drone strikes kill five near Moscow, Russia says",
-        "descricao": "Russian officials say Ukrainian drones have killed five people, hitting industrial and warehouse sites near Moscow and St Petersburg. Meanwhile, a soldier has killed four people in Russian-controlled Crimea. DW has more.",
+        "descricao": "Russian officials say Ukrainian drones have killed five people, hitting industrial and warehouse sites near Moscow and St Petersburg. Meanwhile, a soldier has killed four people in Russian-controlled Crimea.",
         "url_fonte": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "04/08/2026 09:13"
@@ -657,7 +708,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - reuters.com",
+        "titulo_evento": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -686,6 +737,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US military depletes nearly 80% of key missile interceptors amid Iran war: Report - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOa182dkV4UUdVLWx1cEFTYXV0dmtLcXY3d3czLUhTYUFjT1o3dllDTmdpU1pLd3lEQ1dMeWM4R3kzcnBQQTUwZ3E2VDZSZ1dlY1JWdWE5SnFsNGc4Q0dmLWV6OTdicG1LYkxVUTlZUnROcmhjYko5YkljUzlCYVVYTDdLR2NVOU45dUZFczlHcUVlUTcy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa182dkV4UUdVLWx1cEFTYXV0dmtLcXY3d3czLUhTYUFjT1o3dllDTmdpU1pLd3lEQ1dMeWM4R3kzcnBQQTUwZ3E2VDZSZ1dlY1JWdWE5SnFsNGc4Q0dmLWV6OTdicG1LYkxVUTlZUnROcmhjYko5YkljUzlCYVVYTDdLR2NVOU45dUZFczlHcUVlUTcycnZVQllSelNWN3NjT1p5Z1RVRFhSOGtDdWRqXzlfS1dXV05VdVFkLXlB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 21:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/08/2026 00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 18:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Alarming missile report draws forceful response from Trump as Iran war tests America’s arsenal - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmdrakpIVTBhQ3lpOWNJRlljb3YyZGRPRUFOUG9qemFaaWtXeW4zMlBXc2huTEZ4YjltUGtwYTBGZXpTQVNaSlcxU3JjMk1qVEpfdkd0WldJcFBMUmJWUDdBMDQ2NGFzZVlNM3VJUWV6T053LUVTR3VSbW0tQkM1OXFEZ3RTMVNHNGFJeTdZRkpUc2I2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmdrakpIVTBhQ3lpOWNJRlljb3YyZGRPRUFOUG9qemFaaWtXeW4zMlBXc2huTEZ4YjltUGtwYTBGZXpTQVNaSlcxU3JjMk1qVEpfdkd0WldJcFBMUmJWUDdBMDQ2NGFzZVlNM3VJUWV6T053LUVTR3VSbW0tQkM1OXFEZ3RTMVNHNGFJeTdZRkpUc2I2dlN4Z3J6OGM3c3FTRmRYX2xyYlotOEVUNktKOEhPN0hsWkRybFVFMmJNbUfSAcYBQVVfeXFMUGdLMUN2b3pNZ1hYYmhOVHFNR0ZyNTBUVERrLW9ZNzc1TDFLbGxYTGdtQXVnYTVwN0pUX0FNa0kyTEZxY25yQXZPQ2N2YlI2SG9ZSEZfMkJzNnlhZDhPUjFRUzRaQzJwbzd3bnljRmFKdFp6MHdDYkZrOXdvVFpic24tZ0ZMeGhhUC1BWU1Vd3I5TWtnMWdBNEoyQ3JyYnhjeFpzbTJOeGxlaWVFbGpRSE9WbC1pcVZtRnJNRFZuOXo3ZFhGV2tn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 20:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -696,6 +815,40 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSktweDRhckVOc043VnZfZm12Vkd0djhrOUJKV3lzeE40a0hJS0lzTnBocl9tSjh4VkUtVFNFTG5VQXJPMElQMGhaLVhISjliM2s1ZjI5Zk9vNEc3TDUxZXJHYjB6M2RBWjhFUGdkYTZQYVB4dHRILWVFLUpuZUdQbkgtWEtmYXZkV3cya3VfNHV6Y1Y1THc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "04/08/2026 18:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New data reveals how U.S. troops were injured in Iran war - WBUR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1MT3B5UjFSWUhlbFlOajdjbXJMWXBUSU96bkotTjk2SzBCSzJwTkVLVzJXMklVUFZpSjlsNW1VMFIzbjU2QVRPQjNiMWI0aHpYRldQTlRfc0lEMjFNQ0dPTjhCbTQtVWh1dzlWOWJ6RQ?oc=5\" target=\"_blank\">New data reveals how U.S. t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MT3B5UjFSWUhlbFlOajdjbXJMWXBUSU96bkotTjk2SzBCSzJwTkVLVzJXMklVUFZpSjlsNW1VMFIzbjU2QVRPQjNiMWI0aHpYRldQTlRfc0lEMjFNQ0dPTjhCbTQtVWh1dzlWOWJ6RQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 19:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "EXCLUSIVE: Ukraine's Fire Point starts to integrate European tech into missile defence system - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJSTZSTkZPTXItMU1zV0Z0VmxsT2RvaVNxT0tsd0hiWDdKcERacDVsUERSdFpRbXpIU1NGa29aU0xMd08wbl9mc1lUbjA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 14:34"
       }
     },
     {
@@ -737,82 +890,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "‘Maximum use’: Iran boosts military strength during ceasefire with US - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1ZWdFpFZTkyZ1RndkhjTXZhQVlYRmpGX0tNaDJMNFozOU85aUVOZHQ4TUUwMHdSTFd5anZHOVRYeWtEY1lZeWE2YjRyYmpWUWRFNlhOd25uUldsZHpsNU1ZQjd4OE1HZllSWkU5eVR2bENTWFRNQ1pfdXFkTVliajgtWlByWUR6VHMzaGR6bjBBT0NGN2JQMEo2NTE5MVctdnh1aEFEZUVRQdIBrwFBVV95cUxPcVFDVXpySzJYdWpJdzgxeDVIcmJsWm5qaGtTRU91UV9HWXA0blVIOGxFQkhnSXEwazVPRW1GcnpyM242RWVGQml4Tlk3dWhJN2VSOFB0bGJTVEtGTGllSERKeVRadmtob3JTV1dCanl3bHhyRzhObjFoMVVuNWZXRm5VSnBCMEFjT0QxWHl6Q1Y4Nk9RZW9vOEZBYVZMTGtTeXNpT0J0YWhaTmdvQkdZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/08/2026 18:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EXCLUSIVE: Ukraine's Fire Point starts to integrate European tech into missile defence system - reuters.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRzFrNFI0Ry1iYVEtVTB1SFBPbXF1N244ZjJOaTh4SE52eWVETjFvcHBlRlJ5eXlpdGJsYktuX1JPVW5LbmRneW1jQXdpdC1XSmo4OTVEME42eXk3bEhBYWZUOEdOaHVmSHc0OFk3NUl2Y2lkYXZvdGlFa0Q0ODVMYVdNSHZ1SzU2czZSN3ZuczdBbFVJSTZSTkZPTXItMU1zV0Z0VmxsT2RvaVNxT0tsd0hiWDdKcERacDVsUERSdFpRbXpIU1NGa29aU0xMd08wbl9mc1lUbjA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/08/2026 14:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New data reveals how U.S. troops were injured in Iran war - WBUR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1MT3B5UjFSWUhlbFlOajdjbXJMWXBUSU96bkotTjk2SzBCSzJwTkVLVzJXMklVUFZpSjlsNW1VMFIzbjU2QVRPQjNiMWI0aHpYRldQTlRfc0lEMjFNQ0dPTjhCbTQtVWh1dzlWOWJ6RQ?oc=5\" target=\"_blank\">New data reveals how U.S. t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MT3B5UjFSWUhlbFlOajdjbXJMWXBUSU96bkotTjk2SzBCSzJwTkVLVzJXMklVUFZpSjlsNW1VMFIzbjU2QVRPQjNiMWI0aHpYRldQTlRfc0lEMjFNQ0dPTjhCbTQtVWh1dzlWOWJ6RQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/08/2026 18:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Trump can avoid a bloody, costly ground war in Iran - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4xX0hVanh6VUZObUZPMm1aUURvS2xJYVRRelRVa1d4XzJibGcwQzk2ODNlZlYzYjR1cnNkNUFHaVdDbjBmemx5dV95TnhwMnpTWWVqMnZJcFo0WW16eUdBX1MwX1p0VjdNRWpkeHhacTg2cWlzUDBxaXNtdkdEUk3SAYQBQVVfeXFMUFVYVUhoNlFJdEd4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xX0hVanh6VUZObUZPMm1aUURvS2xJYVRRelRVa1d4XzJibGcwQzk2ODNlZlYzYjR1cnNkNUFHaVdDbjBmemx5dV95TnhwMnpTWWVqMnZJcFo0WW16eUdBX1MwX1p0VjdNRWpkeHhacTg2cWlzUDBxaXNtdkdEUk3SAYQBQVVfeXFMUFVYVUhoNlFJdEd4NGFzRWVDZDBWbExPT3dlYXNnOHdrRnR5VGNFWTFUcHVTRFlPSjlLYzFUb2hSLUxTWWVpTmZ6TFRUZl9WSUlRYUhrNXBxSWE4T3kyTFo0MHRMOG1KQkVlaGhPRGllb0FOSWwyUHNSSTQyNFJTdGRHRGRh?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/08/2026 15:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why Russia’s strikes on Ukraine are more intense; Germany’s song of the summer - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZpR09Oa21DZmpkdDY5ekZ2ZDVNTWE1VTJsM0lvbzdaT1FpS29kaFlyRG9JcHlFRXRZbl8zVGlJRTh4MmFzemx4RHdoel9VSnYydDhCdDlyd0txdTdMSm5YOUstcVMtQnJyY2F3YUpQM09YREpqU1pGakNxNXpHajBHNnY1ejVKTDR5c2JYdDNqR0lw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZpR09Oa21DZmpkdDY5ekZ2ZDVNTWE1VTJsM0lvbzdaT1FpS29kaFlyRG9JcHlFRXRZbl8zVGlJRTh4MmFzemx4RHdoel9VSnYydDhCdDlyd0txdTdMSm5YOUstcVMtQnJyY2F3YUpQM09YREpqU1pGakNxNXpHajBHNnY1ejVKTDR5c2JYdDNqR0lwbEp1bHZFbUgtNC1iREVabk9qS0NNUnVqNEdYRXByNHBXX0dtY0JuVg?oc=5",
+        "titulo_evento": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYTVPNkVteG00aTl3dEVUSzM2YWJOUDFET1BpSS1VMy1MdENyV29oMkV4SmhjMVhDd2FzdUZkNG5CR0Fwcmgzc1pzMFk4U0FCek56SWNPbGc2dEpmYWNFR0J0cjd1UUVxUEFMRUI4eGRiVWIydWdtc0JqR0JBSkxmQ0lzY2VieG1LVmwxQw?oc=5\" tar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYTVPNkVteG00aTl3dEVUSzM2YWJOUDFET1BpSS1VMy1MdENyV29oMkV4SmhjMVhDd2FzdUZkNG5CR0Fwcmgzc1pzMFk4U0FCek56SWNPbGc2dEpmYWNFR0J0cjd1UUVxUEFMRUI4eGRiVWIydWdtc0JqR0JBSkxmQ0lzY2VieG1LVmwxQw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "04/08/2026 20:28"
       }
@@ -822,16 +907,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          30.5238,
+          50.4547
         ]
       },
       "properties": {
-        "titulo_evento": "‘Virtually all’ US long-range missiles used during Iran war, report says - FOX 10 Phoenix",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVBRdWh1LUtZZ0lwZ1dWd3p6RkJrcklCbTJVM2xDWUxzNGNBRnQzSzg5SkRPWWRSU2l1cmRNWjNob0hpejR6YTY5NzhhUl8yTVcyb29qdWMxTjhLcXhsSW42ak8xSjZTS1lmYnFtOVh1Yjd1d2psSDNncC1kVG9oRmVNakprUVZCZXBxVC1uSTRSdjFw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVBRdWh1LUtZZ0lwZ1dWd3p6RkJrcklCbTJVM2xDWUxzNGNBRnQzSzg5SkRPWWRSU2l1cmRNWjNob0hpejR6YTY5NzhhUl8yTVcyb29qdWMxTjhLcXhsSW42ak8xSjZTS1lmYnFtOVh1Yjd1d2psSDNncC1kVG9oRmVNakprUVZCZXBxVC1uSTRSdjFwdTgxOEk2TWtlVi1IQTdDRE13?oc=5",
+        "titulo_evento": "Russia strikes Ukrainian capital Kyiv with ballistic missiles - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQakxadDBaakxEWXBQMjZpMWdLekt6T01HRHVnWkgyVHdPVE1kRU9kRnczLVpNak5jVEZ1bGp4Snd2NWVlaDhGQWEtNUI5bC16SU5sNHJPN2laeHhRckR2VlliQkZJSWNnZGZ6OHJLdFJEVVVRaDM5ZmJrVUZ6emVMM21ualhfU2JlVFVKRE1LZHYtYzA3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQakxadDBaakxEWXBQMjZpMWdLekt6T01HRHVnWkgyVHdPVE1kRU9kRnczLVpNak5jVEZ1bGp4Snd2NWVlaDhGQWEtNUI5bC16SU5sNHJPN2laeHhRckR2VlliQkZJSWNnZGZ6OHJLdFJEVVVRaDM5ZmJrVUZ6emVMM21ualhfU2JlVFVKRE1LZHYtYzA3c2xTOWsxbjlvX2Z3LThJ0gGoAUFVX3lxTFBQZ0JQdGt6V3RQUmVxdGhGMFBmMHlLSHl0WUpCNG1vRlBoMkZGX0s0RFNzZ3Bxam8tcnVYTkN3RU1idk9LLVFJSW84aWZaQ2hRZkhXRnVtbjMxdkI3N3hackhyY2FaZl9zWjBub2FySXo2d3JmRHhCbkprcmwxNEtYVmRSTFpRcFJ3YkNTOGxkeFBCOTJrdDNRcjNVaThLdXhGM3QxRFFSNw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/08/2026 20:40"
+        "data_noticia": "04/08/2026 23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian ballistic missile attack kills 1, injures 12 as rescue efforts continue in Kyiv - The Kyiv Independent",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTBidFVXTlREY2ZMcXpVd3pRbWxfLW1nWXBnMXhCNDF3dFhmSk1rampBRHZqQ1hJUzc2TGVJNnl3X0NrNTEzeEdiMWc5VkV3Y0pUS2VyVVREbndoNjNNQXhZZkN5emh6WkdyWk9EdzN6bE5WWDNDZHNkSktINmRoNQ?oc=5\" target=\"_blank\">Rus...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTBidFVXTlREY2ZMcXpVd3pRbWxfLW1nWXBnMXhCNDF3dFhmSk1rampBRHZqQ1hJUzc2TGVJNnl3X0NrNTEzeEdiMWc5VkV3Y0pUS2VyVVREbndoNjNNQXhZZkN5emh6WkdyWk9EdzN6bE5WWDNDZHNkSktINmRoNQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/08/2026 21:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Xi Wants a Strong-Looking Yuan. China’s Economy Keeps Holding It Down. - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFg3MUc4eW9TWE5pVzJIeHo1V0xwNWlmQWx6N3Ryb3NkVU1jRGFfNm5LWHFfME5JeDFNZmRCTTExbS1XbllHWEJJY25zVnFBUmYyZWRhX3BDSFlnSEdmNnh5NkF3d0FLUG1PWlpzX2t4Tm1SWlJxa1JuaF9rRGQyd3BwcjMwYWNxMkg5dnBwU3lMNV8z...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFg3MUc4eW9TWE5pVzJIeHo1V0xwNWlmQWx6N3Ryb3NkVU1jRGFfNm5LWHFfME5JeDFNZmRCTTExbS1XbllHWEJJY25zVnFBUmYyZWRhX3BDSFlnSEdmNnh5NkF3d0FLUG1PWlpzX2t4Tm1SWlJxa1JuaF9rRGQyd3BwcjMwYWNxMkg5dnBwU3lMNV8zQVJGTWdWb1U4UENnVXhQR0lrdnhIYmx3?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/08/2026 10:55"
       }
     },
     {
@@ -883,40 +1002,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa08wXzJYUUlzZWxKYTZMQUQ5Unp6dllPaFlJelhiekxLVVdKaVZBUWxmOElSMkJUTWd2eHlpbUpJSDJTUE8tbEJHYkctRE5ENGRFTGtoazFpUV95bENyWkZqUHhEU1IteGpFUEFrUHNQNGg3TjlYYjZ2U1h2cm1kaWhvUU1JenlxTVFkNVdJMGNqb1QxR20wbjRwT2xtb3loT2dXbjBIQThZc2lIUmFBNjJtNUpPUW5TbjdiV0IxeG5SRWpISWo3M0JTTTJIZFhqU3dtRFphTm9nVUhpd0E?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "04/08/2026 16:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's Trade Strategy Was Never About Joining the West's Order - economy.ac",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdlVmdkxaQ3NWa0d6NmZZc0xXcUZRbkplbmc0TG9fVnBzZURmbkxxTW8tUTFROTVJeWowUlJfQkNFTFN1Z2hYemtEU2IyRVBEenIwaWpOZTAwUQ?oc=5\" target=\"_blank\">China's Trade Strategy Was Never About Joining the West...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdlVmdkxaQ3NWa0d6NmZZc0xXcUZRbkplbmc0TG9fVnBzZURmbkxxTW8tUTFROTVJeWowUlJfQkNFTFN1Z2hYemtEU2IyRVBEenIwaWpOZTAwUQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/08/2026 20:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why do markets keep buying good news on Iran? - KITCO",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlljQUlERl9rOV9ycUtVNHlrSjZvN0dNRmZvSVB1X3N4RllSZFRialN1b2ZrUFIwZkR0VGZKRmpTb3Y5cWE4Q2xJLXhUM1pJVndRSmIzRXFZRjRFQ0d5QWE3WjI3OXNXT2VJUXR6ajNNMk1jdjB0SFVQT1hKcnRhU3hHY0lSSE1BMUE?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlljQUlERl9rOV9ycUtVNHlrSjZvN0dNRmZvSVB1X3N4RllSZFRialN1b2ZrUFIwZkR0VGZKRmpTb3Y5cWE4Q2xJLXhUM1pJVndRSmIzRXFZRjRFQ0d5QWE3WjI3OXNXT2VJUXR6ajNNMk1jdjB0SFVQT1hKcnRhU3hHY0lSSE1BMUE?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/08/2026 12:31"
       }
     }
   ]
