@@ -62,6 +62,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran issues new demands as Pezeshkian seeks deal",
+        "descricao": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "09/08/2026 05:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
         "descricao": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
@@ -152,57 +169,6 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "08/08/2026 18:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "British Columbia wildfire forces more than 20,000 to flee, destroys homes",
-        "descricao": "Authorities warn others to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "08/08/2026 17:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-        "descricao": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "08/08/2026 17:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-        "descricao": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs&#039; season?",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "08/08/2026 16:26"
       }
     },
     {
@@ -305,6 +271,40 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "08/08/2026 00:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China cancels flights, issues evacuation orders as Typhoon Dolphin looms",
+        "descricao": "\nChina's National Meteorological Centre on Sunday issued a red typhoon alert, its most severe warning, as Typhoon Dolphin barrelled towards the country's densely populated eastern coast. Flights in and out of the region were cancelled and nearly 100,...",
+        "url_fonte": "https://www.france24.com/en/asia-pacific/20260809-flight-cancellations-evacuations-in-china-as-typhoon-dolphin-looms",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "09/08/2026 05:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East live: Iran issues list of demands for reopening Strait of Hormuz",
+        "descricao": "\nIran has issued a list of demands for the reopening of the Strait of Hormuz, including compensation for war damages, complicating a potential deal to open the vital waterway. Iranian Foreign Minister Abbas Araghchi said discussions with Oman were \"a...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260809-middle-east-live-iran-issues-list-of-demands-for-reopening-strait-of-hormuz",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "09/08/2026 05:01"
       }
     },
     {
@@ -499,50 +499,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "From Tehran’s walls to the world: Iran’s visual propaganda as an art of war (2/2)",
-        "descricao": "\nTehran at War (Part 2/2). In Iran, the war with the United States is also fought through enormous, state-sponsored posters. Murals transform walls into billboards advertising the official narrative, designed to carry the government's voice far beyon...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260808-from-tehran-s-walls-to-the-world-iran-s-visual-propaganda-as-an-art-of-war-2-2",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "08/08/2026 07:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian strikes kill four near Kyiv, Zelensky makes landmark visit to Serbia",
-        "descricao": "\nRussian missile strikes killed four people, including a child, ​in ‌the Kyiv region on Saturday, said local authorities. The attack came hours after Ukrainian President Volodymyr Zelensky arrived in Belgrade on a landmark visit to Serbia, a country ...",
-        "url_fonte": "https://www.france24.com/en/video/20260808-russian-strikes-kill-three-near-kyiv-zelensky-makes-landmark-visit-to-serbia",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "08/08/2026 06:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US pledges $1 billion security aid to Colombia as Trump-endorsed president takes office",
-        "descricao": "\nThe US State Department announced late Friday that President Donald Trump's ​administration plans to provide $1 billion in security assistance to Colombia as the country's new right-wing President Abelardo De La Espriella was sworn into office. De l...",
-        "url_fonte": "https://www.france24.com/en/us-pledges-1-billion-security-aid-to-colombia-as-trump-endorsed-president-takes-office",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "08/08/2026 06:16"
+        "titulo_evento": "Germany news: Drone incidents prompt security research boost",
+        "descricao": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chickening out\" despite alleged plots against him. DW has more.",
+        "url_fonte": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "09/08/2026 06:25"
       }
     },
     {
@@ -662,23 +628,6 @@
         "url_fonte": "https://www.dw.com/en/when-german-catholics-and-protestants-share-a-church/a-78276609?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "08/08/2026 10:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany news: Trucking rules eased as rivers run low",
-        "descricao": "Several states will let trucks use motorways on Sundays and holidays as freight shipping is hampered by low water levels. The body of a German sailor missing for days has been found in the southern Aegean. DW has more.",
-        "url_fonte": "https://www.dw.com/en/germany-news-trucking-rules-eased-as-rivers-run-low/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "08/08/2026 10:01"
       }
     },
     {
@@ -924,6 +873,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5\" target=\"_blank\">Ukraine...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/08/2026 17:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -933,24 +899,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzdWcjJhdTEtZjlFWmhQMmlQWmtUUVdJR1FFM0thd0NEVE5tNWJoSGxpcjFIdlNQS0o1aWg4bkhMUnlneXAyVGdtRVNBNkVIakdXY0N4RlNZOUdVbF9ZeXpJUkF6akNrNlg2dUNFRVBZM0sxQzdkZ0c0OHBqS0lqWUhQUlNJdw?oc=5\" target=\"_bl...",
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzdWcjJhdTEtZjlFWmhQMmlQWmtUUVdJR1FFM0thd0NEVE5tNWJoSGxpcjFIdlNQS0o1aWg4bkhMUnlneXAyVGdtRVNBNkVIakdXY0N4RlNZOUdVbF9ZeXpJUkF6akNrNlg2dUNFRVBZM0sxQzdkZ0c0OHBqS0lqWUhQUlNJdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 18:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead - npr.org",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5\" target=\"_blank\">Ukraine...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zLTYyRy1SYmpPbHIyYjlmYmw0T0txX3VSRzZBb2ZVem5fT01rSkVqUGJVQ2hDMzFMZWszblpfTzZoZXpQRlNoTmZJN25aSTduR05LcENOSldBU2xyOWx3Y1N3QU1tNkxhVXlsS0FNckJvUjBfVzdGRE83dGtmdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 17:46"
+        "data_noticia": "08/08/2026 18:33"
       }
     },
     {
@@ -997,11 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran makes dramatic new demands around Strait of Hormuz - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEtKbFh3WVZpeE1xWDFaT3l0NE5rYm16Q0hDcW9QZGltMnlsVTQ4NDRESWRILWJlRXZmenhVOTdGTUw3dmhjaHNHazhhTW5TZzVWUGdNOWNxckppZlFXOGllMjJ3RjQ2ZG1YNXNtOWNnWEExS1V2b1ZwdkZhZU5qU0RDbkNVRzZjYjJ0Y0ExcEoyTzZl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEtKbFh3WVZpeE1xWDFaT3l0NE5rYm16Q0hDcW9QZGltMnlsVTQ4NDRESWRILWJlRXZmenhVOTdGTUw3dmhjaHNHazhhTW5TZzVWUGdNOWNxckppZlFXOGllMjJ3RjQ2ZG1YNXNtOWNnWEExS1V2b1ZwdkZhZU5qU0RDbkNVRzZjYjJ0Y0ExcEoyTzZlMzZQQTZIME1QcWpkUEdHMnYxamI?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "08/08/2026 21:43"
+        "titulo_evento": "Pentagon pushes to ‘dramatically’ speed production as Iran war burns through weapons - independent.co.uk",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFGVVhSWlpPZ1VESVpvVW83RDlKdmlhR2JDdUtQMy1yN2dwYXg5VDVERTFDME1wYzBoWllCeDNYZlRRNi1wT0ExZkxmbDFTVzdYTUdhMzVnb0c4cE1SUjZQQWhEd2VCc2YyZWlPX0RJcmQ3X1I2N1FHQnNKTkJHOFlZZExKcWQtOXEtQ0xsWmIxSHZi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFGVVhSWlpPZ1VESVpvVW83RDlKdmlhR2JDdUtQMy1yN2dwYXg5VDVERTFDME1wYzBoWllCeDNYZlRRNi1wT0ExZkxmbDFTVzdYTUdhMzVnb0c4cE1SUjZQQWhEd2VCc2YyZWlPX0RJcmQ3X1I2N1FHQnNKTkJHOFlZZExKcWQtOXEtQ0xsWmIxSHZiVGQ1NUdoVmJta3BTdkcwNl9XR2RyajBSSEZsVHJB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/08/2026 02:19"
       }
     },
     {
@@ -1014,11 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon pushes to ‘dramatically’ speed production as Iran war burns through weapons - The Independent",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFGVVhSWlpPZ1VESVpvVW83RDlKdmlhR2JDdUtQMy1yN2dwYXg5VDVERTFDME1wYzBoWllCeDNYZlRRNi1wT0ExZkxmbDFTVzdYTUdhMzVnb0c4cE1SUjZQQWhEd2VCc2YyZWlPX0RJcmQ3X1I2N1FHQnNKTkJHOFlZZExKcWQtOXEtQ0xsWmIxSHZi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFGVVhSWlpPZ1VESVpvVW83RDlKdmlhR2JDdUtQMy1yN2dwYXg5VDVERTFDME1wYzBoWllCeDNYZlRRNi1wT0ExZkxmbDFTVzdYTUdhMzVnb0c4cE1SUjZQQWhEd2VCc2YyZWlPX0RJcmQ3X1I2N1FHQnNKTkJHOFlZZExKcWQtOXEtQ0xsWmIxSHZiVGQ1NUdoVmJta3BTdkcwNl9XR2RyajBSSEZsVHJB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/08/2026 02:19"
+        "titulo_evento": "Iran issues new demands as Pezeshkian seeks deal - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXJ1c2tLWWJlZF9VSDBQRWZ6UGF1bVB4RzJ3dTlrN21SYjNSamtoY0hrMzNJM2JFSV96R2g0bDBULUlYT2x2SEhGVlNkWG83WlhZcktNZDFLYVNPRGpqNHNuTXRnTU1vU0JGWWRNYXYwWm91TjFXZUdtbW94Z2ZnQlVfeV90Tm91MXlDTlFaSUhMZ9IB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXJ1c2tLWWJlZF9VSDBQRWZ6UGF1bVB4RzJ3dTlrN21SYjNSamtoY0hrMzNJM2JFSV96R2g0bDBULUlYT2x2SEhGVlNkWG83WlhZcktNZDFLYVNPRGpqNHNuTXRnTU1vU0JGWWRNYXYwWm91TjFXZUdtbW94Z2ZnQlVfeV90Tm91MXlDTlFaSUhMZ9IBlwFBVV95cUxPakV3WXpCMU9vS3BjTDYxalpMa2ZEVkh2aEpNVDdFc0Rpb2lvdTV2NFdnZVFIdXRTVFB5VHhuNjRGeEp5STR5OHIzMFVOcm9qV01SUW81UzdxT1NsTS1KSm5YRGVseE9GckNVLUpqQ202blpmRVp1Vnk1N3dhQlFDemVkTS0zWW5RcGVhY2lSa3VaV1g0SUJF?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "09/08/2026 05:16"
       }
     },
     {
@@ -1077,23 +1026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_S...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 13:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -1116,11 +1048,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "DW News. . Has the US military used up much of its missile stockpile during its five-month war with Iran? President Donald Trump denies that. Still, analysts maintain that the US might be ill-equipped for future conflicts — and that restocking missiles will take ye - facebook.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWFxRUNvdVB6bXlfQmJRRVh0aUVrWlJOaUVkVldZQk10c21KYkRZeDNJcldEdTRzbzRQNThBbDNJOWlwR0ZBLUxLOWFuekRNb1RyUVRoeGVhYjZWRHRDSlV1bWlzN3FjN29wNkdteWlETE8yVlh4OGpnUkQ5SDhTZHJtQ040U1o2dnBISWpRaDNwbzBN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWFxRUNvdVB6bXlfQmJRRVh0aUVrWlJOaUVkVldZQk10c21KYkRZeDNJcldEdTRzbzRQNThBbDNJOWlwR0ZBLUxLOWFuekRNb1RyUVRoeGVhYjZWRHRDSlV1bWlzN3FjN29wNkdteWlETE8yVlh4OGpnUkQ5SDhTZHJtQ040U1o2dnBISWpRaDNwbzBNLVJYczhXS0tua0NHZ0hORlF4NkRhcXctR1lYVDhsQkJWazNCdHJVTDRuazRPX1RjUWhYOUxBR2kzSElia0tfYTNvRGVDUHFYeGNDUDdB?oc=5",
+        "titulo_evento": "Iran seeks way out of ‘neither war nor peace’ stalemate with US - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 23:00"
+        "data_noticia": "09/08/2026 04:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike - cnbc.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_S...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/08/2026 13:06"
       }
     },
     {
@@ -1145,118 +1094,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease | US news - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2M2ZnBZS0pobHRrcTRTWmtEMmttbFJYdFNlclE5MHpDZmNyaFR2TG1zVFFaY2k4TTR3YVk1Tmc2SWhLT0FGXzhUeUZvWnNfV1VlOXAzcmlaYy05U29yY0xwcFRiMENRMkRURUZ4Q3o5NUowaTAyUmJjZUNLbTc1bmxuTDZjbFZudHFycg?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2M2ZnBZS0pobHRrcTRTWmtEMmttbFJYdFNlclE5MHpDZmNyaFR2TG1zVFFaY2k4TTR3YVk1Tmc2SWhLT0FGXzhUeUZvWnNfV1VlOXAzcmlaYy05U29yY0xwcFRiMENRMkRURUZ4Q3o5NUowaTAyUmJjZUNLbTc1bmxuTDZjbFZudHFycg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 23:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US Gen. Dan Caine looking for alternatives to military escalation in Iran - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oODFvTDhkcUNQM2c4OVhYR3E2WUZsLUczRzNjZDl1bTVFamJ2Wm90RGo2NUN4VzQ4ZHZEeTBiMXZhTm9WLWpqaE5FejFwbVZjRy1VeklYYVNoVS15WHRz?oc=5\" target=\"_blank\">US Gen. Dan Caine looking for alternatives to mil...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oODFvTDhkcUNQM2c4OVhYR3E2WUZsLUczRzNjZDl1bTVFamJ2Wm90RGo2NUN4VzQ4ZHZEeTBiMXZhTm9WLWpqaE5FejFwbVZjRy1VeklYYVNoVS15WHRz?oc=5",
+        "titulo_evento": "DW News. . Has the US military used up much of its missile stockpile during its five-month war with Iran? President Donald Trump denies that. Still, analysts maintain that the US might be ill-equipped for future conflicts — and that restocking missiles will take ye - facebook.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWFxRUNvdVB6bXlfQmJRRVh0aUVrWlJOaUVkVldZQk10c21KYkRZeDNJcldEdTRzbzRQNThBbDNJOWlwR0ZBLUxLOWFuekRNb1RyUVRoeGVhYjZWRHRDSlV1bWlzN3FjN29wNkdteWlETE8yVlh4OGpnUkQ5SDhTZHJtQ040U1o2dnBISWpRaDNwbzBN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQWFxRUNvdVB6bXlfQmJRRVh0aUVrWlJOaUVkVldZQk10c21KYkRZeDNJcldEdTRzbzRQNThBbDNJOWlwR0ZBLUxLOWFuekRNb1RyUVRoeGVhYjZWRHRDSlV1bWlzN3FjN29wNkdteWlETE8yVlh4OGpnUkQ5SDhTZHJtQ040U1o2dnBISWpRaDNwbzBNLVJYczhXS0tua0NHZ0hORlF4NkRhcXctR1lYVDhsQkJWazNCdHJVTDRuazRPX1RjUWhYOUxBR2kzSElia0tfYTNvRGVDUHFYeGNDUDdB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 19:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Top US general said urging Iran war ‘off-ramp’ as Tehran and Oman near Hormuz deal - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNU5xNlpmUGtmdnk2MXp5WjJueEEzX2o2cnVqbzJqZzhGbmJTVnJLdlFPMS1EOFRfeVRJWUtXS0dsd3NzbEtkNmkwQXJxajJDSUg4RzR6YlNiQWNaMWJSVENXZ0Q2b3drcWpoWGRCbDA1NWRjZVhrbkh2bmt6Q05aTjIyY0NwcGdBaC1YUnh1SGpzSExo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNU5xNlpmUGtmdnk2MXp5WjJueEEzX2o2cnVqbzJqZzhGbmJTVnJLdlFPMS1EOFRfeVRJWUtXS0dsd3NzbEtkNmkwQXJxajJDSUg4RzR6YlNiQWNaMWJSVENXZ0Q2b3drcWpoWGRCbDA1NWRjZVhrbkh2bmt6Q05aTjIyY0NwcGdBaC1YUnh1SGpzSExoeTFDWEtKOWxJdmpaRnE2bzRTUmg3UXp2UkNHTdIBtgFBVV95cUxNZXNhUjFTS25RaFVFblgyMnRHZm41bjFzRjRTMHExVUQ4YW1VcDBlZHNNd1dJa01XRGRHM0lGNFNXZW5HOFBsQU9KcWxXUjItUi1FYXZzUUVmZGNmSkVfMmdHc1Q5bElTUmtVcy1hYk9YOTVLemY1ME1fUzE0ajM2LUxuMHRTaGc3RWpBWkdkZUdTcm1IZXc4eUJGUHhuNzZSSm5jb3pMUzNIdWZhZUpHMlRoeGxLQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 15:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon presses defense firms to speed up weapons production amid Iran war shortages - report | LIVE BLOG - i24NEWS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEFKSnV1WXBGWEhZcHdBalJhaUVuOXBYUHFZUEh4c1h6WlRGUDB5NjhNcS1pRTBSYUhIUEZhcUVrWm90aW9zTGJrM1JXaUhnYXNaZXl2TmxxSWE1WkNuY0JzZU5NMEZuNGtxZGk3alRrUkVTQWVJMWdoZFoxSUFhTFpfY2MwZWdHcFB5VGU2a2RmWTlW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEFKSnV1WXBGWEhZcHdBalJhaUVuOXBYUHFZUEh4c1h6WlRGUDB5NjhNcS1pRTBSYUhIUEZhcUVrWm90aW9zTGJrM1JXaUhnYXNaZXl2TmxxSWE1WkNuY0JzZU5NMEZuNGtxZGk3alRrUkVTQWVJMWdoZFoxSUFhTFpfY2MwZWdHcFB5VGU2a2RmWTlWY2daa2JfTFc3OG9SQlNLWnZROEZKb21IZUsxQ3JpS2tJZlRvTkJMRTRLMkZVa1NLT3hkclNicmp1RGRheXhEQktER0taTUlJV0Q1MHJKblBrZ1E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/08/2026 03:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran seeks way out of ‘neither war nor peace’ stalemate with US - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRs...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VrcWc4MzZyVWp5eWpsZ0gwZi1CRE5kMm5UQktUazM1clJrMFhKYWVQM0YzSXh5UllibVlwRFlMY0VVNWR6UnhlNExHNEZEcEJJaE04V2V6STVfcHlDQTN2NVZnNDIwdjEzcVRndjVUemNQVGtiZ21EUE9qVDZzTEpYWlQwd9IBiwFBVV95cUxNemRsNjhoZTZ1R2plTWxtamJYeEMzVHRySXM1MzJpbTNOZ3ZMb0hRbWRXRDBibWdJVnRvS3R1UE1rQlNfQXlWWWcyXzdQMXloWnhKUVd0dmZyNnJEdWUzNDh3eUtzRXJyS2tHLWpCOXlRdnBDU0F3TDFTaV9pTGYxTzNDZXduazl0WW1N?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/08/2026 04:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "War on Iran: Phase II: Day 28 - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDdfZVl1SDZva1NfWjUxdXA1QUFJeWVkZHpmTGVjUjdSRTJRSVoxYm5UNVBQSlpLODRKLWYzelhtVUVSeXN6b1VTSDhjQy1XczlWSXZaNDVuUnhuWm1OdUJveWVnbTd3TzBmYnpYX2ktMElUOXQ5czhfM0ZwYnl6T2NHZ9IBiAFBVV95cUxPTk9TNlVp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDdfZVl1SDZva1NfWjUxdXA1QUFJeWVkZHpmTGVjUjdSRTJRSVoxYm5UNVBQSlpLODRKLWYzelhtVUVSeXN6b1VTSDhjQy1XczlWSXZaNDVuUnhuWm1OdUJveWVnbTd3TzBmYnpYX2ktMElUOXQ5czhfM0ZwYnl6T2NHZ9IBiAFBVV95cUxPTk9TNlVpTldHcGNFcDFoeWJqLWNLOU5FTDZURDFpdmtMc1BMc25BMVFXT0NlT3Y5ZEIzc1VDWFQyWkc3OVZncFhWX0N2REotUzR4TGlHOFY3dm0zd2FlOF9ETmhBVU1YcmtENHlNTjRsa0Fqdi1GQ2tWX2hXcmFkeHBTQ1luV3FZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/08/2026 14:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global X Emerging Markets Ex-China ETF Q2 2026 Commentary - Seeking Alpha",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPby0yUkxfRWtHZEJCYnlSRWxyYzZTUGQwOEZMSDFQTVd3VU9keXluTVAwTmNvSzNWbGpyb1BjTGtPZXR2THZTc3RwOFl2VEhsNHQ5SlpBSElzWkxFaDNIMFJlby0zbngyRERJRTdNTFV0Sm1zMkpHdmM4S0ZxUWpnSGlOcUlZYzNQSjlienp5MnZDN3pE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPby0yUkxfRWtHZEJCYnlSRWxyYzZTUGQwOEZMSDFQTVd3VU9keXluTVAwTmNvSzNWbGpyb1BjTGtPZXR2THZTc3RwOFl2VEhsNHQ5SlpBSElzWkxFaDNIMFJlby0zbngyRERJRTdNTFV0Sm1zMkpHdmM4S0ZxUWpnSGlOcUlZYzNQSjlienp5MnZDN3pEaDQ1ellacHBBTlU?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/08/2026 08:45"
+        "data_noticia": "08/08/2026 23:00"
       }
     }
   ]
