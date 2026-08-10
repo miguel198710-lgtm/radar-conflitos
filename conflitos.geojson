@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+        "descricao": "10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "10/08/2026 15:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -159,33 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
-        "descricao": "Typhoon Dolphin struck eastern China, affecting millions with strong winds, heavy rain, and massive waves.",
-        "url_fonte": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/08/2026 11:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
       },
       "properties": {
-        "titulo_evento": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-        "descricao": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/08/2026 10:55"
+        "titulo_evento": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "descricao": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "10/08/2026 14:34"
       }
     },
     {
@@ -198,11 +198,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-        "descricao": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians&#039; lives.",
-        "url_fonte": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/08/2026 10:13"
+        "titulo_evento": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "descricao": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "10/08/2026 14:43"
       }
     },
     {
@@ -210,16 +210,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "descricao": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "10/08/2026 14:34"
+        "titulo_evento": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+        "descricao": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region. ",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "10/08/2026 16:10"
       }
     },
     {
@@ -271,6 +271,57 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "10/08/2026 03:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Deadly 7.4-magnitude earthquake strikes western Colombia",
+        "descricao": "\nAt least 47 people were killed and dozens of buildings collapsed in cities across western Colombia on Monday after a powerful 7.4-magnitude earthquake struck the South American nation.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-deadly-7-4-magnitude-earthquake-strikes-western-colombia",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 16:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Dolphin: Tropical storm causes some flooding in eastern China",
+        "descricao": "\nTropical storm Dolphin dumped heavy rain in eastern China on Monday, causing flooding in places after making landfall as a typhoon the previous day.\n\nAuthorities have warned of risks of severe flooding and landslides in some areas.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-dolphin-tropical-storm-causes-some-flooding-in-eastern-china",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 15:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Netanyahu says no Gaza withdrawal until Hamas disarms",
+        "descricao": "\nBenjamin Netanyahu said Sunday that Israel’s military “will not carry out any withdrawal until Hamas is genuinely disarmed.” The White House has not commented on the Israeli Prime Minister’s dismissal of Trump’s deal for Gaza.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-netanyahu-says-no-gaza-withdrawal-until-hamas-disarms",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 14:50"
       }
     },
     {
@@ -363,16 +414,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine: Russian bombs injure five civilians in Sumy, authorities say",
-        "descricao": "\nRussian ⁠bomb ​strikes ​on Ukraine's northern city of ​Sumy ‌injured ⁠at ‌least five ⁠people overnight, regional governor ​Oleh Hryhorov ‌said on the ‌Telegram ​messaging app on Monday, flagging damage ​in ​a ​number of ​residential areas.\n",
-        "url_fonte": "https://www.france24.com/en/video/20260810-ukraine-russian-bombs-injure-five-civilians-in-sumy-authorities-say",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/08/2026 10:00"
+        "titulo_evento": "Why the Rhine drought is bad news for Germany’s recovery",
+        "descricao": "Germany’s inland waterways still move around 5% of the nation’s goods. With the Rhine at a critically low level, DW explores how the drought is hitting the economy where it hurts most.",
+        "url_fonte": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "10/08/2026 15:55"
       }
     },
     {
@@ -380,84 +431,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Netanyahu eyes election base as friction with Trump grows over Gaza deal",
-        "descricao": "\nIsraeli Prime Minister Benjamin Netanyahu on Sunday rejected a US-led Gaza plan endorsed by Hamas, putting distance between himself and President Donald Trump as he tries to shore up his base ahead of close elections. “Netanyahu is willing to break ...",
-        "url_fonte": "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal",
-        "categoria": "Política (France 24)",
-        "data_noticia": "10/08/2026 09:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Greenland issues warning against US oil drilling on its territory",
-        "descricao": "\nGreenland’s government says no approval was granted after US firm Greenland Energy brought equipment ashore for exploratory drilling. We discuss the situation with Lukas Wahden, Associate Fellow with the Russia Program at George Washington Universit...",
-        "url_fonte": "https://www.france24.com/en/video/20260810-greenland-issues-warning-against-us-oil-drilling-on-its-territory",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/08/2026 09:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.1157,
-          20.2802
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30",
-        "descricao": "\nThe Yemeni military said seven people including military personnel and civilians were killed ​and ‌30 others wounded in ⁠a Houthi attack on the Red Sea ‌port city of Mocha, civilian infrastructure and ⁠armed forces.\n",
-        "url_fonte": "https://www.france24.com/en/video/20260810-yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/08/2026 09:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hundreds of Ukrainian drones target Russia in deadly overnight strikes",
-        "descricao": "\nRussia said Monday it intercepted 456 Ukrainian drones in overnight attacks targeting around 15 regions, including Tatarstan in central Russia and annexed Crimea. The strikes hit industrial and civilian sites, leaving at least 13 people dead and wou...",
-        "url_fonte": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/08/2026 06:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Middle East live: Houthis launch deadly strike on port city of Mocha in Yemen",
-        "descricao": "\nYemen's military said seven people were killed and 30 injured in a Houthi attack on the Red Sea port city of Mocha. Meanwhile, Iran said the Strait of Hormuz would remain closed until the US met certain demands made by Tehran. Follow our live blog f...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260810-middle-east-live-houthis-launch-deadly-strike-on-port-city-of-mocha-in-yemen",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/08/2026 05:31"
+        "titulo_evento": "Colombia: Several killed after large earthquake rocks region",
+        "descricao": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 20 people. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
+        "url_fonte": "https://www.dw.com/en/colombia-several-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "10/08/2026 14:57"
       }
     },
     {
@@ -475,23 +458,6 @@
         "url_fonte": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "10/08/2026 14:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Large earthquake hits western Colombia causing damage",
-        "descricao": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia. Tremors were also felt in neighboring Ecuador, as well as in Panama and Venezuela.",
-        "url_fonte": "https://www.dw.com/en/large-earthquake-hits-western-colombia-causing-damage/a-78307841?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "10/08/2026 13:42"
       }
     },
     {
@@ -601,6 +567,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK approves its second weight-loss pill while EU access lags",
+        "descricao": "A decision on whether Britain's National Health Service will cover the drug is expected in November.",
+        "url_fonte": "https://www.politico.eu/article/uk-approves-its-second-weight-loss-pill-while-eu-access-lags/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "10/08/2026 15:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           105.3188,
           61.524
         ]
@@ -640,11 +623,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Opinion | The one approach to the Iran war that is guaranteed to fail - The Washington Post",
+        "titulo_evento": "Opinion | Why Trump’s erratic approach to the Iran war is guaranteed to fail - The Washington Post",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlBvdnVQWHVBX1k5VXJsMDYyZkYtdGJtU0hfLVJoM0o2VW5rWG9FZlRrYzh5dDNwYnhtTTktbjFLazk3RktHeEQ5cVB2b2M4LUVQY1kyaktRSjFTRjR1a1F3UHRTOHg4aFZxNmVSVHhrX1ZLM3NwckRBSFI5djAxaUs2UU96ckpzeUtqdk1UTjJCYXM?...",
         "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlBvdnVQWHVBX1k5VXJsMDYyZkYtdGJtU0hfLVJoM0o2VW5rWG9FZlRrYzh5dDNwYnhtTTktbjFLazk3RktHeEQ5cVB2b2M4LUVQY1kyaktRSjFTRjR1a1F3UHRTOHg4aFZxNmVSVHhrX1ZLM3NwckRBSFI5djAxaUs2UU96ckpzeUtqdk1UTjJCYXM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 14:32"
+        "data_noticia": "10/08/2026 16:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran demands U.S. end war, lift naval blockade in order to reopen Strait of Hormuz - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWgxdXRtT0FFUE5NZ2pJUVZLWlNmUWF6YThxOWJ1dk1seXg3QUhOZmFhTFBHWlVOVGtfUnprZkU2YWtWMndGSUR2dmFBVXBoZmJYOFpiMGVmc2hLVS1SeHFCT2ZGV3l3aWNiSG1jRzJKR29zXzNhN3Q3aVBob3hrZl9PSkU2NzBzZzVqTlFFTkY1YkM2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWgxdXRtT0FFUE5NZ2pJUVZLWlNmUWF6YThxOWJ1dk1seXg3QUhOZmFhTFBHWlVOVGtfUnprZkU2YWtWMndGSUR2dmFBVXBoZmJYOFpiMGVmc2hLVS1SeHFCT2ZGV3l3aWNiSG1jRzJKR29zXzNhN3Q3aVBob3hrZl9PSkU2NzBzZzVqTlFFTkY1YkM2QkJlWXlVUUZJR1lpMlMyTXZRUld3NUxPM3hvZjlZS1VuX3piWk4yRjZSVEU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 15:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran's economy is buckling after nearly 6 months of war. These 5 charts show the damage. - Business Insider",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDM0ckRoZ0hUcjF3S011cVRid21RM0VVNHdpY24yejA1bjRyaU43dWluMzNZcnlvd0lLSGVKRUEtQ211S3drYmxlZDBjWTRsd1QtR2NyM2UwOXQ1NWFTTDJoMkdUQ2RLa1l4ZFJMOWF5VnVLMGExSDZSejZfTjZaZTRXNmxQajNLc0w3Nm02R01YWUlVc21oazU1cVRKU0NZX3RQWG1OanRxeEZ5WEhj?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 15:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Reading Germany’s Rearmament: The 2026 Military Strategy Between Ambition and Accountability - fpri.org",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWNkSGI3UW5VX3RWQzcwaWJ3TWJUQldrLWVVUkpVdndYNGhEZ2ZMNlpRbTNDT1RxSjZmUzNjTFEzd0hKLTE5YnlUemttSldDdHRhX0dEdjd6YlJhOGx6cW05WkFSUmlqYjczd3ZDdGpBTWZaRTFWOGpkYnNqS0xPUGZQejBWQnhRMWVVcXFzNGFhWDlB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWNkSGI3UW5VX3RWQzcwaWJ3TWJUQldrLWVVUkpVdndYNGhEZ2ZMNlpRbTNDT1RxSjZmUzNjTFEzd0hKLTE5YnlUemttSldDdHRhX0dEdjd6YlJhOGx6cW05WkFSUmlqYjczd3ZDdGpBTWZaRTFWOGpkYnNqS0xPUGZQejBWQnhRMWVVcXFzNGFhWDlBQ09pWkpxRllNTkpDV2lSRElWR1prbklZWE41U21Gb0tpVzNMYkRVV1FmdHl5S1Q2dURJ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 16:16"
       }
     },
     {
@@ -657,11 +691,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "South Korea, US to conduct military drills amid evolving North Korea threats - reuters.com",
+        "titulo_evento": "South Korea, US to conduct military drills amid evolving North Korea threats - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUw...",
         "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGVUcUxFVnozbGQzbUFJeTV2am9vY3lPQ0N5VU9NS1d0bUVTbU9qcGFGZEMwX0REUTBWa0h1WlBGdm5wY3pweERFRWNqUGZUb0NRNDBHRm5NaTZRdFY1VUt3ZFE0TkFtVnFOZ0o2a3lNSXhTSHZTblgyeGVkTEFqcTgxcDJid3lkbE1OMXhLSDQydnUwSUlCeGtOMXp0UjNtc1BHd2J5ejdCS0Izd1hvVjlJc3lRYXFWQVkyS1JwX05CWm5LVEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "10/08/2026 08:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13 - nytimes.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBldlpFNjhwckVhVE5GSmpHUW0xRUYzT3owZC01czJYYXR2aXl5amNYbjR5YWRyU0dxS3RQR2FOdE9sal9oamJfNXVWTGpnV2VOS2FfU1lBY3ZSUThYWm9ZVGt1a2N6djZkMGZRV0I3MjBES2JiTWhRdkc2SnBjbmFzWXJSTE0?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBldlpFNjhwckVhVE5GSmpHUW0xRUYzT3owZC01czJYYXR2aXl5amNYbjR5YWRyU0dxS3RQR2FOdE9sal9oamJfNXVWTGpnV2VOS2FfU1lBY3ZSUThYWm9ZVGt1a2N6djZkMGZRV0I3MjBES2JiTWhRdkc2SnBjbmFzWXJSTE0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 15:17"
       }
     },
     {
@@ -691,11 +742,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "‘Low-keying it’: Trump signals shift to economic pressure as Iran war keeps drifting - NBC News",
+        "titulo_evento": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpPWWd5elMybHBNdUtqdVhIbFpYYVJqYXFHYjJGc1NvSWxOOGI4dG9EbXB2VjF5UWR2T29CNFZHcVg0M3RqbHZpUERDMDBXY1RSY2ZKNGoxa3JoUlRaaWZvdWFKeHM1RVVuRjd3T2thejVENVphWDBacC1kTTgwNTNSRkN6emI0MnBFZFV4b2ZIa2VW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpPWWd5elMybHBNdUtqdVhIbFpYYVJqYXFHYjJGc1NvSWxOOGI4dG9EbXB2VjF5UWR2T29CNFZHcVg0M3RqbHZpUERDMDBXY1RSY2ZKNGoxa3JoUlRaaWZvdWFKeHM1RVVuRjd3T2thejVENVphWDBacC1kTTgwNTNSRkN6emI0MnBFZFV4b2ZIa2VWT0tfaWdMNnQzUWM1NnhBSlB1aW5ESkpnbnljckdUOE9KaVhT0gG-AUFVX3lxTE52bTVseG1DTkJ3cWs1THZ6U0dnVFNWN2xtd3ZnZnpPbTNnU3JqRGVqb2lnX2hvcjNQMTJDeFhyaDAyQVpEa1FtVFpWZ3BDSmtVTlV1eW9yRWNPYk01UHpOQzVGajJBS1pQZzMtdmJyeERnZmVseW9WYS16Tkg5cE5jSXVnc01NclllMGhxMjNqb09NRzZqQ3ZZUWdaaVV2NWlXWUtrTlBQN0FrY19TY3hqSXM1T2ZDS0tSOHlXOXc?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "10/08/2026 14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Low-keying it’: Trump signals shift to economic pressure as Iran war keeps drifting - nbcnews.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJq...",
         "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJqRjRRb1c4R3I?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "10/08/2026 10:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNkUjB4Z1lZT18zeE80c1hINFphT21oYTd0eUdrM0JzeUcySzEtUU9xaWdpU0doeVdmOTNkRlQyZEgyM3RXUzhycE02MWhOb05UTHlIX0tYZ2UxRE9FSktoVm84Rll6VFBFQkxNOU15QUcwejNaZk0ydTQ2U0w3UHJvdm1UZUpYWFFJNGs3eTZMdkZq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNkUjB4Z1lZT18zeE80c1hINFphT21oYTd0eUdrM0JzeUcySzEtUU9xaWdpU0doeVdmOTNkRlQyZEgyM3RXUzhycE02MWhOb05UTHlIX0tYZ2UxRE9FSktoVm84Rll6VFBFQkxNOU15QUcwejNaZk0ydTQ2U0w3UHJvdm1UZUpYWFFJNGs3eTZMdkZqcV9zbXJ5U1dFdHJBQXJDZEN3Slkwa29UeXfSAbMBQVVfeXFMUGF2bXRPYVJzWk9helZrRXNLbm9GblZzNUlETmt5eW1mcVVUSDBISjZjUjhiOFlUZHNNYjZWc3FWVlcwa2pWb092LUd5bTEtUEc5ZDJLM2E4NHgxek5Vd1RSQ2ZEUWhJRGlMbWIwSWZuZ1lDMHptSkdWQk1wQVk1d1FjTW9rRUEwNENXTjJSN3JiVkNtZWwxR1BCbXJramQwcm5FV2U1MGMwX3BkMnEzV0thQWM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 09:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXBnNnBjc3d5Vzk1aDRaV1hyNFRwYk81RWFWWEc4SHA4Rk53M0ZoMXNoQ2dkeEVKU0RLYktnbUJKYzZpZXhuS3NXUEZMY0VUOHp4YUkxdGg0UUI0bDJJN2E2b3VaQkRmWnlPbXpsV1hPS3hxel84a1N3UUV5NzExcG5ZTXREdlZhQk9XaS1EdlI4MmQ4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXBnNnBjc3d5Vzk1aDRaV1hyNFRwYk81RWFWWEc4SHA4Rk53M0ZoMXNoQ2dkeEVKU0RLYktnbUJKYzZpZXhuS3NXUEZMY0VUOHp4YUkxdGg0UUI0bDJJN2E2b3VaQkRmWnlPbXpsV1hPS3hxel84a1N3UUV5NzExcG5ZTXREdlZhQk9XaS1EdlI4MmQ4M29aSGhWbnYtY1FaSV9XZ0thN2VMbk3SAbABQVVfeXFMTUpDUWZjMVBTU0UtX01sOEtHd0VmY2lGakF5eTk1empsc2h6bzhDTWVQOTJyTk1Tampkb1BjOUlKQnpSRVVPbkllY0JSWlNZV1NEdWp1bm9hUllWelE3MDhkcXVUTllhUVlWQkJiTVZ6dWc4WlZ2c1U2QlZ1cVFmb2RrUkxCN1RVd3FFUEVyUl9tV3F5SnJvMDB1bHB6OThnUHhSSmQ4TzJMOW9YSFN0MTU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 06:33"
       }
     },
     {
@@ -712,7 +814,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa1czNzRLdDR5anlnTU9oN1FVZmZHZFA4RDBuUVhkZlBjSnAtVWhXWm16RkFVaDRvNk53UWdHa1Nibndad2c4cHd1Qnk2UnRlNnEyRHJZTjNlM1dBcnM4Yk44cmZoczM4Y3VvenMybnM0dk9tbEhwZDh2dDd4bGtqTWR4bFIxNmFTZXlEWVRJSTBqaUF2...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa1czNzRLdDR5anlnTU9oN1FVZmZHZFA4RDBuUVhkZlBjSnAtVWhXWm16RkFVaDRvNk53UWdHa1Nibndad2c4cHd1Qnk2UnRlNnEyRHJZTjNlM1dBcnM4Yk44cmZoczM4Y3VvenMybnM0dk9tbEhwZDh2dDd4bGtqTWR4bFIxNmFTZXlEWVRJSTBqaUF2OHNjMzhNd1dqLXBtSThtOGVYYncwVjJfeUR4SXlrZFMtcVRzU19uQXY4S0liMGNVTzctT1VoS0dYRUJVWGhoQ3ZaSW41QlA4?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 13:47"
+        "data_noticia": "10/08/2026 13:55"
       }
     },
     {
@@ -737,148 +839,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNkUjB4Z1lZT18zeE80c1hINFphT21oYTd0eUdrM0JzeUcySzEtUU9xaWdpU0doeVdmOTNkRlQyZEgyM3RXUzhycE02MWhOb05UTHlIX0tYZ2UxRE9FSktoVm84Rll6VFBFQkxNOU15QUcwejNaZk0ydTQ2U0w3UHJvdm1UZUpYWFFJNGs3eTZMdkZq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNkUjB4Z1lZT18zeE80c1hINFphT21oYTd0eUdrM0JzeUcySzEtUU9xaWdpU0doeVdmOTNkRlQyZEgyM3RXUzhycE02MWhOb05UTHlIX0tYZ2UxRE9FSktoVm84Rll6VFBFQkxNOU15QUcwejNaZk0ydTQ2U0w3UHJvdm1UZUpYWFFJNGs3eTZMdkZqcV9zbXJ5U1dFdHJBQXJDZEN3Slkwa29UeXfSAbMBQVVfeXFMUGF2bXRPYVJzWk9helZrRXNLbm9GblZzNUlETmt5eW1mcVVUSDBISjZjUjhiOFlUZHNNYjZWc3FWVlcwa2pWb092LUd5bTEtUEc5ZDJLM2E4NHgxek5Vd1RSQ2ZEUWhJRGlMbWIwSWZuZ1lDMHptSkdWQk1wQVk1d1FjTW9rRUEwNENXTjJSN3JiVkNtZWwxR1BCbXJramQwcm5FV2U1MGMwX3BkMnEzV0thQWM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 09:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpPWWd5elMybHBNdUtqdVhIbFpYYVJqYXFHYjJGc1NvSWxOOGI4dG9EbXB2VjF5UWR2T29CNFZHcVg0M3RqbHZpUERDMDBXY1RSY2ZKNGoxa3JoUlRaaWZvdWFKeHM1RVVuRjd3T2thejVENVphWDBacC1kTTgwNTNSRkN6emI0MnBFZFV4b2ZIa2VW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpPWWd5elMybHBNdUtqdVhIbFpYYVJqYXFHYjJGc1NvSWxOOGI4dG9EbXB2VjF5UWR2T29CNFZHcVg0M3RqbHZpUERDMDBXY1RSY2ZKNGoxa3JoUlRaaWZvdWFKeHM1RVVuRjd3T2thejVENVphWDBacC1kTTgwNTNSRkN6emI0MnBFZFV4b2ZIa2VWT0tfaWdMNnQzUWM1NnhBSlB1aW5ESkpnbnljckdUOE9KaVhT0gG-AUFVX3lxTE52bTVseG1DTkJ3cWs1THZ6U0dnVFNWN2xtd3ZnZnpPbTNnU3JqRGVqb2lnX2hvcjNQMTJDeFhyaDAyQVpEa1FtVFpWZ3BDSmtVTlV1eW9yRWNPYk01UHpOQzVGajJBS1pQZzMtdmJyeERnZmVseW9WYS16Tkg5cE5jSXVnc01NclllMGhxMjNqb09NRzZqQ3ZZUWdaaVV2NWlXWUtrTlBQN0FrY19TY3hqSXM1T2ZDS0tSOHlXOXc?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "10/08/2026 14:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXBnNnBjc3d5Vzk1aDRaV1hyNFRwYk81RWFWWEc4SHA4Rk53M0ZoMXNoQ2dkeEVKU0RLYktnbUJKYzZpZXhuS3NXUEZMY0VUOHp4YUkxdGg0UUI0bDJJN2E2b3VaQkRmWnlPbXpsV1hPS3hxel84a1N3UUV5NzExcG5ZTXREdlZhQk9XaS1EdlI4MmQ4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXBnNnBjc3d5Vzk1aDRaV1hyNFRwYk81RWFWWEc4SHA4Rk53M0ZoMXNoQ2dkeEVKU0RLYktnbUJKYzZpZXhuS3NXUEZMY0VUOHp4YUkxdGg0UUI0bDJJN2E2b3VaQkRmWnlPbXpsV1hPS3hxel84a1N3UUV5NzExcG5ZTXREdlZhQk9XaS1EdlI4MmQ4M29aSGhWbnYtY1FaSV9XZ0thN2VMbk3SAbABQVVfeXFMTUpDUWZjMVBTU0UtX01sOEtHd0VmY2lGakF5eTk1empsc2h6bzhDTWVQOTJyTk1Tampkb1BjOUlKQnpSRVVPbkllY0JSWlNZV1NEdWp1bm9hUllWelE3MDhkcXVUTllhUVlWQkJiTVZ6dWc4WlZ2c1U2QlZ1cVFmb2RrUkxCN1RVd3FFUEVyUl9tV3F5SnJvMDB1bHB6OThnUHhSSmQ4TzJMOW9YSFN0MTU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 06:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How significant is Mohsen Rezaei’s appointment as Iran’s security chief? - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjFtcldkNUtIS2FJYmJuNEo2Z2JmM0tYcXFxYlZ1dEdodVJpZm9VYWVxZTRXRnI3dXBCQ2lTaGJFVzdTNFg5Y2U3MGxNaV9ndVlnR1FkSG4tdEJnUkZja3J4eTNMYlU5YjBEVkpHUmNFeXU4VFFGSWVpZm0yTkdVUmczZTNJcjFRMTB3S0FtRDUtV25B...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjFtcldkNUtIS2FJYmJuNEo2Z2JmM0tYcXFxYlZ1dEdodVJpZm9VYWVxZTRXRnI3dXBCQ2lTaGJFVzdTNFg5Y2U3MGxNaV9ndVlnR1FkSG4tdEJnUkZja3J4eTNMYlU5YjBEVkpHUmNFeXU4VFFGSWVpZm0yTkdVUmczZTNJcjFRMTB3S0FtRDUtV25BOVYxOGctRXZ5ZVg2ZWfSAacBQVVfeXFMTmQ5Q2VBZXpWNWpnaHllUXlmc1RUeFVPaFNtMzJEUXBSVGhSd3JSSWZEUERLOTNqeDZ5U0E0MU0yV2JFOGRlMEFzZ1I3elF5X3hleDlvY2lKZFo1UWZGVkpjWVp3QzF4a1ZubHFVSmdUdjBpc2tyeXVNT0VFSEhkWGlOZW1rNHpnQ2RBUUFoVzIwcDNpVlZLaERWZzAyQUtHN2ZfaWlCXzg?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "10/08/2026 10:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS2hpbG04YURpX083TjZVR2tZZ1JEM1ZmR1dVeXdaQzBlZllZS2V5VzRwXzBocGRxaTc1QUtwWlJDazhjV3NvLTNjRDAxNXl5WkhxZjEyM29LTDN1cDA3XzNETGhXNnl2NkxuWldkYVJSX1RXclh5UjA0YnBKR1A3RFJzcUhnQUs5MWt0bG9RWDIzdWs1UnBIeXJPUGlwMHBLWFJMZW44V080V2hS0gGyAUFVX3lxTE5uSTlTRnQ4VWE2QkxwajVTaE4tTDVWTnl2UlliM3VIbWVmLWRXZF95UlJVRlFtYjM5bHJsb1prRHBheUZTYmVXdWw1SFlMTXVWVWZ3NDVhNXgyNi1TNVQ0TS1hcXUtTkdIOU9OY0JaYlpQcFJkTDdSUlBJZDJVQWdBN2VwWDVSb0QxYW1RWjdHbjFOblRLNm03TV9ZSHo3VlRJTXhNMHJVRmJlRk03R18yOHc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 11:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "PHOTOS | Best of Military Appreciation Day - Washington Commanders",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWHRRa2c0blp0eFM3cXRGRzVsWUcwVlI0aVVNcmNPYVZGZXRoRkVHQWFBZWEwcXk0b1ViWVBwT2daX0xtc3lWMnh5Z2VKcUJ2S3VkOERRRFlWRlRkajU4WXR1WmlfVS1CQ0hWckxlLTdfZkZ2bWdjTHZZUXJsTlE?oc=5\" target=\"_blank\">PHOTOS...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWHRRa2c0blp0eFM3cXRGRzVsWUcwVlI0aVVNcmNPYVZGZXRoRkVHQWFBZWEwcXk0b1ViWVBwT2daX0xtc3lWMnh5Z2VKcUJ2S3VkOERRRFlWRlRkajU4WXR1WmlfVS1CQ0hWckxlLTdfZkZ2bWdjTHZZUXJsTlE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 11:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump signals shift to economic pressure on Iran over new military strikes - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1z...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUp2OWhnVmxOYkpZTTM5TEktOUY1REswc3Roc04zNDNKbDAwQl9ib2JhZ1QtbHY3UHJXc2JjVkNYam5WNVJPR1lNNnlmS3ZkX253WTJtRE9ESG1BdnVSanQxWk9MR2NDeG15dlpzaEZrTm1Rcnowc1RLRmlaSnNPVmJxRHBUU0M1RWlqNTlSYmtDbW1zRzVDZHNkSk5SR1RWMWFmeVVMUHBCNzlJeVZmXzEyeURfd015SmfSAb8BQVVfeXFMUFFkMFhlblVNbUtKdmNacEI5cHVJRjJJbW44VXFoQzkwNXozeEoxZHFIWHZ2aEllSGpEQkYwVXhQV210LUFsMUloaWFZVXlQdmJjcTBOb2JmdzlaWnVyQkcxSUd1eGFtMzRUaW1BaktraDBxcnJGZjNvSjBJSXpaMzJtLTBPcGgyaWE2ZHE1TkhkY19ZRXdqR1Vubk1JbVJJMDZ6d2w1dmwtVVZPb244OGtYeW1pRC1tN2p1b3BiZlU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 03:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War: All Quiet on the Diplomatic Front | Geopolitics Weekly - Geopolitical Monitor",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZG5ldE1ZNTJXVHJGVmFTbktsUjZmQjRRYkNvbnF0MFJtZG14cWFldEw3eUJ5dFpEcGdyOEVNbFhudjdDN0l1ckRYWndhdE9KT3ZaVS1Qd2RTNjdSZm5pOFhpY3FiMktQRDdCNlctUHFibVdZNlUzQlBBUWhhRE13Vk5TNEFUQl8zMHJJNWN6UUVzaDE4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZG5ldE1ZNTJXVHJGVmFTbktsUjZmQjRRYkNvbnF0MFJtZG14cWFldEw3eUJ5dFpEcGdyOEVNbFhudjdDN0l1ckRYWndhdE9KT3ZaVS1Qd2RTNjdSZm5pOFhpY3FiMktQRDdCNlctUHFibVdZNlUzQlBBUWhhRE13Vk5TNEFUQl8zMHJJNWN6UUVzaDE4czBBQkZYeXdaeVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 12:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.436,
           55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "UK stock indexes subdued as investors await GDP data - reuters.com",
+        "titulo_evento": "UK stock indexes subdued as investors await GDP data - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVJzYlNjeThMTUtqU2hiTU02S0xMcHFCOWxEZFdNOU9Xd3FCZWtIbjQ5MGExa0JRNzRnRzhlVk10cWEtdmVMQmJLSTZFcUJ0ak1QQXpESkRkZzlfMHFTYTI5cnpzcE91ZUZ6V1dIdVV3YWF6aHh6N3gyeFlkUFFlRWlEUkc4MEVIYm1nR3lMb2JNcjRW...",
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVJzYlNjeThMTUtqU2hiTU02S0xMcHFCOWxEZFdNOU9Xd3FCZWtIbjQ5MGExa0JRNzRnRzhlVk10cWEtdmVMQmJLSTZFcUJ0ak1QQXpESkRkZzlfMHFTYTI5cnpzcE91ZUZ6V1dIdVV3YWF6aHh6N3gyeFlkUFFlRWlEUkc4MEVIYm1nR3lMb2JNcjRWWk9EZW13?oc=5",
         "categoria": "Política (Google News Markets)",
@@ -916,7 +882,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHZwTm1Bbnoxc1NEVHBjVE9hdzNiMFhjWGp5em1DcUZVYUoydFFKWDNNWXlRVXZ4SFNzX1lVeDZoNnhweERYVmVnMVlrTTBQSnV3VWl4ODhjdU1hRXRNZVR3WEhGY094eVFLd1BNbmFZeGZWaks4TmE2TS1uUEtqLXkwT2VlcGE3SVBGb1RoY1Y0bHd3...",
         "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHZwTm1Bbnoxc1NEVHBjVE9hdzNiMFhjWGp5em1DcUZVYUoydFFKWDNNWXlRVXZ4SFNzX1lVeDZoNnhweERYVmVnMVlrTTBQSnV3VWl4ODhjdU1hRXRNZVR3WEhGY094eVFLd1BNbmFZeGZWaks4TmE2TS1uUEtqLXkwT2VlcGE3SVBGb1RoY1Y0bHd3bW1TTUVvd093UlY5S0pETzBKRGFJbGt6UWY5TTZBajcyYVI5NXl2cjd3Q0E3UVhLMlE?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/08/2026 07:56"
+        "data_noticia": "10/08/2026 07:58"
       }
     }
   ]
