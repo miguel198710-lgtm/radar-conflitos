@@ -57,6 +57,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+        "descricao": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "10/08/2026 21:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Europe braces for another heatwave after record-breaking temperatures",
+        "descricao": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/08/2026 21:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump to demand compensation for Tehran’s ‘conflicts’",
+        "descricao": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran. ",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/08/2026 20:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -125,40 +176,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
-        "descricao": "10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "10/08/2026 15:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "War on Iran: Phase II: Day 30",
-        "descricao": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/08/2026 14:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
@@ -220,6 +237,142 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "10/08/2026 18:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes",
+        "descricao": "\nYemen’s Iranian-backed Houthi rebels struck a government-held port on the country’s Red Sea coast late Sunday, escalating fears over threats to strategic shipping routes and a potential return to civil war. \n",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260810-iran-backed-houthis-strike-red-sea-port-of-mocha-threatening-shipping-routes",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 20:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia bars only anti-war party 'Yabloko' from September parliamentary elections",
+        "descricao": "\nRussia's Supreme Court on Monday barred the country's only anti-war party, Yabloko (Apple), from running in September's parliamentary elections. About a hundred protesters gathered outside the courthouse chanting, \"Shame! Shame!\" after the ruling wa...",
+        "url_fonte": "https://www.france24.com/en/europe/20260810-russia-bars-only-anti-war-party-from-elections",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 17:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Deadly 7.4-magnitude earthquake strikes western Colombia",
+        "descricao": "\nAt least 47 people were killed and dozens of buildings collapsed in cities across western Colombia on Monday after a powerful 7.4-magnitude earthquake struck the South American nation.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-deadly-7-4-magnitude-earthquake-strikes-western-colombia",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 16:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Dolphin: Tropical storm causes some flooding in eastern China",
+        "descricao": "\nTropical storm Dolphin dumped heavy rain in eastern China on Monday, causing flooding in places after making landfall as a typhoon the previous day.\n\nAuthorities have warned of risks of severe flooding and landslides in some areas.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-dolphin-tropical-storm-causes-some-flooding-in-eastern-china",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 15:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Netanyahu says no Gaza withdrawal until Hamas disarms",
+        "descricao": "\nBenjamin Netanyahu said Sunday that Israel’s military “will not carry out any withdrawal until Hamas is genuinely disarmed.” The White House has not commented on the Israeli Prime Minister’s dismissal of Trump’s deal for Gaza.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260810-netanyahu-says-no-gaza-withdrawal-until-hamas-disarms",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/08/2026 14:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Solar Eclipse: Three things we could learn on August 12",
+        "descricao": "\n🌌 Save the date: the first total solar #eclipse visible from mainland Europe in 20 years is set to happen this week!\n \n \n \n🌕 🌑 On August 12, the #Moon will completely block out the #Sun during a rare total solar eclipse across much of northern #Spai...",
+        "url_fonte": "https://www.france24.com/en/video/20260810-solar-eclipse-three-things-we-could-learn-on-august-12",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/08/2026 14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia declares national emergency as quake toll hits 111",
+        "descricao": "\nColombia declared a national emergency on Monday after a 7.4-magnitude earthquake in the west of the country killed at least 111 people and injured 87 others as rescue teams searched for survivors trapped under debris. The quake prompted evacuations...",
+        "url_fonte": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/08/2026 14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia: Top court bans opposition anti-war party from vote",
+        "descricao": "Yabloko, Russia's only anti-war party, has been barred from September's parliamentary elections. The motion to bar Yabloko was filed by the nationalist pro-Kremlin party Rodina.",
+        "url_fonte": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "10/08/2026 20:56"
       }
     },
     {
@@ -312,23 +465,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Syria says deal agreed with Russia on future of military bases",
-        "descricao": "Under the agreement, Syria will take over management of two Russian bases that were used to support ousted leader Bashar Assad during the Syrian civil war.",
-        "url_fonte": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "09/08/2026 17:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -414,16 +550,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.5528,
-          23.6345
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Borderlands Mexico: USMCA gives Mexico an edge as global trade barriers rise",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-usmca-gives-mexico-110000849.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
+        "titulo_evento": "‘Low-keying it’: Trump signals shift to economic pressure as Iran war keeps drifting - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJqRjRRb1c4R3I?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 20:40"
       }
     },
     {
@@ -448,16 +584,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEo4ZXJYMDdaT0ozb1pGQ0dYVldPTWRkcmpqQ1hma0w1Qm5hamM5WnhvOHJxNzBvNTc0NURRZjVLZzNxdGQ2MnVnZDN0STZ0aXdsWkhDWnFWNjNFdHJOQVVaTjI5QjVldkNUTElYOW1WQWlRRWEtTmhyOEM5TlBPaWd5THR1UGRjX2hSSDFRZDdKVFRT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEo4ZXJYMDdaT0ozb1pGQ0dYVldPTWRkcmpqQ1hma0w1Qm5hamM5WnhvOHJxNzBvNTc0NURRZjVLZzNxdGQ2MnVnZDN0STZ0aXdsWkhDWnFWNjNFdHJOQVVaTjI5QjVldkNUTElYOW1WQWlRRWEtTmhyOEM5TlBPaWd5THR1UGRjX2hSSDFRZDdKVFRTMmpqNg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 19:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "‘Low-keying it’: Trump signals shift to economic pressure as Iran war keeps drifting - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2ViQjdpd0poZWpDSU9kSU4tMXRBZnFVQnU0dHpIQXBhWjlBXzZHUFFFS1NpTUhTWV93bjBzUUhBTjlkSHd4dlpKaHNIMnFJbFh5dmRISXdVeFFnTklVV0d6d2REWUdrNHlBUVFuUWZSaXhkLWQ3SHFJbC05WGlVbWJxcnpjUnphSEwteFExYmxHaEJqRjRRb1c4R3I?oc=5",
+        "titulo_evento": "Trump administration extends limited shipping waiver to keep oil flowing amid Iran war - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEdiMDkwdWdmMVZ4ZXY2SjBfMTk0a1FrUzdiTlBOWGczOUYwMXI0V1lWalBsN2lZd0g5VXREUFRYRVdWYU9PSnZ2eHZreF9Lcl9HZ3VwNWJWeUsyeDJhVklvcVBUamdPZ2JYSFRrQWhWX0hVX2ZPdDUzMjkxdEd5bDJuWnVic19zc3hXOEJQRlNpSXlY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEdiMDkwdWdmMVZ4ZXY2SjBfMTk0a1FrUzdiTlBOWGczOUYwMXI0V1lWalBsN2lZd0g5VXREUFRYRVdWYU9PSnZ2eHZreF9Lcl9HZ3VwNWJWeUsyeDJhVklvcVBUamdPZ2JYSFRrQWhWX0hVX2ZPdDUzMjkxdEd5bDJuWnVic19zc3hXOEJQRlNpSXlYby1WakZ5eHVpb19oOHgxWDRmWjRDMjlfbl9lU1NVSHg1ZGI5Nnp0aGZOOEtQUXdOYTU0RFdxWFEzbjFTOHRVaw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 16:48"
+        "data_noticia": "10/08/2026 21:18"
       }
     },
     {
@@ -482,6 +635,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia's top court bars anti-war party from parliamentary vote - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 21:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump demands Iran compensate Americans and protesters after Tehran seeks war reparations - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOExqakllamJkSy16QWVSTHhPOGptQ0xmdDc2MEZ6OTJFdlFiQmxaYTQwemFCeUNoNWQwaGJRYXRiTDBOd1JSX0dveU42c1hoZGpRSTlVNTk0d18zUXliZXB1MkZoenBfTE5TWEs5d2lQMmRRdnVhLTdtWG5TTEdJUTRHZWF3aGFIcXpLSXNpTkRLN1Ff...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOExqakllamJkSy16QWVSTHhPOGptQ0xmdDc2MEZ6OTJFdlFiQmxaYTQwemFCeUNoNWQwaGJRYXRiTDBOd1JSX0dveU42c1hoZGpRSTlVNTk0d18zUXliZXB1MkZoenBfTE5TWEs5d2lQMmRRdnVhLTdtWG5TTEdJUTRHZWF3aGFIcXpLSXNpTkRLN1FfWnIzTDJtdnlqd0tOS203R0NIR2NqTE5OYlk0Rlg1UGtidmVncVHSAb8BQVVfeXFMUHBvSFhOMmFsWS1waUFIRmNuYjBuaHNyRnY3VUZSeDJfcFAyR0JkdE56ZTk4alc4eWxrSjBJT0EtQ19SR1psS3RfRVNqTm8tSlVYSzZQNmpnYXVxUUJ0dC0wbzFwOXlFeFQzU0RZRENOZzc3V01sdVI2Q1NySTdXaTF1YkZ3T1lxOTlycFBLejdsVi1mYUhoSVdCT2VRb0tnSlgwalZpMWowSUpWR1k1V0dobnNTaEdRbjM4TlZyUEk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 20:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -499,50 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia's top court bars anti-war party from parliamentary vote - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13 - nytimes.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBldlpFNjhwckVhVE5GSmpHUW0xRUYzT3owZC01czJYYXR2aXl5amNYbjR5YWRyU0dxS3RQR2FOdE9sal9oamJfNXVWTGpnV2VOS2FfU1lBY3ZSUThYWm9ZVGt1a2N6djZkMGZRV0I3MjBES2JiTWhRdkc2SnBjbmFzWXJSTE0?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHBldlpFNjhwckVhVE5GSmpHUW0xRUYzT3owZC01czJYYXR2aXl5amNYbjR5YWRyU0dxS3RQR2FOdE9sal9oamJfNXVWTGpnV2VOS2FfU1lBY3ZSUThYWm9ZVGt1a2N6djZkMGZRV0I3MjBES2JiTWhRdkc2SnBjbmFzWXJSTE0?oc=5",
+        "titulo_evento": "Russia bars only party opposing war in Ukraine from parliamentary vote - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9C...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjcxSFNFc2lBQkFFWnRvSkt0dE5JTEtIU2Nhc25KODVBYnRETjBMdW1rMGZDM2taWTFqY05oZXpobi15Z1d4VnNFQ1FZVFpBNWdtdlFib0tRZllzcmVmS1I2UkNod1JsTG1vSEo4TFZGMzh4ZnF4NzJwb3BNQTFWODdZWkN4NC1wZk43YXByODVsOF9CZ3pXNXluYzFTR1VvMFJMbzl3ZFBVUFUxaUg1WdIBtgFBVV95cUxOdS1FTTdhRXNBZ1d6R2lPZnQ4LXJuR29jUVlkeFBTTmlsQWJEc29ZWmRKWWtBdER1UGYtcGdjYjdNNW1QSjcwaTR6R1prSUc4TjhaYnJXQ3psUWJsZko0TzNuUi00SHhYNVB3cTR4VXozcWdUNDRLRUJtTXZ4RGJjUDlYSU1fVTlRai16U3FhNDVOWmhCaHNXUERmdi1RVUcwdXBVRHRpMmwzSE1LREd6U2pQZVYzdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 15:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Middle East officials urged states to make deals with Israel - while secretly preparing for war - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yWmZORHIyRDhqYzFMdUhTWmtIc2tzN0VkY3JMU0V4dTdZMnN4WkpWbVdYRnlhaHdvOVdlN24wTW9tV1dBSkxjdjVvTERBa2FkUm42UV9OTXA0N3gy?oc=5\" target=\"_blank\">Middle East officials urged states to make deals with...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yWmZORHIyRDhqYzFMdUhTWmtIc2tzN0VkY3JMU0V4dTdZMnN4WkpWbVdYRnlhaHdvOVdlN24wTW9tV1dBSkxjdjVvTERBa2FkUm42UV9OTXA0N3gy?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 18:31"
+        "data_noticia": "10/08/2026 19:55"
       }
     },
     {
@@ -555,11 +708,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran demands U.S. end war, lift naval blockade in order to reopen Strait of Hormuz - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWgxdXRtT0FFUE5NZ2pJUVZLWlNmUWF6YThxOWJ1dk1seXg3QUhOZmFhTFBHWlVOVGtfUnprZkU2YWtWMndGSUR2dmFBVXBoZmJYOFpiMGVmc2hLVS1SeHFCT2ZGV3l3aWNiSG1jRzJKR29zXzNhN3Q3aVBob3hrZl9PSkU2NzBzZzVqTlFFTkY1YkM2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWgxdXRtT0FFUE5NZ2pJUVZLWlNmUWF6YThxOWJ1dk1seXg3QUhOZmFhTFBHWlVOVGtfUnprZkU2YWtWMndGSUR2dmFBVXBoZmJYOFpiMGVmc2hLVS1SeHFCT2ZGV3l3aWNiSG1jRzJKR29zXzNhN3Q3aVBob3hrZl9PSkU2NzBzZzVqTlFFTkY1YkM2QkJlWXlVUUZJR1lpMlMyTXZRUld3NUxPM3hvZjlZS1VuX3piWk4yRjZSVEU?oc=5",
+        "titulo_evento": "Trump demands Iran pay compensation for decades of US soldier deaths - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm1kd3h3akxHSkhXczgydmREN0hOUEFjV0RkZ203T0dibnZGcmZWSWRRWm5TM2ttSFlYRjhnYzNCWXk4Si10U2tzd2NyTlRDZ2lTb2MzNE5FczFDNVVkVHBuZHJGRWFNWTBrRkxNaElnc1RtUlhWNHVGWmpyZmVBS0RYaEc0MlVncWZiZ1VZN1BVeDZk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm1kd3h3akxHSkhXczgydmREN0hOUEFjV0RkZ203T0dibnZGcmZWSWRRWm5TM2ttSFlYRjhnYzNCWXk4Si10U2tzd2NyTlRDZ2lTb2MzNE5FczFDNVVkVHBuZHJGRWFNWTBrRkxNaElnc1RtUlhWNHVGWmpyZmVBS0RYaEc0MlVncWZiZ1VZN1BVeDZkQVBwTUFlUWRjT3g5OERXVVdmTTFrTkRvOE1sWl9kcGw?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "10/08/2026 21:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Khamenei fills six top military posts as key intelligence gaps persist - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZF9XbnluTGZ5NEdYSTJ2MEpodml0R05aQUFjWU0yT25CM1Jzb1hLQ2QwWHB6RXVSdy1PX3A1M1hFeU5pS3ZhLWtpeDZXZnVrUkE?oc=5\" target=\"_blank\">Khamenei fills six top military posts as key intelligence gaps per...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZF9XbnluTGZ5NEdYSTJ2MEpodml0R05aQUFjWU0yT25CM1Jzb1hLQ2QwWHB6RXVSdy1PX3A1M1hFeU5pS3ZhLWtpeDZXZnVrUkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/08/2026 15:41"
+        "data_noticia": "10/08/2026 15:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war adds pressure to slowing U.S. economy - Texas Public Radio | TPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjBnekJ4UmNZSEJ3cTRzenpYMjZPbmpxdkpYeVBOMlFxcDZIMXlQME01YlRqV2pOZHJsT3Nnb2JXd3lQZU9YRGhrOTRkdDVPcmxDeHRfWHVvUFZDVkw4bmJOazRRLWVYYkU3T0FwNFR5azZJTG5PTmdCUFNLZWdCbnhKRUdHWDFIbFI5Znctb0NVb01h...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjBnekJ4UmNZSEJ3cTRzenpYMjZPbmpxdkpYeVBOMlFxcDZIMXlQME01YlRqV2pOZHJsT3Nnb2JXd3lQZU9YRGhrOTRkdDVPcmxDeHRfWHVvUFZDVkw4bmJOazRRLWVYYkU3T0FwNFR5azZJTG5PTmdCUFNLZWdCbnhKRUdHWDFIbFI5Znctb0NVb01heEliTlc1cw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/08/2026 21:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Paul Weiss Adds Capital Markets Partners Peter Byrne And Tristan VanDeventer In New York - Pulse 2.0",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPLV9fb1Z5SVJpTE4yY1hSU1ZKYUViUkRtcndYWVpRNXM4MGQwc3VjbFdITV9HNUREeW8wQkRjR3dSS1R0aWZwNzBwOHdTRjhUemY4S2xBUVdkYWdyWUR3cExxV0VsUnNtVEwzSTJ5Uzk2bW9NSHF6bDR4SjZ1U1hkckRjWlJJdGhGdzNiZ1V0b1YtTzhD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLV9fb1Z5SVJpTE4yY1hSU1ZKYUViUkRtcndYWVpRNXM4MGQwc3VjbFdITV9HNUREeW8wQkRjR3dSS1R0aWZwNzBwOHdTRjhUemY4S2xBUVdkYWdyWUR3cExxV0VsUnNtVEwzSTJ5Uzk2bW9NSHF6bDR4SjZ1U1hkckRjWlJJdGhGdzNiZ1V0b1YtTzhDZ3p2NEpwYTZTaWtLYmpJeVJUMk1wYVph0gGyAUFVX3lxTE83N1FUbjBCNFJfTmd4dFNmTXdHZVhfSlNLZEg5ZGQ2NHBsY3JkQjhpUkhmR2JiUERkeE5fdWtuNk1tTGZIWWMwaVFmS3E1ZG40Q0l2b3BjLVRsdnN6ejR4YU0wSjhUWUdacXFLTjRzNWszUldQZXZoa1N5ZkhsVzJfNFVGMlJick94LUYyZXN4UjVmQWRVenlWdEM0YUk2MEVXV3V1ckhzLWNOekh5Z2NBOGc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "10/08/2026 19:38"
       }
     },
     {
