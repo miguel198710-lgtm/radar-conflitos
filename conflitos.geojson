@@ -91,6 +91,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+        "descricao": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/08/2026 03:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -113,8 +130,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
-        "descricao": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
+        "titulo_evento": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+        "descricao": "Qatar says negotiations between Oman, Iran over future of shipping through Strait of Hormuz are making major progress.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "12/08/2026 00:00"
@@ -284,7 +301,7 @@
       },
       "properties": {
         "titulo_evento": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-        "descricao": "It marks another striking episode in the turbulent history of his relationship with Iran, writes Anthony Zurcher.",
+        "descricao": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "12/08/2026 00:14"
@@ -465,6 +482,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East live: US military strikes ship violating blockade of Iranian ports",
+        "descricao": "\nThe US military announced on Tuesday that it had shot a Panama-flagged ship that was trying to approach an Iranian port in violation of Washington's blockade. President Donald Trump asserted again that the United States was exercising \"total control...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260812-middle-east-live-us-military-strikes-ship-violating-blockade-of-iranian-ports",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/08/2026 03:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea conducts second ballistic missile test in less than a week",
+        "descricao": "\nNorth Korea fired a ballistic missile Wednesday, its second test in less than a week, as Seoul and Washington prepare to begin annual military drills next week. The launches appear to signal Pyongyang’s opposition to the exercises, which it views as...",
+        "url_fonte": "https://www.france24.com/en/asia-pacific/20260812-north-korea-conducts-second-ballistic-missile-test-in-less-than-a-week",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/08/2026 02:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -618,16 +669,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2973,
-          4.5709
+          127.05,
+          40.0
         ]
       },
       "properties": {
-        "titulo_evento": "Colombia: Eyewitness films moment earthquake hits",
-        "descricao": "\nIn a video circulating on social media, an eyewitness captured the moment a devastating 7.4 magnitude earthquake hit parts of Colombia on Monday (August 10). Rescue operations remain underway to find survivors, as authorities say the death toll, alr...",
-        "url_fonte": "https://www.france24.com/en/video/20260811-colombia-eyewitness-films-moment-earthquake-hits",
-        "categoria": "Política (France 24)",
-        "data_noticia": "11/08/2026 10:37"
+        "titulo_evento": "North Korea tests missile ahead of US-South Korea drills",
+        "descricao": "The suspected ballistic missile was launched towards Japan and likely fell just outside of its special economic zone, Tokyo said.",
+        "url_fonte": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "12/08/2026 03:41"
       }
     },
     {
@@ -692,7 +743,7 @@
       },
       "properties": {
         "titulo_evento": "Middle East: Trump took secret flight out of Turkey over Iran threat",
-        "descricao": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil prices rose as hopes for a deal on the Strait of Hormuz fade. DW has more.",
+        "descricao": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil prices rose as hopes for a deal on the Strait of Hormuz fade.",
         "url_fonte": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "11/08/2026 06:05"
@@ -713,23 +764,6 @@
         "url_fonte": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "10/08/2026 15:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin used North Korean ballistic missiles in lethal attack on Ukraine, Zelenskyy says",
-        "descricao": "Russia kills 6 in \"vicious attack,\" says Ukrainian president. ",
-        "url_fonte": "https://www.politico.eu/article/vladimir-putin-russia-used-north-korean-ballistic-missiles-lethal-attack-ukraine-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "11/08/2026 07:53"
       }
     },
     {
@@ -780,7 +814,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5\" target=\"_blank\">Trump Said to Hav...",
         "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 23:24"
+        "data_noticia": "12/08/2026 02:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGJ5LUMtXzVZLVByN1VPYzRoc2x4NzFYeFE1MnJyRjkxZnFPX1RodXlqQ3g0UVdKazFnN0NYTmwyR2dSZHlqMDZhbk5lOV9FdHcwb2o1RE1zSV92bTZiSXQ2TDdfcDg5Y21XY3VkUlhLWjdrM1FCUWpHZXlCTkpDb3dJOGk5dHlKVm1kOEtYc2NNeG96...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGJ5LUMtXzVZLVByN1VPYzRoc2x4NzFYeFE1MnJyRjkxZnFPX1RodXlqQ3g0UVdKazFnN0NYTmwyR2dSZHlqMDZhbk5lOV9FdHcwb2o1RE1zSV92bTZiSXQ2TDdfcDg5Y21XY3VkUlhLWjdrM1FCUWpHZXlCTkpDb3dJOGk5dHlKVm1kOEtYc2NNeG96cVR4MGhyZDhhR2NYem8yQkVaQkRoUDdm?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 01:23"
       }
     },
     {
@@ -793,28 +844,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea fired a ballistic missile, South Korean military says - Reuters",
+        "titulo_evento": "North Korea launches another missile toward sea ahead of US-South Korean military drills - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSnZFb3lBeVlieUQySkUtb2dJUXFpZzJkYlVCTkFNaDVwVVY4Mll0QnVDVTc3SU0yRFZNdjlUdF9QWkY1TzNsb3FIRUJnbDJSSjFlc3FCUERFeGZyT2U1dzRlN05xRTRlbkpPUENyd0FmZWpxYkUyTWZHaHJzMHR1OXNUdUgwVEY2cDhNaG1SZ0tOMERBRGowUDN1MzBXUm5qYU12QTVsMFE0RlhXV0E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 01:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea launches another ballistic missile as US, South Korea prepare for military drills - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeERNMDNpNEdmNVowdjYzYU1iWEF3MzRNWENjQ29xU2xHV3BSSU9mRHJJc2ZsWUlLWHRBeUFOMmVZYUVNb3B2ZTR0d2ZfMDFFakl6eFF4VEtIWEFibVAxLVRiN2t6d2tydjRlN1A3OXdFMmsxUDl1TWNLNkFSTjZnUDl0OHlrcHlhMy0zQlZfTEFXUmxS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeERNMDNpNEdmNVowdjYzYU1iWEF3MzRNWENjQ29xU2xHV3BSSU9mRHJJc2ZsWUlLWHRBeUFOMmVZYUVNb3B2ZTR0d2ZfMDFFakl6eFF4VEtIWEFibVAxLVRiN2t6d2tydjRlN1A3OXdFMmsxUDl1TWNLNkFSTjZnUDl0OHlrcHlhMy0zQlZfTEFXUmxSN0JpSXNWT3E2UlNTc2ljdUF2QlBta0nSAbABQVVfeXFMTTVJZFdTTGVGajdjVU13N3NqWkVmQlBOeW1rMW1ka1pqMlI4QWlGbmgtR0xMMGxRUTQtMUI5a28tRGJvLVEzaFlabzlLUFFoXzFjdkdIUHlPYUw5dFI1UWpDNXpmVmd3YWk2NmpVWG9FVDhjalNrUzRJYVZ2ekZoVmtILVNRZU9xOFI0bkNUS3BzOW9wd041b2lPaU9iY0JNZ1poMmoyWXpEdzFCWW9ZX1M?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea fires missile ahead of major US-South Korea drills - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUsz...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 22:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea launches a ballistic missile toward the sea, South Korea says - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hCOC1nUDcwSTh6endwVnFzX3ViSldFR1kycjJhUGp3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 00:02"
+        "data_noticia": "11/08/2026 21:25"
       }
     },
     {
@@ -839,33 +907,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.1157,
-          20.2802
+          127.05,
+          40.0
         ]
       },
       "properties": {
-        "titulo_evento": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
+        "titulo_evento": "North Korea launches a ballistic missile toward the sea, South Korea says - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hCOC1nUDcwSTh6endwVnFzX3ViSldFR1kycjJhUGp3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 23:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 19:33"
+        "data_noticia": "12/08/2026 00:02"
       }
     },
     {
@@ -907,23 +958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0tSQnFnVVBKMkRKMlFlZlE1UTNpQ0xiNTkzSlBDMWNvV2FMcFE4dm9sUFZVamdNZEE2MkpGYVJqYUpMeElhSzJLYzc4MTJkcm96TUFUMU4xa0N3QXY5ejhLOUJjMnJKOUF6RWFVV3dVM05oYVp2clZobDc1ZnFrZkNsOVp2bnNaUGJhc09INjZrQQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0tSQnFnVVBKMkRKMlFlZlE1UTNpQ0xiNTkzSlBDMWNvV2FMcFE4dm9sUFZVamdNZEE2MkpGYVJqYUpMeElhSzJLYzc4MTJkcm96TUFUMU4xa0N3QXY5ejhLOUJjMnJKOUF6RWFVV3dVM05oYVp2clZobDc1ZnFrZkNsOVp2bnNaUGJhc09INjZrQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 20:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.05,
           40.0
         ]
@@ -933,7 +967,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2RoYWxFQUtmTHNLYTk1NUp1VDRsU0NJcUNwYmpFTW1kZHRndmIzRkVkS01wZWxlR0x3eDBrQTAwQ3VQWF92Nl9xcGR0bU84eGpfdFJPdnJTREUxdi1uX1hRNXZwMzdIRWIzRmhDWTgwdmlLTDdrT0xLSUg5VVBZbmRtVi1jaEQ2bFJfWW1WbWtoSXd1...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2RoYWxFQUtmTHNLYTk1NUp1VDRsU0NJcUNwYmpFTW1kZHRndmIzRkVkS01wZWxlR0x3eDBrQTAwQ3VQWF92Nl9xcGR0bU84eGpfdFJPdnJTREUxdi1uX1hRNXZwMzdIRWIzRmhDWTgwdmlLTDdrT0xLSUg5VVBZbmRtVi1jaEQ2bFJfWW1WbWtoSXd1cU5QSDVZUVNzYXg3MHNOTUJUY1d2WExOUWfSAbMBQVVfeXFMT2k2VGVTcGctMERUdE01SndOUHNhamZZdUI5S21kbFIwREc5UEZjY2xTUGc4UEltc3FmNm5sWm5xWXVvUTZCMElTc1gtN2ZBdklqa3V3aUF4OW95Ny1RRm1wZ0VNa05kRE9BdXZFdzQ4U0dZTHBvcXE4b08xeGJKbklQVFllNWk4MXJLS0ZFVl9fTjIxc1JJcDJRRUFhdnVHTVRqRmFCbUhNRXVGXzJpTGhKdUU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 20:34"
+        "data_noticia": "11/08/2026 22:12"
       }
     },
     {
@@ -941,16 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          38.1157,
+          20.2802
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea launches another missile toward sea ahead of US-South Korean military drills - The Seattle Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTk5OaVMyQnl4NUVoSFVIZ1QtQkFoLUFzdHZ6Ujk2OGxGaVE3eEhubDNNV1VHYVh4aWV2U09DQVBGcFdQcmlKMTliOGtLbTVRS1ZsSmhtanBkMGhQcmVXOWVsQXRUMFhmMFFzZWYzcExBak1fUElWOGVHYlFCSkJPMXRXbGI4NDFMLTgybzlVd2xwYTMt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTk5OaVMyQnl4NUVoSFVIZ1QtQkFoLUFzdHZ6Ujk2OGxGaVE3eEhubDNNV1VHYVh4aWV2U09DQVBGcFdQcmlKMTliOGtLbTVRS1ZsSmhtanBkMGhQcmVXOWVsQXRUMFhmMFFzZWYzcExBak1fUElWOGVHYlFCSkJPMXRXbGI4NDFMLTgybzlVd2xwYTMtalY4cmlqc3hYVVJyNVM0ellPQ3pQZ3ktMXN0TVY0dVJ5QXFic1k3WVBNRTRnQjBX?oc=5",
+        "titulo_evento": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 00:41"
+        "data_noticia": "11/08/2026 23:29"
       }
     },
     {
@@ -963,11 +997,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran Is Defying U.S. Pressure by Becoming a ‘Survival Economy’ - wsj.com",
+        "titulo_evento": "Iran Is Defying U.S. Pressure by Becoming a ‘Survival Economy’ - WSJ",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0Y1djFybXFhV3JRSWl2UTN2bkh6bVY4X240OUVnT3h5NWdBeGNYM0s1NERkbi1GcWNSZkpTdElhemlXV0l3LUlJdXAwTW5EdmZzdHNqMVIydm9zLUZVeE5SWjdqVzVkVmxrTy1HeFkwTTZmckp0NDFWQU9CekNSd1hxVDNuN2tnRExDeGdXejh2RXE0...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0Y1djFybXFhV3JRSWl2UTN2bkh6bVY4X240OUVnT3h5NWdBeGNYM0s1NERkbi1GcWNSZkpTdElhemlXV0l3LUlJdXAwTW5EdmZzdHNqMVIydm9zLUZVeE5SWjdqVzVkVmxrTy1HeFkwTTZmckp0NDFWQU9CekNSd1hxVDNuN2tnRExDeGdXejh2RXE0c01UbFdXNmYwZ1ZYVXk5S1RjeEZ1UQ?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/08/2026 21:01"
+        "data_noticia": "11/08/2026 20:58"
       }
     },
     {
@@ -1002,6 +1036,40 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR05FaDlib3Bjc3VjdjdFR0FqdngxcW82eTRadFVZaXIzblpWaHVGWEk1el9iMU14cElPbVFjWi12ZjdnLVJPUlRYWExRc1BqcFNwRm5nWVdyRVNLaDNXS2Q1cWNwelN5UVpEX1c0UUhfbTZyT0lfZVpnNmhzeW9ReTJQbFpkdzJDQjdxOVBmQ3RvdTVMMHpRRmNKOFJ3U04tWTE5M0FlU2R6b3ozcGIwMEdPMTBYQ3F2NTNWRnZtOWV4UQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "11/08/2026 12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global Investors Favor Taiwan Over Korea Stocks After AI Selloff - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnRwQUVnUzB2SWk4QlRGMXJTbDFXc1ZhSXVieWN6OEFoNlV2MVNEYkNDNE52dWNNaFVKSDdBd3R3OTAwd3Rndzk5a21QSTRVMW9wTnpwanBKRGNNUm1LY1BhNjh0b2xfdDBKUWctU3RvdkRCMGwxMTMxazhyekc2YXV0OG01ZHZpbkFjaDFpamhEUXFI...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnRwQUVnUzB2SWk4QlRGMXJTbDFXc1ZhSXVieWN6OEFoNlV2MVNEYkNDNE52dWNNaFVKSDdBd3R3OTAwd3Rndzk5a21QSTRVMW9wTnpwanBKRGNNUm1LY1BhNjh0b2xfdDBKUWctU3RvdkRCMGwxMTMxazhyekc2YXV0OG01ZHZpbkFjaDFpamhEUXFIc253dEMtSHBZS0k2bzZIRmNlbXZ6ZzZKTzdBUHNWbVpXdFhIYTJyZE1STzNzZnZkOTNFaE10SzU?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "11/08/2026 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China's car sales extend slide as shift accelerates to overseas markets - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTYwb00xY1NfcjFuMXpQZ1lFWklIN0ZESEVoazVxR1dIbkRSR1NqQS1IM3JQNTI2LXgtcW5GYS1PeEN3VTlLLV9UWkFILXNJYjFPWThEU2FGdHZzZ3ljNHVGLUkwZnBlUElSZjVNTmlER1hmNWtXTF80ODZJTzRJT0FzRHdtanRsRnZaTHVFaG5IaEIw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTYwb00xY1NfcjFuMXpQZ1lFWklIN0ZESEVoazVxR1dIbkRSR1NqQS1IM3JQNTI2LXgtcW5GYS1PeEN3VTlLLV9UWkFILXNJYjFPWThEU2FGdHZzZ3ljNHVGLUkwZnBlUElSZjVNTmlER1hmNWtXTF80ODZJTzRJT0FzRHdtanRsRnZaTHVFaG5IaEIwMkxDUVdUTlNHeHVTblN6LVNtN0JLTFRiaW9JVVg2YXkyVmNreTUw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "11/08/2026 10:13"
       }
     },
     {
