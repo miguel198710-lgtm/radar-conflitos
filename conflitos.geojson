@@ -108,12 +108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+        "titulo_evento": "Four killed in overnight attacks in southern Russia, Ukraine",
         "descricao": "Russia&#039;s Novorossiysk &#039;endured a horrific night&#039;, with a child killed and dozens of buildings damaged, says local mayor.",
         "url_fonte": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -193,23 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-        "descricao": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "12/08/2026 03:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.2973,
           4.5709
         ]
@@ -254,6 +237,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "11/08/2026 21:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia quake rescuers save woman after 36 hours trapped in rubble",
+        "descricao": "A 32-year-old woman has been rescued alive in Pereira after spending 36 hours trapped beneath a collapsed building. Rescuers located her 10 hours before reaching her.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "12/08/2026 11:34"
       }
     },
     {
@@ -380,16 +380,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "Russia fired North Korean missiles in attack that killed six in Zaporizhzhia, Zelenskyy says",
-        "descricao": "Ukraine's president has repeatedly sounded the alarm over deepening military ties between Moscow and Pyongyang, often while appealing for more Western air-defence supplies.",
-        "url_fonte": "http://www.euronews.com/2026/08/11/russia-fired-north-korean-missiles-in-attack-that-killed-six-in-zaporizhzhia-zelenskyy-say",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "11/08/2026 10:14"
+        "titulo_evento": "Millions gear up for first total eclipse since 2006",
+        "descricao": "\nA total solar eclipse will sweep across northern Spain on August 12 in one of Europe's most anticipated astronomical events of the decade. From the Sun's corona to animal behaviour and human emotions, these rare celestial events continue to provide ...",
+        "url_fonte": "https://www.france24.com/en/millions-gear-up-for-first-total-eclipse-since-2006",
+        "categoria": "Política (France 24)",
+        "data_noticia": "12/08/2026 09:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Key US primary races take shape",
+        "descricao": "\nTuesday was primary election day in six US states, with both major parties holding runoffs in several races. In Minnesota, the progressive Lieutenant Governor defeated Representative Angie Craig in the Democratic Senate primary, while Wisconsin’s Re...",
+        "url_fonte": "https://www.france24.com/en/key-us-primary-races-take-shape",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "12/08/2026 09:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Death toll rises after Colombia earthquake",
+        "descricao": "\nThe death toll is rising in Colombia following the country’s worst earthquake in decades. At least 240 people have been confirmed killed in the west of the country, many of them found beneath the rubble of their homes. But the painstaking search for...",
+        "url_fonte": "https://www.france24.com/en/death-toll-rises-after-colombia-earthquake",
+        "categoria": "Política (France 24)",
+        "data_noticia": "12/08/2026 09:06"
       }
     },
     {
@@ -487,8 +521,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "UK 'joke' candidate Count Binface makes serious point about politics",
-        "descricao": "\nBritain's Count Binface, a man wearing a rubbish bin over his head, on Thursday is challenging far right politician Nigel Farage in the Clacton by-election, sparked by the Reform UK leader's shock resignation. \n",
+        "titulo_evento": "UK's Count Binface, the 'joke' candidate challenging far-right Farage in Clacton by-election",
+        "descricao": "\nBritain's Count Binface, a man wearing a metallic rubbish bin over his head, challenges far-right politician Nigel Farage on Thursday in the Clacton by-election sparked by the Reform UK leader's shock resignation from his post in July. None of the U...",
         "url_fonte": "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics",
         "categoria": "Política (France 24)",
         "data_noticia": "12/08/2026 01:27"
@@ -526,40 +560,6 @@
         "url_fonte": "https://www.france24.com/en/americas/20260811-russia-frees-ex-us-marine-after-four-years-imprisonment-on-disputed-charges",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "11/08/2026 17:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Colombia: Thousands missing after deadly earthquake",
-        "descricao": "\nAt least 224 people have been killed in Colombia following a 7.4 magnitude earthquake which struck the western part of the country. With thousands of people still missing, authorities are warning the number of casualties could continue to climb.\n",
-        "url_fonte": "https://www.france24.com/en/video/20260811-colombia-thousands-missing-after-deadly-earthquake",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/08/2026 14:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Death toll from Colombia earthquake continues to rise",
-        "descricao": "\nThe death toll from a devastating earthquake that flattened dozens of buildings in western Colombia jumped to 224, local authorities said on Tuesday (August 11) as emergency workers dug through the wreckage for survivors. FRANCE 24's Maria Clara Cal...",
-        "url_fonte": "https://www.france24.com/en/death-toll-from-colombia-earthquake-continues-to-rise",
-        "categoria": "Política (France 24)",
-        "data_noticia": "11/08/2026 14:30"
       }
     },
     {
@@ -669,6 +669,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why the White House can live with Israel rejecting its peace plan",
+        "descricao": "The Trump administration is giving Netanyahu leeway to message the latest Gaza peace for his domestic audience, so long as Israel continues to ease its attacks.",
+        "url_fonte": "https://www.politico.com/news/2026/08/12/tolerating-netanyahu-two-step-why-white-house-can-live-with-israels-rejection-peace-plan-01033659?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/08/2026 10:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine hammers key Russian port in overnight drone attack",
+        "descricao": "The Ukrainian president said Kyiv's forces were attacking a Black Sea naval base, while Russian officials pointed to civilian casualties and destroyed residential buildings. ",
+        "url_fonte": "https://www.politico.eu/article/russia-krasnodar-novorossiysk-ukraine-war-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/08/2026 09:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.1278,
           51.5074
         ]
@@ -678,7 +712,7 @@
         "descricao": "Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.",
         "url_fonte": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "11/08/2026 15:22"
+        "data_noticia": "12/08/2026 10:37"
       }
     },
     {
@@ -708,11 +742,113 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran - nytimes.com",
+        "titulo_evento": "Are hacks of U.S. water facilities a new front in the Iran war? - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T0pJaGV0T3VBcnFsRTVyRDRHSlgwRzhwRnJpdEJUZDNfaUNQbG0xa01NNERGYmRSam5RMWY2ZTVSaTktUGdTekdzdFkyOG5mRFdqdmZ1dWlFdmw2Q2ZHVFZ0cUFORDI3SXk0SUs3XzdFSnlodU1QTHBscw?oc=5\" target=\"_blank\">Are hacks o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T0pJaGV0T3VBcnFsRTVyRDRHSlgwRzhwRnJpdEJUZDNfaUNQbG0xa01NNERGYmRSam5RMWY2ZTVSaTktUGdTekdzdFkyOG5mRFdqdmZ1dWlFdmw2Q2ZHVFZ0cUFORDI3SXk0SUs3XzdFSnlodU1QTHBscw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats From Iran - The New York Times",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5\" target=\"_blank\">Trump Said to Hav...",
         "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUQjJsRHJrbjIzT3ROcFV2SzFUUmlpUXA4TENVOXRDekFqbDlISVV6cUxKX1I0ZDJwdm1iMjY0cWdKMW9ieTlneTludWFxZmVUNm02VjNFbnVpcHFfOC1LTW5TaTltMEx1QTBjUUg3TnFkQ2VXSWpV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "12/08/2026 02:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s Military Pivots to ‘Offensive’ Mode for Next Round of War - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQl9jaHdwV2RfVkpQeEd6Q3VKX3BYN0pPTmtxX1MwbkZpeVA3b3ZXdng2RlpmRzh2cjdFVFphNkp6V0NXdEs2UDE3d0c3akgzX29KeXNucGVMTHRqUEJiWFZUa1ZwYXVJeXhTV3VaLTR6VGVpMmI2WU5yREFnTEFuUzR1VExPYk9iOU42TmtoQV9HYkJp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQl9jaHdwV2RfVkpQeEd6Q3VKX3BYN0pPTmtxX1MwbkZpeVA3b3ZXdng2RlpmRzh2cjdFVFphNkp6V0NXdEs2UDE3d0c3akgzX29KeXNucGVMTHRqUEJiWFZUa1ZwYXVJeXhTV3VaLTR6VGVpMmI2WU5yREFnTEFuUzR1VExPYk9iOU42TmtoQV9HYkJpaDZhX1NOOENLVjZ1TXhOR0xIQWhsQjQwb2IyenlxNA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 09:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1157,
+          20.2802
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFVX3lxTE5YekViUjgwbV9GLWVWUmplY0d3Nm9ka1lxQmRFMHVrNzFTWHhiSU1JMVpDbllZRGF2MGtkNW4yakJidmF5LTJsbUk2YVRSQ214ZHQyQzRwczRzYVRTZFJUWk5pNHRMZzZpcXRvX2cwbF9PYzByQlNLNUpvOE1lSGQ3Zk9rUFJsMkdBVFo4ZkMtZnQ1TQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 05:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran refined drone, missile attacks to overwhelm US defenses as Patriots ran low - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5zOGVjbDVyWmxsc1UxbjEyWnRYQXpGaTVxYm1oMmlseVBHclIwVlk4TW5jMHRoNndrQ1ZpRGlMT3EzOWJpek9hWTZPT2FaUU1wWVUzdWhqVlZFYnd0OGItcmZHUjZwZ2dFQlE?oc=5\" target=\"_blank\">Iran refined drone, missile attack...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zOGVjbDVyWmxsc1UxbjEyWnRYQXpGaTVxYm1oMmlseVBHclIwVlk4TW5jMHRoNndrQ1ZpRGlMT3EzOWJpek9hWTZPT2FaUU1wWVUzdWhqVlZFYnd0OGItcmZHUjZwZ2dFQlE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 09:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What does mismanagement of the Iran war teach us about Trump-Rollins farm policy? Everything. - Kansas Reflector",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2xMdk04d3RNUmZwTU1NLUlsR2s0ZHhPMHhqcHZMSU1OOWJJbl84WExNVmRBZ29RaHlQZVlJNGRGQVJteEN0RFdsSE5LV05CaWp1bXFtd1BiSHNjR09Vbk8tMkg4NWpYX3JQLVkzMDRqSFh0UEpyWlIwcGUwNl9UYklVc0RLbHQ2aXNqVXM4QURMN3d2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2xMdk04d3RNUmZwTU1NLUlsR2s0ZHhPMHhqcHZMSU1OOWJJbl84WExNVmRBZ29RaHlQZVlJNGRGQVJteEN0RFdsSE5LV05CaWp1bXFtd1BiSHNjR09Vbk8tMkg4NWpYX3JQLVkzMDRqSFh0UEpyWlIwcGUwNl9UYklVc0RLbHQ2aXNqVXM4QURMN3d2VXk4VFZrTUs0RmFCYzgtUmZyUlg4d3ZsWldfRHRJcVRndkhEYkpBVFFnZzdDTGU0T2U3NzUzdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 08:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 10:00"
       }
     },
     {
@@ -737,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.1157,
-          20.2802
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGtLT21UUTZ1QlQ3UVd6akpNcnhtNzI0aFNidjRHeWExendmSDhoT3VNZmt0VHVkdFk4LS1YVGdveE9uY1VYdUJrWnV2ZGlRanVTZmxmUTB1dzNCNnRDOUg1R2hUS3ZXeHdEMkcwdWZodzNOam9qOTN2TjJlMkNCY25PbzRVNG81RVFMd1NR0gGTAUFVX3lxTE5YekViUjgwbV9GLWVWUmplY0d3Nm9ka1lxQmRFMHVrNzFTWHhiSU1JMVpDbllZRGF2MGtkNW4yakJidmF5LTJsbUk2YVRSQ214ZHQyQzRwczRzYVRTZFJUWk5pNHRMZzZpcXRvX2cwbF9PYzByQlNLNUpvOE1lSGQ3Zk9rUFJsMkdBVFo4ZkMtZnQ1TQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 05:10"
+        "titulo_evento": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3JXVjY0RjdVdkkzMldJcTRKMmFBRmZ2ek1KMUc5WkZEZmlpU0hmdmttUkhjN3BTOFh3bFgxODY1aVRHYS1kVV9nb0JMZnJGdTZ1LTBDUVhTLVN2cVJDclhDVEhScVNkeWZ5UHdlNm85ekVsUEpqM3JPdTdoTFRrQ3ZTT2wyUTV0ZXpza1lwbDRHdEV1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3JXVjY0RjdVdkkzMldJcTRKMmFBRmZ2ek1KMUc5WkZEZmlpU0hmdmttUkhjN3BTOFh3bFgxODY1aVRHYS1kVV9nb0JMZnJGdTZ1LTBDUVhTLVN2cVJDclhDVEhScVNkeWZ5UHdlNm85ekVsUEpqM3JPdTdoTFRrQ3ZTT2wyUTV0ZXpza1lwbDRHdEV1NGtjRkZBNkNvRWs2dHBzcXRLRjRLWWMxQnBR0gG0AUFVX3lxTE9JdGN4SU5fRmh0Q1BCTkZMc2tEY296QTNuZFZvM0M4alRTRXBjZ3lMVFdPOHV0d2NUdXpxaTl1WnJwWEh4bWlUeXlqUUVlRG83STM3cGctYll3N2VjWEdaOVI2SjUtMHZSR3NxTTlHbWY0THBOQjYyWEd1QjlBM3dnbjNSZTZUMUxiLTlONnZXMUhUS3lWaThFUWtVTU1nRmRrcS1TWF9JX2lkSEp2TjZVWXV0QQ?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "12/08/2026 10:30"
       }
     },
     {
@@ -776,45 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea fires missile ahead of major US-South Korea drills - reuters.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUsz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDVfd0tWeklYMkllazVablhzaXQxcllibnNjZDhBTXpzWWtPLXNMcWpWVUpJeXRQRUZUZ2x4LV9pQ0c5UmVlaWd4eVpYbGlQNHNXYnlYODZSSTB6QlF5Vzc1OEFpc0kwQ1l3V19aQmU0TnRxMk9NWUQxQ21leG9UUEkxNnYwOFhMWlpjdlRKc1BLcUszTzd4Q1JGSzRSNjI2LWx6Yk00SFZXYjA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 21:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
         "titulo_evento": "North Korea launches another ballistic missile as US, South Korea prepare for military drills - Fox News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeERNMDNpNEdmNVowdjYzYU1iWEF3MzRNWENjQ29xU2xHV3BSSU9mRHJJc2ZsWUlLWHRBeUFOMmVZYUVNb3B2ZTR0d2ZfMDFFakl6eFF4VEtIWEFibVAxLVRiN2t6d2tydjRlN1A3OXdFMmsxUDl1TWNLNkFSTjZnUDl0OHlrcHlhMy0zQlZfTEFXUmxS...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeERNMDNpNEdmNVowdjYzYU1iWEF3MzRNWENjQ29xU2xHV3BSSU9mRHJJc2ZsWUlLWHRBeUFOMmVZYUVNb3B2ZTR0d2ZfMDFFakl6eFF4VEtIWEFibVAxLVRiN2t6d2tydjRlN1A3OXdFMmsxUDl1TWNLNkFSTjZnUDl0OHlrcHlhMy0zQlZfTEFXUmxSN0JpSXNWT3E2UlNTc2ljdUF2QlBta0nSAbABQVVfeXFMTTVJZFdTTGVGajdjVU13N3NqWkVmQlBOeW1rMW1ka1pqMlI4QWlGbmgtR0xMMGxRUTQtMUI5a28tRGJvLVEzaFlabzlLUFFoXzFjdkdIUHlPYUw5dFI1UWpDNXpmVmd3YWk2NmpVWG9FVDhjalNrUzRJYVZ2ekZoVmtILVNRZU9xOFI0bkNUS3BzOW9wd041b2lPaU9iY0JNZ1poMmoyWXpEdzFCWW9ZX1M?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "12/08/2026 02:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled - nytimes.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVR5dzVTbDlmVVppNnM0cmtOZS0xX2tjSFdSaU9tdG56VFJuaC12c1ZvWDlkeEl0RHZFbHFMU29lRXZQZTBSNGxwR01zeGswYnZmLVZ5T0dZT2owQXJreTItMllodDN4SFhWTjRYMGpJUUh5d295QmdpTGltVFZhT2V3dWxTamdWRWxEQnA4aUFVbHNL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVR5dzVTbDlmVVppNnM0cmtOZS0xX2tjSFdSaU9tdG56VFJuaC12c1ZvWDlkeEl0RHZFbHFMU29lRXZQZTBSNGxwR01zeGswYnZmLVZ5T0dZT2owQXJreTItMllodDN4SFhWTjRYMGpJUUh5d295QmdpTGltVFZhT2V3dWxTamdWRWxEQnA4aUFVbHNLa1E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/08/2026 21:24"
       }
     },
     {
@@ -856,16 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "What does mismanagement of the Iran war teach us about Trump-Rollins farm policy? Everything. - Kansas Reflector",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2xMdk04d3RNUmZwTU1NLUlsR2s0ZHhPMHhqcHZMSU1OOWJJbl84WExNVmRBZ29RaHlQZVlJNGRGQVJteEN0RFdsSE5LV05CaWp1bXFtd1BiSHNjR09Vbk8tMkg4NWpYX3JQLVkzMDRqSFh0UEpyWlIwcGUwNl9UYklVc0RLbHQ2aXNqVXM4QURMN3d2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV2xMdk04d3RNUmZwTU1NLUlsR2s0ZHhPMHhqcHZMSU1OOWJJbl84WExNVmRBZ29RaHlQZVlJNGRGQVJteEN0RFdsSE5LV05CaWp1bXFtd1BiSHNjR09Vbk8tMkg4NWpYX3JQLVkzMDRqSFh0UEpyWlIwcGUwNl9UYklVc0RLbHQ2aXNqVXM4QURMN3d2VXk4VFZrTUs0RmFCYzgtUmZyUlg4d3ZsWldfRHRJcVRndkhEYkpBVFFnZzdDTGU0T2U3NzUzdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 08:38"
+        "titulo_evento": "Zhu Rongji, China premier crucial to economic transformation, dies at 97 - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjdKSzFBYXdQSHVvdW80NWRhYzh2ejJ4Q2pka0ViVDJUZkdDN3RjSWwwZWtGLWJaMUJDZUJhRHBHTkNkbkFZaVV0UnhBQ2ZTckd5bHI4eW5IS0UwcmltYkRaU1g2WVprdVpsOUl2ellpaGVnOG1uemJra2I4TFA0NzlSRUstOTEtUXdkNzN0SmVvVnB0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjdKSzFBYXdQSHVvdW80NWRhYzh2ejJ4Q2pka0ViVDJUZkdDN3RjSWwwZWtGLWJaMUJDZUJhRHBHTkNkbkFZaVV0UnhBQ2ZTckd5bHI4eW5IS0UwcmltYkRaU1g2WVprdVpsOUl2ellpaGVnOG1uemJra2I4TFA0NzlSRUstOTEtUXdkNzN0SmVvVnB0cXpCTA?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "12/08/2026 10:45"
       }
     },
     {
@@ -873,16 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea launches a ballistic missile toward the sea, South Korea says - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnp2cWJZbUtOWXBxZjdMNWN0SG90b29xSHlYaEFUV19tbncxRmhTc2JjMTBoRFZtMnMwenZjYUYzSG40ZEV3SDgtODdnT3I3NWhXVzF3NC1HRHRxOE50RXAxLWVHeVI4ZnlrbXNtQ0locXJmWDhKaHRoUmJ5OWR6dHdOdld4Q3RqV3RnRkNRenRoZ3hCOC1nUDcwSTh6endwVnFzX3ViSldFR1kycjJhUGp3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 00:02"
+        "titulo_evento": "'China Opportunity 2.0' knocks for global economy - chinadaily.com.cn",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQVphSlBhY1JqSjh4NlAzb3Nka1FpbndRVHQ3NWJXREtCbUxleHJ5c2lDREdVSlJ6T3RlTjQ1UG1IbjdfN1ZDNXRpb2FBczhiME9BajV5cW9vOU5lNC00bllwYzc1c3lZSXJiU0lKTXJhMDM2UHY5dExBanFqZw?oc=5\" target=\"_blank\">'China ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQVphSlBhY1JqSjh4NlAzb3Nka1FpbndRVHQ3NWJXREtCbUxleHJ5c2lDREdVSlJ6T3RlTjQ1UG1IbjdfN1ZDNXRpb2FBczhiME9BajV5cW9vOU5lNC00bllwYzc1c3lZSXJiU0lKTXJhMDM2UHY5dExBanFqZw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "11/08/2026 23:24"
       }
     },
     {
@@ -917,40 +1019,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0Y1djFybXFhV3JRSWl2UTN2bkh6bVY4X240OUVnT3h5NWdBeGNYM0s1NERkbi1GcWNSZkpTdElhemlXV0l3LUlJdXAwTW5EdmZzdHNqMVIydm9zLUZVeE5SWjdqVzVkVmxrTy1HeFkwTTZmckp0NDFWQU9CekNSd1hxVDNuN2tnRExDeGdXejh2RXE0c01UbFdXNmYwZ1ZYVXk5S1RjeEZ1UQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "11/08/2026 20:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'China Opportunity 2.0' knocks for global economy - China Daily",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQVphSlBhY1JqSjh4NlAzb3Nka1FpbndRVHQ3NWJXREtCbUxleHJ5c2lDREdVSlJ6T3RlTjQ1UG1IbjdfN1ZDNXRpb2FBczhiME9BajV5cW9vOU5lNC00bllwYzc1c3lZSXJiU0lKTXJhMDM2UHY5dExBanFqZw?oc=5\" target=\"_blank\">'China ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQVphSlBhY1JqSjh4NlAzb3Nka1FpbndRVHQ3NWJXREtCbUxleHJ5c2lDREdVSlJ6T3RlTjQ1UG1IbjdfN1ZDNXRpb2FBczhiME9BajV5cW9vOU5lNC00bllwYzc1c3lZSXJiU0lKTXJhMDM2UHY5dExBanFqZw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/08/2026 23:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Madrid trip gives international business majors a front row seat to global markets and culture - commonwealthu.edu",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR05FaDlib3Bjc3VjdjdFR0FqdngxcW82eTRadFVZaXIzblpWaHVGWEk1el9iMU14cElPbVFjWi12ZjdnLVJPUlRYWExRc1BqcFNwRm5nWVdyRVNLaDNXS2Q1cWNwelN5UVpEX1c0UUhfbTZyT0lfZVpnNmhzeW9ReTJQbFpkdzJDQjdxOVBmQ3RvdTVM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR05FaDlib3Bjc3VjdjdFR0FqdngxcW82eTRadFVZaXIzblpWaHVGWEk1el9iMU14cElPbVFjWi12ZjdnLVJPUlRYWExRc1BqcFNwRm5nWVdyRVNLaDNXS2Q1cWNwelN5UVpEX1c0UUhfbTZyT0lfZVpnNmhzeW9ReTJQbFpkdzJDQjdxOVBmQ3RvdTVMMHpRRmNKOFJ3U04tWTE5M0FlU2R6b3ozcGIwMEdPMTBYQ3F2NTNWRnZtOWV4UQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/08/2026 12:00"
       }
     }
   ]
