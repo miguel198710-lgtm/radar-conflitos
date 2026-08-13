@@ -57,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+        "descricao": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "13/08/2026 02:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -185,7 +202,7 @@
         "descricao": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "12/08/2026 17:47"
+        "data_noticia": "13/08/2026 03:28"
       }
     },
     {
@@ -210,6 +227,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+        "descricao": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "12/08/2026 12:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -227,16 +261,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-        "descricao": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "12/08/2026 12:10"
+        "titulo_evento": "Venezuela talks end with agreement on judicial reform and frozen funds",
+        "descricao": "\nVenezuela's interim government and opposition ended their first round of talks on Wednesday with agreements to reform the Supreme Tribunal of Justice and seek access to the country's frozen reserves at the Bank of England, in order to finance recove...",
+        "url_fonte": "https://www.france24.com/en/americas/20260813-venezuela-talks-end-with-agreement-on-judicial-reform-and-frozen-funds",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "13/08/2026 03:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
+        "descricao": "\nRescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly...",
+        "url_fonte": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
+        "categoria": "Política (France 24)",
+        "data_noticia": "13/08/2026 01:36"
       }
     },
     {
@@ -516,6 +567,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘That wasn’t my son’: Mother of Berlin Pride attacker confronts his turn to terror",
+        "descricao": "In the wake of the devastating events of July 25, Abdul Ballout's mother tries to reconcile the son she knew with what authorities have established about his radicalization.",
+        "url_fonte": "https://www.politico.eu/article/mother-berlin-pride-attacker-abdul-ballout-confront-turn-terror/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "13/08/2026 02:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How Russian attacks, European protectionism and drought are trapping Ukraine’s vital grain",
+        "descricao": "Kyiv wants the help of EU countries as Black Sea missile strikes choke its grain exports, but capitals fear the ire of their own farmers.",
+        "url_fonte": "https://www.politico.eu/article/ukraine-russia-war-grain-europe-protectionism-drought/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "12/08/2026 17:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -543,40 +628,6 @@
         "url_fonte": "https://www.politico.eu/article/poland-starlink-roaming-restrictions-radoslaw-sikorski-elon-musk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "12/08/2026 16:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why the White House can live with Israel rejecting its peace plan",
-        "descricao": "The Trump administration is giving Netanyahu leeway to message the latest Gaza peace for his domestic audience, so long as Israel continues to ease its attacks.",
-        "url_fonte": "https://www.politico.com/news/2026/08/12/tolerating-netanyahu-two-step-why-white-house-can-live-with-israels-rejection-peace-plan-01033659?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "12/08/2026 10:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine hammers key Russian port in overnight drone attack",
-        "descricao": "The Ukrainian president said Kyiv's forces were attacking a Black Sea naval base, while Russian officials pointed to civilian casualties and destroyed residential buildings. ",
-        "url_fonte": "https://www.politico.eu/article/russia-krasnodar-novorossiysk-ukraine-war-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "12/08/2026 09:56"
       }
     },
     {
@@ -635,16 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Kilmeade predicts ‘kinetic war’ with Iran before Labor Day - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlVGMXJQY05YSlUwRFZEbTY2OEJCQ0hVMG9sTDBGMmRJc0h4SXZwSUxqN0lVN0JEdlBQSG5Id3hIVVpxelBIWWx1cDFZOVp3dDZGN2g4a3R0Sk9oY1hTd3libUFoa1J5VXJxZGVEdUpFV0ZwOXpUZjRR0gF_QVVfeXFMTTFiNnVELVRhNG81RTFKMTBF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlVGMXJQY05YSlUwRFZEbTY2OEJCQ0hVMG9sTDBGMmRJc0h4SXZwSUxqN0lVN0JEdlBQSG5Id3hIVVpxelBIWWx1cDFZOVp3dDZGN2g4a3R0Sk9oY1hTd3libUFoa1J5VXJxZGVEdUpFV0ZwOXpUZjRR0gF_QVVfeXFMTTFiNnVELVRhNG81RTFKMTBFTm0wdzZEODk4cnd2SlBoRzdabWljVkktWm1RUVBCVXhsN3JCRENXNkFaMVR5cERMbkdQSUZwYm40UDlYOU1lV3NyM2gxSDJxZC1BdWJ0X05hNGdtcFVydW5IOVlQUWFoQnlfOFJUMA?oc=5",
+        "titulo_evento": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0RDJkd21HempoaEU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 17:54"
+        "data_noticia": "13/08/2026 01:38"
       }
     },
     {
@@ -657,7 +708,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Which economy would benefit the most from end of U.S.-Iran war? - NBC News",
+        "titulo_evento": "Which economy would benefit the most from end of U.S.-Iran war? - nbcnews.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOelFVV2YtQ19kSWtNajFDYkJ2WEZnQ00teVMtbmg2QUxXelFXT2lXRDFnWWQyU3UxQjRIRW11SWxrOVlHWlJ4MHJMRXVOVF9Mcm9FQUE5a3l2ckdEdjh2bEg2b09aUkVqSUtSX1RIM19nanFxcFhlb01oMGNWS1E5Y0RTbkUtNnpBdUFBa0ZpZnl5VFEw...",
         "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelFVV2YtQ19kSWtNajFDYkJ2WEZnQ00teVMtbmg2QUxXelFXT2lXRDFnWWQyU3UxQjRIRW11SWxrOVlHWlJ4MHJMRXVOVF9Mcm9FQUE5a3l2ckdEdjh2bEg2b09aUkVqSUtSX1RIM19nanFxcFhlb01oMGNWS1E5Y0RTbkUtNnpBdUFBa0ZpZnl5VFEwYmVCd2JXOW1aX1ZiaEVUV3BYSWQwUFY4eXJVcw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -691,11 +742,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump now seeks compensation from Iran after it demanded US pay for cost of war - Scripps News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2tGdTdIOXludmZJTWhGeTVlQ2xxdzZQMlRjTDQ3SmFDcVAzNF9ZODdyeVVkeVZ5ZTRaQU5VUkpJcndBdWMzRHJkUTlVZnpnams1bXU0NnJEZVRyM3RPZlM1ODQyVm01TW5DeXVkX29PSmI4Rmc0OHdFdkJpSE9Xck1mekROQ291V2ktS0ZEWXFFeTJt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2tGdTdIOXludmZJTWhGeTVlQ2xxdzZQMlRjTDQ3SmFDcVAzNF9ZODdyeVVkeVZ5ZTRaQU5VUkpJcndBdWMzRHJkUTlVZnpnams1bXU0NnJEZVRyM3RPZlM1ODQyVm01TW5DeXVkX29PSmI4Rmc0OHdFdkJpSE9Xck1mekROQ291V2ktS0ZEWXFFeTJtR2hUX3pYN0loRWJ4NS1rQmdNcTlxOFhmTXAyZWdtNHhsX0hDVTRNWVlOZXIwUQ?oc=5",
+        "titulo_evento": "Panama canal fees soar due to Iran war and El Niño as ship ‘pays $4m to jump queue’ - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjhEZFIxS0c1X2hyZ2dKWWNOOVNRYmFzcWxnNmlRQlV6cXFVTWVfMGQ2eUhHdnN3Ym0yZTNVenVuamN6QkJUZW85T0hKemw1QVhFUlR6N2EzZ3ZrNjUyOE9BZ1QzNjF6cUpYd2FuN3dYdkVwclZjbzgzUV82RVdMb19CV0pibXcwR3lYYnJ0UHFmLWZD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjhEZFIxS0c1X2hyZ2dKWWNOOVNRYmFzcWxnNmlRQlV6cXFVTWVfMGQ2eUhHdnN3Ym0yZTNVenVuamN6QkJUZW85T0hKemw1QVhFUlR6N2EzZ3ZrNjUyOE9BZ1QzNjF6cUpYd2FuN3dYdkVwclZjbzgzUV82RVdMb19CV0pibXcwR3lYYnJ0UHFmLWZDWkhFTjM3UVRXeEJy?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 17:30"
+        "data_noticia": "13/08/2026 01:30"
       }
     },
     {
@@ -708,11 +759,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran War Is a Whole New Level of Quagmire for the US - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmV5ZnAxYU9uYklKa0VDMDhITG5hdkltMkxkX0xXOVM5SzJzUU5IZ1JONkt1cTh6VjVUMzF0WVZBTlBTLUpvYlFBdEZ2N1h6TmM3dC1GLUdlNmZGY2N2NkFvYnN3LUhLYUJ0LWdvN053RmVnMkhiWXp3OVNwbE1yWGFpYkowQ240elFnMFBmbGNTU3BK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmV5ZnAxYU9uYklKa0VDMDhITG5hdkltMkxkX0xXOVM5SzJzUU5IZ1JONkt1cTh6VjVUMzF0WVZBTlBTLUpvYlFBdEZ2N1h6TmM3dC1GLUdlNmZGY2N2NkFvYnN3LUhLYUJ0LWdvN053RmVnMkhiWXp3OVNwbE1yWGFpYkowQ240elFnMFBmbGNTU3BKczhzS0NlNDVfSExZVHE5TzNOVVBZOFZBNGdSWFZCVDh0eDVOQmozd2RRX1hWLWZ5Y1JR?oc=5",
+        "titulo_evento": "Kilmeade predicts ‘kinetic war’ with Iran before Labor Day - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlVGMXJQY05YSlUwRFZEbTY2OEJCQ0hVMG9sTDBGMmRJc0h4SXZwSUxqN0lVN0JEdlBQSG5Id3hIVVpxelBIWWx1cDFZOVp3dDZGN2g4a3R0Sk9oY1hTd3libUFoa1J5VXJxZGVEdUpFV0ZwOXpUZjRR0gF_QVVfeXFMTTFiNnVELVRhNG81RTFKMTBF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zMlVGMXJQY05YSlUwRFZEbTY2OEJCQ0hVMG9sTDBGMmRJc0h4SXZwSUxqN0lVN0JEdlBQSG5Id3hIVVpxelBIWWx1cDFZOVp3dDZGN2g4a3R0Sk9oY1hTd3libUFoa1J5VXJxZGVEdUpFV0ZwOXpUZjRR0gF_QVVfeXFMTTFiNnVELVRhNG81RTFKMTBFTm0wdzZEODk4cnd2SlBoRzdabWljVkktWm1RUVBCVXhsN3JCRENXNkFaMVR5cERMbkdQSUZwYm40UDlYOU1lV3NyM2gxSDJxZC1BdWJ0X05hNGdtcFVydW5IOVlQUWFoQnlfOFJUMA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 14:00"
+        "data_noticia": "12/08/2026 17:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia-Ukraine War Is Squeezing Another Global Chokepoint: The Black Sea - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUx6OHV1eHd3Qzh5ZUw4Rmhya2FlMTBkTXFjczdqaUItM3ctYXRXMkxzLTcyLVJQRnZ4bE1PX2xfcG5PTGdvMENEMnczTnl2Z3pHNFdXY1YxZHdQcmYxVFdsd29JaG9hdzBCN0VCemhQeXp5TGkwUGF4SE1DVl9lYUduTWxySkRYaURHVjlRRFc5MzlE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUx6OHV1eHd3Qzh5ZUw4Rmhya2FlMTBkTXFjczdqaUItM3ctYXRXMkxzLTcyLVJQRnZ4bE1PX2xfcG5PTGdvMENEMnczTnl2Z3pHNFdXY1YxZHdQcmYxVFdsd29JaG9hdzBCN0VCemhQeXp5TGkwUGF4SE1DVl9lYUduTWxySkRYaURHVjlRRFc5MzlEbTFpQ0ZBaDYtVzA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/08/2026 16:42"
       }
     },
     {
@@ -759,11 +827,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "China’s Stubborn Commodity Markets Defy Economic Rulebook - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWh6cVZRSE5Sc2VOLVNNTXdNaEVNT2ExRVFRdjcwbkhZWWRwTDFnVXFCWDBManFFUnRpbUhaZFZvUmFLblU4WmdSRGFnU0RnUHZfU3JERXVhWi1JblYtdmhGbmJobm92TE9iczZTR3RNNWNwQUx4OEkxdDBCbVFqQ2ZZV2gxQWNUMXFPZ1g2dEZzcVUt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLWh6cVZRSE5Sc2VOLVNNTXdNaEVNT2ExRVFRdjcwbkhZWWRwTDFnVXFCWDBManFFUnRpbUhaZFZvUmFLblU4WmdSRGFnU0RnUHZfU3JERXVhWi1JblYtdmhGbmJobm92TE9iczZTR3RNNWNwQUx4OEkxdDBCbVFqQ2ZZV2gxQWNUMXFPZ1g2dEZzcVUtV0FTa20yelQ5Vng1Q285d3AyU3RoMF8xRENtcQ?oc=5",
+        "titulo_evento": "China's central bank pledges timely new policy rollout - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaElWSGNqOVg3WUk4T1pwTm5OM053R1psN1BldFZEWEZfZ2lwQmZOX215LWMxaUZiTThQbUs2SEstRjMxR3lBUkVLQ0JlY0dKYmtYN1VkbVdyWVhkWjBUVVMyV3ZJZFA1RVdMWDY1WXZiRUppcEl2bmRVcjQxQUM3WWNlV1J4WkMxYWVyWWpZQXBzbnJa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaElWSGNqOVg3WUk4T1pwTm5OM053R1psN1BldFZEWEZfZ2lwQmZOX215LWMxaUZiTThQbUs2SEstRjMxR3lBUkVLQ0JlY0dKYmtYN1VkbVdyWVhkWjBUVVMyV3ZJZFA1RVdMWDY1WXZiRUppcEl2bmRVcjQxQUM3WWNlV1J4WkMxYWVyWWpZQXBzbnJaMWxvU3JjN185YW9SV3c?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/08/2026 11:04"
+        "data_noticia": "12/08/2026 11:59"
       }
     },
     {
@@ -781,40 +849,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzliSUxOam0yVG9Pc2R1MGtZSUFCSDdDQW1McloyYkhMVi1Id2hidThPSmppWWluTWZlem5FbHJBLVFZenhvbDdIWGR4RDB6NEdEazNsS1laWS1UVGh2MU45MVVlbnhDS1g5ajR6SVhHQ1A3TThpeWxUU2toLVNlLXRlVUExdFgxRG90VW8xdldkZnVMNXZSTlFsZmFwMVVwYWMyTHZlWVZBQmE4WWJLQUhRcXcza0nSAbcBQVVfeXFMUEg0NEV3MEdyWmk2MUQ0RXZMWmxDb1M0MHVsaUsyYldCczJ5ZkF4aEpJUmN5NXBfNkFKRzk4eFF0RWlBTTd3TFhhdGtOc2lxdmM0Z0FQZlZuTHI0bG84OUV3YWxwM3NvNnVVTE9LNnVMUmhscVJIN1pCUTZtNG5qdFNSRnBKeHNDc215XzVEcUo2U21MZW0zbjJhNXo2Uy05RE1Fd0czYlBnMEVDVkxLVXpBd0VBOW84?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "13/08/2026 00:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's central bank pledges timely new policy rollout - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaElWSGNqOVg3WUk4T1pwTm5OM053R1psN1BldFZEWEZfZ2lwQmZOX215LWMxaUZiTThQbUs2SEstRjMxR3lBUkVLQ0JlY0dKYmtYN1VkbVdyWVhkWjBUVVMyV3ZJZFA1RVdMWDY1WXZiRUppcEl2bmRVcjQxQUM3WWNlV1J4WkMxYWVyWWpZQXBzbnJa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaElWSGNqOVg3WUk4T1pwTm5OM053R1psN1BldFZEWEZfZ2lwQmZOX215LWMxaUZiTThQbUs2SEstRjMxR3lBUkVLQ0JlY0dKYmtYN1VkbVdyWVhkWjBUVVMyV3ZJZFA1RVdMWDY1WXZiRUppcEl2bmRVcjQxQUM3WWNlV1J4WkMxYWVyWWpZQXBzbnJaMWxvU3JjN185YW9SV3c?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/08/2026 11:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Stocks Inch Up, Oil Dips as US-Iran Talks Influence Global Markets - Global Banking & Finance Review",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkh5bVUyRkJTaW5FS3YyMlMxbTBPYm9RVXRGc21LQ1dSYjd2OEdKNEJjdFJyLXhXd0ZaLWdWbVdfd05BZjVMZGxieWk4SzhPZkdPeDA1SkFwSWpWNkhnUnVhMEJZTHpwVlJSNE9yeW1uaXRSZ1hkVmluZXBLaUtZTFpZYUhhZkVua1hiQXFzTUtOVEtK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkh5bVUyRkJTaW5FS3YyMlMxbTBPYm9RVXRGc21LQ1dSYjd2OEdKNEJjdFJyLXhXd0ZaLWdWbVdfd05BZjVMZGxieWk4SzhPZkdPeDA1SkFwSWpWNkhnUnVhMEJZTHpwVlJSNE9yeW1uaXRSZ1hkVmluZXBLaUtZTFpZYUhhZkVua1hiQXFzTUtOVEtK?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/08/2026 16:46"
       }
     }
   ]
