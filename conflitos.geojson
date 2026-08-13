@@ -23,6 +23,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
+        "descricao": "Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors.",
+        "url_fonte": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "13/08/2026 08:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -67,40 +84,6 @@
         "url_fonte": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "13/08/2026 06:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-        "descricao": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "13/08/2026 05:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
-        "descricao": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "13/08/2026 02:42"
       }
     },
     {
@@ -185,24 +168,7 @@
         "descricao": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "12/08/2026 23:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Paris Saint-Germain retain Super Cup title by seeing off Aston Villa",
-        "descricao": "\nReigning European champions PSG kicked off the new season by retaining their UEFA Super Cup title, beating Premier League side Aston Villa 2-1 in Salzburg. Khvicha Kvaratskhelia and Désiré Doué scored the goals for Luis Enriqué's team.\n",
-        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20260813-paris-saint-germain-retain-super-cup-title-by-seeing-off-aston-villa",
-        "categoria": "Política (France 24)",
-        "data_noticia": "13/08/2026 08:32"
+        "data_noticia": "13/08/2026 09:40"
       }
     },
     {
@@ -215,11 +181,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Live: Russian attack sets Ukraine’s Izmail port infrastructure ablaze",
-        "descricao": "\nRussia struck the area ​around Ukraine's largest Danube port of Izmail overnight, causing damage ​and setting ‌off a fire, ⁠regional authorities said Thursday. Meanwhile Moscow said it downed 362 Ukrainian drones overnight as an attack in Russia's S...",
-        "url_fonte": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "13/08/2026 06:14"
+        "titulo_evento": "Russian drone strikes passenger train in Odesa region, killing driver",
+        "descricao": "A Russian Shahed drone struck a passenger train in Ukraine’s Odesa region on 13 August 2026, killing the driver and his assistant and forcing the evacuation of 340 passengers, including 67 children, in the Berezivka district.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/13/russian-drone-strikes-passenger-train-in-odesa-region-killing-driver",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "13/08/2026 12:43"
       }
     },
     {
@@ -227,16 +193,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.5897,
-          6.4238
+          -0.1278,
+          51.5074
         ]
       },
       "properties": {
-        "titulo_evento": "Venezuela talks end with agreement on judicial reform and frozen funds",
-        "descricao": "\nVenezuela's interim government and opposition ended their first round of talks on Wednesday with agreements to reform the Supreme Tribunal of Justice and seek access to the country's frozen reserves at the Bank of England, in order to finance recove...",
-        "url_fonte": "https://www.france24.com/en/americas/20260813-venezuela-talks-end-with-agreement-on-judicial-reform-and-frozen-funds",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "13/08/2026 03:07"
+        "titulo_evento": "Timelapse of partial solar eclipse seen from Royal Observatory Greenwich",
+        "descricao": "Britain witnessed its most significant solar eclipse since 1999, with more than 90% of the Sun obscured in some parts of the country. Crowds gathered in parks and open spaces to watch the rare celestial event. In London, the sky turned an eerie grey ...",
+        "url_fonte": "http://www.euronews.com/video/2026/08/13/timelapse-of-partial-solar-eclipse-seen-from-royal-observatory-greenwich",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "13/08/2026 09:47"
       }
     },
     {
@@ -244,33 +210,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2973,
-          4.5709
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
-        "descricao": "\nRescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly...",
-        "url_fonte": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
-        "categoria": "Política (France 24)",
-        "data_noticia": "13/08/2026 01:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Lebanon becomes first Middle East country to end death penalty",
-        "descricao": "\nLebanon’s parliament voted on Tuesday to abolish the death penalty, making the country the first in the Middle East to do so. Lebanon has not carried out an execution since 2004, but death sentences have continued to be handed down, with the latest ...",
-        "url_fonte": "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty",
-        "categoria": "Política (France 24)",
-        "data_noticia": "12/08/2026 15:24"
+        "titulo_evento": "Tokyo issues angry response as Putin makes his first visit to the disputed Kuril islands",
+        "descricao": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin, coupled with their rich mineral deposits and fishing grounds.",
+        "url_fonte": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "13/08/2026 09:32"
       }
     },
     {
@@ -283,11 +232,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Colombia: Bogota's search for survivors continues",
-        "descricao": "\nThe search for survivors continues in Colombia, more than 48 hours after a 7.4-magnitude earthquake struck the country. More than 200 people have been confirmed dead, while more than 2,000 are reported missing. The new president, Abelardo de la Espr...",
-        "url_fonte": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues",
-        "categoria": "Política (France 24)",
-        "data_noticia": "12/08/2026 15:21"
+        "titulo_evento": "Colombia: \"scene of horror\" as Pereira rescuers search rubble",
+        "descricao": "Colombia's earthquake death toll rose to 265 in Pereira by 12 August 2026, with almost 500 still missing. Rescuers described scenes of horror as the critical 72-hour survival window closed.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "13/08/2026 09:31"
       }
     },
     {
@@ -295,16 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          47.5868,
+          15.5527
         ]
       },
       "properties": {
-        "titulo_evento": "Spain prepares for rare total solar eclipse",
-        "descricao": "\nWe’re just hours away from a rare total solar eclipse, with parts of northern Spain set to briefly turn from day to night as the Moon blocks out the Sun. Millions more will see a partial eclipse across Europe, Canada, the northern US and northwest A...",
-        "url_fonte": "https://www.france24.com/en/spain-prepares-for-rare-total-solar-eclipse",
-        "categoria": "Política (France 24)",
-        "data_noticia": "12/08/2026 13:48"
+        "titulo_evento": "Over 150 civilians killed in US strikes on Houthis in Yemen, Pentagon says",
+        "descricao": "A Pentagon review sent to Congress found three April 2025 airstrikes against Houthi positions — including one on Ras Isa port that killed 80 people — resulted in 153 civilian deaths and 243 injuries. The report determined condolence payments to victi...",
+        "url_fonte": "http://www.euronews.com/2026/08/13/us-strikes-targeting-houthis-killed-153-civilians-in-yemen-last-year-pentagon-review-says",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "13/08/2026 06:49"
       }
     },
     {
@@ -312,33 +261,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Putin threatens to seize European ships",
-        "descricao": "\nRussian President Vladimir Putin has threatened retaliation over the West’s seizure of commercial vessels. Speaking aboard a Russian warship, Putin described the measures targeting Russia as an act of piracy and robbery. France 24 International Affa...",
-        "url_fonte": "https://www.france24.com/en/putin-threatens-to-seize-european-ships",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "12/08/2026 13:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Colombia: Woman rescued from under earthquake debris after 36 hours",
-        "descricao": "\n🇨🇴 A woman trapped under the debris of a collapsed hotel in Pereira, #Colombia, was rescued on Tuesday after spending 36 hours under the rubble.\n \nSearch and rescue operations are still underway in the country's coffee-growing Chocó region which was...",
-        "url_fonte": "https://www.france24.com/en/video/20260812-colombia-woman-rescued-from-under-earthquake-debris-after-36-hours",
-        "categoria": "Política (France 24)",
-        "data_noticia": "12/08/2026 13:32"
+        "titulo_evento": "Trump hails 'wall of steel' blockade, says US will keep control of Strait of Hormuz",
+        "descricao": "Iran maintains it effectively controls much of the waterway and intends to impose a toll system in response to the US war launched by Trump on 28 February.",
+        "url_fonte": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "12/08/2026 18:20"
       }
     },
     {
@@ -351,11 +283,79 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Colombia declares three days of mourning as search for quake survivors continues",
-        "descricao": "\nColombia on Wednesday declared three days of mourning after a 7.4-magnitude earthquake killed more than 200 people in the west of the country. Monday's quake was the strongest to hit Colombia this century, and the search for survivors under the rubb...",
-        "url_fonte": "https://www.france24.com/en/americas/20260812-colombia-declares-three-days-mourning-for-quake-victims",
+        "titulo_evento": "Colombia declares three days mourning for quake victims as EU pledges assistance",
+        "descricao": "The quake overwhelmed parts of the health system, turning the rescue effort into one of Colombia's largest disaster responses in years.",
+        "url_fonte": "http://www.euronews.com/2026/08/12/colombia-declares-three-days-mourning-for-quake-victims-as-eu-pledges-assistance",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "12/08/2026 15:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Colombia quake rescuers save woman after 36 hours trapped in rubble",
+        "descricao": "A 32-year-old woman has been rescued alive in Pereira after spending 36 hours trapped beneath a collapsed building. Rescuers located her 10 hours before reaching her.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "12/08/2026 11:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Moment Cali hospital collapses after powerful Colombia earthquake",
+        "descricao": "A 7.4 quake in Colombia partially collapsed the Hospital Universitario del Valle in Cali on Monday, forcing patients outside as rescuers search for hundreds feared trapped.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "12/08/2026 09:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Europe scrambles for eclipse glasses as solar power output set to dip",
+        "descricao": "Shops and opticians across Europe are running short of certified eclipse glasses ahead of Wednesday’s total solar eclipse, with queues forming in Paris, London and Brussels as demand surges.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/12/europe-scrambles-for-eclipse-glasses-as-solar-power-output-set-to-dip",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "12/08/2026 09:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Eclipse: Europe falls into darkness as millions watch",
+        "descricao": "\nMillions across Europe looked to the skies on Wednesday as the Moon passed in front of the Sun in a rare solar eclipse. The eclipse was total in parts of Iceland and northern Spain, while much of Europe, including France and the UK, saw a spectacula...",
+        "url_fonte": "https://www.france24.com/en/video/20260813-eclipse-europe-falls-into-darkness-as-millions-watch",
         "categoria": "Política (France 24)",
-        "data_noticia": "12/08/2026 12:55"
+        "data_noticia": "13/08/2026 10:06"
       }
     },
     {
@@ -487,7 +487,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Putin enrages Japan with trip to disputed island",
+        "titulo_evento": "‘Absolutely unacceptable’: Putin enrages Japan with trip to disputed island",
         "descricao": "The Kuril archipelago has repeatedly fueled tensions between Tokyo and Moscow.",
         "url_fonte": "https://www.politico.eu/article/vladimir-putin-disputed-kuril-islands-visit-japan-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
@@ -533,57 +533,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting",
-        "descricao": "New rule comes amid controversy over Israel's continued participation in Europe's glitzy song contest.",
-        "url_fonte": "https://www.politico.eu/article/eurovision-countries-war-sensitive-geopolitical-situations-host/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "12/08/2026 17:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Poland rekindles Musk feud over Starlink snub",
-        "descricao": "The company has not explained why Warsaw was carved out of a 30-country roaming zone.",
-        "url_fonte": "https://www.politico.eu/article/poland-starlink-roaming-restrictions-radoslaw-sikorski-elon-musk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "12/08/2026 16:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Oil prices continue climb on US-Iran deal doubts; stocks retreat",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/articles/oil-prices-rise-asia-stocks-014100980.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -611,23 +560,6 @@
         "url_fonte": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
         "categoria": "Economia (NYT Business)",
         "data_noticia": "12/08/2026 10:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
-        "descricao": "The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.",
-        "url_fonte": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-        "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "11/08/2026 18:57"
       }
     },
     {
@@ -669,6 +601,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "India’s RBI Turns Upbeat as Worst of Iran War Shock Recedes - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0lBdTVLZFVzdEk3RFRreFdZZU1HWk52QTB1VklUTlRVWVd1WEl4ajN6Q1BPaUpMVnowNmk4T1BhLWx5bHdrYTFjNUZ0V2s5aDY5QjlNcEJkU19xdDlSTW92Z0N2Z1lZVnZNVEFVbl8yUDZ3bDg2OU1wLWtfcmZJTWNEZVlyRmZvemQtd1QtWWpla1Yz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0lBdTVLZFVzdEk3RFRreFdZZU1HWk52QTB1VklUTlRVWVd1WEl4ajN6Q1BPaUpMVnowNmk4T1BhLWx5bHdrYTFjNUZ0V2s5aDY5QjlNcEJkU19xdDlSTW92Z0N2Z1lZVnZNVEFVbl8yUDZ3bDg2OU1wLWtfcmZJTWNEZVlyRmZvemQtd1QtWWpla1YzRHFvTDN1cFFlR1pNLVE5ZzRrakw4eXo3TU1v?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 04:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           120.9605,
           23.6978
         ]
@@ -679,6 +628,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "13/08/2026 00:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war reveals protection of space assets on bases has to ‘evolve,’ top general says - Defense One",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmtMU3ZWeUJCdkZ1WC1nNURHM1kybFoxTG9udEJsVXhiUXlqTTFtdGdaVmh3OEhGeUZDSGNkUENyYTZYZXBBalVnU0VBcEVlcFFueG5pUGNTcDNXUzNhdWtTRjdrRWNOV1NNUUIzaVN0QkktR1ZLYVpLNG5hRnFpMkJZN1BVeGpSdVNJeGJNdV85WVg2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmtMU3ZWeUJCdkZ1WC1nNURHM1kybFoxTG9udEJsVXhiUXlqTTFtdGdaVmh3OEhGeUZDSGNkUENyYTZYZXBBalVnU0VBcEVlcFFueG5pUGNTcDNXUzNhdWtTRjdrRWNOV1NNUUIzaVN0QkktR1ZLYVpLNG5hRnFpMkJZN1BVeGpSdVNJeGJNdV85WVg2U2trZE1UZXBYbzMteDAyMHAtR0NnY1dCS0NVUnJuVnRJd0pjYUhNMjNzd0tZOVE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 03:32"
       }
     },
     {
@@ -703,33 +669,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "India’s RBI Turns Upbeat as Worst of Iran War Shock Recedes - Bloomberg",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0lBdTVLZFVzdEk3RFRreFdZZU1HWk52QTB1VklUTlRVWVd1WEl4ajN6Q1BPaUpMVnowNmk4T1BhLWx5bHdrYTFjNUZ0V2s5aDY5QjlNcEJkU19xdDlSTW92Z0N2Z1lZVnZNVEFVbl8yUDZ3bDg2OU1wLWtfcmZJTWNEZVlyRmZvemQtd1QtWWpla1Yz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0lBdTVLZFVzdEk3RFRreFdZZU1HWk52QTB1VklUTlRVWVd1WEl4ajN6Q1BPaUpMVnowNmk4T1BhLWx5bHdrYTFjNUZ0V2s5aDY5QjlNcEJkU19xdDlSTW92Z0N2Z1lZVnZNVEFVbl8yUDZ3bDg2OU1wLWtfcmZJTWNEZVlyRmZvemQtd1QtWWpla1YzRHFvTDN1cFFlR1pNLVE5ZzRrakw4eXo3TU1v?oc=5",
+        "titulo_evento": "The Contradiction at the Heart of China’s Military Reforms - Geopolitical Futures",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0FGQkNnaUpUN3lzMG5uaDEtZzFQOWM3LXdSMHVfQ3N0dkNJajZMNUJKTGtRU2pHZ3kwSFhHRUI1bWxaNTRBQXdaWEljSGFDYi1QTW5aRXJjaUJnN3BpZkl0VUpJQlFubWhXOENvNExyY1pIdUFKNmpOZndUOXJZYkxXMWhSRDVzTVVkUGYtM053Nkdh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0FGQkNnaUpUN3lzMG5uaDEtZzFQOWM3LXdSMHVfQ3N0dkNJajZMNUJKTGtRU2pHZ3kwSFhHRUI1bWxaNTRBQXdaWEljSGFDYi1QTW5aRXJjaUJnN3BpZkl0VUpJQlFubWhXOENvNExyY1pIdUFKNmpOZndUOXJZYkxXMWhSRDVzTVVkUGYtM053Nkdh?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 04:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Russia-Ukraine War Report Card, Aug. 12, 2026 - Russia Matters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNEdjh5VVphcF9Yc2paaVBUM2RFeWRfb0NXWGFhVnZUVnhQOHpZVUdFM3Fvai0zSXVnNkd0azMxMjVIYV9GU2xKLXJBbGNuY2pEZEdNTDlIRlZfM0lVZzRXa091MTJEWG1fbjhzRHFET0RYMlE0RGVZTHBPVE1sNmZaYmpzdE1lcG5VMmVZQUdRQzFx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNEdjh5VVphcF9Yc2paaVBUM2RFeWRfb0NXWGFhVnZUVnhQOHpZVUdFM3Fvai0zSXVnNkd0azMxMjVIYV9GU2xKLXJBbGNuY2pEZEdNTDlIRlZfM0lVZzRXa091MTJEWG1fbjhzRHFET0RYMlE0RGVZTHBPVE1sNmZaYmpzdE1lcG5VMmVZQUdRQzFxQ3ZDXy0zc2J5TDVKSkY3TUY3U05SaTJk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "12/08/2026 18:53"
+        "data_noticia": "13/08/2026 10:00"
       }
     },
     {
@@ -771,33 +720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Which economy would benefit the most from end of U.S.-Iran war? - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOelFVV2YtQ19kSWtNajFDYkJ2WEZnQ00teVMtbmg2QUxXelFXT2lXRDFnWWQyU3UxQjRIRW11SWxrOVlHWlJ4MHJMRXVOVF9Mcm9FQUE5a3l2ckdEdjh2bEg2b09aUkVqSUtSX1RIM19nanFxcFhlb01oMGNWS1E5Y0RTbkUtNnpBdUFBa0ZpZnl5VFEw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelFVV2YtQ19kSWtNajFDYkJ2WEZnQ00teVMtbmg2QUxXelFXT2lXRDFnWWQyU3UxQjRIRW11SWxrOVlHWlJ4MHJMRXVOVF9Mcm9FQUE5a3l2ckdEdjh2bEg2b09aUkVqSUtSX1RIM19nanFxcFhlb01oMGNWS1E5Y0RTbkUtNnpBdUFBa0ZpZnl5VFEwYmVCd2JXOW1aX1ZiaEVUV3BYSWQwUFY4eXJVcw?oc=5",
+        "titulo_evento": "Why former Soviet states now challenge Russia over Ukraine war - The Christian Science Monitor",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVo0SXMyQXVTZ2pPNkdCd3c1Z2ozZkxmbnFxT09VUXNVX2N5dERFSUwwYlpYMjF1MzI0OEthaFgybjltRzFWLVdGYnkwbTNHTkJydmJTam5aNnpYc2NlckpqNmtQT3NITnBUa2daWjJfWkt0WVRrLVZYcElyWHViamYzNXJGS0kwS2dKNktEY3VZbnVR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVo0SXMyQXVTZ2pPNkdCd3c1Z2ozZkxmbnFxT09VUXNVX2N5dERFSUwwYlpYMjF1MzI0OEthaFgybjltRzFWLVdGYnkwbTNHTkJydmJTam5aNnpYc2NlckpqNmtQT3NITnBUa2daWjJfWkt0WVRrLVZYcElyWHViamYzNXJGS0kwS2dKNktEY3VZbnVRdlk1ZTNTS0lYNThpQUt3M1JYdXfSAagBQVVfeXFMTS1aNElzMkF1U2dqTzZHQnd3NWdqM2ZMZm5xcU9PVVFzVV9jeXRERUlMMGJaWDIxdTMyNDhLYWhYMm45bUcxVi1XRmJ5MG0zR05CcnZiU2puWjZ6WHNjZXJKajZrUE9zSE5wVGtnWloyX1pLdFlUay1WWHBJclh1YmpmMzVyRktJMEtnSjZLRGN1WW51UXZZNWUzU0tJWDU4aUFLdzNSWHV3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 00:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9605,
-          23.6978
-        ]
-      },
-      "properties": {
-        "titulo_evento": "DEFENSE Taiwan military police stage bridge blockade drill to secure capital - Focus Taiwan",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LLTh5Q3JPdWZmcW5naGttNC1pX0xKN25VWVNNSmhROEE5cHRfWU9ZZTZvejAyYWZkSmdXT0NzcTJ6ckJ4YkNubVVVdlB5UHlya0RDUzBNYw?oc=5\" target=\"_blank\">DEFENSE Taiwan military police stage bridge blockade drill ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LLTh5Q3JPdWZmcW5naGttNC1pX0xKN25VWVNNSmhROEE5cHRfWU9ZZTZvejAyYWZkSmdXT0NzcTJ6ckJ4YkNubVVVdlB5UHlya0RDUzBNYw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 07:07"
+        "data_noticia": "13/08/2026 09:05"
       }
     },
     {
@@ -839,12 +771,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "13/08/2026 08:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Heat Wave and World Cup Hand UK Economy a Surprise Boost - Bloomberg",
+        "titulo_evento": "Heat Wave and World Cup Hand UK Economy a Surprise Boost - Bloomberg.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZfZU81X0FmUHEtU013V1pOR1N2UV9oT25Ba01WNVZraUZFTEVpQzFrWjlaT0Y2UDlZaTNRc3FaRmJWU1pwTk15Yk1ncG9OZ053ZXhKbkN1QjVEREM4eFdub0IxY0ozUDFPNXZuUHpZanNDUEZpc2pGdTJFcUVFR0dwY0ZocFJlQ3F3WDlfalF3Mk9E...",
         "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZfZU81X0FmUHEtU013V1pOR1N2UV9oT25Ba01WNVZraUZFTEVpQzFrWjlaT0Y2UDlZaTNRc3FaRmJWU1pwTk15Yk1ncG9OZ053ZXhKbkN1QjVEREM4eFdub0IxY0ozUDFPNXZuUHpZanNDUEZpc2pGdTJFcUVFR0dwY0ZocFJlQ3F3WDlfalF3Mk9EeEtSdG5qNFFyclZQQV9vZzRWY0dna1JsWS1nNQ?oc=5",
         "categoria": "Economia (Google News Markets)",
@@ -856,33 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5\" target=\"_blank\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+        "titulo_evento": "Zhu Rongji: The ‘Iron-Face’ Reformer Who Led China Into the Global Economy - thestatesman.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGdFTFNMYWhRVFpaRlF1a1plR3RjWFlER0N6YnFLSnZkd1RZY2FxZ2J5X2c4MHpTd0JyY1hMQlpKeVBoc1hXUUJOVGdsMkQwTXZfLTZVUWVTcllyMGcyT1lKTHg1Ym9VYjhOVDN5TDB5Y29kOEUxTGhoNXIzTzRiRmZuamRxcEQ5RTRnZjdUY2hxNDk5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGdFTFNMYWhRVFpaRlF1a1plR3RjWFlER0N6YnFLSnZkd1RZY2FxZ2J5X2c4MHpTd0JyY1hMQlpKeVBoc1hXUUJOVGdsMkQwTXZfLTZVUWVTcllyMGcyT1lKTHg1Ym9VYjhOVDN5TDB5Y29kOEUxTGhoNXIzTzRiRmZuamRxcEQ5RTRnZjdUY2hxNDk5VGdwVTljSGFwYm1aLXJpUHdMOXBaby1PLXFOS0NZSmpjREpETURKOFZOZ9IBxAFBVV95cUxPTi1LYUpZTFNLSXhsUTh0YXJtYVdIbXhoTXB6TGNqdG5ReUhGUUxRQ3B1T0l6S0lmNnBVZzRvVl9TTG9EM1gzbUlIbF9DdTM0Y0oyZkIzWFltb0V5NGxNZ19ZSzNrQjBOcG8yaWNQdW5teHlaaUszU3Rzc3BZTDhRX2tkMXNXaVpUU0ZiQXV4X0lELWdmZWwxc19FYjVmYXFUaHpGMjl0SElJajhrSmkzNk1aOHNPTUtISGh6TGh4MUVkdDRG?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 01:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Top tips for doing capital markets deals (Germany) - www.hlc.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVNIOHlVX2c5bDd3U0xDNFRBdFRUNmVGVlA3NWJPM3pid0RxZlBwMF92RDR1aFYzY2ctdEJGcXg5cDFXcUhCSWFkX1FqeVF2ZFdPa1VNVmZLZnVwdGFUeGVmSHJHV3Vnc3RlcVN6bzc1ZUlWVm1MajJrQlhvUVV5Q3RNSENRaW4tamhPWg?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVNIOHlVX2c5bDd3U0xDNFRBdFRUNmVGVlA3NWJPM3pid0RxZlBwMF92RDR1aFYzY2ctdEJGcXg5cDFXcUhCSWFkX1FqeVF2ZFdPa1VNVmZLZnVwdGFUeGVmSHJHV3Vnc3RlcVN6bzc1ZUlWVm1MajJrQlhvUVV5Q3RNSENRaW4tamhPWg?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "12/08/2026 17:58"
+        "data_noticia": "13/08/2026 09:03"
       }
     }
   ]
