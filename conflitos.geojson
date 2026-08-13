@@ -23,6 +23,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine attacks key Russian grain terminal on Black Sea port",
+        "descricao": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "13/08/2026 14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+        "descricao": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "13/08/2026 14:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -84,23 +118,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "13/08/2026 10:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.2973,
-          4.5709
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
-        "descricao": "Colombian rescuers battle time to save lives after deadly 7.4 earthquake, as hopes dwindle in search for survivors.",
-        "url_fonte": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "13/08/2026 08:46"
       }
     },
     {
@@ -186,6 +203,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "13/08/2026 09:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
+        "descricao": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
+        "url_fonte": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "13/08/2026 15:50"
       }
     },
     {
@@ -284,7 +318,7 @@
       },
       "properties": {
         "titulo_evento": "Tokyo issues angry response as Putin makes his first visit to the disputed Kuril islands",
-        "descricao": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin, coupled with their rich mineral deposits and fishing grounds.",
+        "descricao": "The four contested islands, seized by Russia during World War II, have gained importance since the end of the conflict, providing strategic military bases to the Kremlin.",
         "url_fonte": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands",
         "categoria": "Defesa/Conflito (Euronews (Europa))",
         "data_noticia": "13/08/2026 09:32"
@@ -363,16 +397,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.2973,
-          4.5709
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Colombia quake rescuers save woman after 36 hours trapped in rubble",
-        "descricao": "A 32-year-old woman has been rescued alive in Pereira after spending 36 hours trapped beneath a collapsed building. Rescuers located her 10 hours before reaching her.",
-        "url_fonte": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "12/08/2026 11:34"
+        "titulo_evento": "Iran says Trump ‘lied’ about US control over Strait of Hormuz",
+        "descricao": "\nIran called President Donald Trump's claim that Washington controlled the Strait of Hormuz \"lies and fabrications\" on Thursday as Ebrahim Zolfaghari, the spokesperson for Iran's central military command, said that the waterway was fully under Tehran...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "13/08/2026 14:08"
       }
     },
     {
@@ -538,9 +572,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia: Why is the Yabloko party barred from the elections?",
-        "descricao": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election campaign, opponents of the war and for the political mood in Russia?",
-        "url_fonte": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Why is Russia's Yabloko party barred from upcoming election?",
+        "descricao": "Russia's highest court has banned anti-war opposition party Yabloko from September's parliamentary election. What does this mean for the election campaign, opponents of the war and for the political mood in the country?",
+        "url_fonte": "https://www.dw.com/en/why-is-russia-s-yabloko-party-barred-from-upcoming-election/a-78341971?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "12/08/2026 18:37"
       }
@@ -635,23 +669,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Russian attacks, European protectionism and drought are trapping Ukraine’s vital grain",
-        "descricao": "Kyiv wants the help of EU countries as Black Sea missile strikes choke its grain exports, but capitals fear the ire of their own farmers.",
-        "url_fonte": "https://www.politico.eu/article/ukraine-russia-war-grain-europe-protectionism-drought/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "12/08/2026 17:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -691,113 +708,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran war risks bringing the G7's fastest-growing economy to a halt - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdWlsQkRocEJpQlhYZ01UNEdsRm00dUQzZlJSSXNDVUxUMEtiOFJJMUI2SFVuYldzTy1jUFBIWU85UENPMGFWb3JiWXdLdVVUcE9Ba3h2WlJ3UnNZcmJSb3FFWTFrT2VpWWNjTVhXNEstdEJHT2FKdFJpemdKZw?oc=5\" target=\"_blank\">The Ira...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdWlsQkRocEJpQlhYZ01UNEdsRm00dUQzZlJSSXNDVUxUMEtiOFJJMUI2SFVuYldzTy1jUFBIWU85UENPMGFWb3JiWXdLdVVUcE9Ba3h2WlJ3UnNZcmJSb3FFWTFrT2VpWWNjTVhXNEstdEJHT2FKdFJpemdKZw?oc=5",
+        "titulo_evento": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vSlZCTnE4Z29TeEZyS0l4R3ptSjBvb0JVejJad0xmWTFGRElqNXdLS19kRnRnOG1JOXZVNUtSREpvcnFXSldVUXN5T0ZoSXRTUXNIdDZLNHdvbWh2SHRQeFVmbG5CZ3PSAWxBVV95cUxNTkhldE9WSXkyaTFSRG5KRVAwUWhSelZNcmpWLUhoLW5HZl9v...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vSlZCTnE4Z29TeEZyS0l4R3ptSjBvb0JVejJad0xmWTFGRElqNXdLS19kRnRnOG1JOXZVNUtSREpvcnFXSldVUXN5T0ZoSXRTUXNIdDZLNHdvbWh2SHRQeFVmbG5CZ3PSAWxBVV95cUxNTkhldE9WSXkyaTFSRG5KRVAwUWhSelZNcmpWLUhoLW5HZl9vVXlFZmNweHlwZlI4REZhbzhySVNMSFFlR1UtbUoyM1FDRGttblJtTW9nMW9NQldSNERMbk5pemVUUTdKUnJBb0E?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 11:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Exclusive | U.S. and Ukrainian Forces Went Head-to-Head in an Exercise. Ukraine’s Drones Won. - wsj.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2pJUlZrVExVQXRhN1dUbUYxLWhvbWJDb0xBVHFhbkVIRklEQjlvSUJMeEJ6ZHh2T3ZYMXh6VnRrMGlxYXRyUXBKYjgtNGhxMTlBam5jeG5GZGZIN0taYVM3d1NES0s2Z0Q2SHBHVnUzNklNd3ZQZnJkQ3lYSVRpSUNDTXg5cDlwcHlRbXJObXZBamh0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2pJUlZrVExVQXRhN1dUbUYxLWhvbWJDb0xBVHFhbkVIRklEQjlvSUJMeEJ6ZHh2T3ZYMXh6VnRrMGlxYXRyUXBKYjgtNGhxMTlBam5jeG5GZGZIN0taYVM3d1NES0s2Z0Q2SHBHVnUzNklNd3ZQZnJkQ3lYSVRpSUNDTXg5cDlwcHlRbXJObXZBamh0MVFyaW5zWnVVZ3RWYUJOM1lRdnAwWGMzRy04QmJ5alBpZDNqT0FXVWx6c1l4UkhjajRpV2lDdWdQUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 08:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0RDJkd21HempoaEU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 03:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUJSazBHRkwzZmk0aHJzWldhTXpGNThoR0ZCVTlkOTZmNVZaekIyUlIxekxLTFV4QjFfb1NSQmtVeXN6TnRZMDJtZEhXUVJJenFrY1pnLWJ0bFd2TDhyV2R4SU9XbW1oaS1MMHFfYWdLSkZ5QkZqeWJUREVFZ1FpalZqeTh3YWdkUVo4?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 10:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9605,
-          23.6978
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Taiwan military drills clear streets, slow internet in Taipei - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 00:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "South Korean airport becomes busiest in world for global traffic amid Iran war - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4Vjhh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVplcGRpeXh1NGVBSm91bXRfbmhuRWhxeWs2WjN4Z19mVlBkZ25FTVRDX3RzWnlzallHRkd4M2JfU19SOUVzWjg4WjFVSE1lU040dzE5TzdFQWN6SXVINXlkVzJQOHBHOXdpT19QQVFkVjBOU3k5R0xsUlFIa25odk1mMmFVMmFIbC1XTk9hUlY4VjhhSkd6NUh3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 10:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Contradiction at the Heart of China’s Military Reforms - Geopolitical Futures",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0FGQkNnaUpUN3lzMG5uaDEtZzFQOWM3LXdSMHVfQ3N0dkNJajZMNUJKTGtRU2pHZ3kwSFhHRUI1bWxaNTRBQXdaWEljSGFDYi1QTW5aRXJjaUJnN3BpZkl0VUpJQlFubWhXOENvNExyY1pIdUFKNmpOZndUOXJZYkxXMWhSRDVzTVVkUGYtM053Nkdh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0FGQkNnaUpUN3lzMG5uaDEtZzFQOWM3LXdSMHVfQ3N0dkNJajZMNUJKTGtRU2pHZ3kwSFhHRUI1bWxaNTRBQXdaWEljSGFDYi1QTW5aRXJjaUJnN3BpZkl0VUpJQlFubWhXOENvNExyY1pIdUFKNmpOZndUOXJZYkxXMWhSRDVzTVVkUGYtM053Nkdh?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 10:00"
+        "data_noticia": "13/08/2026 12:48"
       }
     },
     {
@@ -827,11 +742,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump’s Iran War: America’s Strategic Defeat - Frontline Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNejFDUXluc0x3eHBaVGlUM1BVNzZnb0tDdnVvQjVTNFpwZHZROE04enptYTQ3SlFiTjJrdkRYTHhSYkJiUExQNzJOS3dKS0J0QnhldXpSME1HZFVSM2JrTDBtUTUtSUZlalpOaG8yU2xDem9HWjA4UnYzTTFYb2hPOWliTy1oOHFWcWt1aHNNcE9PcWpr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejFDUXluc0x3eHBaVGlUM1BVNzZnb0tDdnVvQjVTNFpwZHZROE04enptYTQ3SlFiTjJrdkRYTHhSYkJiUExQNzJOS3dKS0J0QnhldXpSME1HZFVSM2JrTDBtUTUtSUZlalpOaG8yU2xDem9HWjA4UnYzTTFYb2hPOWliTy1oOHFWcWt1aHNNcE9PcWpr0gGbAUFVX3lxTFA0TmlxMFJJSEZwUkNMRUFTVUI4bE5CT1paSWp6amphQ1pFdmpLb2hqN2RoWml4dzRPaVFEdndOUmtNLTJVRUR4emVKMkVtdVVlaUw1SUQyaERCbmR2VEVmUFh3Tnp4SmFyZ3NnU0h1cjVidlhIeTNMb1h5Z3Bqd2QwR3FmZFlYMG5XQ1ptZ1E1eGtZVHRYSThudWx3?oc=5",
+        "titulo_evento": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09m...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 08:30"
+        "data_noticia": "13/08/2026 11:13"
       }
     },
     {
@@ -839,16 +754,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russia: Cluster Munition Attack on Kyiv a Potential War Crime - Human Rights Watch",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPalMtNEpMSHlFaHV5U1BYaTRjZ3NzaXd6aHp6RkF4dDE5eWlDR21mZ1dLb1ZIQTdDRnBudGRWaEx5T2pJQ1FVanNRLWUxcXZ6RktPblJjZWtsTnJoUUVhSFRXTHVIbXVBWWZZNzRnMWtFTXR4bHFKTzJ5MGh3X0Y4T0JqaVFEbVdXZDRBRnpGZThxSy1S...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalMtNEpMSHlFaHV5U1BYaTRjZ3NzaXd6aHp6RkF4dDE5eWlDR21mZ1dLb1ZIQTdDRnBudGRWaEx5T2pJQ1FVanNRLWUxcXZ6RktPblJjZWtsTnJoUUVhSFRXTHVIbXVBWWZZNzRnMWtFTXR4bHFKTzJ5MGh3X0Y4T0JqaVFEbVdXZDRBRnpGZThxSy1SanZLcXRzUl8?oc=5",
+        "titulo_evento": "The Iran war risks bringing the G7's fastest-growing economy to a halt - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdWlsQkRocEJpQlhYZ01UNEdsRm00dUQzZlJSSXNDVUxUMEtiOFJJMUI2SFVuYldzTy1jUFBIWU85UENPMGFWb3JiWXdLdVVUcE9Ba3h2WlJ3UnNZcmJSb3FFWTFrT2VpWWNjTVhXNEstdEJHT2FKdFJpemdKZw?oc=5\" target=\"_blank\">The Ira...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdWlsQkRocEJpQlhYZ01UNEdsRm00dUQzZlJSSXNDVUxUMEtiOFJJMUI2SFVuYldzTy1jUFBIWU85UENPMGFWb3JiWXdLdVVUcE9Ba3h2WlJ3UnNZcmJSb3FFWTFrT2VpWWNjTVhXNEstdEJHT2FKdFJpemdKZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 04:00"
+        "data_noticia": "13/08/2026 11:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVpxNS1Jb1g5Tlc2NXZjZDNJeWlkOHk5d2ZNMnhZVHpkQXVXU2lnQnZjZUZCNC0wX21WYVppYUJ1OG00ZWUzaEFYazBGOVRfU2F6UElwOHJma25fY2ZEb1U3bHUxM2dmR0JRSHVVNUNNYkZMME8zM0dSMl9hT3A1azVLWk00WjNhWXU1bU9xRERSdTVX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMVpxNS1Jb1g5Tlc2NXZjZDNJeWlkOHk5d2ZNMnhZVHpkQXVXU2lnQnZjZUZCNC0wX21WYVppYUJ1OG00ZWUzaEFYazBGOVRfU2F6UElwOHJma25fY2ZEb1U3bHUxM2dmR0JRSHVVNUNNYkZMME8zM0dSMl9hT3A1azVLWk00WjNhWXU1bU9xRERSdTVXVnNqMUxIZWNzaEdqLVdHSWc1a0t0WE0x0gGyAUFVX3lxTE9MR1NPTnMtLVMwaGRGZE1KbU9fUGZaQy1sNEpzNGF5QVUxRVh2dm54SGRreG9MUjMtV0NNZ20tT3hiSjliMWo5RUVPblhhUV9MOWR5WDNod1ZIXzBSanBRNGhiVHgyb0xVZGtOUldtbVJ0RkZ5WXdMQ2g5NnlOc3hsREFmNFVFNjQyZE56V094djlqZGIzcXhHcGFzdE5pdm9HUkNmMk1DSFNib21ITjhMV2c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 14:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Tehran Fortifies Military Command to Stifle Internal Uprising Amid Fears of Economic Collapse - ncr-iran.org",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWMzLU10NjNSM2RWZ0NiUFIxWEpxLWhZM2tKMUsxZmR3T2h5d1d0Y1M5VnBtQzZoMlFRZGhNa1NsY1h5ZnlNM2hmQ3pNeGFzTkdlS1JlMDV1bTRPRjFlUy1tcVFabldZYWNyQmszd0UzQnNreHRoR1A1NEhYVnkyaEZYenVkUkVGOVVKeEsxc1hsbUl5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUWMzLU10NjNSM2RWZ0NiUFIxWEpxLWhZM2tKMUsxZmR3T2h5d1d0Y1M5VnBtQzZoMlFRZGhNa1NsY1h5ZnlNM2hmQ3pNeGFzTkdlS1JlMDV1bTRPRjFlUy1tcVFabldZYWNyQmszd0UzQnNreHRoR1A1NEhYVnkyaEZYenVkUkVGOVVKeEsxc1hsbUl5QWZyVEcxSkljOFFqLXNCV3NJSThacjhhQzFyOF9FLXZxX0g5MjVGRUJ6RkNPckJNbkQycnhfMmd6Qnl2N1laNllfTmU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 11:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Exclusive | U.S. and Ukrainian Forces Went Head-to-Head in an Exercise. Ukraine’s Drones Won. - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2pJUlZrVExVQXRhN1dUbUYxLWhvbWJDb0xBVHFhbkVIRklEQjlvSUJMeEJ6ZHh2T3ZYMXh6VnRrMGlxYXRyUXBKYjgtNGhxMTlBam5jeG5GZGZIN0taYVM3d1NES0s2Z0Q2SHBHVnUzNklNd3ZQZnJkQ3lYSVRpSUNDTXg5cDlwcHlRbXJObXZBamh0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2pJUlZrVExVQXRhN1dUbUYxLWhvbWJDb0xBVHFhbkVIRklEQjlvSUJMeEJ6ZHh2T3ZYMXh6VnRrMGlxYXRyUXBKYjgtNGhxMTlBam5jeG5GZGZIN0taYVM3d1NES0s2Z0Q2SHBHVnUzNklNd3ZQZnJkQ3lYSVRpSUNDTXg5cDlwcHlRbXJObXZBamh0MVFyaW5zWnVVZ3RWYUJOM1lRdnAwWGMzRy04QmJ5alBpZDNqT0FXVWx6c1l4UkhjajRpV2lDdWdQUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 08:42"
       }
     },
     {
@@ -861,11 +827,96 @@
         ]
       },
       "properties": {
-        "titulo_evento": "China has wrested control of oil markets from OPEC - The Economist",
+        "titulo_evento": "Satellite images show 50 per cent boost to China’s Type 054B missile capacity - scmp.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWpaMnpWSE9abXVGLWpGVDV2Z1c3MXFsaUhUX0czQzZmcE04bFEteENXc2cxUGJ1NmFIMFNFbmhDb0NRU1FYdmpmQTRpbWktSnE3TG1ZRHVxVnRLUWk0NW1BZjczVWZwY2hKQmR6RXNJdkdFRE9HV1hzRDgtY056cG9pYVVWMEZ4Wk1fWlh1UXNOaTlK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWpaMnpWSE9abXVGLWpGVDV2Z1c3MXFsaUhUX0czQzZmcE04bFEteENXc2cxUGJ1NmFIMFNFbmhDb0NRU1FYdmpmQTRpbWktSnE3TG1ZRHVxVnRLUWk0NW1BZjczVWZwY2hKQmR6RXNJdkdFRE9HV1hzRDgtY056cG9pYVVWMEZ4Wk1fWlh1UXNOaTlKRzQzaVFLd29EekFZOVhaR2U1OVoydXFPWWhHZE8zYUtLbkI5SXZHS3FqNFZMcXky0gHEAUFVX3lxTE1Fcl9UejBfdmJYZ0VHYXpMeUF0cXZqZWxvS0NvWXNZWnhUMHNEY0RYZjZSVWF4T25XYUY3c21rcW42ZmIyWmhqYk93VGwwRUt1Q2MzWjU1bHFBRkZMOVdtV2l5MFo5dFFZWF9HT0doSjhCU1JEOXpSeEdsZWJHTUFBY2ZEdWtJd3U5YXd6Y0NiR3BYZ2FxdTk1NWZfUWNicHZ2eXg4Rnc0ZWJRU3RwdEZlTWlLV0xZWFlSTTBXdEZXX0FfdVc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A liberal party is barred in Russia for implicitly opposing the war - economist.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjJMaF9oV2lCcjhqMGg3TW01Y0szU3RwdDlDaEFVbEs4cXBVeVdJR2FnNU1jelhyWEtzNFJabGxEcDY5d1BWeWhFQXdJZDluMjJLcDdxdHhBeWVMSFpNeS1rNzVaVV94bHpVa0ZqZkRLakpsQVlIYTQ3R1BwMDBrcEFObERjaDVlUTZaZnpNaTRuUHQt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjJMaF9oV2lCcjhqMGg3TW01Y0szU3RwdDlDaEFVbEs4cXBVeVdJR2FnNU1jelhyWEtzNFJabGxEcDY5d1BWeWhFQXdJZDluMjJLcDdxdHhBeWVMSFpNeS1rNzVaVV94bHpVa0ZqZkRLakpsQVlIYTQ3R1BwMDBrcEFObERjaDVlUTZaZnpNaTRuUHQtaE5DaDBTcl93LTNoUV9vWGlnRXNnOEE3VXBIRw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How public health research supports accountability for Israeli war crimes in Gaza - The New Humanitarian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUNvTUU0QmtoMG15SFVHNjhPTGJIeVdNb1BQVi0yWTc3ODluZnd1QS1pUm45VW1xRjFXWFg1ZFg2cTh0bXc1X1FReVpQRHNBb3hqYUpZX1dGSDNxUy1sVWJGYnpmb1lmTXFKZ0JkUFh2T3MtYkVZQ1V1TEtqVldOUDlEUHVUeDY5T2FsaHN6X0gtNFJr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUNvTUU0QmtoMG15SFVHNjhPTGJIeVdNb1BQVi0yWTc3ODluZnd1QS1pUm45VW1xRjFXWFg1ZFg2cTh0bXc1X1FReVpQRHNBb3hqYUpZX1dGSDNxUy1sVWJGYnpmb1lmTXFKZ0JkUFh2T3MtYkVZQ1V1TEtqVldOUDlEUHVUeDY5T2FsaHN6X0gtNFJrcTVtUFQ0elBLYmQyUUFMaW9xMXFGVmNPaVBiNklsckRBNi1OZ192cFdZdktDaXBWU2NuVA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 13:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0RDJkd21HempoaEU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China has wrested control of oil markets from OPEC - economist.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFT...",
         "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "13/08/2026 08:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "AI boom is starting to show in UK economy's performance - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "13/08/2026 12:06"
       }
     },
     {
@@ -895,23 +946,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "UK Economy Shrugs Off Iran War Shock for Now - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUVINl9YNTZZQjJWSXNadmRCMG5mb1ZMT2FRYzNJWkNGLTlkdS1lY1pabFNBOWlkZ3QyYTBqOXJsWWNnbG45UDB1cGt1X3BKWmx5ZXdBQkpWWWV2a0ljR29kNkhPTGpER2NoZ3pPNXV3a3h5VVZULUQ0eHV1QUkzQy0xb3FoMllkQ0xyLU1kdER0Z2tj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUVINl9YNTZZQjJWSXNadmRCMG5mb1ZMT2FRYzNJWkNGLTlkdS1lY1pabFNBOWlkZ3QyYTBqOXJsWWNnbG45UDB1cGt1X3BKWmx5ZXdBQkpWWWV2a0ljR29kNkhPTGpER2NoZ3pPNXV3a3h5VVZULUQ0eHV1QUkzQy0xb3FoMllkQ0xyLU1kdER0Z2tjMFZlZ1NRVlBxZDA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "13/08/2026 11:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
         "titulo_evento": "Pound holds ground as sunshine and soccer boost confidence in UK economy - Reuters",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBIZUo1T0FOX3RIRXRMc3g2X1BoSFR0UDBxdktWNlAyWjhNUk5YelVQNGRuTl9WSW1OREt6ZTQtQy1CVld5XzFReHdlV1FpdlM4OHpaMFU2LTh6LU5fVF9odG9nUlVMVDhqOV9jQTlLZVE0dXNTVkxhT2dCOXlfeVgwMXR1by1tWWV1cDJVejBnNG1K...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBIZUo1T0FOX3RIRXRMc3g2X1BoSFR0UDBxdktWNlAyWjhNUk5YelVQNGRuTl9WSW1OREt6ZTQtQy1CVld5XzFReHdlV1FpdlM4OHpaMFU2LTh6LU5fVF9odG9nUlVMVDhqOV9jQTlLZVE0dXNTVkxhT2dCOXlfeVgwMXR1by1tWWV1cDJVejBnNG1KSXUwamJfbUJYMF9ybENlYi1ZeFlqMzA?oc=5",
@@ -924,16 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "AI boom is starting to show in UK economy's performance - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+        "titulo_evento": "Global Markets: Canada-U.S. trade talks continue - The Western Producer",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTlmVFNTMFRacU92QTNhcXM3cW5DaW5DMmhZUHZBaE5CemJMX3ZteGVvQjdPSjFnZllaVDlRMm82MlRUMUJqYUt5NEJkVHZpcXdsNTM0YmtnRnljZ3JrSUd1TFo5NkhGdzVUc3kzTnNTTk5iTndSRmplc1Fsa2tWUC1wSnZlUjYtdDlGYnFwcw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTlmVFNTMFRacU92QTNhcXM3cW5DaW5DMmhZUHZBaE5CemJMX3ZteGVvQjdPSjFnZllaVDlRMm82MlRUMUJqYUt5NEJkVHZpcXdsNTM0YmtnRnljZ3JrSUd1TFo5NkhGdzVUc3kzTnNTTk5iTndSRmplc1Fsa2tWUC1wSnZlUjYtdDlGYnFwcw?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 12:06"
+        "data_noticia": "13/08/2026 14:26"
       }
     },
     {
@@ -941,33 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "Stocks rise with oil price below $90, euro edges up, Iran in focus - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5\" target=\"_blank\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+        "titulo_evento": "AI bets flow to Asian emerging markets, leaving Brazil behind - Valor International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjJ1NVluRU1xSkl5emFKVG1UTjZydkxmRU9Id3dIM1F0SjJ6RzBTRElpYUdqS1c1dWtyaGNocXdETlg5c2VzbkdlMEF0bVg2U3ZnOWRPdkJRUmJHajR1SEE2RkUtZ1FGU1g4RkEyVWw1bU51NGVwWVpsQWlQcWtMZFRuazZ3YjRJVjFTbWtxM1JzYnF0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjJ1NVluRU1xSkl5emFKVG1UTjZydkxmRU9Id3dIM1F0SjJ6RzBTRElpYUdqS1c1dWtyaGNocXdETlg5c2VzbkdlMEF0bVg2U3ZnOWRPdkJRUmJHajR1SEE2RkUtZ1FGU1g4RkEyVWw1bU51NGVwWVpsQWlQcWtMZFRuazZ3YjRJVjFTbWtxM1JzYnF0QUE2TklONTBUNVpjRnQxbnZqWnFLUW1vOGE4RlQyTWpwUmxYY0F3T2gxSmxrNnFLLVHSAdQBQVVfeXFMT1JIVzlJQ3N1U2syNEh0anpNekhHUWJBd2xzb0FyZjVDTWsyQkM0YVhRY052akRqeElESS1DYXF0N0t0VnRMaHRmYmFkX1ZtWW9BRFhSLWZndXVQN0ZQOF9uQXlONnMzSHY1QnctZnNwMlhWZmhDMFJqamI3X09fNk10bHBhdlJQNmM5cUtEZmVCUjR6VTBfaURKZERjalZRbUl3WEZRNEpnM3Y4eUZfZUtVaFJVd2d4dThVOFdQMF9pUU9TSnNJOGdNRmxhNkxTeDBYeS0?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 01:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Heat Wave and World Cup Hand UK Economy a Surprise Boost - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZfZU81X0FmUHEtU013V1pOR1N2UV9oT25Ba01WNVZraUZFTEVpQzFrWjlaT0Y2UDlZaTNRc3FaRmJWU1pwTk15Yk1ncG9OZ053ZXhKbkN1QjVEREM4eFdub0IxY0ozUDFPNXZuUHpZanNDUEZpc2pGdTJFcUVFR0dwY0ZocFJlQ3F3WDlfalF3Mk9E...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZfZU81X0FmUHEtU013V1pOR1N2UV9oT25Ba01WNVZraUZFTEVpQzFrWjlaT0Y2UDlZaTNRc3FaRmJWU1pwTk15Yk1ncG9OZ053ZXhKbkN1QjVEREM4eFdub0IxY0ozUDFPNXZuUHpZanNDUEZpc2pGdTJFcUVFR0dwY0ZocFJlQ3F3WDlfalF3Mk9EeEtSdG5qNFFyclZQQV9vZzRWY0dna1JsWS1nNQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 07:25"
+        "data_noticia": "13/08/2026 11:28"
       }
     }
   ]
