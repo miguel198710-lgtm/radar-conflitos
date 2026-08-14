@@ -57,6 +57,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+        "descricao": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "14/08/2026 18:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Art offers young Gaza survivors solace and escape from war’s devastation",
+        "descricao": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
+        "url_fonte": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "14/08/2026 18:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -101,23 +135,6 @@
         "url_fonte": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
         "categoria": "Economia (Al Jazeera)",
         "data_noticia": "14/08/2026 13:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
-        "descricao": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "14/08/2026 11:28"
       }
     },
     {
@@ -346,23 +363,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Eurovision bars countries at war from hosting",
-        "descricao": "A Eurovision victory will no longer guarantee hosting rights if war or a wider security crisis affects the winning country. The change could have particular significance for recent high-flyers Ukraine and Israel.",
-        "url_fonte": "https://www.dw.com/en/eurovision-bars-countries-at-war-from-hosting/a-78341915?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "12/08/2026 18:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -470,9 +470,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
+        "titulo_evento": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
         "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/technology/articles/chinas-weride-eyes-australia-southeast-090950869.html",
+        "url_fonte": "https://finance.yahoo.com/energy/articles/high-oil-prices-deliver-windfall-103000081.html",
         "categoria": "Economia (Yahoo Finance (Global))",
         "data_noticia": "Recente"
       }
@@ -491,7 +491,41 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE84ZGpXZXlQdWtPdlh6TkI5SlYxcE55Zm5pWXpjUUphYld0TGlHLWxFY3JvWGtOY0RxY1BmcFZaeHpLSmF3WlR4dXBWMGNJYnZ2UTJrVlNwWXFuRFJGNGlLUEMyRzRRZnFkZkF3?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
         "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84ZGpXZXlQdWtPdlh6TkI5SlYxcE55Zm5pWXpjUUphYld0TGlHLWxFY3JvWGtOY0RxY1BmcFZaeHpLSmF3WlR4dXBWMGNJYnZ2UTJrVlNwWXFuRFJGNGlLUEMyRzRRZnFkZkF3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 16:36"
+        "data_noticia": "14/08/2026 19:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Woman charged over vandalism of Washington's World War Two memorial - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 18:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "World War II Memorial on National Mall vandalized with graffiti and bubbles - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJuRkU0WXgwV25OZmVBNmdiOGdoZnVCTU9nQUtJU2hmaU1MOU9jVXoxQw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 19:25"
       }
     },
     {
@@ -538,11 +572,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "World War II Memorial on National Mall vandalized with graffiti and bubbles - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJuRkU0WXgwV25OZmVBNmdiOGdoZnVCTU9nQUtJU2hmaU1MOU9jVXoxQw?oc=5",
+        "titulo_evento": "DOJ files charges against woman accused of vandalizing World War II Memorial - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1pKdUZrQlBZUmVPSC0yQ3JUamszU3hueHBwRE1iaTZfdW1TZ3YyVkZESWNrMDlaWmxScU1aMVlMT0hUZjVSaUJ1VDhWTTFXdEJTenhaWFUzWXFudGV2RktVR29iYVBYaWcwMzhpUGhhcG5Ybld0U0tRb1FVOWRmOG9EOXlhWWE1cFBuYmhDNVhHRHl5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1pKdUZrQlBZUmVPSC0yQ3JUamszU3hueHBwRE1iaTZfdW1TZ3YyVkZESWNrMDlaWmxScU1aMVlMT0hUZjVSaUJ1VDhWTTFXdEJTenhaWFUzWXFudGV2RktVR29iYVBYaWcwMzhpUGhhcG5Ybld0U0tRb1FVOWRmOG9EOXlhWWE1cFBuYmhDNVhHRHl5V0lXR0h0dVZuQXVZWUxHWllicVJEclIyR050VE1Pc3BtRDA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 16:25"
+        "data_noticia": "14/08/2026 19:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The KN-23 Goes to War: Has It Improved North Korea’s Missiles? - 38 North",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2sxTV9oQVVZTDhmRFpYNFFTZWNZd1lzaW94NGdwcTAtang0clN1T3BabU5qVEtuNnpsZkJRTVRZYWxMNmJNZWR3VDBVWWdjU2Q2YWFzZzZoZ3VBdDN6ZUstbkgzb2REck9Qc05Gd2w1NlZfWXJvSmxlV0F0TzVQWHg0MlVSMmhrdjFrU1F4WGdZZlc1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2sxTV9oQVVZTDhmRFpYNFFTZWNZd1lzaW94NGdwcTAtang0clN1T3BabU5qVEtuNnpsZkJRTVRZYWxMNmJNZWR3VDBVWWdjU2Q2YWFzZzZoZ3VBdDN6ZUstbkgzb2REck9Qc05Gd2w1NlZfWXJvSmxlV0F0TzVQWHg0MlVSMmhrdjFrU1F4WGdZZlc1dUY0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 15:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUlhNUVfX1FJcU5fX3BRVmp1T3JUTUcxMWZFcExEdFE5dXVZSlN1TlNB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUlhNUVfX1FJcU5fX3BRVmp1T3JUTUcxMWZFcExEdFE5dXVZSlN1TlNBQ0FYdEJPRFJOVXZvbmF6andjdEdnMDhjNXpjOXFZaw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 11:14"
       }
     },
     {
@@ -572,11 +640,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUlhNUVfX1FJcU5fX3BRVmp1T3JUTUcxMWZFcExEdFE5dXVZSlN1TlNB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1RjRkdfWFhDa19XeVdJTExnYzQwX0ZJdFBnYzlkMVhfWXdPNFRxWVJVcUlMLTdtZ3NudmVvQTI4Mm1EZ25Lb25oelpLX0dyVl81TEpkbndwTTBhMzRUM052VmdVdnRGcjl5dUlhNUVfX1FJcU5fX3BRVmp1T3JUTUcxMWZFcExEdFE5dXVZSlN1TlNBQ0FYdEJPRFJOVXZvbmF6andjdEdnMDhjNXpjOXFZaw?oc=5",
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 11:14"
+        "data_noticia": "14/08/2026 18:26"
       }
     },
     {
@@ -584,33 +652,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRQdUV1T3M3cHpoa21GUjQ1U0g4QWpjT0huV3Y2Z19iSnNSb1h2QnRNSFBmX29BUnpVaXNCQi14NlcyZEJta1FzbnM0SWdQbC15SF91M1RlV3NDbGtpWnhaVUhGVnpIWVZ4b29TNUxqVWNkY0RfZGxqN1E4UkNOMTA2SVRuWW81REpGWS1fQ1ZSWTFR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRQdUV1T3M3cHpoa21GUjQ1U0g4QWpjT0huV3Y2Z19iSnNSb1h2QnRNSFBmX29BUnpVaXNCQi14NlcyZEJta1FzbnM0SWdQbC15SF91M1RlV3NDbGtpWnhaVUhGVnpIWVZ4b29TNUxqVWNkY0RfZGxqN1E4UkNOMTA2SVRuWW81REpGWS1fQ1ZSWTFRZW5VcFhrc3ZfR29tNDhOMnV2MTBDeWFoVUlVStIBtgFBVV95cUxPeC0xOGlnQkFxTGlHdG1RV01SRUpXN1FqQ1FaaXpxLWdmbmZCVGVEMS0wSDAtY1BhMTNZYlZscG41WVFoMWxXT1JmdWJ1S2NOWURHTF9zQUJ3N3U1T1hyMVJaVUkxWnJ4ZWRUZ2poaUdXVXpibm92Sk0wMGQxbHAzeVF5Ti05VG1nTTVNbTBwR2R3QUxvVzl1eVhWbzFFanU4Z0MtWFRzcV9kaElibE5kcXpvZE9mZw?oc=5",
+        "titulo_evento": "Woman films herself vandalizing World War II Memorial in Washington - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk1qOHp4TVIzazFJUmVOdm5ER0hQZENHVkNRRGhldzhnUnRaLS1LcFdOSnZvVW9KVUY4cnlXNGhSdzF2ZVNmcEFPdl9xWTFQck5IeFFmUHJWcExRQ0tXVXBCRHhvckt6T2ZrZDV4M20wd3BVTWMtMUs1dUxzUC1iRVJqeUp2Um5OTGg5Y196cEx0VVk4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk1qOHp4TVIzazFJUmVOdm5ER0hQZENHVkNRRGhldzhnUnRaLS1LcFdOSnZvVW9KVUY4cnlXNGhSdzF2ZVNmcEFPdl9xWTFQck5IeFFmUHJWcExRQ0tXVXBCRHhvckt6T2ZrZDV4M20wd3BVTWMtMUs1dUxzUC1iRVJqeUp2Um5OTGg5Y196cEx0VVk4NmY4Qk1yZWNyMVo1Y1FoWGhLbWpxMWgtclBn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 11:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The KN-23 Goes to War: Has It Improved North Korea’s Missiles? - 38 North",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2sxTV9oQVVZTDhmRFpYNFFTZWNZd1lzaW94NGdwcTAtang0clN1T3BabU5qVEtuNnpsZkJRTVRZYWxMNmJNZWR3VDBVWWdjU2Q2YWFzZzZoZ3VBdDN6ZUstbkgzb2REck9Qc05Gd2w1NlZfWXJvSmxlV0F0TzVQWHg0MlVSMmhrdjFrU1F4WGdZZlc1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2sxTV9oQVVZTDhmRFpYNFFTZWNZd1lzaW94NGdwcTAtang0clN1T3BabU5qVEtuNnpsZkJRTVRZYWxMNmJNZWR3VDBVWWdjU2Q2YWFzZzZoZ3VBdDN6ZUstbkgzb2REck9Qc05Gd2w1NlZfWXJvSmxlV0F0TzVQWHg0MlVSMmhrdjFrU1F4WGdZZlc1dUY0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 15:01"
+        "data_noticia": "14/08/2026 18:13"
       }
     },
     {
@@ -725,7 +776,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's Economy Is Buckling Under the Weight of War - oilprice.com",
+        "titulo_evento": "Iran's Economy Is Buckling Under the Weight of War - Crude Oil Prices Today | OilPrice.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDlXekVMYmF4ZTU2OEZPQXZwbGplWFZMMFV1aUZoLTJuYWhQcmpwellrb3JrNnJJVWVpNWtPal9zbEJQVU9uZzZxaFJIdFFrMnhsN0hQTTlndXFNdjdkT3NhM2RyblIzSFl2S3JOeWJBbWpjQ1MxR1p2amlyZndXdjFxNnRXMVZzRmc1TjJEU3pvQlRf...",
         "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDlXekVMYmF4ZTU2OEZPQXZwbGplWFZMMFV1aUZoLTJuYWhQcmpwellrb3JrNnJJVWVpNWtPal9zbEJQVU9uZzZxaFJIdFFrMnhsN0hQTTlndXFNdjdkT3NhM2RyblIzSFl2S3JOeWJBbWpjQ1MxR1p2amlyZndXdjFxNnRXMVZzRmc1TjJEU3pvQlRfOHdIZGkyMXpGM1da0gGmAUFVX3lxTE45STl6VmtVNy0zU2lNVkZNSEo2cVJRVXhrdk9VeUgyUWZEM3V1bzhRbHVJZnZJelVMQnVzako2R2RmRDJqbXM3Q3M5UkljVGhjNlNrWlF6STRCVGVYcWdQNnIzNUJlNDZMSjZjQjRuRW4wLUNDYWJQMTdrbjdETWFhZlRDbmNTQ3BqVEZ1TG5tcUZIajlFTU9lc0lmMFNoSkxrRV9yanc?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
