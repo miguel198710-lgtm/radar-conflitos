@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea fumes over upcoming US-South Korea military drills",
+        "descricao": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "14/08/2026 05:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How much power does the US hold in Venezuela?",
+        "descricao": "After Maduro’s removal, US influence in Venezuela soared, but experts say Washington may still have to ‘own’ Venezuela.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "14/08/2026 04:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -159,40 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli strikes in Gaza kill two, including police chief",
-        "descricao": " Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "13/08/2026 21:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mexico says Colombia rejected its earthquake rescue team",
-        "descricao": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "13/08/2026 21:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -220,6 +220,74 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "13/08/2026 13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Nigel Farage beats Count Binface to regain UK parliamentary seat in widely mocked by-election",
+        "descricao": "\nThe anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton. \n",
+        "url_fonte": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
+        "categoria": "Política (France 24)",
+        "data_noticia": "14/08/2026 06:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Spain's World Cup final hero Ferran Torres closes in on PSG transfer",
+        "descricao": "\nParis Saint-Germain have reached an agreement with Barcelona to sign Ferran Torres, according to reports in French and Spanish outlets on Thursday evening. The forward, who scored the match-winner for Spain in the World Cup final, is expected to sig...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20260814-spain-s-world-cup-final-hero-ferran-torres-closes-in-on-psg-transfer",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "14/08/2026 06:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+        "descricao": "\nReports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 u...",
+        "url_fonte": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "14/08/2026 05:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+        "descricao": "\nReports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 u...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260814-middle-east-live-us-threatens-iran-with-economic-isolation-like-never-seen-before",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "14/08/2026 02:31"
       }
     },
     {
@@ -346,47 +414,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
-        "descricao": "\nIsraeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank.\n",
-        "url_fonte": "https://www.france24.com/en/video/20260813-israel-sends-troops-to-settler-siege-as-us-ambassador-slams-act-of-terror",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "13/08/2026 14:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran calls out Trump's ‘lies’ about US control over the Strait of Hormuz",
-        "descricao": "\nA spokesman for Iran's military command on Thursday called out US President Donald Trump's \"lies and fabrications\" after he claimed on social media that Washington had \"total control over the Strait of Hormuz\". Iran has maintained control of the Str...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "13/08/2026 14:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.5897,
           6.4238
         ]
       },
       "properties": {
         "titulo_evento": "When the earth moves: 6 major earthquakes of 2026",
-        "descricao": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the only factor determining the scale of the disaster.",
+        "descricao": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake isn't the only factor determining the scale of the disaster.",
         "url_fonte": "https://www.dw.com/en/when-the-earth-moves-6-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "13/08/2026 17:17"
@@ -533,16 +567,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5674,
-          41.8719
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Italy: Etna eruption in Sicily halts Catania flights",
-        "descricao": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
-        "url_fonte": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "12/08/2026 15:01"
+        "titulo_evento": "Farage’s victory over Binface won’t silence his critics",
+        "descricao": "The Reform UK leader wanted to send a \"people versus the establishment\" message in Clacton. But he'll face continued scrutiny of his finances — and questions over his judgement.",
+        "url_fonte": "https://www.politico.eu/article/nigel-farages-critics-despite-clacton-victory-count-binface/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "14/08/2026 07:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Farage wins Clacton by-election",
+        "descricao": "Reform UK leader sails home in special contest he triggered amid scrutiny of his finances — but misses the count.",
+        "url_fonte": "https://www.politico.eu/article/nigel-farage-wins-clacton-by-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "14/08/2026 05:26"
       }
     },
     {
@@ -623,6 +674,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "July CPI Report Is Expected to Show Falling Energy Prices",
         "descricao": "The war with Iran injected volatility into the oil and gas market, with prices rising and falling in concert with the conflict.",
         "url_fonte": "https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html",
@@ -644,7 +712,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnYtV21uOVlrVWdTMzR4MGd5cmREWVB4MWplbk5IcGd0QXRMTUlnX3Z0QTl0djYxT0RLeW5kSnk2TTM0VW5qR3lJX2hacFZhZ29jTE5NVWF0elRieVlGSW9QY0M3M1lHQWdKWmtKZ25id0YyVU1qRWtURUxkWnlYUW9RQdIBiAFBVV95cUxOaXdUb1Fo...",
         "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnYtV21uOVlrVWdTMzR4MGd5cmREWVB4MWplbk5IcGd0QXRMTUlnX3Z0QTl0djYxT0RLeW5kSnk2TTM0VW5qR3lJX2hacFZhZ29jTE5NVWF0elRieVlGSW9QY0M3M1lHQWdKWmtKZ25id0YyVU1qRWtURUxkWnlYUW9RQdIBiAFBVV95cUxOaXdUb1FoaWlGcGxzQ3ZoOHFIUEFxQjVrYXgzNGVLVlp6dkRTaUZXdGpEZEx6MHVIcVBfRVZHV1h5cS1LZzdlQXZnYWxJVXYyTDVTRXZ1cVoyaGRJUTJPUW1sMk5YbUY0TXFNeXR1dG1fT0FCU19yXzNTNldiQUFubVc3Tl9mU1Fl?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 01:54"
+        "data_noticia": "14/08/2026 04:26"
       }
     },
     {
@@ -657,28 +725,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2swcWNKLTdQX01uTFVzYmpGSGU4Q2VZcWZxWHFPLXk2aXVJQjBsVW9QNGVpdDVJLTk0blY2a1RJV1dGMlYxVlBETTdoY3BKNHB0SnBUcHM3X0NSSUtlMGtkOHpXUi1qZ3dTdm15ME5GOXQzM2lBRzBvQTJlNC1YaVJUMF9jUUw3cEt4WW04U1QyaWpq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2swcWNKLTdQX01uTFVzYmpGSGU4Q2VZcWZxWHFPLXk2aXVJQjBsVW9QNGVpdDVJLTk0blY2a1RJV1dGMlYxVlBETTdoY3BKNHB0SnBUcHM3X0NSSUtlMGtkOHpXUi1qZ3dTdm15ME5GOXQzM2lBRzBvQTJlNC1YaVJUMF9jUUw3cEt4WW04U1QyaWpqSU82OGxUZVU3X1lNdlRhVG9tbHlkV0NKVC1oa3RXRlBvRzJxMzhxbERvcGs2bWFFRl9Wdm9XWk00bkRuTXc?oc=5",
+        "titulo_evento": "World War II Memorial on National Mall vandalized with graffiti and bubbles - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJuRkU0WXgwV25OZmVBNmdiOGdoZnVCTU9nQUtJU2hmaU1MOU9jVXoxQw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 22:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World War II Memorial vandalized, fountain full of bubbles - NBC4 Washington",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1doeUN4YkVIOFE2dXJ6UHR1SXdIaEJPckd4WUh2anJDTndDNHVkT1h3dHN5UnBNRElHa1VMaDFDODBtTm5hbDhSbUJqci1JcWxyWEhqVGphbXlVSzhQT3VZRUhXcTJUMDcxMFpSVVdjR2VNb0FKV2lpYUJERU0wYnNmbjhySmdaYy01V0RWVUZxMVc1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY1doeUN4YkVIOFE2dXJ6UHR1SXdIaEJPckd4WUh2anJDTndDNHVkT1h3dHN5UnBNRElHa1VMaDFDODBtTm5hbDhSbUJqci1JcWxyWEhqVGphbXlVSzhQT3VZRUhXcTJUMDcxMFpSVVdjR2VNb0FKV2lpYUJERU0wYnNmbjhySmdaYy01V0RWVUZxMVc1UXV3Q29QT1ZSSDIxbTNwaHJIN0pvLTDSAbMBQVVfeXFMTTAzM2tVel9ZUE1ldjlNWTdfeXdzYm1wak1lSXNMZXI2ODMyWmpvWmFSZkk1cW1IUDJGYUFra3pEV2lTXzB5TGgxbWlSNmdiTTJqSGxJWlRIVEgwcVg1YmlkMjBFT180TjM5emVVVXAzdUN2a3c3NHMybkRoRUJTYUM4S3gwempfZ08yTDFFTHZHOFhsc19ORWt4X2pxTTlSUnE1cVhFYjJoZ2o4OUc4Y2VmYzA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 02:22"
+        "data_noticia": "14/08/2026 06:16"
       }
     },
     {
@@ -708,11 +759,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran war’s mental toll on US sailors - vox.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVJCMlh0TDFzN3B0TzVrNWZvTUdsOVdaTFJzbXFxVnFhUkZpQllZdGg2aDFDZGRhMFZCcW1QM2s2LUk4REUtTm9JSUdWNFFSaVIwdW5NOXdRSHpQY01nR0JNc19mNnJmbUVmejgxekxxTWJLM0s3SEh6VTBfdzdUdlFYSDBBaWNrdkNrd01UUnZ3LUNN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVJCMlh0TDFzN3B0TzVrNWZvTUdsOVdaTFJzbXFxVnFhUkZpQllZdGg2aDFDZGRhMFZCcW1QM2s2LUk4REUtTm9JSUdWNFFSaVIwdW5NOXdRSHpQY01nR0JNc19mNnJmbUVmejgxekxxTWJLM0s3SEh6VTBfdzdUdlFYSDBBaWNrdkNrd01UUnZ3LUNNdXJRRHdTcmtSR3VkQndVNjlubEpDSzZqTWNfbTYwUDRPQWxX?oc=5",
+        "titulo_evento": "US shifts Iran war goal, says cheaper oil for Americans is top priority - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzZBcTY3b1JIeDY5VWtyejAzSzI1Y1ZkWXFFU1dMR3NhazJmU1FwaEY0UkVtaU1iaGZzNkg1Q1Q0U3NQZjRDYktGRXJfSEJpNklnM3BQOXNCOHA3dnEtd0tJMmRzNnZCelBaeFdUZkUtRDVVakhrb1J1djJZMDdpTzYyMEZTTTE1QWphQnRpcndBMi1k...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzZBcTY3b1JIeDY5VWtyejAzSzI1Y1ZkWXFFU1dMR3NhazJmU1FwaEY0UkVtaU1iaGZzNkg1Q1Q0U3NQZjRDYktGRXJfSEJpNklnM3BQOXNCOHA3dnEtd0tJMmRzNnZCelBaeFdUZkUtRDVVakhrb1J1djJZMDdpTzYyMEZTTTE1QWphQnRpcndBMi1kUFJIbWNHMGN4U0tFTU5oSk9ZMDE5X1ZGOXg3RXdMLVlpQWpnS19NNzdNMTZEejhWT1JnRkZrNWrSAcwBQVVfeXFMTzRQTVdVc05tTkNfLThUU0dtWFoxMUlrQTlIMzFYTkRuOFI5N01JM2IxVm9va01reEF6d21fdFZZcFp6NEVkMDhiZk9WOWYtajRTdEJOUzN3Wkt5Z3U1NUxlTDhOMDZLeGVhYzhCTlR5MHUxUEJLZk1waDNOdTlNSVpHZEU0YlBha21iTVJNN3pVNkdFSHE2V1F0NFpndi1LUFE0QVcwZkJ3YV9lSkN5a2ZJanJnMkljb29VNXBsdlNROXg1dzZsYW9DSEZY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 21:55"
+        "data_noticia": "14/08/2026 04:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Concerns Raised Over Conditions on Navy Carrier in Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2SGVFOVA1Vkw4c2hTaVB4d1A3bUUtSnNuSVlBaXVTZmRBLTlKUmh0NmVScEdobTlXREpaQjV4UHg2UGpJbzdTaVNhMjZvbk5uU1A1U1d1WnpMVTdCLWZkOHdBNA?oc=5\" target=\"_blank\">Concerns Raised Over Conditions on Navy Car...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2SGVFOVA1Vkw4c2hTaVB4d1A3bUUtSnNuSVlBaXVTZmRBLTlKUmh0NmVScEdobTlXREpaQjV4UHg2UGpJbzdTaVNhMjZvbk5uU1A1U1d1WnpMVTdCLWZkOHdBNA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 05:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea threatens strong response ahead of US-South Korea military drills - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnhEUkxHYTZtaEdxclhmOG1QSEdHOHdEZE9DdUJJQ1lKalRtVndtclFVZmNZNDBHMFAyYnBXLTBRRkRVdS1UMVVKOVg0T215R2FQbGtOVFdsa3pLTDQ1LTlBYjRWTVNnUS1Yb3RGRU4tOHVCZzNVMFFoTHFPdG85amJTem4ybkZxT1Z4QlhSdGQ0d2NB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnhEUkxHYTZtaEdxclhmOG1QSEdHOHdEZE9DdUJJQ1lKalRtVndtclFVZmNZNDBHMFAyYnBXLTBRRkRVdS1UMVVKOVg0T215R2FQbGtOVFdsa3pLTDQ1LTlBYjRWTVNnUS1Yb3RGRU4tOHVCZzNVMFFoTHFPdG85amJTem4ybkZxT1Z4QlhSdGQ0d2NBdFdYR0Q5RTJBMzU1YldfczlrV1FqSHFJUUVHYktFeFh5R0l0TjRnb2l5dUZUaWlWSHc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 03:20"
       }
     },
     {
@@ -725,11 +810,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid Iran War Strain - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHZlYUkzWG1OQmhuZEF6ZzExVTJPN3NFUWIwTjJDRDg0OFRMTlMyQUYtZ2s4MzNnbDBhX1BQVGI1TDdIbVpiQmVVWlNwdFhsckZ4Uk11X2FYNnd1SDlpd3F4Mk85WEZrN3A0RFh4S2ZCX1lFTVcyRURocVRxTTFWSm5TZ0tJQTJ3RGhreFcycmNNSGRR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHZlYUkzWG1OQmhuZEF6ZzExVTJPN3NFUWIwTjJDRDg0OFRMTlMyQUYtZ2s4MzNnbDBhX1BQVGI1TDdIbVpiQmVVWlNwdFhsckZ4Uk11X2FYNnd1SDlpd3F4Mk85WEZrN3A0RFh4S2ZCX1lFTVcyRURocVRxTTFWSm5TZ0tJQTJ3RGhreFcycmNNSGRRaFFGWHA0WDVEVnFVaFBEWjBfZThSMVlQZ3ZfcmFZWXhnN1ZabzZMTm1DU296U0lQ?oc=5",
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 20:01"
+        "data_noticia": "14/08/2026 05:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2swcWNKLTdQX01uTFVzYmpGSGU4Q2VZcWZxWHFPLXk2aXVJQjBsVW9QNGVpdDVJLTk0blY2a1RJV1dGMlYxVlBETTdoY3BKNHB0SnBUcHM3X0NSSUtlMGtkOHpXUi1qZ3dTdm15ME5GOXQzM2lBRzBvQTJlNC1YaVJUMF9jUUw3cEt4WW04U1QyaWpq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2swcWNKLTdQX01uTFVzYmpGSGU4Q2VZcWZxWHFPLXk2aXVJQjBsVW9QNGVpdDVJLTk0blY2a1RJV1dGMlYxVlBETTdoY3BKNHB0SnBUcHM3X0NSSUtlMGtkOHpXUi1qZ3dTdm15ME5GOXQzM2lBRzBvQTJlNC1YaVJUMF9jUUw3cEt4WW04U1QyaWpqSU82OGxUZVU3X1lNdlRhVG9tbHlkV0NKVC1oa3RXRlBvRzJxMzhxbERvcGs2bWFFRl9Wdm9XWk00bkRuTXc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "13/08/2026 22:39"
       }
     },
     {
@@ -754,16 +856,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          127.05,
+          40.0
         ]
       },
       "properties": {
-        "titulo_evento": "World War II Memorial on National Mall vandalized with graffiti and bubbles - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTliN0E0bVFyOGxXQU5Nd1l2Rl9kOFZOUktpOHRpZkpnd1l3TDZMY1lzNnN5ZmwzOWtJSDNkMWxBVm5nWC1NSlc4Y1FWbXlmTjR1QzgzUm8zZ2pSSk02WUJuakJtVFRxdXMyNk1XYjVPbHNRX09MaWRsQVNKX1VlblIySGkzSUk1TmlTX2xnbzNkaVJuRkU0WXgwV25OZmVBNmdiOGdoZnVCTU9nQUtJU2hmaU1MOU9jVXoxQw?oc=5",
+        "titulo_evento": "North Korea fumes over upcoming US-South Korea military drills - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 04:25"
+        "data_noticia": "14/08/2026 05:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US War on Iran, Day 169: Americans Lose 1/4 of Their Reaper Drones - EA WorldView",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SHlTWnVta05DdEdzQzVrQ2l2Rm12N0ZNN2xranIwbXR2M3NUcjRKaEx1ZlVjYmtPbW8yaW9ZYnpDMVF1RENXSjhCaXFVbk1yS0lfcmhRc2Y3ZUVzRkcyV0Z1Rk5ZeXk5VGJQWVBR?oc=5\" target=\"_blank\">US War on Iran, Day 169: Amer...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SHlTWnVta05DdEdzQzVrQ2l2Rm12N0ZNN2xranIwbXR2M3NUcjRKaEx1ZlVjYmtPbW8yaW9ZYnpDMVF1RENXSjhCaXFVbk1yS0lfcmhRc2Y3ZUVzRkcyV0Z1Rk5ZeXk5VGJQWVBR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 06:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine's war-hit steel industry faces new obstacle: EU rules - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkpxWjhTWG5yaE9jV0VIajBSSzBJMGRoX01zU0RUMGU5cWQ3eEhKbmJFV3YzSGRNOEZsTDVsTGQyeEE0ZXRhMlV4X2g0ZFAtWUlMcHF4Q2dBeUg4bWxBeGxuYWVGdkhsM0MyYkFxTnFRVWNxeFR1Z3F5NjFNdW9ZZzZMMmtOOWtmRlVNZS15VE5VbFMw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkpxWjhTWG5yaE9jV0VIajBSSzBJMGRoX01zU0RUMGU5cWQ3eEhKbmJFV3YzSGRNOEZsTDVsTGQyeEE0ZXRhMlV4X2g0ZFAtWUlMcHF4Q2dBeUg4bWxBeGxuYWVGdkhsM0MyYkFxTnFRVWNxeFR1Z3F5NjFNdW9ZZzZMMmtOOWtmRlVNZS15VE5VbFMweHYwa0FDQVczX1k0N0g1WmRXbw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "14/08/2026 06:03"
       }
     },
     {
@@ -793,28 +929,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "titulo_evento": "Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid Iran War Strain - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHZlYUkzWG1OQmhuZEF6ZzExVTJPN3NFUWIwTjJDRDg0OFRMTlMyQUYtZ2s4MzNnbDBhX1BQVGI1TDdIbVpiQmVVWlNwdFhsckZ4Uk11X2FYNnd1SDlpd3F4Mk85WEZrN3A0RFh4S2ZCX1lFTVcyRURocVRxTTFWSm5TZ0tJQTJ3RGhreFcycmNNSGRR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHZlYUkzWG1OQmhuZEF6ZzExVTJPN3NFUWIwTjJDRDg0OFRMTlMyQUYtZ2s4MzNnbDBhX1BQVGI1TDdIbVpiQmVVWlNwdFhsckZ4Uk11X2FYNnd1SDlpd3F4Mk85WEZrN3A0RFh4S2ZCX1lFTVcyRURocVRxTTFWSm5TZ0tJQTJ3RGhreFcycmNNSGRRaFFGWHA0WDVEVnFVaFBEWjBfZThSMVlQZ3ZfcmFZWXhnN1ZabzZMTm1DU296U0lQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 02:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran rapidly rebuilding ballistic missile arsenal after war, stunning Israel - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1XRVpSUlR3a1dveFM2VE91bEZ1YnVfeHdUY2p6S2RtSS1fbjk4Tlk4WFNkR25CZnhHTGVLUEZGd1RCNlhSc3h6aVJUempVeXhzY19nLUVwc1F4R1BnTmZ4VF9rUWVzWmdSSUY4WHln?oc=5\" target=\"_blank\">Iran rapidly rebuilding balli...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XRVpSUlR3a1dveFM2VE91bEZ1YnVfeHdUY2p6S2RtSS1fbjk4Tlk4WFNkR25CZnhHTGVLUEZGd1RCNlhSc3h6aVJUempVeXhzY19nLUVwc1F4R1BnTmZ4VF9rUWVzWmdSSUY4WHln?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 17:38"
+        "data_noticia": "13/08/2026 20:01"
       }
     },
     {
@@ -827,79 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Democrats turn Iran war costs against Trump as midterms near - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRUwtUHA0dzh0S1lGMjlleGF6Q2VqWVFLclhMUGRyQ0Z4Z2ZTemxOM1VOV3lhaTJwVkFmVTByakFQNmhubl95UFRZR3d2LWoxdlE?oc=5\" target=\"_blank\">Democrats turn Iran war costs against Trump as midterms near</a>&n...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRUwtUHA0dzh0S1lGMjlleGF6Q2VqWVFLclhMUGRyQ0Z4Z2ZTemxOM1VOV3lhaTJwVkFmVTByakFQNmhubl95UFRZR3d2LWoxdlE?oc=5",
+        "titulo_evento": "The Iran war’s mental toll on US sailors - vox.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVJCMlh0TDFzN3B0TzVrNWZvTUdsOVdaTFJzbXFxVnFhUkZpQllZdGg2aDFDZGRhMFZCcW1QM2s2LUk4REUtTm9JSUdWNFFSaVIwdW5NOXdRSHpQY01nR0JNc19mNnJmbUVmejgxekxxTWJLM0s3SEh6VTBfdzdUdlFYSDBBaWNrdkNrd01UUnZ3LUNN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVJCMlh0TDFzN3B0TzVrNWZvTUdsOVdaTFJzbXFxVnFhUkZpQllZdGg2aDFDZGRhMFZCcW1QM2s2LUk4REUtTm9JSUdWNFFSaVIwdW5NOXdRSHpQY01nR0JNc19mNnJmbUVmejgxekxxTWJLM0s3SEh6VTBfdzdUdlFYSDBBaWNrdkNrd01UUnZ3LUNNdXJRRHdTcmtSR3VkQndVNjlubEpDSzZqTWNfbTYwUDRPQWxX?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 03:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World War Two memorial in Washington vandalized with bubbles and graffiti - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObDQxWXZNVFZOQVFVeTNWX2hPaXNnbjkxQ01KbGZhY0hCSVlsd2NSU1pPdkVPSTk4MnhsbFdOWkZpanhBbWV1MXY1elJYeHFMSjZybmpJNmNZWVJ0d0VXSkVvbTY2SzVwYWwzbG9CcTJ5WFlCbWcxQXVjY1lJM2RCZlJXWHdMcmp0Z29FVHBUcGNRMXlh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDQxWXZNVFZOQVFVeTNWX2hPaXNnbjkxQ01KbGZhY0hCSVlsd2NSU1pPdkVPSTk4MnhsbFdOWkZpanhBbWV1MXY1elJYeHFMSjZybmpJNmNZWVJ0d0VXSkVvbTY2SzVwYWwzbG9CcTJ5WFlCbWcxQXVjY1lJM2RCZlJXWHdMcmp0Z29FVHBUcGNRMXlhNDZ6NGw4SURUeDhlamNSN1VocHpqQkNoaWlqSg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "13/08/2026 22:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen faces highest risk of returning to war since 2022 truce, UN warns - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWFEeGdBYlhyWWFOejAwMW4zZXRLNXpiMHF4TWw1RjBCNDBOcmVReDk1S2RPd1hKQ2MxYTlDckpyUlY5bHBXWUowZHAwWGU5UDljbDlrOTlVYlFLRzZiSzBuTGJoSGVpMWt0OG5pQUpMb25VbVZIdFpGdlBkNmNWNWdhVllhY3B6X181WkpvT0w2SXNGUGFqOENaT29hcFFkSDJFTFdhb215UXlDdWtPaNIBtgFBVV95cUxPR0QtNms3V0dBMHhzWnViR3BUX0JkeThQLVhYYkR4WGZNVEl0Sjd2YVlzQjVyNW82T1RFYm95aXlONlUzOVYtOFQyN3lPSmNRVmwxdmcwRFRJdjFPTnFjOHBPcXlreHNkYTl5UFhPQ0NQZkY5SlhYS2hSU21LTmtVV0lyVktBTE1lVmdFaDFFRzlfSm9lc2VBYzFpZllRTW9YUTEtcUh1Y0tXZjUxNHJYa0gzb1lfUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "14/08/2026 00:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s High-Tech Boom Seen Failing to Halt Slowdown of Economy - bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTVqSk1WenVOT2xLSDZINFExcE1BZ2Faektlam5uakR1ZmlHNVltdnVYblByY3R3QVdhSno3OWdNRUNlUENfUHRPU2xTZ0pwM3BNdGpkbGpuS2tsSk1HU2E2MnVtek81ZDRMWW1uU3ZvcjB2UklYdU1faEQ2MHhCOEczeThmM1hQYll1WlhBYUFFNEk5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTVqSk1WenVOT2xLSDZINFExcE1BZ2Faektlam5uakR1ZmlHNVltdnVYblByY3R3QVdhSno3OWdNRUNlUENfUHRPU2xTZ0pwM3BNdGpkbGpuS2tsSk1HU2E2MnVtek81ZDRMWW1uU3ZvcjB2UklYdU1faEQ2MHhCOEczeThmM1hQYll1WlhBYUFFNEk5czJzaWlSZG95QUZDTnIwNE9lNFFvS29MbWhHelk1WFI?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "14/08/2026 01:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China has wrested control of oil markets from OPEC - The Economist",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 08:45"
+        "data_noticia": "13/08/2026 21:55"
       }
     },
     {
@@ -924,6 +975,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China has wrested control of oil markets from OPEC - The Economist",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXpTVktFVzVqbmxPOVpHYkZ1RW04N08wbHFBRjlYUDdDN0dKbzNfSEd3VDZOZ2J5TXUzWDBWWFBnczBiQ19jY1M3YWNOTjREdXBMaU1PUTNtbU15d3VrWkw5QUhaejFxN0ZyU3FydjYtblg1eXRXQ18tRmMyakhZcURjUERSeTZIZ2ZGR3l3YVhSQWFTYzhoN0s5cw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "13/08/2026 08:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "AI boom is starting to show in UK economy's performance - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "13/08/2026 12:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -941,16 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "13/08/2026 06:13"
+        "titulo_evento": "Editorial | As China deepens reforms, Zhu Rongji’s legacy serves as an inspiration - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFVmd29jTTdmNG1KN1lUb3lpRHd1ODdoQVBIYmV0YjhrTmY5bHpOb0ZuWDVPZ3VBWnluMHB3XzJFRGtuVjBmN281WTVJVWg2cDh0SDZvNExaSGswcUZtX1hIT0NkVkFEV0VHc2ZTbkJ4cENlTHZrTzF4MmZ1dFRCa1dmUzRfMjZRanhmdUxYVlExUWZl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFVmd29jTTdmNG1KN1lUb3lpRHd1ODdoQVBIYmV0YjhrTmY5bHpOb0ZuWDVPZ3VBWnluMHB3XzJFRGtuVjBmN281WTVJVWg2cDh0SDZvNExaSGswcUZtX1hIT0NkVkFEV0VHc2ZTbkJ4cENlTHZrTzF4MmZ1dFRCa1dmUzRfMjZRanhmdUxYVlExUWZlSWljdkQ4RGFzd0RkcTM5ak9Cd2N4WWhDQm16dUVB0gGyAUFVX3lxTE5lYy1kVUdTTG9aRVpHTHN3cTdDY3BxQWtvbWdEbHhTZnY4ZmswLTFSTHVEMW0yaXFsMHhXMGtmeU9JVVZYVkM4ZFJXLTRXZVpsZDdyaFgycEp2Rko0VkxwRlBZOXJPRi10b3Q3VEZ1anFhSlZVNFN6T05kWFdEcGozVTBpcTZKR2dfZ2hoeGlESVN5VGRBRG9jUURuejY5YXVWQUtUU2ZNb1JKT21BWWwyMWc?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "13/08/2026 23:15"
       }
     },
     {
