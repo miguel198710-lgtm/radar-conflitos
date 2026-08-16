@@ -23,6 +23,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+        "descricao": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/08/2026 13:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Belgium’s largest wildfire on record spreads towards German border",
+        "descricao": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/08/2026 12:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -96,40 +130,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-        "descricao": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "16/08/2026 04:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel strikes south Lebanon again as families flee north",
-        "descricao": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "16/08/2026 04:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
         "titulo_evento": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "descricao": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -186,6 +186,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "15/08/2026 20:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "South Lebanon: How will Israeli strikes affect negotiations?",
+        "descricao": "\nIsrael killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke...",
+        "url_fonte": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "16/08/2026 13:00"
       }
     },
     {
@@ -414,23 +431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Can a giant Madonna help slow secularization in Poland?",
-        "descricao": "Europe's largest statue of the Virgin Mary will be inaugurated on Saturday in the Polish village of Konotopie. What will the monument mean for the village it towers over — and for the Catholic faith in Poland?",
-        "url_fonte": "https://www.dw.com/en/can-a-giant-madonna-help-slow-secularization-in-poland/a-78369179?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "14/08/2026 12:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.405,
           52.52
         ]
@@ -458,23 +458,6 @@
         "url_fonte": "https://www.politico.eu/article/us-threatens-eu-over-transatlantic-green-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Economia (Politico Europe)",
         "data_noticia": "14/08/2026 15:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Le Conseil constitutionnel censure la loi interdisant les réseaux sociaux aux mineurs",
-        "descricao": "PARIS — Le Conseil constitutionnel a rendu ce vendredi sa décision sur la loi interdisant les réseaux sociaux aux mineurs et a annoncé censurer son article 1er, qui acte ladite interdiction pour les moins de 15 ans. De fait, la décision rend caduque ...",
-        "url_fonte": "https://www.politico.eu/article/le-conseil-constitutionnel-censure-la-loi-interdisant-les-reseaux-sociaux-aux-mineurs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "14/08/2026 13:10"
       }
     },
     {
@@ -516,6 +499,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What the Iran War Has Cost America So Far - migflug.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTm0xaFp3cjRUOTR4TVJHSWN1TzdOTk93ZG1PdmhJOVhPdW9DX01oNTUzbDNtQS0wVnVNbEljTkNhZHN2NUJlb1BsYUhtSG9kMW5KS1UwQ050QmJWWl9DNHoweEpLbWh6RW96TVdna2lLUHA5WDR0SUxVcEVuZHpYaTdndEljVUxPTm4tQ1hNWmtFUQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTm0xaFp3cjRUOTR4TVJHSWN1TzdOTk93ZG1PdmhJOVhPdW9DX01oNTUzbDNtQS0wVnVNbEljTkNhZHN2NUJlb1BsYUhtSG9kMW5KS1UwQ050QmJWWl9DNHoweEpLbWh6RW96TVdna2lLUHA5WDR0SUxVcEVuZHpYaTdndEljVUxPTm4tQ1hNWmtFUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 12:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -525,7 +525,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMk5oem5hWUk0WHRRT1RZMDlxcDdiOHEtcm5zNktkZWNyeU8zSFJ5TG5fcWo5dUtZMjJWaS1PX1pzNnc3VU5KbHJnSVRIQU8tM1Z0ckFwaE5pRzBoS2ZEYmtTaE1GWHVXR1hFV1ZwdG9yNnlzZVkyQjh6NUFiMWM?oc=5\" target=\"_blank\">As Ira...",
         "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMk5oem5hWUk0WHRRT1RZMDlxcDdiOHEtcm5zNktkZWNyeU8zSFJ5TG5fcWo5dUtZMjJWaS1PX1pzNnc3VU5KbHJnSVRIQU8tM1Z0ckFwaE5pRzBoS2ZEYmtTaE1GWHVXR1hFV1ZwdG9yNnlzZVkyQjh6NUFiMWM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 09:31"
+        "data_noticia": "16/08/2026 09:02"
       }
     },
     {
@@ -533,16 +533,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "MQ-9 Reaper Losses: 45 Drones Gone in the Iran War - MiGFlug",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1JPUlpSRi1Ock1FSmFOeGNUM1lyQkJRZVZmajMyb1liWDVTMU8wc2ZfNXNESGZrWk9uVDh2V1pQMDRtR3ltb3JXTUs1REVPajgxcTFrcjYzMDNVU1hjQnhJeVdBb2ZxRl9ibzZmSklhd2U4SDNwMjlXZUFoREtRZDh1ay15MnlpZko3aA?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1JPUlpSRi1Ock1FSmFOeGNUM1lyQkJRZVZmajMyb1liWDVTMU8wc2ZfNXNESGZrWk9uVDh2V1pQMDRtR3ltb3JXTUs1REVPajgxcTFrcjYzMDNVU1hjQnhJeVdBb2ZxRl9ibzZmSklhd2U4SDNwMjlXZUFoREtRZDh1ay15MnlpZko3aA?oc=5",
+        "titulo_evento": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 09:22"
+        "data_noticia": "16/08/2026 12:32"
       }
     },
     {
@@ -567,57 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Live - Iran’s top negotiator declares victory in war as army chief offers bounty for US troops - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcDlqMmlLYS01U01TVHRFdXVHU01jemhoYm9yQXo3cFlwN2lYZzF0a0dDaXdHaWwxRkp6YUhKX1YwYjlxQVpNVlltTFl5cHIwcWw5WGpEcDFBMC1OZ3c?oc=5\" target=\"_blank\">Live - Iran’s top negotiator declares victory in w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcDlqMmlLYS01U01TVHRFdXVHU01jemhoYm9yQXo3cFlwN2lYZzF0a0dDaXdHaWwxRkp6YUhKX1YwYjlxQVpNVlltTFl5cHIwcWw5WGpEcDFBMC1OZ3c?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 11:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Digging Below the Death Zone: The Underground War in Ukraine - Modern War Institute -",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHdoX0pKSjJXam5GcFlFcG1jYmtHbFdXdGNZY01JbGxZMVVVX09DZUZDWkszcmV1X1ZEVFVvaXpjTXJTVG9YMHI5QzVEaERhOHc4RFhLSzFscHpDeVczMGxraVBfUWpnZ01vVWRqdnk4NnV3dTdSNDBMMllhSGtvR2JlUmt6eV9YejRDVGk1cw?oc=5\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHdoX0pKSjJXam5GcFlFcG1jYmtHbFdXdGNZY01JbGxZMVVVX09DZUZDWkszcmV1X1ZEVFVvaXpjTXJTVG9YMHI5QzVEaERhOHc4RFhLSzFscHpDeVczMGxraVBfUWpnZ01vVWRqdnk4NnV3dTdSNDBMMllhSGtvR2JlUmt6eV9YejRDVGk1cw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 01:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVnMEVrSHBwSm82R1dCRy11YjV6NVpsLXRva2IyVmlOVGUwTzZPd1BqVE1pU3k4OUhid1JnMHFDSEE4bXExM3E3bWxHbW52ZHM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 03:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -635,6 +584,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - Scripps News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVE9CY0RRN3lrcWxfNndhYkFERjFZdDM2RmZJUE9BcXVsZ3I5c2cxOFBGQUpLTXpXWklNdFRuV0JUajhmQWJKaml1SHVaRzNySmt3RUJ3M3lHeUFrOGNlV2xyc1ZRd1R3b2lFc1JRNktFNXFKVmdRaHFCMlF1Qk1HNDdVQlZOcTRBY3M1UWVGWFRFNGxx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVE9CY0RRN3lrcWxfNndhYkFERjFZdDM2RmZJUE9BcXVsZ3I5c2cxOFBGQUpLTXpXWklNdFRuV0JUajhmQWJKaml1SHVaRzNySmt3RUJ3M3lHeUFrOGNlV2xyc1ZRd1R3b2lFc1JRNktFNXFKVmdRaHFCMlF1Qk1HNDdVQlZOcTRBY3M1UWVGWFRFNGxxdExxQnBEa0RDUXUtUHd2YnZCLWNPYUYxclB1Y3BQQzJLQjVtOUcxeEczSVR0LTZxanp6OFVYSXJ2TDJkS3pMMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 12:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -645,6 +611,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "16/08/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "MQ-9 Reaper Losses: 45 Drones Gone in the Iran War - migflug.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1JPUlpSRi1Ock1FSmFOeGNUM1lyQkJRZVZmajMyb1liWDVTMU8wc2ZfNXNESGZrWk9uVDh2V1pQMDRtR3ltb3JXTUs1REVPajgxcTFrcjYzMDNVU1hjQnhJeVdBb2ZxRl9ibzZmSklhd2U4SDNwMjlXZUFoREtRZDh1ay15MnlpZko3aA?oc=5\" tar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1JPUlpSRi1Ock1FSmFOeGNUM1lyQkJRZVZmajMyb1liWDVTMU8wc2ZfNXNESGZrWk9uVDh2V1pQMDRtR3ltb3JXTUs1REVPajgxcTFrcjYzMDNVU1hjQnhJeVdBb2ZxRl9ibzZmSklhd2U4SDNwMjlXZUFoREtRZDh1ay15MnlpZko3aA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 09:22"
       }
     },
     {
@@ -674,11 +657,79 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXQwYXBuMVVvbm9JcFRKQUNxYzR1TDBhdGJSX0I0TUhWTlQ2Tk9ZbDdnNXd6a3RHYzFfRHRvUUJhSkpISmp5SjRWNnlGekREZkpHMXJJbG11cDdxTVV2V0ZGRHd5OTlYdVZXQ1BySjFOMDFqS0lsWC1JZVlZTHB4d1lfVTg4QVJ0LTYzWi1odEhxalNP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXQwYXBuMVVvbm9JcFRKQUNxYzR1TDBhdGJSX0I0TUhWTlQ2Tk9ZbDdnNXd6a3RHYzFfRHRvUUJhSkpISmp5SjRWNnlGekREZkpHMXJJbG11cDdxTVV2V0ZGRHd5OTlYdVZXQ1BySjFOMDFqS0lsWC1JZVlZTHB4d1lfVTg4QVJ0LTYzWi1odEhxalNPSko2WndETHhmTlBLclFwVTk3T243cjjSAbABQVVfeXFMTW9LNDFIS290d1otcXpjbnFseHlWbjNUeFVrYXVkdFFOcllGYXQ0ZnBoVlJrMjJtZTQtTU5scVJEYzBKVEhZbXRwcFpxT0QxaTdxSnZUWWsyUENwdS1jTXNFcHZZWjlFOWNuNzRtWHFmZGJ0VHVoM3VGSmd0aWQtQkRRdkZvUTJTRFNnaGJJNHZwSXA5dE85WkgxbVRCbkRmVG55bUltWjBGZnA1Y3pDcWE?oc=5",
+        "titulo_evento": "Ukraine’s Flamingo Strikes a Soyuz Rocket Plant - migflug.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpOOWItbUI2UFc2Q0xwYkdXYk9ELXJ4T3o3dzIyZ3ZjSTVWNFd4a3U1UUhkOUR3T3ZlREYxWWlwMnl2dGcxMGNOdEJDb2VVN1U1enJ0Zm5xX2Flb1NNeHpiemowMHNLVy12R3FtWmVzTjMwV05zSjROcG0wWGxNcGJKQ3dHZw?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpOOWItbUI2UFc2Q0xwYkdXYk9ELXJ4T3o3dzIyZ3ZjSTVWNFd4a3U1UUhkOUR3T3ZlREYxWWlwMnl2dGcxMGNOdEJDb2VVN1U1enJ0Zm5xX2Flb1NNeHpiemowMHNLVy12R3FtWmVzTjMwV05zSjROcG0wWGxNcGJKQ3dHZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 09:15"
+        "data_noticia": "16/08/2026 10:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live - Iran’s top negotiator declares victory in war as army chief offers bounty for US troops - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcDlqMmlLYS01U01TVHRFdXVHU01jemhoYm9yQXo3cFlwN2lYZzF0a0dDaXdHaWwxRkp6YUhKX1YwYjlxQVpNVlltTFl5cHIwcWw5WGpEcDFBMC1OZ3c?oc=5\" target=\"_blank\">Live - Iran’s top negotiator declares victory in w...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcDlqMmlLYS01U01TVHRFdXVHU01jemhoYm9yQXo3cFlwN2lYZzF0a0dDaXdHaWwxRkp6YUhKX1YwYjlxQVpNVlltTFl5cHIwcWw5WGpEcDFBMC1OZ3c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 11:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVnMEVrSHBwSm82R1dCRy11YjV6NVpsLXRva2IyVmlOVGUwTzZPd1BqVE1pU3k4OUhid1JnMHFDSEE4bXExM3E3bWxHbW52ZHM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Digging Below the Death Zone: The Underground War in Ukraine - mwi.westpoint.edu",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHdoX0pKSjJXam5GcFlFcG1jYmtHbFdXdGNZY01JbGxZMVVVX09DZUZDWkszcmV1X1ZEVFVvaXpjTXJTVG9YMHI5QzVEaERhOHc4RFhLSzFscHpDeVczMGxraVBfUWpnZ01vVWRqdnk4NnV3dTdSNDBMMllhSGtvR2JlUmt6eV9YejRDVGk1cw?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHdoX0pKSjJXam5GcFlFcG1jYmtHbFdXdGNZY01JbGxZMVVVX09DZUZDWkszcmV1X1ZEVFVvaXpjTXJTVG9YMHI5QzVEaERhOHc4RFhLSzFscHpDeVczMGxraVBfUWpnZ01vVWRqdnk4NnV3dTdSNDBMMllhSGtvR2JlUmt6eV9YejRDVGk1cw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 01:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel Economy Rebounds After Contraction Sparked By Iran War - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDlaSkVUX3l6aHdBR1ZhLTVBcHJ1dXdOalQ4YzRKNDA5QmJFbzJmckY4NC1selFBal9ScFZaUW5QSTd0SGY5YVppakhuNlBxVF81OTRjSC04c3hYTEpsM0REdks4clViRlVDQ3hxWXZuc2pOUWhNLWpxc01fYV93ZVpnRHd0c2xQTmw5ZUlySTE3cjgt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDlaSkVUX3l6aHdBR1ZhLTVBcHJ1dXdOalQ4YzRKNDA5QmJFbzJmckY4NC1selFBal9ScFZaUW5QSTd0SGY5YVppakhuNlBxVF81OTRjSC04c3hYTEpsM0REdks4clViRlVDQ3hxWXZuc2pOUWhNLWpxc01fYV93ZVpnRHd0c2xQTmw5ZUlySTE3cjgtelZhZVRvYUJ3azdzd0t4dVdlcVdWT2tSdTBJVGxB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 12:13"
       }
     },
     {
@@ -708,11 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine could strike Russia with domestic ballistic missiles in 3 to 6 months, says Ukraine's former defense minister - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
+        "titulo_evento": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXQwYXBuMVVvbm9JcFRKQUNxYzR1TDBhdGJSX0I0TUhWTlQ2Tk9ZbDdnNXd6a3RHYzFfRHRvUUJhSkpISmp5SjRWNnlGekREZkpHMXJJbG11cDdxTVV2V0ZGRHd5OTlYdVZXQ1BySjFOMDFqS0lsWC1JZVlZTHB4d1lfVTg4QVJ0LTYzWi1odEhxalNP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXQwYXBuMVVvbm9JcFRKQUNxYzR1TDBhdGJSX0I0TUhWTlQ2Tk9ZbDdnNXd6a3RHYzFfRHRvUUJhSkpISmp5SjRWNnlGekREZkpHMXJJbG11cDdxTVV2V0ZGRHd5OTlYdVZXQ1BySjFOMDFqS0lsWC1JZVlZTHB4d1lfVTg4QVJ0LTYzWi1odEhxalNPSko2WndETHhmTlBLclFwVTk3T243cjjSAbABQVVfeXFMTW9LNDFIS290d1otcXpjbnFseHlWbjNUeFVrYXVkdFFOcllGYXQ0ZnBoVlJrMjJtZTQtTU5scVJEYzBKVEhZbXRwcFpxT0QxaTdxSnZUWWsyUENwdS1jTXNFcHZZWjlFOWNuNzRtWHFmZGJ0VHVoM3VGSmd0aWQtQkRRdkZvUTJTRFNnaGJJNHZwSXA5dE85WkgxbVRCbkRmVG55bUltWjBGZnA1Y3pDcWE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 02:18"
+        "data_noticia": "16/08/2026 09:15"
       }
     },
     {
@@ -720,118 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW93d2d5UGpOUm1INzFUdlpuNF92MkNaTFVDVjRaYWpFel9EQkNhN1N6VmFRV1ZGOWw1SnYydnpPMVVabGhMZ0FZRThrblNKY005RGc5UHNuNFVpUzY1UnRZeFg4VndlVk5QMlZ3NVlHMld6M29tRmx1aEVLdmdxRjBPWkNuS1VaNC1HYkctMFprZjZoVWZHUjU4a0xtcWxkWUZoYWRkanE?oc=5",
+        "titulo_evento": "Opinion | US-China tech war is coming for AI’s plumbing - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3h3MUJSM0gzSThXeFFWQl94U2F4cHJ2Y1Uyd3hOZERxNmZZNzBSeExpSjdZMjB5cnBtMVhBUWpCUG50bW5kMXJjeXNadUN3Tk1yaEdpeVNhVnhBZEhfRmlvNThBUTY2R3J1NV91TG1oSHgxZHlZV2FNa2tSdDZnUXdYdXJodGNPQl8wR3d0SU5zdUdONm1fZGl4a2TSAZwBQVVfeXFMTWYwaXBWVUwxOEdJanFuOEp2ZGZJQndKeFI3VnZSZ2p3OHZGZGxQOVNrTnRwZTlWaXFPQXBOMmhNbE5Gc2hGUDdGQXdiWTZsZnBlcjFGR3NpWkpwc05iSVdFMjhOQnpvTjlCQXhaTkU3WkcwaWt5TC1TWUlrbjdEU2MzbnF6OHRDQS1VTVNJTG9Rd1g4SW1PZHNUaUt5?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 11:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel Economy Rebounds After Contraction Sparked By Iran War - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDlaSkVUX3l6aHdBR1ZhLTVBcHJ1dXdOalQ4YzRKNDA5QmJFbzJmckY4NC1selFBal9ScFZaUW5QSTd0SGY5YVppakhuNlBxVF81OTRjSC04c3hYTEpsM0REdks4clViRlVDQ3hxWXZuc2pOUWhNLWpxc01fYV93ZVpnRHd0c2xQTmw5ZUlySTE3cjgt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDlaSkVUX3l6aHdBR1ZhLTVBcHJ1dXdOalQ4YzRKNDA5QmJFbzJmckY4NC1selFBal9ScFZaUW5QSTd0SGY5YVppakhuNlBxVF81OTRjSC04c3hYTEpsM0REdks4clViRlVDQ3hxWXZuc2pOUWhNLWpxc01fYV93ZVpnRHd0c2xQTmw5ZUlySTE3cjgtelZhZVRvYUJ3azdzd0t4dVdlcVdWT2tSdTBJVGxB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 10:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5\" target=\"_blank...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 10:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Canada Arms Its F-35s With the Joint Strike Missile - MiGFlug",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxOOWQtYjNkSG9yTmdheFN0Y0RUYXZGd2ZiY3NhclB2ZUZKWVl4ejlPZzRYNTU1M0dxNkM0RkY4aEh2ZHlVVTlKc2hMaktQQzNwMWNMejZscFA2RUVpVWlBeVFpc0ZYbl9FYlItVURfOTlELUl1eEZDNVFubFQ0Y3FUUWU1bnZuOVJmNHVtNEZ5Mmd3UFB6...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOOWQtYjNkSG9yTmdheFN0Y0RUYXZGd2ZiY3NhclB2ZUZKWVl4ejlPZzRYNTU1M0dxNkM0RkY4aEh2ZHlVVTlKc2hMaktQQzNwMWNMejZscFA2RUVpVWlBeVFpc0ZYbl9FYlItVURfOTlELUl1eEZDNVFubFQ0Y3FUUWU1bnZuOVJmNHVtNEZ5Mmd3UFB6bC10MTEteVlGeTkwZGJ4V3RwTEN6MFcwWG5oTWd0bHMtNHpmU2MzbHRpU3ZuNEJKM3Vra2oxU0g1SEFnempoUWxOSGdrajZ4YlVERS1SeWRob0ZSWkdBTGJmY3ROWXBZMW02OWs1U3lKcVN4bzZ6YzVoZVR3c052cVlvMzVoSXZUajg4ZDhsWnN3c2FaN3lpUjZEdFZjYk5oZFhZb3ZQODFyS3hXaVZvWmNlcUVKd1UtcFQ3UVlkdkJmWGk2ZlNtbzNtX2VWbDU2dFhPWXNqbmxlT2tDa3htWExwSm4yQUFTNWdqaDRMRWVn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 10:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine launches one of its largest attacks of war - dw.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzJsLVduTmNoNFdhOHBaMkJMWkctQlo5aFVDVS14Y09Yai0tcmNlcmVQdFBCTkZJV1B6RXN3RHFUTWViR255QmpHdVhwb05aWmU1TXRyOG1sRzViRENPOGxNdDVFZFMtQVB4SXhQMmxmaWF0eG5RdTRPUV85Sy1BM2NISVE0Yk5CZlQ00gGLAUFVX3lx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzJsLVduTmNoNFdhOHBaMkJMWkctQlo5aFVDVS14Y09Yai0tcmNlcmVQdFBCTkZJV1B6RXN3RHFUTWViR255QmpHdVhwb05aWmU1TXRyOG1sRzViRENPOGxNdDVFZFMtQVB4SXhQMmxmaWF0eG5RdTRPUV85Sy1BM2NISVE0Yk5CZlQ00gGLAUFVX3lxTE51T3VvcVFLeERya2pfTkdjYXZuNDlscUpPRFpWMlBQQ3A5SmVDTVVYLThRa01HX2pxR2tHYi1tMzhoV0dIcXVkUGFzQ0FJWlB6ZGZiQ1BaWldXaHNoT3NWb2k0TXFZVlJNeDN2dXV3czFuVWtGazlMVVBTdjdyTUtOV2ZreDhQN1JHOXc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 11:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia’s War Toll Mounts In Ukraine Amid A Possible Mobilization - Forbes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1VjNUREVHFYdGpkSElsbGFnREItLTUxV2JVNklyUjgzazFKT2Q1X1NtTXhwbGczYndVRjg1cngtRzhGRmFWMmt0enpBNkROY1dzWFQ0XzBFYUR3a0xOb0N4TFNNZk5EQVhucFRreWd4blA3T3g4Yjc5NVJDM1p1eldjdDJEUGFESFBnZjZBRzhxZElw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1VjNUREVHFYdGpkSElsbGFnREItLTUxV2JVNklyUjgzazFKT2Q1X1NtTXhwbGczYndVRjg1cngtRzhGRmFWMmt0enpBNkROY1dzWFQ0XzBFYUR3a0xOb0N4TFNNZk5EQVhucFRreWd4blA3T3g4Yjc5NVJDM1p1eldjdDJEUGFESFBnZjZBRzhxZElwRTh2azFfMTB1U3o1S1JYWFhCVGdZcExlQWZsVUI2Z3Atb3Ju?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine is attacking Wildberries, Russia’s Amazon, to bring the war into everyday life - calcalistech.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2R040cmZFTFR6Y2I5M2ZZTG42aDJVdHNsWnlRcWtRWWxMQjdxZGpHVDhNbFFEZUxscG8yV3ZKTTVMdkpNN2U4dkZoS05KWlB5aXRZMk11czV3azlDN2xFdjc5WnZwWTg?oc=5\" target=\"_blank\">Ukraine is attacking Wildberries, Russ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2R040cmZFTFR6Y2I5M2ZZTG42aDJVdHNsWnlRcWtRWWxMQjdxZGpHVDhNbFFEZUxscG8yV3ZKTTVMdkpNN2U4dkZoS05KWlB5aXRZMk11czV3azlDN2xFdjc5WnZwWTg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/08/2026 11:01"
+        "data_noticia": "16/08/2026 12:30"
       }
     },
     {
@@ -934,23 +883,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yNVl6VnhGQ3F4N2xzRDBOQmltbmgtTC05NFJpSjBORm0wOFhCODlyd09UUnBIel8xd0dOMTFaLXVTNWc4M0hXRDF1TzQtZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "15/08/2026 16:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Newsweek: Iran Has Scored a Complete Victory Over Trump - logos-pres.md",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFJwUlhoV2E3NzQxTTR1WHFvbEJOR1ZRT0tScWMzSUNlcnhTYkRwNzRyN0FzZU50RDNkaGFPUEx3RVluRlQ4RVFXS0VCOFNPWlRvNV9CWlZqWnhxeWVpeXRJWnd6SHNBOGlWVWlPLXZKWXdLLV9XR1IwemUweGI0S2Rrb2hwbTRtMUF5QjZ3?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFJwUlhoV2E3NzQxTTR1WHFvbEJOR1ZRT0tScWMzSUNlcnhTYkRwNzRyN0FzZU50RDNkaGFPUEx3RVluRlQ4RVFXS0VCOFNPWlRvNV9CWlZqWnhxeWVpeXRJWnd6SHNBOGlWVWlPLXZKWXdLLV9XR1IwemUweGI0S2Rrb2hwbTRtMUF5QjZ3?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "16/08/2026 07:24"
       }
     }
   ]
