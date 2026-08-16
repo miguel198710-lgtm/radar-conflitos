@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+        "descricao": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/08/2026 02:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -84,23 +101,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "15/08/2026 17:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "descricao": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "15/08/2026 15:50"
       }
     },
     {
@@ -317,6 +317,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+        "descricao": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
+        "url_fonte": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "16/08/2026 01:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
         "titulo_evento": "Lebanon says 11 killed in Israeli airstrikes",
         "descricao": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure.",
         "url_fonte": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss",
@@ -465,23 +482,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.9605,
-          23.6978
-        ]
-      },
-      "properties": {
-        "titulo_evento": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-shows-softbank-initiates-165615828.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -492,6 +492,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "15/08/2026 23:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Kyiv faces missile barrage after Zelenskyy targets Russian satellite network - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdMN2tQRU5NUmxGNDA3RFYzOXV0SUFoaFRZM2liX05GUThBNHkteXlCeWNNOWRUd0FfaXZrVlVHMHJWNjdfdEphUVBfR2lVOVdZUVJmRVRqak9KRllnLUcxWEFDN1A4NzhWRUJEZkdVY0xXRlE3OTBaT0NlN3R4X3NtREtxOGRuYWE4ZWUxVm9xVUVnMEVrSHBwSm82R1dCRy11YjV6NVpsLXRva2IyVmlOVGUwTzZPd1BqVE1pU3k4OUhid1JnMHFDSEE4bXExM3E3bWxHbW52ZHM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 02:22"
       }
     },
     {
@@ -521,11 +538,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
+        "titulo_evento": "State Department spokesperson on Iran war and U.S. visa revocations - npr.org",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi16bXlCYWRPenFuS3ZVblZvSGlMMF9LQkpkWURuUDY4UnR5RjUzTkpPeHFuR05sd0pOcXJfRmRlRVpUZ1pzZFNnLVZXLTMtX1VfNEhqRWpTQXZuaXZtbkgzeGZ4bmdKMWdrMUNKS2dpSEhTRGRsNkVwZk1wRDI4WFpjbGJNOXNFLVRoOUJPR3FiZGlD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi16bXlCYWRPenFuS3ZVblZvSGlMMF9LQkpkWURuUDY4UnR5RjUzTkpPeHFuR05sd0pOcXJfRmRlRVpUZ1pzZFNnLVZXLTMtX1VfNEhqRWpTQXZuaXZtbkgzeGZ4bmdKMWdrMUNKS2dpSEhTRGRsNkVwZk1wRDI4WFpjbGJNOXNFLVRoOUJPR3FiZGlDT3poOEZKdUQzT2VRc29yeHNhWTZFcEtEZmRISA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 21:09"
+        "data_noticia": "15/08/2026 21:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since start of war - New York Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0IwNDF4T3Q0bVBkOV8zMVJqSjdPbWc4VTY0TUowN1Y5SlNlSWg0RDB2ZlBiV055TEhnOUx5U1dDOVhERmNRWml4dE14ckc3VWt3eEFhaVo3V0NaM3lpYVlILUVOUmNaU2dySndiM05mdVNZQW82QmdSRlJzbmFwZFJPZ1VfRUV0cVdZaU9hTXJaZG1u...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0IwNDF4T3Q0bVBkOV8zMVJqSjdPbWc4VTY0TUowN1Y5SlNlSWg0RDB2ZlBiV055TEhnOUx5U1dDOVhERmNRWml4dE14ckc3VWt3eEFhaVo3V0NaM3lpYVlILUVOUmNaU2dySndiM05mdVNZQW82QmdSRlJzbmFwZFJPZ1VfRUV0cVdZaU9hTXJaZG1uVHVMTDhmQWFpSDhfMy0yeXNrOWswSGVnb1E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/08/2026 22:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian missile attack on Kyiv sparks fires, injures one, Ukraine officials say - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/08/2026 01:33"
       }
     },
     {
@@ -555,11 +606,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "State Department spokesperson on Iran war and U.S. visa revocations - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi16bXlCYWRPenFuS3ZVblZvSGlMMF9LQkpkWURuUDY4UnR5RjUzTkpPeHFuR05sd0pOcXJfRmRlRVpUZ1pzZFNnLVZXLTMtX1VfNEhqRWpTQXZuaXZtbkgzeGZ4bmdKMWdrMUNKS2dpSEhTRGRsNkVwZk1wRDI4WFpjbGJNOXNFLVRoOUJPR3FiZGlD...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSi16bXlCYWRPenFuS3ZVblZvSGlMMF9LQkpkWURuUDY4UnR5RjUzTkpPeHFuR05sd0pOcXJfRmRlRVpUZ1pzZFNnLVZXLTMtX1VfNEhqRWpTQXZuaXZtbkgzeGZ4bmdKMWdrMUNKS2dpSEhTRGRsNkVwZk1wRDI4WFpjbGJNOXNFLVRoOUJPR3FiZGlDT3poOEZKdUQzT2VRc29yeHNhWTZFcEtEZmRISA?oc=5",
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 21:20"
+        "data_noticia": "16/08/2026 00:35"
       }
     },
     {
@@ -567,16 +618,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since start of war - New York Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0IwNDF4T3Q0bVBkOV8zMVJqSjdPbWc4VTY0TUowN1Y5SlNlSWg0RDB2ZlBiV055TEhnOUx5U1dDOVhERmNRWml4dE14ckc3VWt3eEFhaVo3V0NaM3lpYVlILUVOUmNaU2dySndiM05mdVNZQW82QmdSRlJzbmFwZFJPZ1VfRUV0cVdZaU9hTXJaZG1u...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0IwNDF4T3Q0bVBkOV8zMVJqSjdPbWc4VTY0TUowN1Y5SlNlSWg0RDB2ZlBiV055TEhnOUx5U1dDOVhERmNRWml4dE14ckc3VWt3eEFhaVo3V0NaM3lpYVlILUVOUmNaU2dySndiM05mdVNZQW82QmdSRlJzbmFwZFJPZ1VfRUV0cVdZaU9hTXJaZG1uVHVMTDhmQWFpSDhfMy0yeXNrOWswSGVnb1E?oc=5",
+        "titulo_evento": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0FKRmt5NXhNbEFMTUhwUHJ3dExWSlJzc3NYTjR0MXhBUzdDX3R6c25OLTl6dEpJUWg1LWpKQkNKOVc0SV9rNFJWeDZTdnhlRWVtdHQ0S2JPR01GQ0FaLVd1blcwMVdzMkQ5eHZZdlAzLUVmQVoyWVNyTlltcVlsUzloUmxveTZLc0N0T24yQnRJalV2ZHhvZGJ5alZCYWhrWnZkYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 22:27"
+        "data_noticia": "16/08/2026 02:18"
       }
     },
     {
@@ -589,11 +640,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "titulo_evento": "Iran war: Trump to declare Hormuz US territory 'soon' - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV0pNazY0MnZNc3J0Q2JpLW5tRTlQX2hKU09PUklUTmptUWRld2tkS0VIRXZtMkJhMllOMDktYS1zTDFGeGFfc2dyWXBSeVd2dTRlZWlsTUhaOGVEdjhtYzJ5WllzWmlKMmhtTzRBalZ3YlIyY3d0OUxGQ1hVSHJUdF9VbldpOExzcUpsc3g4Z0h2WGNNelQwMjhtSk9GMm1aTFVnYdIBpAFBVV95cUxPS0dmcDNONktlSmNqZHNPTURJdlc2bUpxSHZmRXhtQnRCaVNIaGo5bExPdDFYUjRlMHhYRzRVLW9NVHhqX1UyVGhMUUVSQ0lldG5DeEs3Y2dUa3BsMjJra1ZPeTZUMkFseWdNR19WdS1IZ3ppdW02YndhcU5JbHN5QXlEZWU2b1RuWGsxME5vdnEtV3dVQjQ2cU9LMUt5NWNaZjFqNw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 21:39"
+        "data_noticia": "15/08/2026 15:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia Is Losing the War. The Numbers Prove It - Kyiv Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NWGVaeHBVbmRJSGQzZ1JDN0pYUFpCMlpkMFlaRnNkYmplR3FlTVZ4TnctTW1rU1dBVEhBckhXcGE5bmhsRk5TNTlJNV9ZZw?oc=5\" target=\"_blank\">Russia Is Losing the War. The Numbers Prove It</a>&nbsp;&nbsp;<font col...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NWGVaeHBVbmRJSGQzZ1JDN0pYUFpCMlpkMFlaRnNkYmplR3FlTVZ4TnctTW1rU1dBVEhBckhXcGE5bmhsRk5TNTlJNV9ZZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/08/2026 19:20"
       }
     },
     {
@@ -610,7 +678,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNT1lHZk1zNERISUZOUldXRWhoVVZxVXM2NC1OSjFEa2txLUdUeDRyOGtORmRrMDhRRWFraXptOXIwalViTk5jR1dYLS1ESUp0dmwtSnBYZEE0OXVkdlZOX3Q4aG1RLS1nM0NvOTdoSEpzZDlDVlJHQWJiaE5CTjNSaXhmVVAzRlBRNDZobWtEMmgwS0hJ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1lHZk1zNERISUZOUldXRWhoVVZxVXM2NC1OSjFEa2txLUdUeDRyOGtORmRrMDhRRWFraXptOXIwalViTk5jR1dYLS1ESUp0dmwtSnBYZEE0OXVkdlZOX3Q4aG1RLS1nM0NvOTdoSEpzZDlDVlJHQWJiaE5CTjNSaXhmVVAzRlBRNDZobWtEMmgwS0hJR1p2MzZPcDdfQQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 15:29"
+        "data_noticia": "15/08/2026 16:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "South Korea president proposes talks with Pyongyang to formally end Korean War - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXNpcmRLYmNmRWdKMWk2V3BsY0YtVGhlc3VSN2l2Wm9FQjFHNFNLOFdCLXZObzhvWlBxeWFndncyMEVFVzVERm5EMlRmZ3dYSWVlaTFPV18xVURkLXZEUEc1cnNGcTJIcEh1REpZN1NIZllPMDBObFVmM2k1X1M0UV9xT2lVUTNjQS1mbUx4ZFB0T3BV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXNpcmRLYmNmRWdKMWk2V3BsY0YtVGhlc3VSN2l2Wm9FQjFHNFNLOFdCLXZObzhvWlBxeWFndncyMEVFVzVERm5EMlRmZ3dYSWVlaTFPV18xVURkLXZEUEc1cnNGcTJIcEh1REpZN1NIZllPMDBObFVmM2k1X1M0UV9xT2lVUTNjQS1mbUx4ZFB0T3BVWFQxa3BRZjREYzVsS2FtdmhBOVZ6akVLdFRybkpuLUVkTEU0ZHV1X0IzZ1g4R3NuWjVN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/08/2026 15:39"
       }
     },
     {
@@ -628,74 +713,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb25qMGNZZUxmNGswOGlMRXdzbXJwT3NTTFU0SGRIcE1kcVdnb0RoWDJSeUFrbmFYenNTVXB5aEl5cFY0R3N1UTd6QnE3akNUcUxETDJKZ21XemNwVUdwd1hvOVhUNGM4V2kwRExSMFY2QU4zQUVzN1NWYmgtVHVENGpVQ1VFRWRZVWfSAY8BQVVfeXFMT2JUOXlvUHVpZmxmN1I3WVRfdm41VXhrNEQ0eHZNZUhJYmNGMFdxYnNRQVZQMDhOQmxiNU5BU2l2N3hja0JLWW01X1dfcUxybEJmeC1CcW9HZXF0MG5WRkk3MmUzSkFOakJKX1dnM0VhM0Z2WGM4RFNSTi1zSFRyLWNNeHVaTG1fZDdEWkQtN0U?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "15/08/2026 14:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "USS Abraham Lincoln's supply issues stem from Iran's Bahrain naval base attacks - report - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE53QUVLcVRzUUN2dWxhTWVneGJvM3JJRWZsYjdyMGdkWHI3VnVnOWs2YzlFT3E0dFZiT201czFHSktQSDJfVVpmQUxyMTdIdGtCV09BMFFQV1FLZ2Zk?oc=5\" target=\"_blank\">USS Abraham Lincoln's supply issues stem from Iran's ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53QUVLcVRzUUN2dWxhTWVneGJvM3JJRWZsYjdyMGdkWHI3VnVnOWs2YzlFT3E0dFZiT201czFHSktQSDJfVVpmQUxyMTdIdGtCV09BMFFQV1FLZ2Zk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 19:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran business leader admits U.S. blockade will inflict more economic damage than war - Fortune",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQldiOGpWX2dsSDJjYmxRYWRLclhpYXZiYjduR2czSXIxN1dWY21YNVJGUnc4Tjhub2h6SkFYYjVUYVVhSnBOVVFjNzlUZlpWNkNYYkV2cXA5bmNmLVRPLU90RU4tOVdGZEF2ZGNYTl9Da1R0c0NEQTI0WUNlazhzMHA3OGk5allSeHlOM1gtUmlTUjFV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQldiOGpWX2dsSDJjYmxRYWRLclhpYXZiYjduR2czSXIxN1dWY21YNVJGUnc4Tjhub2h6SkFYYjVUYVVhSnBOVVFjNzlUZlpWNkNYYkV2cXA5bmNmLVRPLU90RU4tOVdGZEF2ZGNYTl9Da1R0c0NEQTI0WUNlazhzMHA3OGk5allSeHlOM1gtUmlTUjFVZkd5WGttMA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 17:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Revenge is inevitable’: Iran ramps up propaganda war with violent billboards - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXFFNFVPOE9MWGFTNnVFWmhaTWZfOHcwRE5INXZWQUZBaFBpR3NkVWIwOEZwNkRnLUw5Ui1NdHFBSUFqM3I3WTZXZENld1hWRkxUMGZqOTZDc1BzRzd1RkU3UzdLODM0eEJ1TklvWDAyODVDS2hGa1F6azNkdUV3MUh3RGJsSU5SZVdWZ1Q0TWY3Mi1q...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXFFNFVPOE9MWGFTNnVFWmhaTWZfOHcwRE5INXZWQUZBaFBpR3NkVWIwOEZwNkRnLUw5Ui1NdHFBSUFqM3I3WTZXZENld1hWRkxUMGZqOTZDc1BzRzd1RkU3UzdLODM0eEJ1TklvWDAyODVDS2hGa1F6azNkdUV3MUh3RGJsSU5SZVdWZ1Q0TWY3Mi1qQ1hMWHI1dFFuaGV6VklySllPMFBDQ0lIeUE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ricketts speaks in Hastings, addresses Iran war and Senate race - KSNB",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1JGbXA0cDRSNWZUd3lEQm9nOXI4Q2JEOFhjY09Yb3RqSE5iOUU3SUc4dk55QldfVjJIYXJSem9LX0tXeGVQaUZmSXZyS0ZuSVhtbDVybnF4dGNhcXRhR1NTVjlzN292QzNRZkhUWEdyOWhfcGU0OW1wcElCWl9EWDZDWlJVSkRfWlZVYUtUcVpHX0NO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1JGbXA0cDRSNWZUd3lEQm9nOXI4Q2JEOFhjY09Yb3RqSE5iOUU3SUc4dk55QldfVjJIYXJSem9LX0tXeGVQaUZmSXZyS0ZuSVhtbDVybnF4dGNhcXRhR1NTVjlzN292QzNRZkhUWEdyOWhfcGU0OW1wcElCWl9EWDZDWlJVSkRfWlZVYUtUcVpHX0NOY2xMQXBn0gGuAUFVX3lxTE85ZG5xOWZkaDl1eVNkUXlaOEdGX2FWTjQweHRWM3pEV3hSekRLSHpxT3I0U21PcTJScDdXWFNHV2kxU00xaFBNRWlGbDdPNjhpVDNFc1E4QU41M0J1Mkxsdkx3bnpwU3hEUDg5UndrQkIwQXg4RTJuSkJYREVkdkhyV21fRWw4LWEybmVNTTdUWi1LRzlBYTJ2UHpMb0x5ekJ6Q1ZGNF8yNi1EazlyQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "15/08/2026 20:44"
       }
     },
     {
