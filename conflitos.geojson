@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.0152,
+          -9.19
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Torrential rains flood homes and roads across Lima, Peru",
+        "descricao": "Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "17/08/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s approval rating sinks to new low",
+        "descricao": "New poll found a majority of US citizens concerned about the US war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "17/08/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -572,7 +606,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Virgin threatens Eurostar’s London-Brussels monopoly with Eurotunnel route approval",
+        "titulo_evento": "Virgin challenges Eurostar’s London-Brussels monopoly with Eurotunnel route approval",
         "descricao": "The trains could start operating alongside Eurostar's service as of 2030.",
         "url_fonte": "https://www.politico.eu/article/virgin-trains-granted-rights-for-20-new-routes-from-london-to-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
@@ -686,23 +720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "See the Battlefield Innovations Reshaping the Russia-Ukraine War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVJydkptQUpoV0ZNeWZWUFVNZklJeEx5UkstdjlIdjl5SVItZm81S0htaUdBTUU0Y1lLUndJcVdUVXFlazE4aTdTR1kwOXZZRVJOTDdKWUxyR25GLUpFYVU2OWh2eXZqVkw2aFcxN2duV3NJVXhMRk1adEJPM1FHMkhhVEtxbUZDY3ZSLW41OE5KMGlv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVJydkptQUpoV0ZNeWZWUFVNZklJeEx5UkstdjlIdjl5SVItZm81S0htaUdBTUU0Y1lLUndJcVdUVXFlazE4aTdTR1kwOXZZRVJOTDdKWUxyR25GLUpFYVU2OWh2eXZqVkw2aFcxN2duV3NJVXhMRk1adEJPM1FHMkhhVEtxbUZDY3ZSLW41OE5KMGlvRmFKbU1HaWlIZERQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 17:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           51.389,
           35.6892
         ]
@@ -720,33 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "17/08/2026 19:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Restocking US missile interceptors will take years. China and Russia are watching. - The Christian Science Monitor",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VENnpvWUJBekRQaUtjM2lBVlRYWXQ2eGlpcmJyUzBrRjZRbXRiUTByanFZY1VkYU1HMG9kQ000NFl1NVgwbmlOaHhRdVBMczFRSVJScENFOVo0NUJTT0l1LV9vdDM1NE5oeHp2QlNvNXRJU3NVeTkzQi14SlFzWm5ZRDJ2SENfd2ptNVBmTFF6eDdw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VENnpvWUJBekRQaUtjM2lBVlRYWXQ2eGlpcmJyUzBrRjZRbXRiUTByanFZY1VkYU1HMG9kQ000NFl1NVgwbmlOaHhRdVBMczFRSVJScENFOVo0NUJTT0l1LV9vdDM1NE5oeHp2QlNvNXRJU3NVeTkzQi14SlFzWm5ZRDJ2SENfd2ptNVBmTFF6eDdwU1JJelhCSdIBqAFBVV95cUxQLXlfVlB2eHdJZFJ2aThMaUtxNU5SVmJNYjEyeGdiM1hDa092VV9XcDd2Nnd4R2RCc0FpeVRfYWpjNmxBbkV2MlhERFVhdE1sc1RETjRSZ0Q4RUlIYUZtemRqZ0J6UkhadFBuT1FOeW93SXpSNm5ERlktaE93d3lXNUg5ZE1kTjZRcmhuMUx4T05MR1JFbkt1QVV3S2JaTS1rLUk4YUo1bUs?oc=5",
+        "titulo_evento": "Inside Ukraine's War Robot Revolution - Business Insider",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTB6bkN0WjdUeklNS1Z1MGxSOVRjZVl5Rm9mdndGd09tZFdhdmtEdDZjUzNWcEFLdEE1Zzl1a1JtTkF0X1J0YmtWb3JnVElCZkJuWUdrTHJMQ1JsVWR4ek8tSm1ZMUlwczlfM3o2TFRLcUVldmZXYjk0dFZSd3UxVA?oc=5\" target=\"_blank\">Ins...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTB6bkN0WjdUeklNS1Z1MGxSOVRjZVl5Rm9mdndGd09tZFdhdmtEdDZjUzNWcEFLdEE1Zzl1a1JtTkF0X1J0YmtWb3JnVElCZkJuWUdrTHJMQ1JsVWR4ek8tSm1ZMUlwczlfM3o2TFRLcUVldmZXYjk0dFZSd3UxVA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 19:19"
+        "data_noticia": "17/08/2026 19:43"
       }
     },
     {
@@ -759,45 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Top Russian economist replaced after warning of economic costs of Ukraine war - CNN",
+        "titulo_evento": "Top Russian economist replaced after warning of economic costs of Ukraine war - cnn.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2tOalVfckdvMjF4M3ZLNi1fdlU2Z2xyYlBCTmtoNEJYbzVHTElqSll4U3BRb2RxaGZXWGVQMUpWdWFMUHptNFFQd3pseVh1dXRPWHdIa3Y1aE9XSXdUeHNUTlBTZ1BjTDNBS3dnRmFvd0JCWEhaeW9PWjlMenpzWnQzeEhhWC1OT0RjbGdaOW4wZw?o...",
         "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2tOalVfckdvMjF4M3ZLNi1fdlU2Z2xyYlBCTmtoNEJYbzVHTElqSll4U3BRb2RxaGZXWGVQMUpWdWFMUHptNFFQd3pseVh1dXRPWHdIa3Y1aE9XSXdUeHNUTlBTZ1BjTDNBS3dnRmFvd0JCWEhaeW9PWjlMenpzWnQzeEhhWC1OT0RjbGdaOW4wZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "17/08/2026 16:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "At least seven people killed in Ukrainian air attacks on Russia - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlZSRnlGb3hoRVlZaDFob2VjRFUxbjAtbzItb3hzT2RpZjlYRG5sQ2l5eG1tOXd3Z1hyNXloT09uMWFlRG9iTTRIcWZGbDhXNFNjMEV3bXFVa0NSbmdXVEFSQkV2d0xVMi1DZ0FPTnBSdTZhRzE4MGxpMi1BVmFrdHVoN1BXUXN6c3VxeEhmS25wbUgx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlZSRnlGb3hoRVlZaDFob2VjRFUxbjAtbzItb3hzT2RpZjlYRG5sQ2l5eG1tOXd3Z1hyNXloT09uMWFlRG9iTTRIcWZGbDhXNFNjMEV3bXFVa0NSbmdXVEFSQkV2d0xVMi1DZ0FPTnBSdTZhRzE4MGxpMi1BVmFrdHVoN1BXUXN6c3VxeEhmS25wbUgxZnQ1a3JTMHMtQlhOVDFrOV9TN0Nzc2VTTWpPemVsbTIyQdIBuwFBVV95cUxPOG8tTllpa1QtVGJnbllNTmdNanByU2Y5bXo2aXVzZ2w3ZVZpTWlTQUJYWHRtNzYyMmhfQ0R4ZFFYNHBMUjRfa1N5WUxhUXQxbTdndlVHNGZZNG93Zi10MkUzbk92c0dCR1VtWWVkTVdIN2RxNEtRVmFSa2UtWUN3cmZ4MzhOZGkyMHF3QzhsYUk3ZlhTcEVCVzJZdVNIVjFpUW1vX0Jzd2xrNDhIdzZ0ZW5hemVtZndDNGFB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 14:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Jon Ossoff calls Trump’s handling of Iran war ‘uniquely despicable’ in excoriating speech - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1Y2ZWllRVVyN0JmNk1vT1QzNVNaSnBYNFp1VENrUWxRaFljOFo4QkFOUGxkdnQwUlNXVzctV0NrR3Q0eDhGcHhXV3BBNlU2X2V1T1NobHRENjk5SnR6b0tteExFdG83Tm0xTFlPTmszb2NiVTF1Mm1lcTdSalBvMUhkSVdXdkdkQk5V?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1Y2ZWllRVVyN0JmNk1vT1QzNVNaSnBYNFp1VENrUWxRaFljOFo4QkFOUGxkdnQwUlNXVzctV0NrR3Q0eDhGcHhXV3BBNlU2X2V1T1NobHRENjk5SnR6b0tteExFdG83Tm0xTFlPTmszb2NiVTF1Mm1lcTdSalBvMUhkSVdXdkdkQk5V?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 17:05"
       }
     },
     {
@@ -822,16 +788,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "At least seven people killed in Ukrainian air attacks on Russia - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlZSRnlGb3hoRVlZaDFob2VjRFUxbjAtbzItb3hzT2RpZjlYRG5sQ2l5eG1tOXd3Z1hyNXloT09uMWFlRG9iTTRIcWZGbDhXNFNjMEV3bXFVa0NSbmdXVEFSQkV2d0xVMi1DZ0FPTnBSdTZhRzE4MGxpMi1BVmFrdHVoN1BXUXN6c3VxeEhmS25wbUgx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlZSRnlGb3hoRVlZaDFob2VjRFUxbjAtbzItb3hzT2RpZjlYRG5sQ2l5eG1tOXd3Z1hyNXloT09uMWFlRG9iTTRIcWZGbDhXNFNjMEV3bXFVa0NSbmdXVEFSQkV2d0xVMi1DZ0FPTnBSdTZhRzE4MGxpMi1BVmFrdHVoN1BXUXN6c3VxeEhmS25wbUgxZnQ1a3JTMHMtQlhOVDFrOV9TN0Nzc2VTTWpPemVsbTIyQdIBuwFBVV95cUxPOG8tTllpa1QtVGJnbllNTmdNanByU2Y5bXo2aXVzZ2w3ZVZpTWlTQUJYWHRtNzYyMmhfQ0R4ZFFYNHBMUjRfa1N5WUxhUXQxbTdndlVHNGZZNG93Zi10MkUzbk92c0dCR1VtWWVkTVdIN2RxNEtRVmFSa2UtWUN3cmZ4MzhOZGkyMHF3QzhsYUk3ZlhTcEVCVzJZdVNIVjFpUW1vX0Jzd2xrNDhIdzZ0ZW5hemVtZndDNGFB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘The Brink of War’ Review: When the U.S. and U.S.S.R. Came Together - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5\" target=\"_blank\">‘The Brink of...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 18:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "My Favorite Teacher Survived the War on Gaza But Didn’t Survive the “Ceasefire” - Truthout",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0tlTlhnVGlZaGc4Q25wcHRVUlRVQWZwSUlOWkFROWdYRmtLc1pFeGVXejdhR0JmWDZFNVRLYlhRUWozbERuS3F1RFgyUHozU3dZY2JXaUpRWHJZNzZOOGV4WU9uLUxNeFdFQzlaQUE3S1hwTHkwQ0tvMFZyZjdRblJYTGF4ZzNxbnJMVEROektMRG1x...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0tlTlhnVGlZaGc4Q25wcHRVUlRVQWZwSUlOWkFROWdYRmtLc1pFeGVXejdhR0JmWDZFNVRLYlhRUWozbERuS3F1RFgyUHozU3dZY2JXaUpRWHJZNzZOOGV4WU9uLUxNeFdFQzlaQUE3S1hwTHkwQ0tvMFZyZjdRblJYTGF4ZzNxbnJMVEROektMRG1xdjg1LTAwbEJXLTl4a3JEanh5R3pTcFE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 20:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Restocking US missile interceptors will take years. China and Russia are watching. - csmonitor.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXlfVlB2eHdJZFJ2aThMaUtxNU5SVmJNYjEyeGdiM1hDa092VV9XcDd2Nnd4R2RCc0FpeVRfYWpjNmxBbkV2MlhERFVhdE1sc1RETjRSZ0Q4RUlIYUZtemRqZ0J6UkhadFBuT1FOeW93SXpSNm5ERlktaE93d3lXNUg5ZE1kTjZRcmhuMUx4T05MR1JF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXlfVlB2eHdJZFJ2aThMaUtxNU5SVmJNYjEyeGdiM1hDa092VV9XcDd2Nnd4R2RCc0FpeVRfYWpjNmxBbkV2MlhERFVhdE1sc1RETjRSZ0Q4RUlIYUZtemRqZ0J6UkhadFBuT1FOeW93SXpSNm5ERlktaE93d3lXNUg5ZE1kTjZRcmhuMUx4T05MR1JFbkt1QVV3S2JaTS1rLUk4YUo1bUvSAagBQVVfeXFMUC15X1ZQdnh3SWRSdmk4TGlLcTVOUlZiTWIxMnhnYjNYQ2tPdlVfV3A3djZ3eEdkQnNBaXlUX2FqYzZsQW5FdjJYRERVYXRNbHNURE40UmdEOEVJSGFGbXpkamdCelJIWnRQbk9RTnlvd0l6UjZuREZZLWhPd3d5VzVIOWRNZE42UXJobjFMeE9OTEdSRW5LdUFVd0tiWk0tay1JOGFKNW1L?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 19:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Contributor: The Iran war has exposed the limits of the U.S. military - Los Angeles Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGhCdmUtVzlqZW9EWXBSN2hkZEczdVE0YWhrbDYwNUJhcU5NeHZ4enVMdHVoSUpJT1BIR0FhWHg2NzdWbmxseHlULWRpN2pLdVlOd05ETEExTWhHeFkxUjlVZmo2Q1FwZXNUeFVSUU5fWkVsSjByajVzNU54QUJ5RV9kUFlYQTg1Rmh3VmdtaEkyTkE2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGhCdmUtVzlqZW9EWXBSN2hkZEczdVE0YWhrbDYwNUJhcU5NeHZ4enVMdHVoSUpJT1BIR0FhWHg2NzdWbmxseHlULWRpN2pLdVlOd05ETEExTWhHeFkxUjlVZmo2Q1FwZXNUeFVSUU5fWkVsSjByajVzNU54QUJ5RV9kUFlYQTg1Rmh3VmdtaEkyTkE2czdz?oc=5",
+        "titulo_evento": "War on Iran: Phase II, Day 37 - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmhkMlVLRER4MFMyUFlZem9QaGdNc1diNFNtVlpOR3BJNDhtak4yTzdFRXRtNy1LOWMyd283bTJITVlVcjBfNGgzWXN6TkhWM2pvM1AwVlp6Q2VCOF9QRzV4SkNFSXlqQ0dyOXZnRHZyMVpjbXZ6aTRud0o2N3FwamM4Yk_SAYoBQVVfeXFMTWNWbGg4U0tDeWY0RUJjdW4taEhWZGJaVWJYQk00UHphX2ltQXVDbUZXT3NlOHJsM0xBWlF0a1YtUU9xay1GRGw3bEhwQThSUmFwcFpCcTROVmtSU0tqNjBmeXpZbGpuY3d1ZTZ0a1lrS25vRFFXRkRtQjRnN1NCSFFvRUNyZUF5Z19n?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 10:00"
+        "data_noticia": "17/08/2026 16:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Is China's economy in trouble? - marketplace.org",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBYajlyTlNoTWdyanlrVjJQVHdYcEp0TkFXTUZCZWZ6ZjZqVzI0UVphQlJxTmhhdmJQMVpHQnNUWkdSdTVLNUQzbzliZkoxc3lFcFlkSDFPSkItOVJaNkN4OGlYRUZKMHZzSHJyUnY2TDJGQTZlQ1ZDVXhYQUsxdw?oc=5\" target=\"_blank\">Is Chin...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYajlyTlNoTWdyanlrVjJQVHdYcEp0TkFXTUZCZWZ6ZjZqVzI0UVphQlJxTmhhdmJQMVpHQnNUWkdSdTVLNUQzbzliZkoxc3lFcFlkSDFPSkItOVJaNkN4OGlYRUZKMHZzSHJyUnY2TDJGQTZlQ1ZDVXhYQUsxdw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "17/08/2026 21:17"
       }
     },
     {
@@ -856,16 +907,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's Economy Minister: U.S. Threats Reflect Policy Frustration, Not Strength - iranpress.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZrM0VZdk9QTVc3Sk0yaU4taHhtQm5jZzg2X0E?oc=5",
+        "titulo_evento": "Colombia's Growing Coffee Appetite Is Reshaping Trade Flows and Boosting Imports from Brazil - stonex.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmw1OFBCNUsxbi1GemhGQ05rcGo4Skx2ZU9tZFNLWWI3YjhlVjZRb2taNTg2YkRER3pDa0pnMWxuWl8yampTdndseW82ZF85M0R0MzRFZzc4MUg4TUJUekJQNjBna1FXYjZTMGxHOC0zakktX0ZNcTRvU1FFZW1wUVVxYkpXQ3pLaU9xVlM3NmI1U1Fp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmw1OFBCNUsxbi1GemhGQ05rcGo4Skx2ZU9tZFNLWWI3YjhlVjZRb2taNTg2YkRER3pDa0pnMWxuWl8yampTdndseW82ZF85M0R0MzRFZzc4MUg4TUJUekJQNjBna1FXYjZTMGxHOC0zakktX0ZNcTRvU1FFZW1wUVVxYkpXQ3pLaU9xVlM3NmI1U1FpZ2hTRWYyQ29UTFR6RFpkNHVHNXVtbmpRb3ZEOTlEbWllTXNaQjNqemctQWxkRFpJR3pUTkZfWQ?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "17/08/2026 17:18"
+        "data_noticia": "17/08/2026 21:42"
       }
     },
     {
@@ -878,11 +929,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran economy minister dismisses U.S. \"unprecedented\" threat as policy frustration sign - Tehran Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3ZqSGlwUW9ZMy1qbFQ2YklZMjAtNXNtZFBCQXJDTkNPV2xSRWRXcG5iNy12Vk9QZ09KeEhpMV9POTd1RlJEZFY3OERoVnNCb0VRQ3hLcVBnTUJkc0RvTGVjVHB3QVVtbElWRkZYYmNtdVJhWXFjSW94VC1ON1FtYTdsazgtSHFjNmNZTlhyblVVRVFH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR3ZqSGlwUW9ZMy1qbFQ2YklZMjAtNXNtZFBCQXJDTkNPV2xSRWRXcG5iNy12Vk9QZ09KeEhpMV9POTd1RlJEZFY3OERoVnNCb0VRQ3hLcVBnTUJkc0RvTGVjVHB3QVVtbElWRkZYYmNtdVJhWXFjSW94VC1ON1FtYTdsazgtSHFjNmNZTlhyblVVRVFHdm1qRzAwUW1QcTJQ?oc=5",
+        "titulo_evento": "Iran's Economy Minister: U.S. Threats Reflect Policy Frustration, Not Strength - iranpress.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZrM0VZdk9QTVc3Sk0yaU4taHhtQm5jZzg2X0E?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "17/08/2026 18:10"
+        "data_noticia": "17/08/2026 17:18"
       }
     }
   ]
