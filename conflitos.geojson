@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says N Korea’s Kim has responded to his request for a conversation",
+        "descricao": "US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "18/08/2026 05:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           127.05,
           40.0
         ]
@@ -62,8 +79,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
-        "descricao": "US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.",
+        "titulo_evento": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
+        "descricao": "A vessel was struck by a projectile in the Strait of Hormuz, leaving a crew member injured, according to the UKMTO.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "18/08/2026 00:00"
@@ -159,16 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-        "descricao": "Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "17/08/2026 18:46"
+        "titulo_evento": "Inside secret police warehouse as Germany targets small boats gangs",
+        "descricao": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "18/08/2026 05:02"
       }
     },
     {
@@ -185,7 +202,24 @@
         "descricao": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "18/08/2026 01:16"
+        "data_noticia": "18/08/2026 04:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Watch: Why has Trump shifted on North Korea?",
+        "descricao": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "17/08/2026 23:42"
       }
     },
     {
@@ -329,6 +363,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia’s Supreme Court upholds ban on anti-war party Yabloko",
+        "descricao": "\nRussia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were deta...",
+        "url_fonte": "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "17/08/2026 15:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'",
+        "descricao": "\nA central book market in Kyiv was hit by a Russian strike on Sunday. FRANCE 24’s correspondent in Ukraine, Emmanuelle Chaze, describes the strikes as an attack on \"Ukrainian culture, the Ukrainian language and Ukrainian identity”. She says that “sin...",
+        "url_fonte": "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "17/08/2026 15:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US-South Korea drills renew questions over North Korea’s military power",
+        "descricao": "\nUS President Donald Trump called for US-South Korean military drills to be scaled back just hours before they were due to begin, describing North Korea as 'unthreatening and respectful'. South Korea said it hoped Trump’s personal relationship with N...",
+        "url_fonte": "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "17/08/2026 10:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -465,23 +550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How Germany supports recovery of Berlin Pride attack victims",
-        "descricao": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And what lies ahead for them?",
-        "url_fonte": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "16/08/2026 05:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.1278,
           51.5074
         ]
@@ -593,7 +661,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
         "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 19:16"
+        "data_noticia": "17/08/2026 20:32"
       }
     },
     {
@@ -674,11 +742,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Keeps Promising His War With Iran Is Almost Over. It’s More Likely to Get Way Worse. - Slate",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5\" target=\"_blank\">Trump ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5",
+        "titulo_evento": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmNIbjN3eXVyMkpCaFZaMHg0NHNPQUhEQjM2QmNTTllUdFhENXNabXp0SGl6LUtodTE3WGFmN2FhaHVsbndwUTVIWXlVMjA3NTJ3MklSa1BPUS1mTFR5VjUyUzdfenpfWXNZZlM0S05SekstNlA2RDFoYjFjN1d2QkhhWFUtTFlYMDdLZEFjaWlhNWwz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmNIbjN3eXVyMkpCaFZaMHg0NHNPQUhEQjM2QmNTTllUdFhENXNabXp0SGl6LUtodTE3WGFmN2FhaHVsbndwUTVIWXlVMjA3NTJ3MklSa1BPUS1mTFR5VjUyUzdfenpfWXNZZlM0S05SekstNlA2RDFoYjFjN1d2QkhhWFUtTFlYMDdLZEFjaWlhNWwzMTFTX2MtOWzSAaIBQVVfeXFMUHRPcHFyUW0ya1NIS241cXhCaXdmRl9QZ2JSWEJwUWYycXBXU0tpb2tFdFM3LXRBUXVIdkJJNUl6VmlDYVhNQjZxX2dOdWdYYXU0akx1QUlZY0JkVW1HeUc2c2tFZjN4bzZIUG55WlpXOERpOU0tbHVFWU9mNFJfcHpqZkRpWGU3QVVVVTFUZ1hkTmZNS3RyZ3dGNm04Wk55SWFB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 21:35"
+        "data_noticia": "18/08/2026 04:01"
       }
     },
     {
@@ -703,16 +771,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5",
+        "titulo_evento": "Trump Keeps Promising His War With Iran Is Almost Over. It’s More Likely to Get Way Worse. - Slate",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5\" target=\"_blank\">Trump ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 01:34"
+        "data_noticia": "17/08/2026 21:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 04:20"
       }
     },
     {
@@ -730,6 +815,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmE3NFdjMENoLTJEOXktZ2hFQUFlcE9MYVNnV0haQmZTcUpnLVJqTnlSSEpINlpNbDFwTnZ1bzJjV21pT3ljNkFYNWdUZnN6djhiTXhmZVJvWVROYW0zVEx6T0RFVnBpeVNoNGJwLXZfTDRaY1RydjVGYVZtRmduVGswdkhwWnBQQWlNaEpoWnZYQTYtNEtLUkRTbjFxelV0VmZzcnVpT0JfSkNXYzBNNEt4d0s4Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "17/08/2026 22:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "President Orders Reduction of Military Exercises With South Korea, a Key Ally - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5\" target=\"_blank\">President Orders Reduction of Military Exer...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 02:25"
       }
     },
     {
@@ -759,11 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How Ukraine’s Satellites Help Drive Its War Drones - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
+        "titulo_evento": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 20:38"
+        "data_noticia": "18/08/2026 01:34"
       }
     },
     {
@@ -771,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russia is shipping explosives to Iran to bolster its missile and drone arsenal in U.S. war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbF8wR1I1bFRQZ19BMTFONWpQdnJhSk1aVlpZWkU5WFVRMjlTSWFwS1h6czRvLUlraS1TY3RIQ1ViVGFrLWIxa2U4SUlBRnZ2U1Y2eF9Ga0JCTVN3Zk5FeVBZSjVPb0NVb3d0MDU2SG1RLW1uMjg1YkI2bXBlemhvNTdhR1lSWTJGcTlaMnhLQll6Tkhj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbF8wR1I1bFRQZ19BMTFONWpQdnJhSk1aVlpZWkU5WFVRMjlTSWFwS1h6czRvLUlraS1TY3RIQ1ViVGFrLWIxa2U4SUlBRnZ2U1Y2eF9Ga0JCTVN3Zk5FeVBZSjVPb0NVb3d0MDU2SG1RLW1uMjg1YkI2bXBlemhvNTdhR1lSWTJGcTlaMnhLQll6TkhjS3ZzNlhvaTNFU0NQRkNYLU02c3VoOHp3Nk5lRXpISU1vZ1FKRVp3eWNtRHF0dWlWSVhDdlJn?oc=5",
+        "titulo_evento": "Battered by war, Iran’s rulers wary of more economic pain and unrest if US tightens pressure - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 22:54"
+        "data_noticia": "17/08/2026 20:52"
       }
     },
     {
@@ -788,33 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "‘The Brink of War’ Review: When the U.S. and U.S.S.R. Came Together - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5\" target=\"_blank\">‘The Brink of...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5",
+        "titulo_evento": "Dollar feeble as rate hike bets dwindle, Iran war worries grow - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1RVcFFGUkZtcmJMUTl1S1d3UHRXbVFZMk41R3VWdUYyZDdVV3FwY0hNS2ViUGNyM2VtYzRCRXZCejhSVnRiRkU3VmFWS09TNlBOVVFQRzh1YnBCZElreUJ6R3p4M0J3RVkyLWZJRUdVeE5WVEFuOXBHVHotSVpWdldjM0ItelZrQzd4R05tamd3eXlS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1RVcFFGUkZtcmJMUTl1S1d3UHRXbVFZMk41R3VWdUYyZDdVV3FwY0hNS2ViUGNyM2VtYzRCRXZCejhSVnRiRkU3VmFWS09TNlBOVVFQRzh1YnBCZElreUJ6R3p4M0J3RVkyLWZJRUdVeE5WVEFuOXBHVHotSVpWdldjM0ItelZrQzd4R05tamd3eXlSQnhMQTZzNTB5eDQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 21:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "President Orders Reduction of Military Exercises With South Korea, a Key Ally - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5\" target=\"_blank\">President Orders Reduction of Military Exer...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 22:36"
+        "data_noticia": "18/08/2026 02:50"
       }
     },
     {
@@ -866,23 +951,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "17/08/2026 15:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's Economy Minister: U.S. Threats Reflect Policy Frustration, Not Strength - iranpress.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZrM0VZdk9QTVc3Sk0yaU4taHhtQm5jZzg2X0E?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "17/08/2026 17:18"
       }
     }
   ]
