@@ -40,6 +40,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says talking to North Korea’s Kim makes the south safer",
+        "descricao": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’ ",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "18/08/2026 01:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -159,50 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-        "descricao": "On Monday, Israel&#039;s governing party will determine its candidate list for the next election.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "17/08/2026 17:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "War on Iran: Phase II, Day 37",
-        "descricao": "Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "17/08/2026 16:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia and Ukraine trade more deadly strikes",
-        "descricao": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "Russia warns UK over supplying drones to Ukraine",
+        "descricao": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "17/08/2026 13:16"
+        "data_noticia": "18/08/2026 01:16"
       }
     },
     {
@@ -220,6 +203,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "17/08/2026 16:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia and Ukraine trade more deadly strikes",
+        "descricao": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "17/08/2026 13:16"
       }
     },
     {
@@ -618,33 +618,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russia cancels major Red Square military jamboree amid drone attacks",
-        "descricao": "\"The event has been postponed until 2027 due to circumstances beyond the organizers' control,\" said festival bosses. ",
-        "url_fonte": "https://www.politico.eu/article/russia-cancels-military-music-festival-amid-drone-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "17/08/2026 13:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Latvia wants €7B from EU to cope with fallout from Russia’s war",
-        "descricao": "As Riga gears up for crucial election, Prime Minister Andris Kulbergs says frontline nations are carrying too much of the cost of confronting Moscow.",
-        "url_fonte": "https://www.politico.eu/article/latvia-pm-andris-kulbergs-7b-eu-funding-over-russia-costs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "17/08/2026 11:01"
+        "titulo_evento": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
+        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -691,11 +674,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Keeps Promising His War With Iran Is Almost Over. It’s More Likely to Get Way Worse. - Slate",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5\" target=\"_blank\">Trump ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5",
+        "titulo_evento": "Trump lashes out at South Korea over its refusal to join Iran war - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdqMkJnQ0pQYVJQZzJoTmlNakFNekJtZTJtY0R0Z2ZhNGQ1bW9nUzF6OElWZ0hFaUM2YzB3X0Y4Wjc0TGliNndLNk5vQ1pncVcxOE1EaEN3RUZ5aHpIVkZHOTM4c0J4QWFpMldtUnJBbERQc0liQlRuRjdTWWZlNmZHM0RyaGpYRzRZamxDMkpWTU9E...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdqMkJnQ0pQYVJQZzJoTmlNakFNekJtZTJtY0R0Z2ZhNGQ1bW9nUzF6OElWZ0hFaUM2YzB3X0Y4Wjc0TGliNndLNk5vQ1pncVcxOE1EaEN3RUZ5aHpIVkZHOTM4c0J4QWFpMldtUnJBbERQc0liQlRuRjdTWWZlNmZHM0RyaGpYRzRZamxDMkpWTU9Ed1FuUTBxVGMyWDRH?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 21:35"
+        "data_noticia": "17/08/2026 22:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s Secret Plan to Escalate the War - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 17:32"
       }
     },
     {
@@ -708,11 +708,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmE3NFdjMENoLTJEOXktZ2hFQUFlcE9MYVNnV0haQmZTcUpnLVJqTnlSSEpINlpNbDFwTnZ1bzJjV21pT3ljNkFYNWdUZnN6djhiTXhmZVJvWVROYW0zVEx6T0RFVnBpeVNoNGJwLXZfTDRaY1RydjVGYVZtRmduVGswdkhwWnBQQWlNaEpoWnZYQTYt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmE3NFdjMENoLTJEOXktZ2hFQUFlcE9MYVNnV0haQmZTcUpnLVJqTnlSSEpINlpNbDFwTnZ1bzJjV21pT3ljNkFYNWdUZnN6djhiTXhmZVJvWVROYW0zVEx6T0RFVnBpeVNoNGJwLXZfTDRaY1RydjVGYVZtRmduVGswdkhwWnBQQWlNaEpoWnZYQTYtNEtLUkRTbjFxelV0VmZzcnVpT0JfSkNXYzBNNEt4d0s4Zw?oc=5",
+        "titulo_evento": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVNCZmd0SVNZZGhnRS1PR284aURzU3RfNGxxYlNEX2dqaDlza3BSSkpiRUJOemZFaHVuOGFTVEozWGZOVTNwQm5tOGw2dTRlMGt5TFowWlV4VWE5d19WaTFmY3RFajFtLVJya0NVeEJId29rVGN0MHlvMWlkRHoydEpTMVYtRlZxTHh4ZVNJakhpQWl5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVNCZmd0SVNZZGhnRS1PR284aURzU3RfNGxxYlNEX2dqaDlza3BSSkpiRUJOemZFaHVuOGFTVEozWGZOVTNwQm5tOGw2dTRlMGt5TFowWlV4VWE5d19WaTFmY3RFajFtLVJya0NVeEJId29rVGN0MHlvMWlkRHoydEpTMVYtRlZxTHh4ZVNJakhpQWl5RENhWFJpRTRhN3NBX3RvYU1ZR0E0dWs5QWtNLWxZSQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 22:12"
+        "data_noticia": "18/08/2026 01:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Keeps Promising His War With Iran Is Almost Over. It’s More Likely to Get Way Worse. - slate.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5\" target=\"_blank\">Trump ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWVBZHJ3YVI2cUNlRkZfMVRqNlNuMWUwVVE0ZTRjcXQyMTl6TTFQNGVPY1BFQllPV0p6NDkyYWdnNnR0ZGZTZ0tucFpxa3M5clFjZ0FFLURyVHhEV25QMkkzcldUUXE1YVAtbEgtb2JUWEppR2w4QWk3Um9oVTg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/08/2026 21:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump defends his move to cut back U.S.-South Korea military exercises - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5xVUtMZDJhOWFoM1p0WTVXYVVmSTdmSjNEc0pmM3ZqcHdCQ0Z5cHAzMjF6enE0UEY5OU9uNWJ2SzN4ZnVsZXlzMlJyMHVQUVowS05GbFZidVBHN21POUFvR0dmYmFKejBxWjcwaUE4M3NjQlYyTy14ZkdHS2NndXFROUluTUs1SnhaRlhJV3M3dHVY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5xVUtMZDJhOWFoM1p0WTVXYVVmSTdmSjNEc0pmM3ZqcHdCQ0Z5cHAzMjF6enE0UEY5OU9uNWJ2SzN4ZnVsZXlzMlJyMHVQUVowS05GbFZidVBHN21POUFvR0dmYmFKejBxWjcwaUE4M3NjQlYyTy14ZkdHS2NndXFROUluTUs1SnhaRlhJV3M3dHVYNmRvR0p3X1gxZW5zR0xLNnNmUXRacHVDZ0JsTGRSY2gwcFdM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 02:06"
       }
     },
     {
@@ -737,33 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s Secret Plan to Escalate the War - wsj.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 15:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "How Ukraine’s Satellites Help Drive Its War Drones - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
+        "titulo_evento": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdHRVWTR4UlVDNHNXdk9GRmJhU1h2OTZZbDUzcERPNDJwTU1WRG9VTW1aVl82eHUxUzhBaFBuLUVrSWFfcV9BVHdxdWlyVER1VFZpWFAyWkhNRDFoRWVKeTM4QllxbDFtMXRGX09mUmh3V0drX0xCNERVMkl4STlPLTVZSEVmZDg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 20:38"
+        "data_noticia": "18/08/2026 01:34"
       }
     },
     {
@@ -771,16 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Trump defends his move to cut back U.S.-South Korea military exercises - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5xVUtMZDJhOWFoM1p0WTVXYVVmSTdmSjNEc0pmM3ZqcHdCQ0Z5cHAzMjF6enE0UEY5OU9uNWJ2SzN4ZnVsZXlzMlJyMHVQUVowS05GbFZidVBHN21POUFvR0dmYmFKejBxWjcwaUE4M3NjQlYyTy14ZkdHS2NndXFROUluTUs1SnhaRlhJV3M3dHVY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5xVUtMZDJhOWFoM1p0WTVXYVVmSTdmSjNEc0pmM3ZqcHdCQ0Z5cHAzMjF6enE0UEY5OU9uNWJ2SzN4ZnVsZXlzMlJyMHVQUVowS05GbFZidVBHN21POUFvR0dmYmFKejBxWjcwaUE4M3NjQlYyTy14ZkdHS2NndXFROUluTUs1SnhaRlhJV3M3dHVYNmRvR0p3X1gxZW5zR0xLNnNmUXRacHVDZ0JsTGRSY2gwcFdM?oc=5",
+        "titulo_evento": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmE3NFdjMENoLTJEOXktZ2hFQUFlcE9MYVNnV0haQmZTcUpnLVJqTnlSSEpINlpNbDFwTnZ1bzJjV21pT3ljNkFYNWdUZnN6djhiTXhmZVJvWVROYW0zVEx6T0RFVnBpeVNoNGJwLXZfTDRaY1RydjVGYVZtRmduVGswdkhwWnBQQWlNaEpoWnZYQTYt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmE3NFdjMENoLTJEOXktZ2hFQUFlcE9MYVNnV0haQmZTcUpnLVJqTnlSSEpINlpNbDFwTnZ1bzJjV21pT3ljNkFYNWdUZnN6djhiTXhmZVJvWVROYW0zVEx6T0RFVnBpeVNoNGJwLXZfTDRaY1RydjVGYVZtRmduVGswdkhwWnBQQWlNaEpoWnZYQTYtNEtLUkRTbjFxelV0VmZzcnVpT0JfSkNXYzBNNEt4d0s4Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 00:18"
+        "data_noticia": "17/08/2026 22:12"
       }
     },
     {
@@ -810,45 +827,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "‘The Brink of War’ Review: When the U.S. and U.S.S.R. Came Together - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5\" target=\"_blank\">‘The Brink of...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5",
+        "titulo_evento": "How Ukraine’s Satellites Help Drive Its War Drones - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5\" tar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 21:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "President Trump blasts allies as Iran war deadline passes with no deal - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1Y1MC0yOTVGd015RFRqaDJfZVhNMEZULU1VTXNRYlN2bTF6NTU4TTdJaVBZY3I3S2xiWTduVmZRLThRUVNrSzVlRFNqX0ZxWmxyazFGSGVUQ3lGNUJxX19ua3ZxbjRzVm1obm1CbHd1QkdFa0xZQTIxLWRDMDE1d1RKS08tTG9SQ05JY1VkUW9ESFNo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1Y1MC0yOTVGd015RFRqaDJfZVhNMEZULU1VTXNRYlN2bTF6NTU4TTdJaVBZY3I3S2xiWTduVmZRLThRUVNrSzVlRFNqX0ZxWmxyazFGSGVUQ3lGNUJxX19ua3ZxbjRzVm1obm1CbHd1QkdFa0xZQTIxLWRDMDE1d1RKS08tTG9SQ05JY1VkUW9ESFNoNi1pS3BHa19VSXF2VXVXbDJPaXgwTlhPczI2alJ4ZS1sWkZZeXkwVDBQWUFYalk5?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 23:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why Tehran Doesn’t Want the War to End - الحرة",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzTm5RS0tZUWZTR0UwSURhdVFMOVc0cmRfMV9EbTJUZm01Z040dFNMZVRXMm1rWm9kcFFkYktHQllrUQ?oc=5\" target=\"_blank\">Why Tehran Doesn’t Want the War to End</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الحرة</font...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzTm5RS0tZUWZTR0UwSURhdVFMOVc0cmRfMV9EbTJUZm01Z040dFNMZVRXMm1rWm9kcFFkYktHQllrUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 17:37"
+        "data_noticia": "17/08/2026 20:38"
       }
     },
     {
@@ -873,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Exclusive: Iran Turns to New Tactic to Manage War from Iraq - الحرة",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2VEVQb1Nid1hOWWN6YVhmSUhwUkFiQmxBZksxblZ4OW8xbFVWVDZFdU1WX2Z1OHZpOHJqQjNuY3pIUQ?oc=5\" target=\"_blank\">Exclusive: Iran Turns to New Tactic to Manage War from Iraq</a>&nbsp;&nbsp;<font color=...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA2VEVQb1Nid1hOWWN6YVhmSUhwUkFiQmxBZksxblZ4OW8xbFVWVDZFdU1WX2Z1OHZpOHJqQjNuY3pIUQ?oc=5",
+        "titulo_evento": "President Orders Reduction of Military Exercises With South Korea, a Key Ally - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5\" target=\"_blank\">President Orders Reduction of Military Exer...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDlPbDYxWTJkTmhPYVBZbXNjNVZQa1J0MHhYcXZ0VkxnM0ZTTDRsVlZqUU9TMkJvSE9tOWF5T2M3TWtZNG15RE5pVnU2OTlOTS1qeVVGNWNPQV9UdklOUVZ2TQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 19:41"
+        "data_noticia": "17/08/2026 22:36"
       }
     },
     {
@@ -890,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Inside Ukraine's War Robot Revolution - Business Insider",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTB6bkN0WjdUeklNS1Z1MGxSOVRjZVl5Rm9mdndGd09tZFdhdmtEdDZjUzNWcEFLdEE1Zzl1a1JtTkF0X1J0YmtWb3JnVElCZkJuWUdrTHJMQ1JsVWR4ek8tSm1ZMUlwczlfM3o2TFRLcUVldmZXYjk0dFZSd3UxVA?oc=5\" target=\"_blank\">Ins...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTB6bkN0WjdUeklNS1Z1MGxSOVRjZVl5Rm9mdndGd09tZFdhdmtEdDZjUzNWcEFLdEE1Zzl1a1JtTkF0X1J0YmtWb3JnVElCZkJuWUdrTHJMQ1JsVWR4ek8tSm1ZMUlwczlfM3o2TFRLcUVldmZXYjk0dFZSd3UxVA?oc=5",
+        "titulo_evento": "‘The Brink of War’ Review: When the U.S. and U.S.S.R. Came Together - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5\" target=\"_blank\">‘The Brink of...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3OU9QYkNubHYtZDlPYzhUaWVwS214V0V0YU8xY2dVTjBzNnZ6bmZvTm5fVldHeTdLaE9ia1VsVWNHZWNvRGxRWHpBMGh5bkRDUng1NFZNalBkbTZyVGI4RUhFN082SmFxRkUzbDEtTm02Q2Itd2xwUXZB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/08/2026 19:43"
+        "data_noticia": "17/08/2026 21:27"
       }
     },
     {
@@ -934,23 +917,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmdlcXN2cGVYYmM1UXVjSUFOTE1WZjRCODdqYl9oNlF2SGdvSnRueTlKWVlBQkVScE13SFBoWXF5YmpJQ0h5d2NlVjBfcTZZS1F1YkxsTTJHY2syMXZqRVFoMkFHTTI5aWl1QXlxemNtN25GMDFQNF9fcjBkaWltbXFXUzRnZ09FaC1VY2VhY2w?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "17/08/2026 17:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's Economy Minister: U.S. Threats Reflect Policy Frustration, Not Strength - iranpress.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5ucHA3RVA0bmxnR21uWjZDcVE0ZnhnRlc0OUd6VnNCY3hfUTdvVWl0ZG1vc1JJd1o2Yy1CTnFSc0I0ME1TWF9uUWk4Nm55bG50VnhHTGNuSThocjl6czVSaHhaQmtyc1B5UmJ5UzdIZFg5bGFwNlRDS3cwRnhpc2owdWg0TzE2dHdLZ3E0VXlPaWZrM0VZdk9QTVc3Sk0yaU4taHhtQm5jZzg2X0E?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "17/08/2026 17:18"
       }
     }
   ]
