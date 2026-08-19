@@ -91,6 +91,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -66.5897,
+          6.4238
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US refineries taking in half of Venezuela’s oil output, official says",
+        "descricao": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "19/08/2026 02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US ambassador to Israel calls settler violence ‘terror’",
+        "descricao": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "19/08/2026 00:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -210,16 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Israeli strike on Gaza City cafe kills six, including child",
-        "descricao": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "18/08/2026 18:32"
+        "titulo_evento": "Sacked Ukrainian defence minister calls for presidential election",
+        "descricao": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "19/08/2026 01:31"
       }
     },
     {
@@ -227,16 +261,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "descricao": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "18/08/2026 12:36"
+        "titulo_evento": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "descricao": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Economia (BBC World)",
+        "data_noticia": "19/08/2026 02:41"
       }
     },
     {
@@ -312,13 +346,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Two French filmmakers held in Togo since July 27, Paris says",
+        "descricao": "\nTwo French nationals have been detained in Togo since July 27 and are under judicial investigation, France's foreign ministry said on Tuesday. The pair are journalist-directors working for a French production company, according to local media. Paris...",
+        "url_fonte": "https://www.france24.com/en/africa/20260819-two-french-filmmakers-detained-togo-july-27-foreign-ministry",
+        "categoria": "Política (France 24)",
+        "data_noticia": "19/08/2026 00:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says no Iran talks planned, insists Strait of Hormuz remains open",
-        "descricao": "\nUS President Donald Trump said on Tuesday there were no talks planned with Iran and insisted the Strait of Hormuz remained open, despite limited traffic and a reported attack on a ship. Trump also threatened Oman as it sought to broker a shipping ag...",
+        "titulo_evento": "Trump says no Iran talks planned as UAE suspends trade with Tehran",
+        "descricao": "\nUS President Donald Trump said Tuesday no talks with Iran were planned and insisted the Strait of Hormuz remained open despite reduced shipping traffic. Oman and Iran neared a deal on the waterway as a projectile struck a vessel, while the UAE said ...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "18/08/2026 22:22"
@@ -386,7 +437,7 @@
       },
       "properties": {
         "titulo_evento": "Middle East: No talks or conversations with Iran, Trump says",
-        "descricao": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. Follow DW for more.",
+        "descricao": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Israeli strikes on a Syrian airbase. DW has more.",
         "url_fonte": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "18/08/2026 16:13"
@@ -584,16 +635,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Trump’s Syria envoy calls Israeli air strikes on base ‘unnecessary escalation’",
-        "descricao": "The top U.S. envoy to Syria on Tuesday accused Israel of striking an airbase in the country, less than a day after White House envoy&#160;Jared Kushner&#160;met with Israeli Prime Minister&#160;Benjamin Netanyahu&#160;for high-profile talks on disarm...",
-        "url_fonte": "https://www.politico.com/news/2026/08/18/tom-barrack-israel-syria-strike-01040051?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "18/08/2026 14:26"
+        "titulo_evento": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html",
+        "categoria": "Economia (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -601,16 +652,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "German lawmakers call for EU sanctions on Israel’s Ben-Gvir over Gaza killing remarks",
-        "descricao": "From Merz’s conservatives to Alternative for Germany and the Left, condemnation cut across the Bundestag's political spectrum.",
-        "url_fonte": "https://www.politico.eu/article/german-lawmakers-call-for-eu-sanctions-on-israels-ben-gvir-over-gaza-killing-remarks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "18/08/2026 13:00"
+        "titulo_evento": "Tariffs on Hold as Trump Claims Deal With Canada Is Near",
+        "descricao": "President Trump announced a three-day delay on imposing 50 percent tariffs in a social media post on Tuesday night, roughly 90 minutes before the 12:01 a.m. deadline.",
+        "url_fonte": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+        "categoria": "Política (NYT Business)",
+        "data_noticia": "19/08/2026 02:38"
       }
     },
     {
@@ -669,12 +720,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon weighing smaller U.S. military presence in Gulf once Iran war ends - washingtonpost.com",
+        "titulo_evento": "Pentagon weighing smaller U.S. military presence in Gulf once Iran war ends - The Washington Post",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWQ5MVY3S2IzeW9Ia3JlQlhsVTlfUGY5TnZvUFVFYWl4UGFkMTVRbmhMdXQ1TnN6WXlDaVk2QVBIbmVrZ2JPOENmM1J6NVhBQ1FCcVN4UkNxQ2twbzZBelRmaW14SlY1YktnMzB1cWNQUVIwRmxLRk9KMEdhWF9IZUpfRXFCVHZMckVFaWx6WGFMejJW...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWQ5MVY3S2IzeW9Ia3JlQlhsVTlfUGY5TnZvUFVFYWl4UGFkMTVRbmhMdXQ1TnN6WXlDaVk2QVBIbmVrZ2JPOENmM1J6NVhBQ1FCcVN4UkNxQ2twbzZBelRmaW14SlY1YktnMzB1cWNQUVIwRmxLRk9KMEdhWF9IZUpfRXFCVHZMckVFaWx6WGFMejJWQVVQVFNDVE5vdDQyamJCRGxmbTdiSllBWElES2NIX2tMMW5ZUmhIRTRROXhHa2dqUUlYMW15Yk9NUUw5SVc4?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -708,28 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s Secret Plan to Escalate the War - WSJ",
+        "titulo_evento": "Iran’s Secret Plan to Escalate the War - wsj.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
         "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "18/08/2026 14:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump appears to repeatedly contradict his own top advisers on the Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3NjVFT2U4RGdUNjZycFVkdFFfRzlwSml4UzV5ODFWUG5GSDJBVVpCOVV1dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 19:38"
       }
     },
     {
@@ -759,23 +793,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US mulls shrinking military footprint in Gulf as a result of war on Iran: Report - Middle East Eye",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1Q...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1QZm9seQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 18:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "Trump tries a new approach in Iran war: Disengage - CNN",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5\" target=\"_blank\">Trump tries a new appr...",
         "url_fonte": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5",
@@ -793,45 +810,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
+        "titulo_evento": "Trump appears to repeatedly contradict his own top advisers on the Iran war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3NjVFT2U4RGdUNjZycFVkdFFfRzlwSml4UzV5ODFWUG5GSDJBVVpCOVV1dw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 21:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 20:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How US military funding propelled China’s robot dogs - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 16:13"
+        "data_noticia": "18/08/2026 19:38"
       }
     },
     {
@@ -856,16 +839,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5\" target=\"_blank\">I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
+        "titulo_evento": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 22:35"
+        "data_noticia": "18/08/2026 20:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US mulls shrinking military footprint in Gulf as a result of war on Iran: Report - Middle East Eye",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1Q...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1QZm9seQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 18:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVQVVF0Tmk0UFNhel9LcUtRQ0txMnJtUDF6UXlmWmhTbno5VzdUd0xrVkNCVVJ5a2xDSWhZTVVnNThxZ3BLZHhfMnQyWXM3bHNOWWozNEJULWFMMERhMk9FWmt4Z0oySTB2MzZSVWZ3TURBLUtyeXFlbzQxSDlkNzRB?oc=5\" target=\"_blank\">G...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVQVVF0Tmk0UFNhel9LcUtRQ0txMnJtUDF6UXlmWmhTbno5VzdUd0xrVkNCVVJ5a2xDSWhZTVVnNThxZ3BLZHhfMnQyWXM3bHNOWWozNEJULWFMMERhMk9FWmt4Z0oySTB2MzZSVWZ3TURBLUtyeXFlbzQxSDlkNzRB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 18:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - wsj.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 21:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Military drills between US and South Korea cut short at Washington’s request - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzZtbTk1bnUwazRHbXE2cGdMYWVISE1RQXpkUXM0ejhoR04yMjhWRlFQemgza2ZJM19FTThQdGNxbG1Ecy1KU3U5bmk0MG5MVVk1VjEtZ1Z1SEVDUTVtTklGUWFnLXJ3RFU4RUZTVmEwOUxJZTJQNWVBQnB4RElCRnUzN281cjRBc1ZMWg?oc=5\" tar...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzZtbTk1bnUwazRHbXE2cGdMYWVISE1RQXpkUXM0ejhoR04yMjhWRlFQemgza2ZJM19FTThQdGNxbG1Ecy1KU3U5bmk0MG5MVVk1VjEtZ1Z1SEVDUTVtTklGUWFnLXJ3RFU4RUZTVmEwOUxJZTJQNWVBQnB4RElCRnUzN281cjRBc1ZMWg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/08/2026 01:04"
       }
     },
     {
@@ -890,16 +941,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "12 of Trump’s most bizarre moments on the Iran war - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnaURkeVhDTDNWXzJtcmloS1pEdWthTjg1dGduS2tLOURlV0VEbVRZaThha0ZLMXBKZDBtNDdNN2xlbGVrUFdkdTdMTEU1Z0FzTVRaQTJkelVZZFJsemxaSjhfZ3lKREZZdWRfWHZnVms?oc=5\" target=\"_blank\">12 of Trump’s most bizarre...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnaURkeVhDTDNWXzJtcmloS1pEdWthTjg1dGduS2tLOURlV0VEbVRZaThha0ZLMXBKZDBtNDdNN2xlbGVrUFdkdTdMTEU1Z0FzTVRaQTJkelVZZFJsemxaSjhfZ3lKREZZdWRfWHZnVms?oc=5",
+        "titulo_evento": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5\" target=\"_blank\">I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 17:11"
+        "data_noticia": "18/08/2026 23:42"
       }
     },
     {
@@ -917,40 +968,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONndFUnFRV2I3Rm1Wd0h2Y0xyM1pMLW5TZTJ2dFRYMWJXZ0dGMzRDVThLel9tT18yMVpYQjhVYk1YRUlwcXNieW9yUTJDRHprSEcyaE9NdnE3d3pJWEV1NXdISHFCTnZWOTZKaDZaVTlqa0VpRWxKN0dDZXpsSGNULXZwZHJoelJIR0x0UTVXT0hmQmhZcmxtdXZyV05TNEhpbFQzVU9JSDN0LWZRRUZ30gG0AUFVX3lxTE5NMXJ2dnB4SFdoMFEzb19LcjBjU2R0aEtKRTAzWWRNdGNweUtBdDRqek5HSGx6UUhsMHRyQ0pqOEV3ODFGd0FBXzFaNVlLZXdNRkRxNjhZc1Z5ZU9yaGlHSS1DcjVyOXJDSk45eHdHWlBuQTVORTNXcFIyWndGeEZxUzZ4Ti01TS03TGViMjlJTVBuek4zSHRFb0hGeDhrYVU4VG5BSmxSdFVybnpoUHpOeUVtSA?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "18/08/2026 17:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "E.V. Sales Are Rising After the Gulf Oil Shock. Here’s Where. - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnJFXzJNaEVualpuUkZSdXhMWjRrSmVydzNSTDM1STl3VEVfMno3cDE3OHVoZnVtWEtqSmpSaUstV0xZMW1OMzNCbzlRcnU0bHMtczRmQWZwQnlMZnZfamdndmxESnJpZWM0QzF1aXdZZ0NaWEluaWtrUVVic2JULXgyY2hON1JxLUhn?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnJFXzJNaEVualpuUkZSdXhMWjRrSmVydzNSTDM1STl3VEVfMno3cDE3OHVoZnVtWEtqSmpSaUstV0xZMW1OMzNCbzlRcnU0bHMtczRmQWZwQnlMZnZfamdndmxESnJpZWM0QzF1aXdZZ0NaWEluaWtrUVVic2JULXgyY2hON1JxLUhn?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/08/2026 21:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s Secret Plan to Escalate the War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "18/08/2026 14:40"
       }
     }
   ]
