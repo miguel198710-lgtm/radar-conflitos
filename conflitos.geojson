@@ -91,6 +91,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+        "descricao": "Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "19/08/2026 03:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -232,23 +249,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russian missile strike kills 10 civilians in Kharkiv",
-        "descricao": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "18/08/2026 20:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
         "titulo_evento": "Sacked Ukrainian defence minister calls for presidential election",
         "descricao": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
@@ -270,7 +270,24 @@
         "descricao": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "categoria": "Economia (BBC World)",
-        "data_noticia": "19/08/2026 02:41"
+        "data_noticia": "19/08/2026 03:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "South Korea shortens war games with US, citing Washington request",
+        "descricao": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "19/08/2026 03:39"
       }
     },
     {
@@ -339,6 +356,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "18/08/2026 05:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East live: Turkey rejects Israeli claims after strike on Syria air base",
+        "descricao": "\nTurkey rejected on Wednesday Israeli allegations that it posed a threat by preparing to send troops to a base in Syria, which was hit in a strike that the United States blamed on Israel. Follow our liveblog for the latest developments.\n",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260819-middle-east-live-turkey-rejects-israeli-claims-after-strike-on-syria-air-base",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "19/08/2026 03:05"
       }
     },
     {
@@ -584,6 +618,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump hits pause on new Canada tariffs",
+        "descricao": "The president announced late Tuesday night that the two governments had reached an initial agreement to avert the 50 percent duty.",
+        "url_fonte": "https://www.politico.com/news/2026/08/18/trump-hits-pause-on-new-canada-tariffs-01041402?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "19/08/2026 03:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -611,57 +662,6 @@
         "url_fonte": "https://www.politico.com/news/2026/08/18/us-oil-producers-production-deals-venezuela-01040437?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Economia (Politico Europe)",
         "data_noticia": "18/08/2026 20:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump is weighing whether to grant Canada a tariff reprieve",
-        "descricao": "A deal to avoid 50 percent duties on some Canadian goods is on Trump's desk, as Ottawa and Washington work towards a broader trade agreement.",
-        "url_fonte": "https://www.politico.com/news/2026/08/18/trump-canada-tariff-trade-agreement-01040518?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "18/08/2026 19:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tariffs on Hold as Trump Claims Deal With Canada Is Near",
-        "descricao": "President Trump announced a three-day delay on imposing 50 percent tariffs in a social media post on Tuesday night, roughly 90 minutes before the 12:01 a.m. deadline.",
-        "url_fonte": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-        "categoria": "Política (NYT Business)",
-        "data_noticia": "19/08/2026 02:38"
       }
     },
     {
@@ -759,28 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s Secret Plan to Escalate the War - wsj.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5\" target=\"_blank\">Iran’s Secret P...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTVZDZEJGTmI4U0t3MkVja0N0Z3BhYlpfRzNYYUZRODZOb0RoQ050UFNFaTJfSGRmQm9OTUdtWmtoMVdXT0dxR0RWUThPOFhSU0t0OTA5SUR2U2F3dXd6TTJrcVpvOUd1Z25kVlB5bnhsSXc1d3NnOA?oc=5",
+        "titulo_evento": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say - Financial Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1JZN1RkZ0VhaTk1MXZsMlZlOW1iNUFvc2tYb2tmcjRhZWRLT3J1azE4VHNhLTNKQ0ZMck1NcktQc3FNcGtJekdwZUJlRUl3WFN1cXFtN05YLVJ0RjlpRGlRYnRESVlPdzZTU1pTeUI2TkhlWlBFcmhyX0dDajNncEtrMlg?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1JZN1RkZ0VhaTk1MXZsMlZlOW1iNUFvc2tYb2tmcjRhZWRLT3J1azE4VHNhLTNKQ0ZMck1NcktQc3FNcGtJekdwZUJlRUl3WFN1cXFtN05YLVJ0RjlpRGlRYnRESVlPdzZTU1pTeUI2TkhlWlBFcmhyX0dDajNncEtrMlg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 14:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Judge Releases Woman Accused of Vandalizing World War II Memorial - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RQaVFkTG8wcjF4ck1WblpRd0Y5WVJSMDh5VERMYzB3X21vcTJpaXVYWC0yU0pjUDZGWDdJTXRmNGpZa3J1OFhJVTlyY2U3Z1lhNVhLUk81WE9Zd3gxQ3N6QjluZU9ZblhGdmZzemhhWFBkWTVvNVJUN1ZzcGtfNm9Pa1hrTkVfMkRLZlVhZWo?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RQaVFkTG8wcjF4ck1WblpRd0Y5WVJSMDh5VERMYzB3X21vcTJpaXVYWC0yU0pjUDZGWDdJTXRmNGpZa3J1OFhJVTlyY2U3Z1lhNVhLUk81WE9Zd3gxQ3N6QjluZU9ZblhGdmZzemhhWFBkWTVvNVJUN1ZzcGtfNm9Pa1hrTkVfMkRLZlVhZWo?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 23:29"
+        "data_noticia": "19/08/2026 04:00"
       }
     },
     {
@@ -793,113 +776,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump tries a new approach in Iran war: Disengage - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5\" target=\"_blank\">Trump tries a new appr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5",
+        "titulo_evento": "Americans want a fast end to the Iran war but are increasingly likely not to expect one - YouGov",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOME9GWmRJcmpIeTN6RmFLeXlQeEVqSERXRXk1Q2VqQ0VsWldIU002YUR3RV9OdTdrLTRaMU5FcEdJUUp1bFhBRmFra19ZaWZLbHJMQUFGb3FUUE9raFBBZ2o3NFF2RFR2U1NhT0lNTlBpTm1MMzJpUDN2MnNocWN0Z2tRZFZrSm1udXhhZDNPY0ZTbXZy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOME9GWmRJcmpIeTN6RmFLeXlQeEVqSERXRXk1Q2VqQ0VsWldIU002YUR3RV9OdTdrLTRaMU5FcEdJUUp1bFhBRmFra19ZaWZLbHJMQUFGb3FUUE9raFBBZ2o3NFF2RFR2U1NhT0lNTlBpTm1MMzJpUDN2MnNocWN0Z2tRZFZrSm1udXhhZDNPY0ZTbXZyNjVWcUJHdnliWUNTZndTNU5kbFhJeUFucUJyV29ZaUVuUDhQaXZNaEgzQ3BleEJpS2tmM1hUTVlabjc4cnVreWttUXRtTHJHSjVKM05WMjY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 20:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump appears to repeatedly contradict his own top advisers on the Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3NjVFT2U4RGdUNjZycFVkdFFfRzlwSml4UzV5ODFWUG5GSDJBVVpCOVV1dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 19:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S. - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjlWMm9vRVhPaWVUYWQxNE1uWUdwaFp6UTRES0hrSG1BR2VBQzFBVEQzUEVNVkd6QjQxZXc2dFJJeUcwZFFYRWdwYW8yTXBXa3NaM2owcmx1b2s1SlJMNVZrUmV5ZnhmR0dQd1FKczJrSG94MmRLbEZCUy1ZTzJjLTh5NUNFUGtFSDl1NjdhY044STQ?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjlWMm9vRVhPaWVUYWQxNE1uWUdwaFp6UTRES0hrSG1BR2VBQzFBVEQzUEVNVkd6QjQxZXc2dFJJeUcwZFFYRWdwYW8yTXBXa3NaM2owcmx1b2s1SlJMNVZrUmV5ZnhmR0dQd1FKczJrSG94MmRLbEZCUy1ZTzJjLTh5NUNFUGtFSDl1NjdhY044STQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 21:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 20:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US mulls shrinking military footprint in Gulf as a result of war on Iran: Report - Middle East Eye",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1Q...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjRod2poakd4YUpDZ3BVMWdRWERUMHhaUWxjWWpSRUc3YVQ0NENjSlhVb3pnMi1RMUo3M25XbEV0SEQtRXhhWDA4Q09uaTNqZEFlcU9oSzlyNjdITHZJNF9jTERMbnlvYVhnZU9NaFVIdjU2dGVKcUFMeWM2RHdBYno1aWtubDVDblJ5empuVGFVUU1QZm9seQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 18:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVQVVF0Tmk0UFNhel9LcUtRQ0txMnJtUDF6UXlmWmhTbno5VzdUd0xrVkNCVVJ5a2xDSWhZTVVnNThxZ3BLZHhfMnQyWXM3bHNOWWozNEJULWFMMERhMk9FWmt4Z0oySTB2MzZSVWZ3TURBLUtyeXFlbzQxSDlkNzRB?oc=5\" target=\"_blank\">G...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbFVQVVF0Tmk0UFNhel9LcUtRQ0txMnJtUDF6UXlmWmhTbno5VzdUd0xrVkNCVVJ5a2xDSWhZTVVnNThxZ3BLZHhfMnQyWXM3bHNOWWozNEJULWFMMERhMk9FWmt4Z0oySTB2MzZSVWZ3TURBLUtyeXFlbzQxSDlkNzRB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 18:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - wsj.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR4blJKdVRSdUJldFRXenNyRzRuSEEtUjlTRWxUbE54QVNsb0U1QXE3NUdzZWFLNmppUlIyOFUyRTNoVVRjcFRWVlMwWXJkSG43TlBOMkpKaktpemV6VWZRcDJFMmdrcnZGazEtMVg3M0NEbkkxOU5Na3pkS2wwbWt6V0RhNkRkODk0ajd3T0stUnhzUEdyTWhyNWIwX3ZyYThON2xIbzUyRFd2cWdjeDYwc080WlQ4Rnc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 21:01"
+        "data_noticia": "19/08/2026 02:58"
       }
     },
     {
@@ -929,28 +810,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war puts Oman and other Gulf allies in a difficult spot - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYS0wR2tXN2JpeHl3bVZRS0dyVDVwMTRaanN1cjc4SDhsMXl2b1MtV2tsejYzZnYybkJXaWhTaF9TMnd2UVFTZXl4Y0I5SkF2TE10Vnpkc3FWX0RSSXltblk3eHR1Z013NTFZaDlfenR3ZW5EUkdQeHVTRnZJNkVxQW51bFMxamI0ckhSbnRmMWduZTVl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYS0wR2tXN2JpeHl3bVZRS0dyVDVwMTRaanN1cjc4SDhsMXl2b1MtV2tsejYzZnYybkJXaWhTaF9TMnd2UVFTZXl4Y0I5SkF2TE10Vnpkc3FWX0RSSXltblk3eHR1Z013NTFZaDlfenR3ZW5EUkdQeHVTRnZJNkVxQW51bFMxamI0ckhSbnRmMWduZTVlOVVfdlR1U29NZWxDdjE0OUYwbk8?oc=5",
+        "titulo_evento": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmllc1dobzVIUzRBUl9ydXdrRTlTUDFwZW9qWGZlbFAwcWh4MkhTX3NjOUQ3S2tlMVRudUZ3TVR6bk9SdWFQN3g2QmNpYm1ZT3gxTEJfVVdnNmFMS01nNXNaMkZ3T0hQcFpOM0RUdTV0b0E5a1UxUHR0dWZ3QUlhSkZzWkl6MGsyVVFWMDNVRTNHeWx2NExYUlFNcnU4MDNBR0xKaEtlcjlBcElhQXRzbmlFOGPSAboBQVVfeXFMUHdKbW85MVRhT242aE5QLVZENFc5VVNSeTVHNHZzZkJPSHdnY1JGd2J5UEk0RzhKYXdmNWs5c2xTWHQ4UUNkRXVYaTZuQkNySWt4dzZtQzNHNnhYOWRRMVVGaFl6NlpNaGxfQ1d1TGQtbzl3TEJCUG00WG50YUpkNk1fc2laQTBOVW95SnYyZlNsZDNVcjdwc1V3ZXY4TnBSMWR4dFpPMURRQkUxMURQUlFyRHo2VHgtYlNn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 20:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel defends strike on Syria as U.S. frustration with Bibi grows - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5\" target=\"_blank\">I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYm9BMmh3VTlYTDhPWlY1b0JPYWZITWtQZFh4dVRDdFU0QzdlaWRIcWNOdk04NVZ3a1lXelNIdktFcGFidmxuRG12UXcxd1dWNV9qXzN2OEdMeHZDSF9lT3lrOUVGbVMxT0NZZkJkdXpmRUhsQXRFTjhkUUxETWVDeTF3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/08/2026 23:42"
+        "data_noticia": "19/08/2026 03:39"
       }
     },
     {
@@ -963,7 +827,126 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran prepares to keep economy alive as US threatens further sanctions - Al Jazeera",
+        "titulo_evento": "Iran’s latest warning to the US signals the hardliners are just getting started - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU90bmlZbW9BQnBCclYtajE4aEh0bUNkNGdhNE43VWx3SWZibTZhSFNOR3cwWWpXUHllMEZNQTRXY0NIVFBYVjktUXZEblJpamw3Q3M5OXZYckE0cXF1RElHb3EzTU9VTW5QYU1nYUFGdFF4bUJWMUU1YVhuaElKUEJqRFl0WUlIX1dN?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU90bmlZbW9BQnBCclYtajE4aEh0bUNkNGdhNE43VWx3SWZibTZhSFNOR3cwWWpXUHllMEZNQTRXY0NIVFBYVjktUXZEblJpamw3Q3M5OXZYckE0cXF1RElHb3EzTU9VTW5QYU1nYUFGdFF4bUJWMUU1YVhuaElKUEJqRFl0WUlIX1dN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/08/2026 04:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tries a new approach in Iran war: Disengage - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5\" target=\"_blank\">Trump tries a new appr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGbzZuOXMzb3Vwc0FxSTVoZXc2bTJuQ1ZRbmpsc09jS1RUeXBuemtQQ1dJRzlNNm5kQVA3c1BQb1BUS0Z1aXdENGt5M0pfSndsa25DQkJIcWlVekRYUTJXVU9mMzE2c2JhWXNQY0xBV3NRaUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 20:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlNrV2dqeGpRc3I1Z3BVNVFpUVBFOG5yOUE1bnluN2ktY0lCY2s4VHk5WDNNWEJibEtwZ3Y3SGM2MjVYUnNFZWhNNm9seXhTTWYzTGFJMmNCU0h6WVVNV3ZLSTBXY1lROW9pUjJJYXh4dWU3TXVjSGYzZEQtdm9TUkhqREF2LTdxektlVFNlSk03bDNN...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlNrV2dqeGpRc3I1Z3BVNVFpUVBFOG5yOUE1bnluN2ktY0lCY2s4VHk5WDNNWEJibEtwZ3Y3SGM2MjVYUnNFZWhNNm9seXhTTWYzTGFJMmNCU0h6WVVNV3ZLSTBXY1lROW9pUjJJYXh4dWU3TXVjSGYzZEQtdm9TUkhqREF2LTdxektlVFNlSk03bDNNcTIzYlFXVlJFaUdUZTcya2xxd9IBrAFBVV95cUxPb1d4V2FMUEYzemU2RVpfSE5ZQ1JpOExGWHlLRzlsSmhwcW52b1hWUVhPNHlNUHYzT2V5V2x6cDd3RmMzRGpkTWNyNUtlQ1pEWXl0X2t5dzMwRjY4ckRYOEtVdkMyZjE2bE1BLVdyWUdvbWt0ZHJvSTRrZ05OZ3RnX3lwUHV2NEhscW45aUVFbzJieU9WR1l5ZHNhOTNyM2dpVS12YjE4em9relpY?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "19/08/2026 01:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Judge Releases Woman Accused of Vandalizing World War II Memorial - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RQaVFkTG8wcjF4ck1WblpRd0Y5WVJSMDh5VERMYzB3X21vcTJpaXVYWC0yU0pjUDZGWDdJTXRmNGpZa3J1OFhJVTlyY2U3Z1lhNVhLUk81WE9Zd3gxQ3N6QjluZU9ZblhGdmZzemhhWFBkWTVvNVJUN1ZzcGtfNm9Pa1hrTkVfMkRLZlVhZWo?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2RQaVFkTG8wcjF4ck1WblpRd0Y5WVJSMDh5VERMYzB3X21vcTJpaXVYWC0yU0pjUDZGWDdJTXRmNGpZa3J1OFhJVTlyY2U3Z1lhNVhLUk81WE9Zd3gxQ3N6QjluZU9ZblhGdmZzemhhWFBkWTVvNVJUN1ZzcGtfNm9Pa1hrTkVfMkRLZlVhZWo?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 23:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump appears to repeatedly contradict his own top advisers on the Iran war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdTIxMXRsbTlzcVFqZ01WbFdRSVhVZUk3b0ZkNklIWnBFdzdTRk42RXktWGtOdTdvZ0txOHlUcVJqSXB6cFpRZ3FHUElUR1p4ekd2N2NLcXI5bThoaWVtZ3JudDBpRlhrM0JRc09OX0cxRHE4N2RaTTE5SHVacktMZnU2SkRvaFhuSDJTMURsQncxNFd3NjVFT2U4RGdUNjZycFVkdFFfRzlwSml4UzV5ODFWUG5GSDJBVVpCOVV1dw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 19:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1834,
+          21.5218
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Republicans are divided on whether to use the military to take over Cuba and the Panama Canal - YouGov",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS3NHbUk4N3FFNkE1THh3OWphbWgyaWlIa3RxZ19MaFg5d2N0V0ZkdXpYeWxwRmNTQ3ZYNEhuRWhHcjd3VjYxZFRrclNGMTJlWmRrb0tpWE5MeFp4MzJmcTdLTHdwQ2tSZ2p2dzQ1aUFiNTRoekkwa0tveDQ0LU5neHN6OGNITmw4emMzWHFYX0Uxck9K...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS3NHbUk4N3FFNkE1THh3OWphbWgyaWlIa3RxZ19MaFg5d2N0V0ZkdXpYeWxwRmNTQ3ZYNEhuRWhHcjd3VjYxZFRrclNGMTJlWmRrb0tpWE5MeFp4MzJmcTdLTHdwQ2tSZ2p2dzQ1aUFiNTRoekkwa0tveDQ0LU5neHN6OGNITmw4emMzWHFYX0Uxck9KSTF2Xy1vMy1Da2dOTjhRN0ljX3RKZGJoRXRfMFVteHAzV2dEMmFDMmlSbDFwbG9aR3EyZXNjR0NKNGtTczk4UmRHQ3JWdGdnMlc3Mkwyc0tyR2tVekRB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/08/2026 02:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1mTHgzVHRPVzFQRkF6UnBpS0lSbVo2LUZrWFVvYjQ5SDdsVWxoc3BDSVNQdzB1YWI0aGZ6WkRaaW01SWpLX2JCTUpkT0RYOXVielZFTUR4TndVajRBbU13TEJlSnBRMGN6UC0wTVBYYTFvbjRfU2Y3Umd1djRrTjdickVlRFg3SDNiX1g2TU1wbnJ3aUpNVFE1Wl9haW4zRGY0RWlPQ0hDZi1WWWtr0gG0AUFVX3lxTE9rYWhoU2ZUSkNzREtqYWVIQzNZVGxWRlJvMktfWnR1M1U0VjBYQ3FXVnhxYTdST2lZUWhET2gtQjRwRVZVZG14RmdJU3pIX3pnaVp6UWg2TFVrbFVibldsNlZydFhGb1l5ZDg3aU5OV3BwRWJLMVVoQW1Ya3U1NmdLME16LURUWFZGZE1kbFo4RFV6Nmx4cVY4bjBYQ0tBN3dwb0xXbHVBSXdWbm43YWZtTUdtVg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/08/2026 20:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran prepares to keep economy alive as US threatens further sanctions - aljazeera.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONndFUnFRV2I3Rm1Wd0h2Y0xyM1pMLW5TZTJ2dFRYMWJXZ0dGMzRDVThLel9tT18yMVpYQjhVYk1YRUlwcXNieW9yUTJDRHprSEcyaE9NdnE3d3pJWEV1NXdISHFCTnZWOTZKaDZaVTlqa0VpRWxKN0dDZXpsSGNULXZwZHJoelJIR0x0UTVXT0hmQmhZ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONndFUnFRV2I3Rm1Wd0h2Y0xyM1pMLW5TZTJ2dFRYMWJXZ0dGMzRDVThLel9tT18yMVpYQjhVYk1YRUlwcXNieW9yUTJDRHprSEcyaE9NdnE3d3pJWEV1NXdISHFCTnZWOTZKaDZaVTlqa0VpRWxKN0dDZXpsSGNULXZwZHJoelJIR0x0UTVXT0hmQmhZcmxtdXZyV05TNEhpbFQzVU9JSDN0LWZRRUZ30gG0AUFVX3lxTE5NMXJ2dnB4SFdoMFEzb19LcjBjU2R0aEtKRTAzWWRNdGNweUtBdDRqek5HSGx6UUhsMHRyQ0pqOEV3ODFGd0FBXzFaNVlLZXdNRkRxNjhZc1Z5ZU9yaGlHSS1DcjVyOXJDSk45eHdHWlBuQTVORTNXcFIyWndGeEZxUzZ4Ti01TS03TGViMjlJTVBuek4zSHRFb0hGeDhrYVU4VG5BSmxSdFVybnpoUHpOeUVtSA?oc=5",
         "categoria": "Economia (Google News Markets)",
