@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "War: Watt Is It Good For?",
+        "descricao": "<p>Military analysts are captivated by how the material nature of war is transforming in Ukraine. Unmanned systems have captured Russian infantry units, battered Russian naval and commercial ships, and even, with the help of on-board AI, conducted au...",
+        "url_fonte": "https://warontherocks.com/cogs-of-war/war-watt-is-it-good-for/",
+        "categoria": "Defesa/Conflito (War on the Rocks)",
+        "data_noticia": "20/08/2026 08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That",
+        "descricao": "<p>For years, the Chinese military&#8217;s own newspaper has been making a promise it may no longer be able to keep. Whenever the People&#8217;s Liberation Army Daily (Jiefangjun Bao), the official newspaper of China&#8217;s Central Military Commissi...",
+        "url_fonte": "https://warontherocks.com/chinas-military-says-ai-cant-replace-commanders-xi-is-testing-that/",
+        "categoria": "Defesa/Conflito (War on the Rocks)",
+        "data_noticia": "20/08/2026 07:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -125,16 +159,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.9253,
-          -14.235
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Inside Brazil’s 3D-Printed Gun Supply Chain",
-        "descricao": "<p>On June 26, 2026, the Civil Police of Rio de Janeiro, through its specialized firearms, ammunition, and explosives unit, raided a clandestine workshop in Rio das Pedras, on the city&#8217;s west side. Investigators said the group used a 3D printer...",
-        "url_fonte": "https://warontherocks.com/inside-brazils-3d-printed-gun-supply-chain/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "18/08/2026 07:00"
+        "titulo_evento": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+        "descricao": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "20/08/2026 07:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+        "descricao": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "20/08/2026 07:38"
       }
     },
     {
@@ -198,7 +249,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
+        "titulo_evento": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
         "descricao": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
         "url_fonte": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -249,45 +300,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+        "titulo_evento": "Iran war live: Tehran says Trump’s new economic measures will fail",
         "descricao": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "20/08/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says he plans to meet Kim Jong Un later this year",
-        "descricao": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "19/08/2026 21:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-        "descricao": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "19/08/2026 21:22"
       }
     },
     {
@@ -300,11 +317,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-        "descricao": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+        "titulo_evento": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "descricao": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "20/08/2026 05:25"
+        "data_noticia": "20/08/2026 07:59"
       }
     },
     {
@@ -317,7 +334,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "titulo_evento": "Trump vows tougher economic measures on Iran and supporting countries",
         "descricao": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
@@ -380,40 +397,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Canada and US say they are finalising a trade deal",
-        "descricao": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline. ",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "20/08/2026 03:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "South Korea shortens war games with US, citing Washington request",
-        "descricao": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "19/08/2026 17:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -441,6 +424,57 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "19/08/2026 17:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+        "descricao": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "19/08/2026 15:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Massive Russian strikes hit Kyiv killing several people",
+        "descricao": "\nRussian ballistic missiles killed 12 people and injured more than 30 in Kyiv early on Thursday, authorities said, damaging ‌buildings and severing power supply to some parts of the Ukrainian capital. FRANCE 24’s Camille Corcoran brings us more with ...",
+        "url_fonte": "https://www.france24.com/en/massive-russian-strikes-hit-kyiv-killing-several-people",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "20/08/2026 07:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What property giant Evergrande's sentence means for China's economy",
+        "descricao": "\nFor property giant Evergrande, the face of China's real estate woes, an excruciating saga that has dragged on for years culminated on Thursday with court rulings ordering fines and jail terms.\n",
+        "url_fonte": "https://www.france24.com/en/live-news/20260820-what-property-giant-evergrande-s-sentence-means-for-china-s-economy",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "20/08/2026 06:57"
       }
     },
     {
@@ -488,7 +522,7 @@
       },
       "properties": {
         "titulo_evento": "Kyiv targeted by massive Russian strikes killing several people",
-        "descricao": "\nA Russian missile barrage overnight on Thursday killed at least nine people in Kyiv as explosions echoed across the capital throughout the night, local authorities said. At least 33 people were wounded. \n",
+        "descricao": "\nA Russian missile barrage overnight on Thursday killed at least 12 people and wounded 40 in Kyiv as explosions echoed across the capital throughout the night, local authorities said. Ukrainian President Volodymyr Zelensky said Russia had been prepar...",
         "url_fonte": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "20/08/2026 05:30"
@@ -618,40 +652,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine MPs approve new defence minister after divisive reshuffle",
-        "descricao": "\nUkraine's lawmakers approved the country's new defence minister on Wednesday, a month after a reshuffle that triggered a public backlash after the dismissal of his popular predecessor Mykhailo Fedorov. The decision comes a day after Fedorov in a vid...",
-        "url_fonte": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "19/08/2026 14:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel blames Turkey after strike on Syria air base",
-        "descricao": "\nIsrael on Tuesday accused Turkey of posing a threat by preparing to send troops to a base in Syria, which was hit in a strike condemned by the United States which blamed its ally. The strike marks extraordinary defiance by Israel of the United State...",
-        "url_fonte": "https://www.france24.com/en/video/20260819-israel-blames-turkey-after-strike-on-syria-air-base",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "19/08/2026 14:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -754,6 +754,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian overnight strikes kill at least 13 in Ukraine",
+        "descricao": "President Volodymyr Zelenskyy pressed allies to urgently replenish Kyiv’s dwindling air defenses.",
+        "url_fonte": "https://www.politico.eu/article/volodymyr-zelenskyy-vladimir-putin-russia-overnight-attack-ukraine-killing-13/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "20/08/2026 08:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -788,16 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he will meet with North Korea’s Kim Jong Un",
-        "descricao": "President&#160;Donald Trump&#160;said Wednesday that he would meet with North Korean leader&#160;Kim Jong Un&#160;this year. Trump&#160;did not elaborate further about the trip. His remarks came as he was walking reporters around the White House grou...",
-        "url_fonte": "https://www.politico.com/news/2026/08/19/trump-says-he-will-meet-with-north-koreas-kim-jong-un-01041655?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "19/08/2026 16:23"
+        "titulo_evento": "China Sentences Evergrande Founder to Life in Prison",
+        "descricao": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+        "url_fonte": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+        "categoria": "Economia (NYT Business)",
+        "data_noticia": "20/08/2026 06:39"
       }
     },
     {
@@ -861,7 +878,24 @@
         ]
       },
       "properties": {
-        "titulo_evento": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - nbcnews.com",
+        "titulo_evento": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1Rl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1RldlE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 07:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - NBC News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONEdNMjJ3YXRGXzVscUpuZjFoZXVlRU00dTFrdFpQOEJxZ1NGVTFyT1ZXdy0xU0pBWXpUUWF4TGNxRlItZ29iTDl1TkxBNmJ2bnJidHNaTkVqekVzaWpBdzRZdW1SaTcyQjI2OWJtV3pyVnJHNjFoc1NWcWpibUVOR3FsRlFzaW5TQmF1RUQ4SzNjTnBY...",
         "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEdNMjJ3YXRGXzVscUpuZjFoZXVlRU00dTFrdFpQOEJxZ1NGVTFyT1ZXdy0xU0pBWXpUUWF4TGNxRlItZ29iTDl1TkxBNmJ2bnJidHNaTkVqekVzaWpBdzRZdW1SaTcyQjI2OWJtV3pyVnJHNjFoc1NWcWpibUVOR3FsRlFzaW5TQmF1RUQ4SzNjTnBYYnRRSnpBd2dvdzZyaS1EVjFBLUdaWVBxanhkZ3VkVnU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
@@ -890,50 +924,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why does the U.S. military seem stymied in the war with Iran? - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2tOcXFSUEVNV0FrSHlBRzVsQk1KdXhMaW1WUWJsRG1iZ1h4eDFBYTNjTEY3bGNTVHFmVjJrR1hxLUx5TTZCSmg0Q1JWdUtkRUxJTU1YZzNqSXRTS3NvMkhndGR2V1FFT0VkX2YzeTR2ajNlWVNSNUwzMW91ZENjN3pJcmVIbkxVenJaT0Fvc3NfNlJT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2tOcXFSUEVNV0FrSHlBRzVsQk1KdXhMaW1WUWJsRG1iZ1h4eDFBYTNjTEY3bGNTVHFmVjJrR1hxLUx5TTZCSmg0Q1JWdUtkRUxJTU1YZzNqSXRTS3NvMkhndGR2V1FFT0VkX2YzeTR2ajNlWVNSNUwzMW91ZENjN3pJcmVIbkxVenJaT0Fvc3NfNlJTZmNZSmtBak5LQmRWelN3RmJGWQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/08/2026 16:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.5238,
           50.4547
         ]
       },
       "properties": {
-        "titulo_evento": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hLTVtSkgzTERYQm9oZ0hJamFzMGNqb3lBdXZmLS1ya2pad3kweExRVi00ekFsMG5zMzNZbC1TWnlJOGRQNmRZd0lBU1lBczU2MXZiMlQzVGdnQQ?oc=5\" target=\"_blank\">Russia launches missile strikes on Kyiv and surrounding...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hLTVtSkgzTERYQm9oZ0hJamFzMGNqb3lBdXZmLS1ya2pad3kweExRVi00ekFsMG5zMzNZbC1TWnlJOGRQNmRZd0lBU1lBczU2MXZiMlQzVGdnQQ?oc=5",
+        "titulo_evento": "Kyiv comes under heavy Russian missile attack, killing at least 13 - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVJ3Vkk2OWEyNllCMEtjVWM0TkJGNnpzdFNsMDl2WVRfNnZ4dG9jdXlRb1B1aFlDMDZ1S3BFYnZfbG9KbExCb3Ntb3R2a3NGSjBjWFpKOTdDaFNrMThyN29GbVN2WFVLMFNhdVQ0R0t1SmRSa1dXM2U5VUxJOUdQbDR0aTBYa1BJaHRDVGt6YnJUZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVJ3Vkk2OWEyNllCMEtjVWM0TkJGNnpzdFNsMDl2WVRfNnZ4dG9jdXlRb1B1aFlDMDZ1S3BFYnZfbG9KbExCb3Ntb3R2a3NGSjBjWFpKOTdDaFNrMThyN29GbVN2WFVLMFNhdVQ0R0t1SmRSa1dXM2U5VUxJOUdQbDR0aTBYa1BJaHRDVGt6YnJUZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 05:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1Rl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1RldlE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 04:53"
+        "data_noticia": "20/08/2026 03:38"
       }
     },
     {
@@ -951,6 +951,74 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmpoWmRzcDBhN3VqXzZfdWxvTDMyczhVOFJ4WTFzdzZBcGprR0k5VzFDb0lKbG5TMjZHR0I0VWlKd3NiSXg1VTdsZ253LTZMRFlJaWlKOGdVRm41S2QxSkNpX2NJc3RxMTY4UWRLVVI5T1NSQ1plNEJWc2xBbVJrUkI4eFNxOVloY1pDeXl2MTg1YnhDd2ZF?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "20/08/2026 01:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "20/08/2026 06:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That - War on the Rocks",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3Y3YW9hZGhMdzh1Mzg5U0lDR2dfLWVaWWcwSlAxUUZJbGh2R1JXSXQ0V2RkTTl6ZndxZ2djVHFTZW96WWpmemJwVXhTMFZuTmtuRnBUTG1DLUM2a1NJQjJkdTJtM01BSDBuSXlxSXAyLThRXzNsMlJmZUJoUVQxZWpCZEZEQU1NWW9QeEFuM1V2aVpW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3Y3YW9hZGhMdzh1Mzg5U0lDR2dfLWVaWWcwSlAxUUZJbGh2R1JXSXQ0V2RkTTl6ZndxZ2djVHFTZW96WWpmemJwVXhTMFZuTmtuRnBUTG1DLUM2a1NJQjJkdTJtM01BSDBuSXlxSXAyLThRXzNsMlJmZUJoUVQxZWpCZEZEQU1NWW9QeEFuM1V2aVpWTnNTSA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 07:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why does the U.S. military seem stymied in the war with Iran? - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2tOcXFSUEVNV0FrSHlBRzVsQk1KdXhMaW1WUWJsRG1iZ1h4eDFBYTNjTEY3bGNTVHFmVjJrR1hxLUx5TTZCSmg0Q1JWdUtkRUxJTU1YZzNqSXRTS3NvMkhndGR2V1FFT0VkX2YzeTR2ajNlWVNSNUwzMW91ZENjN3pJcmVIbkxVenJaT0Fvc3NfNlJT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc2tOcXFSUEVNV0FrSHlBRzVsQk1KdXhMaW1WUWJsRG1iZ1h4eDFBYTNjTEY3bGNTVHFmVjJrR1hxLUx5TTZCSmg0Q1JWdUtkRUxJTU1YZzNqSXRTS3NvMkhndGR2V1FFT0VkX2YzeTR2ajNlWVNSNUwzMW91ZENjN3pJcmVIbkxVenJaT0Fvc3NfNlJTZmNZSmtBak5LQmRWelN3RmJGWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/08/2026 16:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelenskyy says intelligence indicates Russia might be preparing to use Oreshnik hypersonic missile - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdElzQzd0RFNwSEtCbGhaM3JuWEwtQ003c3NWZ1NHXzlDME5FaEdDVDgyT0gwdVp2QXJIaGtNMFk2MzFRUTJELUs3SkVsY2FCM010aElLTkdETEcxbWpucVRMZkd2aGZwSzVPYmdGZ2xobGd5RUJway1uYlhSZVZOWkQwNkFrTDIxWHlJd01veXlYYWN1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdElzQzd0RFNwSEtCbGhaM3JuWEwtQ003c3NWZ1NHXzlDME5FaEdDVDgyT0gwdVp2QXJIaGtNMFk2MzFRUTJELUs3SkVsY2FCM010aElLTkdETEcxbWpucVRMZkd2aGZwSzVPYmdGZ2xobGd5RUJway1uYlhSZVZOWkQwNkFrTDIxWHlJd01veXlYYWN1RldLWndHa2otZlo2b1U4OEx6S3dOVTdETTBZTXZOQlEwMVRnaE00etIBwgFBVV95cUxNdUNFdGwzMnliTzNVZ0UzdDZMSmh5NTRuNmR0WWdnUWZ0c25oV0kxR0lnajMwZ3ltX2IzRHhSMEVsaWFVcElIVkpzbzdkbm5nSnF1U0NpVm9GbllJZGtJUnEyeHJzYU5jN1VUQ1V6RFNfSktSb19YcHh6V1lZRnZfOXFybHJERjhDVjRIY2xNVXdVWTFDWnBZbzY5S0ttSWNTTHpUSUU4cmxGRmNfSVNFUlI1UW5PVG5fX0o1RWt4UmFpdw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 05:50"
       }
     },
     {
@@ -992,101 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UAE Suspends Trade With Iran After Reported Missile Strikes - time.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxIbGROZ2ZLcldqVTBQUW1BTnpiZXhIZkZnd0hIbFNCYTNKS2tNLTh2QmRyc25HYkVKQnBpQktSY3JFd2UxbDVkX21RNXNDOXZuYUVGZ1FoSUdOcEZTeVptbXJwSE1jc2Yza1ZpVUhBMmVwdW96OUNrdFVfeXp1cWFzQkdGWVVINFBJaW4wZXJHeW5F...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxIbGROZ2ZLcldqVTBQUW1BTnpiZXhIZkZnd0hIbFNCYTNKS2tNLTh2QmRyc25HYkVKQnBpQktSY3JFd2UxbDVkX21RNXNDOXZuYUVGZ1FoSUdOcEZTeVptbXJwSE1jc2Yza1ZpVUhBMmVwdW96OUNrdFVfeXp1cWFzQkdGWVVINFBJaW4wZXJHeW5Fc1FKZEphVV8?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/08/2026 19:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmdNSjhQeC1GcmNGV2FmQnJaRHVzSVU0dEstM0hnX3JyVEFFbG5lMGVnT1pQbmxyNHdRUkU1NkllMUlIR282RGkyUEhXOVIxSjM4UTdoT3FKUGVDSWx1TGozdlRna3pPVk5zODd0OGhyRUFIN2RxVmxrVGJlSzdjZjA0OUhPdC02elhnNWpFc19oaVJiVnNfYS13bGVpTGNlQnBYRWhCT3dmd0tPOUpGSXk0WXHSAboBQVVfeXFMUDJUS1lmX2drelZKQzFXSDdub09CSkhEaUxoVkJIMXZzYkc1SmxNSG1SRC1mMTRSYXdTSUFacW9zYXpUYzlYWE9NMVRBRm9IdWJFald3bUZ6clFRa1Nwb1NmbjFDU1ZjNDFIMFJNS3hqVkhuUkNHdnBtd2tzUnA1RkxxV1BfalZZTUg4VGlKVzNPUU1fN25qV2E0cTlSRUdyME1lUU9qVDFaUWJQUVZIbTB3d3ZHTGlzY2dn?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "20/08/2026 02:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "More than 750 US service members wounded since start of Iran War - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXROaW5CZXFmcURNMzN0aWFmTm9xNlZGaG55cTE1LXFUOHp4UGdxRDFtY0xzYUtBbk92NGgtZVhici1rU1pqZGg5Q3V1dXd5V3pqUnNIZEZGclFvRXRMUzhpemdGaER4bmFpaDlJSEtZM2Uyc3puSk1FR29Ma0JnTVln?oc=5\" target=\"_blank\">M...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXROaW5CZXFmcURNMzN0aWFmTm9xNlZGaG55cTE1LXFUOHp4UGdxRDFtY0xzYUtBbk92NGgtZVhici1rU1pqZGg5Q3V1dXd5V3pqUnNIZEZGclFvRXRMUzhpemdGaER4bmFpaDlJSEtZM2Uyc3puSk1FR29Ma0JnTVln?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/08/2026 22:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.5238,
           50.4547
         ]
       },
       "properties": {
-        "titulo_evento": "Kyiv comes under Russian missile attack, killing at least six - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVJ3Vkk2OWEyNllCMEtjVWM0TkJGNnpzdFNsMDl2WVRfNnZ4dG9jdXlRb1B1aFlDMDZ1S3BFYnZfbG9KbExCb3Ntb3R2a3NGSjBjWFpKOTdDaFNrMThyN29GbVN2WFVLMFNhdVQ0R0t1SmRSa1dXM2U5VUxJOUdQbDR0aTBYa1BJaHRDVGt6YnJUZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVJ3Vkk2OWEyNllCMEtjVWM0TkJGNnpzdFNsMDl2WVRfNnZ4dG9jdXlRb1B1aFlDMDZ1S3BFYnZfbG9KbExCb3Ntb3R2a3NGSjBjWFpKOTdDaFNrMThyN29GbVN2WFVLMFNhdVQ0R0t1SmRSa1dXM2U5VUxJOUdQbDR0aTBYa1BJaHRDVGt6YnJUZw?oc=5",
+        "titulo_evento": "Russian missile barrage kills at least 6 in Kyiv, injures 33 - WBAL-TV",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUt6dlZ1NHZNcU1nZEhWczRvLTc2VFVPWVZ0bkdwdFR3bHl6eW9YZDVrNVpiYVVzblIwelFfV1RHNnJBM2xlOVNLOWdObDBOS2kxZ2dHZHp6dG1JeS1TTXUzdFdPZW5UTFJpY1h0ZGVjdnNHcmFJcm5CZXlyZHpnLTZsalJUbUVwXzhxQWpZYV9mWUsw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRUt6dlZ1NHZNcU1nZEhWczRvLTc2VFVPWVZ0bkdwdFR3bHl6eW9YZDVrNVpiYVVzblIwelFfV1RHNnJBM2xlOVNLOWdObDBOS2kxZ2dHZHp6dG1JeS1TTXUzdFdPZW5UTFJpY1h0ZGVjdnNHcmFJcm5CZXlyZHpnLTZsalJUbUVwXzhxQWpZYV9mWUswZ29XMWR0Z2tvSTNJTjY2UldQb3JYQUNJTURfWll5LTFaVU5RSVR3WVF5cGNaTElkQXRyR0xR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 03:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "One beneficiary of the Iran war? Pirates. - politico.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzZ0alh2WFpVd2JVYTUwM3UyMW4xUWp3SWE3dm8xZFBRQy1JX2Y1NzU0R2IwUENJbHlkVHJUcm51RGtXUHNBNnpNdEdvbk5aNTdNYVhPTy1jVWc0TmFvM2hucGZ3NWZIb2Fxb0FUcXBtVTZaLUUtbkRVcHBhUERGeDZoSGN0M3pVaVdfR09oaGlDcVE?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzZ0alh2WFpVd2JVYTUwM3UyMW4xUWp3SWE3dm8xZFBRQy1JX2Y1NzU0R2IwUENJbHlkVHJUcm51RGtXUHNBNnpNdEdvbk5aNTdNYVhPTy1jVWc0TmFvM2hucGZ3NWZIb2Fxb0FUcXBtVTZaLUUtbkRVcHBhUERGeDZoSGN0M3pVaVdfR09oaGlDcVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/08/2026 20:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Oil gains on Middle East supply concerns amid impasse in US-Iran war - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 01:11"
+        "data_noticia": "20/08/2026 05:16"
       }
     },
     {
@@ -1104,6 +1087,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "20/08/2026 02:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China risk returns in American bond markets - Lowy Institute",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSE5QY09OTUllZDNiQ2lJWXlYeVlJTHpwVHVjLTl0Q2h4S3laWmFMemZiZnBkX3pqXzc2NmNEcU5aMjM1dlViRW81aWhFQ2FpOWFDaWJ4NDlYdExPQVhjbU9yeTZYQlByTU1Sd3FUVlZvWVRKQ2I4a25nRHZFSlNhZl9xZkZBZEFRQUpYMzJtbmtUM1U?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSE5QY09OTUllZDNiQ2lJWXlYeVlJTHpwVHVjLTl0Q2h4S3laWmFMemZiZnBkX3pqXzc2NmNEcU5aMjM1dlViRW81aWhFQ2FpOWFDaWJ4NDlYdExPQVhjbU9yeTZYQlByTU1Sd3FUVlZvWVRKQ2I4a25nRHZFSlNhZl9xZkZBZEFRQUpYMzJtbmtUM1U?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "20/08/2026 02:02"
       }
     },
     {
@@ -1145,16 +1145,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Could Trump’s Iran Economic Threat Deepen the Global Economic Crisis? - Modern Diplomacy",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUl6eGsxM3Q1eXc4MkpQLXBUUmRja0ZRNjFjaTdxZlJNdzRrR2RRVTk4U3VDaVJKWkQ3ZHlackplNVgyUzliY3ZyZjhGOWNwMEJaSUUzVlFJYU1HbU5aY3l5aWFnTUJwM1pPZ2NZSVdjVy1RZTg1eFN0ZGhIRE44LUhFMVBUZ05GN0R1eFVUeFNqbkpF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUl6eGsxM3Q1eXc4MkpQLXBUUmRja0ZRNjFjaTdxZlJNdzRrR2RRVTk4U3VDaVJKWkQ3ZHlackplNVgyUzliY3ZyZjhGOWNwMEJaSUUzVlFJYU1HbU5aY3l5aWFnTUJwM1pPZ2NZSVdjVy1RZTg1eFN0ZGhIRE44LUhFMVBUZ05GN0R1eFVUeFNqbkpFV0pKVkQ1WjdZR1NFUTltcDJFdEtTQQ?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "20/08/2026 07:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "China risk returns in American bond markets - Lowy Institute",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSE5QY09OTUllZDNiQ2lJWXlYeVlJTHpwVHVjLTl0Q2h4S3laWmFMemZiZnBkX3pqXzc2NmNEcU5aMjM1dlViRW81aWhFQ2FpOWFDaWJ4NDlYdExPQVhjbU9yeTZYQlByTU1Sd3FUVlZvWVRKQ2I4a25nRHZFSlNhZl9xZkZBZEFRQUpYMzJtbmtUM1U?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSE5QY09OTUllZDNiQ2lJWXlYeVlJTHpwVHVjLTl0Q2h4S3laWmFMemZiZnBkX3pqXzc2NmNEcU5aMjM1dlViRW81aWhFQ2FpOWFDaWJ4NDlYdExPQVhjbU9yeTZYQlByTU1Sd3FUVlZvWVRKQ2I4a25nRHZFSlNhZl9xZkZBZEFRQUpYMzJtbmtUM1U?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "20/08/2026 02:02"
+        "titulo_evento": "From travel warnings to visa fees: why Chinese tourism to Japan is in free fall - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2Zaam5XSktwOTFwcVZGUFJQc2tfUFphSEZBWWNpcHRmWnVIZFc5SGVhejZiNVR0bmU4TkxqM1pwVEtoYXFfQ2JSQ1VubUxjcXRPb195cTFuVTVCTTUwNGxxSEVGXzg5U0JXNk1Ld19BUkZuZ2hEOE5TQmF5bTZVQllscGVVb2dQZmUtak90RnQyd3o5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2Zaam5XSktwOTFwcVZGUFJQc2tfUFphSEZBWWNpcHRmWnVIZFc5SGVhejZiNVR0bmU4TkxqM1pwVEtoYXFfQ2JSQ1VubUxjcXRPb195cTFuVTVCTTUwNGxxSEVGXzg5U0JXNk1Ld19BUkZuZ2hEOE5TQmF5bTZVQllscGVVb2dQZmUtak90RnQyd3o5YlJSYlpXU3BzV1V2QnBxa1FXN0RCUUhTcXBKTDBVa1F3YlBXbnBlbEFR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "20/08/2026 07:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran calls Trump's ‘Economic D-Day’ a 'distraction from America’s own crisis' - ynetnews.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OHJtb3hLekVLYmsyajBUSmVWS1ktTTVqZ1FMS19Qc1BISGR4YjZSMlJTME9CX2laTVlmZUptT2pnSzdnS0lhZTB4RjVXZXRDSER4UEZB?oc=5\" target=\"_blank\">Iran calls Trump's ‘Economic D-Day’ a 'distraction from Ameri...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OHJtb3hLekVLYmsyajBUSmVWS1ktTTVqZ1FMS19Qc1BISGR4YjZSMlJTME9CX2laTVlmZUptT2pnSzdnS0lhZTB4RjVXZXRDSER4UEZB?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "20/08/2026 06:48"
       }
     },
     {
