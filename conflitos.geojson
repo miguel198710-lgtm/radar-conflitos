@@ -142,6 +142,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+        "descricao": "Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "20/08/2026 20:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -169,23 +186,6 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
         "categoria": "Economia (Al Jazeera)",
         "data_noticia": "20/08/2026 19:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea fires ballistic missiles as US-South Korea drills near end",
-        "descricao": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "20/08/2026 17:00"
       }
     },
     {
@@ -278,16 +278,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          -102.5528,
+          23.6345
         ]
       },
       "properties": {
-        "titulo_evento": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-        "descricao": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "19/08/2026 17:46"
+        "titulo_evento": "Watch: Fishermen rescued after five days adrift in cool box",
+        "descricao": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "20/08/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia runs out of petrol at seven in 10 stations as fuel crisis worsens",
+        "descricao": "Ukrainian drone campaign on Russia's energy infrastructure has caused fuel shortages so severe that the Kremlin has admitted it. Queues in Moscow are forming for the first time, and Russia has brought back banned low-grade fuel to plug the gap, while...",
+        "url_fonte": "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "20/08/2026 10:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kyiv residents rescued as Russian strikes damage buildings across the city",
+        "descricao": "Russia’s overnight missile barrage killed at least 12 people in Kyiv on Thursday, 20 August, as residents were rescued from damaged buildings and firefighters battled fires across the capital.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "20/08/2026 10:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US officials coordinated deportation flights with Iran, emails reveal",
+        "descricao": "Emails obtained by the National Iranian American Council lobby show ICE officials accepted last-minute changes to deportation lists requested by Tehran. A separate lawsuit alleged confidential asylum information was shared with Iranian officials, a c...",
+        "url_fonte": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "20/08/2026 09:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea fires suspected missile as US move to cut drills with South Korea 'changes nothing'",
+        "descricao": "Pyongyang says scaling back US-South Korean military drills does not make them less provocative, as Japan says North Korea fired a suspected ballistic missile towards the sea.",
+        "url_fonte": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "20/08/2026 06:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UAE halts all trade and financial dealings with Iran",
+        "descricao": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the Strait of Hormuz has fallen to le...",
+        "url_fonte": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "19/08/2026 15:51"
       }
     },
     {
@@ -300,11 +385,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Why is Ukraine's ex-defence minister calling for wartime elections?",
-        "descricao": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "19/08/2026 15:38"
+        "titulo_evento": "Ukraine a 'genuine', 'fragile' democracy: 'Internal political turmoil will weaken political system'",
+        "descricao": "\nOliver Farry is pleased to welcome Dr. Volodymyr Yermolenko, Ukrainian philosopher, journalist, author and President of PEN Ukraine. According to Dr Yermolenko, Ukraine is confronting serious threats to its democracy. Suspending elections during war...",
+        "url_fonte": "https://www.france24.com/en/ukraine-a-genuine-fragile-democracy-internal-political-turmoil-will-weaken-political-system",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "20/08/2026 20:32"
       }
     },
     {
@@ -390,57 +475,6 @@
         "url_fonte": "https://www.france24.com/en/video/20260820-australia-outraged-over-israel-decision-to-close-probe-into-aid-worker-killings",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "20/08/2026 09:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Zimbabwe ferry disaster under scrutiny as death toll rises to 94",
-        "descricao": "\nThe death toll from a ferry disaster in Zimbabwe last week rose to 94 on Tuesday, police said, with the recovery of two more bodies. Local Government Minister Daniel Garwe said Tuesday that the sinking was the \"result of negligence and human error b...",
-        "url_fonte": "https://www.france24.com/en/video/20260820-zimbabwe-ferry-disaster-under-scrutiny-as-death-toll-rises-to-94",
-        "categoria": "Política (France 24)",
-        "data_noticia": "20/08/2026 09:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian strikes kill at least 12 in Kyiv, surrounding region",
-        "descricao": "\nRussian bombardments killed at least 12 people and wounded dozens in Ukraine's capital and its surrounding region overnight, authorities said on Thursday. The two countries have ramped up long-range attacks in recent months, driving up the civilian ...",
-        "url_fonte": "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "20/08/2026 08:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "ICC says US sanctions 'flagrant attack' on court independence",
-        "descricao": "\nThe International Criminal Court on Wednesday lashed out at the United States after Washington slapped sanctions on ICC President Tomoko Akane, calling it a \"flagrant attack\" on the court's independence. The US sanctioned Akane of Japan and trial la...",
-        "url_fonte": "https://www.france24.com/en/video/20260820-icc-says-us-sanctions-flagrant-attack-on-court-independence",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "20/08/2026 08:55"
       }
     },
     {
@@ -618,23 +652,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian overnight strikes kill at least 13 in Ukraine",
-        "descricao": "President Volodymyr Zelenskyy pressed allies to urgently replenish Kyiv’s dwindling air defenses.",
-        "url_fonte": "https://www.politico.eu/article/volodymyr-zelenskyy-vladimir-putin-russia-overnight-attack-ukraine-killing-13/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "20/08/2026 08:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -686,16 +703,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Fact Sheet: Costs of Iran War - Center for American Progress",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBaeTBUZ2piQ2ltUkN1VzRuV01GcTZJYW1Lel82OHZmM3BiSzQ0Sjhwazk5ZTZKM3RlSVZROExFakVzWks5SG1ieXVub2Y0ZHNyMjNUaUxMbDRxWG95QTY0Wld6WkNaNnpmRW5pbGtmQldORW9IU2RwRS1R?oc=5\" target=\"_blank\">Fact Sheet: C...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaeTBUZ2piQ2ltUkN1VzRuV01GcTZJYW1Lel82OHZmM3BiSzQ0Sjhwazk5ZTZKM3RlSVZROExFakVzWks5SG1ieXVub2Y0ZHNyMjNUaUxMbDRxWG95QTY0Wld6WkNaNnpmRW5pbGtmQldORW9IU2RwRS1R?oc=5",
+        "titulo_evento": "At least 18 people killed in Ukraine as Russia carries out more attacks - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 13:01"
+        "data_noticia": "20/08/2026 20:33"
       }
     },
     {
@@ -712,7 +729,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1Rl...",
         "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0YxejNNS1poTHVOcXNPenhxM2c4RmxRb2dtVnVpMHpZMGw1OHBCbDRxWWpmOWxiLVh4QjJkc3JsUVd2UTZseXBGd3lzM1Q5bkpiLXhkMWhlZmJMZHNaV0lTZ0tra0dGclg3T1lTaERzaUJ3WUswQ0dKM3lvX2RGbkotQTZTb3V2VDBWTEY0aVpKQ1RldlE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 19:21"
+        "data_noticia": "20/08/2026 20:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump increasingly lashing out at allies as victory in Iran war proves elusive - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHIwZ01mYm5XM0pIcDJLMVZFaEcwV2otLS1vTjBaSGJub2huanBQamxLNnVrUzZCY28tM1lEemV5TkhZOUlLTU1SX0xFTnlveE1TZnpJcXFNZTNaTWs1Q2V0OV9vTWtGaUdib1RQZGY5VWpOSVVXX1RqbGtOS056SHJoVWdBTmJ6bTRPX1BuRjExUXh0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHIwZ01mYm5XM0pIcDJLMVZFaEcwV2otLS1vTjBaSGJub2huanBQamxLNnVrUzZCY28tM1lEemV5TkhZOUlLTU1SX0xFTnlveE1TZnpJcXFNZTNaTWs1Q2V0OV9vTWtGaUdib1RQZGY5VWpOSVVXX1RqbGtOS056SHJoVWdBTmJ6bTRPX1BuRjExUXh0NFZEZW9LMG1DcEltNGhhOXlSQXJhUktVVGpWWFR2Q1ZVVjJLeXc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 21:25"
       }
     },
     {
@@ -759,11 +793,45 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Department of Defense Reveals Number of Americans Wounded in Iran War - Military.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMk5SQWktcHpXaW9uMUxjS19hZmFCSU1HWjA0dTNwXzBpZlVMemtJT1JVZ0N5NmlTS0lPQ2NMZkxvXzI0QjBLYUJrcUJ5RllJeW03ZjZ5SERTY2w5NFlUOFlUQ2JVbmJhWFdCQVdzTjVEUGNVWXNGT0tSQUlTbGQySFZ5TWZqUVNrYXFuVDJqbFREQ1Ro...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMk5SQWktcHpXaW9uMUxjS19hZmFCSU1HWjA0dTNwXzBpZlVMemtJT1JVZ0N5NmlTS0lPQ2NMZkxvXzI0QjBLYUJrcUJ5RllJeW03ZjZ5SERTY2w5NFlUOFlUQ2JVbmJhWFdCQVdzTjVEUGNVWXNGT0tSQUlTbGQySFZ5TWZqUVNrYXFuVDJqbFREQ1RoaXB1clBn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "‘It wasn’t a little war’: John Curtis warns Iran war mistakes resemble Vietnam - The Salt Lake Tribune",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUg5a1hWc0hwOVZLNHczRTlQZnJJWDJodWlYOU40dDdXQUFtZnhVMUpHOVJFYlJPX0tBYmtvYkVCSmRjMlZRNVlkOHU0MS1Ia0NIVWpvM3VmeVB1dlA1aU9yZXUwcXkxY0FJX01HcnFvbTdpQXl1MTMxTmp5cnpwWXlFVWI1Q3ZIS01v?oc=5\" targe...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUg5a1hWc0hwOVZLNHczRTlQZnJJWDJodWlYOU40dDdXQUFtZnhVMUpHOVJFYlJPX0tBYmtvYkVCSmRjMlZRNVlkOHU0MS1Ia0NIVWpvM3VmeVB1dlA1aU9yZXUwcXkxY0FJX01HcnFvbTdpQXl1MTMxTmp5cnpwWXlFVWI1Q3ZIS01v?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "20/08/2026 19:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hLTVtSkgzTERYQm9oZ0hJamFzMGNqb3lBdXZmLS1ya2pad3kweExRVi00ekFsMG5zMzNZbC1TWnlJOGRQNmRZd0lBU1lBczU2MXZiMlQzVGdnQQ?oc=5\" target=\"_blank\">Russia 'purposefully' hit critical infrastructure in la...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hLTVtSkgzTERYQm9oZ0hJamFzMGNqb3lBdXZmLS1ya2pad3kweExRVi00ekFsMG5zMzNZbC1TWnlJOGRQNmRZd0lBU1lBczU2MXZiMlQzVGdnQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/08/2026 17:14"
       }
     },
     {
@@ -788,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russian missile barrage kills at least 16 people in Ukraine’s Kyiv - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTFGMG9FZmw2TlR3MXR5M09NSEVzLXlNMlh2d3VVdzZ6Mk1LcFh0UmlTenJUYk1pVlhfTDFnNVhwckZWemFJVlR2QTN6Y3BuRmFHTDdSTVRUSFNYY2Z2b2ZSTXF3ZElfTkh1cE1Oa2JEdHhEN21xNFF5NXJwYXl6RlZiVnUzNENNSGQ1bUNHSXdXeFNWdE1leGE5Ykx4by1jcjZXYUNqM2NpaVYtWk9j0gG0AUFVX3lxTE9QUUZLUWY5VE9Zbk5iend0eHhmXzFJUW5pWDhjMmF0c2gwVDVNcVM0MDBRV01XQnJBYkwxNUpiOTI5VS1OWG5HMXQtUjBmeWdvRkVXbFZxUjN5NHQ3eTlTZ3BoSUU3NjItLXZsZ0t0VGxvSVV2LTVJVlVGdnlPTVVQUWZKYU5UUWdIMWF1VjNzbGpPLWNVSV9qeXUzLWRxcHFlTFhiQWhaXzBlNTVKYWd3MkpHZg?oc=5",
+        "titulo_evento": "What Trump’s Iran war messaging is missing - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS01KSEp4SmY3bVRQcjFfcDlISGlIN090cVMyaENUWFh5TmhVcEdLSktpei1YZy1qbEZsaEZCbUEwZlJ5REROZFF6MUtvaW93ZXVjUFF6d1VoQ2NfbWZyU2xPM1RsQTRWN2wxeVI1SEpiMHE2N3c5WmlGRkx3WUpKVmlaTW9KN0UyN3psRXlzbkRIdkxq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS01KSEp4SmY3bVRQcjFfcDlISGlIN090cVMyaENUWFh5TmhVcEdLSktpei1YZy1qbEZsaEZCbUEwZlJ5REROZFF6MUtvaW93ZXVjUFF6d1VoQ2NfbWZyU2xPM1RsQTRWN2wxeVI1SEpiMHE2N3c5WmlGRkx3WUpKVmlaTW9KN0UyN3psRXlzbkRIdkxqay11dlF6OFowUzRXUXpTb2YyeUJyUFpMaDlqaXQ0MVhSakVjclVqWU5FUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 15:13"
+        "data_noticia": "20/08/2026 20:03"
       }
     },
     {
@@ -815,57 +883,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEM2OWViY2VqbDVyZFBIWHk5T05RYzVwbDEzeUQxZmtlQk9BRzJqVzVwWXZmQ1pwVnZXUkt2eVJLb3RncnpLUTJzT2txYlBVakhMWXpSY3BzR0JwM3dJVmhDZ1JTX3AwQUtuc0VXdmljOHhFeWlzdjlXakYtUmc0ekhOalRSZWZ3VVVYMzg4MUI3bDJa?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "20/08/2026 14:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "USS George Washington Celebrates Historic Aircraft Milestone - U.S. Department of War (.gov)",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjlmZXdyTXpiQ3JSMEI5YngwWjJSdl9hT0E3YVotQ2JoQ1pwUzNDZzA5U2RQUnA3OWZiY2RDR3pvdW9XNW5EaFA5Z2JMQUhHaDd3YXZRbktYNE1RWFlxUXVHWVBYV1F1LTU1UUJEckcwaEhyUXdiUlhKV2dTd0tJbS1YdmllNW50d2VVRjl2Q0V3eEtC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjlmZXdyTXpiQ3JSMEI5YngwWjJSdl9hT0E3YVotQ2JoQ1pwUzNDZzA5U2RQUnA3OWZiY2RDR3pvdW9XNW5EaFA5Z2JMQUhHaDd3YXZRbktYNE1RWFlxUXVHWVBYV1F1LTU1UUJEckcwaEhyUXdiUlhKV2dTd0tJbS1YdmllNW50d2VVRjl2Q0V3eEtCZDd4SUNxTXYxcWNRanJNT3ByVUMtdkVpdXpvdEVDV0d2M1FlMEpTMTZ1Tng?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 17:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUNYOURJdHBQbTVuMXdSRF9XUXVOQ3c5azVOZFA2Z1BTN2dtS1FnOGdSSXFmRnBUS1RnRFdDejQydlRQUmRvM0xlZUpWblVYdVc4Ukk3YkFaYXQwR2N3R0MyWkc5NWxfeE9XQnhrcTVESzYzcmgweF9JMGpjbXRUYVNtZVlpcXZmNmtBTkVOVS1oazg?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUNYOURJdHBQbTVuMXdSRF9XUXVOQ3c5azVOZFA2Z1BTN2dtS1FnOGdSSXFmRnBUS1RnRFdDejQydlRQUmRvM0xlZUpWblVYdVc4Ukk3YkFaYXQwR2N3R0MyWkc5NWxfeE9XQnhrcTVESzYzcmgweF9JMGpjbXRUYVNtZVlpcXZmNmtBTkVOVS1oazg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 09:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlJyek1lOXVLR2xQQlNXT1FkZ0FfZWtRWUNEaF80TTN2WUlYOWJxYUFIMEg1QVhLMFVyOG5FVGsyVkkyZ3czUUNOcWlSempoY2l1bi1KUWNfRWdsNGxHME93UjM1eWd3VFFaUUdEeEt3MGlvUmcxM3hKc3A5STg4Uk1rajVRaGJPV05xbmN3?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlJyek1lOXVLR2xQQlNXT1FkZ0FfZWtRWUNEaF80TTN2WUlYOWJxYUFIMEg1QVhLMFVyOG5FVGsyVkkyZ3czUUNOcWlSempoY2l1bi1KUWNfRWdsNGxHME93UjM1eWd3VFFaUUdEeEt3MGlvUmcxM3hKc3A5STg4Uk1rajVRaGJPV05xbmN3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/08/2026 14:20"
       }
     },
     {
@@ -900,6 +917,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaeTBUZ2piQ2ltUkN1VzRuV01GcTZJYW1Lel82OHZmM3BiSzQ0Sjhwazk5ZTZKM3RlSVZROExFakVzWks5SG1ieXVub2Y0ZHNyMjNUaUxMbDRxWG95QTY0Wld6WkNaNnpmRW5pbGtmQldORW9IU2RwRS1R?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "20/08/2026 13:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran's FM says US ‘economic terrorism’ threatens global economy, national sovereignty - India Tribune - Chicago",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWF2My11NWYxVEVJLWJLV29OSGVzeGk5TjY5Y3RidDNmNmNfa2U2YWROclg0Y18xU0NqRDJqclp1cXBvODhCVUsxUGJGWXFzM0FfOXIxbmlqUGk1LXhyYkxTalpTT2dyTWQ3cWJaNDQ4V1FmYnZxQlV4SjN0a29HeEVwclV1b2VWcE54V2JxQmVwSVVF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWF2My11NWYxVEVJLWJLV29OSGVzeGk5TjY5Y3RidDNmNmNfa2U2YWROclg0Y18xU0NqRDJqclp1cXBvODhCVUsxUGJGWXFzM0FfOXIxbmlqUGk1LXhyYkxTalpTT2dyTWQ3cWJaNDQ4V1FmYnZxQlV4SjN0a29HeEVwclV1b2VWcE54V2JxQmVwSVVFc2RRVXBTSE81SlhjNG8tR0lpQ2N0WXBTMzg3aWJ0eVVwTGg1?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "20/08/2026 21:54"
       }
     }
   ]
