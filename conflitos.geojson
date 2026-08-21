@@ -142,6 +142,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+        "descricao": "Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/08/2026 15:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -215,40 +232,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How a Swedish Palestinian minister raised controversy with Star of David",
-        "descricao": "Incidents of anti-Semitism have been on the rise in Europe since Israel&#039;s genocidal war on Gaza began.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/how-a-swedish-palestinian-minister-raised-controversy-with-star-of-david?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/08/2026 12:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-        "descricao": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/08/2026 10:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
         "titulo_evento": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "descricao": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
@@ -295,16 +278,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.5528,
-          23.6345
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Watch: Fishermen rescued after five days adrift in cool box",
-        "descricao": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "20/08/2026 20:41"
+        "titulo_evento": "Tornadoes touch down in New York and Delaware",
+        "descricao": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "21/08/2026 14:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1834,
+          21.5218
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Millions in Cuba face water shortages as oil crisis deepens",
+        "descricao": "\nIn Cuba, seven months of an effective oil blockade imposed by the Trump administration has not only increased power outages but is also leaving more and more people without running water. In August 2025, 2.6 million people on the Caribbean island na...",
+        "url_fonte": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "21/08/2026 15:28"
       }
     },
     {
@@ -380,67 +380,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.0152,
-          -9.19
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "El Niño rains in Peru disrupt access to Machu Picchu",
-        "descricao": "\nHeavy rains ⁠linked to ​the El Niño weather phenomenon caused flooding in Peru ​on Wednesday that disrupted access to the ancient Inca citadel of Machu Picchu, closed roads due to landslides and flooded ​homes ‌in the capital Lima. Peruvian authorit...",
-        "url_fonte": "https://www.france24.com/en/video/20260821-el-ni%C3%B1o-rains-in-peru-disrupt-access-to-machu-picchu",
-        "categoria": "Política (France 24)",
-        "data_noticia": "21/08/2026 09:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tunisia opposition protests against president amid economic discontent",
-        "descricao": "\nActivists and opponents ⁠of Tunisian President Kais ​Saied took to the streets of Tunis on Thursday, calling for his departure ​and the restoration of democracy in the latest protest against his governance amid growing political and economic discont...",
-        "url_fonte": "https://www.france24.com/en/video/20260821-tunisia-opposition-protests-against-president-amid-economic-discontent",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "21/08/2026 09:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Conference League: Monaco take first-leg lead in Poland",
-        "descricao": "\nMonaco won 3-2 away at Gornik Zabrze in the first leg of their Conference League play-off. Mika Biereth opened the scoring before Lamine Camara doubled Monaco’s lead after the break. Paris Brunner then restored the visitors’ advantage after the Poli...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20260821-conference-league-monaco-take-first-leg-lead-in-poland",
-        "categoria": "Política (France 24)",
-        "data_noticia": "21/08/2026 08:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.0152,
-          -9.19
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
-        "descricao": "\nA 6.7-magnitude earthquake struck southern Peru on Thursday, injuring three people and damaging at least 22 homes, six schools and 12 medical centres, according to preliminary assessments. The quake was also felt in Lima and several other parts of t...",
-        "url_fonte": "https://www.france24.com/en/americas/20260821-strong-6-7-magnitude-earthquake-strikes-southern-peru-damaging-homes-and-schools",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "21/08/2026 08:08"
+        "titulo_evento": "Iran's president: Time to end war in 'position of strength'",
+        "descricao": "Iranian media cite Masoud Pezeshkian as saying it would be a good time to end the war with the US, \"as we are in a position of strength and dignity.\" He also said Tehran would never \"bow to intimidation.\"",
+        "url_fonte": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "21/08/2026 15:37"
       }
     },
     {
@@ -550,6 +499,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Shameful’: Israel faces international backlash after closing probe into Gaza aid strike",
+        "descricao": "\"The victims of this incident and their families deserve justice and accountability, and we will continue to seek answers on their behalf,” the governments said.",
+        "url_fonte": "https://www.politico.eu/article/israel-faces-backlash-over-gaza-aid-strike-probe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "21/08/2026 15:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -577,6 +543,23 @@
         "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-archives-is-china-the-abusive-partner-the-eu-just-cant-quit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "21/08/2026 02:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/small-business/articles/pug-protruding-tongue-worlds-ugliest-145000955.html",
+        "categoria": "Política (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -640,62 +623,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
-        "descricao": "The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.",
-        "url_fonte": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
-        "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "20/08/2026 09:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China Sentences Evergrande Founder to Life in Prison",
-        "descricao": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
-        "url_fonte": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "20/08/2026 19:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpVbzJZOURDZ3gxYnYzUWZwVjhkdW9yQdIBrwFBVV95cUxQUlVqUi1GQlRNRkY1bzhvb1ZpV0dpd21lMjU5Z2V2c0xVemxGamJrX0F1VjNyS2hsMDZBYU9vVW5udzVRNkd1OElLYVl2SUJZMmlUTGYyMlhSY2xOT2kxMmI1ZUZQWFBvUFRrNXJRZk9JSWtXcnBERXdsN3hMSHdhMC0zRFJFbTBxb0lJbFZUd08wdXR3c1g4dk5vTlNTdm5IOEx6VjdwV2NpbFNFOTlv?oc=5",
+        "titulo_evento": "Iran’s Pezeshkian Calls for End to War with US - IranWire",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW5WZDFBMkxQdzh0QmFRZlI0ZHdxMlJ1ZGhmR2dldmIzbzJPWGE4OHFKSlNseTZtdkM0d2x0SE82ODdqc1M3SklwU3hUNzVuMnNFZHkyVG50THlqZmRHc1AzV2VQeEE3NXdkYUViWGlEeHc5OVVzWFlhRnl2S1ZUenphc002U19saVE?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW5WZDFBMkxQdzh0QmFRZlI0ZHdxMlJ1ZGhmR2dldmIzbzJPWGE4OHFKSlNseTZtdkM0d2x0SE82ODdqc1M3SklwU3hUNzVuMnNFZHkyVG50THlqZmRHc1AzV2VQeEE3NXdkYUViWGlEeHc5OVVzWFlhRnl2S1ZUenphc002U19saVE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 14:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran calls for end to war from 'position of power' as US ups pressure - Euronews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFlt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFltcHNyYm9BYWhOYm9iMDQ2dEt1UFZiWnVNS2lhNWlxZVY?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 12:31"
+        "data_noticia": "21/08/2026 14:56"
       }
     },
     {
@@ -725,6 +657,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran's president calls for end to war from 'position of power' as US ups pressure - Euronews",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFlt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFltcHNyYm9BYWhOYm9iMDQ2dEt1UFZiWnVNS2lhNWlxZVY?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 12:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "‘We didn’t plan for this’: How the Iran war left the USS Abraham Lincoln short on supplies - MS NOW",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwd2w2dnZjaTZwUHFtMmlIUDVJRnA2SXhtd2tOaHlpNDNTRDVvYjBDS1VYM1V4b042dVd1V2J4bVdmRmQ2Y3hVTGd2dHY1OTQ2dGk1WVRfTGVNMnJUdW04Z2s5bw?oc=5\" target=\"_blank\">‘We didn’t plan for this’: How the Iran war...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwd2w2dnZjaTZwUHFtMmlIUDVJRnA2SXhtd2tOaHlpNDNTRDVvYjBDS1VYM1V4b042dVd1V2J4bVdmRmQ2Y3hVTGd2dHY1OTQ2dGk1WVRfTGVNMnJUdW04Z2s5bw?oc=5",
@@ -737,50 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-        "categoria": "Economia (Google News Military)",
-        "data_noticia": "21/08/2026 13:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s president says war with US should end while Tehran is in position of ‘power, dignity’ - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYk5nR2Y5Ujh6d0VUQzczV1dHeXZMMGZ5QUV4a0Y5YkRnUE5TUWI1TTFBLUtBdmk2SHh2cjgzb3BkQzFTc2RSYUpGaGRzT0JUaENZSW1wQ3lqVlpUZFFwaHBsOEYtaXRVb1JxMW9ReElzRW1QNHVMdWVRd0VGYTJqb2lEMkh5S3oyamlxc1VsanZoRXFZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYk5nR2Y5Ujh6d0VUQzczV1dHeXZMMGZ5QUV4a0Y5YkRnUE5TUWI1TTFBLUtBdmk2SHh2cjgzb3BkQzFTc2RSYUpGaGRzT0JUaENZSW1wQ3lqVlpUZFFwaHBsOEYtaXRVb1JxMW9ReElzRW1QNHVMdWVRd0VGYTJqb2lEMkh5S3oyamlxc1VsanZoRXFZcU1ZaHJFTGFQSWlqdlZsMVBRdDdhdHp1bXFDbG9YNVJrdlkxSkREdTBzdGVfZmMyc1BvNzM1aDFyVzZk?oc=5",
+        "titulo_evento": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpVbzJZOURDZ3gxYnYzUWZwVjhkdW9yQdIBrwFBVV95cUxQUlVqUi1GQlRNRkY1bzhvb1ZpV0dpd21lMjU5Z2V2c0xVemxGamJrX0F1VjNyS2hsMDZBYU9vVW5udzVRNkd1OElLYVl2SUJZMmlUTGYyMlhSY2xOT2kxMmI1ZUZQWFBvUFRrNXJRZk9JSWtXcnBERXdsN3hMSHdhMC0zRFJFbTBxb0lJbFZUd08wdXR3c1g4dk5vTlNTdm5IOEx6VjdwV2NpbFNFOTlv?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 11:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia’s missile tests around disputed islands anger Japan - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 05:03"
+        "data_noticia": "21/08/2026 14:01"
       }
     },
     {
@@ -810,6 +725,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Why Dubai may be vital to the Trump administration's economic war on Iran - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 15:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "US allies in Asia wary as Trump moves military assets for Iran war - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
@@ -822,16 +754,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Encyclopedia Britannica",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Deal, Explained, United States, Israel,...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 05:00"
+        "titulo_evento": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpHVXJUV3A5cTY4b0ctYVZwVUZ3bGFSeFoxaGNMSEtBNUtGR2cxR0tsWi12N09DQzVVY1VPZ3lUNDNVU2t0MGd3Ql9rczBVNnpLZDhkWUpNVHlLekF4a1REMDc2QVZHX05NWmJ4OGtTRWlGcXRodmJsMWZEVWFhSWs1SXA2WWM1NHhNSXl3QTd1VnFH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenpHVXJUV3A5cTY4b0ctYVZwVUZ3bGFSeFoxaGNMSEtBNUtGR2cxR0tsWi12N09DQzVVY1VPZ3lUNDNVU2t0MGd3Ql9rczBVNnpLZDhkWUpNVHlLekF4a1REMDc2QVZHX05NWmJ4OGtTRWlGcXRodmJsMWZEVWFhSWs1SXA2WWM1NHhNSXl3QTd1VnFHNnJqNnB5aVJXWFhudjA5Tlh0YjA4d9IBrwFBVV95cUxObEVoRGp3U0lCOG9JODRJdHVtTzBDQXlJTU96YVB3SDlmaGRmemU1WmZlYnlLakN0LW0zNTFZcWV3aTBWVHRzbV84ZTVWb3pIY2lmVUg1S09PWUltVUlfa002bGxHQkp4RUhLMXkzM2dvUHl6YXhpQ2tpNnhORHlLSzNtMGpzTlYzbjVJTEtXZUpWYTdJb0NQcU8wY2NKUjJ4ZWxKSmh0NTNQb3dTT0ZF?oc=5",
+        "categoria": "Economia (Google News Military)",
+        "data_noticia": "21/08/2026 13:51"
       }
     },
     {
@@ -839,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFVuelZGWkRyMW90WS0zZU1rNHdHbVQ2VFlYU2wtZi1HekxGMGNnamstY21MbWVKTTJ1WmYyem5GZGh3ZHJ2eVU2S1Jsd09TSWF5VVRyd19hcnhYRDFXOW5GRHVjMlo3MzNkUG1wdUd3ME9vUEFrYmcwb2xWSWNTaUtmWHpIQ3pMTTVYWFdrRjdvT1JM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFVuelZGWkRyMW90WS0zZU1rNHdHbVQ2VFlYU2wtZi1HekxGMGNnamstY21MbWVKTTJ1WmYyem5GZGh3ZHJ2eVU2S1Jsd09TSWF5VVRyd19hcnhYRDFXOW5GRHVjMlo3MzNkUG1wdUd3ME9vUEFrYmcwb2xWSWNTaUtmWHpIQ3pMTTVYWFdrRjdvT1JMd2llUTdJZnQ2UFpwQnl5REMwY1A0ZENfaWwxNUxxVXAzVXJfdzI3ajdpSUdzeC1aMG8waUtKT1BWbk0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 07:11"
+        "titulo_evento": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+        "categoria": "Economia (Google News Military)",
+        "data_noticia": "21/08/2026 13:19"
       }
     },
     {
@@ -856,16 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Turkey’s rise is a warning: Israel must rebuild its military strength now - Ynetnews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRjBBdnkxZlh3QWlmTjc2RTFHZ2RWUnFZTVlmOTVFY09SQzJ6cFdOa20tT0NrcmkzT3pIRG5HdERXQ3Etck1qcmVYUExRdTh4YW15VXVtdTY3WC1xb1o0WEIyVzZCaW1VdVZYMHBB?oc=5\" target=\"_blank\">Turkey’s rise is a warning: I...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRjBBdnkxZlh3QWlmTjc2RTFHZ2RWUnFZTVlmOTVFY09SQzJ6cFdOa20tT0NrcmkzT3pIRG5HdERXQ3Etck1qcmVYUExRdTh4YW15VXVtdTY3WC1xb1o0WEIyVzZCaW1VdVZYMHBB?oc=5",
+        "titulo_evento": "Russia’s missile tests around disputed islands anger Japan - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 10:43"
+        "data_noticia": "21/08/2026 05:03"
       }
     },
     {
@@ -873,16 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iranian president: It’s time to end war with US as Tehran is ‘in a position of power’ - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVRiZmlDeUJjblFXNEt0bUUxZjdOOEloRHBnWmhrZklHTzFBRExKMXdDOUlxLVo3dHFWdFFXTUsyenNCSWFLekpKQms3YzdoNDRSWlB6U3lmb2VUcHFzUWVCN0FEaFJ2UmNlaUVLS0dMSTFzSzRvSERFcjlpQmNuQmVidnNXbHJ4cmRpR1B6dS1Cb0tx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVRiZmlDeUJjblFXNEt0bUUxZjdOOEloRHBnWmhrZklHTzFBRExKMXdDOUlxLVo3dHFWdFFXTUsyenNCSWFLekpKQms3YzdoNDRSWlB6U3lmb2VUcHFzUWVCN0FEaFJ2UmNlaUVLS0dMSTFzSzRvSERFcjlpQmNuQmVidnNXbHJ4cmRpR1B6dS1Cb0txTjVlZE52eGlPQ2xJT3dJSURNczNYVy1kd05FMV9QRmhvN2dTTEN0XzdUY3R6b3ZXdnc?oc=5",
+        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - dw.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 11:28"
+        "data_noticia": "21/08/2026 15:43"
       }
     },
     {
@@ -890,16 +822,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Opinion | Why Do We Keep Imagining a New Civil War? - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE92T0s3R04weE9Tbkg2S0FvaGF5aU1POWJzbHVKQ2w1U295Z0Z4WGZ1RGg4bW5JSHh1cGZKbDFYTzN4aWh3MTN4bjlRb25DeExURnFJbFpxb2YzTzM3UDh3WXB4TnVWaVJTcm0tdVhkZFpYZw?oc=5\" target=\"_blank\">Opinion | Why Do We Kee...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE92T0s3R04weE9Tbkg2S0FvaGF5aU1POWJzbHVKQ2w1U295Z0Z4WGZ1RGg4bW5JSHh1cGZKbDFYTzN4aWh3MTN4bjlRb25DeExURnFJbFpxb2YzTzM3UDh3WXB4TnVWaVJTcm0tdVhkZFpYZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 09:04"
+        "titulo_evento": "Drugs developed in China reaching international markets, research finds - Medical Xpress",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5\" target=\"_blank\">Drugs developed...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 15:40"
       }
     },
     {
@@ -907,16 +839,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "U.S., South Korean mil­i­taries wrap up drill early, a day after North Korea's missile barrage - Spectrum News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdklmTlh0MGpiQVQtNVlRTGNtaVB2dkxZSnhKdFhIb0w2UDFxTy1rdXZnUDliUkpCRUtFbXBtZlc1TWRWYmcyX25HVlR6bUd4cnd1N25KX2MwdGFVX3V3N1hmcFo5NE5uNXBBQ1p2S1RxZFdqN1ZXMU5od3NySGl1SldqenE4czdRT01IazlzWEltZnhH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdklmTlh0MGpiQVQtNVlRTGNtaVB2dkxZSnhKdFhIb0w2UDFxTy1rdXZnUDliUkpCRUtFbXBtZlc1TWRWYmcyX25HVlR6bUd4cnd1N25KX2MwdGFVX3V3N1hmcFo5NE5uNXBBQ1p2S1RxZFdqN1ZXMU5od3NySGl1SldqenE4czdRT01IazlzWEltZnhHSk5rNGNhVGJZSmlKaVM3aThXSQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 13:22"
+        "titulo_evento": "Global Markets: Midnight deadline looms in Canada-U.S. trade talks - The Western Producer",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVV3ZzN4X0U2dllzSWdFT2daZUljRlRSTkVRTmtwdWtNVHpvbm9IVVk2TGtHRFM3UXlnTmpQcXpmLTBpTHpQZE42NjctM2ZkNmFaNjh4MmoxVVNna1ZOTDR2ajZLSjRYWldqV1EtT1FVWlo5cktqQzJhVTdsNG9ZWHVtRUtvOTV3SXAtYmk1WTk3Q3Ey...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVV3ZzN4X0U2dllzSWdFT2daZUljRlRSTkVRTmtwdWtNVHpvbm9IVVk2TGtHRFM3UXlnTmpQcXpmLTBpTHpQZE42NjctM2ZkNmFaNjh4MmoxVVNna1ZOTDR2ajZLSjRYWldqV1EtT1FVWlo5cktqQzJhVTdsNG9ZWHVtRUtvOTV3SXAtYmk1WTk3Q3EybnFXZ1czbzlaQ09oUU1uckZFQQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 14:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump's Plan to Squeeze Iran's Economy Will Live or Die in Dubai - Kurdistan24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJM...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJMZExJMkJ0QVJSSnFkYnZXdlNkRGUtQQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 14:49"
       }
     },
     {
@@ -958,16 +907,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.9253,
-          -14.235
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "HSBC set to grow again in Brazil with focus on wholesale banking - Valor International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOENGWkNTZHhHMUp1cDVQSi1LVzN6aVVYejVlNG51Uk51aWtETzFvcVRfZFljai1kTy1UZENPbXVqajUyTVBWWEdscUwyN3lNdUtidzMwczVSenJzNFZBMHFtWXZoanJHMFNFaXphQ3dsQTRGZWVKWGFXSWJYX0VObVU0T0RvNThEb1dkcW1zU1ktQzFt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOENGWkNTZHhHMUp1cDVQSi1LVzN6aVVYejVlNG51Uk51aWtETzFvcVRfZFljai1kTy1UZENPbXVqajUyTVBWWEdscUwyN3lNdUtidzMwczVSenJzNFZBMHFtWXZoanJHMFNFaXphQ3dsQTRGZWVKWGFXSWJYX0VObVU0T0RvNThEb1dkcW1zU1ktQzFtQVg4dGFuMWlieDZVQ3R1b1BVVkZKMko0YlpCSzhOUFZtZlBHR0g0UllTcHFOdHpuTmVQM1FqTdIB2gFBVV95cUxOMDZwdmNPRVN1bzIzYjlXanpiTHJmUWdpTGJZN1l3WjhqODdDSDYtbU9GRmpwaDUzTmczdjlmZUpDZE9PalJiZXl6OER5d0VDVjY3ZV9SN1lMTUJwOF9MUDFaZTRwTXYyQ1lOSGVERlRJZ2Q4ZFc1bFlCVmhpZ09LWEdVRUh4dmlxLUo0VFEtQlVPcV8tWS1YUTJyTXhCVDB4NU93R2NsckVnWUhLclZQUFVZMVJfUV93RGZqQVY2TnczVmtBU2J5M2hOWXY1OTBiaHhYOHhtQl9adw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "21/08/2026 11:42"
+        "titulo_evento": "After six months of war, Washington has failed to strangle Iran’s economy - EL PAÍS English",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "21/08/2026 08:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s new bet on Iran: Break the economy, avoid another war - Ynetnews",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBYbHlVM3RnUTFLeFprd0ZnLWl1QzAxUG12MXRFOXZKQXJpaW80LTZOc1VkVDVmUTZ3eHBneVZJUDhSUXVWcm8tZHotcjJMempHeFFXTG55R29pdXdxOGNZX1JtZXhOaUZWdmNKR2d3?oc=5\" target=\"_blank\">Trump’s new bet on Iran: Brea...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYbHlVM3RnUTFLeFprd0ZnLWl1QzAxUG12MXRFOXZKQXJpaW80LTZOc1VkVDVmUTZ3eHBneVZJUDhSUXVWcm8tZHotcjJMempHeFFXTG55R29pdXdxOGNZX1JtZXhOaUZWdmNKR2d3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "21/08/2026 15:51"
       }
     }
   ]
