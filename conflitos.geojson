@@ -45,23 +45,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US Navy destroyer spent 4 days without power in South China Sea",
-        "descricao": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
-        "url_fonte": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "19/08/2026 16:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
         "titulo_evento": "A Rock and China’s Three-Sea Problem",
         "descricao": "<p>Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of ...",
         "url_fonte": "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/",
@@ -147,6 +130,40 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+        "descricao": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
+        "url_fonte": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "21/08/2026 16:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+        "descricao": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "21/08/2026 16:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
         "titulo_evento": "Russian expert warns of impending social crisis as Ukraine death toll rises",
         "descricao": "Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
         "url_fonte": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
@@ -210,23 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US allies in Asia wary as Trump moves military assets for Iran war",
-        "descricao": "Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/08/2026 12:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -261,6 +261,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+        "descricao": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024. ",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "21/08/2026 15:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -278,67 +295,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tornadoes touch down in New York and Delaware",
-        "descricao": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "21/08/2026 14:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1834,
-          21.5218
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Millions in Cuba face water shortages as oil crisis deepens",
-        "descricao": "\nIn Cuba, seven months of an effective oil blockade imposed by the Trump administration has not only increased power outages but is also leaving more and more people without running water. In August 2025, 2.6 million people on the Caribbean island na...",
-        "url_fonte": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "21/08/2026 15:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "PSG heavily favoured to win sixth successive Ligue 1 title",
-        "descricao": "\nParis Saint-Germain remains the team to beat in Ligue 1, with back-to-back Champions League triumphs bolstered by an influx of new arrivals this season. The team's opening match against Stade Rennais this Sunday has been moved to Rennes after their ...",
-        "url_fonte": "https://www.france24.com/en/sport/20260821-psg-heavily-favoured-win-sixth-successive-ligue-1-title",
-        "categoria": "Política (France 24)",
-        "data_noticia": "21/08/2026 14:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
-        "descricao": "\nAnnette Young is pleased to welcome Dr. Aaron Y. Zelin, Senior Fellow at the Washington Institute for Near East Policy. He sees Israel’s recent actions in the West Bank and Syria as part of a broader shift in its strategic posture. Since October 7, ...",
-        "url_fonte": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "21/08/2026 12:57"
+        "titulo_evento": "Iran's president calls for end to war from 'position of power' as US ups pressure",
+        "descricao": "President Pezeshkian said Iran was in a position of \"power and dignity\" and should end the war on its own terms, even as Washington prepares to ramp up economic sanctions it described as \"Economic D-Day.\"",
+        "url_fonte": "http://www.euronews.com/2026/08/21/irans-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "21/08/2026 14:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "More than 300 migrants, including 40 children, rescued off Mauritania, coastguard says",
+        "descricao": "Thousands of people have for years attempted the perilous Atlantic route on overloaded and often dilapidated boats to reach Europe via Spain's Canary Islands.",
+        "url_fonte": "http://www.euronews.com/2026/08/21/more-than-300-migrants-including-40-children-rescued-off-mauritania-coastguard-says",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "21/08/2026 13:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia conducts missile tests on disputed islands as Japan protests drills",
+        "descricao": "The Pacific Fleet conducted a Bastion missile test just days after Putin's visit to the islands prompted Tokyo to summon Russia's ambassador to Japan and drew a US statement of support for Japanese sovereignty.",
+        "url_fonte": "http://www.euronews.com/2026/08/21/russia-conducts-missile-tests-on-disputed-islands-as-japan-protests-drills",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "21/08/2026 12:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran executes 'foreign national' over alleged involvement in January protests",
+        "descricao": "Iran executed another protester on Thursday over the deadly 2026 Isfahan unrest, as rights groups warn of forced confessions and death sentences used to stifle dissent.",
+        "url_fonte": "http://www.euronews.com/2026/08/21/iran-executes-foreign-national-over-alleged-involvement-in-january-protests",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "21/08/2026 10:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Two fishermen rescued by Mexico's coastguard after floating at sea for five days in cooler box",
+        "descricao": "Rescue teams gave no details regarding the fate of the boat they had originally taken out, nor did it explain how they survived five days at sea.",
+        "url_fonte": "http://www.euronews.com/2026/08/21/group-of-15-cuban-migrants-rescued-by-mexicos-navy-after-days-adrift-at-sea",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "21/08/2026 10:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kyiv residents search through the wreckage after Russia’s deadly barrage",
+        "descricao": "Residents of Kyiv’s Solomianskyi district spent Thursday assessing the damage after a Russian overnight barrage of ballistic and cruise missiles and drones tore through a residential area.",
+        "url_fonte": "http://www.euronews.com/video/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "21/08/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Australia charges man with trying to pass Ukrainian military intel to Russia",
+        "descricao": "The crime of intentional foreign interference carries a penalty of 20 years' imprisonment in Australia.",
+        "url_fonte": "http://www.euronews.com/2026/08/21/australia-charges-man-over-trying-to-inform-russia-of-ukrainian-military-activities",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "21/08/2026 07:07"
       }
     },
     {
@@ -351,28 +419,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Key European leaders demand Israel halt West Bank settlement project",
-        "descricao": "\nFrance, Italy, Britain and Germany on Thursday piled on mounting international condemnation of a major settlement project in the occupied West Bank, after Israeli authorities opened bidding for more than 1,200 homes in the area. The E1 plan was gree...",
-        "url_fonte": "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "21/08/2026 11:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France, Germany, UK and Italy condemn Israel's 'E1' West Bank plan",
-        "descricao": "\nFrance, Germany, ​Britain and Italy condemned on ​Thursday plans by Israel to open up construction tenders for a ​residential ‌property project ⁠called 'E1' in the occupied West Bank. Hundreds of ​thousands of Israelis have settled among millions of...",
-        "url_fonte": "https://www.france24.com/en/video/20260821-france-germany-uk-and-italy-condemn-israel-s-e1-west-bank-plan",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "21/08/2026 09:48"
+        "titulo_evento": "France issues warning over thousands of substandard condoms",
+        "descricao": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infection and pregnancy tests amid risks of bursting or perforations.",
+        "url_fonte": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "21/08/2026 16:35"
       }
     },
     {
@@ -550,16 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/small-business/articles/pug-protruding-tongue-worlds-ugliest-145000955.html",
-        "categoria": "Política (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
+        "titulo_evento": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+        "descricao": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
+        "url_fonte": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+        "categoria": "Política (NYT Business)",
+        "data_noticia": "21/08/2026 18:05"
       }
     },
     {
@@ -623,6 +674,108 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - DW.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 15:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S.-South Korea military drill wraps up early, a day after North Korea's missile barrage - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVLTWxGYU5hRmY1UlVVQUdXcUx1Vll3cUgwbU5TTy1Ob0szamNTQURxbDhB0gHDAUFVX3lxTE1GTE9fQ1JCV2U5ckNNTkhNRWUtbEpIVi1sYzRMeFZ2NWlCOUZpdGlUOGxQNVJKcEJRdGVRY3ItYjg4Z2NEZ3R3WmhlcHZ2clhxZllad2NkbXMxbmhsTWJHSXlFcGhJNUNhd041UnVXb05tNi1RTlBfRDhOZ0N1dU14MVFwYmR4bnIwS0RoQ3I4a21sdTJTS2pWSGZJTkhSQndWeHpka3NNY1R3bG94UW9ra0VLR21wdWtxb1U1RmF2UHNfWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 16:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why Dubai may be vital to the Trump administration's economic war on Iran - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 15:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea Delivers Russia KN-30 Ultra-Heavy Ballistic Missile with Five Times the Firepower of the Iskander - Military Watch Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZZy1VNEliZFlZSS1icVJtTHR6OFF4eGUzVFZJ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 17:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "More than 750 U.S. service members wounded in Iran war - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtkV0NCR3hqOERrcUYxVmw5NkhYUnFZaE1UMFYw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 17:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon says more than 750 US service members wounded in Iran war - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9GU0NEQThadWpqdUNZbVk0eUd1cHByYkNxczZoSVZUVEFoS1RhSTlwbHMyQ0pjOTVaWWVJRTRKVFljN2JlaEd2N3hWSjkxdVMzTWh5dUhQa0ZPTnRsMDNKZzNTcC1CbFd6RlVqRS0xM2dzU3FLNXliRE43d9IBgAFBVV95cUxOazhMZnN2cmtqNTNndjRa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GU0NEQThadWpqdUNZbVk0eUd1cHByYkNxczZoSVZUVEFoS1RhSTlwbHMyQ0pjOTVaWWVJRTRKVFljN2JlaEd2N3hWSjkxdVMzTWh5dUhQa0ZPTnRsMDNKZzNTcC1CbFd6RlVqRS0xM2dzU3FLNXliRE43d9IBgAFBVV95cUxOazhMZnN2cmtqNTNndjRaVEFhOUplZ0QxRlFjSlhONTZWUXpvNDl1SlJrTlBrQjFhRnR1NlVxM3pPV051N1R5WFo1WVhKSDRyNm9LNktsWHEwLWJQbkhMVVlwM0I5Qkt6RTV2dHcyUmNOTXZvUC00UTUwdVRySWdVeQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 15:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran’s Pezeshkian Calls for End to War with US - IranWire",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW5WZDFBMkxQdzh0QmFRZlI0ZHdxMlJ1ZGhmR2dldmIzbzJPWGE4OHFKSlNseTZtdkM0d2x0SE82ODdqc1M3SklwU3hUNzVuMnNFZHkyVG50THlqZmRHc1AzV2VQeEE3NXdkYUViWGlEeHc5OVVzWFlhRnl2S1ZUenphc002U19saVE?oc=5\" target...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW5WZDFBMkxQdzh0QmFRZlI0ZHdxMlJ1ZGhmR2dldmIzbzJPWGE4OHFKSlNseTZtdkM0d2x0SE82ODdqc1M3SklwU3hUNzVuMnNFZHkyVG50THlqZmRHc1AzV2VQeEE3NXdkYUViWGlEeHc5OVVzWFlhRnl2S1ZUenphc002U19saVE?oc=5",
@@ -635,50 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "Iran president says time to end war while in position of strength - France 24",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHk4RHd6UGNxQ21ETWRuQkJ3VDRTZmFPbndESGhZSFRHXy1zY1V2b2x0REVZVGVjSXZ5QU10NzRId1QyREEtM2dGT1JYY1Q2Z3JBQmJqYklEWGJtdWRPQkNtRTNEY3MxY1V0d1BkNFZjcThMUmVFRlZXbHkzdW9tY0NMczZsTFdHU1FRcEt1aWM4NzBG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHk4RHd6UGNxQ21ETWRuQkJ3VDRTZmFPbndESGhZSFRHXy1zY1V2b2x0REVZVGVjSXZ5QU10NzRId1QyREEtM2dGT1JYY1Q2Z3JBQmJqYklEWGJtdWRPQkNtRTNEY3MxY1V0d1BkNFZjcThMUmVFRlZXbHkzdW9tY0NMczZsTFdHU1FRcEt1aWM4NzBGejdFTFlSS2haNDdGSktXU3B3b3c3V0YxMFVsQTZB?oc=5",
+        "titulo_evento": "How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 12:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's president calls for end to war from 'position of power' as US ups pressure - Euronews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFlt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFltcHNyYm9BYWhOYm9iMDQ2dEt1UFZiWnVNS2lhNWlxZVY?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 12:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘We didn’t plan for this’: How the Iran war left the USS Abraham Lincoln short on supplies - MS NOW",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwd2w2dnZjaTZwUHFtMmlIUDVJRnA2SXhtd2tOaHlpNDNTRDVvYjBDS1VYM1V4b042dVd1V2J4bVdmRmQ2Y3hVTGd2dHY1OTQ2dGk1WVRfTGVNMnJUdW04Z2s5bw?oc=5\" target=\"_blank\">‘We didn’t plan for this’: How the Iran war...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwd2w2dnZjaTZwUHFtMmlIUDVJRnA2SXhtd2tOaHlpNDNTRDVvYjBDS1VYM1V4b042dVd1V2J4bVdmRmQ2Y3hVTGd2dHY1OTQ2dGk1WVRfTGVNMnJUdW04Z2s5bw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 09:00"
+        "data_noticia": "21/08/2026 18:20"
       }
     },
     {
@@ -708,45 +827,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 09:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why Dubai may be vital to the Trump administration's economic war on Iran - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTM2LVBCZWJBemgtQ1RNNnd4dEdkWUxRMTBCcXFmbDE1NnhNZjd4YlJCTnkwRm9ZRXY0OXNxZE52SDg0YjVTakFnVFNWM09nVENzRXVuUHBNQnhKMTU2clZYRTBJWGx5RXk2cWtIcUlsdzZlSE52Um5kSUpoNGY0UFQyWjhnZVYyUGdNQ2pKNThYQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 15:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "US allies in Asia wary as Trump moves military assets for Iran war - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "21/08/2026 12:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "War on Iran: The US could focus on economically isolating Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSkJSQmVNaDMtRlVMQXRKYmxzbWlZU1NWM0s3elN3SlgtS2pwU2RsNDdLUkpHbUJYYm53aFB4UFBHVnlTVWtkX3dUWnlvTDl6azd2TUE4d3IxX3MtcEhVYU5OMEdlMXE4YmxGblBla1BnWXJsVXBYWHJtQnEzTVpuYWJHSFBzQ0J4djI4azRtMk5XVEEt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSkJSQmVNaDMtRlVMQXRKYmxzbWlZU1NWM0s3elN3SlgtS2pwU2RsNDdLUkpHbUJYYm53aFB4UFBHVnlTVWtkX3dUWnlvTDl6azd2TUE4d3IxX3MtcEhVYU5OMEdlMXE4YmxGblBla1BnWXJsVXBYWHJtQnEzTVpuYWJHSFBzQ0J4djI4azRtMk5XVEEtOWF4dnI1RHBvQlBSNDNJMmp2dEc3N0k5Y0R5dXJ30gG3AUFVX3lxTE9mMU1Ebm1ndktYbXoyeTFRWFdGVjBMcUdtZnhWd3kyNXBYeVFZcHpScUtwOWM1VFBuYnFzVkkwT281bDYwS2ZRcmxYbGtZRUQ1U0FraHAwMlBQdEZQSlpDU0o0MVU0LU5wMm1xbU1oUl9LbGpiMnVEd1ZWUExUZnhVRWtSNnlwMUZUcE1FNk9wLVdJTGZPVmhkaW9UaFRRRy1EbWQwU1RHTEJpME1LUGItY254alVBWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran president says time to end war while in position of strength - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHk4RHd6UGNxQ21ETWRuQkJ3VDRTZmFPbndESGhZSFRHXy1zY1V2b2x0REVZVGVjSXZ5QU10NzRId1QyREEtM2dGT1JYY1Q2Z3JBQmJqYklEWGJtdWRPQkNtRTNEY3MxY1V0d1BkNFZjcThMUmVFRlZXbHkzdW9tY0NMczZsTFdHU1FRcEt1aWM4NzBG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTHk4RHd6UGNxQ21ETWRuQkJ3VDRTZmFPbndESGhZSFRHXy1zY1V2b2x0REVZVGVjSXZ5QU10NzRId1QyREEtM2dGT1JYY1Q2Z3JBQmJqYklEWGJtdWRPQkNtRTNEY3MxY1V0d1BkNFZjcThMUmVFRlZXbHkzdW9tY0NMczZsTFdHU1FRcEt1aWM4NzBGejdFTFlSS2haNDdGSktXU3B3b3c3V0YxMFVsQTZB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 12:09"
       }
     },
     {
@@ -776,28 +895,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-        "categoria": "Economia (Google News Military)",
-        "data_noticia": "21/08/2026 13:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia’s missile tests around disputed islands anger Japan - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3RJYkw5bTlHQS14VncxTjcxNi1YdE11M3lvZ0J5Z1pRcy1uTGdQNXdmRFZaZFRvQVNXbmJLLUVOMGxJX055Snl0UkZKZUpSS3pObG1DR3J5SzdBcmRSYkNJY05MdG80Vm1GdmpoTThRQTFjY2RSckJzNTZqeDFqN09iS0ZETGtoeHl2ME5YeDFfZw?oc=5",
+        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 05:03"
+        "data_noticia": "21/08/2026 09:24"
       }
     },
     {
@@ -810,11 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - dw.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
+        "titulo_evento": "Iran's president calls for end to war from 'position of power' as US ups pressure - Euronews",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFlt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3ZUcG9hcXkyOTA5TEJXVzExRzJyNm9sY3VnVzJhQkZBNW00eXhBOUVqcVJqRVE1U2x0OURaM0VCTW1RVzNzbVdzakFtRlhHTmRWQmxlRUwybGZfN19QZ29iOEd4bUh3ellJYlNwN09LQTZWX0NEZUNzTDJvVElkazg0VlFhdW83eEhSeVdsRWx5ZFltcHNyYm9BYWhOYm9iMDQ2dEt1UFZiWnVNS2lhNWlxZVY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 15:43"
+        "data_noticia": "21/08/2026 12:31"
       }
     },
     {
@@ -822,16 +924,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Drugs developed in China reaching international markets, research finds - Medical Xpress",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5\" target=\"_blank\">Drugs developed...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5",
+        "titulo_evento": "Iran president says time to end war while in position of strength - Courthouse News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaDNFVzk5X2U2c0NFb1I4a3hfRG9UckpJalpvX3d1ZUFib09zYURKZDU2RDZ1SEFFQjY3Q1RlLVBBRThrVDlwOTFhV0w3X2p6Tm1GQzFwcXcxeDNfQWM3NTk0WjRJYUY5OTcxcGhGM1pLeFBqREdPVkZ1ZUdrZC10YWJmNENQbE9oUDk4b3dDejlVbGNW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDNFVzk5X2U2c0NFb1I4a3hfRG9UckpJalpvX3d1ZUFib09zYURKZDU2RDZ1SEFFQjY3Q1RlLVBBRThrVDlwOTFhV0w3X2p6Tm1GQzFwcXcxeDNfQWM3NTk0WjRJYUY5OTcxcGhGM1pLeFBqREdPVkZ1ZUdrZC10YWJmNENQbE9oUDk4b3dDejlVbGNWR2tQU2JLLTd2Zw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 16:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK economy hands Burnham surprise boost before first budget - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3pWU0pKVmc3QXhCVjNkRmJYekk0T2FTZmdZb2daUFZqYkZtV2pOYVk3TjAyNXNSRGZvNGdvQmlUSWc3cGJ3Y2ZCV3FoNzlHMEVpR2EzLTJURkxQTE5SV3BsNW5KUTRRMUxKaXNYdVNTdVpDR1hiamF3dXp0VjRyRWlRQnYxeFdXbmlQb0xGZ0JLanFz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3pWU0pKVmc3QXhCVjNkRmJYekk0T2FTZmdZb2daUFZqYkZtV2pOYVk3TjAyNXNSRGZvNGdvQmlUSWc3cGJ3Y2ZCV3FoNzlHMEVpR2EzLTJURkxQTE5SV3BsNW5KUTRRMUxKaXNYdVNTdVpDR1hiamF3dXp0VjRyRWlRQnYxeFdXbmlQb0xGZ0JLanFzUXdrcmtZVmJUYWtnQnhmX0JUcw?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "21/08/2026 15:40"
+        "data_noticia": "21/08/2026 14:41"
       }
     },
     {
@@ -849,6 +968,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVV3ZzN4X0U2dllzSWdFT2daZUljRlRSTkVRTmtwdWtNVHpvbm9IVVk2TGtHRFM3UXlnTmpQcXpmLTBpTHpQZE42NjctM2ZkNmFaNjh4MmoxVVNna1ZOTDR2ajZLSjRYWldqV1EtT1FVWlo5cktqQzJhVTdsNG9ZWHVtRUtvOTV3SXAtYmk1WTk3Q3EybnFXZ1czbzlaQ09oUU1uckZFQQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "21/08/2026 14:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Drugs developed in China reaching international markets, research finds - Medical Xpress",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5\" target=\"_blank\">Drugs developed...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 15:40"
       }
     },
     {
@@ -900,23 +1036,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWpTLUNSSHJpYUMxWVV6MkNQRm5lT0hMMzA5NnFOSDNvbjM3NDhzNWJfdENFeXExS0hVZXZiaVpiLWxIZlRZRWlQWEM3dzVpenlVNlhQR3YtcERILVNjYlNsOHhWMWdXTFplMHd3aWUxdVNBQ0Z0Ym5SX00zaklYLVRnaV9aVXNGU0ZNZVItcGlZMEJ2YjRSWFRBX0xXd3Btd3dYVg?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "21/08/2026 10:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "After six months of war, Washington has failed to strangle Iran’s economy - EL PAÍS English",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "21/08/2026 08:35"
       }
     },
     {
