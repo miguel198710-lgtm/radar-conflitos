@@ -125,6 +125,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+        "descricao": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "22/08/2026 00:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+        "descricao": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "22/08/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -152,40 +186,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "21/08/2026 19:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-        "descricao": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/08/2026 18:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian drone attack on busy shopping centre kills 15 in Ukraine",
-        "descricao": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 130.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/08/2026 18:17"
       }
     },
     {
@@ -233,10 +233,10 @@
       },
       "properties": {
         "titulo_evento": "Two injured in stabbing attack at Canada Sikh temple",
-        "descricao": "One suspect is in custody, but police have not disclosed a possible motive.",
+        "descricao": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "21/08/2026 18:27"
+        "data_noticia": "21/08/2026 22:45"
       }
     },
     {
@@ -448,6 +448,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Search continues after deadly mine collapse on Cameroon-Central African Republic border",
+        "descricao": "\nIn tonight’s edition: a deadly landslide at a gold mine in the Central African Republic leaves dozens dead, with victims from Cameroon and Chad. Meanwhile, Ethiopia is turning to Bordeaux expertise and grapevines in a bid to become East Africa’s nex...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/eye-on-africa/20260821-search-continues-after-deadly-mine-collapse-on-cameroon-central-african-republic-border",
+        "categoria": "Política (France 24)",
+        "data_noticia": "21/08/2026 20:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
+        "descricao": "\nA pair of Russian drone strikes that hit a shopping centre in the Ukrainian city of Kryvyi Rih Friday killed at least 15 people and wounded scores more, authorities said. Ukrainian President Volodymyr Zelensky accused Moscow of targeting emergency w...",
+        "url_fonte": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/08/2026 18:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+        "descricao": "\nTurkey said Friday it is seeking an international arrest warrant from Interpol for Israeli Prime Minister Benjamin Netanyahu as part of a domestic criminal case over Israel's interception and detention of dozens of activists attempting to deliver hu...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/08/2026 18:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1834,
+          21.5218
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Millions in Cuba face water shortages as oil crisis deepens",
+        "descricao": "\nIn Cuba, seven months of an effective oil blockade imposed by the Trump administration has not only increased power outages but is also leaving more and more people without running water. In August 2025, 2.6 million people on the Caribbean island na...",
+        "url_fonte": "https://www.france24.com/en/video/20260821-millions-in-cuba-face-water-shortages-as-oil-crisis-deepens",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "21/08/2026 15:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "PSG heavily favoured to win sixth successive Ligue 1 title",
+        "descricao": "\nParis Saint-Germain remains the team to beat in Ligue 1, with back-to-back Champions League triumphs bolstered by an influx of new arrivals this season. The team's opening match against Stade Rennais this Sunday has been moved to Rennes after their ...",
+        "url_fonte": "https://www.france24.com/en/sport/20260821-psg-heavily-favoured-win-sixth-successive-ligue-1-title",
+        "categoria": "Política (France 24)",
+        "data_noticia": "21/08/2026 14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Netanyahu focused on reelection as Israeli govt grows 'less concerned' about international isolation",
+        "descricao": "\nAnnette Young is pleased to welcome Dr. Aaron Y. Zelin, Senior Fellow at the Washington Institute for Near East Policy. He sees Israel’s recent actions in the West Bank and Syria as part of a broader shift in its strategic posture. Since October 7, ...",
+        "url_fonte": "https://www.france24.com/en/netanyahu-focused-on-reelection-as-israeli-govt-grows-less-concerned-about-international-isolation",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/08/2026 12:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Key European leaders demand Israel halt West Bank settlement project",
+        "descricao": "\nFrance, Italy, Britain and Germany on Thursday piled on mounting international condemnation of a major settlement project in the occupied West Bank, after Israeli authorities opened bidding for more than 1,200 homes in the area. The E1 plan was gree...",
+        "url_fonte": "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "21/08/2026 11:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -556,7 +675,7 @@
       },
       "properties": {
         "titulo_evento": "Germany news: Berlin losing its appeal for many Germans",
-        "descricao": "Fewer than a third of Germans find their capital city \"fascinating\", a sharp fall from 20 years ago, a survey has found. Germany is also mulling further action against Russia over the Leipzig drone incident. DW has more.",
+        "descricao": "Fewer than a third of Germans find their capital city \"fascinating\", a sharp fall from 20 years ago, a survey has found. Germany is also mulling further action against Russia over the Leipzig drone incident.",
         "url_fonte": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "21/08/2026 08:51"
@@ -669,23 +788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.4074,
-          39.9042
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Beijing Bets on Fossil Fuels Even as It Leads the World in Renewables",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/articles/beijing-bets-fossil-fuels-even-150000725.html",
-        "categoria": "Política (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -763,7 +865,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtk...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtkV0NCR3hqOERrcUYxVmw5NkhYUnFZaE1UMFYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 21:45"
+        "data_noticia": "21/08/2026 23:33"
       }
     },
     {
@@ -771,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA?oc=5",
+        "titulo_evento": "North Korea Delivers Russia KN-30 Ultra-Heavy Ballistic Missile with Five Times the Firepower of the Iskander - Military Watch Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZZy1VNEliZFlZSS1icVJtTHR6OFF4eGUzVFZJ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 19:15"
+        "data_noticia": "22/08/2026 00:02"
       }
     },
     {
@@ -822,16 +924,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S.-South Korea military drill wraps up early, a day after North Korea's missile barrage - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVLTWxGYU5hRmY1UlVVQUdXcUx1Vll3cUgwbU5TTy1Ob0szamNTQURxbDhB0gHDAUFVX3lxTE1GTE9fQ1JCV2U5ckNNTkhNRWUtbEpIVi1sYzRMeFZ2NWlCOUZpdGlUOGxQNVJKcEJRdGVRY3ItYjg4Z2NEZ3R3WmhlcHZ2clhxZllad2NkbXMxbmhsTWJHSXlFcGhJNUNhd041UnVXb05tNi1RTlBfRDhOZ0N1dU14MVFwYmR4bnIwS0RoQ3I4a21sdTJTS2pWSGZJTkhSQndWeHpka3NNY1R3bG94UW9ra0VLR21wdWtxb1U1RmF2UHNfWQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/08/2026 16:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
+        "titulo_evento": "Byron Donalds says Trump ‘did not break that promise’ to keep prices down amid Iran war - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmxTNzVBVUFtdlZEcjBJTVdIWDdGUjlPeXV2dEVlMDlGX3l6ajAyUFdia3pnUEJTandyck9HQWw3cEROLWJ2Mkh3aW1USlc4TEpmTUQ1QVpWX0lUdC1nVC14b2g3dGdnTU9xenN5VVhwblBoY3BGN0g2UWZWb1RscVNQak5oeVFJZU9OS3lRUkxxWjBH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVmxTNzVBVUFtdlZEcjBJTVdIWDdGUjlPeXV2dEVlMDlGX3l6ajAyUFdia3pnUEJTandyck9HQWw3cEROLWJ2Mkh3aW1USlc4TEpmTUQ1QVpWX0lUdC1nVC14b2g3dGdnTU9xenN5VVhwblBoY3BGN0g2UWZWb1RscVNQak5oeVFJZU9OS3lRUkxxWjBHUF9wcWowTlZOSlZ5d2steTlUVV84Vnl1Zl9Ma080eVppYmtjUmlGWjV0SkhEY0ZWRUJTcEVzM0ZPaHVMRnNQbWxhYUJPa1k?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 15:43"
+        "data_noticia": "21/08/2026 21:12"
       }
     },
     {
@@ -856,33 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S.-South Korea military drill wraps up early, a day after North Korea's missile barrage - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdEliaWZTNzNjTjRpSW5feGJNMENRdWE2VWpuc0UtbFZ2TUFiRERzWkRJNUdCVmdHX0pEdkpxNWtQR2Z6dDVEckNtRGFhVUJFRmRFMGJGQTd0S2xzSkFHN01MX2pEY3RBeEVwQXp0RFZIeWc0VHJ1bWR6Mm0yUHVPS0pMQURKUWdmOUJ0bVE2cV9VYTVLTWxGYU5hRmY1UlVVQUdXcUx1Vll3cUgwbU5TTy1Ob0szamNTQURxbDhB0gHDAUFVX3lxTE1GTE9fQ1JCV2U5ckNNTkhNRWUtbEpIVi1sYzRMeFZ2NWlCOUZpdGlUOGxQNVJKcEJRdGVRY3ItYjg4Z2NEZ3R3WmhlcHZ2clhxZllad2NkbXMxbmhsTWJHSXlFcGhJNUNhd041UnVXb05tNi1RTlBfRDhOZ0N1dU14MVFwYmR4bnIwS0RoQ3I4a21sdTJTS2pWSGZJTkhSQndWeHpka3NNY1R3bG94UW9ra0VLR21wdWtxb1U1RmF2UHNfWQ?oc=5",
+        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - dw.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 16:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7129,
-          37.0902
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Wilderness Retreat Draws Prospective Catholic Military Chaplains to Rocky Mountains - Archdiocese for the Military, USA",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTU4S3JqanQ4TlFpR2tKSWxiSVk4dzhtYXRXZ1c3c3I0bGJBWXBXenl6YnBSNlhrM3F5bktSSkZMZUVjV1ljNVItUjJZSlZoSF9qM3JoUDQxdDcySkVOV1JYUEM2MVNqYUZ4a0QyOTZ2dWxoSllwelJjUmhpMWt0X015c0FQX1BpNXZFb3JGeTdVNkZz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTU4S3JqanQ4TlFpR2tKSWxiSVk4dzhtYXRXZ1c3c3I0bGJBWXBXenl6YnBSNlhrM3F5bktSSkZMZUVjV1ljNVItUjJZSlZoSF9qM3JoUDQxdDcySkVOV1JYUEM2MVNqYUZ4a0QyOTZ2dWxoSllwelJjUmhpMWt0X015c0FQX1BpNXZFb3JGeTdVNkZzNHc2T2JDdGNPdWxtWWpHTkM0SkZGX2Ni?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 18:52"
+        "data_noticia": "21/08/2026 15:43"
       }
     },
     {
@@ -907,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpVbzJZOURDZ3gxYnYzUWZwVjhkdW9yQdIBrwFBVV95cUxQUlVqUi1GQlRNRkY1bzhvb1ZpV0dpd21lMjU5Z2V2c0xVemxGamJrX0F1VjNyS2hsMDZBYU9vVW5udzVRNkd1OElLYVl2SUJZMmlUTGYyMlhSY2xOT2kxMmI1ZUZQWFBvUFRrNXJRZk9JSWtXcnBERXdsN3hMSHdhMC0zRFJFbTBxb0lJbFZUd08wdXR3c1g4dk5vTlNTdm5IOEx6VjdwV2NpbFNFOTlv?oc=5",
+        "titulo_evento": "How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 14:01"
+        "data_noticia": "21/08/2026 18:20"
       }
     },
     {
@@ -924,33 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea Delivers Russia KN-30 Ultra-Heavy Ballistic Missile with Five Times the Firepower of the Iskander - Military Watch Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVN0NlBKMm9ud1NQcFJaRFFwUDBSelNNMEg2d29ZY2xiVlptaDM5RUU5ODZNcWdVS3RVQUpqZUx3T3BQazJCYnN6SjNOZW8tZnhUYmJkYk9OTEZHOGw2MHM5dkFWZkp5YWFiZlF0ZmhFaEUtdHhDYm05Z2VGaUgxbnhTX1p5a1Q2Wk16SjZ1ZXJvNkNZZy1VNEliZFlZSS1icVJtTHR6OFF4eGUzVFZJ?oc=5",
+        "titulo_evento": "Pentagon Fires Editor and Publisher of Independent Military Publication - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmZOMG1hRVRTUEM4cU1mY2M2Nk1jLW9qeWsxUnQ4LXpkQnNad0xuUTY3RnZlcUxzajY4enpudHNQNkF1NWZveGMxcmNNQjVTMDgzWmhjb290Q0Q2ZEJEX2pzbFQ1RnU0NFBEY1JIM3dfRmpWS3d6a0o1bzFxREYyd0xTUTZlR0djRml3NDFjaXQ?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmZOMG1hRVRTUEM4cU1mY2M2Nk1jLW9qeWsxUnQ4LXpkQnNad0xuUTY3RnZlcUxzajY4enpudHNQNkF1NWZveGMxcmNNQjVTMDgzWmhjb290Q0Q2ZEJEX2pzbFQ1RnU0NFBEY1JIM3dfRmpWS3d6a0o1bzFxREYyd0xTUTZlR0djRml3NDFjaXQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 17:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian expert warns of impending social crisis as Ukraine death toll rises - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 15:16"
+        "data_noticia": "21/08/2026 22:54"
       }
     },
     {
@@ -963,28 +1048,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Global shipping rates soar amid Iran war, record high temperatures - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObTFzUlRBZHF4alU2RW5GeGRranlsTWZ4WmRSaHlqVzNMUzZBTW9WQnJjaGhFNnpHbVc3RGNOd3lOcXFmWEhDcWtiQWlhQlVmZUtQUjM3bzZVay0wcDhjTUx2NmFoZnk4THlOdEFUTVJfdGtqS1hpdVhiNG16blpiUWkzUnRiLUdlRWJxQlh6NXdpX2hY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObTFzUlRBZHF4alU2RW5GeGRranlsTWZ4WmRSaHlqVzNMUzZBTW9WQnJjaGhFNnpHbVc3RGNOd3lOcXFmWEhDcWtiQWlhQlVmZUtQUjM3bzZVay0wcDhjTUx2NmFoZnk4THlOdEFUTVJfdGtqS1hpdVhiNG16blpiUWkzUnRiLUdlRWJxQlh6NXdpX2hYcGRYSWxpbGgyOHhibGhCNE1BVGlRTFBN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 19:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US allies in Asia wary as Trump moves military assets for Iran war - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjFkTDdDTURoUFNsQXFzRGlNTl8xNDh3UDVVOUpqSTBPOGZpUHFHZnBNeHFBOV9relBhVzIycDd2dFVlWnJHTm5LUTZDQXZvSHJQU3lsMnYtaDV4cUVaWF9OWU8tN3ZtY2taRjRfLUxTWVJxb2JaSW9TVi0zTUpKTXJ1d1ZrX2wtN1Mwblh0TEpVZVM0bGVHN0hkU2lHaDZDNUo1RXZuWG5LVTjSAbABQVVfeXFMTTJ6WFZsRkVaMzU4b2VtVlNEU2VfODhHdWNrS3VPQUQwYTJFaWdGS01sMDhoRHdSX2VQUC05SlJLTzIzR2tabzNrcjZjcVN2UWNhSU43THFvM3R5WkloVHgxOXBydlRGN3ZreXdUQlBnbVhicG00OUxLMVpwaENuR0Noc1lCRVN0eDVNLUw3cURrdGw3N1BZZVlVNUlrVEhnclVNWHRNb0FDTmhtUy1wU2w?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/08/2026 12:35"
+        "titulo_evento": "'We are going to collapse this regime': Inside the US plan to target Iran's economy - Scripps News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdl9KQjdoaDFLWTl3VE1oZnJHYmlwRUVjeDVSTnVmVWxubWd6WDFBSDBYMWs1dFMxZlpVaHlNY2J4WERzSWlvaVFpQlNMTGZkOVZEcUNOTWZZbm85RWFJY08zT2JUMHFUQ2hMTm1BZk9ZbUVtcDBab3RVV0Y5LU4yMXhxV2JCMzhabFVMbWpSWERnZ0hv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdl9KQjdoaDFLWTl3VE1oZnJHYmlwRUVjeDVSTnVmVWxubWd6WDFBSDBYMWs1dFMxZlpVaHlNY2J4WERzSWlvaVFpQlNMTGZkOVZEcUNOTWZZbm85RWFJY08zT2JUMHFUQ2hMTm1BZk9ZbUVtcDBab3RVV0Y5LU4yMXhxV2JCMzhabFVMbWpSWERnZ0hvRU9TVGktQjNfMV9WZUY0SzB4ODUtamR6aVFVSUtKeVU4Q3l6c0N0WGNSUjc0UQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 22:23"
       }
     },
     {
@@ -1060,23 +1128,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dubai Is the Battlefield: How Trump's Plan to Crush Iran's Economy - Kurdistan24",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJMZExJMkJ0QVJSSnFkYnZXdlNkRGUtQQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "21/08/2026 19:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1087,6 +1138,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOU9WOFFoMEpNMkx1ZzhsejlRZmJyNE1EaUVhbkNHUjJGdDNhMll0UFUyYmpKNXBBMDNaa1lGemNGdUl2MGtQZ2xIejhyUkthNW53cTI5emE5MGVmOUV4TGdBSVFJOUtVblVTeldTR1B4ZDV3ZzEyTQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "21/08/2026 15:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Dubai Is the Battlefield: How Trump's Plan to Crush Iran's Economy - Kurdistan24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJM...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50WlRTemtjelN0TVVDbXVrVGxSZG9CcU5qel9UaDRTRTNVNGZtZW44WVMySHlrOV9DdGt5b29zVl95ZlU3eE1xM0VZUmVrMkJzd0RDWTVCaThKRE1KcGtMb2M1LTkxUFc4VnpBOEtIcl9YcjJoV1JxOC0zYUVqNWs4Y3hYajRvVU5SR3pDNUxISUJMZExJMkJ0QVJSSnFkYnZXdlNkRGUtQQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/08/2026 19:41"
       }
     },
     {
