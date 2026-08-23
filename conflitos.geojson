@@ -23,13 +23,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Heavy Israeli air strike hits warehouse in central Gaza",
+        "descricao": "Heavy Israeli air strike hits warehouse in central Gaza\n",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/08/2026 13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
+        "descricao": "The embattled Ukrainian president slams Mykhailo Fedorov&#039;s idea as a &#039;tsunami&#039; that would &#039;split&#039; the country.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/08/2026 12:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
         "titulo_evento": "Can Iran retaliate against countries that join US ‘economic war’?",
-        "descricao": "Iran&#039;s security chief has warned of retaliation against countries joining US ‘economic war&#039;.",
+        "descricao": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
         "url_fonte": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "23/08/2026 11:50"
@@ -125,40 +159,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
-        "descricao": "Israel faces mounting debt pressures as wars and declining tax revenues collide and more top earners leave the country.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "23/08/2026 07:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-        "descricao": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "23/08/2026 03:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -181,11 +181,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-        "descricao": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "titulo_evento": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "descricao": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "23/08/2026 09:37"
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "23/08/2026 12:56"
       }
     },
     {
@@ -193,16 +193,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -58.3816,
+          -34.6037
         ]
       },
       "properties": {
-        "titulo_evento": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "descricao": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "22/08/2026 13:13"
+        "titulo_evento": "Kejelcha breaks men's half marathon world record by 29 seconds",
+        "descricao": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+        "url_fonte": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "23/08/2026 13:35"
       }
     },
     {
@@ -227,16 +227,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "descricao": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024. ",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "descricao": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "21/08/2026 15:58"
+        "data_noticia": "22/08/2026 13:13"
       }
     },
     {
@@ -244,16 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          21.8243,
+          39.0742
         ]
       },
       "properties": {
-        "titulo_evento": "Two injured in stabbing attack at Canada Sikh temple",
-        "descricao": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "21/08/2026 22:45"
+        "titulo_evento": "Greek Ithaca island hopes for big tourism boost thanks to Odyssey movie",
+        "descricao": "\nGreece's most famous islands have spent this year fighting to keep tourists out... with Santorini and Mykonos now capping cruise arrivals and charging steep entry fees just to manage the crowds. But on one small island, they're hoping for the opposi...",
+        "url_fonte": "https://www.france24.com/en/greek-ithaca-island-hopes-for-big-tourism-boost-thanks-to-odyssey-movie",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "23/08/2026 13:43"
       }
     },
     {
@@ -261,16 +261,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "How Israel is expanding settlements in drive to reshape West Bank",
-        "descricao": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "21/08/2026 19:31"
+        "titulo_evento": "The week in pictures: a French woman in space, wildfires in Europe and the war in Ukraine",
+        "descricao": "\nRussian drones carry out deadly strikes in Ukraine, astronaut Sophie Adenot becomes the first French woman to spacewalk, fires rage in Belgium and across Europe, and torrential rain hits the Philippines: FRANCE 24 takes a look at the week's most str...",
+        "url_fonte": "https://www.france24.com/en/science/20260823-the-week-in-pictures-frenchwoman-space-nasa-wildfires-europe-war-ukraine",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/08/2026 13:09"
       }
     },
     {
@@ -278,16 +278,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "China shows off record-breaking robots at strategic games",
-        "descricao": "\nThe five-day World Humanoid Robot Games are underway in Beijing, featuring 51 events, 30 sport competitions and more than 2,000 humanoid robots. They have already revealed the technology can out-run and out-jump humans and that they are capable of s...",
-        "url_fonte": "https://www.france24.com/en/video/20260823-china-shows-off-record-breaking-robots-at-strategic-games-1",
-        "categoria": "Política (France 24)",
-        "data_noticia": "23/08/2026 10:22"
+        "titulo_evento": "President Zelensky says having elections in Ukraine would 'destroy the country'",
+        "descricao": "\nIn remarks on Sunday, Ukrainian President Volodymyr Zelensky spoke out against holding war time elections. He believes it would be too dangerous for the country, that would ‘split’ Ukraine. The remarks came after his former defense minister publicly...",
+        "url_fonte": "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/08/2026 13:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Wartime elections would 'destroy' Ukraine, says Zelensky",
+        "descricao": "\nUkraine's President Volodymyr Zelensky said in remarks made public Sunday that wartime elections would be a \"tsunami\" that would \"destroy the country\".  Kyiv has been engulfed in a political crisis over the summer, triggered when Zelensky fired popu...",
+        "url_fonte": "https://www.france24.com/en/europe/20260823-wartime-elections-would-destroy-ukraine-says-zelensky",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "23/08/2026 12:30"
       }
     },
     {
@@ -516,74 +533,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
-        "descricao": "\nDozens of former senior French and UK diplomats on Saturday urged their governments to work together to uphold international law in the Palestinian territories, accusing Israel of seeking to \"destroy\" any prospect of a viable Palestinian state. Anal...",
-        "url_fonte": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "22/08/2026 14:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France to deliver interceptor missiles to Ukraine after fresh wave of Russian strikes",
-        "descricao": "\nThis Saturday saw a continued exchange of fire between Kyiv and Moscow. French President Emmanuel Macron announced Paris would deliver new interceptor missiles to Ukraine, whose air defences are running short after the latest round of deadly Russian...",
-        "url_fonte": "https://www.france24.com/en/france-to-deliver-interceptor-missiles-to-ukraine-after-fresh-wave-of-russian-strikes",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/08/2026 13:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "102 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
-        "descricao": "\nFormer British and French diplomats are urging action over what they say is Israel’s \"erasure\"of Palestine. More than 100 of those diplomats have penned a letter to the French President and the British Prime Minister calling for a ban on trade and a...",
-        "url_fonte": "https://www.france24.com/en/100-uk-french-ex-ambassadors-accuse-israel-of-ethnic-cleansing-in-open-letter",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/08/2026 12:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "102 former French and British ambassadors accuse Israel of ethnic cleansing",
-        "descricao": "\nFormer British and French diplomats are urging action over what they say is Israel’s ‘erasure’ of Palestine. More than 100 of those diplomats have penned a letter to the French President and the British Prime Minister, calling for a ban on trade and...",
-        "url_fonte": "https://www.france24.com/en/100-former-french-and-british-ambassadors-accuse-israel-of-ethnic-cleansing",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "22/08/2026 12:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -713,23 +662,6 @@
         "url_fonte": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "22/08/2026 14:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
-        "descricao": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. A Russian missile attack killed at least 2 people as Wadephul met with President Volodymyr Zelenskyy.",
-        "url_fonte": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "22/08/2026 08:28"
       }
     },
     {
@@ -913,10 +845,10 @@
       },
       "properties": {
         "titulo_evento": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
-        "descricao": "In an interview, Jamieson Greer, President’s Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
+        "descricao": "In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
         "url_fonte": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "22/08/2026 23:02"
+        "data_noticia": "23/08/2026 12:39"
       }
     },
     {
@@ -975,6 +907,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Can Iran retaliate against countries that join US ‘economic war’? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 11:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGs1eVJuZ1pjeHlEemt6UkZNYUZVYktOS3dUamlnaGpqV1BLMXVsLUZva251Um02RXpsd1lGOFJwNmVMeVo4a0I5a0ZVVmkyZ3hLTXZmUS12YW5EMkp0N2Q4dmswN2JYdWVFd0JuMzBWdDIzeVk2MWU1OGpLSTVMSVN2eUhtZEdMNUNNbGFkOHBnX1ZS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGs1eVJuZ1pjeHlEemt6UkZNYUZVYktOS3dUamlnaGpqV1BLMXVsLUZva251Um02RXpsd1lGOFJwNmVMeVo4a0I5a0ZVVmkyZ3hLTXZmUS12YW5EMkp0N2Q4dmswN2JYdWVFd0JuMzBWdDIzeVk2MWU1OGpLSTVMSVN2eUhtZEdMNUNNbGFkOHBnX1ZSY2x3Snc1aHZHWXV3TmJXUmRlVmPSAa4BQVVfeXFMTWVidE1QMzVKelBaUVRROW1LY3JGM0g4YTJ1YVNjWkg0YXJGNXlVZTA1VldpUXlZYlVxZ0R1dFpuby1fN3FCTHZvYU90cmNHRF9DMlJOelVHcWZKME9wT1NUd2pqQWFUSll1ZURHVUh6amVMS1hleG1iX1FydzRtUDlmY1NtLTk0NFg3aXZmSkphWXAtWVhmS2Q0NHJFMkhWSWlrbXJxZnlSOHphUC13?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 10:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -985,40 +968,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSDFka1U1UkpwSkY0ZGc5UVdOcWdwZWdPbEt1NHNyZEd0NU1QV0JHRl8tVDBKUEZjZGNNamFjUVRNWmJFaHRWUy15MW1pSmxJbzhyaXlxS09mRmRLSjI5M0owaWx6TnRhd3lpTEtpdlY4UmJfX19oWkRvTE01WnQtZEdfN1Vhdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "23/08/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’ - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZWaUVLeXJwazZkVFdxQTJVM2szYXRvNzRZaXk0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 09:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran in ‘full-scale war,' says President Pezeshkian - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 07:44"
       }
     },
     {
@@ -1043,16 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5",
+        "titulo_evento": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdQUFYyOHpTM3RqRFRpLVhoaDJZNVdRZFhqS3pDRHpkSlJ2VUxPaG0wUVN0WWpwQWphNzFGUFM0SHpHZTh4QW04cllJRTJsRWRCMWpSLTFpUS1TR0Q0elNabDVMcC1Iek1hZHFEN3hUeG5Rc2xHYTM5RnVzdGFDUDR1ME5KYWNYX08zcTNpa0stN0E5R2FpY09sSXdvV1FkV0kxa3I4LWQwT0gy?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 09:47"
+        "data_noticia": "23/08/2026 12:14"
       }
     },
     {
@@ -1065,11 +1014,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran warns of retaliation against countries joining US ‘economic war’ - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczkt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+        "titulo_evento": "Iran warns Middle East neighbors against joining US ‘economic war’ - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnNqX2NMalNkZUdiaFdtVjFHY01uWURKOFBoRHVndjdoUGo0ZkQtZEV4M2xwb2tHREFFYzJRZkFuR1lDb25lVkRpOXc1ZTJ4NG12ZFl1Z3lTMDF0elB5Q25mdW1HYXF2V2wyUUtEYmM0WTRsdWVzdjVxbkxPbHBINUpCNUlxUjlDSVpQdnBmVWRjd9IB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnNqX2NMalNkZUdiaFdtVjFHY01uWURKOFBoRHVndjdoUGo0ZkQtZEV4M2xwb2tHREFFYzJRZkFuR1lDb25lVkRpOXc1ZTJ4NG12ZFl1Z3lTMDF0elB5Q25mdW1HYXF2V2wyUUtEYmM0WTRsdWVzdjVxbkxPbHBINUpCNUlxUjlDSVpQdnBmVWRjd9IBlwFBVV95cUxOcER4OHNqTm9GM1dxa3lpYXNuZ0c1N3MyRHlCLWk4NkRiSUIzUmdxcS1JNUpZMFp0LUZpV0Y3VGwzejNRS2lJQV91ekRLdjM5NmRNSTNaVEpfWUs1RWozZHo5WldUUXpoQUJnbFJuM283dnhoLTYycWt4U093OEpwNjF0TjVBWHZGVlM1QlQzdnctLU5JSVNV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 05:44"
+        "data_noticia": "23/08/2026 13:16"
       }
     },
     {
@@ -1094,16 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "Carney Stands Up to Trump in U.S.-Canada Trade War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFdpWWZwaWJNWkh3ZHBZdVVRa3BGRnpUWXZrMFhTX2xQbUtkeGVpVldQR0hrNHVTZmRfSXkzV2tuRjRDTC1obm84RmtUUmd3S21SR2N5STVVTDYxVWgteXZDY1dKUUxWN2l4VEg3cE5DY2FJUzFLYjlIczk2TlRkZjFRbWkyV2M?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFdpWWZwaWJNWkh3ZHBZdVVRa3BGRnpUWXZrMFhTX2xQbUtkeGVpVldQR0hrNHVTZmRfSXkzV2tuRjRDTC1obm84RmtUUmd3S21SR2N5STVVTDYxVWgteXZDY1dKUUxWN2l4VEg3cE5DY2FJUzFLYjlIczk2TlRkZjFRbWkyV2M?oc=5",
+        "titulo_evento": "U.S., Canada Spiral Toward Trade War - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObTktLTlvRm9hWEVTZ25TX2VGQVNsSWM5UVRhOWJQMVB4Smg2MkNLUHdkVnluNGp2X1BYVkdwV3RBZ3hTNGR0ZUg0SFNIQkZrVzZXWVppS0xMOGYwRFh6Wm9WR2RnWGo2WUpQSWpVcndjT2ZlVVNzM05jTnJTb3dnMnBWZDFDQVNRcnRyTF8yWQ?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTktLTlvRm9hWEVTZ25TX2VGQVNsSWM5UVRhOWJQMVB4Smg2MkNLUHdkVnluNGp2X1BYVkdwV3RBZ3hTNGR0ZUg0SFNIQkZrVzZXWVppS0xMOGYwRFh6Wm9WR2RnWGo2WUpQSWpVcndjT2ZlVVNzM05jTnJTb3dnMnBWZDFDQVNRcnRyTF8yWQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 07:15"
+        "data_noticia": "23/08/2026 12:25"
       }
     },
     {
@@ -1111,16 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Can Iran retaliate against countries that join US ‘economic war’? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTd4NEFUNFNoTGljajhvWHNHYkF3ZkNjSFUxLWNaQnpYWnZkTTJUZnF5VXI4Y0QyMHRWbU9nYVRPTjNWbTdBWHBnenZ4MzVUdTROZEVLcm9LNmIwSU04U20weXdBd0ItQ09aZ2ZwMEJPWG9EemI4dGMyQ25mQWl2bTR0WkR3TVpoSjMycXp1a21DUHpVNFNEaHNfUHhnTEhlWEpHVlR30gGrAUFVX3lxTFBtNHFnMmFyQ2F2MlpwN0daZ2laV0p5eHhVYjlZZWVwUU11MGRwV3F0VUo0S19VeTIxaWZ5d3BiUWZwZlBlZExPNFA0clh6YU9rTGRCcmVhU2lmMEFCZGRBOFBMYUFFNW5rcHd4Wlh6SHBBTndjZ0hvQlR3TmhWZkZFdElsQkhsLTFLQmd2Sk1BM1FrVWRpcGJPQmc1V1FCN3h3bEZsc2FZLUREMA?oc=5",
+        "titulo_evento": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 11:54"
+        "data_noticia": "23/08/2026 09:47"
       }
     },
     {
@@ -1133,11 +1082,79 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVm9MT3EtQXA5VXBNYmFRYTJFZHUtWU5qa3FTa3ZxYTRHYWlsQ1hYZFp3eDJIVTYtdmVnSUxlTlhLUVNmZHRWUU84clluY21mcVJMVEdOaHVYNVZVLTlwVThhTnJtZjg5elNJNUVxRFVwd0lQb0VFS1VwQ01fR183T0VRRXBZNEg5U2NrZ3hpUmdPX3NJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVm9MT3EtQXA5VXBNYmFRYTJFZHUtWU5qa3FTa3ZxYTRHYWlsQ1hYZFp3eDJIVTYtdmVnSUxlTlhLUVNmZHRWUU84clluY21mcVJMVEdOaHVYNVZVLTlwVThhTnJtZjg5elNJNUVxRFVwd0lQb0VFS1VwQ01fR183T0VRRXBZNEg5U2NrZ3hpUmdPX3NJYkNSWkRTSzg2dFlKX1FCZUMyWGlwbWo5WHFZRGg1a2FxUnM0VXFOb09tTW90Z3VMZDYtN1BKY2JuNUlrcmp0WW02dUZyQThGSThV?oc=5",
+        "titulo_evento": "Zelenskyy says wartime elections could ‘destroy’ Ukraine - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXlKblc2d0owZWVoYU1PMFFocFMxOS1Vclg4WFhpcXhjWjNrZUxqbGNGYVdhR2M5bVhvY0hDU1l2TmdxWEdWQVBQaXhGdWJoT1lySnVmVlFOR1FCWWRpckdNQkZ2X0diM09nX0F4YWI1clVjZVB3UHZmRkpaXzBPSmhrYnFta0RMaUVVUENJbVZBZ1lU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXlKblc2d0owZWVoYU1PMFFocFMxOS1Vclg4WFhpcXhjWjNrZUxqbGNGYVdhR2M5bVhvY0hDU1l2TmdxWEdWQVBQaXhGdWJoT1lySnVmVlFOR1FCWWRpckdNQkZ2X0diM09nX0F4YWI1clVjZVB3UHZmRkpaXzBPSmhrYnFta0RMaUVVUENJbVZBZ1lUaVVEeW5Ob9IBoAFBVV95cUxQV0VRM2FYZGdmQV9zTHRTbm55VkRHeExzeVFMN0xncjlvMll2UVhDMmMyYU1CNElVQ0tPanpDcl9LcXZaUUZkSHZjOW5HLVZ2Qm4yRlZxX3BLMll3dHRQUE84WThxZko3NXJFNEFOa3VwVUhEekJNTWx3MXJrTGktVC04TWxhRGc1ODNVVnJ6cEx0dVZTVURIZWZWN2hLU3Et?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 03:19"
+        "data_noticia": "23/08/2026 12:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran warns of retaliation against countries joining US ‘economic war’ - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczkt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 05:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Security Chief Warns Gulf States to Avoid Joining Trump’s Economic War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmRfbGVhX1Z3V082VjdoczdEYzhoVmluOGdzUGkyRlhEQXJMOGpqdXREU1JsQTRZQU9zdUV3VUpNUUNFck1jdGhNNld5MUxCaEk2eEduaWd4Mm5rakZkcWRoTVg2YmdUajN1WXJiYjduYnVjWkFyUHUzVnhob1lHRjcwWDM3clJ2UVk0?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmRfbGVhX1Z3V082VjdoczdEYzhoVmluOGdzUGkyRlhEQXJMOGpqdXREU1JsQTRZQU9zdUV3VUpNUUNFck1jdGhNNld5MUxCaEk2eEduaWd4Mm5rakZkcWRoTVg2YmdUajN1WXJiYjduYnVjWkFyUHUzVnhob1lHRjcwWDM3clJ2UVk0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 12:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Announces Gas Discovery After War Worsens Energy Squeeze - Bloomberg.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQkxnTllRNDVEcmxoZXliRWRzNHB4OFo3SnZaVXN1cTJuSmVmenVvbENVUUlGOXZpeVlucThwb2JhVTZkcU5EY1ZCcjZOMzVvc010eTlQTkhUVVl4cms2SmxVTFJiYVlDelFFSElzNFppem9TcWsxeGNOT0NmMy1vLXFFLU1QU3JGUXNqWHhXRE5mMUhK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQkxnTllRNDVEcmxoZXliRWRzNHB4OFo3SnZaVXN1cTJuSmVmenVvbENVUUlGOXZpeVlucThwb2JhVTZkcU5EY1ZCcjZOMzVvc010eTlQTkhUVVl4cms2SmxVTFJiYVlDelFFSElzNFppem9TcWsxeGNOT0NmMy1vLXFFLU1QU3JGUXNqWHhXRE5mMUhKZDUtMkFHVy1PMmptenA5NVY1cnVtbk56dkNyYjhB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 12:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran in ‘full-scale war,' says President Pezeshkian - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzZPOGR6bG9keVBJSWprVElLSlJCd3JaZDJWN2JhQTFrNko2YkNPVTV4Q201ejZnT056aHRIRXY0WndOODIxWnJoRXFlZE5XMDBzcVhWcnVGQkRsNWRvN1BTQTRxcFB3UXFmcUV3eUxQLTJQVlhuUTQ0RC1BTWFQYXhsR0hUNEx6YWhzV3A4cXZxNjRzRUtCaw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/08/2026 07:44"
       }
     },
     {
@@ -1162,67 +1179,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Blogs: Sunrise in a Closed Military Zone - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeG9KTXViNmZhZnR6WVhoUjdVOTcwdjRXR1hPQ3NiQlN5YWdOR05qaWNtdml6OTJSOXFSRWRacU8tTnNwM3VYdktiQkZYdDhBNC1TNkdRRmtyelBuRjdyMDAwX3FuY1ZUemVsU0tCR0hkRUxU?oc=5\" target=\"_blank\">The Blogs: Sunrise in...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SeG9KTXViNmZhZnR6WVhoUjdVOTcwdjRXR1hPQ3NiQlN5YWdOR05qaWNtdml6OTJSOXFSRWRacU8tTnNwM3VYdktiQkZYdDhBNC1TNkdRRmtyelBuRjdyMDAwX3FuY1ZUemVsU0tCR0hkRUxU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 08:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Could NATO go to war with Israel over Turkey? | Explainer - Ynetnews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hM2lHQlN6TzBRVHR0dnc3TjRpcjUtVUh6YXg0Zk9BRC1aVlJ1X3pfcHV6aU9VVDdkeHpVa0E2SmRfTnFSRENybGNMLWpEbnhTdm9ldU5UZw?oc=5\" target=\"_blank\">Could NATO go to war with Israel over Turkey? | Explainer</...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hM2lHQlN6TzBRVHR0dnc3TjRpcjUtVUh6YXg0Zk9BRC1aVlJ1X3pfcHV6aU9VVDdkeHpVa0E2SmRfTnFSRENybGNMLWpEbnhTdm9ldU5UZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 06:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Why Trump is seeking a new summit with an emboldened Kim Jong Un amid Iran war struggles - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU1Xam9KZWY0UDN3Y0RMdUpLNkRDVVNIQndtN19DVXFDTzhLODVxZ2JDYkg3akNLV0pqeDZjSTlYdU85WG1meENsMmFaa2xaNFQ2dVBVWDdkcWlzTzRCZFpWTUxxWE1FblpnenNaekFCaU9kaXlkUGR1R1QzbGNQb0M2aEV6YzZBcHZoX2JNSW5aSjA5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU1Xam9KZWY0UDN3Y0RMdUpLNkRDVVNIQndtN19DVXFDTzhLODVxZ2JDYkg3akNLV0pqeDZjSTlYdU85WG1meENsMmFaa2xaNFQ2dVBVWDdkcWlzTzRCZFpWTUxxWE1FblpnenNaekFCaU9kaXlkUGR1R1QzbGNQb0M2aEV6YzZBcHZoX2JNSW5aSjA5UUl6UFU3eDF0Rk9zRzJmX3VjaTBBN3lqSlpYT1N3?oc=5",
+        "titulo_evento": "Iran’s president says US memorandum is best path out of stalled war, - Scripps News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEJ1aTdCSDB0ZFRIQ2J4bW5sRW00NHlRN0V5eDRPdHBVLTc0amRSOFpnMkN3ZGdHcmlReHJQTGJGdFljQkJNbjdTd3BnT0ZtZWtsdEdSSkNVX2Y1UWt5Yk9PbHZGeGpJVllaVERROFY0dU81UU1tR2ZacnVkTHRTR25GZTZQcm1ubWpvNzhzemNKNVpx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEJ1aTdCSDB0ZFRIQ2J4bW5sRW00NHlRN0V5eDRPdHBVLTc0amRSOFpnMkN3ZGdHcmlReHJQTGJGdFljQkJNbjdTd3BnT0ZtZWtsdEdSSkNVX2Y1UWt5Yk9PbHZGeGpJVllaVERROFY0dU81UU1tR2ZacnVkTHRTR25GZTZQcm1ubWpvNzhzemNKNVpxcWVtRF9ZNVdXbWtfMFZycXAxT0cxaG9DRURQdg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 09:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5\" target=\"_bl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "23/08/2026 12:00"
+        "data_noticia": "23/08/2026 13:11"
       }
     },
     {
