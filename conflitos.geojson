@@ -159,6 +159,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia mobilisation fears grow amid reports of intimidating tactics",
+        "descricao": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "25/08/2026 11:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+        "descricao": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "25/08/2026 11:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How the US sanctions on Iran impact China",
+        "descricao": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.\n",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "25/08/2026 11:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+        "descricao": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "25/08/2026 10:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.436,
           55.3781
         ]
@@ -232,28 +300,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "descricao": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "25/08/2026 08:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-        "descricao": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "China warns it will safeguard its interests after US widens sanctions against Iran",
+        "descricao": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "25/08/2026 04:06"
+        "data_noticia": "25/08/2026 11:53"
       }
     },
     {
@@ -271,6 +322,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "25/08/2026 02:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+        "descricao": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "25/08/2026 04:06"
       }
     },
     {
@@ -533,16 +601,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Canada set to announce retaliatory tariffs on US goods after talks fail",
-        "descricao": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Prime Minister Mark Carney has refused to accept a \"bad deal.\"",
-        "url_fonte": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Will Iran withdraw from nuclear non-proliferation treaty?",
+        "descricao": "Iranian lawmakers have again raised the possibility of leaving a decades-old international nuclear weapons treaty. Analysts say the threat to quit may offer Tehran more leverage than an actual withdrawal.",
+        "url_fonte": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "25/08/2026 09:25"
+        "data_noticia": "25/08/2026 12:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Will tougher US sanctions disrupt Iran's shadow economy?",
+        "descricao": "The US is expanding sanctions on Iran's financial networks, targeting crypto, gold, aviation and shipping. Analysts say the measures may fuel inflation and strengthen informal markets without changing Tehran's behavior.",
+        "url_fonte": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Economia (DW (Alemanha/UE))",
+        "data_noticia": "25/08/2026 10:34"
       }
     },
     {
@@ -556,10 +641,27 @@
       },
       "properties": {
         "titulo_evento": "Middle East: Iran vows response to fresh US sanctions",
-        "descricao": "Iran vowed to push back against new US \"economic D-day\", saying key trading partners would resist US pressure. It's biggest trading partner, China, said it firmly opposes illegal unilateral sanctions. Follow DW for more.",
+        "descricao": "Iran vowed to push back against new US \"economic D-day,\" sanctions saying key trading partners would resist US pressure. Meanwhile, Pakistan reports progress in US-Iran mediation efforts. Follow DW for more.",
         "url_fonte": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
-        "data_noticia": "25/08/2026 08:09"
+        "data_noticia": "25/08/2026 10:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+        "descricao": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Prime Minister Mark Carney has refused to accept a \"bad deal.\"",
+        "url_fonte": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "25/08/2026 09:25"
       }
     },
     {
@@ -652,23 +754,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine: Zelenskyy rejects wartime elections",
-        "descricao": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there.",
-        "url_fonte": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "23/08/2026 10:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.3517,
           50.8503
         ]
@@ -696,57 +781,6 @@
         "url_fonte": "https://www.politico.eu/article/leipzig-airport-explosive-drones-friedrich-merz-germany-security-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "25/08/2026 09:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/news/dollar-struggles-traction-markets-weigh-013056238.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Investors shrug off US sanctions plan for Iran, bitcoin powers on",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/markets/articles/asia-shares-fall-tech-nerves-012957160.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "In US-Canada trade spat, Washington left out a key lever: Canadian oil",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/article/in-us-canada-trade-spat-washington-left-out-a-key-lever-canadian-oil-090000999.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
       }
     },
     {
@@ -805,23 +839,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcS1YRVlycXJKMEdBQldWcGp3QzV6WEEzZGJZU1BRMjVGY0xOY01QLXdodFRGNWxaZ2szSG5TR0lsNGpsZDYtRFMtSEtBM0hDcnNfWVZVOVFtOFQyNk5SdERPNDk5MzdQbV8xYk5FcFBoakhCX0NHWFpfZ2VYY0o5TU1ZcW9TUTdnRllfdkd3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 09:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -839,16 +856,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Exclusive | Russia Tests Readiness for New Round of Military Mobilization - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8x...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 10:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5\" targe...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 09:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Mystery as U.S. military transport plane lands in Moscow - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXZGQUdDNVl5WDFRdUJsR2dYbkFHMmdhUkhKNU9EdXFJZEFiRGhMOURTX3pzZ1FtTENIX254TGsyWE9jMHZsbld0OXlsVndmNXJMT2diSmM2bFZzb19aWWVXT2xYeFRxWEFEZU9pcnRJYVB0X0ppRi1wVEttWklvSU9PSG1KRnhFQUhwTjAyVQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 11:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+        "titulo_evento": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 09:49"
+        "data_noticia": "25/08/2026 11:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada has one important edge in the North American trade war - Politico",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVObkZuNDFaLTNsRHBVQnk0Y2Q4cndZaXlHbFNYME16SDJXWWRvQVJFOTZxZjh5WlBUZGZnOVo5ZVNXckpudFJKSlhYWmlfUWpaRlVybzZYV3VaSkxDMDRiVGFXNUFhWGNtNlhzT2lFMVJUaWFFOHAzdGhMX3p6eWJMVHpVc1RUYjFpQ2w3UQ?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVObkZuNDFaLTNsRHBVQnk0Y2Q4cndZaXlHbFNYME16SDJXWWRvQVJFOTZxZjh5WlBUZGZnOVo5ZVNXckpudFJKSlhYWmlfUWpaRlVybzZYV3VaSkxDMDRiVGFXNUFhWGNtNlhzT2lFMVJUaWFFOHAzdGhMX3p6eWJMVHpVc1RUYjFpQ2w3UQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Gold price hits three-month high amid fears over Iran war and Trump economy - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdTlUNkYtZGEtaHBaNHMwekxkcjZPVmRwTTR1Z3VZZzVKTmJHR0UzNnhxNlBaNHdWU21GM29PTjRiY19hRTdZN3dYUDlLN01vaG9zTHNsR0M1SldHRmhLQ0tzclZ4dHRiRG5JNmNVQWFrczhFR2tHYnQtcGdYcURiSklrcHVPX0UxZ1NDeVF5UXdPbHZ2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTlUNkYtZGEtaHBaNHMwekxkcjZPVmRwTTR1Z3VZZzVKTmJHR0UzNnhxNlBaNHdWU21GM29PTjRiY19hRTdZN3dYUDlLN01vaG9zTHNsR0M1SldHRmhLQ0tzclZ4dHRiRG5JNmNVQWFrczhFR2tHYnQtcGdYcURiSklrcHVPX0UxZ1NDeVF5UXdPbHZ2ZEpBRkM4b05EZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 11:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Losing the Iran War: The Economic Front - Paul Krugman | Substack",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZnhLX3AzbUxnd0RPYlljYWVrRVN1RzI2d08tZWtMV3JmVDBDZFhLS00xc28yeXpFZlhLS0tIZlpGTHZSbXhFMG9yVUFrZHRUMnFicXhHSFdYZzBkOHV4M0VDYjdRajIwM0RuSGZ1R1NteXVYaUE?oc=5\" target=\"_blank\">Losing the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZnhLX3AzbUxnd0RPYlljYWVrRVN1RzI2d08tZWtMV3JmVDBDZFhLS00xc28yeXpFZlhLS0tIZlpGTHZSbXhFMG9yVUFrZHRUMnFicXhHSFdYZzBkOHV4M0VDYjdRajIwM0RuSGZ1R1NteXVYaUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 10:31"
       }
     },
     {
@@ -890,135 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          37.6173,
+          55.7558
         ]
       },
       "properties": {
-        "titulo_evento": "From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5",
+        "titulo_evento": "US military transport plane lands in Moscow, Kremlin says it has no information yet - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa2ZPNmtEcFJVVzlrWERYanJKcWxXZVdkX29yOTkxbk1wRHNCX2loamJ5a3plZDRBTVd4c1ZMNjJjZ05PTExDOFdOZjFXRHJzZldNcUlqVHBGbXo2dk1aUWVDWmZtRlR4dTgzck9LMDRuaUJDLXFNem1PcERiOERqMVotdjJpcDByV0NjVWI4ZGpSRWtTWUZuaFVTZkFQLXE1SmZ0T3FKR3l5UnZSbkc2SHEwRmlnQ24tMnZBTHFvT2Rva2lsTkRFbVByTVZOMzM0am81WktOR2t5UQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 04:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 07:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Ukraine’s allies gather for big anniversary, one key backer is absent - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXFjbzJmNjUtNTBKRjhRR1NXcUprdjVVdUc4d3FsNURCUmhDRGM3Y1ZWeThINHRScTJ2dXdFNjZHQXlyUlhmQUJ1R3R0cC1KZU9FbEg3ZVEzZG1MZ2g4X0x3T0NMeE5YR3YyanZOOHVQSm9ZNUdNNmRCNUE5Qjg2WXB1SzBCMU5PQS1oNkstRF81Vi02...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXFjbzJmNjUtNTBKRjhRR1NXcUprdjVVdUc4d3FsNURCUmhDRGM3Y1ZWeThINHRScTJ2dXdFNjZHQXlyUlhmQUJ1R3R0cC1KZU9FbEg3ZVEzZG1MZ2g4X0x3T0NMeE5YR3YyanZOOHVQSm9ZNUdNNmRCNUE5Qjg2WXB1SzBCMU5PQS1oNkstRF81Vi02bGFqOWh1SjV1dFRDaGZ5TUZB?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "25/08/2026 10:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gold price hits three-month high amid fears over Iran war and Trump economy - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdTlUNkYtZGEtaHBaNHMwekxkcjZPVmRwTTR1Z3VZZzVKTmJHR0UzNnhxNlBaNHdWU21GM29PTjRiY19hRTdZN3dYUDlLN01vaG9zTHNsR0M1SldHRmhLQ0tzclZ4dHRiRG5JNmNVQWFrczhFR2tHYnQtcGdYcURiSklrcHVPX0UxZ1NDeVF5UXdPbHZ2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTlUNkYtZGEtaHBaNHMwekxkcjZPVmRwTTR1Z3VZZzVKTmJHR0UzNnhxNlBaNHdWU21GM29PTjRiY19hRTdZN3dYUDlLN01vaG9zTHNsR0M1SldHRmhLQ0tzclZ4dHRiRG5JNmNVQWFrczhFR2tHYnQtcGdYcURiSklrcHVPX0UxZ1NDeVF5UXdPbHZ2ZEpBRkM4b05EZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 09:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US grain farmers face worst crisis in decades as Iran war sends costs spiralling - Financial Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2JQdjFSOVluWVFDdDZLSzd2dV9WVjFHTHA2cV9lX3Fhc3ItdVVFTzJEaDdaVEZCS2ltSEZUYTkwV1RRRDNPbzBBOHB1ZHpNS1Y4SlNuZlZ2cmd2TnFJbFFkUkszelNRdDRkbzAtU2pTVVFINnBteG1XemFYVjNLRlJ6elo?oc=5\" target=\"_blank...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2JQdjFSOVluWVFDdDZLSzd2dV9WVjFHTHA2cV9lX3Fhc3ItdVVFTzJEaDdaVEZCS2ltSEZUYTkwV1RRRDNPbzBBOHB1ZHpNS1Y4SlNuZlZ2cmd2TnFJbFFkUkszelNRdDRkbzAtU2pTVVFINnBteG1XemFYVjNLRlJ6elo?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 08:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDAySzNVMXRLbDFWQXYyVFlWREZGOGFWTFRtYXlwb2JBSXpVdkNJVEJaRUdfVHpoclVHWnphYVRzLVZtZFVGSEVWS3g5U0ViNmlHSUstckVKZ1REbV9BY3RvanBFQ3ZyaktPVzRZVjl0VEtMTWJkZkw4akpyekIyOGN0NFNEc1hTYkVTWjgyQVdHTkJX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDAySzNVMXRLbDFWQXYyVFlWREZGOGFWTFRtYXlwb2JBSXpVdkNJVEJaRUdfVHpoclVHWnphYVRzLVZtZFVGSEVWS3g5U0ViNmlHSUstckVKZ1REbV9BY3RvanBFQ3ZyaktPVzRZVjl0VEtMTWJkZkw4akpyekIyOGN0NFNEc1hTYkVTWjgyQVdHTkJXS3F6NUxjRDZkeGJCMkpRVXBKb25LeUNfTnAwSDI2a2Y1V1doYVRTdEpOaEFyUVVnMmc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 02:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US public support for Iran war falls as Trump approval at record low: Poll - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEIwTjRsMEVZR0Y1anpISy16SnpnZ2ZXWURndm1UVlp5bml0TUZTQmRuNzVpTmx6Smg1ckJqVllBN1BxU0ZuZ0M4aFpuWGEySlNnMTZPVzlGLXJmVGtlaFMxREczNUVHTEtaVzdSRy1LRjM2TzdCR19TcnhKdTdja2NuRXNhcWdzMUVzZTNZVE5UaHI2eE1LY3BlX2ZhZW5QRXU2UzNDaHhIQldlQmtaR2x6Um_SAboBQVVfeXFMTzFBbU8xNXQ5RkxyNW1qWnhXWF9jZ3MtUXpkcnlvd2dLSElCUjNfOUlnSzF5V0tYbzhPV3YteERjMFdtZG9ITzNRNXZVNE9rVEZKQnFOdWxLQ0VDaVZqdnRfS3pDbk1yMHFscklSYlZpeHROSU1QSmFab2o0WExVSG11Nkl2LXNhemVyYWtvUGNmV0c1eEJWY3lRU0d6MWJPWjl0S0NnLWpxSzFmV1NxVjV4X3JkX2ZZNUtR?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/08/2026 21:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Is Washington Ready for Another Ethiopia-Eritrea War? - Middle East Forum",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXlYNUM0bkZvNW50X0NadEJCQWs2N1lVQnhhTjQ1cExuMENvUGd6YWpGRlNfa0dodEtybWx3dFRITjl4TTFSS3VabEVPU3RFM0NxWG56ejJMQVhUUEJUZWtLb01YOHgzMXBfUXVXUzJUWkRJbDQ5MjJzaEFRcEtMMGhoM2pSY2xIdEtSbEZtUHdJMkU?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXlYNUM0bkZvNW50X0NadEJCQWs2N1lVQnhhTjQ1cExuMENvUGd6YWpGRlNfa0dodEtybWx3dFRITjl4TTFSS3VabEVPU3RFM0NxWG56ejJMQVhUUEJUZWtLb01YOHgzMXBfUXVXUzJUWkRJbDQ5MjJzaEFRcEtMMGhoM2pSY2xIdEtSbEZtUHdJMkU?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 10:02"
+        "data_noticia": "25/08/2026 10:49"
       }
     },
     {
@@ -1043,16 +1043,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Russian employers less likely to hire veterans who volunteered for Ukraine war, study finds - Peace Research Institute Oslo (PRIO)",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5nQzZwMG1CNm5YS2dFRVlmY2ZfaEU4LTRPY2t1S0Z4aFJQMTJSTV9GSlhKbzYxWFFfSFM1ZU4zOVhHcGVO?oc=5\" target=\"_blank\">Russian employers less likely to hire veterans who volunteered for Ukraine war, study...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nQzZwMG1CNm5YS2dFRVlmY2ZfaEU4LTRPY2t1S0Z4aFJQMTJSTV9GSlhKbzYxWFFfSFM1ZU4zOVhHcGVO?oc=5",
+        "titulo_evento": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "25/08/2026 09:04"
+        "data_noticia": "25/08/2026 10:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. Futures Higher Amid Ongoing Trade War with Canada - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX28xVzhGSE02dFlOSGw0WlBnSTdWMUw0YTh4SENuc1NCOHhLQU00bDlaRDBXZUgtd05Ua2J3Z1VyRG5vd2RhbVZOaUNCRDdMX04weTJLSFJkTmFqOEVhMmx6MFVURDdadG5xYzM5c1BMVVFxek83MWJzZVJBcTdLYXNJeXNKaHd1UlNWT29EUVFXcGUyOTlsNDR4VXhWY20tQTFqSg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 11:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Mystery US Military Plane Lands in Moscow amid Rumours of Possible Hegseth Visit - Hungarian Conservative",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPemtWTjRsOHY4RHdPSk84TV9INW5lYjNzcVhSU254b2FfQ0t0ZHppcDQzSTVEUFVfQ1JTV0h3dGpvQWlTRzU2U1I1ckxod05sRFpSQkltaGpEVW5zRXQ1Z1BSZVdQVkc2NGRnMlYxLXh0Uy1Oc2hqNWVNV0ZwUWVwdFhsbTZyNXBFS0w4YndwSUp5V2Jh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemtWTjRsOHY4RHdPSk84TV9INW5lYjNzcVhSU254b2FfQ0t0ZHppcDQzSTVEUFVfQ1JTV0h3dGpvQWlTRzU2U1I1ckxod05sRFpSQkltaGpEVW5zRXQ1Z1BSZVdQVkc2NGRnMlYxLXh0Uy1Oc2hqNWVNV0ZwUWVwdFhsbTZyNXBFS0w4YndwSUp5V2JhQ1FPLUppLXJFN0kwMkRlV2N6Uk5JbGlR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 10:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia Denies Knowledge of US Military Plane Tracked Landing in Moscow - Newsweek",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNV01zUkJpV2NVZ1Q3U2tfRTR4OHdzZUNWWlFsWFpKZUtnaUtIUUNwVVlZZ3l0Mmp6Y3hjMTRmUE9kSHpFdmplUmNaZl9MSkFLbGh4dnMyd0dfSGhIeUY4SW16YTRKanEweVdNR2NiazdGU3hFN25ObWlfSGpzSU1hTWZISnhGSllyS25kdHJxT2tHR2hs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV01zUkJpV2NVZ1Q3U2tfRTR4OHdzZUNWWlFsWFpKZUtnaUtIUUNwVVlZZ3l0Mmp6Y3hjMTRmUE9kSHpFdmplUmNaZl9MSkFLbGh4dnMyd0dfSGhIeUY4SW16YTRKanEweVdNR2NiazdGU3hFN25ObWlfSGpzSU1hTWZISnhGSllyS25kdHJxT2tHR2hsWllBdmF5REg4dXdONHcyc1FVRGpCZTZCVzZn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/08/2026 10:56"
       }
     },
     {
@@ -1069,7 +1120,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5\" target=\"_blank\">Bessent’s Warning of ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "25/08/2026 09:22"
+        "data_noticia": "25/08/2026 12:22"
       }
     },
     {
@@ -1099,11 +1150,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran - Alabama Daily News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmFZTWFsSFZMenQzbjI0bHlNTm5kZTNPc1oxeTlKZDN3MXo1TmJ5ck1sTGJybnNpMTEzZDJ6WFVUNWliZ0NoV0VZdG9Vay03bEh3T1UzWEExNzVYNWlpM3lJSEYySG4zOFhKUU5VTGFaWlhtLS10aFhVQk1YT19NVjVEZ0RFU1RHY2xtMTBuOW13Vklk...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmFZTWFsSFZMenQzbjI0bHlNTm5kZTNPc1oxeTlKZDN3MXo1TmJ5ck1sTGJybnNpMTEzZDJ6WFVUNWliZ0NoV0VZdG9Vay03bEh3T1UzWEExNzVYNWlpM3lJSEYySG4zOFhKUU5VTGFaWlhtLS10aFhVQk1YT19NVjVEZ0RFU1RHY2xtMTBuOW13VklkSV9tdUR1YWlCOEJtUngzVnd3a2I3UW5KZHJyQmdVRFBRUnZRalE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "25/08/2026 00:18"
+        "titulo_evento": "Iran says it is 'fully prepared' to counter widened US economic sanctions - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TGt1ZGswTTBIUElrYUtUWWZoWDUybXVTQXh2M3o4Qm5WQnIwTm9pNnhKLTFmSUswc2NGNFVPWjA2TGswMHV5cXFXYXB2bEFWbFFTelZ5cEdudw?oc=5\" target=\"_blank\">Iran says it is 'fully prepared' to counter widened US ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TGt1ZGswTTBIUElrYUtUWWZoWDUybXVTQXh2M3o4Qm5WQnIwTm9pNnhKLTFmSUswc2NGNFVPWjA2TGswMHV5cXFXYXB2bEFWbFFTelZ5cEdudw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "25/08/2026 08:08"
       }
     },
     {
@@ -1150,28 +1201,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Global Bond Markets Stabilize as Investors Mull U.S. Buybacks, Iran Sanctions - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkNxTlFHVW5OUzJsMnhXT0poZFc4T2dPU0gzVXZiOUtNUGg4ZmphWG9hc2YzYUJnQmkwUTIzdnFWcmVoRVJOR2hUbGlYQUMzLXJNNGxpOGY5Q3d3aWpzTGtUOXBfbDBEMFhaS1hHcWRxQ1RlakZFVEs2SEtsdV80NlNmQXVHVzJTWmVzVDZfUzNFaVpC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkNxTlFHVW5OUzJsMnhXT0poZFc4T2dPU0gzVXZiOUtNUGg4ZmphWG9hc2YzYUJnQmkwUTIzdnFWcmVoRVJOR2hUbGlYQUMzLXJNNGxpOGY5Q3d3aWpzTGtUOXBfbDBEMFhaS1hHcWRxQ1RlakZFVEs2SEtsdV80NlNmQXVHVzJTWmVzVDZfUzNFaVpCUEdIVV9RNlpxUld2bjFidnk4TVpuOEFzYWpKOFNKMWxrejFrRTNONjRjVQ?oc=5",
+        "titulo_evento": "Trump targets Iran’s trade lifelines — here are the countries most exposed - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNnUWpiWGhR0gGfAUFVX3lxTE1mME1EWXJTZU1mdVc4MHdWb2ZXREZfUTV3LS1Sc3FodWgxWG5adGJwV3pWRG1qM2dkSWtNM2xLLXZnUHB5ZkV1VDdFeW9KcVk3VzBoaUVTXzdPWkVtc3hOVnh4MVJzb2p3WGg4UTR1Z3pETkVCaDJ1ZFJFbkhzNkx6RXJOWU9tUnFVUUhndHdIY3U4MElVRy1kdVloQ3BMaw?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "25/08/2026 09:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says it is 'fully prepared' to counter widened US economic sanctions - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TGt1ZGswTTBIUElrYUtUWWZoWDUybXVTQXh2M3o4Qm5WQnIwTm9pNnhKLTFmSUswc2NGNFVPWjA2TGswMHV5cXFXYXB2bEFWbFFTelZ5cEdudw?oc=5\" target=\"_blank\">Iran says it is 'fully prepared' to counter widened US ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TGt1ZGswTTBIUElrYUtUWWZoWDUybXVTQXh2M3o4Qm5WQnIwTm9pNnhKLTFmSUswc2NGNFVPWjA2TGswMHV5cXFXYXB2bEFWbFFTelZ5cEdudw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "25/08/2026 06:54"
+        "data_noticia": "25/08/2026 05:29"
       }
     },
     {
@@ -1196,16 +1230,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Trump targets Iran’s trade lifelines — here are the countries most exposed - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNnUWpiWGhR0gGfAUFVX3lxTE1mME1EWXJTZU1mdVc4MHdWb2ZXREZfUTV3LS1Sc3FodWgxWG5adGJwV3pWRG1qM2dkSWtNM2xLLXZnUHB5ZkV1VDdFeW9KcVk3VzBoaUVTXzdPWkVtc3hOVnh4MVJzb2p3WGg4UTR1Z3pETkVCaDJ1ZFJFbkhzNkx6RXJOWU9tUnFVUUhndHdIY3U4MElVRy1kdVloQ3BMaw?oc=5",
+        "titulo_evento": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "25/08/2026 05:29"
+        "data_noticia": "25/08/2026 09:46"
       }
     },
     {
@@ -1213,16 +1247,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "25/08/2026 09:46"
+        "titulo_evento": "Global Bond Markets Stabilize as Investors Mull U.S. Buybacks, Iran Sanctions - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkNxTlFHVW5OUzJsMnhXT0poZFc4T2dPU0gzVXZiOUtNUGg4ZmphWG9hc2YzYUJnQmkwUTIzdnFWcmVoRVJOR2hUbGlYQUMzLXJNNGxpOGY5Q3d3aWpzTGtUOXBfbDBEMFhaS1hHcWRxQ1RlakZFVEs2SEtsdV80NlNmQXVHVzJTWmVzVDZfUzNFaVpC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkNxTlFHVW5OUzJsMnhXT0poZFc4T2dPU0gzVXZiOUtNUGg4ZmphWG9hc2YzYUJnQmkwUTIzdnFWcmVoRVJOR2hUbGlYQUMzLXJNNGxpOGY5Q3d3aWpzTGtUOXBfbDBEMFhaS1hHcWRxQ1RlakZFVEs2SEtsdV80NlNmQXVHVzJTWmVzVDZfUzNFaVpCUEdIVV9RNlpxUld2bjFidnk4TVpuOEFzYWpKOFNKMWxrejFrRTNONjRjVQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "25/08/2026 09:33"
       }
     },
     {
@@ -1239,7 +1273,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzNIaDJOY0FuRzFnNjJzajJFZm1xNGktcy1kV2IxajNtbEJfSkZ3U2hKUldvUXR1TEpvUkNlYWlnS0tyTEk5NjY1YTBrUVduOXoxaTBNZTR0OGNxeGE2c3pyaHgtdkcyMEJnQUJveTRtcmFBVGpkUkRhYTJMaXJ0RDhqS3B2WkI3RmE3NThR?oc=5\" t...",
         "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzNIaDJOY0FuRzFnNjJzajJFZm1xNGktcy1kV2IxajNtbEJfSkZ3U2hKUldvUXR1TEpvUkNlYWlnS0tyTEk5NjY1YTBrUVduOXoxaTBNZTR0OGNxeGE2c3pyaHgtdkcyMEJnQUJveTRtcmFBVGpkUkRhYTJMaXJ0RDhqS3B2WkI3RmE3NThR?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "24/08/2026 23:10"
+        "data_noticia": "25/08/2026 01:10"
       }
     },
     {
@@ -1257,91 +1291,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOakdJdUtkc0szdWhNeW1MUE5BQWNzT0RoVE9EdjlhUGtieFVVS1VIQmpkbmtMeVVBU1IxSTFMME1YSmg0dHVrdmxUS000QnF6bDVRaXlnV0JEbTlhOEg0VzhUY1hsaUwxajk5MVBxSklGMVF0QU1aT0RheFNjeTlNZVBYNmtWVmlFWEJCR3N3U1dhRTQ?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "24/08/2026 22:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Tells Iran’s Trade Partners to Cut Ties or Face Sanctions - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDBjUWhER2FqdU1MVFF6MVR6QWZEY194a29CcWRvZUtjQUtzcUM3M1RqRlpDbTFjRXVSTGZ6d3RQb3JZanNieDRMSS1qRHRqQ29PVzk2bUdob1RmX2ZXRXZITnVxb2ktNnA2WXRWVVZWRmthY1lLeWwxOTJobDhXV2pWZ0JvUUNKQkJpUUtjN2NYQXNy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDBjUWhER2FqdU1MVFF6MVR6QWZEY194a29CcWRvZUtjQUtzcUM3M1RqRlpDbTFjRXVSTGZ6d3RQb3JZanNieDRMSS1qRHRqQ29PVzk2bUdob1RmX2ZXRXZITnVxb2ktNnA2WXRWVVZWRmthY1lLeWwxOTJobDhXV2pWZ0JvUUNKQkJpUUtjN2NYQXNySi1nSWdtSi1wVDY4SFdNdA?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "24/08/2026 19:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Bessent’s ‘economic D-Day’ against Iran begins with a ‘warning shot’ - Politico",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSUdDNzhXRklIcm9fREFkdmUyODhwUUlsS1VsYmxiLU1LWlRTdGtVczR3SVQ4dDBGdFFVaU9PNmVtTnVubXRtTVRCOEFwSVVSa3UwM2tDeUxYXzlCa1JlYWwydlFtd1h4MVo0M3V2V19XLXJtaDktMV9B?oc=5\" target=\"_blank\">Bessent’s ‘ec...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSUdDNzhXRklIcm9fREFkdmUyODhwUUlsS1VsYmxiLU1LWlRTdGtVczR3SVQ4dDBGdFFVaU9PNmVtTnVubXRtTVRCOEFwSVVSa3UwM2tDeUxYXzlCa1JlYWwydlFtd1h4MVo0M3V2V19XLXJtaDktMV9B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "24/08/2026 20:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Moves Toward 7.5% Tariff on China for Flooding Global Markets With Cheap Goods Ahead of Xi Meeting - Benzinga",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmVCSXlKdDVxc0dZSGVrOG1fZnplMjJPcjhVQi1BVVhVbXhybnJsdjRGeHZSYXY0ZTdsTktPaUZYWkZQb1hIbHBFUHdzOHB3LU9pTUMyRTZiMzhKN1JLTHpWNWxPMUF3bnVzZWMwQVpVcjdBMm5uM3ZpbnY2aVRQRW55VWdHN1RES1RKcUdQVFpqcjRJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmVCSXlKdDVxc0dZSGVrOG1fZnplMjJPcjhVQi1BVVhVbXhybnJsdjRGeHZSYXY0ZTdsTktPaUZYWkZQb1hIbHBFUHdzOHB3LU9pTUMyRTZiMzhKN1JLTHpWNWxPMUF3bnVzZWMwQVpVcjdBMm5uM3ZpbnY2aVRQRW55VWdHN1RES1RKcUdQVFpqcjRJOHMzQm9mbw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "25/08/2026 04:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's biggest apps are inviting the West closer into its insular internet economy - Business Insider",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWYzWUtPelg3ZWJxOHcwZjdzc2hPWmJ0a2NyTGZoa3pab00tS0toaVFEVTZqaHllSGROZTF2eVAxcFo5cDk0UllqbS05LV9PYlJNSS0yVjZOX1htdnBLVTgtSTZwTVdQZF9MSXVCNnFKOVZZUFZlanRkM1RfNVFjYnRsTE1CNGZ0cGh3QVFUOVZDZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWYzWUtPelg3ZWJxOHcwZjdzc2hPWmJ0a2NyTGZoa3pab00tS0toaVFEVTZqaHllSGROZTF2eVAxcFo5cDk0UllqbS05LV9PYlJNSS0yVjZOX1htdnBLVTgtSTZwTVdQZF9MSXVCNnFKOVZZUFZlanRkM1RfNVFjYnRsTE1CNGZ0cGh3QVFUOVZDZw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "25/08/2026 05:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As Iran stalemate drags on, US tries to tighten the economic vise - The Christian Science Monitor",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaW1sT1JVWDdrdlVEQlJrRHRlR1NTaDVZMzFTZWcwQ1pEYzZaX2V1REJpb1Z0cThSUmtLdFh2VkIwQThER3NNeW5Qb1VIeUxhVWE1M1pWRHhuOVdRWjZ4SFJ3elBKUE9tMzBOMHB4THNGeWRib0JQVHQ3MVoxSU9CZkNFNUJlQS16MFlZdzJ1ONIBqAFB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaW1sT1JVWDdrdlVEQlJrRHRlR1NTaDVZMzFTZWcwQ1pEYzZaX2V1REJpb1Z0cThSUmtLdFh2VkIwQThER3NNeW5Qb1VIeUxhVWE1M1pWRHhuOVdRWjZ4SFJ3elBKUE9tMzBOMHB4THNGeWRib0JQVHQ3MVoxSU9CZkNFNUJlQS16MFlZdzJ1ONIBqAFBVV95cUxPWEpvUDZnSVljZGlFdnRVWFlsNmxyMks1RV81VExOVTZ5MEN4MERVRDZGZTFfNnVxODNFQTEtMExhRjZHb2FkODJIcDNoODBGZlZCNHRMRTc0czJMU3dsOWpvamRtOU56alNjeE45UjQ5M2lqbFB0eERYUXl5WXpSTWJFWWhMRjdEbnh1NU56d1UyYWhVX2x3bXZ5QzRjbld5ZWczTUkxM0o?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "24/08/2026 21:01"
       }
     }
   ]
