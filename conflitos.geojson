@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine asks EU to fund first Patriot missiles buy",
+        "descricao": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time.",
+        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "05/09/2026 04:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           105.3188,
           61.524
         ]
@@ -33,23 +50,6 @@
         "url_fonte": "https://www.defensenews.com/global/europe/2026/09/04/us-to-seek-back-payment-from-europe-for-ukraine-aid-trump-says/",
         "categoria": "Defesa/Conflito (Defense News)",
         "data_noticia": "04/09/2026 10:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war escalation raises concern over civilian death toll",
-        "descricao": "The recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported four killed and dozens wounded at a wedding.",
-        "url_fonte": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "03/09/2026 02:46"
       }
     },
     {
@@ -96,7 +96,24 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+        "titulo_evento": "US imposes sanctions on Turkish bank, prompting legal threat",
+        "descricao": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "05/09/2026 05:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
         "descricao": "US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.",
         "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -147,62 +164,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Will Europe pay the US to provide military aid to Ukraine?",
-        "descricao": "US President Donald Trump laments past financial support for Ukraine&#039;s war effort and has vowed to claw the money back.",
-        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/09/2026 20:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-        "descricao": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/09/2026 20:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
-        "descricao": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "04/09/2026 19:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
-        "descricao": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/09/2026 18:52"
+        "titulo_evento": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "descricao": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/09/2026 04:28"
       }
     },
     {
@@ -261,23 +227,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "descricao": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "04/09/2026 20:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.3816,
           -34.6037
         ]
@@ -295,16 +244,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "US diesel prices hit an all-time-high",
-        "descricao": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "04/09/2026 10:52"
+        "titulo_evento": "How much can Canada fight back in its trade war with the US?",
+        "descricao": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight. ",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/09/2026 02:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+        "descricao": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "05/09/2026 04:03"
       }
     },
     {
@@ -339,6 +305,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "04/09/2026 04:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US peace envoys Witkoff and Kushner to visit Kyiv and Moscow with plan to 'end the war'",
+        "descricao": "The announcement came as Russian strikes on Ukraine's Dnipropetrovsk region killed four overnight, per local authorities.",
+        "url_fonte": "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "05/09/2026 08:04"
       }
     },
     {
@@ -424,6 +407,40 @@
         "url_fonte": "http://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels",
         "categoria": "Política (Euronews (Europa))",
         "data_noticia": "03/09/2026 10:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East live: Israeli strikes on south and east Lebanon kill three people",
+        "descricao": "\nIsraeli strikes in southern and eastern Lebanon late on Friday killed at least three people and wounded 23 more despite a ceasefire between Israel and Hezbollah, the Lebanese health ministry said. The ministry said in a statement that strikes hit fi...",
+        "url_fonte": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/09/2026 05:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+        "descricao": "\nUS envoys Steve Witkoff and Jared Kushner are travelling to Moscow and Kyiv this weekend with what US President Donald Trump says is a new proposal to end the Russia-Ukraine war. Despite Trump's promises to resolve the conflict, Washington's efforts...",
+        "url_fonte": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "05/09/2026 02:37"
       }
     },
     {
@@ -556,7 +573,7 @@
       },
       "properties": {
         "titulo_evento": "US envoys to visit Russia, Ukraine with plan 'to end war'",
-        "descricao": "Jared Kushner and Steve Witkoff are set to travel to Russia and Ukraine to revive peace talks. The trip would be the pair's first visit to Kyiv since Trump's reelection.",
+        "descricao": "Jared Kushner and Steve Witkoff are set to travel to Russia and Ukraine to revive peace talks. The trip would be the pair's first visit to Kyiv since US President Donald Trump's reelection.",
         "url_fonte": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "05/09/2026 01:27"
@@ -686,16 +703,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
+          -102.5528,
+          23.6345
         ]
       },
       "properties": {
-        "titulo_evento": "US court ruling aggravates Brussels’ Google problem",
-        "descricao": "A year ago the European Commission said only a breakup would fix Google's ad tech business. A U.S. judge disagreed.",
-        "url_fonte": "https://www.politico.eu/article/us-court-ruling-aggravates-brussels-google-problem/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "04/09/2026 12:28"
+        "titulo_evento": "Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growth",
+        "descricao": "",
+        "url_fonte": "https://finance.yahoo.com/technology/articles/samsara-q2-revenue-jumps-30-234940982.html",
+        "categoria": "Política (Yahoo Finance (Global))",
+        "data_noticia": "Recente"
       }
     },
     {
@@ -703,14 +720,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -66.5897,
+          6.4238
         ]
       },
       "properties": {
-        "titulo_evento": "Crude Oil Prices Settle Higher on US-Iran Tensions",
+        "titulo_evento": "U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans",
         "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/articles/crude-oil-prices-settle-higher-191321257.html",
+        "url_fonte": "https://finance.yahoo.com/energy/articles/u-venezuela-oil-deal-threatens-000000778.html",
         "categoria": "Economia (Yahoo Finance (Global))",
         "data_noticia": "Recente"
       }
@@ -805,6 +822,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Zelenskyy calls air truce as Kushner and Witkoff head for Kyiv via Moscow - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZDBRMUprSGU2T2doWW5BQlRtZm95U0QtWTJ2M1I5Smo5S0ZNTi1Yb0Iya3lJeHdfWS1UQUxNbVVpMVY1U295WDdIbW5jVm1MUWxQQkR1VUxTZHVFZkh0SDItUjRlTXMzVVhwNUNkdkQ4NUNYeXMyLTc2ZElqcTdtOTJWVnVUbUhJU2pVX0tucmN4X0ta...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZDBRMUprSGU2T2doWW5BQlRtZm95U0QtWTJ2M1I5Smo5S0ZNTi1Yb0Iya3lJeHdfWS1UQUxNbVVpMVY1U295WDdIbW5jVm1MUWxQQkR1VUxTZHVFZkh0SDItUjRlTXMzVVhwNUNkdkQ4NUNYeXMyLTc2ZElqcTdtOTJWVnVUbUhJU2pVX0tucmN4X0taQ0FUOUo5MlRpY1JHdHZOZDQ5YmN4Tmdnc1d0N3laWGVnb2ZpeEp3Q1B4a3huVFVtdjVLaUs3ckY5TGpjOU83eUhoMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/09/2026 01:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US 'administered' polygraphs to military officers for Iran war leaks - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDVZOUVlMUl0Y3FTc1Y1empmM29pVk0tNHozS1AwTWdOR0J2MF9uQm4xTDc5WEpQSGpKUlhZSXpGRGlDTFZ6eHktQ2c2S2NZTXRCTURsa2pmbUU0REV5ODloNzhMVmZadklrNWJXb1RpYUpBX3hLb3I2cEd2NWlXcU12cXpaTEJ6Vm0tbjBwRVBhT29N...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDVZOUVlMUl0Y3FTc1Y1empmM29pVk0tNHozS1AwTWdOR0J2MF9uQm4xTDc5WEpQSGpKUlhZSXpGRGlDTFZ6eHktQ2c2S2NZTXRCTURsa2pmbUU0REV5ODloNzhMVmZadklrNWJXb1RpYUpBX3hLb3I2cEd2NWlXcU12cXpaTEJ6Vm0tbjBwRVBhT29NSHZwenhWcjRjZzJzNW03dHpSYVhSeDRl?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "05/09/2026 02:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -822,67 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’ - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+        "titulo_evento": "Trump Administration Updates: Vance Says ‘I Don’t Know’ if Iran War Will Be Over by Midterms - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw?oc=5\" target=\"_blank\">Trump Administration Updates: Vance Says ‘I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CYmZlT3B0akpuUHViOXdkT2t3M29uX01vTzJZREJ1SGVoaEloWk1Rc2NzaGFScFZJeFdXQ3p1NE5ubVBMMHN3bkRsSXRwNVk5djZJQVFpajJGd3dKU2p6Yk4ydw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 22:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "PVH Second-Quarter Revenue Falls on Pressure From Iran War - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVXNZOEtaVDhsV0VJbUhldlpHNHJraVB5SW1HZVJ6UGI2OWNRVklvOG9vcXBFYVJWbGQtWDZZUmxuTXVCOTFjZHE0bHQzdkllbWdsMUtRVDM1eVM4MVhycm5KQ2ZFTkJPT08ydk9hc05mM3F1dzFIakR4aTdMdkNqZUEyOWM0ZHhIVWMzNGg4ajdINDBu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVXNZOEtaVDhsV0VJbUhldlpHNHJraVB5SW1HZVJ6UGI2OWNRVklvOG9vcXBFYVJWbGQtWDZZUmxuTXVCOTFjZHE0bHQzdkllbWdsMUtRVDM1eVM4MVhycm5KQ2ZFTkJPT08ydk9hc05mM3F1dzFIakR4aTdMdkNqZUEyOWM0ZHhIVWMzNGg4ajdINDBueUlMa2N5QmVMc1dpT09aV3lEQUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 19:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Dozens more troops added to tally of wounded in Iran war amid new strikes - Task & Purpose",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUXJOSGZPTGpLdXpzUVZtYXlaZUdSZFBUZ0NoME5TWl9WZlVTdFh0MVVySlFkN25kZXBVUkg4TGY5RmJJU1pkS2JFeTVXWmVKb0VabUZCRDhjZ0Q5WGZMRkNfcTFYVEF0YlV4bg?oc=5\" target=\"_blank\">Dozens more troops added to tal...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUXJOSGZPTGpLdXpzUVZtYXlaZUdSZFBUZ0NoME5TWl9WZlVTdFh0MVVySlFkN25kZXBVUkg4TGY5RmJJU1pkS2JFeTVXWmVKb0VabUZCRDhjZ0Q5WGZMRkNfcTFYVEF0YlV4bg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 21:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEFIR0hLWExCdXpWcWhKRi1Ydkg0em9mSjV6ZW9xdEJsQkoxWGVnOTlmT3RDY0pFNlloWjNMa1pGUVNwdmdHUUV2TkFoUFBaMDlQVy1DOFVrUmFzWlcwOGR2SEU4WTdsN3F2T0hOMEpLM3lyNldZZWQwOGxwTWJnaHJKeV9GZFJWUVFNZ2Q3RjE4V3do...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEFIR0hLWExCdXpWcWhKRi1Ydkg0em9mSjV6ZW9xdEJsQkoxWGVnOTlmT3RDY0pFNlloWjNMa1pGUVNwdmdHUUV2TkFoUFBaMDlQVy1DOFVrUmFzWlcwOGR2SEU4WTdsN3F2T0hOMEpLM3lyNldZZWQwOGxwTWJnaHJKeV9GZFJWUVFNZ2Q3RjE4V3doeG9hSmp5WUZpUmJ3cFpFenRVQzlOcV9ZVF9yVVpqWlBiY0JOM2t1WjNhZmZLX0xHZk8wRzRTY9IB0AFBVV95cUxPY2RZTDNhSVJzcG1IZUE5MHU2bEM1SHk3SFNIcFI5bzQtdmpmdmxwRElRcHBtTGp4WWx6RE9BV2hwU2VueVRFRVQyVHlpYTd4UFdHM0ZJWDZaZVhYNkt3ZWZmN21TaDFjbzEtTjZBZE1BRGxZZkJYVm5yUDliV2k5cG9ONmgyR0s5Z25pbkdyOEFraXVZc0FUOUViLTZFNFpCdnlzR1Q1QTg3NDNhR2g2TzdPMnh3aTE2N0ZXbUtOdk5EYXFVVlRQMWtPaW1XME1z?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 18:32"
+        "data_noticia": "05/09/2026 01:04"
       }
     },
     {
@@ -912,11 +912,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
+        "titulo_evento": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEFIR0hLWExCdXpWcWhKRi1Ydkg0em9mSjV6ZW9xdEJsQkoxWGVnOTlmT3RDY0pFNlloWjNMa1pGUVNwdmdHUUV2TkFoUFBaMDlQVy1DOFVrUmFzWlcwOGR2SEU4WTdsN3F2T0hOMEpLM3lyNldZZWQwOGxwTWJnaHJKeV9GZFJWUVFNZ2Q3RjE4V3do...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbEFIR0hLWExCdXpWcWhKRi1Ydkg0em9mSjV6ZW9xdEJsQkoxWGVnOTlmT3RDY0pFNlloWjNMa1pGUVNwdmdHUUV2TkFoUFBaMDlQVy1DOFVrUmFzWlcwOGR2SEU4WTdsN3F2T0hOMEpLM3lyNldZZWQwOGxwTWJnaHJKeV9GZFJWUVFNZ2Q3RjE4V3doeG9hSmp5WUZpUmJ3cFpFenRVQzlOcV9ZVF9yVVpqWlBiY0JOM2t1WjNhZmZLX0xHZk8wRzRTY9IB0AFBVV95cUxPY2RZTDNhSVJzcG1IZUE5MHU2bEM1SHk3SFNIcFI5bzQtdmpmdmxwRElRcHBtTGp4WWx6RE9BV2hwU2VueVRFRVQyVHlpYTd4UFdHM0ZJWDZaZVhYNkt3ZWZmN21TaDFjbzEtTjZBZE1BRGxZZkJYVm5yUDliV2k5cG9ONmgyR0s5Z25pbkdyOEFraXVZc0FUOUViLTZFNFpCdnlzR1Q1QTg3NDNhR2g2TzdPMnh3aTE2N0ZXbUtOdk5EYXFVVlRQMWtPaW1XME1z?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 21:25"
+        "data_noticia": "04/09/2026 18:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Small potatoes’: US President Trump downplays war on Iran - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/09/2026 23:58"
       }
     },
     {
@@ -929,113 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Will Europe pay the US to provide military aid to Ukraine? - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21OQUdMakhaeG9BaGRQc0lxa1BvU01IUXdLM21DQ0xfcFpqaUFxTl8zQTlJc1ItUi1GZXNrclc3eGVENzRzcUxkcVlUWjFDSlRueWk5blE3VWJXc1VHVHVReXpkMWd3Q205d2RRUjdpWHpNcU5BT1pUUl9iZHVySnM0U1NsQ3dyeHpJTDJfNWU2bXhn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21OQUdMakhaeG9BaGRQc0lxa1BvU01IUXdLM21DQ0xfcFpqaUFxTl8zQTlJc1ItUi1GZXNrclc3eGVENzRzcUxkcVlUWjFDSlRueWk5blE3VWJXc1VHVHVReXpkMWd3Q205d2RRUjdpWHpNcU5BT1pUUl9iZHVySnM0U1NsQ3dyeHpJTDJfNWU2bXhnS0N0dzZXck1raTdUUTNiVzVWWGhydnJ6OUo4d9IBtgFBVV95cUxPNjU1ZFhPOU9pcTJ3Qzd2cWdmV2loWVp6SkdfMUxHQkc0MURxVmFLVEVBcVdqR2I2ZUlxMGhXdG8wVEVmWE9maVZrMW5VdF9PTmdyd2RGb1lwUzExcEY1aUxOalBXc2NSOU0zUm9iRm11MU1LNTVoVjFnaldOS0lMUnFVdWRpQlUwUHZiSzM0WGJkbU04Y3R0SXVjUTluV2dXdURHUDExLWVDR0JPTXB4TUY0Qlp5QQ?oc=5",
+        "titulo_evento": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjkzS1JEbGotSGtvMHF2V1pnWVNvLVptdWxRZ21kSDlHZlQyWXpOVVRGTzgtQmdtelVQQ3U2aDh4eXktb00tX3JQUjFaU3hyYkFBM09felVwdWZaWTR3bTdvdzdLMTczYVhuUUplRDdNcFlFYkpLeU92WjY2MzV1aVhfMDlKblVqQXNPYzVGRzAtYjBxNFR5VHRtSmpMZ040RTg0X2R2Ylp5azDSAbABQVVfeXFMUDFIaXZUMVpMYWR5cmxmODFLQW5oQldFYjBRUl9yRWItcldfbms2R0J2aEx4TjFtODllUmg1NW5MN3VpdGg3b1IxVFNQbGdrV0pnWjl4SlJrR1dQTUF2YkF2YWQ4TmN4YkE5bUJxb3lleDJqUGx3SmtJTkZaS1lBYTZ5bUFxQUlWdEtvbXJMa3YweGdNOTQtUEVQT1U5VmtGZkVQeHMwMk81Y0FNWTVrZTg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 20:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckpWUTFRc1lfaUs5Z0FCeWhFeTZYc2ttSUdSa0JNcnRvVWZBLUxDbmt2aXZQdld1QThrVFVtODhRRFBoMlVkX0lXLXNBUWp5SXhIZl8zNlp1anRzMXI1ZEI3aFlGZ2ZXdWk2Z2JhYmdhSDZCOXNmeU4xQXZsTTJLS1d1S3BZX2xnOG9JWjMtemloTnJD0gGaAUFVX3lxTE0tNjNoN3lfNWtfRUdibGY0T1FqcTBUemM4eVJDNXRvU04zenFKZFBTSUdHVHJDN3hyeDk2Q2otTXBtWEQ1ZzhOWG1NTnNFUGxXaUlnSVVJTWozOTY4NVJ6THV3RXlIS0xDMzBRdXF5QjladmhqbUJvc0xKX2Zxa2NPVTZSalpRNEllbEo3VUt4TFAzWUYydXRrUUE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 20:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "After CIA director visit to Moscow, Putin pushes harder for military win - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3JnaGs0amptOW1DSk9BTXBXc0hwZkl5N0ltU3FIeVRRRzJVb0VVTVh3dnhhakRlVURBaVZQNUtkbk1yT0hjNndDTkE1WUdRa1FWVHhMaUNuTndMc2hFeXZqYVBtMXllc2hwYVFuajRiUTN0MUJQejQ2b1luSmM2TnpucTcwQXNKUmo3UnF3d3ROWmdx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3JnaGs0amptOW1DSk9BTXBXc0hwZkl5N0ltU3FIeVRRRzJVb0VVTVh3dnhhakRlVURBaVZQNUtkbk1yT0hjNndDTkE1WUdRa1FWVHhMaUNuTndMc2hFeXZqYVBtMXllc2hwYVFuajRiUTN0MUJQejQ2b1luSmM2TnpucTcwQXNKUmo3UnF3d3ROWmdxQjlUeXRUTkFpbXF1YUkxcXY2WllpZ1JaeUdIYi1B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/09/2026 00:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Small potatoes’: US President Trump downplays war on Iran - aljazeera.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 23:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. service members are unwinding in a Thai resort town strained by the Iran war they’ve been fighting - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONmRPT2xHbHp6YzlEU3pFVnprcDRwRG95WWpONlV3ckV1Tk9wcXFVU3dnd2ctWG5sMHZMbnhjTlBGaEdhYnExM01jZDJYeFJPajJkOE8ta3ZZcnpmZWFiSDJFUHp1RlB0amJqVzVoQWtXSU1ISE1sYlE3TmNpZUhBQXB4cDNsc2FUemRCbkE4TzRYTUZk...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmRPT2xHbHp6YzlEU3pFVnprcDRwRG95WWpONlV3ckV1Tk9wcXFVU3dnd2ctWG5sMHZMbnhjTlBGaEdhYnExM01jZDJYeFJPajJkOE8ta3ZZcnpmZWFiSDJFUHp1RlB0amJqVzVoQWtXSU1ISE1sYlE3TmNpZUhBQXB4cDNsc2FUemRCbkE4TzRYTUZkWlV4OHhXbVhCWklx?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 17:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'A big piece of our hearts left this earth': Military families reflect on service members killed, injured in Iran war - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJWcmVEeGZUdnNJbkdEZXJVSXdZSHJTNUphSjBXRDNLbnBqbTNXYm1jM25LU0gtelZ0d2FTX2FNRHFGQTc2OUN5TnhibUpWbU1aQ2xZcjdYX2UyaDNJOVhjOU5CZWI4MlJkWF9wOEp3U1pHVTF4V0ZCcDZCTTVHZWVlYVF5aHFyX1hlbU94UW1ya0ti...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJWcmVEeGZUdnNJbkdEZXJVSXdZSHJTNUphSjBXRDNLbnBqbTNXYm1jM25LU0gtelZ0d2FTX2FNRHFGQTc2OUN5TnhibUpWbU1aQ2xZcjdYX2UyaDNJOVhjOU5CZWI4MlJkWF9wOEp3U1pHVTF4V0ZCcDZCTTVHZWVlYVF5aHFyX1hlbU94UW1ya0tibllWMmpMaEd4VE5Oc3BZ0gGoAUFVX3lxTE5GVnZNemM2TUZwdTF2c0ZPeUV2T1NjbGxZOFc4Vk12OFVjUEF2LXJZbzdNajhlYnFBcldmYWhUalZfZ01HZE1TakpsaHV4SkttOEFrQWNUejlINngteDRRTFNVNGQyQ2Q1UXhQeXhKZDhNSkRweXpybW84NFhFUzUyMGFNUUQ0NUNteUdiVFM0bHR3b3c4Mjdtb2JvQ2ZPNGJuSWkwRy1mVg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 14:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A More Confident Iran Emerges After Six Months of War With the U.S. - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGh6Z3ViZTAtdGRLRldNc3hwZmhwc2hXWjVyTElFMU9hdUZjRHk5UWtUUXVMT1Y0NmVGcEdvQ2FteGFzUi1zLVdhLS1wNDZZczhPS0tzVUxOMlJPQW9XeE9kUFgtQUl4SEJySkMwbk95Szh1UGNPdmlJaC02T1hiTWE1OE5EN1lT?oc=5\" target=\"_...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGh6Z3ViZTAtdGRLRldNc3hwZmhwc2hXWjVyTElFMU9hdUZjRHk5UWtUUXVMT1Y0NmVGcEdvQ2FteGFzUi1zLVdhLS1wNDZZczhPS0tzVUxOMlJPQW9XeE9kUFgtQUl4SEJySkMwbk95Szh1UGNPdmlJaC02T1hiTWE1OE5EN1lT?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/09/2026 15:21"
+        "data_noticia": "04/09/2026 21:25"
       }
     },
     {
@@ -1060,16 +975,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’ - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/09/2026 22:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Will Europe pay the US to provide military aid to Ukraine? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21OQUdMakhaeG9BaGRQc0lxa1BvU01IUXdLM21DQ0xfcFpqaUFxTl8zQTlJc1ItUi1GZXNrclc3eGVENzRzcUxkcVlUWjFDSlRueWk5blE3VWJXc1VHVHVReXpkMWd3Q205d2RRUjdpWHpNcU5BT1pUUl9iZHVySnM0U1NsQ3dyeHpJTDJfNWU2bXhn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21OQUdMakhaeG9BaGRQc0lxa1BvU01IUXdLM21DQ0xfcFpqaUFxTl8zQTlJc1ItUi1GZXNrclc3eGVENzRzcUxkcVlUWjFDSlRueWk5blE3VWJXc1VHVHVReXpkMWd3Q205d2RRUjdpWHpNcU5BT1pUUl9iZHVySnM0U1NsQ3dyeHpJTDJfNWU2bXhnS0N0dzZXck1raTdUUTNiVzVWWGhydnJ6OUo4d9IBtgFBVV95cUxPNjU1ZFhPOU9pcTJ3Qzd2cWdmV2loWVp6SkdfMUxHQkc0MURxVmFLVEVBcVdqR2I2ZUlxMGhXdG8wVEVmWE9maVZrMW5VdF9PTmdyd2RGb1lwUzExcEY1aUxOalBXc2NSOU0zUm9iRm11MU1LNTVoVjFnaldOS0lMUnFVdWRpQlUwUHZiSzM0WGJkbU04Y3R0SXVjUTluV2dXdURHUDExLWVDR0JPTXB4TUY0Qlp5QQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/09/2026 20:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Diesel hits record $5.85 a gallon as Iran war drags on - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxObm1kdzd3TTBWUlFBR1RTXzV5NGl4eFhLNXN6MHlUdndZdVVpWGNOa2pZRTBMY3JiYWpmcWk5RHNTLUxqR2YzX09ZLUxDMlZZWlU4QTd4Mm9xcklJZW5QdXdKc0RDb0E0bjUwdHViXzd1M2JxbWpqQkFLQzBrQ3VYNkZTQTVzc3hIX0cxM2Vibnc0bWJv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm1kdzd3TTBWUlFBR1RTXzV5NGl4eFhLNXN6MHlUdndZdVVpWGNOa2pZRTBMY3JiYWpmcWk5RHNTLUxqR2YzX09ZLUxDMlZZWlU4QTd4Mm9xcklJZW5QdXdKc0RDb0E0bjUwdHViXzd1M2JxbWpqQkFLQzBrQ3VYNkZTQTVzc3hIX0cxM2Vibnc0bWJvTExVeU9FWWE?oc=5",
+        "titulo_evento": "After CIA director visit to Moscow, Putin pushes harder for military win - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3JnaGs0amptOW1DSk9BTXBXc0hwZkl5N0ltU3FIeVRRRzJVb0VVTVh3dnhhakRlVURBaVZQNUtkbk1yT0hjNndDTkE1WUdRa1FWVHhMaUNuTndMc2hFeXZqYVBtMXllc2hwYVFuajRiUTN0MUJQejQ2b1luSmM2TnpucTcwQXNKUmo3UnF3d3ROWmdx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3JnaGs0amptOW1DSk9BTXBXc0hwZkl5N0ltU3FIeVRRRzJVb0VVTVh3dnhhakRlVURBaVZQNUtkbk1yT0hjNndDTkE1WUdRa1FWVHhMaUNuTndMc2hFeXZqYVBtMXllc2hwYVFuajRiUTN0MUJQejQ2b1luSmM2TnpucTcwQXNKUmo3UnF3d3ROWmdxQjlUeXRUTkFpbXF1YUkxcXY2WllpZ1JaeUdIYi1B?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "05/09/2026 00:20"
+        "data_noticia": "05/09/2026 00:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China as a Stabilizer and Growth Engine in a Turbulent Global Economy - Alwihda Info",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVlDZVh3V0JNbGJrUG82azVuTzJXb2xiSkZzZnR3RGVRcGVkTl8wMzlKM0loajVFVEtTaEdZUW9DcXF1UFNVc3NBeUl2WW8tRVlnelR1VnZZUDRNeFpuSFRXVk9vd1JPVzBlSnlHelBNdFBUTVB5anNza0RsejF3djBjZkpDUXFfMVlqYzBCdFItSjhF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVlDZVh3V0JNbGJrUG82azVuTzJXb2xiSkZzZnR3RGVRcGVkTl8wMzlKM0loajVFVEtTaEdZUW9DcXF1UFNVc3NBeUl2WW8tRVlnelR1VnZZUDRNeFpuSFRXVk9vd1JPVzBlSnlHelBNdFBUTVB5anNza0RsejF3djBjZkpDUXFfMVlqYzBCdFItSjhFZC03NHpORmpqSG8?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "05/09/2026 04:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Gansu's traditional medicine industry embraces tech and global markets - China Daily",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBFYVp3QV9peHR6NEp3VU5FamtwZFJrdFFjc3ZtbkFGYU9Rci1fbk4xR3JvVm1uN01JUE5faFFYRVRZR2JvcEFqT3R3RXhGRWRYV0F3X1MtY1ppTjFNSnFKREJ6N1V4X3dpREtsTktFaGVGOUtkd2NmWFZaajRPUQ?oc=5\" target=\"_blank\">Gansu's...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFYVp3QV9peHR6NEp3VU5FamtwZFJrdFFjc3ZtbkFGYU9Rci1fbk4xR3JvVm1uN01JUE5faFFYRVRZR2JvcEFqT3R3RXhGRWRYV0F3X1MtY1ppTjFNSnFKREJ6N1V4X3dpREtsTktFaGVGOUtkd2NmWFZaajRPUQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "05/09/2026 03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Despite Global Headwinds, China's 'Slow Bull' Markets Weather Corrections - citynewsservice.cn",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU5RTkJZVllvcVJRSUNkaUVGLVo3cXBYcFVwSXNrSTRrOVgtUktOX1VGWHYycDIxR0hlTEJBYU15U1gwb0hCWHRxMXdxYzVyUUE3cUlpREx6Rm1sbmM0cW1CT2h1QkZYYU9uUWFUbGtBcnY1X1E0NVFKT05WN3NaVHd5cnlZZHItR1RxeDBHYWpCZHRr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU5RTkJZVllvcVJRSUNkaUVGLVo3cXBYcFVwSXNrSTRrOVgtUktOX1VGWHYycDIxR0hlTEJBYU15U1gwb0hCWHRxMXdxYzVyUUE3cUlpREx6Rm1sbmM0cW1CT2h1QkZYYU9uUWFUbGtBcnY1X1E0NVFKT05WN3NaVHd5cnlZZHItR1RxeDBHYWpCZHRrelJMc1o4U3RSVGxmamVLcm00NVVLOFhkaFhkalNHbmRDY1I5OEFoMVNiUVNKOXQySUduVVJsZUx3UnA0LU1uLXZB?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "05/09/2026 05:00"
       }
     },
     {
@@ -1094,57 +1094,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The “Candyfloss” Economy Confronts Hard Limits as US Allies Limit Exposure - La Voce di New York",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdG85cWplT1RwbVA2ZG9VRU5WUHRuOS1fMmpmQzVrTW15ZXE4Yy1XQ2tGQ1lXbkd1U3FqSFdESHZ6b29yczlSSV9aWV9kOTRma05RQzRzX2pmUmMyaTJfMVVLOEtjSGZWTG5RUWdTc1RpdnN0QXV3cmQ0M3pKUEMzVEFuX3JKUURWNVZqZGN1TmlZQVdL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdG85cWplT1RwbVA2ZG9VRU5WUHRuOS1fMmpmQzVrTW15ZXE4Yy1XQ2tGQ1lXbkd1U3FqSFdESHZ6b29yczlSSV9aWV9kOTRma05RQzRzX2pmUmMyaTJfMVVLOEtjSGZWTG5RUWdTc1RpdnN0QXV3cmQ0M3pKUEMzVEFuX3JKUURWNVZqZGN1TmlZQVdLVl9fVG5aRjA2MEtQMWJwcUlMelpHQ1J2Tk5rQ2FsS2hoVFU1RmZ2emdvaHpOUQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/09/2026 17:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why are fuel and petrochemical prices rising far faster than crude? - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2NGZkI0VVVzN0ZMRmlicVRHbW55Ynk2VGd2cTZEb3ZZTG9wS2tfUVd6NVlkUFJBZEdpNHR3clNUODBrQXh5MGxGcXFhRXI5UmR3U0ZCWGVPd25lRG9EOW5pMGRURlNFOGNWa1luMWpqaXFNSTNySDEwcUwxdURGZEVxMkNHYUZCbEJyZFlBZVZteWJJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2NGZkI0VVVzN0ZMRmlicVRHbW55Ynk2VGd2cTZEb3ZZTG9wS2tfUVd6NVlkUFJBZEdpNHR3clNUODBrQXh5MGxGcXFhRXI5UmR3U0ZCWGVPd25lRG9EOW5pMGRURlNFOGNWa1luMWpqaXFNSTNySDEwcUwxdURGZEVxMkNHYUZCbEJyZFlBZVZteWJJRkZkbW5MbzlRdTI4MDU3YTZoNWRpMXlqSWtfUkptTnhuXzlKbjJkRGRkcHUxS1BKaWRjSnBWX2w3ODBiZDJ0N2lR0gHWAUFVX3lxTE1WWkFFZGMzU2dEdWZzUGE5NFZySXJpWU5reGc3by1BTTNoMncweHVBUzRJNmVTWklCUjBaeFRod3ZNLVExQnFJV2k4dUIxTnpCU0lSR2h0bkw3ejNBVk41YlJIOG1XSm10ZV9xaXVIRG9FZVdWOWdXTXRMRTBoa1dFTGZPWTd3YXZTY2UxZjh0RGp0d2tXX3k3Mk5ILU5wUHBna0pfX1dVSFVURUtKdnlGaHFmeHk0M2lyRThqTWU0UlByRTUwdGpoYW1sQXF4dXZBd3B3REE?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "04/09/2026 13:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Eastern Economic Forum: Russia Bets on Asia and the Global South - moderndiplomacy.eu",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFUwTWhnMjY3VmgzeHFwQlc3U0pHM0F1dzJEYU1kQ2VJeF82X0FzLXpnVnNseVhoUFJRcnZOTnpQZEM0bnc3ZmtzZElTR0V6SmkxcWRVdU4tRlY4QW54WkltN1o2MXg4aW9TUkVPMThjUDlLbV9GMjZfcndaWXhsUV9pY0RxbjUyX3NwazZaeFpFYTFp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFUwTWhnMjY3VmgzeHFwQlc3U0pHM0F1dzJEYU1kQ2VJeF82X0FzLXpnVnNseVhoUFJRcnZOTnpQZEM0bnc3ZmtzZElTR0V6SmkxcWRVdU4tRlY4QW54WkltN1o2MXg4aW9TUkVPMThjUDlLbV9GMjZfcndaWXhsUV9pY0RxbjUyX3NwazZaeFpFYTFpU01rbUxycGoxMTFPZGFTLQ?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "04/09/2026 22:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1155,6 +1104,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUItbGZhdVc0NHZnWDk0UXFiX0tuTDNFZ1BnaHV0RGNfSjdQLTB4bGZ1LWIzRVMyUllIczRCWThFWW5ZQmNiVmtUUVRyNU9LRzBHWXQwQ096OUd4NW9DdzB0dENWQjdwZVdyalA2MVNkQUNYeFdkS29hRzdrOUR4YVl6MHJvMjUwRjJteUxJMWJnZF8xVDN2bVIzOA?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "04/09/2026 15:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The “Candyfloss” Economy Confronts Hard Limits as US Allies Limit Exposure - La Voce di New York",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdG85cWplT1RwbVA2ZG9VRU5WUHRuOS1fMmpmQzVrTW15ZXE4Yy1XQ2tGQ1lXbkd1U3FqSFdESHZ6b29yczlSSV9aWV9kOTRma05RQzRzX2pmUmMyaTJfMVVLOEtjSGZWTG5RUWdTc1RpdnN0QXV3cmQ0M3pKUEMzVEFuX3JKUURWNVZqZGN1TmlZQVdL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdG85cWplT1RwbVA2ZG9VRU5WUHRuOS1fMmpmQzVrTW15ZXE4Yy1XQ2tGQ1lXbkd1U3FqSFdESHZ6b29yczlSSV9aWV9kOTRma05RQzRzX2pmUmMyaTJfMVVLOEtjSGZWTG5RUWdTc1RpdnN0QXV3cmQ0M3pKUEMzVEFuX3JKUURWNVZqZGN1TmlZQVdLVl9fVG5aRjA2MEtQMWJwcUlMelpHQ1J2Tk5rQ2FsS2hoVFU1RmZ2emdvaHpOUQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/09/2026 17:55"
       }
     }
   ]
