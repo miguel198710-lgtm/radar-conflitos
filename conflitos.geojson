@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+        "descricao": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "08/09/2026 18:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3522,
           48.8566
         ]
@@ -40,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The Two Questions Ukraine Asks Before Every Decision",
+        "descricao": "<p>Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks&#160;members. Each Monday, we bring you a curated selection of articles from Ukrainian media of...",
+        "url_fonte": "https://warontherocks.com/the-two-questions-ukraine-asks-before-every-decision/",
+        "categoria": "Defesa/Conflito (War on the Rocks)",
+        "data_noticia": "08/09/2026 19:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -67,6 +101,57 @@
         "url_fonte": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
         "categoria": "Defesa/Conflito (War on the Rocks)",
         "data_noticia": "07/09/2026 07:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Does the UK have a legal obligation to redress the harms of slavery?",
+        "descricao": "Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.",
+        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "08/09/2026 19:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China and Qatar are strengthening bilateral ties: What that really means",
+        "descricao": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "08/09/2026 18:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+        "descricao": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss &#039;a proposal to end the war&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "08/09/2026 18:31"
       }
     },
     {
@@ -215,45 +300,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
-        "descricao": "The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "08/09/2026 15:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UK bans goods from Israeli West Bank settlements: What that really means",
-        "descricao": "Foreign Minister Ed Miliband said the ban represents a &#039;comprehensive reset&#039; of the UK&#039;s policy on Israel.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "08/09/2026 14:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen’s reignited war fuels a new wave in child recruitment",
-        "descricao": "Yemeni government and Houthi forces are engaged in a new round of fighting.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/yemens-reignited-war-fuels-a-new-wave-in-child-recruitment?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "08/09/2026 14:16"
+        "titulo_evento": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "descricao": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Economia (BBC World)",
+        "data_noticia": "08/09/2026 19:11"
       }
     },
     {
@@ -329,23 +380,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-        "descricao": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "08/09/2026 14:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -407,6 +441,193 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
         "categoria": "Economia (BBC World)",
         "data_noticia": "08/09/2026 16:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Paris probes why women staff removed from Eiffel Tower for Hindu visit",
+        "descricao": "\nThe mayor of Paris on Tuesday ordered investigations over the removal of women staff at the Eiffel Tower during a visit by a Hindu religious group which prompted an employee walkout and the one-day closure of the monument. The Eiffel Tower, which sa...",
+        "url_fonte": "https://www.france24.com/en/paris-probes-why-women-staff-removed-from-eiffel-tower-for-hindu-visit",
+        "categoria": "Política (France 24)",
+        "data_noticia": "08/09/2026 20:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada PM stands his ground as Ottawa's retaliatory tariffs on US goods take effect",
+        "descricao": "\nCanadian Prime Minister Mark Carney said it was a shame that trade talks with the US collapsed but that he would continue to fight to protect Canada's sovereignty, as his government's promised counter-tariffs on $20 billion worth of US exports took ...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/business/20260908-canada-pm-stands-his-ground-as-ottawa-s-retaliatory-tariffs-on-us-goods-take-effect",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "08/09/2026 20:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean",
+        "descricao": "\nDonald Trump shared an AI-generated map Monday appearing to show the US absorbing Canada, Mexico, Greenland, Iceland, Cuba and parts of the Caribbean into a giant “United States of America”. Shared with no context, the post sparked diplomatic backla...",
+        "url_fonte": "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1",
+        "categoria": "Política (France 24)",
+        "data_noticia": "08/09/2026 19:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Europe's museums are under siege', art recovery expert says",
+        "descricao": "\nTwo thieves sliced through a fence, climbed through a window and stole four valuable Renoir paintings Tuesday from a small museum on the French Riviera, but abandoned two of the artworks as they fled, authorities said. FRANCE 24's Mark Owen speaks w...",
+        "url_fonte": "https://www.france24.com/en/europe-s-museums-are-under-siege-art-recovery-expert-says",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "08/09/2026 19:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada will move faster from US reliance as tariffs take effect and Trump response looms",
+        "descricao": "\nCanadian Prime Minister Mark Carney said Tuesday that Canada would move faster to reduce its economic reliance on the United States as retaliatory tariffs took effect on about $20 billion worth of U.S. goods and the country braced for President Dona...",
+        "url_fonte": "https://www.france24.com/en/canada-will-move-faster-from-us-reliance-as-tariffs-take-effect-and-trump-response-looms",
+        "categoria": "Política (France 24)",
+        "data_noticia": "08/09/2026 19:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
+        "descricao": "\nUS President Donald Trump told Russian President Vladimir Putin he wanted a swift end to the Ukraine war, the Kremlin said, arguing that peace could pave the way for a broad restoration of US-Russia ties. The hour-long call Tuesday followed weekend ...",
+        "url_fonte": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "08/09/2026 19:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "French police hunt Renoir thieves after lightning museum heist",
+        "descricao": "\nFrench police on Tuesday hunted for two thieves who escaped with two Renoir paintings from a museum, after abandoning two others as they fled, in a burglary that reignited concerns about the protection of France's cultural heritage. The heist is the...",
+        "url_fonte": "https://www.france24.com/en/french-police-hunt-renoir-thieves-after-lightning-museum-heist",
+        "categoria": "Política (France 24)",
+        "data_noticia": "08/09/2026 18:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Netanyahu under fire over report UAE warned of October 7 attack",
+        "descricao": "\nIsraeli opposition leaders on Tuesday called Prime Minister Benjamin Netanyahu unfit to serve after a report that the United Arab Emirates had warned him before the October 7, 2023 Hamas attack. Haaretz newspaper, in a report excerpted from a forthc...",
+        "url_fonte": "https://www.france24.com/en/netanyahu-under-fire-over-report-uae-warned-of-october-7-attack",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "08/09/2026 18:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK, France, Canada to ban imports from Israeli settlements",
+        "descricao": "\nBritain, France and Canada said Tuesday they will ban imports from Israeli settlements in the occupied West Bank, with a UK minister accusing Israel of turning a blind eye to the \"ethnic cleansing\" of Palestinians there. FRANCE 24's Emerald Maxwell ...",
+        "url_fonte": "https://www.france24.com/en/uk-france-canada-to-ban-imports-from-israeli-settlements",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "08/09/2026 18:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Missiles or mediation? Trump envoys shuttle between Russia and Ukraine",
+        "descricao": "\nExactly two months ago, Ukraine’s momentum was all the talk at a Nato summit in Turkey. What with its long-range drones and Donald Trump’s surprise announcement that the US would allow Kyiv to produce Patriot anti-ballistic missiles on home soil. Th...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/the-debate/20260908-missiles-or-mediation-trump-envoys-shuttle-between-russia-and-ukraine",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "08/09/2026 18:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Messi, Mbappé and Kane headline Ballon d'Or shortlist, Vozinha named for Yashin award",
+        "descricao": "\nEight-time laureate Lionel Messi is in the 30-man shortlist for the 2026 Men's Ballon ​d'Or, with Harry Kane and Kylian Mbappé among the favourites to succeed France's Ousmane Dembélé. Cape Verde's Vozinha has been shortlisted for the goalkeepers' Y...",
+        "url_fonte": "https://www.france24.com/en/sport/20260908-messi-mbappe-kane-headline-ballon-d-or-shortlist-vozinha-named-yashin-award",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "08/09/2026 17:52"
       }
     },
     {
@@ -538,9 +759,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "50 years after his death, Mao still shapes China",
+        "titulo_evento": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
         "descricao": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his death, the legacy of his era continues to influence China today.",
-        "url_fonte": "https://www.dw.com/en/50-years-after-his-death-mao-still-shapes-china/a-79189751?maca=en-rss-en-all-1573-xml-mrss",
+        "url_fonte": "https://www.dw.com/en/fifty-years-after-mao-s-death-china-has-transformed-dw-looks-at-why-his-political-legacy-still-matters/a-79189751?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Política (DW (Alemanha/UE))",
         "data_noticia": "08/09/2026 14:44"
       }
@@ -606,9 +827,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Germany news: Gas reserves historically low ahead of winter",
-        "descricao": "Gas storage operator association INES has warned that Germany's gas reserves could run out in the event of a cold winter. Meanwhile, fallout from the AfD's state election victory continues. Follow DW for the latest.",
-        "url_fonte": "https://www.dw.com/en/germany-news-gas-reserves-historically-low-ahead-of-winter/live-79153944?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Merkel's 'heart bleeds' after AfD win in Saxony-Anhalt",
+        "descricao": "Former Chancellor Angela Merkel called the results in Saxony-Anhalt \"simply shocking,\" and warned of the dangers of feelings trumping facts. The latest PISA education test scores also have Germany reeling. DW has more.",
+        "url_fonte": "https://www.dw.com/en/merkel-s-heart-bleeds-after-afd-win-in-saxony-anhalt/live-79153944?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "08/09/2026 06:31"
       }
@@ -725,23 +946,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
-        "categoria": "Defesa/Conflito (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
         "titulo_evento": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
         "descricao": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.",
         "url_fonte": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
@@ -822,16 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Gulf nations build defenses and aim to bypass Hormuz as Iran war drags on - washingtonpost.com",
+        "titulo_evento": "Gulf nations race to bypass Hormuz and build defenses as Iran war drags on - The Washington Post",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUN6c2d1WnU2UXZIa0J6Y3QtSWs1V1VFbk9aSFB4N0FGU2VncXlTZ2lHZXRQQU0yUkZBRmpVb1dneDIzOXpzLXBsTjVvVlJXQXVMUTR0NGlmbjJkMDI3cFNKUFpyTzNMZWlsdGJKd21sQnZHdzhHXzE3QkZTanNjSnFkR1VFQVhwZkw4ek5hUVFPbEF4...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUN6c2d1WnU2UXZIa0J6Y3QtSWs1V1VFbk9aSFB4N0FGU2VncXlTZ2lHZXRQQU0yUkZBRmpVb1dneDIzOXpzLXBsTjVvVlJXQXVMUTR0NGlmbjJkMDI3cFNKUFpyTzNMZWlsdGJKd21sQnZHdzhHXzE3QkZTanNjSnFkR1VFQVhwZkw4ek5hUVFPbEF4dlVHZ1pRVTZrUUFIdVNCU2FLeC1FUlFleVE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 16:38"
+        "data_noticia": "08/09/2026 19:38"
       }
     },
     {
@@ -848,7 +1052,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBs...",
         "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 17:00"
+        "data_noticia": "08/09/2026 20:21"
       }
     },
     {
@@ -856,50 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "As the Iran war menaces shipping, land routes are making a comeback - The Economist",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnRERzN5cVBybXRvaE14b0oyejNKTVY0YllZbzFhek81TWgxa1B6Z2x0MUVZbV9LQnpFWU1UQmx0clZ1Nmxlb0VoWE44ZFFfRk9nclhTWll3UV9GaDBFLUN3R1E1YUVuMWdMRk00NWlHT0REUmVULWZSNUVhZjBtMDRLU01rX2JHaFZQbHJHUXpwOXpu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnRERzN5cVBybXRvaE14b0oyejNKTVY0YllZbzFhek81TWgxa1B6Z2x0MUVZbV9LQnpFWU1UQmx0clZ1Nmxlb0VoWE44ZFFfRk9nclhTWll3UV9GaDBFLUN3R1E1YUVuMWdMRk00NWlHT0REUmVULWZSNUVhZjBtMDRLU01rX2JHaFZQbHJHUXpwOXpuSU9SY0hTYWhocDBrVlRXdU9UNUo0cDNPcjdnNnhWMWxhTmtLSnQtcHF1TXBKTE1l?oc=5",
+        "titulo_evento": "As War Grinds On, Trump Relishes Renovation Projects - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 16:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthi Attacks On Saudi Arabia Could Open New Front In U.S.-Iran War - Forbes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlJzdDI1R3B6UGI3VzBwTkJRNFBXVk01ZTBHdlNmRUJaakdqcEVUcmVCQ19QcW1adkdtMVRCYUh4aDA0Tm9PcllPMGJpOF81d3VIQmhwS2ZuaG9zZ2JnVk9XbFZUMC1rWFFyYmZvbjRqcHdkWjBuQUE4RUF0dnEta240dE5vOURFcVZWUkltNFoyUFFp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlJzdDI1R3B6UGI3VzBwTkJRNFBXVk01ZTBHdlNmRUJaakdqcEVUcmVCQ19QcW1adkdtMVRCYUh4aDA0Tm9PcllPMGJpOF81d3VIQmhwS2ZuaG9zZ2JnVk9XbFZUMC1rWFFyYmZvbjRqcHdkWjBuQUE4RUF0dnEta240dE5vOURFcVZWUkltNFoyUFFpVUZoZFNwOUFCenp1QTdrcmx3M0xmdkNmSWNhTllkeHY?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 16:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's ex-president Rouhani urges public say on ending war, prompting calls for arrest - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8ySzlKYXpjNTZEM1VRMGNFOHVEUjRIaVBLNzR6c3NXYk94LW1IRzAyVmlXRWVqYXB3UHpWMU9RbnRLRDNLTHhqY3k4TkdrcTgySGJfRjZjYnV2bHZFVEw0QVU3RmdiRWdOY0E?oc=5\" target=\"_blank\">Iran's ex-president Rouhani urges ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ySzlKYXpjNTZEM1VRMGNFOHVEUjRIaVBLNzR6c3NXYk94LW1IRzAyVmlXRWVqYXB3UHpWMU9RbnRLRDNLTHhqY3k4TkdrcTgySGJfRjZjYnV2bHZFVEw0QVU3RmdiRWdOY0E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 15:16"
+        "data_noticia": "08/09/2026 18:30"
       }
     },
     {
@@ -924,16 +1094,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.8243,
-          39.0742
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Israel and Greece sign $3.5 billion deal for missile defense | Defense Dollars - Defense News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkpkYW4tamZrb3ItaVM5R2o4NG5RNDBBNjNQVFdkbjl0bUE2MEgwTFFObUJ1WEo3V2szaDBBY19jN3lIaDdBbW01b21aOXRWTjF0ZllqVEZ1MUNPb3o0LUlNcmkwSkV5QUEzaGJNUVNSY3VLeVlray02U3A5X2d4M2dOZ2E3Q20yZ2RYUV9HREpNU0pp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkpkYW4tamZrb3ItaVM5R2o4NG5RNDBBNjNQVFdkbjl0bUE2MEgwTFFObUJ1WEo3V2szaDBBY19jN3lIaDdBbW01b21aOXRWTjF0ZllqVEZ1MUNPb3o0LUlNcmkwSkV5QUEzaGJNUVNSY3VLeVlray02U3A5X2d4M2dOZ2E3Q20yZ2RYUV9HREpNU0ppWXJfLVFnR1J5TWQ0ZjQ1SHBxXzhmdUlKMnhkUHVJNTNROGlpSTlVTw?oc=5",
+        "titulo_evento": "Iran war: Tehran’s assertive rhetoric signals a new and dangerous phase in conflict - The Conversation",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjZaQ0FfLTJEN3Y0MVFkQkxUNURJR05pVzNNcTgxTXN0SkZRWG56ZmtHRm1iUGphNWFNd2Y5V2xDbVBqZVkxQzlOaUVlZTRPTXg4clFKQnpoZ2JPR2FpQy1IN2R1Q25RYmUzUF9jQkJyZW1aNWxYU1doT3RmZEdXQ3BFYkxzY0UxWC1WRE9xRG9VVl9o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjZaQ0FfLTJEN3Y0MVFkQkxUNURJR05pVzNNcTgxTXN0SkZRWG56ZmtHRm1iUGphNWFNd2Y5V2xDbVBqZVkxQzlOaUVlZTRPTXg4clFKQnpoZ2JPR2FpQy1IN2R1Q25RYmUzUF9jQkJyZW1aNWxYU1doT3RmZEdXQ3BFYkxzY0UxWC1WRE9xRG9VVl9oeXJSaUpGXzlFdTRFQTVLTFJGblF1NmEwcWFLSXp2X2R4RjQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 15:54"
+        "data_noticia": "08/09/2026 13:48"
       }
     },
     {
@@ -946,11 +1116,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump: Oil prices ‘will drop precipitously’ after Iran war win - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0lCQTVvLWxXZ0d6eHROWE9JR2FDU3dYaEVGSG1NbzcwQk1PX0lKaHhqbE5jR2djZ2xVbUw4N0trRjhjMk5zRFFiZHVnd2stYlEwYmhtR2ZBNS1DVnRqSFpicDhkcEhEYUdYMDJiNDZ0NVRTTUZDdU9vcDdKa0g2ZS1KMjQ3dUY4QWhaVmdaSFpPWWp4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0lCQTVvLWxXZ0d6eHROWE9JR2FDU3dYaEVGSG1NbzcwQk1PX0lKaHhqbE5jR2djZ2xVbUw4N0trRjhjMk5zRFFiZHVnd2stYlEwYmhtR2ZBNS1DVnRqSFpicDhkcEhEYUdYMDJiNDZ0NVRTTUZDdU9vcDdKa0g2ZS1KMjQ3dUY4QWhaVmdaSFpPWWp4LVZValJ2T0F6Q2FM0gGmAUFVX3lxTE9HdjdVUldWRHZlV1owTjZSUnNUYll5RHZ2WUpuSkVCb3NCQlFDYTlaVGplUjVncnhRa0xKRG5sNV9TN3cwVWNmcXNkX1lhQ2NFVk9Rb1dqbFV6QTFYVDhON2hEUXE3clFMRXlPVjdmVXZpb2JpNkVGcE5zd2RWWDZLcXd2eE1aMjNEZTBvMUJRR2dJOFFaczZHRVJabW5COVRDQnN2RlE?oc=5",
+        "titulo_evento": "Americans are footing a $100 billion energy bill from the Iran war - cnn.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZElqdHVsbGFnSENHQkF2SXR1N3VWWFNBSV9ZdnFpU3ZydkpkWi1Gc21udXpxd3FRd1Z1M0VPbVdXRWxyaWlHd1d4WF9GYzR0SWpKNDRsc2RqVjFaUUdQR0RVUmVhdkpwT29ZRnltYw?oc=5\" target=\"_blank\">Americans are footing a $10...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZElqdHVsbGFnSENHQkF2SXR1N3VWWFNBSV9ZdnFpU3ZydkpkWi1Gc21udXpxd3FRd1Z1M0VPbVdXRWxyaWlHd1d4WF9GYzR0SWpKNDRsc2RqVjFaUUdQR0RVUmVhdkpwT29ZRnltYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 13:12"
+        "data_noticia": "08/09/2026 16:28"
       }
     },
     {
@@ -958,16 +1128,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs - bbc.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5\" target=\"_blank\">Carney says US trade war 'will come at a cost' as Canad...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMU1EU1FQNE96QWhEYTd3djdqell4cFo3QktqMWQzMXYwVE1pUWdVb1FiT2RnZllhZHdDTDdwN1NFd3hZNXN4cm5Ib3dNLUFoX1BIMnQ1dHRQQQ?oc=5",
+        "titulo_evento": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOHhFbC1IOWIwTlZRbG45ak9BTC1vMEV1YXE1c2ktcTF2UU01eTkydkNXSWlxMklXVHRjXzBaTUdVVnRJa3hybkRGNGVTRk5YcVdaZXFCYmY4UDZfSGNtNk16eE5lYkdjeFNBOHVFY2xFazZtY29FRGdtUnRkWk80OGpMZnNmek9Qd1hnWnBCczVOMnQx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHhFbC1IOWIwTlZRbG45ak9BTC1vMEV1YXE1c2ktcTF2UU01eTkydkNXSWlxMklXVHRjXzBaTUdVVnRJa3hybkRGNGVTRk5YcVdaZXFCYmY4UDZfSGNtNk16eE5lYkdjeFNBOHVFY2xFazZtY29FRGdtUnRkWk80OGpMZnNmek9Qd1hnWnBCczVOMnQxbGRfQ0VUTFkzdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 14:46"
+        "data_noticia": "08/09/2026 16:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "As the Iran war menaces shipping, land routes are making a comeback - The Economist",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnRERzN5cVBybXRvaE14b0oyejNKTVY0YllZbzFhek81TWgxa1B6Z2x0MUVZbV9LQnpFWU1UQmx0clZ1Nmxlb0VoWE44ZFFfRk9nclhTWll3UV9GaDBFLUN3R1E1YUVuMWdMRk00NWlHT0REUmVULWZSNUVhZjBtMDRLU01rX2JHaFZQbHJHUXpwOXpu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnRERzN5cVBybXRvaE14b0oyejNKTVY0YllZbzFhek81TWgxa1B6Z2x0MUVZbV9LQnpFWU1UQmx0clZ1Nmxlb0VoWE44ZFFfRk9nclhTWll3UV9GaDBFLUN3R1E1YUVuMWdMRk00NWlHT0REUmVULWZSNUVhZjBtMDRLU01rX2JHaFZQbHJHUXpwOXpuSU9SY0hTYWhocDBrVlRXdU9UNUo0cDNPcjdnNnhWMWxhTmtLSnQtcHF1TXBKTE1l?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/09/2026 16:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnI5ZEtHbXVISUxJMlNURGV4dW5fcTI0Z1FVSVg4SjBHOF91SDdCT19DTHZqV2h5b0RKTzM2eUlSaHJkcU5WLXBqN0c1dG9VVWkzZnFwUjNMX2tyanVRVlpxU05JZXhSTUZRSldSQ1NGTnkyQkd1enRMRmtURVdpODR5NXloTFdRZVV0cFNqZTJXTGg2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnI5ZEtHbXVISUxJMlNURGV4dW5fcTI0Z1FVSVg4SjBHOF91SDdCT19DTHZqV2h5b0RKTzM2eUlSaHJkcU5WLXBqN0c1dG9VVWkzZnFwUjNMX2tyanVRVlpxU05JZXhSTUZRSldSQ1NGTnkyQkd1enRMRmtURVdpODR5NXloTFdRZVV0cFNqZTJXTGg2bFotdU9nM2dGVXAzSzBVZ0drVzlwWWI5OHfSAbMBQVVfeXFMTmtsbnBLanNudWh1NENlYk5YZ3BzaFVQaC1qS0hoN3VURXJ5cUMxZzFKRUstaDBwZ3JhQWgtSjJnZnYtSG1fVGFQYTRWa0xmV05XU0ZNWEJld29fcFZ6UWJGUEFibGJ0Y3lsdE1hX1JVd2tFcTJaYWRHQkpOcWxQcFlxNkt3NDVfNHp6UjcwYlFneGQxbFR1NVNQaWhzeWQ3RFp2UF9nVUo1c1l2OGM2Ql9ZRm8?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "08/09/2026 18:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2lUb1BoMGdKaUxWdUhVN2NFYU9mWS0wWVI1dzQxRlROSmF6RjFMSUtLS3ZzNW5PdXkzRk1MTERrc04yZ1hZUXpNLVBVUVNmWE9PX2trWVdYVkRCNWtqTDd0bEZkdVYzdWd6YldiRVE2VGxmTUtkazQwelhwQjlSU2ZJQjU0aS1OQnREaUZIYl9LLWtW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2lUb1BoMGdKaUxWdUhVN2NFYU9mWS0wWVI1dzQxRlROSmF6RjFMSUtLS3ZzNW5PdXkzRk1MTERrc04yZ1hZUXpNLVBVUVNmWE9PX2trWVdYVkRCNWtqTDd0bEZkdVYzdWd6YldiRVE2VGxmTUtkazQwelhwQjlSU2ZJQjU0aS1OQnREaUZIYl9LLWtWY2NXN3phS1RIZjNrOFFfMlp4NzlieHRk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/09/2026 19:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Bombardier Shares Down as Trump’s Trade War Targets Canadian Jet Maker - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/09/2026 16:28"
       }
     },
     {
@@ -992,84 +1230,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Amid fear of Russia's war on Ukraine spreading, Lithuania trains civilians, tells Putin: \"We don't fear you\" - CBS News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExrT2RNTTF1QXpnQlpaMzlVTmJVVGl2WTlPd1RQb2VpQVkyTlhIYjctSjhmUXNDSm5IdUFWTjU5Q3dFUmFOYmZKSmtWZ3I2ZTZtUHNja2ZnNnNpcDVVejdoUzFaNnFNdlpnTGh0eW9xUjQ2cjJpZ3VrVlp3eFBwdVRNdWViN2J5dE8wRVFIeEVZQTBV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRExrT2RNTTF1QXpnQlpaMzlVTmJVVGl2WTlPd1RQb2VpQVkyTlhIYjctSjhmUXNDSm5IdUFWTjU5Q3dFUmFOYmZKSmtWZ3I2ZTZtUHNja2ZnNnNpcDVVejdoUzFaNnFNdlpnTGh0eW9xUjQ2cjJpZ3VrVlp3eFBwdVRNdWViN2J5dE8wRVFIeEVZQTBVM2tzckU4dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 12:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDJYQkNPTFV4ckJ1Tmk4QnFSRnlqbTlxY0xUcDZNckh5RmNFQ0NPVTMxRXJaVFJoclNkMWttclpEODJFSFhOcE5yVjJzcms0SmZVRjFqNGVLbVJtY0RJMGE5VmdhUmc0aE9URWV0SzZBNVh5OFRkNVVnZXlwTkpLelhNSXdvcWNwbU1rVzVCSjI4QVpJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDJYQkNPTFV4ckJ1Tmk4QnFSRnlqbTlxY0xUcDZNckh5RmNFQ0NPVTMxRXJaVFJoclNkMWttclpEODJFSFhOcE5yVjJzcms0SmZVRjFqNGVLbVJtY0RJMGE5VmdhUmc0aE9URWV0SzZBNVh5OFRkNVVnZXlwTkpLelhNSXdvcWNwbU1rVzVCSjI4QVpJTTQxUHdYTTRoTFVMUEtvV0ZsMDdGdnh3V2U2NGRycTI5R2R3RS1Nc2xn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 15:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Bombardier, a Canadian Jet Maker, Is a Target in Trump’s Trade War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 12:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What to know about Canada's escalating trade war with the U.S. - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDBPYUIzQjZBaEdSN2pNb3M4eWw2bXc1OW5iOWNpa3NrV3NvalVCTm43VXhPRV9MUUR2UzJKV0FEUkJGMjZ5TGcyNG9TMmE5N09CWXU1cng4WTVPNXhIZ2xBZUFJTmVLZkZkNTB6WXJoNkhQTm9ZcFhkcnllRFloUg?oc=5\" target=\"_blank\">Wha...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDBPYUIzQjZBaEdSN2pNb3M4eWw2bXc1OW5iOWNpa3NrV3NvalVCTm43VXhPRV9MUUR2UzJKV0FEUkJGMjZ5TGcyNG9TMmE5N09CWXU1cng4WTVPNXhIZ2xBZUFJTmVLZkZkNTB6WXJoNkhQTm9ZcFhkcnllRFloUg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 06:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war: Tehran’s assertive rhetoric signals a new and dangerous phase in conflict - The Conversation",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjZaQ0FfLTJEN3Y0MVFkQkxUNURJR05pVzNNcTgxTXN0SkZRWG56ZmtHRm1iUGphNWFNd2Y5V2xDbVBqZVkxQzlOaUVlZTRPTXg4clFKQnpoZ2JPR2FpQy1IN2R1Q25RYmUzUF9jQkJyZW1aNWxYU1doT3RmZEdXQ3BFYkxzY0UxWC1WRE9xRG9VVl9o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjZaQ0FfLTJEN3Y0MVFkQkxUNURJR05pVzNNcTgxTXN0SkZRWG56ZmtHRm1iUGphNWFNd2Y5V2xDbVBqZVkxQzlOaUVlZTRPTXg4clFKQnpoZ2JPR2FpQy1IN2R1Q25RYmUzUF9jQkJyZW1aNWxYU1doT3RmZEdXQ3BFYkxzY0UxWC1WRE9xRG9VVl9oeXJSaUpGXzlFdTRFQTVLTFJGblF1NmEwcWFLSXp2X2R4RjQ?oc=5",
+        "titulo_evento": "Houthi Attacks On Saudi Arabia Could Open New Front In U.S.-Iran War - Forbes",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlJzdDI1R3B6UGI3VzBwTkJRNFBXVk01ZTBHdlNmRUJaakdqcEVUcmVCQ19QcW1adkdtMVRCYUh4aDA0Tm9PcllPMGJpOF81d3VIQmhwS2ZuaG9zZ2JnVk9XbFZUMC1rWFFyYmZvbjRqcHdkWjBuQUE4RUF0dnEta240dE5vOURFcVZWUkltNFoyUFFp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlJzdDI1R3B6UGI3VzBwTkJRNFBXVk01ZTBHdlNmRUJaakdqcEVUcmVCQ19QcW1adkdtMVRCYUh4aDA0Tm9PcllPMGJpOF81d3VIQmhwS2ZuaG9zZ2JnVk9XbFZUMC1rWFFyYmZvbjRqcHdkWjBuQUE4RUF0dnEta240dE5vOURFcVZWUkltNFoyUFFpVUZoZFNwOUFCenp1QTdrcmx3M0xmdkNmSWNhTllkeHY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 13:48"
+        "data_noticia": "08/09/2026 16:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Ukraine Defense Contact - U.S. Department of War (.gov)",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2Jmb3dsWV9TZ0VQUVJEOV94YUxURlJNN2w1cUxCUXRBMHcxX3NENW80TG1yWVlEdUZTNFZqT056eGhjanZMTHZSM241VnpjQklXS2I3Zmx1SGtlUTFlX0pneXBlZ0xPdnB6VktfbEc5eWUzcmE0OWx5V2JXTHhwNWNOcWtwQkZ2MzhoVFlmOU9hMFp5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2Jmb3dsWV9TZ0VQUVJEOV94YUxURlJNN2w1cUxCUXRBMHcxX3NENW80TG1yWVlEdUZTNFZqT056eGhjanZMTHZSM241VnpjQklXS2I3Zmx1SGtlUTFlX0pneXBlZ0xPdnB6VktfbEc5eWUzcmE0OWx5V2JXTHhwNWNOcWtwQkZ2MzhoVFlmOU9hMFp5eTk1R3c0ZzBEZ0tKSEJTZHhvQk05eWFaQWJVUmJ3SEVTZkJjY01TZmNnUUZoYmVsRmZyMl9IclN1UVI2LVR3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/09/2026 19:21"
       }
     },
     {
@@ -1111,16 +1298,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1278,
-          51.5074
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "London shares inch lower as oil rally fuels inflation concerns - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGdaQ0NIYTJ1T2swamN3WUpXeXU0OE11YVZ0VS1OMDBKbzN0SmFta0t0bVo5X3dFbGVGZzBzbExwOXcydllBSnI0MnI3WHJrQkc2dERzV2dYME5lVjQ5RVdwWkNvdlVLejlyYlpZMWdmTFZOQktyZ095YkI3aGM4aktQRm5oN1p1UV9WdzByS0xoUUd1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGdaQ0NIYTJ1T2swamN3WUpXeXU0OE11YVZ0VS1OMDBKbzN0SmFta0t0bVo5X3dFbGVGZzBzbExwOXcydllBSnI0MnI3WHJrQkc2dERzV2dYME5lVjQ5RVdwWkNvdlVLejlyYlpZMWdmTFZOQktyZ095YkI3aGM4aktQRm5oN1p1UV9WdzByS0xoUUd1UkNIb2g0cXVJOWhjYTdqaGl3bw?oc=5",
+        "titulo_evento": "Paul Hastings Adds Capital Markets Partner Jean Park In New York And Silicon Valley - Pulse 2.0",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPODc1czU1dFhabnBVbk1CcnFBOENGWVZ6cy1EaTVRbnJGZkR6WV9WLThZeHhoTkEyQzB0bDl6NVBtcjRiN1lueXVuaFJ5YUtzZUE0RVBZd1htb2NvdkE0ZXRnUDdNOXgxaG1lTlZtMlY3ZGpMODVvQzJQWVNkZXM3Ujg3MURaNWN0czBtNWMteEZpMGM4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODc1czU1dFhabnBVbk1CcnFBOENGWVZ6cy1EaTVRbnJGZkR6WV9WLThZeHhoTkEyQzB0bDl6NVBtcjRiN1lueXVuaFJ5YUtzZUE0RVBZd1htb2NvdkE0ZXRnUDdNOXgxaG1lTlZtMlY3ZGpMODVvQzJQWVNkZXM3Ujg3MURaNWN0czBtNWMteEZpMGM4WlZOa1dUMGU5WFM1Vk5FX0pB0gGrAUFVX3lxTE12NGd3dTBvVFFVdVhOM2lSQjFLN1VKWGJjeHo1eGlJMTlUT1NsbkNwYWFFVnQ0QThjdjg5cUNoN1RNdVd0NmlFVWJhYzhERWx2RWQ2a21Gb3RTTlZ5eEpQQ3dic2F3TkROU0x2ai1rQmpPMW1iaG5XV1lFRjZwS21sX2pmaFhQU2RadFZKM3ptM2JBWVlKY2hnT0ZwNjZSd0pGOHhCT0pHVG41MA?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/09/2026 16:35"
+        "data_noticia": "08/09/2026 18:52"
       }
     },
     {
@@ -1138,23 +1325,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFpCWHp3QmtGYjQ0WkRZVWdtaUdFWGZyWWg4bmU0Nk02Xy04Wmw2MmtOYWNjNjBRLXNyN005YndPcm1nRFRWZ0MyblcyUzdVSUdZelRJRGppRUlCX0tJU2RFVmJObWszRG9qUnR5QTdPRnpmVzd6R2xRdHZ2NHl6ZTVEdnFGbkExc1FYdzJNU3BaY0tidVF1T21tTDlKRkRfWG14MXNpT3lmOExRb2pzaVpJRV83NlpTZG9WQWtWbWVVeHRJZHZ2b3Jn0gHKAUFVX3lxTE5IbFRXRUVUZzNnSzNWYXIxQUR0aTlaMVBMZkdlc2RENWhldlM0YU9SYWN4VHdNLWluT3VpT3hFcFc1dkxJRHg4SDJ4YWFPS1ZldWJwZXlIaHlMaHJROFVqVnlLNDI3cVM4VHRCLXgxcjhJSDVraTdxTmZYNWphZkg0UzM0TnpweVU3NWJZRVJzZ0VpOXhoWjFLYmp5bld6M1ZOcTVWdEVQSWI1aEZQMV9seXFYVFJHaTVVOURfTDQ4TjRWdXBtUkg5dVE?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "08/09/2026 13:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why China’s sugar stockpiles may blunt an El Nino-fuelled global supply crunch - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGc3TkEzZmNROW01cWZuSHBGNWppT3RzbXBmWWJyUFpwZEhObEdCa21rMjNmMjVORTBGdWN2WGtMcnpUdnFBZzgzUm83WXZtZGZYVTktSVo3TndQWjlFbEhFRklBWklNR3FIS3pGS2o1RUEyR1Y4U2NNLUE2VUFKYkp4WENBMjNmbUFkSkQ5d0tZbkhU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGc3TkEzZmNROW01cWZuSHBGNWppT3RzbXBmWWJyUFpwZEhObEdCa21rMjNmMjVORTBGdWN2WGtMcnpUdnFBZzgzUm83WXZtZGZYVTktSVo3TndQWjlFbEhFRklBWklNR3FIS3pGS2o1RUEyR1Y4U2NNLUE2VUFKYkp4WENBMjNmbUFkSkQ5d0tZbkhURFVPYVJoN1R3YTZRekgwSXh1YlJqeUtUMk1VekZDSy1UVnVJODZud1BFVnVkV0ZpMm42VHNla1huY1nSAc8BQVVfeXFMUFluc0ZIM0xmTEphWGE4NEtsVFpQT3l6Uks0MmhFLUd4ZlByY1dsS2FxZi1tOFN1RUxCRzg1azE5VDhaeEY0VURwSWJkdktNcGVTMVJvODVYZ3YxWWp0RlBrOWdpOU84Y0JNeVZ4bGxYUGJGcldyMHFtNUdMMnRiZDVvQ1pvRmMzNXRteE1BYjRNWWJOeEFNcklhRVlRckpGR1AySzhwSTh3Qk9WVXFlSUtHdks5QkdZVXpuNzBmTjlqWGRVVm9jVE1LSWJiSGVv?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "08/09/2026 10:30"
       }
     }
   ]
