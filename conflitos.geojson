@@ -96,6 +96,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "The Strange Transformation of the Front Line in Ukraine",
+        "descricao": "<p>On Jan. 5, 2025, my volunteer platoon attached to the 23rd Special Purpose Battalion of the Presidential Brigade entered a 1-kilometer-long tree line called CHAI, on the outskirts of Kotlyne, a few kilometers west of Pokrovsk, Ukraine. Our task wa...",
+        "url_fonte": "https://warontherocks.com/the-strange-transformation-of-the-front-line-in-ukraine/",
+        "categoria": "Defesa/Conflito (War on the Rocks)",
+        "data_noticia": "09/09/2026 07:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
         "titulo_evento": "The Two Questions Ukraine Asks Before Every Decision",
         "descricao": "<p>Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks&#160;members. Each Monday, we bring you a curated selection of articles from Ukrainian media of...",
         "url_fonte": "https://warontherocks.com/the-two-questions-ukraine-asks-before-every-decision/",
@@ -125,135 +142,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
-        "descricao": "<p>When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of influence where...",
-        "url_fonte": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "07/09/2026 07:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-        "descricao": "US military says it struck the five Iranian tankers after the IRGC targeted a US warship twice in two days.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "09/09/2026 00:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
-        "descricao": "Iran&#039;s IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "09/09/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US increases pressure on Iran with sanctions targeting aviation sector",
-        "descricao": "Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country&#039;s economy.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "08/09/2026 23:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mamdani releases records on toxic air in New York after 9/11 attacks",
-        "descricao": "The New York City mayor said the document release shows victims were &#039;lied to&#039; about health impacts from the attacks.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "08/09/2026 23:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
-        "descricao": "Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone&#039;s Atletico.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "08/09/2026 22:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way",
-        "descricao": "Kylian Mbappe opens the scoring but Real Madrid fail to convince in 2-1 Champions League win against Inter Milan.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "08/09/2026 21:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Police bodycam captures Russian missile strike on Kyiv",
-        "descricao": "Bodycam video has captured the moment a Russian missile struck near police in Ukraine’s capital Kiev",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+        "titulo_evento": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+        "descricao": "Russian drones strike Ukraine-Moldova border in Odesa, killing two and injuring three civilians, officials confirm.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "08/09/2026 20:43"
+        "data_noticia": "09/09/2026 08:05"
       }
     },
     {
@@ -261,16 +159,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.9253,
-          -14.235
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Brazil Supreme Court rift deepens as justice suspends federal police chief",
-        "descricao": "Allegations of misconduct between two justices threaten to pull court into political battles ahead of upcoming election.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "08/09/2026 20:43"
+        "titulo_evento": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+        "descricao": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "09/09/2026 07:14"
       }
     },
     {
@@ -278,16 +176,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "descricao": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "09/09/2026 01:45"
+        "titulo_evento": "Why US-Iran war over Hormuz is threatening the Gulf’s waters",
+        "descricao": "US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/09/2026 05:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
+        "descricao": "Schools in Lebanon are set to start on September 15, but many still host people displaced by Israel&#039;s war.",
+        "url_fonte": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/09/2026 05:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+        "descricao": "The United States remains Taiwan&#039;s main international backer and arms supplier despite lack of formal diplomatic ties.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/09/2026 04:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Yemen’s Saudi-backed forces strike Houthis on western coast",
+        "descricao": "Saudi-backed Yemeni government forces are intensifying their counteroffensive against the Houthis.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/09/2026 02:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+        "descricao": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "09/09/2026 04:26"
       }
     },
     {
@@ -414,16 +380,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Key post-9/11 air toxicity information was kept secret for 25 years",
-        "descricao": "\nNew York Mayor Zohran Mamdani released tens of thousands of previously undisclosed documents on Tuesday detailing what city officials knew about toxic air after the September 11 attacks, as the 25th anniversary approaches and thousands continue to s...",
-        "url_fonte": "https://www.france24.com/en/americas/20260909-key-post-9-11-air-toxicity-information-was-kept-secret-for-25-years",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "09/09/2026 01:44"
+        "titulo_evento": "UAE warned Netanyahu of 7 October attack, Israeli newspaper reports",
+        "descricao": "Israeli Premier Benjamin Netanyahu is facing a political storm and accusations in the middle of Israel’s election campaign that he ignored a direct warning from the UAE about the imminence of Hamas’ 7 October attack in 2023.",
+        "url_fonte": "http://www.euronews.com/2026/09/08/pressure-mounts-on-israeli-pm-netanyahu-after-report-uae-warned-of-hamas-7-october-attack",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "08/09/2026 18:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "11 European nations and Canada announce trade sanctions on Israeli settlements in the West Bank",
+        "descricao": "British Foreign Secretary Ed Miliband accused \"settler terrorists\" of \"ethnic cleansing\" in areas of the West Bank and said the UK was bringing in an \"import ban on goods from illegal settlements.\" Israel closed the British consulate in Jerusalem in ...",
+        "url_fonte": "http://www.euronews.com/2026/09/08/12-nations-announce-trade-sanctions-on-israeli-settlements-in-the-west-bank",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "08/09/2026 17:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Argentina sues Israeli oil firm as Ben Gvir urges Netanyahu to back its Falklands claim",
+        "descricao": "Argentina is to file criminal charges against several companies linked to Israeli oil firm Navitas for operating without authorisation in the Falklands, as Milei steps up his offensive against the Sea Lion project with new sanctions and measures to b...",
+        "url_fonte": "http://www.euronews.com/2026/09/08/argentina-sues-israeli-oil-firm-as-ben-gvir-urges-netanyahu-to-back-its-falklands-claim",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "08/09/2026 10:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What's in a name? Trump suggests renaming New Mexico state 'New America'",
+        "descricao": "Trump last week suggested renaming the Strait of Hormuz as \"Trump Strait\" as the war with Iran continues, then hours later implied he was not serious about the plan.",
+        "url_fonte": "http://www.euronews.com/2026/09/08/whats-in-a-name-trump-suggests-renaming-new-mexico-state-new-america",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "08/09/2026 10:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Opening of first road bridge with Russia a sign of tighter ties, North Korea says",
+        "descricao": "The opening on Monday came as Russia and North Korea have heavily boosted military and economic ties since Moscow launched its full-scale invasion of Ukraine in 2022.",
+        "url_fonte": "http://www.euronews.com/2026/09/08/opening-of-first-road-bridge-with-russia-a-sign-of-tighter-ties-north-korea-says",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "08/09/2026 09:35"
       }
     },
     {
@@ -436,8 +470,127 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East live: US destroys five Iranian oil tankers as Iran threatens Kuwait and Bahrain",
-        "descricao": "\nUS forces destroyed five Iranian oil carriers on Tuesday after Tehran launched ballistic missiles at an American warship twice in recent days. Iran also launched strikes on US targets in Jordan, and threatened attacks on oil tankers off Kuwait and B...",
+        "titulo_evento": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
+        "descricao": "IAEA chief Grossi told the Board of Governors that Tehran had provided no information on declared nuclear materials and inspectors had no on-site access, as Iran's parliament speaker threatened US energy assets with retaliatory strikes and the IRGC w...",
+        "url_fonte": "http://www.euronews.com/2026/09/07/iaea-says-iran-blocking-nuclear-inspectors-as-hormuz-threats-mount",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "07/09/2026 17:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Eiffel Tower row over Hindu sect BAPS unites French politicians – but divides Indian diaspora",
+        "descricao": "\nFrance got a crash course on the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS), a Hindu sect at the heart of an Eiffel Tower strike this week. But for Indians in France who have been trying to raise awareness of far-right Hindu groups,...",
+        "url_fonte": "https://www.france24.com/en/france/20260909-eiffel-tower-row-over-hindu-sect-baps-unites-french-politicians-%E2%80%93-but-divides-indian-diaspora",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "09/09/2026 06:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Rubio hails Colombia's new pro-Trump leader De la Espriella on first stop of Latin American tour",
+        "descricao": "\nUS Secretary of State Marco Rubio pledged closer security cooperation with Bogota on the first stop of his three-nation tour of pro-Washington Latin American nations. Rubio hailed the election of Colombian President Abelardo De La Espriella as part ...",
+        "url_fonte": "https://www.france24.com/en/americas/20260909-rubio-hails-colombia-new-pro-trump-leader-de-la-espriella-first-stop-of-latin-american-tour",
+        "categoria": "Política (France 24)",
+        "data_noticia": "09/09/2026 06:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Champions League: Madrid and Mbappé defeat Inter despite defensive lapses",
+        "descricao": "\nReal Madrid won the headline clash of the first night of the Champions League against Inter Milan (2-1). Kylian Mbappé, who opened the scoring, is now the fifth-highest goalscorer in the competition’s history.\n",
+        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20260909-champions-league-madrid-and-mbapp%C3%A9-defeat-inter-despite-defensive-lapses",
+        "categoria": "Política (France 24)",
+        "data_noticia": "09/09/2026 05:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Travellers in UK face ongoing disruption after air traffic control glitch",
+        "descricao": "\nFlights from British airports began to resume Wednesday after a glitch in the country's air traffic control service left hundreds of thousands of passengers stranded. Authorities warned that travellers would continue to experience delays as airlines...",
+        "url_fonte": "https://www.france24.com/en/europe/20260909-travellers-in-uk-face-ongoing-disruption-after-air-traffic-control-glitch",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "09/09/2026 03:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US bans Canadian alcohol, motorcycles and dairy products as trade spat escalates",
+        "descricao": "\nThe US and Canada escalated a bitter trade dispute on Tuesday, with Washington imposing new import bans on Canadian alcohol, motorcycles and dairy products as Ottawa's retaliatory tariffs on US goods took effect.\n",
+        "url_fonte": "https://www.france24.com/en/americas/20260909-us-bans-canadian-alcohol-motorcycles-and-dairy-products-as-trade-spat-escalates",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "09/09/2026 02:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New York City releases post-9/11 air toxicity information kept secret for 25 years",
+        "descricao": "\nNew York Mayor Zohran Mamdani on Tuesday announced the release of tens of thousands of documents detailing what city officials knew about toxic air after the September 11 attacks as the 25th anniversary approaches and thousands still suffer from rel...",
+        "url_fonte": "https://www.france24.com/en/americas/20260909-key-post-9-11-air-toxicity-information-was-kept-secret-for-25-years",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "09/09/2026 01:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Middle East live: Tehran targets US base in Jordan after Washington destroys five Iranian tankers",
+        "descricao": "\nIran's Revolutionary Guard on Wednesday said it fired ballistic missiles at a base in Jordan used by the US military, attacked 10 ships, and threatened to strike tankers located off Kuwait and Bahrain in retaliation for US forces’ destruction of fiv...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260908-middle-east-live-us-destroys-five-iranian-oil-tankers-as-iran-threatens-kuwait-and-bahrain",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "08/09/2026 23:07"
@@ -669,13 +822,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
         "titulo_evento": "Missiles or mediation? Trump envoys shuttle between Russia and Ukraine",
-        "descricao": "\nExactly two months ago, Ukraine’s momentum was all the talk at a Nato summit in Turkey. What with its long-range drones and Donald Trump’s surprise announcement that the US would allow Kyiv to produce Patriot anti-ballistic missiles on home soil. Th...",
+        "descricao": "\nUkraine’s momentum on the battlefield was a primary focus at July’s NATO summit in Turkey. Kyiv’s long-range drones and US President Donald Trump’s surprise announcement that the Washington would allow Ukraine to produce Patriot missiles on in the c...",
         "url_fonte": "https://www.france24.com/en/tv-shows/the-debate/20260908-missiles-or-mediation-trump-envoys-shuttle-between-russia-and-ukraine",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "08/09/2026 18:19"
@@ -686,16 +839,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Messi, Mbappé and Kane headline Ballon d'Or shortlist, Vozinha named for Yashin award",
-        "descricao": "\nEight-time laureate Lionel Messi is in the 30-man shortlist for the 2026 Men's Ballon ​d'Or, with Harry Kane and Kylian Mbappé among the favourites to succeed France's Ousmane Dembélé. Cape Verde's Vozinha has been shortlisted for the goalkeepers' Y...",
-        "url_fonte": "https://www.france24.com/en/sport/20260908-messi-mbappe-kane-headline-ballon-d-or-shortlist-vozinha-named-yashin-award",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "08/09/2026 17:52"
+        "titulo_evento": "Ukraine, Russia trade drone strikes, killing 6",
+        "descricao": "At least four people were killed, and 29 others were injured, in a Ukrainian attack on a Russian Black Sea port. Meanwhile, Russian drones struck a crossing on the Ukraine-Moldova border, killing two.",
+        "url_fonte": "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "09/09/2026 08:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "BRICS leaders gather in India, but does the group have a clear purpose?",
+        "descricao": "The 18th BRICS summit takes place in India this weekend. Unlike last year, the leaders of China and Russia are coming. But does the expanded group have a clear common mission and purpose?",
+        "url_fonte": "https://www.dw.com/en/brics-leaders-gather-in-india-but-does-the-group-have-a-clear-purpose/a-79195234?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "09/09/2026 06:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin rejects mobilization rumors, many Russians unconvinced",
+        "descricao": "Russia’s President Vladimir Putin has dismissed rumors about military mobilization. But many Russians, including many DW users, say they are preparing for the possibility.",
+        "url_fonte": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "09/09/2026 05:57"
       }
     },
     {
@@ -708,45 +895,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "'US Midterm elections tend to be referendums on the unpopularity of the president'",
-        "descricao": "\nAnnette Young is pleased to welcome Michelle Swers, Professor of Government at Georgetown University. She frames the New Hampshire primary as both a major Senate contest and an unusually strong indication of the national political climate ahead of N...",
-        "url_fonte": "https://www.france24.com/en/us-midterm-elections-tend-to-be-referendums-on-the-unpopularity-of-the-president",
-        "categoria": "Política (France 24)",
-        "data_noticia": "08/09/2026 16:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US war on Iran: 'Incompetent administration when it comes to negotiations and prosecuting war'",
-        "descricao": "\nMark Owen is pleased to welcome Barbara Slavin, Distinguished Fellow at the Simpson Center. She frames the war in the Persian Gulf as a mutually damaging stalemate in which neither Washington nor Tehran has found a politically sustainable exit: \"The...",
-        "url_fonte": "https://www.france24.com/en/us-war-on-iran-incompetent-administration-when-it-comes-to-negotiations-and-prosecuting-war",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "08/09/2026 16:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.6167,
-          -38.4161
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World Cup final scorer Torres leads Ballon d'Or nominees",
-        "descricao": "\nFerran Torres, whose goal against Argentina won the World Cup for Spain in July, leads a 30-man list for the men's Ballon d'Or revealed on Tuesday.\n",
-        "url_fonte": "https://www.france24.com/en/live-news/20260908-world-cup-final-scorer-torres-leads-ballon-d-or-nominees",
-        "categoria": "Política (France 24)",
-        "data_noticia": "08/09/2026 15:43"
+        "titulo_evento": "Trump escalates trade war with Canada with import bans, 50% tariffs",
+        "descricao": "US President Trump has announced new import bans and 50% tariffs on some Canadian goods as tensions between the two countries intensify. This comes a day after Ottawa's retaliatory tariffs on US products took effect.",
+        "url_fonte": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "09/09/2026 03:10"
       }
     },
     {
@@ -777,7 +930,7 @@
       },
       "properties": {
         "titulo_evento": "US strikes oil tankers off coast of Iran",
-        "descricao": "The US attacked four oil-carrying vessels in the Gulf of Oman and one in the Strait of Hormuz. Iran's Revolutionary Guard said it would strike ships off Bahrain and Kuwait in retaliation.",
+        "descricao": "The US attacked four oil-carrying vessels in the Gulf of Oman and one in the Strait of Hormuz. Iran's Revolutionary Guard said it struck a US base in Jordan and ships trying to cross the Strait of Hormuz in retaliation.",
         "url_fonte": "https://www.dw.com/en/us-strikes-oil-tankers-off-coast-of-iran/a-79194562?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "08/09/2026 21:56"
@@ -839,23 +992,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US-Canada tariff dispute weighs on cross-border ties",
-        "descricao": "As Canada's retaliatory tariffs take effect, Canadian and US car industries fear the trade war will hit them hard, while Canadians are cutting back on travel.",
-        "url_fonte": "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "08/09/2026 10:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -873,16 +1009,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-        "descricao": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
-        "url_fonte": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "07/09/2026 16:14"
+        "titulo_evento": "Is Andy Burnham talking about the right stuff?",
+        "descricao": "There&#8217;s fallout from the U.K.&#8217;s move to announce sanctions on illegal Israeli settlements in the occupied West Bank. Israel is closing the U.K.&#8217;s consulate in Jerusalem and considering other measures. Sam Coates and Anne McElvoy loo...",
+        "url_fonte": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-andy-burnham-talking-about-the-right-stuff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Economia (Politico Europe)",
+        "data_noticia": "09/09/2026 07:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The EU’s Israel dilemma",
+        "descricao": "Relations between the EU and Israel have been deeply strained over the war in Gaza. But the bloc is struggling to withstand the allure of Israel’s tech and&#160;missile defense&#160;prowess. On today’s show, Zoya Sheftalovich and Ian Wishart discuss ...",
+        "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-eus-israel-dilemma/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "09/09/2026 04:05"
       }
     },
     {
@@ -895,24 +1048,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "AfD wants to form a government in Saxony-Anhalt — but how?",
-        "descricao": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute majority?",
-        "url_fonte": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "07/09/2026 16:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Merz’s SPD partners rebel after far-right rout",
+        "titulo_evento": "In Germany, Merz’s center-left partners rebel after far-right rout",
         "descricao": "The center-left party's strategic pivot is likely to deepen Merz’s myriad challenges as questions mount over his ability to lead Germany’s relatively weak coalition government.",
         "url_fonte": "https://www.politico.eu/article/friedrich-merz-lars-klingbeil-spd-partners-rebel-far-right-rout-coalition-rift/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
@@ -924,50 +1060,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Majorité numérique : Macron tente le tout pour le tout pour imposer sa vision en Europe",
-        "descricao": "Alors qu’il peine à trouver une nouvelle rédaction pour instaurer une majorité numérique en France, le gouvernement va devoir composer avec les annonces de la Commission européenne. ",
-        "url_fonte": "https://www.politico.eu/article/majorite-numerique-emmanuel-macron-tente-le-tout-pour-le-tout-pour-imposer-sa-vision-en-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "08/09/2026 16:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "La France plaide pour 60 milliards d’euros de nouvelles taxes européennes",
-        "descricao": "L’instauration de nouvelles taxes européennes pour financer le budget à long terme de l’UE fait l’objet de résistances de la plupart des Etats membres.",
-        "url_fonte": "https://www.politico.eu/article/la-france-plaide-pour-60-milliards-deuros-de-nouvelles-taxes-europeennes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "08/09/2026 15:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "American and African Crudes Soar as China's Oil Imports Rebound",
-        "descricao": "",
-        "url_fonte": "https://finance.yahoo.com/energy/articles/american-african-crudes-soar-chinas-143000950.html",
-        "categoria": "Economia (Yahoo Finance (Global))",
-        "data_noticia": "Recente"
+        "titulo_evento": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+        "descricao": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.",
+        "url_fonte": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "09/09/2026 07:51"
       }
     },
     {
@@ -1001,7 +1103,7 @@
         "descricao": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.",
         "url_fonte": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
         "categoria": "Política (NYT Business)",
-        "data_noticia": "08/09/2026 16:34"
+        "data_noticia": "09/09/2026 02:33"
       }
     },
     {
@@ -1094,6 +1196,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA?oc=5\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdW1lN2hjSFlvN24zcWNhcTlQNGUyb3pkQ3JwZTdIeGU3eTB1bGJaSncyM293ZWRGM0F4QlFoN01FeHFOUjZ6d1k1cHJ6ZGVPdlB5WDY5YTBPV1hYUWRMRVNXNi1aNjlaaG9EVG5NbTlEMS0wbER6X3ZaSWlUNGFtYTd5NWhZR2VwNjZBUTloOA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 05:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORm92N3BtOXN0Yi1BbGNjTFFZMnpfM2NzY3NMZFlqUmVVV3dLU1RnbU1DT0YwLWloWEpCM05CSlNZY3p6R0FOTHdiTVFoU0U5akhHMkpLTnFpX0E2M1QzSXhfRDJNSVh3WGVuUXAwZkRKT3dzLW9LOHFZMm1oQWRhSkZuMFc5bGlESWVBaXkzc2xvZGNJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORm92N3BtOXN0Yi1BbGNjTFFZMnpfM2NzY3NMZFlqUmVVV3dLU1RnbU1DT0YwLWloWEpCM05CSlNZY3p6R0FOTHdiTVFoU0U5akhHMkpLTnFpX0E2M1QzSXhfRDJNSVh3WGVuUXAwZkRKT3dzLW9LOHFZMm1oQWRhSkZuMFc5bGlESWVBaXkzc2xvZGNJQzRqZ2JuS2lOQVBoc1hMUHVSWVVCWl9ZbHptTDlJcENCMGNkTzlNN1ZVQTR3cmd6T2c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 03:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 04:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran attacks American warships and base after U.S. sinks five Iranian tankers - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2Zu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/09/2026 20:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -1111,16 +1281,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Protesters urge South Korea to stay out of Iran war - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1hWNk9BRjk3V081ckdjdjlkWmRQaklId0FQeFN0czZfalhBUkhnYkQ4RWJLTkRMaVF1a1N5X1Z0VVRNa2tuc04yOUNtX1U4eVBST0VzNHhhczNzWDBKUXdZRzJEbW1kWEs1R3FwakVFc3RGNVB6R0hwSEY5UXZPQ0lldWVSZlVRSndvalNiZmhGVnBC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1hWNk9BRjk3V081ckdjdjlkWmRQaklId0FQeFN0czZfalhBUkhnYkQ4RWJLTkRMaVF1a1N5X1Z0VVRNa2tuc04yOUNtX1U4eVBST0VzNHhhczNzWDBKUXdZRzJEbW1kWEs1R3FwakVFc3RGNVB6R0hwSEY5UXZPQ0lldWVSZlVRSndvalNiZmhGVnBCcVpOMlhOc2Q0Y3c?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 06:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "As War Grinds On, Trump Relishes Renovation Projects - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 07:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran Renews Claims of Missile Barrage Toward US Sites in Jordan - The Media Line",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJPMTZfMDBzcUFzUWk3dGtzeDZPQ0xvd1hSenVuQnpBX3ZuLUw5cGc4cGlKNG5uVkw1dnFwdGZ2WnlXTUJQSHF3VTliWjBRUF9kZmlWUFZOTnNqVGpVd1FBMV9kZHRnNDlsMk9tZklwQUpmSmpldWpSbVg1YnM0b1ByT1JwcG9hYU1MOGpxZ2tCLUlX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJPMTZfMDBzcUFzUWk3dGtzeDZPQ0xvd1hSenVuQnpBX3ZuLUw5cGc4cGlKNG5uVkw1dnFwdGZ2WnlXTUJQSHF3VTliWjBRUF9kZmlWUFZOTnNqVGpVd1FBMV9kZHRnNDlsMk9tZklwQUpmSmpldWpSbVg1YnM0b1ByT1JwcG9hYU1MOGpxZ2tCLUlXMEFCRDFwckNuekly?oc=5",
+        "titulo_evento": "Why US-Iran war over Hormuz is threatening the Gulf’s waters - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3BYaS1wRXV4OVZnNUNWSExtbExoTnZMSjZmdlozVDhscmdZcktaMFhMeVNYekJqdXZMRVlXcUV3WmZ5Tkd6M1F5RlZjaVA2c1EySVNsbVlUZGY3X1NhZjN0alpYQnlRZ1dfczZ3TEo4Y2Zjb1NTeGU1UlVFTmVUMVRIZC1TUGZJYU9DakFYVS1zY3Aw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3BYaS1wRXV4OVZnNUNWSExtbExoTnZMSjZmdlozVDhscmdZcktaMFhMeVNYekJqdXZMRVlXcUV3WmZ5Tkd6M1F5RlZjaVA2c1EySVNsbVlUZGY3X1NhZjN0alpYQnlRZ1dfczZ3TEo4Y2Zjb1NTeGU1UlVFTmVUMVRIZC1TUGZJYU9DakFYVS1zY3AwZzlBSDB3Mnl1UzZm0gGmAUFVX3lxTE9VbkdXOGFwRnNnVE5fU3hZcm0xMDZ0QXF3b0VjWUU0UXR6THJ6dXlCYWJ4NDFuT1E4WjVzclFWbWViMUI4UndCQTM5clUzT0NLWFpNZGRNLWdVVk5BdUhIZzB2ZTJBMHhDWEZlSmthNXB3WXZvZjZCREg2ckJ4cUEyanp5LWUxVElnaXR2cmxCM0xUSXF1Xy16MnFueXhNWUFjeVdlOGc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 22:28"
+        "data_noticia": "09/09/2026 05:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump widens trade war with Canada beyond tariffs. Here’s what to know - apnews.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJI...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHRWc2I4elJ6Ukh6TzhHcF9IUEFEbnZFUkRiYTQ5Nnh2cUUxU3pQYXR0eml3UFFNWGt2bHFBdzJXeEIxRV96dXdBOUY2VzFYZXhVY2hhRmlEcVF0Y0xGNVAwX0ZzZGloOURMTzZ4bERjbDlmWnBzRWoxbVRqYUt4OWJEanc2V3YyTlNGSURSQjlpblJIV2FIT3A3bzBhQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 02:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZaUhlV05ob3c0RWFWY3M2Q19zSnlYdkpOTW13LUZrdFpKclnSAbwBQVVfeXFMT3pFYTcwbEJBMkxXWEEya3hZRFhRbzV0dTg4SkFIay1nWkthZFlEY3pFTUNVMnhuRnpTdTZkSzcwT0tmNjBncmpaNzk1akNsUldnWEZkVXNrejB6UEUtMXRpTXhQbHVQYkRiSDZxclQ0S1BUdVc0d1lUT0FmNGdfdzVLLU80czBXSHIwSXJCT3lqTXBCc29qaE9KZk5xM3JjSXBCSm1XX0JEd0VqNjNnY19DMHo3S2M0aWZQWU8?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "09/09/2026 05:18"
       }
     },
     {
@@ -1145,67 +1383,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZaUhlV05ob3c0RWFWY3M2Q19zSnlYdkpOTW13LUZrdFpKclnSAbwBQVVfeXFMT3pFYTcwbEJBMkxXWEEya3hZRFhRbzV0dTg4SkFIay1nWkthZFlEY3pFTUNVMnhuRnpTdTZkSzcwT0tmNjBncmpaNzk1akNsUldnWEZkVXNrejB6UEUtMXRpTXhQbHVQYkRiSDZxclQ0S1BUdVc0d1lUT0FmNGdfdzVLLU80czBXSHIwSXJCT3lqTXBCc29qaE9KZk5xM3JjSXBCSm1XX0JEd0VqNjNnY19DMHo3S2M0aWZQWU8?oc=5",
+        "titulo_evento": "Iran Renews Claims of Missile Barrage Toward US Sites in Jordan - The Media Line",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJPMTZfMDBzcUFzUWk3dGtzeDZPQ0xvd1hSenVuQnpBX3ZuLUw5cGc4cGlKNG5uVkw1dnFwdGZ2WnlXTUJQSHF3VTliWjBRUF9kZmlWUFZOTnNqVGpVd1FBMV9kZHRnNDlsMk9tZklwQUpmSmpldWpSbVg1YnM0b1ByT1JwcG9hYU1MOGpxZ2tCLUlX...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWJPMTZfMDBzcUFzUWk3dGtzeDZPQ0xvd1hSenVuQnpBX3ZuLUw5cGc4cGlKNG5uVkw1dnFwdGZ2WnlXTUJQSHF3VTliWjBRUF9kZmlWUFZOTnNqVGpVd1FBMV9kZHRnNDlsMk9tZklwQUpmSmpldWpSbVg1YnM0b1ByT1JwcG9hYU1MOGpxZ2tCLUlXMEFCRDFwckNuekly?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "09/09/2026 01:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen’s war is back: A new battle for Sanaa and the Red Sea - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG9DTFpCZ1NTMFVDVTk0eEYzYUZhRDdWRmphSnB5aUR0aGtKY3JNX25qMXlTZ3lvY3psS0VBRlptMHR4ZVRQRC1uSHc0N1E1dVI2QzBxVHo5RW5ycmY3cnJwRk5vdGpYc2NwdjdweUJxbE9XXy1ndjQtaDNtQVNsVEt0QzRwV2pBY0tUSWZMVDlKYzJR...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUG9DTFpCZ1NTMFVDVTk0eEYzYUZhRDdWRmphSnB5aUR0aGtKY3JNX25qMXlTZ3lvY3psS0VBRlptMHR4ZVRQRC1uSHc0N1E1dVI2QzBxVHo5RW5ycmY3cnJwRk5vdGpYc2NwdjdweUJxbE9XXy1ndjQtaDNtQVNsVEt0QzRwV2pBY0tUSWZMVDlKYzJRMmxtbE9Ca2NjQ1QzQTdB0gGoAUFVX3lxTE9ob2FUNFE4TzFTcWFRSFBtT1pZZVlYbTV2N0hDZ2U4aW8zaFQ2N0JnOEVCYlFkSlg4U1Y3TFJsOG1hVHl5a1N6T1BPSzlEZVExN1NXai1kZVd3TXVYaGdjcXlYYlBRUUlydXVUa09xUldGZ3VZMVBXSWhWYVlIaWRCS1hRNHhucHdXYVdjVUNNenpyaVhpV3NBTmp0Q2VsREs0SVRMRTYzVA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 17:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "As War Grinds On, Trump Relishes Renovation Projects - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5\" target=\"_blank...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkZjNjF6NzNZZzVKSno5aU9fczRqYUx3TmZlQ0dOVVBIbnJ0cFVMNGtrczRNRDlMUkltZFdxbEhtRHA5cTRkTGtMREpDRzMzVC03VFRaRzJqT1VrbVJFLUdmMXVIaWl0TjYwaGh4aEdRMW50bVRzY2RmNi12aWZ2bEszOVM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 18:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQOHhFbC1IOWIwTlZRbG45ak9BTC1vMEV1YXE1c2ktcTF2UU01eTkydkNXSWlxMklXVHRjXzBaTUdVVnRJa3hybkRGNGVTRk5YcVdaZXFCYmY4UDZfSGNtNk16eE5lYkdjeFNBOHVFY2xFazZtY29FRGdtUnRkWk80OGpMZnNmek9Qd1hnWnBCczVOMnQx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHhFbC1IOWIwTlZRbG45ak9BTC1vMEV1YXE1c2ktcTF2UU01eTkydkNXSWlxMklXVHRjXzBaTUdVVnRJa3hybkRGNGVTRk5YcVdaZXFCYmY4UDZfSGNtNk16eE5lYkdjeFNBOHVFY2xFazZtY29FRGdtUnRkWk80OGpMZnNmek9Qd1hnWnBCczVOMnQxbGRfQ0VUTFkzdw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 16:35"
+        "data_noticia": "08/09/2026 22:28"
       }
     },
     {
@@ -1218,11 +1405,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Americans are footing a $100 billion energy bill from the Iran war - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZElqdHVsbGFnSENHQkF2SXR1N3VWWFNBSV9ZdnFpU3ZydkpkWi1Gc21udXpxd3FRd1Z1M0VPbVdXRWxyaWlHd1d4WF9GYzR0SWpKNDRsc2RqVjFaUUdQR0RVUmVhdkpwT29ZRnltYw?oc=5\" target=\"_blank\">Americans are footing a $10...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZElqdHVsbGFnSENHQkF2SXR1N3VWWFNBSV9ZdnFpU3ZydkpkWi1Gc21udXpxd3FRd1Z1M0VPbVdXRWxyaWlHd1d4WF9GYzR0SWpKNDRsc2RqVjFaUUdQR0RVUmVhdkpwT29ZRnltYw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 16:28"
+        "titulo_evento": "Iran retaliates against US allies after its oil tankers destroyed - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+        "categoria": "Economia (Google News Military)",
+        "data_noticia": "08/09/2026 20:21"
       }
     },
     {
@@ -1230,16 +1417,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "U.S. military’s Anduril Dive-LD drone was ‘dead in the water’ before Iran nabbed it - DefenseScoop",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkptT2NWZGx1MXhKS01lOFlERXdxeTJ2VjB3RkluSkRkR3lWWlFfNjd0aXFLdThGUFQxbERPUEg1a210MkY5Ry0ya25kQS1XYUItcmV4X3pfbjlfb2p4UzdSQWYwb1RhbnJuRVJ4eVZCSGNWaUd5VFlQWVlRSFUtTWdFU0c0eElITGM1Q181eGVBZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkptT2NWZGx1MXhKS01lOFlERXdxeTJ2VjB3RkluSkRkR3lWWlFfNjd0aXFLdThGUFQxbERPUEg1a210MkY5Ry0ya25kQS1XYUItcmV4X3pfbjlfb2p4UzdSQWYwb1RhbnJuRVJ4eVZCSGNWaUd5VFlQWVlRSFUtTWdFU0c0eElITGM1Q181eGVBZw?oc=5",
+        "titulo_evento": "Israel’s war leaves Lebanon’s schools balancing students and the displaced - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnFKdVVWMlo1WnVYYUg4STJIYUxja0RzQm5NT2tsRjlhdFhyUzlya1psT0lsSEpnOWZlRlA3MXRNaFpkRkYwTDBlck9tVFA4ekVKNUlwNXpkNUFGSzNkODh4WlRoRUpYRlkwdjRIUzFZMVlvSjJGeHh2QVFXX1dYVDUxVW1fdzd6b2ZULXZRTnljcDJB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnFKdVVWMlo1WnVYYUg4STJIYUxja0RzQm5NT2tsRjlhdFhyUzlya1psT0lsSEpnOWZlRlA3MXRNaFpkRkYwTDBlck9tVFA4ekVKNUlwNXpkNUFGSzNkODh4WlRoRUpYRlkwdjRIUzFZMVlvSjJGeHh2QVFXX1dYVDUxVW1fdzd6b2ZULXZRTnljcDJBb2JfS2tTV2VQWmx1dTZSSmo3SzJMb2pWMzRsMld6cEpFdnPSAbwBQVVfeXFMTUJJTlBCUlM5S3FrNG1uUFZaQmtkcE1XMmxGSHdTYzM4eE1tSVNXZFZGaTFRSXRGR3pYWW1wd0Y0VEd1ZHI0bEM5dkliSlE3Wk5MSklfbWdRWENRNS1GeXJ2MnpacXhpSTNSX09RX3k3UWZBbVlZNlhlWC12TW0yTjlwVnFDVktZLXphMGZKM3hQUjlxTVlUSUo3aFh1b0lTVlpEbXMwcjNjcmlkeEpaNnllWGc2alpSZURoMHo?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 21:05"
+        "data_noticia": "09/09/2026 05:37"
       }
     },
     {
@@ -1247,16 +1434,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/09/2026 23:47"
+        "titulo_evento": "Conflict over Taiwan would be disastrous, de facto US ambassador warns - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2RIMG9iRUUybnNZbHV1amxvUmtBWUZYRG02X0hVcDVpcFRJMkc5SVJpT1pJNkZEODF1a0F3cTBHNWxmRTgzZjdNQ0trWkVwcUxQajJTM3VSc1cxMlJ2WkNuMmM2NFVqLU5CU2FsQW03dnZkU1Qzc0xNdkFNTkxJSXhaVWVIZDFyYXhOcVJnTnlVMEdV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2RIMG9iRUUybnNZbHV1amxvUmtBWUZYRG02X0hVcDVpcFRJMkc5SVJpT1pJNkZEODF1a0F3cTBHNWxmRTgzZjdNQ0trWkVwcUxQajJTM3VSc1cxMlJ2WkNuMmM2NFVqLU5CU2FsQW03dnZkU1Qzc0xNdkFNTkxJSXhaVWVIZDFyYXhOcVJnTnlVMEdVVGJtV2hXR1NtX0xNaFlFMGo0NllaTks1LVZZMkFB0gG3AUFVX3lxTFBzY1NPSG5UYUJwbGZWcUc1YnhqdTE1cTdhV0h3Q1ZUYTlLNnNUNXA2NC12b1JlcnF3Qy1lTG5wUFFzcFhlajVxTjRNY24xYVpxdnFIS1hXOVZKeHVHZkxjVTJNODVIZlRBZUtNRFM5a3E3NGVreUpnbjg0aXdySlVDR3BjcWhlb0FVei1nN3F1V0dDNldDem5yb0dXTlNNQXE2NVFOeGJwVFVUeGlISWtKcXduYlFzMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "09/09/2026 04:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9605,
+          23.6978
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Conflict over Taiwan would be disastrous, de facto US ambassador says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1do...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGdPcmx6b1hqWkp2bVg1eThPNUJRMnd5U0J4WTJoNFlBYzM3ZDEySEpia1RlRVNfQmZCRjJrSmh1bGJTelI0RUJDeWZBQk1pVEY4d0gwR3FSVlo1Z0JWTkNFNE9PR1VNbXg0NGEzMml3bWxxZUR6N3Z0dDloU2hPbzdDY2d1UG8zU1RVclNIZWhVb1doeEVuWHg5WXhmRFVJRXRJMzl3YUxfRnhqUlpVUENiZlRJcGs?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "09/09/2026 02:07"
       }
     },
     {
@@ -1274,57 +1478,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenllM0wxajJIYjJvUVJ0MldidFg1eGpIVElaRlFLU2xkR09ZNDdGTk1oUnBBNjFhTFhvYXE0MjZKRVNxSi13dGpFZG1Uai0wcktseHZVODdZTWtoVkUzbWdBcFYzWG5uRWFjbm5aay1ieWV4OXVzZ1N2TEEtQUNHcVUxckVhUXhaeGVENzRnb2o1REhYRno3WFlR?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "08/09/2026 12:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Canada's retaliatory tariffs may hurt its economy, but most still approve because they hate Trump - Fortune",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWZCVTQ4MXQwZEpWV2kzQV9Zb0IwdTJzVUh3aEltT2pydEtzc1JoTG8xNVUyOTdxaEQwVUU0QkFNMnlQb256YmV0ZE5OZWdWaW1mVl9aTjdEelQ4ckN0UTZZVlNjZWhwU3VhczQxbWl4dkRIM0QwS2czVDdCWmpmYWF6bjRoaG1Rcl96SHAzaS1hckhn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWZCVTQ4MXQwZEpWV2kzQV9Zb0IwdTJzVUh3aEltT2pydEtzc1JoTG8xNVUyOTdxaEQwVUU0QkFNMnlQb256YmV0ZE5OZWdWaW1mVl9aTjdEelQ4ckN0UTZZVlNjZWhwU3VhczQxbWl4dkRIM0QwS2czVDdCWmpmYWF6bjRoaG1Rcl96SHAzaS1hckhnR0hZN04xeHdTeFJaclE?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/09/2026 20:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s Foreign Exchange Reserves Continue to Climb - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "09/09/2026 00:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’ - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVFXcV9wU01EWkppam1sazBmYUk2WFpIWWNkazVqU2o3QW5jOUh3ai13TXZoemZYVERxRmdITGxweWlneTVwV2lhNVFWTnJTbzBVcmpMaHl3Q2ZiU3ZieWY3OWQyYXhQbXI2N0NDSmtBTmZLUzFOeG5fME9qSDlkb3BJVUNPUkpGVzdIcnlOUUdyRDlV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVFXcV9wU01EWkppam1sazBmYUk2WFpIWWNkazVqU2o3QW5jOUh3ai13TXZoemZYVERxRmdITGxweWlneTVwV2lhNVFWTnJTbzBVcmpMaHl3Q2ZiU3ZieWY3OWQyYXhQbXI2N0NDSmtBTmZLUzFOeG5fME9qSDlkb3BJVUNPUkpGVzdIcnlOUUdyRDlVTzhTbDc4cnRfaEppUVBGSEthNHc2VHpYZ2lJTGFvNWc1Vmw0V2UySU1ab0w5UkVrYkVQR2hFYXp0Vzln0gHQAUFVX3lxTE5DZFpKS1h1UG00dVlscm05VEE2MTdqbWNwc0lKRlB1NV9nWGdCV2k2T2dWQW5QYVJyZGk1N1d2dWcwanFxdDY3Slh6VjVJcXdyWExzYlgycnlnOGFtNTRVTE1XeWFpdVo4OF9YTGxPSlY3bTJzQlJ5aEctbXU2dzQ3RG1WTnJPT2cyd0pueWh5LUw2OFl2dk5XWjByNDFVQ2xHTTlvXzNYZjktbXduU0x4TWZqdFpqQW13cjZ1WDVvb1RLUG5LRlVGdnJnSzcyZHg?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "08/09/2026 12:00"
       }
     }
   ]
