@@ -11,6 +11,40 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Saudi crown prince sought US military help with Houthis, sources say",
+        "descricao": "Saudi Crown Prince Mohammed bin Salman reportedly sought assistance from President Donald Trump on Thursday to help fight Yemen’s Iran-aligned Houthis.",
+        "url_fonte": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "11/09/2026 16:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US refutes claims that Iran captured Saildrone USV",
+        "descricao": "A U.S. official denied the video shared by Iran purported to show an American Saildrone USV near the Strait of Hormuz in flames.",
+        "url_fonte": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "11/09/2026 14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran attack on base in Jordan damaged American military aircraft, US official says",
         "descricao": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
         "url_fonte": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
@@ -91,16 +125,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          30.5238,
+          50.4547
         ]
       },
       "properties": {
-        "titulo_evento": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
-        "descricao": "Recent attacks by the U.S. and Iran have shattered a month of relative calm, with both hitting military, shipping and energy assets.",
-        "url_fonte": "https://www.defensenews.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "09/09/2026 15:30"
+        "titulo_evento": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+        "descricao": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/09/2026 16:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Tool of oppression’: Rising number of UK pro-Palestine voices debanked",
+        "descricao": "A Palestine Action prisoner&#039;s mother, politician George Galloway and a leftist news outlet are among those speaking up.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/11/tool-of-oppression-rising-number-of-uk-pro-palestine-voices-debanked?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "11/09/2026 15:22"
       }
     },
     {
@@ -142,57 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
-        "descricao": "US official admits the naval base near Manama sustained heavy damage in the war with Iran. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "11/09/2026 10:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
-        "descricao": "The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "11/09/2026 09:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How 9/11 helped Israel sell its war on Palestinians to America",
-        "descricao": "The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
-        "url_fonte": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "11/09/2026 08:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -210,16 +210,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          47.5868,
+          15.5527
         ]
       },
       "properties": {
-        "titulo_evento": "Drone display recreates the Twin Towers over New York City",
-        "descricao": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "10/09/2026 14:19"
+        "titulo_evento": "How global trade and oil prices could be hit by Houthi advance",
+        "descricao": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Economia (BBC World)",
+        "data_noticia": "11/09/2026 16:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia sends sanctioned ships to Mediterranean as NATO tracks 'Syrian Express' convoy",
+        "descricao": "Four Russian ships, including sanctioned cargo and tanker vessels escorted by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the first interruption of Russia's naval presence there since 2013.",
+        "url_fonte": "https://www.euronews.com/2026/09/11/russia-sends-sanctioned-ships-to-mediterranean-as-nato-tracks-syrian-express-convoy",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "11/09/2026 18:47"
       }
     },
     {
@@ -312,152 +329,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "How the media has changed since 9/11",
-        "descricao": "\nIt has been 25 years since terrorists hijacked planes and flew them into the Twin Towers, the Pentagon, and a fourth crashed in a field in Pennsylvania. Nearly 3,000 people were killed in the attacks that changed the course of US and world history. ...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/scoop/20260911-how-the-media-has-changed-since-9-11",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 13:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Canada pledges air defense support for Ukraine as Zelensky visits",
-        "descricao": "\nCanada offered support Thursday to boost Ukraine's air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by President Volodymyr Zelensky. \"Canada will always be with you,\" Canadian Prime M...",
-        "url_fonte": "https://www.france24.com/en/video/20260911-canada-pledges-air-defense-support-for-ukraine-as-zelensky-visits",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 10:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Massive' security operation in place for 9/11 anniversary",
-        "descricao": "\nAs New York gets set to commemorate 25 years since the 9/11 attacks that changed the United States and the world forever, a “massive” security operation is underway, say city officials, with former US presidents and dignitaries set to gather at Grou...",
-        "url_fonte": "https://www.france24.com/en/video/20260911-massive-security-operation-in-place-for-9-11-anniversary",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 10:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venice gives 25-minute ovation for film on Israel's mass killing of Gaza civilians",
-        "descricao": "\nMass civilian deaths were routinely built into Israeli military targeting decisions in Gaza, according to a Venice Film Festival documentary unveiled on Thursday that challenges official accounts of the war. \"NAZA\", directed by Israeli journalists Y...",
-        "url_fonte": "https://www.france24.com/en/video/20260911-venice-gives-25-minute-ovation-for-film-on-israel-s-mass-killing-of-gaza-civilians",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 09:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Nepal: Rescue efforts continue in the aftermath of a flash flooding disaster",
-        "descricao": "\nTwo weeks after the devastating flash floods, the number of dead and missing continues to rise. At Kathmandu’s public hospital, as well as outside the military base in Bidur, hundreds of photographs of missing people have been put up. Hundreds of fa...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/reporters/20260911-nepal-rescue-efforts-continue-in-the-aftermath-of-a-flash-flooding-disaster",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 09:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel says destroys Hezbollah tunnels as explosions triggers tremor",
-        "descricao": "\nIsrael said Thursday it demolished key tunnels built by the Iran-backed Hezbollah group beneath the strategic Ali al-Taher ridge in southern Lebanon, with the force of the explosions enough to trigger a 4.1 magnitude tremor. It comes a few days afte...",
-        "url_fonte": "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 09:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Clashing narratives': How are young Americans today taught about 9/11?",
-        "descricao": "\nAn estimated 100 million Americans, almost a third of the population, were either not yet born or were too young to remember the September 11 attacks. Now, as the US marks the 25th anniversary of 9/11, how are young people in America being taught ab...",
-        "url_fonte": "https://www.france24.com/en/video/20260911-clashing-narratives-how-are-young-americans-today-taught-about-9-11",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 09:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Did the War on Terror succeed? Or did Washington fall into al Qaeda’s trap?",
-        "descricao": "\nPRESS REVIEW: Friday, September 11– 25 years on from 9/11, the international press reflects on the war on terror, its legacy and its failings. In France, the far-right National Rally party tries desperately to distance itself from the overtly racist...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/press-review/20260911-did-the-war-on-terror-succeed-or-did-washington-fall-into-al-qaeda-s-trap",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 09:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says",
-        "descricao": "\nAnthropic said Thursday it had disrupted several state-sponsored surveillance operations using its artificial intelligence models, warning of the growing AI use to target dissidents and minorities. The campaigns, detected between January and July, o...",
-        "url_fonte": "https://www.france24.com/en/technology/20260911-anthropic-ai-surveillance-targeting-dissidents-china-iran-west-africa",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 07:35"
+        "titulo_evento": "Flavio Bolsonaro probed for corruption as Brazil election tightens",
+        "descricao": "\nJust weeks before the vote, Brazilian presidential hopeful Flavio Bolsonaro's campaign is being rocked by revelations he is under investigation for alleged corruption and money laundering. The probe centres on financing sought for a film about his f...",
+        "url_fonte": "https://www.france24.com/en/americas/20260911-flavio-bolsonaro-probed-for-corruption-as-brazil-election-tightens",
+        "categoria": "Política (France 24)",
+        "data_noticia": "11/09/2026 16:21"
       }
     },
     {
@@ -470,28 +351,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars",
-        "descricao": "\nRussian President Vladimir Putin arrived in New Delhi on Friday for a two-day BRICS summit expected to focus on wars in Ukraine and the Middle East and economic challenges. Putin and Iran’s President Masoud Pezeshkian are due to meet Prime Minister ...",
-        "url_fonte": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+        "titulo_evento": "Elections in Russia: the 1001 tricks to remove inconvenient candidates",
+        "descricao": "\nThe Russian authorities are using dubious claims to disqualify candidates previously cleared to run in the parliamentary election from September 18 to 20. The war in Ukraine is making the Kremlin even more cautious about who is allowed to campaign.\n",
+        "url_fonte": "https://www.france24.com/en/europe/20260911-elections-in-russia-the-1001-tricks-to-remove-inconvenient-candidates",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 02:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hong Kong court sentences Tiananmen vigil activists to between 5 and 7 years in jail",
-        "descricao": "\nThree activists who had held annual vigils commemorating the Tiananmen Square crackdown were sentenced to between five and seven years in prison Friday for calling for an \"end to one-party dictatorship\". Prosecutors had argued that China's constitut...",
-        "url_fonte": "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail",
-        "categoria": "Política (France 24)",
-        "data_noticia": "11/09/2026 01:49"
+        "data_noticia": "11/09/2026 16:11"
       }
     },
     {
@@ -504,11 +368,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Watch live: New York marks 25 years since 9/11 with first Muslim mayor",
-        "descricao": "\nNew York on Friday marked the 25th anniversary of the September 11, 2001 attacks, with US President Donald Trump attending a ceremony at the Pentagon while Vice President JD Vance and four former presidents joined commemorations at Ground Zero, wher...",
-        "url_fonte": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
+        "titulo_evento": "'Chaos and a sense of doom': Memories of 9/11",
+        "descricao": "\nDulcie Leimbach, editor and co-founder of PassBlue, was a journalist in New York working for the New York Times at the time of the September 11 terror attacks. She shared her memories of that day with France 24. \"I saw bodies falling from the North ...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-chaos-and-a-sense-of-doom-memories-of-9-11",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/09/2026 01:47"
+        "data_noticia": "11/09/2026 15:20"
       }
     },
     {
@@ -516,16 +380,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
-        "titulo_evento": "Yemen's Iran-backed Houthi rebels seize strategic Red Sea port city of Mocha",
-        "descricao": "\nYemen’s Houthis seized the strategic Red Sea port city of Mocha on Thursday as their offensive against Saudi-backed government forces intensified. Saudi Arabia launched dozens of airstrikes over the past 24 hours, the Houthis said, after the Iran-ba...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20260910-yemen-houthis-city-red-sea-iran",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/09/2026 22:55"
+        "titulo_evento": "Celine Dion fever hits Paris!",
+        "descricao": "\nThe city of Paris transforms into the \"City of Celine\" as Celine Dion begins her much-awaited comeback tour. She'll be performing a series of sold-out concerts for the first time since revealing in 2022 that she suffers from stiff-person syndrome. I...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/arts24/20260911-celine-dion-fever-hits-paris",
+        "categoria": "Política (France 24)",
+        "data_noticia": "11/09/2026 15:18"
       }
     },
     {
@@ -538,11 +402,198 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Space: Europe urged to find its path, from crewed spaceflight to communications",
-        "descricao": "\nFrom communications to crewed spaceflight, French President Emmanuel Macron and European Commission President Ursula von der Leyen called for Europeans to \"act\" on a massive scale to find their place in the space race on Thursday – notably, against ...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/a-propos/20260910-space-europe-urged-to-find-its-path-from-crewed-spaceflight-to-communications",
+        "titulo_evento": "Trump uses 9/11 memorial speech to defend war in Iran",
+        "descricao": "\nDonald Trump used part of his speech at a 9/11 anniversary ceremony at the Pentagon to defend his administration’s ongoing war in Iran. “On days like 9/11, we learn what a country is truly made of. We’re learning right now what we’re made of,” the p...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-trump-uses-9-11-memorial-speech-to-defend-war-in-iran",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 15:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+        "descricao": "\n\"European strategic autonomy\" is a buzz phrase in Brussels and in EU capitals these days. What does it mean for space policy? That was one of the central points that we raised with the Prime Minister of Luxembourg, Luc Frieden, during his visit to P...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
         "categoria": "Política (France 24)",
-        "data_noticia": "10/09/2026 21:05"
+        "data_noticia": "11/09/2026 14:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "REPLAY: Trump speaks at 9/11 25th anniversary ceremony at the Pentagon",
+        "descricao": "\nPresident Donald Trump vowed Friday that the United States would never forget the September 11, 2001 attacks and would continue to \"fight,\" as he marked the 25th anniversary in a ceremony at the Pentagon. \"Today we renew the sacred oath that we firs...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-replay-trump-speaks-at-9-11-25th-anniversary-ceremony-at-the-pentagon",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "REPLAY: Hegseth warns of 'Islamist threat' at 9/11 25th anniversary commemorations",
+        "descricao": "\nUS defense secretary Pete Hegseth delivered remarks at a ceremony at the Pentagon on Friday on the 25th anniversary of the September 11 attacks. Hegseth used his speech to turn to the ongoing conflict in Iran and sought to connect it to the 2001 att...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-replay-hegseth-warns-of-islamist-threat-at-9-11-25th-anniversary-commemorations",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
+        "descricao": "\nPresident Donald Trump  was set to observe Friday’s 25th anniversary of the September 11 attacks by attending a ceremony at the Pentagon commemorating the lives lost when al-Qaida militants hijacked planes and killed nearly 3,000 people in three loc...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-trump-commemorates-the-25th-anniversary-of-the-9-11-attacks-at-the-pentagon",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "25 years after 9/11, al Qaeda remains a threat – even as Washington looks away",
+        "descricao": "\nA quarter of a century after the deadliest terrorist attacks in US history, al Qaeda’s various branches have moved away from the global jihad advocated by Osama bin Laden, focusing instead on regional insurgencies. Their actions continue to destabil...",
+        "url_fonte": "https://www.france24.com/en/americas/20260911-25-years-after-9-11-al-qaeda-remains-threat-washington-looks-away-counter-terrorism",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "REPLAY: 9/11 25th anniversary commemorations begin",
+        "descricao": "\nA moment of silence was held as an event to commemorate the 25th anniversary of the September 11, 2001 attacks began in New York on Friday at a memorial on the site of Ground Zero where the Twin Towers were destroyed.\n",
+        "url_fonte": "https://www.france24.com/en/video/20260911-replay-9-11-25th-anniversary-commemorations-begin",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "French far-right leader polling ahead for 2027 election: should the EU be afraid?",
+        "descricao": "\nIn Brussels, opinion polls coming out of France have not escaped attention. Two polls see far right leader Marine Le Pen beating all her likely rivals in the French presidential election, which is set to take place in April and May of next year. \n",
+        "url_fonte": "https://www.france24.com/en/french-far-right-leader-polling-ahead-for-2027-election-should-the-eu-be-afraid",
+        "categoria": "Política (France 24)",
+        "data_noticia": "11/09/2026 14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "9/11, 25 years on: 'A time for reflection about the way the world has gone'",
+        "descricao": "\nTwenty-five years after the ​deadliest attack on US soil, Americans will pause on Friday to commemorate the nearly 3,000 people killed when hijacked planes slammed into the World Trade Center, the Pentagon and a field in Pennsylvania. But it is also...",
+        "url_fonte": "https://www.france24.com/en/video/20260911-9-11-25-years-on-a-time-for-reflection-about-the-way-the-world-has-gone",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "11/09/2026 14:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine: Russian strike on Kyiv gas station kills 2",
+        "descricao": "With fighting on the front lines mostly stalled, Russia has been increasingly hitting petrol stations and other civilian targets. Ukraine has also been attacking Russia with drones, killing three people on Friday.",
+        "url_fonte": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/09/2026 15:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US commemorates 25 years since 9/11 terror attack",
+        "descricao": "A quarter century has passed since Islamists hijacked four commercial jets and turned them into weapons against the US. On Friday, ceremonies in New York, Pennsylvania and Washington DC marked the dark anniversary.",
+        "url_fonte": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/09/2026 15:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran pursues cautious escalation ahead of US midterms",
+        "descricao": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
+        "url_fonte": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/09/2026 14:54"
       }
     },
     {
@@ -691,9 +742,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Why are European banks moving their gold out of the US?",
-        "descricao": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
-        "url_fonte": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Why are European banks moving gold out of United States?",
+        "descricao": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+        "url_fonte": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "11/09/2026 05:17"
       }
@@ -730,6 +781,23 @@
         "url_fonte": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "10/09/2026 16:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump, Hegseth push Iran war at Pentagon 9/11 memorial",
+        "descricao": "“We are ensuring that Iran will never have a nuclear weapon,” Hegseth said.",
+        "url_fonte": "https://www.politico.com/news/2026/09/11/trump-hegseth-iran-war-9-11-01072088?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "11/09/2026 15:20"
       }
     },
     {
@@ -822,23 +890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Inflation held steady in August as Iran war surges oil prices - thehill.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9jamhVTC1CTzVzY0NlUHZ4YktOaGJyXzdZT2poX0IxQjMweW55bTVPeDV4dHlKem5CTTIxVTBROXF0SktRb0dVVzBkNEFUZktWVXVvUEdNdHBudl9qczJXOHdXd3IwckVJdkljVDJvZFPSAXZBVV95cUxQTkZXbzdvOFo3UVNMX0s3UWVid215Q2puRGJS...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jamhVTC1CTzVzY0NlUHZ4YktOaGJyXzdZT2poX0IxQjMweW55bTVPeDV4dHlKem5CTTIxVTBROXF0SktRb0dVVzBkNEFUZktWVXVvUEdNdHBudl9qczJXOHdXd3IwckVJdkljVDJvZFPSAXZBVV95cUxQTkZXbzdvOFo3UVNMX0s3UWVid215Q2puRGJSNjZYSjlEY3RFNEdDTVIyQmxzdDBhQ3V3ZDc2LTVzODFTN3pVV3FiVkJKbThKY3pQeTBCWlRUenZ3X3ZHZ0dPRFBfNmJob2oxTVFHY1dhZkNwOTdB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 12:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -848,41 +899,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2Jmb3dsWV9TZ0VQUVJEOV94YUxURlJNN2w1cUxCUXRBMHcxX3NENW80TG1yWVlEdUZTNFZqT056eGhjanZMTHZSM241VnpjQklXS2I3Zmx1SGtlUTFlX0pneXBlZ0xPdnB6VktfbEc5eWUzcmE0OWx5V2JXTHhwNWNOcWtwQkZ2MzhoVFlmOU9hMFp5...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2Jmb3dsWV9TZ0VQUVJEOV94YUxURlJNN2w1cUxCUXRBMHcxX3NENW80TG1yWVlEdUZTNFZqT056eGhjanZMTHZSM241VnpjQklXS2I3Zmx1SGtlUTFlX0pneXBlZ0xPdnB6VktfbEc5eWUzcmE0OWx5V2JXTHhwNWNOcWtwQkZ2MzhoVFlmOU9hMFp5eTk1R3c0ZzBEZ0tKSEJTZHhvQk05eWFaQWJVUmJ3SEVTZkJjY01TZmNnUUZoYmVsRmZyMl9IclN1UVI2LVR3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 08:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 01:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Anthropic Says Yemen Group Used Claude in Missile Development - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19p...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXhtUUpua3FMcFpYZmN0UHdoZjhoa1p2TS0wSXRoVjYxNDFJRTkyRDJQWWx3TDZDN3d0dnIwNnZ1RHg3Y29fNmFDWUMwZVZXdHdOYVp3eVhtZ1UtaHRTWVFHeGtqcktOUlNKSHZ3VHIzMlVCNl9kNlN3R0NXS0xKb0JxSVhEZVJLMTNNVzBmaEszV19penQ4QmpRc0Q0dzhDakdVTzFCQXJ6Zm84Vk5tNF93?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 10:25"
+        "data_noticia": "11/09/2026 14:35"
       }
     },
     {
@@ -895,28 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
+        "titulo_evento": "Trump, Hegseth tie Iran war to 9/11 in speech at Pentagon - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNndvb245dDI1bVpraW5KamVxYW11aThjOFNrTWE2TWRLODhUUFczc2k0ZWFQYU8zekJ0NzE0NEl2UnpIMWtXQUhwT3BpSlNOZ0RRYlFGWkduWjFVak1MQmgwejlNUFBabGpwTmk2b2pERUFPcExIdGdMNXo0QnJNOVNhSmJuZw?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNndvb245dDI1bVpraW5KamVxYW11aThjOFNrTWE2TWRLODhUUFczc2k0ZWFQYU8zekJ0NzE0NEl2UnpIMWtXQUhwT3BpSlNOZ0RRYlFGWkduWjFVak1MQmgwejlNUFBabGpwTmk2b2pERUFPcExIdGdMNXo0QnJNOVNhSmJuZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 06:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub29ja256cTNrNTI5OVpjb2RlcUpsUGs1WW1yZEVCbXRkNE5zaHQ0VUlFejlBSjR0UnpqRXZ5MXA0aVAyMk1vTU5zQnRkc1NnTzVRN3RpelN2dUhSc1JvT0pYR1B4OGkxMWFQMlNyVFI5ZkFsQkHSAXtBVV95cUxNdVJWc0NWelBBc00yTlZGYzhMWjZL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub29ja256cTNrNTI5OVpjb2RlcUpsUGs1WW1yZEVCbXRkNE5zaHQ0VUlFejlBSjR0UnpqRXZ5MXA0aVAyMk1vTU5zQnRkc1NnTzVRN3RpelN2dUhSc1JvT0pYR1B4OGkxMWFQMlNyVFI5ZkFsQkHSAXtBVV95cUxNdVJWc0NWelBBc00yTlZGYzhMWjZLMVgtbGphSHptSmV4UU53TmRxRUVROXhoT09YRGx2TW5hUUIyNkVGU2dHTnp3a3hpRllmVmNscUttUlpaM2ZSUUY4aDRoQUhOZ3dkRktvcDJzMFJwbzFhTzZqb01xZkk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 10:56"
+        "data_noticia": "11/09/2026 15:46"
       }
     },
     {
@@ -929,11 +929,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war largely ignored at the Republican midterm convention - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2RGbHZpVzZOQUdHMVRRSUNaSUdKTHJzUnFzRzFKc3ZmNk5FNnk2MTV1TmFsV3VpWkhMbWQxV0VnVWZDV2lsbjlaa1gzaGREN1BNTG9Xeno2UmxmR1NzVVNQM3ViVjZqZEZlVHlsR3ZRTkZiZ3poaV9sZWVUbkdzVkpfbTc3RVRxaUFaTUJKUHNzWTRh...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2RGbHZpVzZOQUdHMVRRSUNaSUdKTHJzUnFzRzFKc3ZmNk5FNnk2MTV1TmFsV3VpWkhMbWQxV0VnVWZDV2lsbjlaa1gzaGREN1BNTG9Xeno2UmxmR1NzVVNQM3ViVjZqZEZlVHlsR3ZRTkZiZ3poaV9sZWVUbkdzVkpfbTc3RVRxaUFaTUJKUHNzWTRhREF2akFSV2o4WE9ZNThrQ18tdjlJZk9aMWYxa2x5R0xjLVlhWC1n?oc=5",
+        "titulo_evento": "Trump, Hegseth push Iran war at Pentagon 9/11 memorial - politico.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDBOVzI1M3lnRi03ajktRmpaenhtOHloaklLNFJUU0ljbDRBcGNwVzk0OWExRFVTZDlSa181VXdHdUpDS3RoWDExQ2ptcWVkMTZEeFYwTUR4RnZOS3QtLWFKWjQ3UDQxTlpIWUF6eTRwSGdSdmZEd013b2JfMTBEQWZ2OA?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDBOVzI1M3lnRi03ajktRmpaenhtOHloaklLNFJUU0ljbDRBcGNwVzk0OWExRFVTZDlSa181VXdHdUpDS3RoWDExQ2ptcWVkMTZEeFYwTUR4RnZOS3QtLWFKWjQ3UDQxTlpIWUF6eTRwSGdSdmZEd013b2JfMTBEQWZ2OA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 03:23"
+        "data_noticia": "11/09/2026 15:13"
       }
     },
     {
@@ -946,11 +946,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEIwVE8tUnoyMWlXY0wzSElpTEFLVms2RGQ0Uk5GWTVQLWdfeGJTWENMMDJZb0pUdW4zNjVBdThoal9CMjk5b3E5VHA5V2ZPdS1rVnhOR1NjaDBrOEJuZW5ybllQS0wtWWVsS2Y1THdOaHcwdkZiQ0QxdVZ2eE1ZNWRiLUw0eExYeXJsT2ItMUxfbnJS...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEIwVE8tUnoyMWlXY0wzSElpTEFLVms2RGQ0Uk5GWTVQLWdfeGJTWENMMDJZb0pUdW4zNjVBdThoal9CMjk5b3E5VHA5V2ZPdS1rVnhOR1NjaDBrOEJuZW5ybllQS0wtWWVsS2Y1THdOaHcwdkZiQ0QxdVZ2eE1ZNWRiLUw0eExYeXJsT2ItMUxfbnJSNUZXNXFFX1lNZGg1Smp5OE9WYmx3aFF20gGyAUFVX3lxTE12V0VzS015YzVxeExJa1AxbGVCVEdGVkhOM1UxUU5Mb19VVjdURlppTW9QVVlITHNwOVVGU3J1blM1ZUYtc0FJTXkzUjFzc3VPWmw1RVFQYW5vRVMtV3hkQmhPRlZKcGxoRnphRUFMeGxRRk5adnhxM1dVYlJtQXZjN2x5OXQ3TDJ3bVlxZC1qSk5hOGVzYmF0UDFmaDJaTE1WSVBUeVhIUmRIdzBTWUxNc2c?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "11/09/2026 10:45"
+        "titulo_evento": "In 9/11 remarks, Trump links war with Iran - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5\" target=\"_blank\">In 9/11 remarks, Trump links war with Iran</a>&nbsp;&nbsp;<...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BS1pfYjcyYjJmdDZKWnp6XzgycEc3VDV5cTBCTnBERTRLQTFUYnU3RzM2VlBTTWZVMU8wSDhhTkN4ejhLUXMxdHJ3MnlkY1I2WjRfVzc2TQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/09/2026 15:19"
       }
     },
     {
@@ -963,11 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - cbsnews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0Zu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+        "titulo_evento": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 10:43"
+        "data_noticia": "11/09/2026 15:17"
       }
     },
     {
@@ -980,11 +980,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How much is the war with Iran costing the US? - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5",
+        "titulo_evento": "What Houthi Gains In Yemen Mean For The Iran War - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1MyaWduVkxIdDNTM0htUVkxVkJQOUFZdGJycFgzWGpxUHp3RGFObU53emRjbjcxdy1oTTl1Mmw1R3FFYXRpSjZHSHh2T2tXTHdwTlJiZ212eU9KSmYzcEswOFJkX0stNkR4cDJGTWNUdTZCRzFvaWgtXzNnSHVvX09B0gGEAUFVX3lxTFBKUTlTNm0x...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1MyaWduVkxIdDNTM0htUVkxVkJQOUFZdGJycFgzWGpxUHp3RGFObU53emRjbjcxdy1oTTl1Mmw1R3FFYXRpSjZHSHh2T2tXTHdwTlJiZ212eU9KSmYzcEswOFJkX0stNkR4cDJGTWNUdTZCRzFvaWgtXzNnSHVvX09B0gGEAUFVX3lxTFBKUTlTNm0xeVlQTWdORFdOU3lXYVdKLUNmRGoxVlRoNF9FcXRwTmRVdTZMSG9JX29ZamoxUlJCOUFyNG54VWVfeHlGXzV1Zms0bmV1ZzBfSm5LTDdsclVEV29QWTc2dS1MZ3o5dURFYmFxRW5JSW5abE9nUHNyY2c0LUEyMg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 07:40"
+        "data_noticia": "11/09/2026 13:16"
       }
     },
     {
@@ -1009,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "These Michigan swing voters are bracing for higher prices from trade war with Canada - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXdsUTJYVHpJMjdOeTYzQlN0aFRnTjRGVlRlY2tubGFETDNMVmFPSEFDRkFGaTJUMVg1eG0yNDNZMmRMbGVuTUhZZ2t2eWJzd21VZnhyQTBUVnFsM2cxSURvNjZkR0hPb2xtNlhaYjVoa3dzaEpqejlmQXZnbUhUOTU3WU9MODZNcEItTmhSdVA?oc=5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXdsUTJYVHpJMjdOeTYzQlN0aFRnTjRGVlRlY2tubGFETDNMVmFPSEFDRkFGaTJUMVg1eG0yNDNZMmRMbGVuTUhZZ2t2eWJzd21VZnhyQTBUVnFsM2cxSURvNjZkR0hPb2xtNlhaYjVoa3dzaEpqejlmQXZnbUhUOTU3WU9MODZNcEItTmhSdVA?oc=5",
+        "titulo_evento": "How many Russian soldiers died in the war with Ukraine - Mediazona",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE95WTVTQkRHVHNQaFZ4R2xNY2U5bEF4NkZjOTdTTlVRX2N6OUVaYVZvR2VWOGFjN05NZEhWZDN4MG14ZUxRSmpveEJtR1ZZN3F3SlNhWEpzOXU4X1A3anNBRVZYeXRJM21HWnNB?oc=5\" target=\"_blank\">How many Russian soldiers died in...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WTVTQkRHVHNQaFZ4R2xNY2U5bEF4NkZjOTdTTlVRX2N6OUVaYVZvR2VWOGFjN05NZEhWZDN4MG14ZUxRSmpveEJtR1ZZN3F3SlNhWEpzOXU4X1A3anNBRVZYeXRJM21HWnNB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 09:00"
+        "data_noticia": "11/09/2026 17:23"
       }
     },
     {
@@ -1031,11 +1031,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war latest: Houthis seize Yemen's entire western coast and strategic Red Sea islands - thenationalnews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUU1qeFFWU2lhSHpsOFI5VEhkMW5FMWhJUENsd1N1VThlQnVpM2JsaUV1NWs3azR0S0tIRDBZejNyYkJOaks1WWlmbUVSRFc2RzdSYmo2Q1g2bjRvc0JlR0pSSDdlWjlXWWRCYlluTERoa1hVRk9Xd3I3Z1lQQS0za2d3cXhBR1lWbzI5Mg?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUU1qeFFWU2lhSHpsOFI5VEhkMW5FMWhJUENsd1N1VThlQnVpM2JsaUV1NWs3azR0S0tIRDBZejNyYkJOaks1WWlmbUVSRFc2RzdSYmo2Q1g2bjRvc0JlR0pSSDdlWjlXWWRCYlluTERoa1hVRk9Xd3I3Z1lQQS0za2d3cXhBR1lWbzI5Mg?oc=5",
+        "titulo_evento": "Inflation held steady in August as Iran war surges oil prices - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9jamhVTC1CTzVzY0NlUHZ4YktOaGJyXzdZT2poX0IxQjMweW55bTVPeDV4dHlKem5CTTIxVTBROXF0SktRb0dVVzBkNEFUZktWVXVvUEdNdHBudl9qczJXOHdXd3IwckVJdkljVDJvZFPSAXZBVV95cUxQTkZXbzdvOFo3UVNMX0s3UWVid215Q2puRGJS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jamhVTC1CTzVzY0NlUHZ4YktOaGJyXzdZT2poX0IxQjMweW55bTVPeDV4dHlKem5CTTIxVTBROXF0SktRb0dVVzBkNEFUZktWVXVvUEdNdHBudl9qczJXOHdXd3IwckVJdkljVDJvZFPSAXZBVV95cUxQTkZXbzdvOFo3UVNMX0s3UWVid215Q2puRGJSNjZYSjlEY3RFNEdDTVIyQmxzdDBhQ3V3ZDc2LTVzODFTN3pVV3FiVkJKbThKY3pQeTBCWlRUenZ3X3ZHZ0dPRFBfNmJob2oxTVFHY1dhZkNwOTdB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 12:37"
+        "data_noticia": "11/09/2026 12:42"
       }
     },
     {
@@ -1043,33 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "RFK Jr. uses military aircraft as he campaigns for GOP in midterms - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3RBX1ItNS1UWGhvM1VlWWx5YnplV1pCY2RyT3pyWTFyNWIxME4tMlRWZU8zTk54LUQ2MTBDQ1MyVXlYZlJNNWRkdzlxcEZDUzFHQlZEdWZPV2k0NDRSOWxVcUREUWFwbTFsbi1DMFRRUjhWT25TREprbzBwY010anVrd3ZWLWJFTnZwY0xMZWljYWZX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3RBX1ItNS1UWGhvM1VlWWx5YnplV1pCY2RyT3pyWTFyNWIxME4tMlRWZU8zTk54LUQ2MTBDQ1MyVXlYZlJNNWRkdzlxcEZDUzFHQlZEdWZPV2k0NDRSOWxVcUREUWFwbTFsbi1DMFRRUjhWT25TREprbzBwY010anVrd3ZWLWJFTnZwY0xMZWljYWZXa2pYSTY5WWxVODNldW5LRDVXcEY?oc=5",
+        "titulo_evento": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5\" target...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDc4c2JiRUtCb2Z1cVpwZE83UWtvN2Zmb1RmQ1VXTEV6VGFiY3FFTWtSd05pNnR0UUktVlcwSGdFT2MxWExrSERfX2JxZVlPcGJJbVRtak5zal82UmFqRFhKU01KLVhpWGpSc1dpVFJRVGhXUy0tUW1jU2NQY2d6QWR5d0NYSXVFVnc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 03:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 12:58"
+        "data_noticia": "11/09/2026 01:17"
       }
     },
     {
@@ -1082,11 +1065,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran Update: September 10, 2026 - Institute for the Study of War",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZvQmVHSHBzdDFKSjRDRVVNck5vOUVRaUxReE9xVXQzeENxc1BRVmhabXpjQ09aSUZ4RGpyaVEwekpOWjA5VFEwZ0FXT0JMQU1DUG9RWDV6UXBhVDNpT3RNNEJFYVh1VTA2S3lHSDJrVlhSblNUZkpSU3d4aHg0VUhjM1VEaDg?oc=5\" target=\"_b...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZvQmVHSHBzdDFKSjRDRVVNck5vOUVRaUxReE9xVXQzeENxc1BRVmhabXpjQ09aSUZ4RGpyaVEwekpOWjA5VFEwZ0FXT0JMQU1DUG9RWDV6UXBhVDNpT3RNNEJFYVh1VTA2S3lHSDJrVlhSblNUZkpSU3d4aHg0VUhjM1VEaDg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 06:15"
+        "titulo_evento": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEIwVE8tUnoyMWlXY0wzSElpTEFLVms2RGQ0Uk5GWTVQLWdfeGJTWENMMDJZb0pUdW4zNjVBdThoal9CMjk5b3E5VHA5V2ZPdS1rVnhOR1NjaDBrOEJuZW5ybllQS0wtWWVsS2Y1THdOaHcwdkZiQ0QxdVZ2eE1ZNWRiLUw0eExYeXJsT2ItMUxfbnJS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEIwVE8tUnoyMWlXY0wzSElpTEFLVms2RGQ0Uk5GWTVQLWdfeGJTWENMMDJZb0pUdW4zNjVBdThoal9CMjk5b3E5VHA5V2ZPdS1rVnhOR1NjaDBrOEJuZW5ybllQS0wtWWVsS2Y1THdOaHcwdkZiQ0QxdVZ2eE1ZNWRiLUw0eExYeXJsT2ItMUxfbnJSNUZXNXFFX1lNZGg1Smp5OE9WYmx3aFF20gGyAUFVX3lxTE12V0VzS015YzVxeExJa1AxbGVCVEdGVkhOM1UxUU5Mb19VVjdURlppTW9QVVlITHNwOVVGU3J1blM1ZUYtc0FJTXkzUjFzc3VPWmw1RVFQYW5vRVMtV3hkQmhPRlZKcGxoRnphRUFMeGxRRk5adnhxM1dVYlJtQXZjN2x5OXQ3TDJ3bVlxZC1qSk5hOGVzYmF0UDFmaDJaTE1WSVBUeVhIUmRIdzBTWUxNc2c?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "11/09/2026 10:45"
       }
     },
     {
@@ -1094,16 +1077,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "More than 500,000 Russian Troops Killed in Ukraine, UK Defense Chief Says - Military.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHhmWmRhX3l5d0VkR2FXNHZUUEJ6X05fWWx2dUpRZGJJQXpEcTIwbnFKeHM4UlpFZGtFdE1maWNRVVJVdkdNdi1kZjJwX0U3WVVYWFNGNkJkdGl2VEhoOWZaYzRVNnRkS09uZWlvQVY3d2hUQVlxS2tkbFBKbG9ySlZHWURlN2JKdzlsWl9LMVI2RXRi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHhmWmRhX3l5d0VkR2FXNHZUUEJ6X05fWWx2dUpRZGJJQXpEcTIwbnFKeHM4UlpFZGtFdE1maWNRVVJVdkdNdi1kZjJwX0U3WVVYWFNGNkJkdGl2VEhoOWZaYzRVNnRkS09uZWlvQVY3d2hUQVlxS2tkbFBKbG9ySlZHWURlN2JKdzlsWl9LMVI2RXRiSXBtTE5FRGc?oc=5",
+        "titulo_evento": "CEO of Ukraine’s Fire Point: Freyja anti-ballistic missile program seeks ‘best players’ - Breaking Defense",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEtQc3g1NEM1NmU5bFVEaEQ1T1FDdV8tYXl0SDJpSWRNR1FHQWxrN2dFWUhTbXo3T0hCWkR1SGpabUpVSjlHVHBRNDUwZHJxTEtIV0pobmUxSDFrRG9hUUhYdXBZZEJPQUZXWnBvSW9iLWJ4ZVViT2JXLW5zVDh1UXlNMUlrcFJleWJzUWw3dUp1V1N0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEtQc3g1NEM1NmU5bFVEaEQ1T1FDdV8tYXl0SDJpSWRNR1FHQWxrN2dFWUhTbXo3T0hCWkR1SGpabUpVSjlHVHBRNDUwZHJxTEtIV0pobmUxSDFrRG9hUUhYdXBZZEJPQUZXWnBvSW9iLWJ4ZVViT2JXLW5zVDh1UXlNMUlrcFJleWJzUWw3dUp1V1N0amxQWUNVcnd2LU5xN2VJR2pRanUtaFZWdEJncm1PQjNNSU1nMmdTSw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/09/2026 12:58"
+        "data_noticia": "11/09/2026 15:04"
       }
     },
     {
@@ -1116,11 +1099,79 @@
         ]
       },
       "properties": {
-        "titulo_evento": "A Stranglehold on Global Economy: How Iran has Benefited from a Lower-Intensity War - Palestine Chronicle",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPb202X3BpNGE4cTliOG43dG9mUEotWUc0ak9ZbktReVgwTlNtb29JZjROUV9FVVFDbzlQN29DNkRJTTZlVWppUGg4MmE4Qk02NGhfLTIzeFh3S1ZPWE4xclVDOXBwajVjQjlzZHN6aS1WTGdKWXk3SHFLeUI5NXE3OEhFMVR3aS1pRHNrUkZ3ZG1kRDE2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb202X3BpNGE4cTliOG43dG9mUEotWUc0ak9ZbktReVgwTlNtb29JZjROUV9FVVFDbzlQN29DNkRJTTZlVWppUGg4MmE4Qk02NGhfLTIzeFh3S1ZPWE4xclVDOXBwajVjQjlzZHN6aS1WTGdKWXk3SHFLeUI5NXE3OEhFMVR3aS1pRHNrUkZ3ZG1kRDE2b0t6S0xrZV8ybWYyUkktZXN6NExjTXowQ0s4NGdyaWVxS2MyUWc?oc=5",
+        "titulo_evento": "Fact check: Where Senate hopefuls Andrews, Graham stand on ending war in Iran - The State",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB0YkpxdkdPWGZUOFhCaDMtczdYSVl2elpLeS1TUElLTklyS0JlU2Q5SlBtbW1tbDF5VXpIZjF3ZUV5Yi1KdkZiWG9SUm9vbUVMaFpTeVVMT08yenpEWC1wa3BaR2ViY3h6YTNNdUkyYkFRVUtkODVCcnV2NNIBe0FVX3lxTE1WM2t5UHYwTFBxRFpDVmF3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0YkpxdkdPWGZUOFhCaDMtczdYSVl2elpLeS1TUElLTklyS0JlU2Q5SlBtbW1tbDF5VXpIZjF3ZUV5Yi1KdkZiWG9SUm9vbUVMaFpTeVVMT08yenpEWC1wa3BaR2ViY3h6YTNNdUkyYkFRVUtkODVCcnV2NNIBe0FVX3lxTE1WM2t5UHYwTFBxRFpDVmF3ekUxeTNGdkw4LXdqcWx1TVZCX3liX2VGd3dCRUVfWVduMnpjbEZWMGNOakRtRm92NGVXMVpmUmttM1FNclJ6VUFVNDd1MzNqZzBxc3VyMzJMa3NHclpqVmlZWmdGMzlWd09lRQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/09/2026 15:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How much is the war with Iran costing the US? - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWfSAXtBVV95cUxNYXV6SHZKUS1PcVlLdEQ4dmdzNUdKck1JLTg0V0F1TzFEc1g2UzBHUXdUdUd0MkdOSzg0MlNhVXVZakVUTDdBWmI2QnRKVWQ3SG95djhkbUo2S0NmbEZ3bENMamdiVF92XzBzdlcyUDVSTEpWcWVUeEIyb0U?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/09/2026 07:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Gone in seconds’: Chinese buyers snap up government debt amid US bond turmoil - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVmpuX3Q5NzlrYk1yX21RdW9NRjdITTd4bldrOVI4dDc4R3hQX0FHUEpXUmxvbWxRdV9Xc1VjVnhkSDhrVTI3Vm5UUkdTSG9Kc0lFVXNvZy1WZ0RUdm5aSV9OUnExLWQ4Mng2aVJTdXRkRDhZR2lSSDhLWFBBbE5FcWswZkdqTVc2NmtaX255R3NwRHNk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVmpuX3Q5NzlrYk1yX21RdW9NRjdITTd4bldrOVI4dDc4R3hQX0FHUEpXUmxvbWxRdV9Xc1VjVnhkSDhrVTI3Vm5UUkdTSG9Kc0lFVXNvZy1WZ0RUdm5aSV9OUnExLWQ4Mng2aVJTdXRkRDhZR2lSSDhLWFBBbE5FcWswZkdqTVc2NmtaX255R3NwRHNkQ3hkVHY1SkFEXzhyaUxjcjVBVGRCWmg0WlpUdHRrV2o5ZTNUb3RoZjlDV3NvV09BdTB6eENfSldDcjdCOHJpU09SMEYtSEVWOUHSAd4BQVVfeXFMT3ZYVGpydE9ya2VVRlJMMnpNWEdvcnJ2SnlHQ1VtLVFmQVU4a3B6clhJMlBSNmFKWVVJa1RFRXFQaVVudFlod201QUtnNzB0UlE1NlpxZmlhSE0tY01PTWxUcmpvSnlDUDJMNTFsdnppbVJCT1YwVkFhVlFBWmluUklURWp4elhYV2lnZEZ1YXRUc3ZSRGo5bjZQM0doMGhpRGVqSjA0M2lrTklSMDctbEdwdC1YYmlmd1hCR1dMRDNyVHZNOVUyb0FUV3VoSHh4OW9LT1VnVE1EUXhtOFhn?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "11/09/2026 14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Opinion: The world Is building a new digital economy without America or China - Fierce Network",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hOMlgyTUlQOG8xNFZfUV9ZM0lzVkg4OGZoR0M1NzRzelh4dUx2M0s2UG80OGVTZG04aXlqTnNadC1MUWh1QmhBR2VOa3N6ejViNmJPcTNNREJ6NzN2Y09TV21tSVhoOFdwdE5NMGNEMjhTS2gwLW1qQ0FwX0doN1U4Z0R1SlRoR0t6VXEwWHVJNlcy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hOMlgyTUlQOG8xNFZfUV9ZM0lzVkg4OGZoR0M1NzRzelh4dUx2M0s2UG80OGVTZG04aXlqTnNadC1MUWh1QmhBR2VOa3N6ejViNmJPcTNNREJ6NzN2Y09TV21tSVhoOFdwdE5NMGNEMjhTS2gwLW1qQ0FwX0doN1U4Z0R1SlRoR0t6VXEwWHVJNlcyaTJEcHBvMFFiOC1ZXzNlTkVPYw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "11/09/2026 15:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What Houthi Gains In Yemen Mean For The Iran War - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlE5UzZtMXlZUE1nTkRXTlN5V2FXSi1DZkRqMVZUaDRfRXF0cE5kVXU2TEhvSV9vWWpqMVJSQjlBcjRueFVlX3h5Rl81dWZrNG5ldWcwX0puS0w3bHJVRFdvUFk3NnUtTGd6OXVERWJhcUVuSUluWmxPZ1BzcmNnNC1BMjLSAYQBQVVfeXFMUEpROVM2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlE5UzZtMXlZUE1nTkRXTlN5V2FXSi1DZkRqMVZUaDRfRXF0cE5kVXU2TEhvSV9vWWpqMVJSQjlBcjRueFVlX3h5Rl81dWZrNG5ldWcwX0puS0w3bHJVRFdvUFk3NnUtTGd6OXVERWJhcUVuSUluWmxPZ1BzcmNnNC1BMjLSAYQBQVVfeXFMUEpROVM2bTF5WVBNZ05EV05TeVdhV0otQ2ZEajFWVGg0X0VxdHBOZFV1NkxIb0lfb1lqajFSUkI5QXI0bnhVZV94eUZfNXVmazRuZXVnMF9KbktMN2xyVURXb1BZNzZ1LUxnejl1REViYXFFbklJblpsT2dQc3JjZzQtQTIy?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "11/09/2026 07:04"
+        "data_noticia": "11/09/2026 13:16"
       }
     },
     {
@@ -1138,40 +1189,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSDFBSllVM3pZWVBqSlo3UGhUaVB2VXpyTXJMMUVpTmQ0U3NrMjVFblZDZHJnY3pKbHJ3S0l1aWRFMmJGYWR3eTBidlU3aksybDVpMWJxaXk5anI3OXYtREoxbXh3R0ZTZUJ2cklkQVlmNi1YX0Rz?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "11/09/2026 06:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran - Time Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFhUYUhHOUpHTEZrTmhmbllNR0s4WXJxZUlLZnVadWxmbXE5NGV0a2xzd3NLNDBRcW0wR2laRnpGUUNxTkppeW9CdzhZRFNjY1gyQWRIcTZMZFFqOGRseGE1TmxwSW9nMTdTNmVfcTMwSzd1bkZwOW85SUhMUVpZMEJlS05sX05rNGsxc1AzWEVjVm4w...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFhUYUhHOUpHTEZrTmhmbllNR0s4WXJxZUlLZnVadWxmbXE5NGV0a2xzd3NLNDBRcW0wR2laRnpGUUNxTkppeW9CdzhZRFNjY1gyQWRIcTZMZFFqOGRseGE1TmxwSW9nMTdTNmVfcTMwSzd1bkZwOW85SUhMUVpZMEJlS05sX05rNGsxc1AzWEVjVm4wTmhYVEZ3?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/09/2026 21:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF30gGQAUFVX3lx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF30gGQAUFVX3lxTFBlTGo4VFF4bjBsZE5NaGNTR0FQSVM1RWp2blpWM2ZZenVJNjZLMTRrS0JBSTBYXzhIaklhVldfWHdPR2x2NVF3cUVrd3hCTE1YanV5VGFkNG5LdmJtNmF3YklkbkdiT3NWQm5YQVEtTEhqMW9CRTdmV0ZTVVZYNzRhNXhKTVdEeUNLdEtEd1JKUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "11/09/2026 07:43"
       }
     }
   ]
