@@ -40,6 +40,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+        "descricao": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "19/09/2026 20:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+        "descricao": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "19/09/2026 20:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -101,91 +135,6 @@
         "url_fonte": "https://www.aljazeera.com/sports/2026/9/19/uefa-defends-policy-after-rejecting-irelands-request-not-to-play-israel?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "19/09/2026 15:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
-        "descricao": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "19/09/2026 13:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli attacks kill four Palestinians including son of Gaza’s health chief",
-        "descricao": "Eldest son of Munir al-Bursh, director general of Gaza’s Health Ministry, was struck by a drone outside tent in Jabalia.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "19/09/2026 12:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What’s behind reports that the Israeli army is low on troops, equipment?",
-        "descricao": "Israel&#039;s Channel 12 and Maariv newspaper claim the military is facing &#039;severe shortages&#039;.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "19/09/2026 12:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.1157,
-          20.2802
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-        "descricao": "The sanctions, introduced during the Biden administration, targeted Eritrea&#039;s governing party and the military.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "19/09/2026 12:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "descricao": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "19/09/2026 19:09"
       }
     },
     {
@@ -385,8 +334,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Yemen’s Houthis claim strikes on ‘sensitive sites' in Saudi Arabia",
-        "descricao": "\nA Houthi spokesman on Saturday said the Yemeni militia launched missile and drone strikes on \"sensitive sites\" in Saudi Arabia, including the kingdom's port city of Yanbu and the capital Riyadh. The statement came hours after residents and journalis...",
+        "titulo_evento": "Saudi Arabia says air defences intercepted Houthi ballistic missile targeting Riyadh",
+        "descricao": "\nSaudi Arabia on Saturday confirmed that Yemen’s Houthi rebels tried to attack its capital with a ballistic missile, the first targeting of Riyadh since the escalation in fighting with the rebels. The confirmation came hours after the Houthis said th...",
         "url_fonte": "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "19/09/2026 12:53"
@@ -482,23 +431,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Spain's police launch operation to clear migrants off Ceuta beach",
-        "descricao": "\nPolice on Friday moved hundreds of migrants from the beaches of Ceuta to a temporary camp in the Spanish enclave's port area. The police operation takes place weeks after a record influx of people into Spain's North African tiny territory. During th...",
-        "url_fonte": "https://www.france24.com/en/spain-s-police-launch-operation-to-clear-migrants-off-ceuta-beach",
-        "categoria": "Política (France 24)",
-        "data_noticia": "19/09/2026 09:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -522,7 +454,7 @@
       },
       "properties": {
         "titulo_evento": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
-        "descricao": "The Yemen-based Houthis said they targeted \"sensitive sites\" in Riyadh, hours after a blaze at a fuel depot near the Saudi capital's main airport.",
+        "descricao": "The Yemen-based Houthis said they targeted \"sensitive sites\" in Riyadh, hours after a blaze at a fuel depot near the Saudi capital's main airport. The Saudi-led coalition said Saudi defense downed a ballistic missile.",
         "url_fonte": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "19/09/2026 14:46"
@@ -560,23 +492,6 @@
         "url_fonte": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "19/09/2026 06:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1834,
-          21.5218
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Cuba faces another nationwide blackout amid US fuel blockade",
-        "descricao": "Millions were left without electricity as Cuba's aging power grid collapsed under the weight of fuel shortages, deteriorating infrastructure and US sanctions.",
-        "url_fonte": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Economia (DW (Alemanha/UE))",
-        "data_noticia": "19/09/2026 03:57"
       }
     },
     {
@@ -754,6 +669,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFlEOTJXSU1FRHBHMkppbC1WTnR4anE5QXpEWEdwano4Z21tWGRZVmgwYW5TMU5TY2xuU0RCejBOUXlzQW82Z1FqeXA0R0RpdWx0OVNSM19pTnR2VF81WEI2cWFyUmtsQ0lWU21hVktWYjhqbG04MHhhR1hYd3MweGZOMHAzdFVaTHpBVUlQZlRnQXdh...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFlEOTJXSU1FRHBHMkppbC1WTnR4anE5QXpEWEdwano4Z21tWGRZVmgwYW5TMU5TY2xuU0RCejBOUXlzQW82Z1FqeXA0R0RpdWx0OVNSM19pTnR2VF81WEI2cWFyUmtsQ0lWU21hVktWYjhqbG04MHhhR1hYd3MweGZOMHAzdFVaTHpBVUlQZlRnQXdhbWE3dC14MFd1YlpjY05Va1RTeVRiNF9ib2V0RG9KVnZ2MjU5cmxTcGMwYk9tLWhBT0ZEOEV30gHPAUFVX3lxTE9lSk9nV0t3bVFuSWoyTkw3LXBuN0lvTFYxaUwtMUtTMGdHWndKOEs5T0VJay0xT0gxYXAxWG1UWVpWUmNEV2Jld2lLWHh1WXlvYlpCMWRfVTQzaFl0c0JBb2ZCbHFYdWx1U0NiRUNzNk05X1lDblo4ZndtTlZsNW5ZNjlDNnpZd0ZFdVAwSk9JU0pTYWVKaGpnRXVGWF9VUmFQQWprd2doUmI4VTdxUm9oTmFxMlFYOFRXS042N3p5Ny1ZS09pY3NyXzlfcDdROA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/09/2026 20:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live - Iran says it wants Saudi-Yemen war to end after Houthis hit Riyadh airport - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5\" target=\"_blank\">Live - Iran says it wants Saudi-Yemen war to end a...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/09/2026 20:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -764,6 +713,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JPc2xzcDhQMWhGREtsMUlPTnpUNDJ6dDRGZ0dNb0NYYUlMVnVJcnoyb1ZKSUFMdmdrQTVELTdaR2huNVdkQU9KRkVZRUdUcTREU25LSTJoeGt1WG1EZzZfV1pOREZhVmtmT0I2NkZKaE9uZUhMekpvSmN2MWZuWjc4cTEzZ2JUd1RoandXSG9fMUZickh4Y25TVzV3UEVQcmduVWd1cXhOaDJkVjBraUVR0gG3AUFVX3lxTFAwY3hyelpiTHdEV000Vm1PXzJ5YVpIUldCZnRnWEJLelBBQmVUMDFVTkluRlcxemVBOWVVXzdoQURGNnhDTU5PWjFUSFcxcHIwMTVIOS1QWG50TjIxbDhFdG1yWFdRS3JQeTNQRWVMUEpMcDdRNGJzSVZILTZ3MjZVQS1FQ0tyVFRQV3R1MG5qTkVwY3E1Sk5kdDk0ZGk1bHRZemVobm53Q1pRWTktRUhLMnZ4M0s2WQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "19/09/2026 18:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon Is Undercounting US Death Toll Amid Iran War, Washington Post Reports - Truthout",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWlGWUM0NmI1ZXBoQU52dXZDRXZqdFJQanRNd3VKU2ZoeG5UejZ3RXhmcklPbW13UEtreFlUdTJBT0l4ZlpGVWJuSl82a3RMc191VDZuZzBmOXVIQTl5Y0tic2VUMXRlODhfVWVLMWhtNVV3UHhwU0ZSWWlZdTlZRkw4WGVmb0UwRVhzQnV1d3pqR1ll...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWlGWUM0NmI1ZXBoQU52dXZDRXZqdFJQanRNd3VKU2ZoeG5UejZ3RXhmcklPbW13UEtreFlUdTJBT0l4ZlpGVWJuSl82a3RMc191VDZuZzBmOXVIQTl5Y0tic2VUMXRlODhfVWVLMWhtNVV3UHhwU0ZSWWlZdTlZRkw4WGVmb0UwRVhzQnV1d3pqR1llcE5SdjRvdGM5VWd1Z3JYamU0TmtJUGNF?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/09/2026 19:06"
       }
     },
     {
@@ -793,11 +759,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war causes global pain at the pump - Axios",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5\" target=\"_blank\">Iran war causes global...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5",
+        "titulo_evento": "Mohsen Rezaei Says Iran Sent Conditions Via Qatar To End War With Donald Trump: how 15 outlets framed it - NewsCord",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2JocExfOXE2b2YtaDBsY3c2UUwwLU9OM0I1dmRIY25ZNzU4Y1dvYkVGcmdwaU5kSWhvQkZBWjBTUVJMc0lxamgxTGJjWEhIWGdPcWZScWI0cUFTNEZPSDBaWXB5bkJtWEQ5LXZsWEJGQmxKYnpuNm84YkNOYTZ6c21PS3pONk5meFIxeHhLcDVwM29R...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2JocExfOXE2b2YtaDBsY3c2UUwwLU9OM0I1dmRIY25ZNzU4Y1dvYkVGcmdwaU5kSWhvQkZBWjBTUVJMc0lxamgxTGJjWEhIWGdPcWZScWI0cUFTNEZPSDBaWXB5bkJtWEQ5LXZsWEJGQmxKYnpuNm84YkNOYTZ6c21PS3pONk5meFIxeHhLcDVwM29RN0F2S2M0cXFwSGw0UzNNY2VtNlpXbFJDNTBobnk4N0hTaGdIVUlWeTFYLWxkekdDdlZvYmtLaXVUb3hmMkVnNl9IMlBRUXd2VmRHNGhBdHc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 13:01"
+        "data_noticia": "19/09/2026 19:24"
       }
     },
     {
@@ -805,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1G...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1GSTJIVnpXLU00eVhuLUJ4V2llajVJdlJoN2EwXzhtTkwycklCS3dnNkRMd056Qm5Bd0N2MndkU0FBaTlRZEE?oc=5",
+        "titulo_evento": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJsN1hQVG5jd3Q3RDhrV2RCM3Z3d1pIcTd2U3N1VGlvekdySll1bnFwRHZjUDV2bHg4UUNaSDNKamFMNlhxOXVOa0RTXzRYV0xmQUpja3EyRVphZW1qSGlKOEtjNUs4MkJYS0h4d2dQMFI2VlE2aFFOT2tMVTN1VmtlZWJyXzdLMWFudmdWc1lMQjZu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJsN1hQVG5jd3Q3RDhrV2RCM3Z3d1pIcTd2U3N1VGlvekdySll1bnFwRHZjUDV2bHg4UUNaSDNKamFMNlhxOXVOa0RTXzRYV0xmQUpja3EyRVphZW1qSGlKOEtjNUs4MkJYS0h4d2dQMFI2VlE2aFFOT2tMVTN1VmtlZWJyXzdLMWFudmdWc1lMQjZu?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 01:23"
+        "data_noticia": "19/09/2026 14:35"
       }
     },
     {
@@ -827,26 +793,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Live - Iran says it wants Saudi-Yemen war to end as airstrike hits Riyadh airport - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5\" target=\"_blank\">Live - Iran says it wants Saudi-Yemen war to end a...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 17:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin says Europe is 'preparing for war' - France 24",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBFNGl0MWt5bmNKNFBYc2poLUJFY0FJOW84T0lsUWJvdjVKR2xGZ3ltTjJsYzlKNmE3UWtmSklzMHpaMFV3Zi16SkJRR1BXSzFYcWxucmpFb0JxRUo5cl8wLWFNcDlFTVEyWGh1QXJPQTNhVG1I?oc=5\" target=\"_blank\">Putin says Europe is ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFNGl0MWt5bmNKNFBYc2poLUJFY0FJOW84T0lsUWJvdjVKR2xGZ3ltTjJsYzlKNmE3UWtmSklzMHpaMFV3Zi16SkJRR1BXSzFYcWxucmpFb0JxRUo5cl8wLWFNcDlFTVEyWGh1QXJPQTNhVG1I?oc=5",
+        "titulo_evento": "Iran war causes global pain at the pump - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5\" target=\"_blank\">Iran war causes global...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnanlKeWpKZ2FjZG5NZkk5c28zekxlMWFQeU9iSzRfRGUzOFFyWjctVHZTdnpOYjNyNzRvNzhqTm9iRWlNTEpMc0JrWXpqN3RMQWpnSHk3Qy1BQkRUeXBNckNrcjBPVWhkX0lMVV9qa0FSck0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "19/09/2026 13:01"
       }
@@ -873,16 +822,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "US-Iran war: US CENTCOM provides latest update - LiveNOW from FOX",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZN2huS01HR2VTWUxXVE1pUnJqaEF1Mmc3YzhORVBMYjVDdnFtWW5rTlhPQjB2b1JMYXRBb0x3aEUtWl9oNWNtQnZzRmFoN1k1N2FGaEZFSWtFMEpKUUJCRk1zRdIBaEFVX3lxTE9Rb1NRdlkzNFMzT0VtaGZaaUs1anVkalcxdWFYUldkTzJUdEU1VnlY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZN2huS01HR2VTWUxXVE1pUnJqaEF1Mmc3YzhORVBMYjVDdnFtWW5rTlhPQjB2b1JMYXRBb0x3aEUtWl9oNWNtQnZzRmFoN1k1N2FGaEZFSWtFMEpKUUJCRk1zRdIBaEFVX3lxTE9Rb1NRdlkzNFMzT0VtaGZaaUs1anVkalcxdWFYUldkTzJUdEU1VnlYWGxCMWFneXd0V1ota3YxeFl6OE41VGxJNFpmLTZmN3piTGpncGYtbTk1ZVg3SktNT0RXa3daNW5k?oc=5",
+        "titulo_evento": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1G...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1GSTJIVnpXLU00eVhuLUJ4V2llajVJdlJoN2EwXzhtTkwycklCS3dnNkRMd056Qm5Bd0N2MndkU0FBaTlRZEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 16:39"
+        "data_noticia": "19/09/2026 01:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin says Europe is 'preparing for war' - France 24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBFNGl0MWt5bmNKNFBYc2poLUJFY0FJOW84T0lsUWJvdjVKR2xGZ3ltTjJsYzlKNmE3UWtmSklzMHpaMFV3Zi16SkJRR1BXSzFYcWxucmpFb0JxRUo5cl8wLWFNcDlFTVEyWGh1QXJPQTNhVG1I?oc=5\" target=\"_blank\">Putin says Europe is ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFNGl0MWt5bmNKNFBYc2poLUJFY0FJOW84T0lsUWJvdjVKR2xGZ3ltTjJsYzlKNmE3UWtmSklzMHpaMFV3Zi16SkJRR1BXSzFYcWxucmpFb0JxRUo5cl8wLWFNcDlFTVEyWGh1QXJPQTNhVG1I?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "19/09/2026 13:01"
       }
     },
     {
@@ -907,33 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.006,
-          40.7128
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJsN1hQVG5jd3Q3RDhrV2RCM3Z3d1pIcTd2U3N1VGlvekdySll1bnFwRHZjUDV2bHg4UUNaSDNKamFMNlhxOXVOa0RTXzRYV0xmQUpja3EyRVphZW1qSGlKOEtjNUs4MkJYS0h4d2dQMFI2VlE2aFFOT2tMVTN1VmtlZWJyXzdLMWFudmdWc1lMQjZu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGJsN1hQVG5jd3Q3RDhrV2RCM3Z3d1pIcTd2U3N1VGlvekdySll1bnFwRHZjUDV2bHg4UUNaSDNKamFMNlhxOXVOa0RTXzRYV0xmQUpja3EyRVphZW1qSGlKOEtjNUs4MkJYS0h4d2dQMFI2VlE2aFFOT2tMVTN1VmtlZWJyXzdLMWFudmdWc1lMQjZu?oc=5",
+        "titulo_evento": "Slovak PM Fico says some in West seek war between Russia and NATO - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHpGY0o4UF9tTDFQQm5xOGZGdzlRakc2UlNOMVNkbEF1TU1QeHRwREg4ZUNQMGo2M0FnSUlyUm0ycjlOZk41UDV4c3p5cDAxZXBxYTUyNUJUcnYzNVhEcmRBWFdsZ1Z4ZGFIcWNRNHFlUGZkVlVoRnlXTEpPY2J1T2JHTTVaMU0ya1FncEQ3YzJjb016UFBsM3NGZkljZl9SU0E?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 09:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEN6dENZWXNKc3hUbHNkam4xZVFXczdUV3dEclJfV0phWXNxS0NVcWl6aEhlM2thb19zdlFtcVhFMmk1Vkk1cF9DLWVpa3EtQ3RNUk84aFpfSjRjNTZURVRwQ0k1SDQxb2otdFlFLVh4YXBnZnN5Y3NKZnJPLWphWkY4TDlRUjVUOWVLU2JRalUxdmYx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEN6dENZWXNKc3hUbHNkam4xZVFXczdUV3dEclJfV0phWXNxS0NVcWl6aEhlM2thb19zdlFtcVhFMmk1Vkk1cF9DLWVpa3EtQ3RNUk84aFpfSjRjNTZURVRwQ0k1SDQxb2otdFlFLVh4YXBnZnN5Y3NKZnJPLWphWkY4TDlRUjVUOWVLU2JRalUxdmYxd3NscEN6V2xzZzQ2UjJkR3pwZHhvZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 06:39"
+        "data_noticia": "19/09/2026 19:11"
       }
     },
     {
@@ -951,23 +900,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13dDFfQ0VxZ1o4cjdYeV85aDQzMTRhRVBIbm1oN1dFMnhBRlVlckxIZk05WmcxbDg0VjdiX1Ayb05NZE45OGFpaUc0OA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "19/09/2026 10:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A Small Country’s Huge Windfall from the War in Iran - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9yeEctVlotRFZjaWw1Q09IaXRKYXQwRTJPRjBpUFluYVhiTVh6S2JjbmRLRVlNY2RDS3h6WHo4UXZ1dWUtMXdIaW1WVEluMEZWQ0k2VC12ZVBBMXo1UDJZdVk5ZFBfRENXbkR6RmlWT0xNOWt4aktpcm9B?oc=5\" target=\"_blank\">A Small Count...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yeEctVlotRFZjaWw1Q09IaXRKYXQwRTJPRjBpUFluYVhiTVh6S2JjbmRLRVlNY2RDS3h6WHo4UXZ1dWUtMXdIaW1WVEluMEZWQ0k2VC12ZVBBMXo1UDJZdVk5ZFBfRENXbkR6RmlWT0xNOWt4aktpcm9B?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "19/09/2026 13:47"
       }
     },
     {
@@ -1026,16 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Editorial | Global monetary tightening tests China’s 2-speed economy - scmp.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFsOC1FY3lEeEgybXRNX0gzOHc5T2JOX1VRWlI3NjdnSzA0SlJBT0p4QkxYVUVtcURPYXlsaE5jT0JidUxtQUQtTlVDY0JuT2t6MHZnMkRvSno2LXV4b2s0UFlWRENhRExERlZMZS1ISU5oTmdjX0tsejJOV0ZpMHlWd0E3b1Vpdm9LNXZYNHdTQ0tO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUFsOC1FY3lEeEgybXRNX0gzOHc5T2JOX1VRWlI3NjdnSzA0SlJBT0p4QkxYVUVtcURPYXlsaE5jT0JidUxtQUQtTlVDY0JuT2t6MHZnMkRvSno2LXV4b2s0UFlWRENhRExERlZMZS1ISU5oTmdjX0tsejJOV0ZpMHlWd0E3b1Vpdm9LNXZYNHdTQ0tOU0o2cHpVanRtSjdVV3UxTFhQS2cyQVEx0gGsAUFVX3lxTE55eWxfc3pPaXBCTGFUVk1VbEJrc3FxTF9IakpUdENrQ01hdUwxNWtGWWtxWHZ0N0hHODVfZWU1d3h6STJRUFh0TDNmMDhLS3hwLV9sN1kzcUxwRm94RVdsTkwwWnhEWWRxTzF3T3ZUalVvdXVraVl0Q2JITTZpNjg0R3U3Wi1PTXgzbnBIcWdCcENsLU9PcDU2Z2tZX0xhWHBWbTgtWUtnMkpjQ0U?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/09/2026 23:15"
+        "titulo_evento": "World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - Business Insider Africa",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tKVDlwRFlMOUwtaWZoQXgxQTdyaUw3WktLRHRONGFESWZaQURBc2J5d2tpMnY2ZTFSaGQ1WW9fcHZORldoaDFHeA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "19/09/2026 11:30"
       }
     },
     {
@@ -1048,28 +980,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Canada Takes Page from Emerging-Markets Playbook: New Economy - bloomberg.com",
+        "titulo_evento": "Canada Takes Page from Emerging-Markets Playbook: New Economy - Bloomberg.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVNTRXMzS2ttamY4TklRZnlVMmF3eDU3YVBhcWtLYnQzZkJBVVBDX3lDN0dNdDlnLWV0VVp1ZFRzS3lQd21GUEgwWXRMdnJGRUY0X3VNLUNCSTlHWEItMTgyOFlQQXZod2REb2JCbVJ6azIwNlJzSWh5Wks3S2Y1OUEtVDREZUxybjREa1k2NGdGTGNx...",
         "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVNTRXMzS2ttamY4TklRZnlVMmF3eDU3YVBhcWtLYnQzZkJBVVBDX3lDN0dNdDlnLWV0VVp1ZFRzS3lQd21GUEgwWXRMdnJGRUY0X3VNLUNCSTlHWEItMTgyOFlQQXZod2REb2JCbVJ6azIwNlJzSWh5Wks3S2Y1OUEtVDREZUxybjREa1k2NGdGTGNxRjBMN09nM3FOY1Z5a3FuY0I0SXM2S1VoQy1nLVNxaG8?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "19/09/2026 10:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - africa.businessinsider.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tKVDlwRFlMOUwtaWZoQXgxQTdyaUw3WktLRHRONGFESWZaQURBc2J5d2tpMnY2ZTFSaGQ1WW9fcHZORldoaDFHeA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "19/09/2026 11:30"
       }
     },
     {
@@ -1082,7 +997,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "AIT head warns world economy needs Taiwan - taiwannews.com.tw",
+        "titulo_evento": "AIT head warns world economy needs Taiwan - Taiwan News",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LRE5FcXVEamJzQ1VEMDEtSkZRbERidVJDMXE3Z1hpZFgwSnhVNGlPcUtXajA3X0NhRFNEdDQtSWtjM21sM0dZMFZjU3V0dml2Yzh6b1JtaTc?oc=5\" target=\"_blank\">AIT head warns world economy needs Taiwan</a>&nbsp;&nbsp;<...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LRE5FcXVEamJzQ1VEMDEtSkZRbERidVJDMXE3Z1hpZFgwSnhVNGlPcUtXajA3X0NhRFNEdDQtSWtjM21sM0dZMFZjU3V0dml2Yzh6b1JtaTc?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
