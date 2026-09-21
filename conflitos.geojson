@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+        "descricao": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/09/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Polls close in Russian wartime election with ruling party set to dominate",
+        "descricao": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "20/09/2026 22:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -63.6167,
           -38.4161
         ]
@@ -125,47 +159,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says monumental arch in Washington, DC will also be military complex",
-        "descricao": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "20/09/2026 15:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-        "descricao": "A Venezuelan rescue dog has been honoured with a statue for his search-and-rescue work after earthquakes in June.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "20/09/2026 14:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           13.405,
           52.52
         ]
       },
       "properties": {
         "titulo_evento": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "descricao": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+        "descricao": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "20/09/2026 20:21"
@@ -356,6 +356,23 @@
         "url_fonte": "https://www.euronews.com/2026/09/19/russians-leave-before-election-ends-fearing-mobilisation-to-follow",
         "categoria": "Política (Euronews (Europa))",
         "data_noticia": "19/09/2026 07:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
+        "descricao": "\nFrench President ​Emmanuel Macron and Canadian Prime Minister Mark Carney on ​Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and Miquelon, a French territory off Canada's Newfoundland. The fi...",
+        "url_fonte": "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/09/2026 02:16"
       }
     },
     {
@@ -771,6 +788,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany: AfD wins in northeastern state, Left in Berlin",
+        "descricao": "The far-right AfD has come first in the state election in Mecklenburg-Western Pomerania, with Chancellor Merz's CDU failing to enter parliament. Meanwhile the Left Party took first place in Berlin. DW has more.",
+        "url_fonte": "https://www.dw.com/en/germany-afd-wins-in-northeastern-state-left-in-berlin/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "20/09/2026 06:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -798,6 +832,23 @@
         "url_fonte": "https://www.politico.eu/article/russias-secret-plan-to-supercharge-kamikaze-drone-production/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "20/09/2026 20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "EU wants ‘closest possible’ relationship with Canada, Costa tells POLITICO",
+        "descricao": "The European Council president said the EU and Canada can work together on defense, AI and strengthening democracy. ",
+        "url_fonte": "https://www.politico.eu/article/eu-wants-closest-possible-relation-with-canada-antonio-costa-tells-politico/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "20/09/2026 17:00"
       }
     },
     {
@@ -856,33 +907,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Germany cuts fuel tax as Middle East conflicts send prices soaring",
-        "descricao": "Germany issues its relief measures as its finance minister calls on Brussels to draft a windfall tax proposal on oil companies.",
-        "url_fonte": "https://www.politico.eu/article/germany-fuel-tax-middle-east-war-prices/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "19/09/2026 11:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Inside the secret race to become NATO’s next top general",
-        "descricao": "Germany's Carsten Breuer and Canada's Jennie Carignan are battling it out to become to next chair of NATO's military committee.",
-        "url_fonte": "https://www.politico.eu/article/nato-chair-military-committee-carsten-breuer-jennie-carignan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "19/09/2026 09:09"
+        "titulo_evento": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+        "descricao": "In a meeting on Sunday, the U.S. Treasury secretary and China’s vice premier talked about having a shared vision on the goals of artificial intelligence and the threats it poses.",
+        "url_fonte": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+        "categoria": "Defesa/Conflito (NYT Business)",
+        "data_noticia": "21/09/2026 01:07"
       }
     },
     {
@@ -933,7 +967,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhq...",
         "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhqQjhERE9xcXFQQ20zNEtlbw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 21:22"
+        "data_noticia": "21/09/2026 02:12"
       }
     },
     {
@@ -941,16 +975,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Hassett on Iran war: ‘The president had to act’ - thehill.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lxTFBPZzQ3T1lEMWlEX2hCS3dRUklXbXFvWWJDVW4zaVBqaVJiOHdUdFREWUtuWGtPWkQ2bVVscmdZemVfZjRYVm4wSEQzRjR2Z21SaGo1U0tmM2gxQl9EOE5JWjhVcFF1UnRmWFpzSnU4QmxLS1EweUpJdVhmTGs1bFN5Y2w3RDdHSl9HRC1rcnRfTw?oc=5",
+        "titulo_evento": "Ukraine war briefing: Russia to ‘intensify’ attacks on Kyiv after Moscow hit with mass drone strikes - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQay1qMGdPTVg4TGs1T2xrR0VER2x1QjF0LUZVeFIwcmxVRTM1SGM5NERHdjROaHZGXzlVWkFZUTMtdVFweHljaG1HMXBRNG1aUzBURG5ZNkJpdnhzVE1tOXdHY1NQcV9xWGtCVnVrSmwtVGVzMjdMTUNreFh5cXZOOU85amMzUHFBZWNNMlpFXzJFWER6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQay1qMGdPTVg4TGs1T2xrR0VER2x1QjF0LUZVeFIwcmxVRTM1SGM5NERHdjROaHZGXzlVWkFZUTMtdVFweHljaG1HMXBRNG1aUzBURG5ZNkJpdnhzVE1tOXdHY1NQcV9xWGtCVnVrSmwtVGVzMjdMTUNreFh5cXZOOU85amMzUHFBZWNNMlpFXzJFWER6Y3NwQ1gzM3Y?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 19:20"
+        "data_noticia": "21/09/2026 01:14"
       }
     },
     {
@@ -967,7 +1001,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzdJU2JhWEZuZm9GdVhta2pyZHg1LTNZS2dNdm03UWtYQWZPV0wyNXVfV0NNeHZmVDRMTy1jcDYyTENiZWQ1V0Y1YURyeTY1UmwzV2U3RlVPS2poQlEtZFloUVl2a2Z0MEk0Qjl1VG8tX0pHa3dvOFBlbFpKeWg0ajhnVHpDOUsyTDkyZFVQTkMwUdIB...",
         "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdzdJU2JhWEZuZm9GdVhta2pyZHg1LTNZS2dNdm03UWtYQWZPV0wyNXVfV0NNeHZmVDRMTy1jcDYyTENiZWQ1V0Y1YURyeTY1UmwzV2U3RlVPS2poQlEtZFloUVl2a2Z0MEk0Qjl1VG8tX0pHa3dvOFBlbFpKeWg0ajhnVHpDOUsyTDkyZFVQTkMwUdIBlwFBVV95cUxQWGxsOXJVWmlZbGQ2VkRSTzJoUWhRbTg3TWJqNmZoamc2LUJwMkJSdnF2UVlRV2ppbTExbTVYZXRPaGdMcVcwVXVFOXhUMDFEWFZkdFRlenVnWnJpdTFGXzZOSkNEbDJ0NlF6dTZNem1BSEVmN3dHa1pSc0JkNk1qeU9mWkNzWTlVSmJjRWNvcEt5YnFVeDVV?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 20:32"
+        "data_noticia": "20/09/2026 22:57"
       }
     },
     {
@@ -980,11 +1014,113 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran and US trade threats after Houthi attacks escalate regional conflict - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
+        "titulo_evento": "Hassett on Iran war: ‘The president had to act’ - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXhBWGhlUVJPQTBVVDhmaVZERzJ1U3FPbWhXX0c1ODRfNTFSNXVXQ25YUWhtYjN0c2ZWNDVJTGVMdk5sRi02MlgtWXdhdHNHSERZSTdkblhMNWh5TzFiMjFSTXQ5eExxWTZQOHRPQ2hyd1RyTU5FYTdCYXhHVmZSdHdnZm1SSTJDaUxn0gGQAUFVX3lxTFBPZzQ3T1lEMWlEX2hCS3dRUklXbXFvWWJDVW4zaVBqaVJiOHdUdFREWUtuWGtPWkQ2bVVscmdZemVfZjRYVm4wSEQzRjR2Z21SaGo1U0tmM2gxQl9EOE5JWjhVcFF1UnRmWFpzSnU4QmxLS1EweUpJdVhmTGs1bFN5Y2w3RDdHSl9HRC1rcnRfTw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 17:46"
+        "data_noticia": "20/09/2026 19:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Houthis attack Saudi Arabia capital: Yemen's Houthi rebels attempted Riyadh attack with ballistic missile as Iran war continues - ABC7 Chicago",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXpjWGk2N1NwYl96N1BNaWdJWDdNOFl5WHQyTmF0RmNUN2IwY0FnLWJNZDlIRkxNeG5hNmx1X1l0YzMtZXAxZFJwY2xIaDJYVVBhclE4eFl1WjlTZ21mX2VOeWlSUXppQ1BWcG9OUVN4cFpvck1QNjV0UzJrTHVwMjA1ZWxNNmVKS1ROTHpYck9YcGdK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXpjWGk2N1NwYl96N1BNaWdJWDdNOFl5WHQyTmF0RmNUN2IwY0FnLWJNZDlIRkxNeG5hNmx1X1l0YzMtZXAxZFJwY2xIaDJYVVBhclE4eFl1WjlTZ21mX2VOeWlSUXppQ1BWcG9OUVN4cFpvck1QNjV0UzJrTHVwMjA1ZWxNNmVKS1ROTHpYck9YcGdKbTJfWXprZjZGbWNWQ0tHSFJOenVCT2R3WjJtb0k2ajhqekpIWUlpM25MRVVBNk9sc2RhY2swaHMtWnNQQXJVOVR0dGFHdllxTzdKTk80TdIB6AFBVV95cUxQZXlHc0tzenoxWDRObVNVQVZfb0xEUlFMemJQVUpXUGhXS3piLVpEeHYxbG5LUmlmcjZKaHFoNUdPbnZUM0sxamtDMjdxeWNWcS12SGc1dVFETEx3blVJZE5FS18xSElFcG1VSloyZUN6V1hZQTYyY09ZeGpMR2hsY3ZLSTRwdVNlYldiNVU0TmZmbzdFN0J5eG1BZnJUS3ozbWFjVGN3aUx1RmFFcXpDajRGQ2E1UkNvRnctWlo3QjFSOWlGakNjZm1hYXBjODZKalcwTkpQSWVXODdYd1Jza1llM3BDd1FU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/09/2026 16:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran issues new retaliation threat against American military bases - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFNLQ1RiMzB3OURIcDhqVGtlSXVJcmNSZ0JwX0dtakhvVGxQX1dadWxGQkFFQXQ0UUZxQXdWUlh1cFFMS3lfZXBQaVluendwUGFRM1pqOTE1YVpkeklFMlFWMWMzSTE2cHowcUdXaUFONjQ4djRXTmcxbXhKaGhuY3ZGb2F4bW1Ta3pCZzIwU2FBV2cw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFNLQ1RiMzB3OURIcDhqVGtlSXVJcmNSZ0JwX0dtakhvVGxQX1dadWxGQkFFQXQ0UUZxQXdWUlh1cFFMS3lfZXBQaVluendwUGFRM1pqOTE1YVpkeklFMlFWMWMzSTE2cHowcUdXaUFONjQ4djRXTmcxbXhKaGhuY3ZGb2F4bW1Ta3pCZzIwU2FBV2cwZXRlSmxMTGxDNEJXRjVBaWs0S3B4b0U5Q3B0WEE2cG9yaW9veHBUVU5xcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/09/2026 22:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump announced \"very important developments\" in the war with Iran - Українські Національні Новини (УНН)",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmRWa0dFMDMyM0xFbDU5SHQ4dm1IT0VtZ3hqXy1MNXVCV1FCY2FhTnh3UHhCSElWcXNqZWtaMDJWaGM5VU5HbERsQ185d2ZCTllxbk5uLVFoUTVoNnVTMnYyb0wtMG5ydlJXdFRsdUxNUFpMUnZRdURIT0x5OXhOQ3pQVVY1Z3N3RUw4aEZ1M0PSAY8B...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmRWa0dFMDMyM0xFbDU5SHQ4dm1IT0VtZ3hqXy1MNXVCV1FCY2FhTnh3UHhCSElWcXNqZWtaMDJWaGM5VU5HbERsQ185d2ZCTllxbk5uLVFoUTVoNnVTMnYyb0wtMG5ydlJXdFRsdUxNUFpMUnZRdURIT0x5OXhOQ3pQVVY1Z3N3RUw4aEZ1M0PSAY8BQVVfeXFMUDFHQ3Nnc18tMEVhT0lUNFp5STJJbzdTRXlDZGVzSkhsRjZKZ3VXXzVXcVh2YmRpdUdBY3dUZExyT1k4MG9MZTFsaUxvbXpBNl9tbzdLM094TXM2S0FVRkpmTEdjMS1UVjIxUVBjdkhLUkQ5RmpaLUg5S1JTaS14SkVxM29yc21jUng4OXRSeTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/09/2026 00:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says planned 250-foot arch will be ‘military complex’ for drones, snipers - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/09/2026 02:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says monumental arch in Washington, DC will also be military complex - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082T0ZzWGdCd2VnOWFyM01kUW5GV25rOVhPWFRJUTl5QlnSAboBQVVfeXFMTXVzWGN0QUJCTHctazg1RGlkWE02OWpFeGFNMS1ZTkxVWUlCWHBKSDFWV0xrWGRIS0V2d05qeUFjUkh1M1pHbldPYnludGFnWm81YnFpR3gxdXVhZFJSelZzMTlWdnZMSWdNY0ZzV1dhWldtMUR2QjFkaTc1QjJoU2Z6X2xLSlN0b3FRMWtMYkpiREVSMDZHU01EZjluUzIxSzVQYVVDb0hEQXlzVmhVYjlITTBua2lSS21R?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/09/2026 21:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’ - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/09/2026 20:16"
       }
     },
     {
@@ -1026,125 +1162,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’ - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 20:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump wants to use Washington arch as military complex for drones and snipers - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0NSWXh5Yk1oTE53RXhpcE14ZHRTUUl2Rzlhbkhhb0wyLXJYdkR4azJXbkxZRENxRTRTNkEyX2xHQTlTLUtTSFhZM0xqMlRJSTdvWUcyOTljYjUtY2tJYTRJcnpwMXNXSjU5VnRpN1JMMVRRS01ZTjZTUklacUQxSWZObk9FOG0xak9lazNlcFhTcFZyRjFxR1hVQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 18:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says planned 250-foot arch will be ‘military complex’ for drones, snipers - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG01QmJRWlVMc2lLZEo5NVhTZ1VpTHhfaDBTWV8yaXI5MFZJcS1Id251OWxoZmRUWkg5aWRaMjJUdXZiWnY2WjNTUm9CMHg3QXNPbFpQakV5WW1uVWktam1BNmI4Tkk5ZGw5V3p6SlNoYlhjeWpWYVRfWXgzX3lHRUdYNW9XWlM0U0dVdFB1Nm44R2d2YWtObG8ydlhoWG9CM1FZNFp5LWJTb0p0bXhCeFd0TE1ldw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 22:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says monumental arch in Washington, DC will also be military complex - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhlWmRoczFDS2ZTZThZOUtjd29iQXptS3NGSHpwaWlZMXR4UHlTTWdJbkxYR21zMm9JYVhrYjhhdk92X3NNcGcxVG9zV01VbnVVSDJoVkVXX3JBSHhxc0pmWUdYNEE3TjhSdDc0M2lJV0dpeFlhMnMxSERnWHNoYmFUSHJhTy1vWTBacldROUtmR082T0ZzWGdCd2VnOWFyM01kUW5GV25rOVhPWFRJUTl5QlnSAboBQVVfeXFMTXVzWGN0QUJCTHctazg1RGlkWE02OWpFeGFNMS1ZTkxVWUlCWHBKSDFWV0xrWGRIS0V2d05qeUFjUkh1M1pHbldPYnludGFnWm81YnFpR3gxdXVhZFJSelZzMTlWdnZMSWdNY0ZzV1dhWldtMUR2QjFkaTc1QjJoU2Z6X2xLSlN0b3FRMWtMYkpiREVSMDZHU01EZjluUzIxSzVQYVVDb0hEQXlzVmhVYjlITTBua2lSS21R?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 21:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What are Iran’s latest conditions to end its war with the US? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 11:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war latest: Zelensky approves 'new long-range operations' in response to Russian strikes - The Kyiv Independent",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTVPdENKR2ZrU0xBRFhmNDY0UTg0ZTVNUTNpZmpNc0dnZ3lCTjlLTkNSZ1RiYUQtQVdBMnA3Zlp0akpzcnRMRHR5dWQ3UTBjUDliZ2lsSkpVVlA0V3lBd0QyZUFGQUkzcGRiV1pOT2hhdll6WjB3WVR5cWFiZVBvMjVRVFZrY0tJVVhVNTdiSl9TRTlp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTVPdENKR2ZrU0xBRFhmNDY0UTg0ZTVNUTNpZmpNc0dnZ3lCTjlLTkNSZ1RiYUQtQVdBMnA3Zlp0akpzcnRMRHR5dWQ3UTBjUDliZ2lsSkpVVlA0V3lBd0QyZUFGQUkzcGRiV1pOT2hhdll6WjB3WVR5cWFiZVBvMjVRVFZrY0tJVVhVNTdiSl9TRTlpMFJ1SlJjTWh1V2NBb3R5X0RiQUFjakFfZFBONUhlVUlBbUlLWTdCVGdDYw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 19:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump on Iran: ‘My question is, if and when do I blow the entire nation up?’ - thehill.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxON0JOdUNQRDZsVXRobGZfaWRXRy1ERWRvU0lTQzRzNmtsTng1SFdlWklocTBPbDNKYzM1VzZTRDlfUGl4T0s3UE9yUGNGMkRIdnVHUGJUZWZRT0twREJDV2t3ZTFiQUhmY1RDSlNHZkx3b0w2cy1RdnItc05yMEJMX2FncEjSAYoBQVVfeXFMTWFVN005...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0JOdUNQRDZsVXRobGZfaWRXRy1ERWRvU0lTQzRzNmtsTng1SFdlWklocTBPbDNKYzM1VzZTRDlfUGl4T0s3UE9yUGNGMkRIdnVHUGJUZWZRT0twREJDV2t3ZTFiQUhmY1RDSlNHZkx3b0w2cy1RdnItc05yMEJMX2FncEjSAYoBQVVfeXFMTWFVN005dVhEd1VOc2RzMWEzZUV2Zks3WXRONUVaRXFoTjczNmF6ZTNHZXVfbjdMZ1hXanVIdVRLQXJrNEdoZzV3a2hlN1U5OTREbENZZm1lc0E5U2MyRkpNOEdRQU5YVVVtYjk4QmFCcHhiZTg1dU9QVURtQkRoMjA2eTkxODBlMzlB?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "20/09/2026 15:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1162,16 +1179,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.05,
-          40.0
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the U.S. - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWtEQzVrUmhneDRnTXZiSTAzb216MUpQZGdLLTFtaTJqT29BM2VZczZmLUU0ekRDVjlEX01HT3RqOHhtekQtUU5mSHo5dU1odDdLMXotTVdCVjZzMkJyZm5oQmhpU2NIb05FaW8xaWRkWWVXLWVBWHNfM2FFTjNaeUlDSG1yb19JRjQ2NWZLZndLXzVr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWtEQzVrUmhneDRnTXZiSTAzb216MUpQZGdLLTFtaTJqT29BM2VZczZmLUU0ekRDVjlEX01HT3RqOHhtekQtUU5mSHo5dU1odDdLMXotTVdCVjZzMkJyZm5oQmhpU2NIb05FaW8xaWRkWWVXLWVBWHNfM2FFTjNaeUlDSG1yb19JRjQ2NWZLZndLXzVrSE0tVU4xa0w4RnRFTHF1Njk2dmw4MlN2MmluMHNGSUZ2V2RiOHI4bzhWYWtIVlNscTJR0gHHAUFVX3lxTE55a0RDNWtSaGd4NGdNdmJJMDNvbXoxSlBkZ0stMW1pMmpPb0EzZVlzNmYtRTR6RENWOURfTUdPdGo4eG16RC1RTmZIejl1TWh0N0sxei1NV0JWNnMyQnJmbmhCaGlTY0hvTkVpbzFpZGRZZVctZUFYc18zYUVOM1p5SUNIbXJvX0lGNDY1Zktmd0tfNWtITS1VTjFrTDhGdEVMcXU2OTZ2bDgyU3YyaW4wc0ZJRnZXZGI4cjhvOFZha0hWU2xxMlE?oc=5",
+        "titulo_evento": "What are Iran’s latest conditions to end its war with the US? - aljazeera.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXlIb3YxTktUQTlDd0JLTUlzNWhFS0Y4bk5DSnJiMlRINzFQWGRUNjZ5bi1UV3g0V0xfR3NHTjJhVXpHMGhIY0U5UHBNaDlFdnZBU0JWRDhBSElMN0gwY2s5M1hvb1hHVHZrdldWbWVRUWJubk1oV0lERG9pNUtlbXdsT0RmbkFvZHVYMzNWeG1yVFpCU051RE96M3Y4QdIBowFBVV95cUxQRjdic3M2Y1pJTEtTeTF6T2JVdm9IX1lmeHRkelZSWVlwNVhRc3RlUl8tRTBvb2lFMHBiZXY4a3dCZjRiY0d2MWlyR0NBWXVjajVhR19uYkVVTW9JSVdSMF9CTlp1MF9taWxHQ0VXREt2M21oTkFmTy0yLTZOOTFwcDg2VmQwWmQzbWNMd2dDbW91R0g4by1WWTBHWkxGMHcteW1N?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/09/2026 15:39"
+        "data_noticia": "20/09/2026 11:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ju Jiandong says China should issue 10 trillion yuan of govt bonds to int’l investors - Pekingnology",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUHphMS0tZkdZaUliQVQwQlJXLWlfRWVVT2pRNTlFLVlfUXlQQ1R3NG9TSUVWLTFHOE83OVFWNmhtQVBFMG84eThrUWh3M1lxbUxoNXFfaVdIT29jYzJLMWlBZ2RyNkMwZEpvLXJIX091cnhX?oc=5\" target=\"_blank\">Ju Jiandong says Chin...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUHphMS0tZkdZaUliQVQwQlJXLWlfRWVVT2pRNTlFLVlfUXlQQ1R3NG9TSUVWLTFHOE83OVFWNmhtQVBFMG84eThrUWh3M1lxbUxoNXFfaVdIT29jYzJLMWlBZ2RyNkMwZEpvLXJIX091cnhX?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "21/09/2026 01:56"
       }
     },
     {
@@ -1213,6 +1247,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.1278,
+          51.5074
+        ]
+      },
+      "properties": {
+        "titulo_evento": "RBC Capital Markets turns to Europe for dealmaking push: ‘We really need to accelerate’ - Financial News London",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSF9jd0ZJYTYtR1JrVC0yN3NwVlM5SGp1NjFxRUU4cnRDaU43TTc2cUJjZUpxT2wwUkJlMkhMZWlTUjQyVHFhSlJpV3NGZVdoTmJPbWI3SlJVeFRNaHk4UW9JQ05KR3VNbWFZblhVRzdndEVKWVdsOHVoeFVfQXlmdVFnOTFlOHVCcmpsX0pFTlZ1dF95...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSF9jd0ZJYTYtR1JrVC0yN3NwVlM5SGp1NjFxRUU4cnRDaU43TTc2cUJjZUpxT2wwUkJlMkhMZWlTUjQyVHFhSlJpV3NGZVdoTmJPbWI3SlJVeFRNaHk4UW9JQ05KR3VNbWFZblhVRzdndEVKWVdsOHVoeFVfQXlmdVFnOTFlOHVCcmpsX0pFTlZ1dF95cVUtZ0h0dDRsdVVXZE5pZ3RTb1RBWTR0LURuYUpiUVFoWVAwRE5BM0dzVDNlRDd4NEE?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "20/09/2026 23:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Guanxian's fruits make a splash on global markets - China Daily",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE92a1FlOFFzQ1lGeUNHRFhndHZWaWpiR21tNE53WGRuc0NoVmMwQ0tXbVFhOXVBZWRrd1p1OGItTG9lWEkxbXdVcG5sM3RRenFnbm8tTldGVTByeUNyUUt3MnEtN05mdXVTMlFFTE5leW1vQWxTNkNoY21MQkdidw?oc=5\" target=\"_blank\">Guanxia...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92a1FlOFFzQ1lGeUNHRFhndHZWaWpiR21tNE53WGRuc0NoVmMwQ0tXbVFhOXVBZWRrd1p1OGItTG9lWEkxbXdVcG5sM3RRenFnbm8tTldGVTByeUNyUUt3MnEtN05mdXVTMlFFTE5leW1vQWxTNkNoY21MQkdidw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/09/2026 01:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -1223,74 +1291,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1N2a3NDUmY0MG12eDJEc2l4QVlEbDRId0ttMWNvRDBFenlHSDFBX2h1Z0lKeUpwY3ZydjNveUNSZVhNUWlHaUZKWmRQZXJ0dFB1am5QMnJoU3VuY3o0cFRXUEZPckxpM29aeV8yY2NQLWJNNVF2aFdNUF96clpZZExjRHByWjE0VjR4Zw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "20/09/2026 19:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1278,
-          51.5074
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Scott Bessent ran George Soros's London office during the trade that broke the Bank of England - moneywise.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc09jeUJxS19Hckp4cnBQNkRLZVRrYnJTeUs1bHJYS05ua1hXd1A5b0FjbUNZMkhNQ3RVZGQtUndhaWM2dGdYUjN2NnhMVXRTczVodWMwYzVuS05SaGFFeV9NYlo4cVRBaUdCR2xFMmpncDBMVHY0ajVfOU85RTRhZ200SlQwLU1hMjFj?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc09jeUJxS19Hckp4cnBQNkRLZVRrYnJTeUs1bHJYS05ua1hXd1A5b0FjbUNZMkhNQ3RVZGQtUndhaWM2dGdYUjN2NnhMVXRTczVodWMwYzVuS05SaGFFeV9NYlo4cVRBaUdCR2xFMmpncDBMVHY0ajVfOU85RTRhZ200SlQwLU1hMjFj?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "20/09/2026 12:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran war energy shock is spreading through global economy - FT - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uTjdsM1hBdGpSb0xCQ2hsbHhPeUFCdGZYTFdSbEtUekE2ajF1emx6c2ppX3RhNjM1dXZpMEFGRUdCZ3RwZ1VYYV9LY3RyQnBHa3c?oc=5\" target=\"_blank\">Iran war energy shock is spreading through global economy - FT</a>...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uTjdsM1hBdGpSb0xCQ2hsbHhPeUFCdGZYTFdSbEtUekE2ajF1emx6c2ppX3RhNjM1dXZpMEFGRUdCZ3RwZ1VYYV9LY3RyQnBHa3c?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "20/09/2026 00:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.7129,
-          37.0902
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's trade surplus driven by structural factors, not subsidies or undervalued exchange rate, economists say - usa.chinadaily.com.cn",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBPZC1pN0pJM0VVSHZXRFR0aGcxRE1mMWU2a1RrMmViRmNPTTRqT0NfMVJPOV9na2lselh6VEotemtuWFhlZUlUaDJ6RUZqSHJhZGhjb2ZBZVJobzhnaDJkRmVIRnVGNDhRS1JZX1I4QmVXdnN4ZkV3QnVpcnc?oc=5\" target=\"_blank\">China's tr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPZC1pN0pJM0VVSHZXRFR0aGcxRE1mMWU2a1RrMmViRmNPTTRqT0NfMVJPOV9na2lselh6VEotemtuWFhlZUlUaDJ6RUZqSHJhZGhjb2ZBZVJobzhnaDJkRmVIRnVGNDhRS1JZX1I4QmVXdnN4ZkV3QnVpcnc?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "20/09/2026 07:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump's Iran war ignites global diesel crisis - Tehran Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTRiaWFyUkZjOXJPSE5fQzRTM0c2U3hWNmJOaElPTGJjWjc5X3ZjcUJpOWNaLTl5dEhZQklURk13YVF0b2liLXlJTXpfdk8yaGpJMm5KcUNia2VrbkZLSUQ0Q0Jvem1wdUFBM3BYVDNKcWZWX0RJWkl3Zy13UHFNLVZpQmRMV1FQVmRkS2Zn?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTRiaWFyUkZjOXJPSE5fQzRTM0c2U3hWNmJOaElPTGJjWjc5X3ZjcUJpOWNaLTl5dEhZQklURk13YVF0b2liLXlJTXpfdk8yaGpJMm5KcUNia2VrbkZLSUQ0Q0Jvem1wdUFBM3BYVDNKcWZWX0RJWkl3Zy13UHFNLVZpQmRMV1FQVmRkS2Zn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "20/09/2026 11:21"
       }
     }
   ]
