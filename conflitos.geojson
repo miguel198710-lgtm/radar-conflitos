@@ -142,6 +142,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Trump hints US could strike Iran, warns time coming",
+        "descricao": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "01/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian drone crashes into Kyiv playground without exploding",
+        "descricao": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "30/09/2026 22:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.4668,
           31.5017
         ]
@@ -193,16 +227,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-        "descricao": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "30/09/2026 17:07"
+        "titulo_evento": "What we know about stabbing on Flydubai flight to Israel",
+        "descricao": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say. ",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "30/09/2026 21:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "descricao": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "30/09/2026 23:10"
       }
     },
     {
@@ -261,6 +312,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+        "descricao": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "30/09/2026 21:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -278,33 +346,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian nuclear-capable Tu-95 crashes in Far East, killing six crew members",
-        "descricao": "The bomber went down near Krasnoyarovo shortly after taking off from the Ukrainka air base, which Russia had used to shelter surviving strategic bombers after Ukraine's Operation Spiderweb destroyed or damaged more than 40 aircraft at Russian airfiel...",
-        "url_fonte": "https://www.euronews.com/2026/09/29/russian-nuclear-capable-tu-95-crashes-in-far-east-killing-six-crew-members",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "29/09/2026 18:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Global economic impact of Iran war ‘unbearable,’ Qatar warns as talks continue",
-        "descricao": "The war has choked shipping through Hormuz and disrupted Gulf exports. Qatar said it has continued to mediate between Washington and Tehran, warning that the fallout has now affected multiple sectors and not just energy.",
-        "url_fonte": "https://www.euronews.com/2026/09/29/global-economic-impact-of-iran-war-unbearable-qatar-warns-as-talks-continue",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "29/09/2026 17:27"
+        "titulo_evento": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+        "descricao": "\nThe Federal Reserve's watchdog on Wednesday found no grounds for a criminal referral over a roughly $1 billion cost overrun on renovations to the central bank's Washington buildings, while faulting project oversight. The findings prompted President ...",
+        "url_fonte": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "30/09/2026 23:44"
       }
     },
     {
@@ -312,16 +363,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East oil exports rise as LNG traffic through Hormuz picks up",
-        "descricao": "Months into the war with Iran, Gulf exporters are finding ways to keep oil and gas moving, but crossing Hormuz remains risky and some customers are still missing contracted cargoes.",
-        "url_fonte": "https://www.euronews.com/2026/09/29/middle-east-oil-exports-rise-as-lng-traffic-through-hormuz-picks-up",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "29/09/2026 15:13"
+        "titulo_evento": "UK PM Burnham reopens divisive debate on rejoining EU",
+        "descricao": "\nAndy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+        "categoria": "Política (France 24)",
+        "data_noticia": "30/09/2026 21:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK PM Burnham reopens divisive debate on rejoining EU",
+        "descricao": "\nAndy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at...",
+        "url_fonte": "https://www.france24.com/en/uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+        "categoria": "Política (France 24)",
+        "data_noticia": "30/09/2026 20:55"
       }
     },
     {
@@ -482,67 +550,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Macron says UK’s return to EU would be ‘excellent news’",
-        "descricao": "\nSpeaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the...",
-        "url_fonte": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
-        "categoria": "Política (France 24)",
-        "data_noticia": "30/09/2026 11:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Forced landing of Israel-bound flight: What we know so far",
-        "descricao": "\nThe Israeli government believes an incident on a flight from the United Arab Emirates to Israel, which diverted to Saudi Arabia after transmitting emergency signals on Wednesday, may have been an attempted \"terror attack\" by one of the pilots. Franc...",
-        "url_fonte": "https://www.france24.com/en/video/20260930-forced-landing-of-israel-bound-flight-what-we-know-so-far",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/09/2026 11:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mixed reactions in Iraq on final day of US-led coalition withdrawal",
-        "descricao": "\nThe US military announced on Wednesday that it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last US troops left an air base in northern Iraq under a deal between Baghda...",
-        "url_fonte": "https://www.france24.com/en/video/20260930-mixed-reactions-in-iraq-on-final-day-of-us-led-coalition-withdrawal",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/09/2026 11:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why is the US withdrawing its troops from Iraq?",
-        "descricao": "\nA US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes...",
-        "url_fonte": "https://www.france24.com/en/video/20260930-why-is-the-us-withdrawing-its-troops-from-iraq",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "30/09/2026 11:18"
+        "titulo_evento": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
+        "descricao": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing many from returning home.",
+        "url_fonte": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "30/09/2026 22:10"
       }
     },
     {
@@ -623,7 +640,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
+        "titulo_evento": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding.",
         "descricao": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
         "url_fonte": "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
@@ -635,16 +652,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Global trade weathers Iran, Ukraine and Trump's tariffs",
-        "descricao": "Over the past six years, COVID, two wars and Donald Trump's tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?",
-        "url_fonte": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "29/09/2026 10:35"
+        "titulo_evento": "FlyDubai suspends flights to and from Israel after pilot stabbing",
+        "descricao": "Passengers and crew members entered the cockpit and overpowered the attacker, according to officials.",
+        "url_fonte": "https://www.politico.com/news/2026/09/30/flydubai-flights-israel-pilot-stabbing-01101806?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "30/09/2026 23:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          41.8719
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Meloni implores von der Leyen to let countries overspend to battle energy crunch",
+        "descricao": "Italy has fallen foul of EU overspending rules, which it wants relaxed to deal with higher energy costs.",
+        "url_fonte": "https://www.politico.eu/article/giorgia-meloni-fiscal-rules-spending-plea-energy-crunch-ursula-von-der-leyen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "30/09/2026 22:49"
       }
     },
     {
@@ -686,40 +720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Macron and Sánchez say UK would be ‘welcome’ back in EU",
-        "descricao": "Andy Burnham's suggestion that the U.K. could rejoin the EU was met with a more muted response from Brussels itself.",
-        "url_fonte": "https://www.politico.eu/article/macron-and-sanchez-say-uk-would-be-welcome-back-in-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "30/09/2026 14:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Farage spoils for a Brexit brawl with Burnham",
-        "descricao": "Reform UK leader will attack the prime minister’s turn towards Europe in a major speech Thursday.",
-        "url_fonte": "https://www.politico.eu/article/nigel-farage-andy-burnham-brexit-eu-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "30/09/2026 13:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -737,16 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "US Hits Canada With Ban on Some Dairy and Liquor Products",
-        "descricao": "An outright ban on certain Canadian products took effect Tuesday, escalating a damaging trade fight between the two North American allies.",
-        "url_fonte": "https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html",
-        "categoria": "Economia (NYT Business)",
-        "data_noticia": "29/09/2026 04:01"
+        "titulo_evento": "How Ukraine’s Naval Drones Are Remaking War at Sea - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTQtQnNKdHY5aVEzVldLcDFGcTVma0pkZFFHOUZEYWF2VU9nZVpKWmpYMzQzUUIyWlMtQUFXTGo2WXFuZ0ltT2ZPbnlrUldpbzZfQXRqY0tuMXhRZzFGZTJyR2VxeGpEczlOZFR1Ml9zZ0E1eVNDbmljel9GaVFIbHA2VVg1QTQ?oc=5\" target=\"_b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTQtQnNKdHY5aVEzVldLcDFGcTVma0pkZFFHOUZEYWF2VU9nZVpKWmpYMzQzUUIyWlMtQUFXTGo2WXFuZ0ltT2ZPbnlrUldpbzZfQXRqY0tuMXhRZzFGZTJyR2VxeGpEczlOZFR1Ml9zZ0E1eVNDbmljel9GaVFIbHA2VVg1QTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "30/09/2026 18:09"
       }
     },
     {
@@ -771,67 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Inside the Ukrainian military unit training fighters from China - theguardian.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2UtNnRzWkhfc1o3eEdzVmxmcWpHMldqb3VJUEgxeHcxT3ppTUFicTk1X2x5RnotMmVMN0dRYnZzMjRraDItMzY3anhEdkxGVVRXSzdUbWlZbjR4MWo4MGxHUFZDT3NRMjRDOUxEeXZKUnJsZnF3YldjeEdiekM4RE44ajdXMmZYdHNxcm1LbHJfa0lU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2UtNnRzWkhfc1o3eEdzVmxmcWpHMldqb3VJUEgxeHcxT3ppTUFicTk1X2x5RnotMmVMN0dRYnZzMjRraDItMzY3anhEdkxGVVRXSzdUbWlZbjR4MWo4MGxHUFZDT3NRMjRDOUxEeXZKUnJsZnF3YldjeEdiekM4RE44ajdXMmZYdHNxcm1LbHJfa0lUWTRoZHplQ1dHZDFHX2VGSjdkOFE5V0N0Umc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/09/2026 15:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Texas oil, gas production increases slightly in third quarter as Iran War uncertainty remains - Houston Public Media",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNYnpmeURGSExia3ZCeWVsTDJiQldpVlhKZjJpUlhlUlpQaVJFeFlqLTd2R0NTc05aM0R0bEk5ZF9lRTlHMGd3OTljb2ltSm5xNmtDV1RhbHJ1OW95WEdiN09Vdm9VMm4taE8zbkVhVHM5cEI4a1BLUXY0OXRYcFNNRnJ4WExfa25VREpDV3VYZDdyY2hu...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYnpmeURGSExia3ZCeWVsTDJiQldpVlhKZjJpUlhlUlpQaVJFeFlqLTd2R0NTc05aM0R0bEk5ZF9lRTlHMGd3OTljb2ltSm5xNmtDV1RhbHJ1OW95WEdiN09Vdm9VMm4taE8zbkVhVHM5cEI4a1BLUXY0OXRYcFNNRnJ4WExfa25VREpDV3VYZDdyY2huVi1fdlZ0MFdoTHp5SzRxd3Mxd1ZZcWN2NFlRa1dVM1l5bHlPVkhCS3lBUEl2LTE1X2g4cVRtSEw0eHpvd0F1bFNKcm9tS1NTanpOMHV6Tl80VnNsTloyQ19TMEp2ZC15VENZbmhSUzlMVm96cVJOUng1dGZGUWZrZ0cxU1BLOVNoek3SAZ8CQVVfeXFMTXI3MENJRndkelA0aE9pblI2TS15NTFjanRYRXNkWE9CN0huMnVlN2psRUtUTFNSUGNoV1U0RFl5RnZGM1BNZ1V5QXlkcGxuRTFVS3hGc2pLbjZKNmZNMHZIbkpYMk1HdV9pdzdGSnd1cmlPUmJ3eXBHYnVRZUVjUkNTQUw4ZVdkOGJNZUtDdk91LUpObUpmb3R5dWdjTjZubEtTQ3RXT04tMEdoMnQ2ZC1iMV8zcDdFakoxMzhSZEhfc2JUb2h0YTVjeVhjRGxFdVhVYWE0SzBDcmNWazFORWJsT3ZycjNXNnRGVEFJSWtoakZZc2lwVDFsZ1VtazVOaDFKTllYOXJ0NGNjM2FMZDN6WHV4Um9mR1p3bTFZbzQ?oc=5",
+        "titulo_evento": "Iran War Is Driving Up the Cost of Your Next Oil Change - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVqVXdzRlYzejRHMkdvR3p4b1NHSmhmblRkUkRQZVQyRW5Cd1E5WUU4eGh0Yi0xY3JyNGktcGt6bzg0RXJDeXFuRFZWVTV1ell1WWlXMC05Rk50SE9nbkp4enFjYXMta1h3T0x3aXU0ZTZreWJBUFM1UnozMmo1TTNiM0dmR1NENVlRdWpYbGhZYXp1Y041ZTg3QVByYVJGemc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/09/2026 18:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran indicates it’s received an official US response to its latest offer on ending the war - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "30/09/2026 15:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Is Iran losing its leverage over the Strait of Hormuz? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclg2QUFjcWhrSGJicV9BQWRqN3JSOGtBRW9UQW9DOWFMRzduaDR1TWZ3M2lqSkFFekd1RTdYdUJRSlJHUzE0LUc5LUc3Um1OdlVrQzJyZVRSbE9pY01BMkVjQS1ES1l4V0NCMllCWjVhay1FYlg1MHhCckdNN2wxemlvcjduNTRlc09jRXVEZFg0SFho...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclg2QUFjcWhrSGJicV9BQWRqN3JSOGtBRW9UQW9DOWFMRzduaDR1TWZ3M2lqSkFFekd1RTdYdUJRSlJHUzE0LUc5LUc3Um1OdlVrQzJyZVRSbE9pY01BMkVjQS1ES1l4V0NCMllCWjVhay1FYlg1MHhCckdNN2wxemlvcjduNTRlc09jRXVEZFg0SFhoZ3J4aDZoNTRxWktfTU1GRlF1V25pcGvSAbABQVVfeXFMT0J6bVI5TUJoVnVmbGJaLXVGa3FxLVFpVTh2Wlh4aVl2QW1sMXQ4eDFBS3B4TlgySVo3Z3piSVBmNVE3SHAwQTh1YUEzeEdUaDhQZk9wY3hYeTVKRTVFUDRUSXZsYnh4dFR5QWdSZFAtYnAtUDN4WG4xTkVtamRHTEV6a29PdHFFVTM2M3JZWldHbXJuQk9wREFjUjlCVl9FWjU0ZG1Ga2Vxb25zdDVuZnA?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "30/09/2026 15:10"
+        "data_noticia": "30/09/2026 21:14"
       }
     },
     {
@@ -861,23 +810,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Has the US-China tariff deal eroded Southeast Asia’s edge as a factory hub? - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGpUcUd1VlJrZkRrQmh4ZmtrWDZEblRtSi1zS2NKRjE3c0RRZVVzRzJlM1F2ZDdpUEhoNkJQU2FhdUVYUlVGakQ3VGhFdHV5Z2piWU1OdFlYMnpFX0ZydFV6RzBqTkJWUldTUF8zSEdiNjNWOVRPNzIzYWpaeUx1NHZuQ2dHZl9EV0RmYXRfZ25PZVdX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGpUcUd1VlJrZkRrQmh4ZmtrWDZEblRtSi1zS2NKRjE3c0RRZVVzRzJlM1F2ZDdpUEhoNkJQU2FhdUVYUlVGakQ3VGhFdHV5Z2piWU1OdFlYMnpFX0ZydFV6RzBqTkJWUldTUF8zSEdiNjNWOVRPNzIzYWpaeUx1NHZuQ2dHZl9EV0RmYXRfZ25PZVdXVkdzeEpHQ0F6cFBQcUN0ZUxUNHNXZnpSc3RiRDBtaEMtdFo0TjRV0gG7AUFVX3lxTE56c0lMSkhSWFNyeVpfLXJDU2ZPbjNwaDk5VDJ5eVQtaEJEN0pWS2RERzRsVS1jMHREOGVSV3JUTVhxRmQ5XzdlcGkxWUpCTmtnR1drY1NNTkNRbHlRbjFPcHlNQ1BKZ3FpN1dQSmN3UXJOcDBnUmFFclNuQ1BUVzkxQkh4MDZDc3l4ekRXYUE1MGxBa19GSjN1a3Zvbk1KRC03U00tZzVYUWxacXZUd010V0p2X3hTa28wN1U?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "30/09/2026 14:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
         "titulo_evento": "The Derisking Race: China, America and the Fragmentation of the Global Economy – Introduction - The International Institute for Strategic Studies",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXBBeDBFTEJHNnJiMHg4QzE1d2dTZDBPaC12dlRteXFxUWdXVWRnQTktX1RFWEN3b1M2MmZ5MEprNTduVWJkZk4yeGE5R283eVBXNzJIXzFJeXQzb3BnN3BLZW90bmRfTnVrZ2FJYXhYdWtkVWxySHVFbE1hdjNmN1NJU0dFZTQ4NVRTek53X01FZC1X...",
         "url_fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXBBeDBFTEJHNnJiMHg4QzE1d2dTZDBPaC12dlRteXFxUWdXVWRnQTktX1RFWEN3b1M2MmZ5MEprNTduVWJkZk4yeGE5R283eVBXNzJIXzFJeXQzb3BnN3BLZW90bmRfTnVrZ2FJYXhYdWtkVWxySHVFbE1hdjNmN1NJU0dFZTQ4NVRTek53X01FZC1XSDY0QW9HaVRnOENiNzhOZGlQcnhxVEZybFNzTmtqMDhzTF9LeDFwakpGMmhQYWItWV93aEwtX3I3QzBvb2tN?oc=5",
@@ -895,7 +827,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "China's Xi talks economy, Taiwan at reception marking National Day - Reuters",
+        "titulo_evento": "China's Xi talks economy, Taiwan at reception marking National Day - reuters.com",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkxBSTMzbVJTOWh4QzJ1MFhHTzNCUFRlazZwU1F4aURwUXp2ZnNtejRBMXk0YWFGeVVld0FPQ29Xa0hGVGJHcmVvbjZYR2lyN0tlZmFSTjM0SlJqOEVsSXVsNU1kRV9BYk1HSzRQcFR2Z1FoZTBZTXNkbzB3eTlqWHZLcUpLSEQ1MllZSmlhT3NjblFp...",
         "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYkxBSTMzbVJTOWh4QzJ1MFhHTzNCUFRlazZwU1F4aURwUXp2ZnNtejRBMXk0YWFGeVVld0FPQ29Xa0hGVGJHcmVvbjZYR2lyN0tlZmFSTjM0SlJqOEVsSXVsNU1kRV9BYk1HSzRQcFR2Z1FoZTBZTXNkbzB3eTlqWHZLcUpLSEQ1MllZSmlhT3NjblFpb2pIZldnUF9FeDZDV3ZlS1BSczRoc285M1E?oc=5",
         "categoria": "Economia (Google News Markets)",
@@ -907,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "UK economy grew faster than thought in second quarter, cementing G7 lead - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkhXWE1jdThXSFYwVER4YWVYWk5uZ1BPeGpGT29ySVFpU2tuWUZhMzk5TEd3a2dxWDg0UGdOT1JDeWk2amtpdndYN0NUZ3Z3UW51dThkWkFWUmRiM0xrUlc3dGc3TDZZLWQtVzhBNl9BRkNCTFp1YlVwLU00Z0x6eTNmbXJRQnlVczNr?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkhXWE1jdThXSFYwVER4YWVYWk5uZ1BPeGpGT29ySVFpU2tuWUZhMzk5TEd3a2dxWDg0UGdOT1JDeWk2amtpdndYN0NUZ3Z3UW51dThkWkFWUmRiM0xrUlc3dGc3TDZZLWQtVzhBNl9BRkNCTFp1YlVwLU00Z0x6eTNmbXJRQnlVczNr?oc=5",
+        "titulo_evento": "New York City says the World Cup delivered a $2B boost to its economy - Gothamist",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHoxM2xoUVc4TzZ3ZnBMRXFSOGJYTVpsaDFiUFRBSjk4VUQ5ZzJtTV8wdjFHejBLdWFUbDVNTHgxdnpHSmFfNUdHNkNzbFNoOGtoV2dfLWE5TVA0eV85SVdXYUtIbmxCMThXdWNDQm53bUU1Zm9GYWR2Z01wU1F1b1ZvVmJQMWRiSWF6Z1BtVGRBQTlJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHoxM2xoUVc4TzZ3ZnBMRXFSOGJYTVpsaDFiUFRBSjk4VUQ5ZzJtTV8wdjFHejBLdWFUbDVNTHgxdnpHSmFfNUdHNkNzbFNoOGtoV2dfLWE5TVA0eV85SVdXYUtIbmxCMThXdWNDQm53bUU1Zm9GYWR2Z01wU1F1b1ZvVmJQMWRiSWF6Z1BtVGRBQTlJZWQwcGUyRQ?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "30/09/2026 06:05"
+        "data_noticia": "30/09/2026 20:43"
       }
     }
   ]
