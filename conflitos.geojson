@@ -6,16 +6,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.1157,
-          20.2802
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Saudis plan assault on Houthis to break Red Sea chokehold",
-        "descricao": "More than 100,000 Yemeni troops could be mobilized in the offensive, depending on the scale, officials said.",
-        "url_fonte": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+        "titulo_evento": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+        "descricao": "Yemen’s Saudi-backed government said on Sunday it was launching a major military campaign to recapture all areas controlled by the Iran-backed Houthis.",
+        "url_fonte": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
         "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "02/10/2026 19:00"
+        "data_noticia": "04/10/2026 19:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+        "descricao": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/10/2026 20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "War on Iran: Is escalation more likely than a deal?",
+        "descricao": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+        "url_fonte": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/10/2026 18:47"
       }
     },
     {
@@ -50,6 +84,23 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "04/10/2026 16:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5429,
+          -35.6751
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+        "descricao": "Sullivan’s goal beat fellow teenager Julian Hall&#039;s record for United States which was only set against Chile on Tuesday.",
+        "url_fonte": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "04/10/2026 16:23"
       }
     },
     {
@@ -101,40 +152,6 @@
         "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/4/lula-and-bolsonaro-vote-in-brazils-polarised-presidential-election?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "04/10/2026 15:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen’s leader announces military operation to retake Houthi-held territory",
-        "descricao": "Rashad al-Alimi says the campaign aims to restore state authority throughout Yemen.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/10/2026 12:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-        "descricao": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/10/2026 11:58"
       }
     },
     {
@@ -198,11 +215,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+        "titulo_evento": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
         "descricao": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
-        "data_noticia": "04/10/2026 11:03"
+        "data_noticia": "04/10/2026 20:14"
       }
     },
     {
@@ -261,135 +278,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "“We don't feel a sense of worry” in Europe, says the head of the Muslim World League",
-        "descricao": "While in Brussels to meet with political and religious leaders, Sheikh Dr Mohammad bin Abdulkarim Al-Issa stressed the need to deepen dialogue in order to confront the turmoil facing the world and that Europe's \"civilised constitutions\" will prevent ...",
-        "url_fonte": "https://www.euronews.com/2026/10/04/we-dont-feel-a-sense-of-worry-in-europe-says-the-head-of-the-muslim-world-league",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "04/10/2026 17:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Has plague returned to Siberia? Panic in Russia after death of lab worker",
-        "descricao": "A female staff member at an anti-plague institute in the Irkutsk region who died amid rumours of a \"black death\" outbreak was diagnosed with \"pneumonia of unknown origin\". Rospotrebnadzor insists that the situation in the region is \"stable\".",
-        "url_fonte": "https://www.euronews.com/2026/10/04/has-plague-returned-to-siberia-panic-in-russia-after-death-of-lab-worker",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "04/10/2026 17:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea fires intermediate-range missile, claiming evasive flight and AI features",
-        "descricao": "Japan’s military said the missile landed in waters outside its exclusive economic zone, while South Korea's military, which often accuses the North of exaggerating its capabilities, said it travelled more than 700 kilometres.",
-        "url_fonte": "https://www.euronews.com/2026/10/04/north-korea-fires-intermediate-range-missile-claiming-evasive-flight-and-ai-features",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "04/10/2026 09:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
-        "descricao": "Thousands of military personnel from Azerbaijan, Turkey and Uzbekistan, as well as other nations participating as observers, including Iran, joined forces in the “Power of Unity, 2026” military exercise for the first time, in the Hojavend district of...",
-        "url_fonte": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/10/2026 21:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -51.9253,
           -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "Brazil's Lula and Flávio Bolsonaro wrap up campaigns on eve of tight vote",
-        "descricao": "Brazilian President Luiz Inácio Lula da Silva and Flávio Bolsonaro have a final chance on Saturday to sway voters at rallies in crucial São Paulo before a tight election marked by scandals and personal attacks.",
-        "url_fonte": "https://www.euronews.com/2026/10/03/brazils-lula-and-flavio-bolsonaro-wrap-up-campaigns-on-eve-of-tight-vote",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/10/2026 20:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
-        "descricao": "G7 leaders agreed on Friday to release 100 million barrels of diesel and crude after US pressure on Europe, with supplies squeezed by Iran's restrictions on shipping through the Strait of Hormuz.",
-        "url_fonte": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "03/10/2026 15:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China opens anti-dumping probe into EU days before Beijing trade talks",
-        "descricao": "Running a €1 billion-a-day deficit with China, Brussels has nearly tripled the rate of its own trade investigations and is warning of \"harsher measures\" unless Beijing offers something concrete.",
-        "url_fonte": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/10/2026 12:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9253,
-          -14.235
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-        "descricao": "President Luiz Inacio Lula da Silva and rival Flavio Bolsonaro are pulling no punches in a last-ditch effort to win voters ahead of Sunday's election in Brazil, where the US and Australia suspended consular services Friday over security concerns.",
-        "url_fonte": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "02/10/2026 22:40"
+        "titulo_evento": "A Profile of Brazil's Potential President",
+        "descricao": "\nFrance 24's Gavin Lee speaks to Brazil analyst Henrique Tavares Furtado about how Flavio Bolsonaro is pledging to reshape the country, and asks: who is the man behind the political persona?\n",
+        "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/10/2026 18:34"
       }
     },
     {
@@ -538,10 +436,10 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-        "descricao": "\nBrazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million vot...",
+        "titulo_evento": "Polls close in Brazil's high-stakes election pitting Lula against Flavio Bolsonaro",
+        "descricao": "\nBrazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inacio Lula da Silva against far-right challenger Flavio Bolsonaro, following a campaign dominated by corruption scandals, economic anxiety and accusations of US m...",
         "url_fonte": "https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro",
-        "categoria": "Defesa/Conflito (France 24)",
+        "categoria": "Política (France 24)",
         "data_noticia": "04/10/2026 11:17"
       }
     },
@@ -635,50 +533,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Ireland–Israel nations League clash overshadowed by political tensions",
-        "descricao": "\nIreland and Israel are set to face off in the second leg of their Nations League matchup, with political tensions overshadowing the football. During last week’s first game in Bulgaria, Irish players wore black armbands in support of Gaza and pointed...",
-        "url_fonte": "https://www.france24.com/en/video/20261004-ireland%E2%80%93israel-nations-league-clash-overshadowed-by-political-tensions",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/10/2026 08:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9253,
-          -14.235
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Brazil polls open in a few hours",
-        "descricao": "\nBrazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao Paulo, where a fifth of the nation's vote is based, seeking to rally supporters and convince ...",
-        "url_fonte": "https://www.france24.com/en/brazil-polls-open-in-a-few-hours",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/10/2026 08:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh",
-        "descricao": "\nYemen’s Houthi rebels have claimed responsibility for attacks in Riyadh, including on facilities belonging to Aramco, the world’s largest oil company. This follows reports from residents of flames and smoke rising from an oil facility on the outskir...",
-        "url_fonte": "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh",
+        "titulo_evento": "Merz unveils new aid for Ukraine as Russia strikes Kyiv during German leader's visit",
+        "descricao": "\nGerman Chancellor Friedrich Merz announced a new aid package for Ukraine worth more than 1.3 billion euros ($1.5 billion) during a visit to Kyiv on Sunday marked by renewed Russian attacks on the Ukrainian capital, including the latest drone attack ...",
+        "url_fonte": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit",
         "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/10/2026 08:21"
+        "data_noticia": "04/10/2026 08:38"
       }
     },
     {
@@ -713,23 +577,6 @@
         "url_fonte": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "04/10/2026 11:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9253,
-          -14.235
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-        "descricao": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-        "url_fonte": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "04/10/2026 11:28"
       }
     },
     {
@@ -805,16 +652,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
-        "titulo_evento": "Spain: Floods leave 102-year-old woman dead in southeast",
-        "descricao": "Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his condolences to the family of a 102-year-old woman who died.",
-        "url_fonte": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "03/10/2026 12:01"
+        "titulo_evento": "Le calendrier chargé d’Emmanuel Macron complique sa venue à la COP31",
+        "descricao": "Bien qu’il aime se poser en défenseur de l’Accord de Paris sur le climat, le chef de l’Etat ne semble plus placer les négociations climatiques en haut de ses priorités calendaires.",
+        "url_fonte": "https://www.politico.eu/article/le-calendrier-charge-demmanuel-macron-complique-sa-venue-a-la-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "04/10/2026 16:35"
       }
     },
     {
@@ -890,23 +737,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Sandu slams Russia as attack debris hits Moldova in latest airspace violation",
-        "descricao": "Three missile and two drones entered Moldovan airspace and caused collateral damage in the country, local authorities said.",
-        "url_fonte": "https://www.politico.eu/article/maia-sandu-slams-russia-as-attack-debris-hits-moldova-in-latest-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "03/10/2026 12:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -941,6 +771,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Yemen’s leader announces military operation to retake Houthi-held territory - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPei1GRWxVZ0U1T1hGZTJ6YmxVVTJtd19DWENYaDRLUDhIQjFYUDVVNjA1VVp0U1g2VmhDbjBxRXYxcDRYMmloSmxqNDdkOVNEWG9hRGpxb2RKWEhSM0l3bnNrNHprMmh1QkhZUGVZRUg0QnppdHpOWkN2ZWNjdTlwQ0JZU3FZMEh0TE9zeG16cmNBM21U...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPei1GRWxVZ0U1T1hGZTJ6YmxVVTJtd19DWENYaDRLUDhIQjFYUDVVNjA1VVp0U1g2VmhDbjBxRXYxcDRYMmloSmxqNDdkOVNEWG9hRGpxb2RKWEhSM0l3bnNrNHprMmh1QkhZUGVZRUg0QnppdHpOWkN2ZWNjdTlwQ0JZU3FZMEh0TE9zeG16cmNBM21UOV9LTnRqYkFEMUR0TldEVWtsY2NIY0RYZnlNeU81cGxSZ9IBuwFBVV95cUxQZE52dGFBalJDa01aMldXQWlUYVhZRnJHXzBZWThsRTZIZEE2LUtjM1NTSFdFTWhMZ1hqY01Pc0xyX1BqWi12RHhrSVBlNy1EMi1GU3pGVHhKNjVTUDZ2OWE5R2dkTzdhQ0xGR2d5NGFpUF9WaEtHd3VzSE5uamlxLWVUODdxb3RGeXlxb2k0aUZDNDFVV3gycGl5dEEzbDU4ZTlvYi12Wnd3bEROYnpRNW8wSUdoTTFmaWt3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 19:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -950,7 +797,41 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 16:03"
+        "data_noticia": "04/10/2026 19:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Ba’s Book’ Director Uncovers Father’s Secrets Over Vietnam War, Revolutionary Iran Upbringing - The Hollywood Reporter",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnlWU1p1dU0zYmZjSDlxaktjTmVzWUNhZ2lrSXJnY0o1V05FZ0VvY3ZyLXBmMkZtZHhKVi1fbXRSd2JZcEM4aF96OU9hNXViTjN0ZnR0dllucUJXNlVYQV9IUkQ4Ymw3azlzeS1mMmlMbEFDTnhCZGdCMDBfY29uYkI0aU8zSkV1dGw5LUxRbExXbXgw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnlWU1p1dU0zYmZjSDlxaktjTmVzWUNhZ2lrSXJnY0o1V05FZ0VvY3ZyLXBmMkZtZHhKVi1fbXRSd2JZcEM4aF96OU9hNXViTjN0ZnR0dllucUJXNlVYQV9IUkQ4Ymw3azlzeS1mMmlMbEFDTnhCZGdCMDBfY29uYkI0aU8zSkV1dGw5LUxRbExXbXgweG5MWg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 18:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Yemen leader announces major military operations against Iran-backed Houthis - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzlDdHR1c3VEMmVyMnNMWnVGT2VuNS05NHdxU3dmNTROY2Y1U1l1WXQ3cUJLelpkOTB3OW9wZDBFNm5iTEp3NDl0TVJMUG1pNFZxclF4Q09rMGNKZjMzRzlfdmpkcjF3NnZvUkhjRXBac1J5VFBTNkRHRWtHclo1ZWxLZmIybzIxVGEyai1RSE1VMGd2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzlDdHR1c3VEMmVyMnNMWnVGT2VuNS05NHdxU3dmNTROY2Y1U1l1WXQ3cUJLelpkOTB3OW9wZDBFNm5iTEp3NDl0TVJMUG1pNFZxclF4Q09rMGNKZjMzRzlfdmpkcjF3NnZvUkhjRXBac1J5VFBTNkRHRWtHclo1ZWxLZmIybzIxVGEyai1RSE1VMGd2TGM1YWVzMzFCbGs2OXFvLXpsSlpRVU43cGxmYg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 13:02"
       }
     },
     {
@@ -967,7 +848,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfd3hQcnNtTUR1RUFUMFJ6ZkFRczJvVHhDclFaQVJjMFR5Ym1faU9RQlQ0Vnc2a3otMnR2T1FoR1Iwd1RVTWk3RGpOcw?oc=5\" target=\"_blank\">Long-Range FP-9 Missile Ready This Fall, Zelensky Says</a>&nbsp;&nbsp;<font...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfd3hQcnNtTUR1RUFUMFJ6ZkFRczJvVHhDclFaQVJjMFR5Ym1faU9RQlQ0Vnc2a3otMnR2T1FoR1Iwd1RVTWk3RGpOcw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 15:44"
+        "data_noticia": "04/10/2026 18:45"
       }
     },
     {
@@ -975,16 +856,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "Yemen’s leader announces military operation to retake Houthi-held territory - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPei1GRWxVZ0U1T1hGZTJ6YmxVVTJtd19DWENYaDRLUDhIQjFYUDVVNjA1VVp0U1g2VmhDbjBxRXYxcDRYMmloSmxqNDdkOVNEWG9hRGpxb2RKWEhSM0l3bnNrNHprMmh1QkhZUGVZRUg0QnppdHpOWkN2ZWNjdTlwQ0JZU3FZMEh0TE9zeG16cmNBM21U...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPei1GRWxVZ0U1T1hGZTJ6YmxVVTJtd19DWENYaDRLUDhIQjFYUDVVNjA1VVp0U1g2VmhDbjBxRXYxcDRYMmloSmxqNDdkOVNEWG9hRGpxb2RKWEhSM0l3bnNrNHprMmh1QkhZUGVZRUg0QnppdHpOWkN2ZWNjdTlwQ0JZU3FZMEh0TE9zeG16cmNBM21UOV9LTnRqYkFEMUR0TldEVWtsY2NIY0RYZnlNeU81cGxSZ9IBuwFBVV95cUxQZE52dGFBalJDa01aMldXQWlUYVhZRnJHXzBZWThsRTZIZEE2LUtjM1NTSFdFTWhMZ1hqY01Pc0xyX1BqWi12RHhrSVBlNy1EMi1GU3pGVHhKNjVTUDZ2OWE5R2dkTzdhQ0xGR2d5NGFpUF9WaEtHd3VzSE5uamlxLWVUODdxb3RGeXlxb2k0aUZDNDFVV3gycGl5dEEzbDU4ZTlvYi12Wnd3bEROYnpRNW8wSUdoTTFmaWt3?oc=5",
+        "titulo_evento": "Trump's Canada trade war is entering a dangerous new phase for these battleground states - Fox Business",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQaklfRWlmTWxoaXNabmZDV2xpOGZJMWRWR193SXVUQVAyN1l6U2taQ2c3QmViR1A2V2pZVGI3eDVVZ292SEl5ZlB0aVdjTUdrd3BSUzkzMWdhYXFrQkszX1ZmY1FXdjVDWGw4dGhnMkdBbGhTT2lYalpYVE5DaHFmLXlDX0Z1VEVJM2FhT2c5X25nRmcy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaklfRWlmTWxoaXNabmZDV2xpOGZJMWRWR193SXVUQVAyN1l6U2taQ2c3QmViR1A2V2pZVGI3eDVVZ292SEl5ZlB0aVdjTUdrd3BSUzkzMWdhYXFrQkszX1ZmY1FXdjVDWGw4dGhnMkdBbGhTT2lYalpYVE5DaHFmLXlDX0Z1VEVJM2FhT2c5X25nRmcyN0xRYXd0V29tbGF3emxQeXByUndRTTF2U0HSAbMBQVVfeXFMUGdnUGFqS19NT1A1V0gtQ182bnAyQzB3WGttS2l3SThwaFNSQWJJOE1FYVNkRFVOWDQ4SUtCWE1wTGg1MWdXZG1fa1J0UnZtanhHa2h1cjJvdzhOd3NiTDZ3QjhEX094ZkswbzdIT19zTW9sai1VWlhQSE9ycHVaLXYzWDlRUldLMm1wUXZhXzhVbGw2NUhWT0pYb2tEdHhQdlM0NHgtOEJWV2ZsWE4wT1NpNE0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 16:18"
+        "data_noticia": "04/10/2026 13:29"
       }
     },
     {
@@ -997,11 +878,96 @@
         ]
       },
       "properties": {
-        "titulo_evento": "After months of war with Iran, people across the US say they're feeling the strain of high gas prices - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmc3R1JUeThHWnJkWXhhOFJFRXVkWEpQWUtYSjBJWTJzclV0NVlTdFJVZnYtV2xNVWQxMFgyX2thWEVvUldDNWxaWmhTR0lfRnM1dUFSbGY5N3dKQ1JMWmN5VkdfcVd6MkwxcGk2dG5VZEJONEM1MS1KOGhxQWk2UnF0Vnk5WGFheGZ1MnMtLWJTckVP...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmc3R1JUeThHWnJkWXhhOFJFRXVkWEpQWUtYSjBJWTJzclV0NVlTdFJVZnYtV2xNVWQxMFgyX2thWEVvUldDNWxaWmhTR0lfRnM1dUFSbGY5N3dKQ1JMWmN5VkdfcVd6MkwxcGk2dG5VZEJONEM1MS1KOGhxQWk2UnF0Vnk5WGFheGZ1MnMtLWJTckVPRnJmeTV30gGfAUFVX3lxTE9FdzlqSVc4TU9RSDBMRWtOMlFRREJEdk5VdVhIM3gtZG5qOEpXWnN0eWhrUWZCeTRlWmZPeDVhc3ZYT1dYR1g3bmR2S2Jmdk1aRzhaZS1fSm13WVoyeXNpUGdrYUdBR0I3d1pkcjZoQ1ZWc0NDcElfVEZmU3lyb3U2cnE3bFV6V0ZtaVJQcDZSVHNXdFVDQm1mVmdObU5GMA?oc=5",
+        "titulo_evento": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEwRGxoTll0b2ZCWkRZZl9iUzBKblN5TXJNM0Y5RXpZUmYwMW1YVW0wcFZYcEl1UTk0Q3VpTl9qZXBtYkg1QzdBWDZIa0wwdWZJZ0tsbU5DbHg1LWhOR2hCWWRzUVV4Qy1wd1pWVW9ZQ3NrdmE4RkpJUkRJYXk0ekNzVXQzalpLY3AtUU1mb3FlcnRn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEwRGxoTll0b2ZCWkRZZl9iUzBKblN5TXJNM0Y5RXpZUmYwMW1YVW0wcFZYcEl1UTk0Q3VpTl9qZXBtYkg1QzdBWDZIa0wwdWZJZ0tsbU5DbHg1LWhOR2hCWWRzUVV4Qy1wd1pWVW9ZQ3NrdmE4RkpJUkRJYXk0ekNzVXQzalpLY3AtUU1mb3FlcnRnc1BEUi1KaDVEUWFiVUhF0gGoAUFVX3lxTFBMNDgyNFd0ZWdGbHlrRGNsUEtGbUx2ci1KakxlMXpuRks0Nl9jY2pjdC1pTkRVYXJRajFmdVZqaHVQZ2lmTmtzVkJaM1JnWWI3VlBTZHhYMDBRUjd5R0NzNEZ0S2w5bVJ5NkpvZHZqaWFPd0V0T2FrX1V1bW1vaFpiYUYtNHJoYko3ZTNXQW1ZTVV1RlNGN2ZZRmJvWUZiUWFxcGNRSWJ0UA?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "04/10/2026 12:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Energy Secretary Chris Wright says Trump was \"well aware of the risks to energy flows\" before launching Iran war - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFVFczZlY2phY1U3bEJRcjlweG1TN0VteEk0dVJRTG9tUTRVYjNRWWZNWmgwZjBoOUFSTzJoWWYtTUZzTGJuVHc5RkJmOXZhVkplWHlhUWQyTHVrN1lfZnkzMzE1Q2lHZTBTNUd6Yl9yMjBhb0hmV3o0Y2NHeEsxZUt2SnE5MHJC?oc=5\" target=\"_...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFVFczZlY2phY1U3bEJRcjlweG1TN0VteEk0dVJRTG9tUTRVYjNRWWZNWmgwZjBoOUFSTzJoWWYtTUZzTGJuVHc5RkJmOXZhVkplWHlhUWQyTHVrN1lfZnkzMzE1Q2lHZTBTNUd6Yl9yMjBhb0hmV3o0Y2NHeEsxZUt2SnE5MHJC?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 10:20"
+        "data_noticia": "04/10/2026 18:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran tells US: there is ‘no military solution’ to end the war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkpyTExGanRuUDljTW85VnZfN3FiRV9sWUVVanlIX0xMYjBtYXZlN0dRU21VbnBpU2ZYVVVGcFJ6SUllMkFOelkwVGJESWdQNDdObTNzMllrcF9VUlZIeXRDTERQd1ZhWllfaW5SQTBLSEtVMDNDSFdiYmlSNWtvTU5uUWJvMlVZelViNUZaTzVUdHRvblRSVEFxRWpkeFBNYWlWSVNrYkhGUGZFTHfSAbMBQVVfeXFMTndkdmRXaEU0aFFNbm5TWVJqVFROUnhRdWFJQWEycmxDNFIzMUhMbjZvSmtIUVZrSUo2MXZXR3JsOU81cjlTOFRjU0lZWk0zMkh1dElEcmo0OWZJQnpXRlZLanpBNFRvQ0Z5eDhTbDRwb0R0QjBlZVFjcWNKUEVhM1k1dWxiblZwNDYzSUhGbF84RGNoUmJ2QnVjelQ2ODViNkVhWldHR1VUejV3a2dOc21ibkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 18:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPODNiaXpEanFEcjZWQTgtWkZyRUp4RzEzREpJRGtraDd6S2xrSXBveGlXSWJMeTh2VWw4UFhoalVCMTBLTHhReTlSb3czUjlkY1F0ZXRuRkFWWHZxLWJHdTR6QkZ2LUtiTFNzbGJObk5xWVh4N0F3ZThFU1ZwazZOLXBidlFHaXVnSlRiTnJTb3Jua2VI...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODNiaXpEanFEcjZWQTgtWkZyRUp4RzEzREpJRGtraDd6S2xrSXBveGlXSWJMeTh2VWw4UFhoalVCMTBLTHhReTlSb3czUjlkY1F0ZXRuRkFWWHZxLWJHdTR6QkZ2LUtiTFNzbGJObk5xWVh4N0F3ZThFU1ZwazZOLXBidlFHaXVnSlRiTnJTb3Jua2VIUjJoQtIBngFBVV95cUxQRFdIR21LY2t6ZDNOUC1PMlV4SkpkQkF3MzVieGVVQ0U3WDM2T3V2NTFoSk9PbWZCQkZac0pxVkNXY0daT3F5Mll2Ty1nUlVKVmZHSEdtaTkxX25sckZIWjVCYllTRk9qRElQbUdRTjFPOVFkSjh0RHBjWTUzSjBleGtnY3kyekFrb29PV2lxNFMtNk44bU5YbzhKQ0gzQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The New York Times. . The Saudi-backed government of Yemen on Sunday announced a major military campaign against the Houthi militia, a key Iranian ally, plunging the Middle East even deeper into war. The Iran-backed Houthi militia said it had targeted a - facebook.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUg5ektUSXhpV3B6bmdYODFJc0YyeXQyTzNkZEJPWjIyVnFIZUE2UzhPb0h4U0ZEc0JoWGRMWmtJWDV4ME9NNVFtUnNUR0RKM3gxTTZZQUJiV2J4aVhVbDdmR3FkTlZoYjdzVFI5UDBjUi1tN1JSeXNEclFEZE94QVZVbDJxMkx4MFh5MXU0X0pBbm9I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUg5ektUSXhpV3B6bmdYODFJc0YyeXQyTzNkZEJPWjIyVnFIZUE2UzhPb0h4U0ZEc0JoWGRMWmtJWDV4ME9NNVFtUnNUR0RKM3gxTTZZQUJiV2J4aVhVbDdmR3FkTlZoYjdzVFI5UDBjUi1tN1JSeXNEclFEZE94QVZVbDJxMkx4MFh5MXU0X0pBbm9Ib05XeVR0WU04dW1qQzFNTGo4WkZGX0dLT0lRMUtYbGctcWNjamJzTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 18:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Nicholas Kristof: Why Iran could choose to escalate the war - Indiana Gazette Online",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVV9LcjhYTnB4ZldjbWZWaHNUeXFUeDFPRVc0QldLLTVzSFlvT0dNSW95eWdUMk1ZaVZUNHY4aXVkcExGejNrYmZWY1Bha0d3cGpXYUUzS0lQNGRDZWRac1Nfc2UzVXVNNElKS0lLSngtVFRJS0FvZGdlaXVUdDlWWDRjdDFNUnFQYkNSUy15a3NnNVRJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVV9LcjhYTnB4ZldjbWZWaHNUeXFUeDFPRVc0QldLLTVzSFlvT0dNSW95eWdUMk1ZaVZUNHY4aXVkcExGejNrYmZWY1Bha0d3cGpXYUUzS0lQNGRDZWRac1Nfc2UzVXVNNElKS0lLSngtVFRJS0FvZGdlaXVUdDlWWDRjdDFNUnFQYkNSUy15a3NnNVRJcU0tekRxQ3QtUGtWMjRGa0d2amdDZ1VWd0J0QTQybVA1dXVEQkZmUmlWQmJ2ODB0SmkyM2NUN05QNUc1S2w1dENEUDhZMDRIWFhuNQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/10/2026 19:20"
       }
     },
     {
@@ -1031,45 +997,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks - foxnews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmp0TFVwNGdSLTVYSVgwRk93b3BsTzZoRlB2bC1hbm1uQ2lGSWdpRU9MVFItcm9iWk5SQTZMekJlSTRSZDNxQXFsazZ2alI2bUlLbVZiaEdrNFlPQVFtYTRUWl9USnpER1hxOU9Qa05vRDVDX3A5dGZtT1FzdlRCNnBSWGdwUWZsbXh0Q1lmQzhyQThW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmp0TFVwNGdSLTVYSVgwRk93b3BsTzZoRlB2bC1hbm1uQ2lGSWdpRU9MVFItcm9iWk5SQTZMekJlSTRSZDNxQXFsazZ2alI2bUlLbVZiaEdrNFlPQVFtYTRUWl9USnpER1hxOU9Qa05vRDVDX3A5dGZtT1FzdlRCNnBSWGdwUWZsbXh0Q1lmQzhyQThWY3prQmhELW8xVFE5YnZFaTJOY201N1NjcmdjUmV6a20wZ0RsckNB0gHAAUFVX3lxTE5ZUTlHNXJLVEVFY2tvOGdFT3ZmQXl3SGdvbzFwUkpwX1B3RXZKRFpGTWg2X05fTFZjcnl3bjI3Y3I4aFZOZjdQaHlUTHN5RzVyQWI1SnladWQ3SGVJbDhkbWZTcVlfU2h1X0ZHS2pOUTlqVGo2amF0WXhuTExBZTJyWFh2R3dFNGdWUzh1NUUzTEMtQjI0YzRQWGhXZWNZajRqQWI5bmlIUXp1SWVmR2ttTUJuVXp5Y0FfNFlhbVAwbA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 11:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘There is no military solution’ to end war, Iran tells US - Anadolu Ajansı",
+        "titulo_evento": "‘There is no military solution’ to end war, Iran tells US - aa.com.tr",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTl1QlppeGs2ZkVqTnpuNHVvbUNkOGJqZDVONXh6dk9BaDVMZ2l2S05DV2E2b3MzbWU2ekJHYzJEaVlmcHBSOUEzSUVEbnRMUE1QMkRsWG1ZWjZpNlh4amN2bU5VelNkTWd3TnBOcW1LQWVQcFIxcXVIZ1RiQzZSVzRBdGRWMjREeC1sZkExZ1d1MzVz...",
         "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTl1QlppeGs2ZkVqTnpuNHVvbUNkOGJqZDVONXh6dk9BaDVMZ2l2S05DV2E2b3MzbWU2ekJHYzJEaVlmcHBSOUEzSUVEbnRMUE1QMkRsWG1ZWjZpNlh4amN2bU5VelNkTWd3TnBOcW1LQWVQcFIxcXVIZ1RiQzZSVzRBdGRWMjREeC1sZkExZ1d1MzVzdXd0Nk1Xb2g?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "04/10/2026 10:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTFtV1pwZjU2aTNjWFRaQWRScS1vakQ3R3hXUXJKXzdtX2taOEhjUU9RdjhCUk1nYW8yNlhWOTdFbmlWRjVOVjRZYVF3M1hWTTdsUHBlX0E0cUV4dGRHNEpOUmNQRFVwcE1SMkIyNHNzX1UyMFhxaWdHMU1fX1pESFR1RDI3VHI5YzNXetIBkgFBVV95...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTFtV1pwZjU2aTNjWFRaQWRScS1vakQ3R3hXUXJKXzdtX2taOEhjUU9RdjhCUk1nYW8yNlhWOTdFbmlWRjVOVjRZYVF3M1hWTTdsUHBlX0E0cUV4dGRHNEpOUmNQRFVwcE1SMkIyNHNzX1UyMFhxaWdHMU1fX1pESFR1RDI3VHI5YzNXetIBkgFBVV95cUxOSlpxRWpGdkRZeVNaYkM1bTlzT3ROMWM3WjFTRlFHZENhOWx4X2hyNV9QNkx3YWROakhRdURnUDZyVXNWNVRVZmE3STJINWZOdUF0RGZOWHVMcTMwWjkxUEd2TUYyenY3eGJOc0pfa2hKaUZ4Y0tleDFtNDNXX2hVa2c4YVozeW5sMUt1SnZLRF9lQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 05:00"
       }
     },
     {
@@ -1094,16 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "America’s Arctic war machine roars to life as commander reveals chilling new reality on Russia’s doorstep - foxnews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUlERzgtMEhOalVRbWFnMmRIblB4ZWlMV1lXMVdnZFFxczFZczJjSVZhcS1xU3I4N2xmUUwwN1Z5bTlqSVFJSjY3QTNDNUVfcm1nVzBDbFNEUTBzYUNDLVZqQ2M0dmpWbWRzUHZMNlBneC1Xbzg5d3RHNU9uUk1fdWh3dFFLN3FrVVlKM1JGaW5ZZmxT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUlERzgtMEhOalVRbWFnMmRIblB4ZWlMV1lXMVdnZFFxczFZczJjSVZhcS1xU3I4N2xmUUwwN1Z5bTlqSVFJSjY3QTNDNUVfcm1nVzBDbFNEUTBzYUNDLVZqQ2M0dmpWbWRzUHZMNlBneC1Xbzg5d3RHNU9uUk1fdWh3dFFLN3FrVVlKM1JGaW5ZZmxTYm5SNmRidGJScE9ZWFFmbGVPaWJjRzM4Sk1wM19vTGxsU05pc2lvemdOMlNDUdIBxwFBVV95cUxNZ2JFU2x6dGEyUFdqc0ZvUFhQV1ZfSWstcGE5aDlIZE9UNFdTT3VNNWdaNDgyclQwbE4tdmV1bHNBeXBfOGxsSkc0MnMxM3FwT2R4bmg1RmpoM3E2c1E0MG5LaDdHVUN5dW1KRTk1dFl1STgyR3hfUVVpNEZXeGtwUk40VXJVbGhaak1rYmJmVWJXc0tkaUNkRmhpMy1VdFRnV1VzNm8xLWtFNVpDdWRzLU5PZGdGTHZkdWhST1VfQUlPNHFpU2gw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/10/2026 15:00"
+        "titulo_evento": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQzNUUHcwU0p6b09veXMwclNBOVdLclhlTmFNbVdFVUQxSF9MTWdXbHpuajFKSW9obmpyTjVucTRyalFKbG9SR0ZLTnFzSUJMN2hpQThOdTFqaFNvN1pjU1FueHk0LTI5LUdYTFdPb2VLU0RQTXJLUHExRGk4UQ?oc=5\" target=\"_blank\">Biljana...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQzNUUHcwU0p6b09veXMwclNBOVdLclhlTmFNbVdFVUQxSF9MTWdXbHpuajFKSW9obmpyTjVucTRyalFKbG9SR0ZLTnFzSUJMN2hpQThOdTFqaFNvN1pjU1FueHk0LTI5LUdYTFdPb2VLU0RQTXJLUHExRGk4UQ?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "04/10/2026 17:25"
       }
     },
     {
@@ -1120,7 +1052,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5\" target=\"_blank\">Iran’s...",
         "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "04/10/2026 13:56"
+        "data_noticia": "04/10/2026 18:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The UN blacklist may not have teeth, but it could still hurt Israel’s economy - calcalistech.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41dnVFY2pRcWhTdktuSG5aRnJtTzhiaVJ0eUFmbjVxX2tzWTJsU3EyVWhvQmU0OXJiWkpGNlpCb1ZfWDJ6NnFDemdQQTMzTUx2VnpfWExMM2k5TUxjZm5Ca0llcDNoVlE?oc=5\" target=\"_blank\">The UN blacklist may not have teeth, b...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41dnVFY2pRcWhTdktuSG5aRnJtTzhiaVJ0eUFmbjVxX2tzWTJsU3EyVWhvQmU0OXJiWkpGNlpCb1ZfWDJ6NnFDemdQQTMzTUx2VnpfWExMM2k5TUxjZm5Ca0llcDNoVlE?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/10/2026 12:36"
       }
     },
     {
@@ -1162,6 +1111,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia Hits Kyiv Bridge, Black Sea Cargo Vessels Amid Conflict - Global Banking & Finance Review",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXhnZXd5dlRUWGFSNlBEbVgtUzRZd082bWlnTGhlUVFMNGc5UlpKRmdhZXp5YjNxNnZRdHlhdW1sdGxBcWtUUS1fUi14NHgyLXk3dlZYa2ZCLUJKNVdGQnF4SkNOcGNQMWZRUVlOanNpdEFVbjA1cTZXUmljQl9vUmNPOTZQYldpSVhIa1Fn?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXhnZXd5dlRUWGFSNlBEbVgtUzRZd082bWlnTGhlUVFMNGc5UlpKRmdhZXp5YjNxNnZRdHlhdW1sdGxBcWtUUS1fUi14NHgyLXk3dlZYa2ZCLUJKNVdGQnF4SkNOcGNQMWZRUVlOanNpdEFVbjA1cTZXUmljQl9vUmNPOTZQYldpSVhIa1Fn?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/10/2026 20:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany Announces €1 Billion Military Aid to Ukraine Amid Kyiv Attacks - Global Banking & Finance Review",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVBVSjJUUExLUkVKTUxxdDR1bFVFbmxUR3dWSTllYkRxVmJlTHlIZnE2V3BfaWNyMjFveHRpUmNwU0MweGh3Wk5FNUFVWERLMEJyRHZ5NzhXQ2RlU2UzWU5IZFNOcWY4Uy1ldjFXLU9lSGpJd1pmS2luX0ZxSU5EOHZiU3BJclN4NUZ4LU55cGJPY0Jl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVBVSjJUUExLUkVKTUxxdDR1bFVFbmxUR3dWSTllYkRxVmJlTHlIZnE2V3BfaWNyMjFveHRpUmNwU0MweGh3Wk5FNUFVWERLMEJyRHZ5NzhXQ2RlU2UzWU5IZFNOcWY4Uy1ldjFXLU9lSGpJd1pmS2luX0ZxSU5EOHZiU3BJclN4NUZ4LU55cGJPY0JlOUNQQ1ZCYW5rdHBi?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "04/10/2026 16:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1179,23 +1162,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Germany Announces €1 Billion Military Aid to Ukraine Amid Kyiv Attacks - Global Banking & Finance Review",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVBVSjJUUExLUkVKTUxxdDR1bFVFbmxUR3dWSTllYkRxVmJlTHlIZnE2V3BfaWNyMjFveHRpUmNwU0MweGh3Wk5FNUFVWERLMEJyRHZ5NzhXQ2RlU2UzWU5IZFNOcWY4Uy1ldjFXLU9lSGpJd1pmS2luX0ZxSU5EOHZiU3BJclN4NUZ4LU55cGJPY0Jl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVBVSjJUUExLUkVKTUxxdDR1bFVFbmxUR3dWSTllYkRxVmJlTHlIZnE2V3BfaWNyMjFveHRpUmNwU0MweGh3Wk5FNUFVWERLMEJyRHZ5NzhXQ2RlU2UzWU5IZFNOcWY4Uy1ldjFXLU9lSGpJd1pmS2luX0ZxSU5EOHZiU3BJclN4NUZ4LU55cGJPY0JlOUNQQ1ZCYW5rdHBi?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "04/10/2026 16:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1206,57 +1172,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkhBR2p5cEVqTGNDM3c5ajE5UVNPSGFFMTRYQ0ZFRzJaTm81LVE4czlrNHJoLWJIVDNpWDhRRk1ZV0dJR29YM3NaS0h2bzB3NFFaOVNmaXVfYTNvN0lodnU0WGhLU2NTdkwtNXZwMGxrN3hCeGVSQ0FIQWw5MWJocGJ0S1hIMV92bFR4eHFMQlI3enNsYS0yRw?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "04/10/2026 16:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Latvian Election: Pro-Ukraine Coalition to Lead After Key Victory - Global Banking & Finance Review",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbUNCSUE1a1d0ZlgzT0Nfb1ZfclFhYm1WRHZxQXJzdFU0TXJwV0pucy1KeUZ2WnNSdzJhdFF6UVJzbTdDa3VOQllqdzRha01GSlZkX0d3VUNjcU5uQmdnRE1UVUo3akNsc05sX244Z055bFdBX0F2V1o3dl93TjFuakRybnhVQ3ZBcC15QU5hdEFjMEV0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUNCSUE1a1d0ZlgzT0Nfb1ZfclFhYm1WRHZxQXJzdFU0TXJwV0pucy1KeUZ2WnNSdzJhdFF6UVJzbTdDa3VOQllqdzRha01GSlZkX0d3VUNjcU5uQmdnRE1UVUo3akNsc05sX244Z055bFdBX0F2V1o3dl93TjFuakRybnhVQ3ZBcC15QU5hdEFjMEV0MTJsVTJaV1ZuZw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/10/2026 13:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia Hits Kyiv Bridge, Black Sea Cargo Vessels Amid Conflict - Global Banking & Finance Review",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXhnZXd5dlRUWGFSNlBEbVgtUzRZd082bWlnTGhlUVFMNGc5UlpKRmdhZXp5YjNxNnZRdHlhdW1sdGxBcWtUUS1fUi14NHgyLXk3dlZYa2ZCLUJKNVdGQnF4SkNOcGNQMWZRUVlOanNpdEFVbjA1cTZXUmljQl9vUmNPOTZQYldpSVhIa1Fn?oc=5\" t...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXhnZXd5dlRUWGFSNlBEbVgtUzRZd082bWlnTGhlUVFMNGc5UlpKRmdhZXp5YjNxNnZRdHlhdW1sdGxBcWtUUS1fUi14NHgyLXk3dlZYa2ZCLUJKNVdGQnF4SkNOcGNQMWZRUVlOanNpdEFVbjA1cTZXUmljQl9vUmNPOTZQYldpSVhIa1Fn?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/10/2026 15:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Gaza's Displaced Wait Overseas: Grief and Hopes for Return, 3 Years On - Global Banking & Finance Review",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObHNYUXNsWmllZ0lua0h2UVl2STg1eUJxb0hka2wtY09tNkg5SFNMRDhVNER3VEoxeDA4cHF5dnE2dmd3aG9XcHhrMUVkQjlab2NsdXdtb2RmbE1TQWozWjFzUUtURkUtT2t4b1QzczZ3OVFBTkFNUENRemppbjNPN0Y2LWt6VkVCQzJOX1VfREE1QTFJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHNYUXNsWmllZ0lua0h2UVl2STg1eUJxb0hka2wtY09tNkg5SFNMRDhVNER3VEoxeDA4cHF5dnE2dmd3aG9XcHhrMUVkQjlab2NsdXdtb2RmbE1TQWozWjFzUUtURkUtT2t4b1QzczZ3OVFBTkFNUENRemppbjNPN0Y2LWt6VkVCQzJOX1VfREE1QTFJUEVWUTZ4Mk5qdw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "04/10/2026 14:37"
       }
     }
   ]
