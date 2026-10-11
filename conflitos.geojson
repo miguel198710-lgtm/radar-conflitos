@@ -57,6 +57,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+        "descricao": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/10/2026 01:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+        "descricao": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran. ",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -176,57 +210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.2245,
-          39.3999
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
-        "descricao": "Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "10/10/2026 19:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-        "descricao": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/10/2026 18:38"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.405,
-          52.52
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-        "descricao": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.",
-        "url_fonte": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/10/2026 18:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -236,7 +219,7 @@
         "descricao": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "10/10/2026 19:28"
+        "data_noticia": "11/10/2026 01:41"
       }
     },
     {
@@ -254,23 +237,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "10/10/2026 20:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Twelve killed in attack on airport in Saudi capital Riyadh",
-        "descricao": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "10/10/2026 22:40"
       }
     },
     {
@@ -329,81 +295,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Police clash with protesters in Brussels as thousands march against spending cuts",
-        "descricao": "Clashes broke out between police and protesters in Brussels on Friday, 9 October, as thousands marched against the Belgian government's planned spending cuts. Police estimated that 30,000 people took part in the demonstration, organised by trade unio...",
-        "url_fonte": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "10/10/2026 00:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine’s Operation Vivaldi foils Russia’s plan to encircle the Donbas, ISW analysis shows",
-        "descricao": "Ukraine’s counter-offensive on the Lyman axis collapsed the northern arm of a Russian pincer movement aimed at surrounding Ukrainian-held Donetsk, liberating up to 176 square kilometres and forcing Russian units onto the defensive, the Washington-bas...",
-        "url_fonte": "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "09/10/2026 19:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's IRGC strikes tanker and threatens to target vessels beyond Hormuz",
-        "descricao": "Iran's Revolutionary Guard warned that vessels “violating” its designated routes would be pursued and \"punished\" anywhere in the region, as maritime agencies reported two further strikes on commercial ships in the Persian Gulf.",
-        "url_fonte": "https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "09/10/2026 17:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin offers help to end Iran war while Russia continues its own in Ukraine",
-        "descricao": "The Russian president met Pezeshkian in Turkmenistan and pledged to do “everything in our power” to end the ongoing war between the US and Iran, despite Russia not being among the official mediators.",
-        "url_fonte": "https://www.euronews.com/2026/10/09/putin-offers-help-to-end-iran-war-while-russia-continues-its-own-in-ukraine",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "09/10/2026 13:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "At least two killed, multiple people wounded in attack on Riyadh airport",
-        "descricao": "\nAt least two people were killed in an attack on Riyadh's King Khalid International Airport on Saturday, including an Egyptian flight attendant, according to a medical source at a local hospital. Earlier this week, another attack on the airport by th...",
+        "titulo_evento": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
+        "descricao": "\nAt least twelve people were killed in an attack on Riyadh's King Khalid International Airport on Saturday, including an Egyptian flight attendant, according to a medical source at a local hospital. Earlier this week, another attack on the airport by...",
         "url_fonte": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "10/10/2026 18:03"
@@ -526,23 +424,6 @@
         "url_fonte": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "09/10/2026 19:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "UAE: Omani Flydubai co-pilot planned suicide attack",
-        "descricao": "A Flydubai co-pilot planned to crash a Dubai-Tel Aviv flight into the terminal at Israel's Ben Gurion Airport, according to a UAE official.",
-        "url_fonte": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "09/10/2026 18:23"
       }
     },
     {
@@ -686,57 +567,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon raises official toll of troops who died during war with Iran to 21 - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdS...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 22:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 17:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon raises US troop death toll in Iran war to 21 - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm1URFA1S1lWN21DNXBGNEhyY1J2eGhoSFJLNlVuYUU5NkFLWGJKWEhJSnhXc1h4aUItdkRiNG43bl9lbEFyY0dKTEFTX2JGM2tBR1g4NEMzTUgtTnBvSWtRbG5sdklDenBNR1pyZnEwV1NXS05vV3Q1LWQ3ekdQVm9hN2F6MjlHLXc3NUlRaEZuN3pO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm1URFA1S1lWN21DNXBGNEhyY1J2eGhoSFJLNlVuYUU5NkFLWGJKWEhJSnhXc1h4aUItdkRiNG43bl9lbEFyY0dKTEFTX2JGM2tBR1g4NEMzTUgtTnBvSWtRbG5sdklDenBNR1pyZnEwV1NXS05vV3Q1LWQ3ekdQVm9hN2F6MjlHLXc3NUlRaEZuN3pOVi1iTGxWaFR2SEV6S2JEejN2aUI?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 18:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.006,
           40.7128
         ]
@@ -746,7 +576,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5\" target=\"_b...",
         "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 22:44"
+        "data_noticia": "11/10/2026 00:01"
       }
     },
     {
@@ -754,50 +584,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5\" target=\"_blank\">Ukraine war: Russian glide bomb attack on Zaporizhzhia...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
+        "titulo_evento": "Pentagon raises official toll of troops who died during war with Iran to 21 - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 20:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Significant' activity detected at Iran nuclear site that was battered during early stages of the war - New York Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4VUhEUVZoOHM4ci1iNGVqeXFOZFY0OW5lV3FTRUViUThjblYzd3oxNUZaeVYwcHFIUnB3Qjh2UktiRFRqam10RXpnNlI?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 21:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 13:41"
+        "data_noticia": "11/10/2026 00:34"
       }
     },
     {
@@ -822,6 +618,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon updates official count of US service members killed during Iran war - report - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0UldOTjhJTlB5dUNsc2I2MGg5eUZxWWlxVWN6T2oyX2haZWU1MFVRRjAtMTZaTmR4b3k2Tml3VlVhRUhWYzQ5TUxWcHFjZkg5YjZ1WGRhT3hZMnlnVllyaVo3b2dxbXNfblE?oc=5\" target=\"_blank\">Pentagon updates official count of...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0UldOTjhJTlB5dUNsc2I2MGg5eUZxWWlxVWN6T2oyX2haZWU1MFVRRjAtMTZaTmR4b3k2Tml3VlVhRUhWYzQ5TUxWcHFjZkg5YjZ1WGRhT3hZMnlnVllyaVo3b2dxbXNfblE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 00:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZk9KNlJNSjlZWGJEaUs4eklyQUd6UlRBTWFwaHRGcU5vUFpRNVJxQjZKVHVIUzhsaFhjLVRxUlo4QnRGTkdsNG42eUxLUDBlY2dYUU9rSHNXUzVmR0lEMy02cEttUTJoZXdjaXE4Ujd6RlFVSW9mMzJHcWhsUjRJOHhYaDFpdXVtaGs1aFVBdmJVNkNH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZk9KNlJNSjlZWGJEaUs4eklyQUd6UlRBTWFwaHRGcU5vUFpRNVJxQjZKVHVIUzhsaFhjLVRxUlo4QnRGTkdsNG42eUxLUDBlY2dYUU9rSHNXUzVmR0lEMy02cEttUTJoZXdjaXE4Ujd6RlFVSW9mMzJHcWhsUjRJOHhYaDFpdXVtaGs1aFVBdmJVNkNHV2hpT2xXZHp3eGd6aEt0R1RURENRUmZjSkpPVlRhWkwzanM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 01:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon reveals more troops died during Iran war, raises toll to 21 - USA Today",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVnNzNzakd6UjBVbFJoQnhPZDRDTEdWMHY1YWJMdGkwZXk4a09CSldIOXZjUmc1OGYzc0N1OTdKVlJEdmF3aWtzdExZekV5SEIxR1pET2NjUFN6am5jZTZRZVludUtKWHFfbnB1bXVNdEVVbXRBbHpTbFBoUmtqeGFNdGJEQ2pnYlFnSHByYXFuLXJU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzVnNzNzakd6UjBVbFJoQnhPZDRDTEdWMHY1YWJMdGkwZXk4a09CSldIOXZjUmc1OGYzc0N1OTdKVlJEdmF3aWtzdExZekV5SEIxR1pET2NjUFN6am5jZTZRZVludUtKWHFfbnB1bXVNdEVVbXRBbHpTbFBoUmtqeGFNdGJEQ2pnYlFnSHByYXFuLXJURUlLNHZ5cTl6cnVoSHhIUGRnblg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/10/2026 23:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 01:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia kills 20 in Ukraine as US hosts ‘productive’ talks to end war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhV...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/10/2026 17:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says Ukraine needs a new president, blames Zelenskyy's strikes on Russian refineries for high diesel prices - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9OWFA3OWV1Uy00bm5ydUxjM1ZxVHFFV0lFTldIYURIbmNuM19JdENydFhkWVY2ak1aNHlXUDVyY2Z3akE0UDRqUTBMdmFEeFQ2emhBLVYtdGtzYzBSLXBaSVpvM3FlWWlWZ2QtWmdpVTZxbVctZHl2NUhn?oc=5\" target=\"_blank\">Trump says Uk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OWFA3OWV1Uy00bm5ydUxjM1ZxVHFFV0lFTldIYURIbmNuM19JdENydFhkWVY2ak1aNHlXUDVyY2Z3akE0UDRqUTBMdmFEeFQ2emhBLVYtdGtzYzBSLXBaSVpvM3FlWWlWZ2QtWmdpVTZxbVctZHl2NUhn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 01:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -831,24 +729,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9C...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1ZaSjhHakhEb2hLUXUxdWZVb1pVQXJicTgtVENldndaRTI4VG5iaFJyV0sxSTRieVliX0c3SV81SEYtNmFxOXd2YUM2bDh6Tjk0cnBCVWM0RWNJeE4xLUVKXy10ZUM5cVNHc2tZYXR2R1A5U21MRVVjb0hMcHp5VTNfc29FTWFUaW51MVhnemJfRW9CMk8wb29HWVpzQ3pENDZscW43SEVxNHhUcUxrN3JBaUo4bWtENEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 22:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBL...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 14:14"
+        "data_noticia": "11/10/2026 01:32"
       }
     },
     {
@@ -873,16 +754,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "The Iran war is exposing dangerous gaps in the US military system built to save wounded troops - Business Insider",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDFPM0UtMHhyMTBwQmdxZkdFa2QzU0JabHljN256bnBBWjhBVFh6UDlEb1ZNTkJ5cy14bHJXdnQ0VEVrTm1zMmtQM0J0M2ZQWElBbXcwWmlOM3lPOVpERFZzTzMxYjE0RVNidzZJRV9aM2I2YWxRTVlwSEdSTDJ0R0FCS2x1Tk1MZ0dFYkc2U0hzbVZl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDFPM0UtMHhyMTBwQmdxZkdFa2QzU0JabHljN256bnBBWjhBVFh6UDlEb1ZNTkJ5cy14bHJXdnQ0VEVrTm1zMmtQM0J0M2ZQWElBbXcwWmlOM3lPOVpERFZzTzMxYjE0RVNidzZJRV9aM2I2YWxRTVlwSEdSTDJ0R0FCS2x1Tk1MZ0dFYkc2U0hzbVZlS0FCOF9sbw?oc=5",
+        "titulo_evento": "'Significant' activity detected at Iran nuclear site that was battered during early stages of the war - New York Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4VUhEUVZoOHM4ci1iNGVqeXFOZFY0OW5lV3FTRUViUThjblYzd3oxNUZaeVYwcHFIUnB3Qjh2UktiRFRqam10RXpnNlI?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 11:07"
+        "data_noticia": "10/10/2026 21:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/10/2026 14:14"
       }
     },
     {
@@ -895,11 +793,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon raises official death toll from Iran war to 21 - Stars and Stripes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDhOZS1IUXBRRmk3NzZJcklobFZvaHNxUTdlRGNfbkQzR0NBY19ubDdIak1ycE5EZmNmUGpXbUpza1JUQnI5Z2dyMXZ4UGxsc0VKLWJuWU9HWmMzZG5kV004M05FeC1haEVTX19xRm1KY3ljY3dLbG91V0JXZ1RYVk9vYXVOQWw1QjY3UnBYMHFLSVdw...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDhOZS1IUXBRRmk3NzZJcklobFZvaHNxUTdlRGNfbkQzR0NBY19ubDdIak1ycE5EZmNmUGpXbUpza1JUQnI5Z2dyMXZ4UGxsc0VKLWJuWU9HWmMzZG5kV004M05FeC1haEVTX19xRm1KY3ljY3dLbG91V0JXZ1RYVk9vYXVOQWw1QjY3UnBYMHFLSVdwa0gzOXQ3RXcxdUE?oc=5",
+        "titulo_evento": "Pentagon raises US troop death toll in Iran war to 21 - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm1URFA1S1lWN21DNXBGNEhyY1J2eGhoSFJLNlVuYUU5NkFLWGJKWEhJSnhXc1h4aUItdkRiNG43bl9lbEFyY0dKTEFTX2JGM2tBR1g4NEMzTUgtTnBvSWtRbG5sdklDenBNR1pyZnEwV1NXS05vV3Q1LWQ3ekdQVm9hN2F6MjlHLXc3NUlRaEZuN3pO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm1URFA1S1lWN21DNXBGNEhyY1J2eGhoSFJLNlVuYUU5NkFLWGJKWEhJSnhXc1h4aUItdkRiNG43bl9lbEFyY0dKTEFTX2JGM2tBR1g4NEMzTUgtTnBvSWtRbG5sdklDenBNR1pyZnEwV1NXS05vV3Q1LWQ3ekdQVm9hN2F6MjlHLXc3NUlRaEZuN3pOVi1iTGxWaFR2SEV6S2JEejN2aUI?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 20:45"
+        "data_noticia": "10/10/2026 18:47"
       }
     },
     {
@@ -912,11 +810,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US military loses 81 aircraft as cost of Iran war balloons to $44 billion - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcURnTFU1UkUxeWZ4bkoxQjFrMWlKbVpndE03OFZuY2tiUlllOThpZ0lPVUtTY0pBalZkRnBBVEZhUXVsU0hhRGxYNTYyRWF6WXpFUVUwbFpadXUyNmM4?oc=5\" target=\"_blank\">US military loses 81 aircraft as cost of Iran war...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GcURnTFU1UkUxeWZ4bkoxQjFrMWlKbVpndE03OFZuY2tiUlllOThpZ0lPVUtTY0pBalZkRnBBVEZhUXVsU0hhRGxYNTYyRWF6WXpFUVUwbFpadXUyNmM4?oc=5",
+        "titulo_evento": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/10/2026 20:20"
+        "data_noticia": "10/10/2026 13:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people - BBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5\" target=\"_blank\">Ukraine war: Russian glide bomb attack on Zaporizhzhia...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/10/2026 20:51"
       }
     },
     {
@@ -934,23 +849,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "10/10/2026 14:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Says Russia Will Supply Diesel to US, Raising Stakes for Global Energy Markets - Modern Diplomacy",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVpaVFTQjRQb055akZ0NW5LRVdkUFpXdGxjVDVqRUZ4cDUwMC15VFVYNjRMN2E1ZDlEaFFERzd2TVJCcWFiOGhuc2IxTXJVSXZ3SHV4ajAwcmd6dl9hZWdRQTVCZElFZTB5d0h0eGExemhTb1dZQmtzbnNHejdjc21uSkFsNXRRUXoxLXFTNTR3QlZv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVpaVFTQjRQb055akZ0NW5LRVdkUFpXdGxjVDVqRUZ4cDUwMC15VFVYNjRMN2E1ZDlEaFFERzd2TVJCcWFiOGhuc2IxTXJVSXZ3SHV4ajAwcmd6dl9hZWdRQTVCZElFZTB5d0h0eGExemhTb1dZQmtzbnNHejdjc21uSkFsNXRRUXoxLXFTNTR3QlZvdDN2UVlRd3kta2VDWkJMaXQtOF9RRUwtazhzUUxiTzdGZklqQVJRTUJMRQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/10/2026 14:26"
       }
     },
     {
@@ -992,6 +890,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Says Russia Will Supply Diesel to US, Raising Stakes for Global Energy Markets - Modern Diplomacy",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVpaVFTQjRQb055akZ0NW5LRVdkUFpXdGxjVDVqRUZ4cDUwMC15VFVYNjRMN2E1ZDlEaFFERzd2TVJCcWFiOGhuc2IxTXJVSXZ3SHV4ajAwcmd6dl9hZWdRQTVCZElFZTB5d0h0eGExemhTb1dZQmtzbnNHejdjc21uSkFsNXRRUXoxLXFTNTR3QlZv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVpaVFTQjRQb055akZ0NW5LRVdkUFpXdGxjVDVqRUZ4cDUwMC15VFVYNjRMN2E1ZDlEaFFERzd2TVJCcWFiOGhuc2IxTXJVSXZ3SHV4ajAwcmd6dl9hZWdRQTVCZElFZTB5d0h0eGExemhTb1dZQmtzbnNHejdjc21uSkFsNXRRUXoxLXFTNTR3QlZvdDN2UVlRd3kta2VDWkJMaXQtOF9RRUwtazhzUUxiTzdGZklqQVJRTUJMRQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "10/10/2026 14:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1026,23 +941,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global stocks rise as Trump says Russia to release diesel to world markets - New Age BD",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlZ6NTRuV1dIamNpbk9aX3FVU2NyRmV6OW02VC1lMENveVN5UWNpTE4zeGd2UndyOUxZeGo2VklhM0FUbVpPbzdGbVg2aFdGMkwwLW5Db0Z4eVk0ZGpKQXhWX1ZfV0ZqU2tTZ3lKXzVwSDZqZXRiNUlZOTNaem1jX01ZSUtKY2VGaTF5Q3UwMGM2aDBN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlZ6NTRuV1dIamNpbk9aX3FVU2NyRmV6OW02VC1lMENveVN5UWNpTE4zeGd2UndyOUxZeGo2VklhM0FUbVpPbzdGbVg2aFdGMkwwLW5Db0Z4eVk0ZGpKQXhWX1ZfV0ZqU2tTZ3lKXzVwSDZqZXRiNUlZOTNaem1jX01ZSUtKY2VGaTF5Q3UwMGM2aDBNa1h4Z2h1SXd6SWQ0Rzc1Qk1fYld3SHpzRGxBTGN3ZTY5NFl1Q2c?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/10/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1060,33 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China outlines policy priorities for quantum technology, AI, and the digital economy - Digital Watch Observatory",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUzVLRkNsMmZLMHJJUW5ybDZYZHRvaWRwRjhZUEdNZWNiUWRvTjVxeEFraG15U2E5cUJDTUExMDhVOUt0UDBzWkhRaUI3STM1c3hoejl4dGc5X05rS2hyaGRvUmpsaERTTnNFejE5SFBYLTJla1YyMw?oc=5\" target=\"_blank\">China outlines ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUzVLRkNsMmZLMHJJUW5ybDZYZHRvaWRwRjhZUEdNZWNiUWRvTjVxeEFraG15U2E5cUJDTUExMDhVOUt0UDBzWkhRaUI3STM1c3hoejl4dGc5X05rS2hyaGRvUmpsaERTTnNFejE5SFBYLTJla1YyMw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/10/2026 15:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says Russia to supply diesel to US and global markets - The Lufkin Daily News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWNXdVpobnNFNHdiMUxBaXdNSm9hNXF0WFVZeVU4VzA3T3htRjdNQ0JJVEZfU3NPUVJzOVk5d0xNSm9fb21xX2MyQkJjVVd6Z212QWVwNDlBX2JONmJqVHROV0tnZC1seHBIMDFJVHo4S1FyWFZ1X09BQk9XVFVBdldvZFdGSjJiMXRvQlRsVEpDQ3pH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWNXdVpobnNFNHdiMUxBaXdNSm9hNXF0WFVZeVU4VzA3T3htRjdNQ0JJVEZfU3NPUVJzOVk5d0xNSm9fb21xX2MyQkJjVVd6Z212QWVwNDlBX2JONmJqVHROV0tnZC1seHBIMDFJVHo4S1FyWFZ1X09BQk9XVFVBdldvZFdGSjJiMXRvQlRsVEpDQ3pHUHFQQlZwQjdwWHBHNVBlekVPS3JyVUNuTTFHM2s2d3RaTHBIXzluZUtTczRlS3lXSXVtRU4ydkEzTkgwcUVjU2pkdENMcS1fRGt4Yk5XclRJdUFrMlR4MjVaTEY?oc=5",
+        "titulo_evento": "Russia to supply diesel to US, global markets: Trump - www.daily-sun.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE83dFI2a1k3bzBQRmExejdvakIzVVZva1VNNnRsa0EtaHFhWjBPcWJoTjBHQlNsdmVhMmVyTmtoTDhza0lSUTQ5MjFhWU1DVEtqMXctdVV1TGVWUE0?oc=5\" target=\"_blank\">Russia to supply diesel to US, global markets: Trump</...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83dFI2a1k3bzBQRmExejdvakIzVVZva1VNNnRsa0EtaHFhWjBPcWJoTjBHQlNsdmVhMmVyTmtoTDhza0lSUTQ5MjFhWU1DVEtqMXctdVV1TGVWUE0?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/10/2026 06:28"
+        "data_noticia": "10/10/2026 18:00"
       }
     }
   ]
