@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "descricao": "Tehran offers to facilitate talks between Saudi Arabia and Yemen&#039;s Houthis following deadly strikes on the kingdom.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/10/2026 00:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+        "descricao": "Iran says US has accepted some of its peace terms but calls the reply &#039;inadequate&#039;, as Riyadh airport is hit again.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "12/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Footage shows moment Russian strike hits Ukrainian grocery store",
+        "descricao": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/10/2026 22:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -91,16 +142,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-        "descricao": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+        "descricao": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "11/10/2026 14:38"
+        "data_noticia": "11/10/2026 22:45"
       }
     },
     {
@@ -118,6 +169,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "11/10/2026 17:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "descricao": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "11/10/2026 14:38"
       }
     },
     {
@@ -380,16 +448,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          47.5868,
+          15.5527
         ]
       },
       "properties": {
-        "titulo_evento": "Trump, Zelensky clash over diesel deal as Russian strikes kill 21",
-        "descricao": "\nUS President Donald Trump and Ukrainian leader Volodymyr Zelensky traded barbs Saturday after Washington moved to ease sanctions on Russian diesel and Moscow's continued strikes on Ukraine killed at least 21 people, including four children.\n",
-        "url_fonte": "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "11/10/2026 10:10"
+        "titulo_evento": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+        "descricao": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit.",
+        "url_fonte": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/10/2026 22:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK's Burnham accuses Russia of meddling in Brexit vote",
+        "descricao": "The UK prime minister called for voters in Europe to be made fully aware of Russia's attempts to influence politics.",
+        "url_fonte": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "11/10/2026 22:18"
       }
     },
     {
@@ -407,23 +492,6 @@
         "url_fonte": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "11/10/2026 18:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Saudi Arabia: Second strike hits Riyadh airport",
-        "descricao": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit.",
-        "url_fonte": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "11/10/2026 16:24"
       }
     },
     {
@@ -572,6 +640,74 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1Zf...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 21:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "South Korea’s military says North Korea fired a projectile toward the sea - WRAL",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHRvNmZFVzZLbkxXUndmdW5JRFpLTk1XNzVkZS1Zck8xVmg4VnBxU1h3aHd2bk1GSFRiR0F0RVBNOEVwa3ZmSU5pdGFpTThIRjhsN09fLXZ0S09TcDlDOEZoYkNtYVBoRkl3c2hlMkdWZW90X3ZqNEdmVEQtbjdGcHZoVmlMd0M1bGJwLXRmLWMxaDZY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHRvNmZFVzZLbkxXUndmdW5JRFpLTk1XNzVkZS1Zck8xVmg4VnBxU1h3aHd2bk1GSFRiR0F0RVBNOEVwa3ZmSU5pdGFpTThIRjhsN09fLXZ0S09TcDlDOEZoYkNtYVBoRkl3c2hlMkdWZW90X3ZqNEdmVEQtbjdGcHZoVmlMd0M1bGJwLXRmLWMxaDZYZldadXRLZjVaekQ0T3VweFNiai0zb3BRS1E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/10/2026 00:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea appears to conduct fourth missile test in a month - NK News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ3JHMnZuaThnWXFWd2FyaUhwNUxtX0I0eEV1TndKakN3VDVYLWpYbXEwOHV3SGpBT2gyUnNVQjN4Z3gtVDFqZkRPeldMYUFrWFdvSUdiQTRUSFpSUEFWSGd5bzFwaHdEcmx2a2RBWHdBRkpVNkhGNndlVzhaLTlWeS1xdDBRX2xVMmJhWHdCa2tlSUdE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ3JHMnZuaThnWXFWd2FyaUhwNUxtX0I0eEV1TndKakN3VDVYLWpYbXEwOHV3SGpBT2gyUnNVQjN4Z3gtVDFqZkRPeldMYUFrWFdvSUdiQTRUSFpSUEFWSGd5bzFwaHdEcmx2a2RBWHdBRkpVNkhGNndlVzhaLTlWeS1xdDBRX2xVMmJhWHdCa2tlSUdEa0ZRNw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "12/10/2026 00:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Opinion | Despite a China-India thaw, military relations are stuck in 2020 - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPc29oY0wzVmtrQlQwUGFTS1JjT0pTc3hMY1hxSU5SVU1OVEtiU3NZemw1c2ladWstNEhfSXlKbDlhblhLc1QyOTVHbFpzeGRXdmIzWHozdVl0YjFRbDRXWWloNkhja2F4NVZCd2ozd1l0eEdoOVVlR0xzaF9hNXBOcE45b2ZnUEx6UzZnQzZpWTQxY2tD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc29oY0wzVmtrQlQwUGFTS1JjT0pTc3hMY1hxSU5SVU1OVEtiU3NZemw1c2ladWstNEhfSXlKbDlhblhLc1QyOTVHbFpzeGRXdmIzWHozdVl0YjFRbDRXWWloNkhja2F4NVZCd2ozd1l0eEdoOVVlR0xzaF9hNXBOcE45b2ZnUEx6UzZnQzZpWTQxY2tDRnB4Ymxva2d2NDZHOUpDaGhHMTR0OHNLX0JOSlpwcTlvYknSAbcBQVVfeXFMT01NMzdScGtZaGJIZ291blFhNmY0b1h6WFJSaE5NUDRuOE0yM1E3cXNZeGxoaHFqSTFpMVhNc1dIUGYwcDZ3cGNfdXQ5LTNXRzVJbnRzbjdBUlFPNG1mMWRTSzQxOXU1RUxidC1pOUVDaERkMnNOT2RtNm5wbVlUN2JKVDlkdkNQTVlJZk9tYnVCSUVhTmFRZXJENWJMTXlnaTNwekd5TjJIU29RSDVPN0ZQd3BmUHhB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "11/10/2026 21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJp...",
         "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
@@ -589,28 +725,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE51bzM0YzNwbUhGUUpVMHhPQWNZenkwZDdQM3QxdVdpQ2xOYjROVkZpVHU5cko1VDFUMnRVd3o0S3dmZVdlTlZ6cldhZ0RqTEgzREZhSXA3d1hFakpMYnNiaUxja2hyTThCejJOVEhnSFEzcGR3eF9N0gF8QVVfeXFMTVZ4YzZyc1U3S2NyVFBIVXpPZ3BJ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51bzM0YzNwbUhGUUpVMHhPQWNZenkwZDdQM3QxdVdpQ2xOYjROVkZpVHU5cko1VDFUMnRVd3o0S3dmZVdlTlZ6cldhZ0RqTEgzREZhSXA3d1hFakpMYnNiaUxja2hyTThCejJOVEhnSFEzcGR3eF9N0gF8QVVfeXFMTVZ4YzZyc1U3S2NyVFBIVXpPZ3BJenI3T1lTZ0tGZ0ozcDZRZGJ0SEM0a21KTDhXdjN3VGxocXEteUlhbnJVRVhTRGlNRkdrb25NaEdfNVFYc0J6ZUN6b2pTUHNYcDdIY3c2T1dTekwxYUJReTlwS2NoSFBZOQ?oc=5",
+        "titulo_evento": "Saudi airport attacked again as Iran war intensifies - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmc2aUdFakt6Nm9FS0FxYlo2dE5wcmZMZTZlUUZZOE9mTWVyc0JBa2h0WUxhc05lLVlkelE0N1B6ZVZTZnRObzlYQ2thYWJLN3dFXzlIWHNmVFN6dFdGNVNSbWxWMGJNeUVpNGlPTTVTbDRNRUZfazRJVUg4NDUwQWxHWGsyV2plSTRNd2d4Y1JjWnM?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmc2aUdFakt6Nm9FS0FxYlo2dE5wcmZMZTZlUUZZOE9mTWVyc0JBa2h0WUxhc05lLVlkelE0N1B6ZVZTZnRObzlYQ2thYWJLN3dFXzlIWHNmVFN6dFdGNVNSbWxWMGJNeUVpNGlPTTVTbDRNRUZfazRJVUg4NDUwQWxHWGsyV2plSTRNd2d4Y1JjWnM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 11:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen fighting expands as Houthis attack Saudi airport again: What to know - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3Va...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVTS1ZGSF8wX1ZNRk8wdUFmVFd5SmkyNWlkZmktVFRNNUxqSWxwUF8tT01GN2d0RzNtWmxSY0Y5aHJ1YlBWWHB3cjh4OXRjczc0UlNtWlJFc3JpUzlPMkZTS0laSDVOakFxZTVpNVZ0U19JUi03RTVvWVZGVlY0U0JUcDlPODJMZ1paTW9VUUp2M3VaSUFKVl91TENySDVHYXQ0RVQ0SlBEWUlTOUHSAbMBQVVfeXFMTVRZSG13RHl2RzVyQWtTSE9pb09YdldWYXcwSXBBOXRDeERqRGdwQXZFd2NfS2tjY0NxbDJwbTgybXFHeldfOHBaeVo5RGNRVnBsOXRya3JTTHc4T0RYS09BdGIydkFpMHlKX056NDhLc2w3a1o0ZHJzQkdRamtfMmZyQjB4MWktOEZqVXRfRXhfNWVwQVdwSUozemRzemkwR2puUmxBRFVDSHZBQXFZeUVIRDA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 20:00"
+        "data_noticia": "11/10/2026 22:44"
       }
     },
     {
@@ -635,33 +754,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump blames Ukraine—not his Iran war—for spiking oil prices around the world - Mother Jones",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGdNT0kyZjhZMWxRelpHa0kwbGJDQVpmTHVXNmJUd0V0RWdfX25lMldEYXBEc3Z3OXQtOWFhSWZjZkpUN2VXclM4NEZRdlY3WjBnVTN1Nnl3dG11aFluQTZpMldKQVMxeFBETXRQd25HTmZEQUcyTkgzOG1iUUotR1NKcGkxcWRwMkFrcUtxaElHQ3At...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTGdNT0kyZjhZMWxRelpHa0kwbGJDQVpmTHVXNmJUd0V0RWdfX25lMldEYXBEc3Z3OXQtOWFhSWZjZkpUN2VXclM4NEZRdlY3WjBnVTN1Nnl3dG11aFluQTZpMldKQVMxeFBETXRQd25HTmZEQUcyTkgzOG1iUUotR1NKcGkxcWRwMkFrcUtxaElHQ3AtV214b2RPYnVCWG85?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 15:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309 - The Washington Post",
+        "titulo_evento": "Saudi Arabia vows retaliation against Houthis after airport strike kills at least 12 - The Washington Post",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPR094dC1TQTlURWVUOFpLQUc0a1kxa1cwM1h5aDQ3bmxzdk9jdk50VU9UaEVNbjFtVHpWNGZ5STNpeFB2RlJBUGxheVYza29vbnowUXMzYUh5VmVzTVR2WjhFQjU5M0RlZE9DWkI0UGtCZDEtMF9wUG9vcmtPalI1REsxYXNOYzhNNTJmaGh6Y2tVdVF6...",
         "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR094dC1TQTlURWVUOFpLQUc0a1kxa1cwM1h5aDQ3bmxzdk9jdk50VU9UaEVNbjFtVHpWNGZ5STNpeFB2RlJBUGxheVYza29vbnowUXMzYUh5VmVzTVR2WjhFQjU5M0RlZE9DWkI0UGtCZDEtMF9wUG9vcmtPalI1REsxYXNOYzhNNTJmaGh6Y2tVdVF6Z2F2WXdWMHEtbC11R1dXdnpyZmhkZmQtNWNpZFBvM2tkeS01WC1oRVVfRQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 19:52"
+        "data_noticia": "12/10/2026 00:22"
       }
     },
     {
@@ -669,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          127.05,
+          40.0
         ]
       },
       "properties": {
-        "titulo_evento": "Trump Says Russia and Ukraine Reach ‘Energy Ceasefire’ But Gives No Details - Military.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQanM0R2dkaHY5WVBVMXNlN1RXaDJuTVJTT1lGR3B2UTRYN0xkYzdKUkoyZmxERXFROEMwakZwOGxqb2xkVjdhWW5KdWFMekg3b3lITVk4OVc3OGxYdG9GWFh0WDFNbkE5VXRkY0laSUttNHZNcGlCcTktbk8tZE5pdFhtMFBRTW83OGk1RTNsMnZldWU2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanM0R2dkaHY5WVBVMXNlN1RXaDJuTVJTT1lGR3B2UTRYN0xkYzdKUkoyZmxERXFROEMwakZwOGxqb2xkVjdhWW5KdWFMekg3b3lITVk4OVc3OGxYdG9GWFh0WDFNbkE5VXRkY0laSUttNHZNcGlCcTktbk8tZE5pdFhtMFBRTW83OGk1RTNsMnZldWU2QjhEWHFOdzF0Zkk?oc=5",
+        "titulo_evento": "South Korea’s military says North Korea fired a projectile toward the sea - Daily Journal",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQeG00T0xPRWNodDRBVm1JaEtENm9rUHhIQWN6WjJmem1iMUNIbWsxTmJqbHVlMXJpWms3Y0tjM2tyZU1NdWxteXpzMHBkNnN4QVpQZEpLWHdfOFZ1M3V6MEdMa3FjS3NDblNmVkRBQTZldE9lNFdscnVIYnoyWFV3a0xPajBxRnFvc016NVpOb25WSXpO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeG00T0xPRWNodDRBVm1JaEtENm9rUHhIQWN6WjJmem1iMUNIbWsxTmJqbHVlMXJpWms3Y0tjM2tyZU1NdWxteXpzMHBkNnN4QVpQZEpLWHdfOFZ1M3V6MEdMa3FjS3NDblNmVkRBQTZldE9lNFdscnVIYnoyWFV3a0xPajBxRnFvc016NVpOb25WSXpOVDFMTlZTRjJSZE1SZ01fdVNOcU8wV0gtY0E?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 16:35"
+        "data_noticia": "12/10/2026 00:29"
       }
     },
     {
@@ -686,67 +788,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          30.5238,
+          50.4547
         ]
       },
       "properties": {
-        "titulo_evento": "Khmara: Ukraine hit eight Russian ballistic missile launchers in September and early October - Ukrinform",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTh2VEZRV2NSMFYwclFzOEdpTVdMa0p6al8wdm44bVJZb0NjaUxXUG1WSG91Y05SaktOaTFTWVMxRmN1XzRyUWZSMW05bUlHckVqYWgzT3F1cUdsc0VPTU5hcHJTMWg3X0UxODY5NWVRWEkxWHNBQXYwdlJ1cGdvRU1wOWg4MzF5a0dLZGFyVGxnV3Fz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYTh2VEZRV2NSMFYwclFzOEdpTVdMa0p6al8wdm44bVJZb0NjaUxXUG1WSG91Y05SaktOaTFTWVMxRmN1XzRyUWZSMW05bUlHckVqYWgzT3F1cUdsc0VPTU5hcHJTMWg3X0UxODY5NWVRWEkxWHNBQXYwdlJ1cGdvRU1wOWg4MzF5a0dLZGFyVGxnV3FzdURaZ3FiUzkzdDh5dHBvbjBnUjdsX25ic2RCc1U5SzIzS2VqMUJFYjFYSVNKOFc5TDlWMHNpOG56d3IxcnIwZHdvdDNubHFiZ1HSAd4BQVVfeXFMTWE4dlRGUVdjUjBWMHJRczhHaU1XTGtKempfMHZuOG1SWW9DY2lMV1BtVkhvdWNOUmpLTmkxU1lTMUZjdV80clFmUjFtOW1JR3JFamFoM09xdXFHbHNFT01OYXByUzFoN19FMTg2OTVlUVhJMVhzQUF2MHZSdXBnb0VNcDloODMxeWtHS2RhclRsZ1dxc3VEWmdxYlM5M3Q4eXRwb24wZ1I3bF9uYnNkQnNVOUsyM0tlajFCRWIxWElTSjhXOUw5VjBzaThuendyMXJyMGR3b3QzbmxxYmdR?oc=5",
+        "titulo_evento": "Warhead of Russian ballistic missile recovered among residential buildings in Kyiv's Obolonskyi district - Ukrinform",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEZRc2lJU0xlTHRwcWVxbVFvRU91OFIzTGw0TXR3T1MxMlFmdktYVGxQTVpxcVZldmxSQXJDMWYtSkxYTUNyazZfWDF1VW1CbUhMZ3dkRWN5aUtSc0NQb0ZZZU5YNHhNeU9pd1NpTEFoc0daT1h3UmpUTUJtQ2RxUnhjczR5OVdLX0ltUWxqQ0YwczZK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaEZRc2lJU0xlTHRwcWVxbVFvRU91OFIzTGw0TXR3T1MxMlFmdktYVGxQTVpxcVZldmxSQXJDMWYtSkxYTUNyazZfWDF1VW1CbUhMZ3dkRWN5aUtSc0NQb0ZZZU5YNHhNeU9pd1NpTEFoc0daT1h3UmpUTUJtQ2RxUnhjczR5OVdLX0ltUWxqQ0YwczZKOEowTUU1dnc3S2toVXRjZ1FScEFUb2g1ZFdqQkt5c2czNU5PRkgtN1UzZUJLdTZMUkI4VWlMVVdRNTVMVWZFcXZkckhxakZLMkM4NTdpNjVKQkY3dU55cWln0gHuAUFVX3lxTFBoRlFzaUlTTGVMdHBxZXFtUW9FT3U4UjNMbDRNdHdPUzEyUWZ2S1hUbFBNWnFxVmV2bFJBckMxZi1KTFhNQ3JrNl9YMXVVbUJtSExnd2RFY3lpS1JzQ1BvRlllTlg0eE15T2l3U2lMQWhzR1pPWHdSalRNQm1DZHFSeGNzNHk5V0tfSW1RbGpDRjBzNko4SjBNRTV2dzdLa2hVdGNnUVJwQVRvaDVkV2pCS3lzZzM1Tk9GSC03VTNlQkt1NkxSQjhVaUxVV1E1NUxVZkVxdmRySHFqRksyQzg1N2k2NUpCRjd1TnlxaWc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 19:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Sen. Chris Murphy takes fight against Iran war to Middle East - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmdJbnF6Q1lqNlZPb1MzTGNYODVNVVpIR1dhMFJYWmh4ZFlrSW0tbVRGOURpRXptVnRhLWhEa2cwc1JmbFZuMy1fUjA2TFNGbkFIUVRnSlhFOGxtTFNjdGpuZHh0YzdKNjhLalJLWXFYX1JRcmdYVjNVYnBYWDRSZw?oc=5\" target=\"_blank\">Sen...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmdJbnF6Q1lqNlZPb1MzTGNYODVNVVpIR1dhMFJYWmh4ZFlrSW0tbVRGOURpRXptVnRhLWhEa2cwc1JmbFZuMy1fUjA2TFNGbkFIUVRnSlhFOGxtTFNjdGpuZHh0YzdKNjhLalJLWXFYX1JRcmdYVjNVYnBYWDRSZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "11/10/2026 14:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s investment banks have come of age. Can they win beyond Hong Kong? - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTl9LdVpoV1FiNTBhYWNrTk55RVFZa1JybFRab3ZpdXQ5b05SUUVTN3dzMnpBdXJZX3RvSlFadDkxVmtQb3ZMc2VUNlpOUEhEVFJNR0hOY0VqM18zOEVyczRMV3NBMzAwNE0wRmt4cDdDSklqalN4dTAzdDhKWFhwMDkzTlFDTEpWNFpiSG1YdHhaZDhT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTl9LdVpoV1FiNTBhYWNrTk55RVFZa1JybFRab3ZpdXQ5b05SUUVTN3dzMnpBdXJZX3RvSlFadDkxVmtQb3ZMc2VUNlpOUEhEVFJNR0hOY0VqM18zOEVyczRMV3NBMzAwNE0wRmt4cDdDSklqalN4dTAzdDhKWFhwMDkzTlFDTEpWNFpiSG1YdHhaZDhTbEhjR3lKUTdJN1NYYUhuT2tydTByNzAzTG44RlZnaHhHdW_SAbcBQVVfeXFMUHJRV0ItLTA5MklpNGlKSkpSaWVmcV9JSXhLa1VPRTdVbFg3bEg0eWh5UnNvZXprQUlmX1VHZ2c2ejN0NnE4LUhmYW9OT18xM25BV2Rpc1hPZGYtYThBZGNNREN1QjhNNTJpbzdPV05wb2NSY21sbVZ3TkFiNTZWWmt1Qkp2VEdpVzUwZ1k0UXJkcWxXdjVZRU1mR2NNYlVCc01pb1dqTC0zRV9WMlhQajlMMUpCTEx3?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "11/10/2026 14:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What the Iran war has done to the world’s energy supply, in charts - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdU...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzFYc2VSOHpyUE1vTFZCazhLczV3dWpZaUQzdmY3bExLeTMySVNpdm9OdzNtN29MTDRfRThhRzB2NnFGQXV6TjFXdzhkVXBnNksydE1mc2d4ZE1zNzJ0bm9qZVpPMDBQcVJBUy10NHdSQnNfcEwwQTEwTV91RklEZlpwb3dIYTFQWm5tV3BWbmJBYXdUT2pHRDF1dUw5cmpmYzk4eDljNVJKZ9IBrwFBVV95cUxQNmVnQ1JDb2hvaXFrc2xlLXVQVXk1MUxVVW1rUFJENm84S1VmS2ZaNFNTVjZUU2hKRDRIdGU4Z2VCUTdZMGg2Q05PVFk2bFVPUFBHRURHaWgyZkVPSkc0QnlxT3UyenVZbWpyWGFVby0wVFZ1NmRGZHpVd0lzWGpTaHdNS3Z4LXR0d0RIdlgyaXpQaWZZZnFZWXhZeTRkelJFdXV1enpNWW5rMVdFWUpJ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "11/10/2026 08:33"
+        "data_noticia": "11/10/2026 23:32"
       }
     }
   ]
