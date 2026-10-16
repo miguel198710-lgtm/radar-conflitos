@@ -40,23 +40,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Army generals propose larger-footprint, more frequent military exercises in Korea",
-        "descricao": "After Trump scaled back a joint exercise with South Korea, a U.S. Army commander called for more frequent drills modeled on lessons from Ukraine.",
-        "url_fonte": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "14/10/2026 17:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
@@ -125,16 +108,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
+          -63.6167,
+          -38.4161
         ]
       },
       "properties": {
-        "titulo_evento": "At least 5 killed in Houthi attack on Yemen’s presidential palace in Aden",
-        "descricao": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+        "titulo_evento": "Clashes erupt at protest over university funding law in Argentina",
+        "descricao": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "16/10/2026 01:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+        "descricao": "Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "15/10/2026 16:50"
+        "data_noticia": "16/10/2026 00:02"
       }
     },
     {
@@ -164,11 +164,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+        "titulo_evento": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
         "descricao": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "15/10/2026 17:18"
+        "data_noticia": "15/10/2026 23:38"
       }
     },
     {
@@ -193,16 +193,152 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Are student protests being manipulated ahead of France's presidential election?",
+        "descricao": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "15/10/2026 23:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Europeans ‘far more united’ on tougher China trade stance after German shift, Barkin says",
+        "descricao": "Europeans ‘far more united’ on tougher China trade stance after German shift, top expert Noah Barkin tells Euronews",
+        "url_fonte": "https://www.euronews.com/2026/10/15/europeans-far-more-united-on-tougher-china-trade-stance-after-german-shift-barkin-says",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "15/10/2026 20:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Another tanker catches fire near Hormuz after two cargo ships sunk in attacks",
+        "descricao": "Iran said monitoring teams found the unnamed vessel ablaze after it entered a prohibited zone with its tracking systems disabled, two days after the container ship GFS Pride sank following a fire and the cargo ship Cape Dao also went down after being...",
+        "url_fonte": "https://www.euronews.com/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "15/10/2026 18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Azerbaijan engineers rare summit with in-conflict Middle East and Asian leaders",
+        "descricao": "Israel and Iran have met for a rare “confidence-building measures” summit in Baku, with Azerbaijan saying it serves as “a connecting hub in the Eurasian space.”",
+        "url_fonte": "https://www.euronews.com/2026/10/15/azerbaijan-engineers-rare-summit-with-in-conflict-middle-east-and-asian-leaders",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "15/10/2026 12:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China and North Korea open New Yalu River Bridge after 12-year delay",
+        "descricao": "China and North Korea opened a new four-lane road bridge on Thursday, 15 October, ending a 12-year delay and creating a major new route for cross-border trade.",
+        "url_fonte": "https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "15/10/2026 10:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Why is Starlink internet so important on the battlefield in Ukraine?",
-        "descricao": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "15/10/2026 11:25"
+        "titulo_evento": "Russia and Ukraine trade blame over Trump’s ‘energy ceasefire’ after deadly Kyiv strike",
+        "descricao": "A ballistic missile hit a power plant that supplies the Ukrainian capital with heat and electricity, as Moscow said it had downed 900 drones overnight.",
+        "url_fonte": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "14/10/2026 17:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kazakhstan seeks Antwerp-Bruges partnership to boost trade via Middle Corridor",
+        "descricao": "Kazakhstan is seeking closer cooperation with Belgium on the Middle Corridor, including a potential partnership between the Port of Antwerp-Bruges and the Caspian ports of Aktau and Kuryk, as King Philippe and Queen Mathilde make their first state vi...",
+        "url_fonte": "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "14/10/2026 14:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France and Germany agree to ease EU car emissions rules in new deal",
+        "descricao": "\nFrance and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a “made in Europe” scheme, in a provisional deal reached Thursday that could reshape the bloc’s automotive and climate policies.\n",
+        "url_fonte": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
+        "categoria": "Política (France 24)",
+        "data_noticia": "15/10/2026 23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelensky rallies European allies as US support for Ukraine wanes",
+        "descricao": "\nUkrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands, as tensions with Washington escalated over sanctions, energy infrastructure...",
+        "url_fonte": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "15/10/2026 23:06"
       }
     },
     {
@@ -414,40 +550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US consumer inflation hotter than expected as midterms loom",
-        "descricao": "\nUS consumer inflation was hotter than anticipated in September, government data showed Wednesday, as Washington's continued war with Tehran pushed energy costs higher, deepening strains on American households ahead of next month's midterm elections....",
-        "url_fonte": "https://www.france24.com/en/video/20261015-us-consumer-inflation-hotter-than-expected-as-midterms-loom",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "15/10/2026 15:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel ex-security chief sues Netanyahu over October 7 claims",
-        "descricao": "\nThe former head of Israel's Shin Bet domestic security agency on Wednesday sued Prime Minister Benjamin Netanyahu for defamation weeks before elections in a row over responsibility for Hamas's October 7, 2023 attack. Netanyahu, who polls show in a t...",
-        "url_fonte": "https://www.france24.com/en/video/20261015-israel-ex-security-chief-sues-netanyahu-over-october-7-claims",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "15/10/2026 15:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -66.5897,
           6.4238
         ]
@@ -635,6 +737,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Marine Le Pen’s EU dream is a nightmare for Brussels",
+        "descricao": "Readers of a nervous disposition, look away now.",
+        "url_fonte": "https://www.politico.eu/article/marine-le-pen-eu-dream-nightmare-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "16/10/2026 02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump and Putin’s ‘terrible’ alliance threatens to strain EU’s resolve on Ukraine",
+        "descricao": "Several EU leaders want to revive the bitter debate over raiding Russia’s frozen assets to fund Ukraine’s war. ",
+        "url_fonte": "https://www.politico.eu/article/trump-putin-terrible-alliance-threatens-strain-eu-resolve-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "16/10/2026 00:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -645,57 +781,6 @@
         "url_fonte": "https://www.politico.eu/article/petteri-orpo-finland-slams-donald-trump-siding-with-vladimir-putin-against-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "15/10/2026 19:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Von der Leyen floats EU ‘strategic reserves’ for gas amid winter supply fears",
-        "descricao": "BRUSSELS — European Commission President Ursula von der Leyen wants EU leaders to look into the idea of developing bloc-wide strategic gas reserves amid concerns the continent faces a winter shortage, three diplomats and two EU officials told POLITIC...",
-        "url_fonte": "https://www.politico.eu/article/von-der-leyen-floats-eu-strategic-reserves-for-gas-amid-winter-supply-fears/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "15/10/2026 16:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4699,
-          50.5039
-        ]
-      },
-      "properties": {
-        "titulo_evento": "West Nile virus creeps north in record year for EU cases",
-        "descricao": "Dozens of human cases have been recorded in the Netherlands and Belgium.",
-        "url_fonte": "https://www.politico.eu/article/west-nile-virus-creeps-north-in-record-year-for-eu-cases/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "15/10/2026 15:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘We give back’: Zelenskyy replies to Le Pen’s pledge to cut aid",
-        "descricao": "The Ukrainian president argues that France and Europe are benefiting from Ukraine's battlefield experience.",
-        "url_fonte": "https://www.politico.eu/article/volodymyr-zelenskyy-marine-le-pen-pledge-cut-financial-aid-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "15/10/2026 14:26"
       }
     },
     {
@@ -764,6 +849,278 @@
         "url_fonte": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
         "categoria": "Defesa/Conflito (NYT Business)",
         "data_noticia": "15/10/2026 14:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A Gaza war documentary sparks outrage in Israel - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVVjMWRHODQ1TGJTWElJeEEtbHAwU1ZWcDg2c3N2Um85RmNkcXd0M21SZVU2M0FNUmtITjJZVmdrSGVjLUR4WjMySVVCX19uVFh6QUFWUG5RTUI3OGQtRmRZak1BUmZoTmJWLUltbmVRVFVaYnhCOF90M3kxODdrbGVXc1FhZHBfRUN6UDJfeldJQVF5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVVjMWRHODQ1TGJTWElJeEEtbHAwU1ZWcDg2c3N2Um85RmNkcXd0M21SZVU2M0FNUmtITjJZVmdrSGVjLUR4WjMySVVCX19uVFh6QUFWUG5RTUI3OGQtRmRZak1BUmZoTmJWLUltbmVRVFVaYnhCOF90M3kxODdrbGVXc1FhZHBfRUN6UDJfeldJQVF5eWFN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 20:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran Races to Rebuild Underground Missile Arsenal as Hezbollah Told to Prepare for ‘Imminent’ War - Algemeiner.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDBlY0ZYVG5OM2UzWUIwYi1MUk82aUI0SG5sUU5TOVExdDNVaGtLUEdDX2d6cUpRcWFMQjluT3ZHLWI5WFNhZkx5WDV1VnhvV0k5X0hXZzZ6RlJLNGlUMmtGWG16cVlwSzNtcUtfVWFTMXo3UW5nTlluenZnX2hvUmVCNTlCa1E2V0s2M1ZtQ0l4aDJC...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdDBlY0ZYVG5OM2UzWUIwYi1MUk82aUI0SG5sUU5TOVExdDNVaGtLUEdDX2d6cUpRcWFMQjluT3ZHLWI5WFNhZkx5WDV1VnhvV0k5X0hXZzZ6RlJLNGlUMmtGWG16cVlwSzNtcUtfVWFTMXo3UW5nTlluenZnX2hvUmVCNTlCa1E2V0s2M1ZtQ0l4aDJCTy1yMXhUdjVRc09iRlhDSm0xQVVtQ2c5c1RFVHBIaFZsdjk1Tzh0aEln?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 21:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "In Alaska campaign rally, Trump and Sullivan say Iran war is worth the cost to Americans - Alaska Beacon",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEJNdzNpQTVzY2VEWmt5eVBGSDZLRExRb1JSaDE2WXR3UGdZN2JNOGpheHQxVWdfRVFJTU5ISHlqcVhmbEpmdl9hYmFLTHZmekR3c1RzQTlaVVBQQVBHQXNyNXVsdUlPQktyMGZQYXVPLTBGUVFnRWNnWjg3YVBkdHR4dUlmNHhjVHBMM2lVaEpOTFdE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEJNdzNpQTVzY2VEWmt5eVBGSDZLRExRb1JSaDE2WXR3UGdZN2JNOGpheHQxVWdfRVFJTU5ISHlqcVhmbEpmdl9hYmFLTHZmekR3c1RzQTlaVVBQQVBHQXNyNXVsdUlPQktyMGZQYXVPLTBGUVFnRWNnWjg3YVBkdHR4dUlmNHhjVHBMM2lVaEpOTFdEWU81RWZxcWg5WFNId1RtNjJnZk9vTjJaMnczS25oWEh2U0FCS2VkRS1jWnpBQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/10/2026 00:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea missile chief questions South Korea hypersonic glide vehicle test - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNUERoS2FYZmpIa2RhMlQ0WVBtbEFWU1Fzc3VvdV96V1ZHekUwM3pUQjgyUzJmNG1XMENrM3R1RDJLeXllS0JDUmRxUDV6M2x1cjYyOHJBa1pCSzlmRlljSlhiTjNXdGlwTDVyZzNGTnBwNkc4M0xkMnZST21uM3ktN19kb1VkLWExNTl4ZElnU0FCUkFS...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUERoS2FYZmpIa2RhMlQ0WVBtbEFWU1Fzc3VvdV96V1ZHekUwM3pUQjgyUzJmNG1XMENrM3R1RDJLeXllS0JDUmRxUDV6M2x1cjYyOHJBa1pCSzlmRlljSlhiTjNXdGlwTDVyZzNGTnBwNkc4M0xkMnZST21uM3ktN19kb1VkLWExNTl4ZElnU0FCUkFSdmQxSFRsWmU5VXRKQ0FDZlBxNEZaSWdiZmNpV3RhUXlhYnNJQ1dFLWgwWGFxejgyaF9ISXJrUV8?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/10/2026 00:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5\" target=\"_blank\">Trump’s De...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lVVQwcThTUGg1Z2RHUlltM2dWdGFCM19DYlRQeFE1S0lYVGd4bXR3M0dpX010NmZSQ0U2WXA5NGNEWFdIQjJYOTNBZEMwRVpxSVVVTFRwZENzYkZNWmFKVzVTLUp5Z1J3bUl1YTFyTDdCMVZ4aVhiVjVNUm0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/10/2026 01:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Starlink access restored, says UK’s Streeting, as Zelenskyy rallies support in Brussels - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXg0U2c2aW8tRF9MZDB4N2daRkRsR3Q1eE9WNjhSQzJlc2h3cXlkeGVoNk1CUmRmYldYVmh0RkZGcUQ3bGUyVlNEMzVMOGE1aEtPR3B1amxlNm5laGZKMUNONUcxQUNjVmF1WjdHR1Exc2ZxaGRKcnlUbVpBTXFoanNtaVptVExDNXhJMnVlUFltaU5n...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXg0U2c2aW8tRF9MZDB4N2daRkRsR3Q1eE9WNjhSQzJlc2h3cXlkeGVoNk1CUmRmYldYVmh0RkZGcUQ3bGUyVlNEMzVMOGE1aEtPR3B1amxlNm5laGZKMUNONUcxQUNjVmF1WjdHR1Exc2ZxaGRKcnlUbVpBTXFoanNtaVptVExDNXhJMnVlUFltaU5nSVU4ZlVpbHNLdTVCTWFlVXEzbGJVWGhxOG9ja1pTa2VsbDZjaGtEakRjTmpSbFVYZEtDeGlIQXJNR3ljd0Z6ZmFPQi02VHc0Z3BFQi12OHgtUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/10/2026 00:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Lt. Gov. Juliana Stratton on Iran war, ICE accountability, and Supreme Court reform - IPM Newsroom",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzRhYUJILXQ1ZGxramNYeFlZZXUxUDg1WHRiTTR0UzN2UlYwdHdyd3FFaTZXMlVwTnVwRzA1M2FqYmRoRm51Y2NMNGRWSjVVclBKNk5aZXFsX2JKczRHMllWSEhjUEEybDhZX0ZBU1dPdk9BQ2dBc3c3UUpRNVhUakNqNVl3ZmxLQWVIeG5veGZGdkxB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzRhYUJILXQ1ZGxramNYeFlZZXUxUDg1WHRiTTR0UzN2UlYwdHdyd3FFaTZXMlVwTnVwRzA1M2FqYmRoRm51Y2NMNGRWSjVVclBKNk5aZXFsX2JKczRHMllWSEhjUEEybDhZX0ZBU1dPdk9BQ2dBc3c3UUpRNVhUakNqNVl3ZmxLQWVIeG5veGZGdkxBQWFycHZDaXV1RFk5eklDMUgtMA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 23:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ousted general warned of years-long missile defense shortage before Iran war - CBS News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNTdkVxSFAwejREYWszQlhvM0RtWUYzdU5OcDRzSlNmVEtlWld0dmxYUER4MHVnaEJBRm4tdzNpVEprTTJ1RzFBcFJpc3FzTWo2ZHpxTEs4UkRSbng0dkI5QzgwdHdnNl9QeVZsVndPX21ZRjgxak9QdUxwaWt2NTMwNnY?oc=5\" target=\"_blank...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNTdkVxSFAwejREYWszQlhvM0RtWUYzdU5OcDRzSlNmVEtlWld0dmxYUER4MHVnaEJBRm4tdzNpVEprTTJ1RzFBcFJpc3FzTWo2ZHpxTEs4UkRSbng0dkI5QzgwdHdnNl9QeVZsVndPX21ZRjgxak9QdUxwaWt2NTMwNnY?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 20:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia says Ukraine resumes attacks on oil refineries - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFZyYTgwUC1nM3AyZGg2X0ZxLV9aam1pZUNQalpMN2Rxb0h5WGZpMWswdWd6LXRsbks4emJKY05Gcmh1cHhFQVdZM2hGVlJjTUI5NjdHdUdWekFxeU9sRy1JV3F5TG1BVXJJUGQ1RzN6ZFNMeEpTUTR3RjFzN0d2UHliS1k1ZDNOTVpyal9RNy15RjUxd0FXVVRYMNIBoAFBVV95cUxOaGxHX0FFM200OV80YVI1SnYyV2RSem1uWjJWWjdRSFYybXVTdU5RTGt0cUFNUm1wUEo2MVhSTFpjUUxVS2N6Y3E2aVVCbW8zanRUY3libG1VR1UwZ3hBemJuc3pNQ3h3SlZ2U1dJNER1TEh0LWc1VTdmd1hfalRyZUtGZnJHOWdCb1pURERZWE43NXhjcTZwWllwMENpS21s?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 20:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Here’s a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmpSQUpsbFBZdHJBVzE5RksxTlV3a01Mb0c1bHktX0RSeXhLR3c1bC1JZ3FBUUtWcEYzbkNWZEV1SXQ1QUl2LW1oR0VMa2lvQ0dycm1QMHRWQmpRUjNDOTlqZ2xoU2xkOWZab25sb1R6UW56QWJqb0h0NjRaX3RiOFpCQTc5UzQtRjlMWFBFWG9QazFHQnpHTg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 22:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 18:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What Is Starshield, SpaceX's Military Version of Starlink, and Why Is It So Important to Ukraine? - Time Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUJuTVdGU285MGktSlJMdFQ1b2VmeHNmSkJSbTRGcUpBQkdfdkRRS0duMEJkUG1FU2g3WWtmRjR4WTE2dmJhWm5LTEhqSUhYLWRlNDNaUTVNNUI2UW1jRHFjRDRQTFV1MTZ4c0NSMU1pdjVTQ3pKUG5MSmVtRGpZUG8tQmdDemFUR2JPRTM2VTh0UFpZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUJuTVdGU285MGktSlJMdFQ1b2VmeHNmSkJSbTRGcUpBQkdfdkRRS0duMEJkUG1FU2g3WWtmRjR4WTE2dmJhWm5LTEhqSUhYLWRlNDNaUTVNNUI2UW1jRHFjRDRQTFV1MTZ4c0NSMU1pdjVTQ3pKUG5MSmVtRGpZUG8tQmdDemFUR2JPRTM2VTh0UFpZNjI3bE92M3pwaEtMTUctUGotazVzQUw5OU15dzdwUGxFVTRwcnVaTU9B?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 20:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years - USNI News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUZpWFhWLWg4YkxxMERaZFBNWXlqY0ZJYUFOUTlBVzBWZ0RndlQtaVBQLWF2a2ItYnNlQUI4UjFqcl81ZFBXOENtbTdNcFhHckd6aEZjNEdxVmJJR25KdkF0N2tZU2kxMjRPS1B0b3R1ZkE1emQ2OXo3VjJUdUZhMXBQeWNPZjZzMUxrdXJaX1pGMnpU...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUZpWFhWLWg4YkxxMERaZFBNWXlqY0ZJYUFOUTlBVzBWZ0RndlQtaVBQLWF2a2ItYnNlQUI4UjFqcl81ZFBXOENtbTdNcFhHckd6aEZjNEdxVmJJR25KdkF0N2tZU2kxMjRPS1B0b3R1ZkE1emQ2OXo3VjJUdUZhMXBQeWNPZjZzMUxrdXJaX1pGMnpUOUhjdGJYQlMzSTc5RnhKWTJDeUEtbXlE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 16:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'People cannot afford this': Chal­lenger Ojeda wants to end Iran War, improve economy and af­fordable healthcare - Spectrum News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanNyMFBRVGY3X25GY1o1dWpSaGg1QnpGbGpjblpVaFRFNzZQdlJ0bFhNUFV3UVVZVVRpRnZjYmg3WHRDWm1QUWlhTEcyNjBsRFduQm96dWE2bE1pMno3OHRqNXNWM0pzZXN3MVgtRWZpTURCLTZDeFltSU9vODZpM3FvMF9NXzZLQlN1d2lfbUxYUlFL...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanNyMFBRVGY3X25GY1o1dWpSaGg1QnpGbGpjblpVaFRFNzZQdlJ0bFhNUFV3UVVZVVRpRnZjYmg3WHRDWm1QUWlhTEcyNjBsRFduQm96dWE2bE1pMno3OHRqNXNWM0pzZXN3MVgtRWZpTURCLTZDeFltSU9vODZpM3FvMF9NXzZLQlN1d2lfbUxYUlFLc2lwU1FoTDA3emhpcVJsWFRwa0NUQlJQRkVTaUVULVJzZGZpSTZrWXNEUDZyVVEwQU1uMw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "15/10/2026 23:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Kremlin Says Russia Restarts Diesel Exports After Deal With Trump - The Moscow Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnJIeTYxZzJEZVNzQXd5cGhqblM3YkNFZ1lKUEowWmdTTVp4TUVXWElpamo5X3QxTWRWckpfU1ZWbG41Y0pZeVNzbV9YV2xudzhkTXZmcTByM0dCdFcyMlNmb3dGUVd4aTNHSWJESy1ZNjhNLTFxS3hLVThiWTQ4VFVmb0k1cUMzYnhoZkVtTWMwejN3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnJIeTYxZzJEZVNzQXd5cGhqblM3YkNFZ1lKUEowWmdTTVp4TUVXWElpamo5X3QxTWRWckpfU1ZWbG41Y0pZeVNzbV9YV2xudzhkTXZmcTByM0dCdFcyMlNmb3dGUVd4aTNHSWJESy1ZNjhNLTFxS3hLVThiWTQ4VFVmb0k1cUMzYnhoZkVtTWMwejN3R1RhQ1BBNnlpQm9reXFyR3k1WTFJX2E5dmJDSVFIckE?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "15/10/2026 10:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "China's economy seen missing target as global shocks bite: AFP poll - AFP.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpQ3BQdDNqM3hQNXdic0xFUEtPdS1TUVpHT1FLN2NpWHk3U29tNXBFSFRaYkt2Z0tLeGU5S2VORE1IazhxcnYxV3hWQQ?oc=5\" target=\"_blank\">China's economy seen missing target as global shocks bite: AFP poll</a>&nbs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpQ3BQdDNqM3hQNXdic0xFUEtPdS1TUVpHT1FLN2NpWHk3U29tNXBFSFRaYkt2Z0tLeGU5S2VORE1IazhxcnYxV3hWQQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "15/10/2026 15:05"
       }
     }
   ]
