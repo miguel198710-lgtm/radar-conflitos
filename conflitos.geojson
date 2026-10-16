@@ -11,6 +11,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "What is Starshield, SpaceX’s military version of Starlink?",
+        "descricao": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
+        "url_fonte": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "16/10/2026 20:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
         "titulo_evento": "Order to limit Starshield for Ukraine came from inside White House, sources say",
         "descricao": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
         "url_fonte": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
@@ -125,6 +142,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Yemen’s government says Houthis fired two missiles at Aden airport",
+        "descricao": "Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "16/10/2026 21:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+        "descricao": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "16/10/2026 21:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Food affordability fears plague Gaza as Israel halts commercial goods",
+        "descricao": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days. ",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "16/10/2026 20:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -227,33 +295,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-        "descricao": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "16/10/2026 13:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-        "descricao": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "titulo_evento": "Trump denies limiting Ukraine access to Starlink network",
+        "descricao": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "16/10/2026 15:59"
+        "data_noticia": "16/10/2026 19:33"
       }
     },
     {
@@ -271,23 +322,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "16/10/2026 14:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US senators call for investigation into Ukraine's Starlink restrictions",
-        "descricao": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "16/10/2026 14:19"
       }
     },
     {
@@ -363,16 +397,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4699,
-          50.5039
+          4.3517,
+          50.8503
         ]
       },
       "properties": {
-        "titulo_evento": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
-        "descricao": "Foxes, owls and deer made from pumpkins have taken over Groot-Bijgaarden Castle near Brussels. The Pumpkimania festival features a 772kg giant, pumpkin boat rides and Halloween activities until 1 November.",
-        "url_fonte": "https://www.euronews.com/video/2026/10/16/belgium-pumpkimania-festival-takes-over-groot-bijgaarden-castle",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "16/10/2026 16:16"
+        "titulo_evento": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
+        "descricao": "\nUkrainian President Volodymyr Zelensky turned to his European allies on Friday, asking Brussels for an additional €70 billion to fund the war against Russia next year. Zelensky's relationship with US President Donald Trump deteriorated after the US ...",
+        "url_fonte": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "16/10/2026 20:25"
       }
     },
     {
@@ -380,16 +414,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
-        "descricao": "Russian strikes ignited massive fires at businesses in Odesa and Zaporizhzhia as President Zelensky met European leaders for talks.",
-        "url_fonte": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "16/10/2026 14:46"
+        "titulo_evento": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+        "descricao": "\nAn online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels betwee...",
+        "url_fonte": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
+        "categoria": "Política (France 24)",
+        "data_noticia": "16/10/2026 20:10"
       }
     },
     {
@@ -397,135 +431,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.6173,
-          55.7558
+          2.3522,
+          48.8566
         ]
       },
       "properties": {
-        "titulo_evento": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
-        "descricao": "Moscow’s airports were closed for 101 hours in the first 14 days of October, more than double the total for all of September.",
-        "url_fonte": "https://www.euronews.com/2026/10/16/ukrainian-drones-force-closure-of-all-four-moscow-airports-overnight-cancelling-dozens-of-",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "16/10/2026 14:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5674,
-          41.8719
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Italy: Nationwide air traffic control issues disrupt flights at Rome airport",
-        "descricao": "Flight delays and cancellations disrupted Rome’s Fiumicino Airport on Friday 16 October after a fault in the data-transmission network supporting Italy’s nationwide air traffic control system.",
-        "url_fonte": "https://www.euronews.com/video/2026/10/16/italy-nationwide-air-traffic-control-issues-disrupt-flights-at-rome-airport",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "16/10/2026 14:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Putin seizes five more European firms, continuing Russia's hostile asset crackdown",
-        "descricao": "The decree covers a flooring manufacturer, a paper packaging firm, a hygiene products maker, and two metal- and plastic-packaging companies, all of which continued operating in Russia after the all-out invasion of Ukraine in early 2022.",
-        "url_fonte": "https://www.euronews.com/2026/10/16/putin-seizes-five-more-european-firms-continuing-russias-hostile-asset-crackdown",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "16/10/2026 12:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Military signals building: Is the US-Iran war about to escalate? ",
-        "descricao": "Two US aircraft carriers are in the Arabian Sea, tanker sorties over the region are running 50% above September’s rate and Trump has not ruled out intensified strikes after November’s midterm elections.",
-        "url_fonte": "https://www.euronews.com/2026/10/16/military-signals-building-is-the-us-iran-war-about-to-escalate",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "16/10/2026 11:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine unveils flying ambulance drone that could save lives in minutes",
-        "descricao": "A Ukrainian company has demonstrated an unusual new battlefield rescue system: a drone capable of carrying a wounded soldier inside an enclosed cabin. Developed by SkyFall, the aircraft, named StarGate, was filmed taking off, flying and landing with ...",
-        "url_fonte": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "16/10/2026 10:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthi missile attack targets Yemeni presidential palace in Aden",
-        "descricao": "Five people have been killed and 16 injured in a Houthi missile attack targeting the presidential palace in Aden, a port city in southern Yemen and the seat of the internationally recognised government, officials say.",
-        "url_fonte": "https://www.euronews.com/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "16/10/2026 09:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New White House press secretary Katie Zacharia says China lacked 'proper' toilets",
-        "descricao": "Zacharia is already under scrutiny over her legal credentials, after giving an inconclusive answer about where she had passed the bar exam, a prerequisite for practicing law in the United States.",
-        "url_fonte": "https://www.euronews.com/2026/10/16/new-white-house-press-secretary-katie-zacharia-says-china-lacked-proper-toilets",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "16/10/2026 08:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Europeans ‘far more united’ on tougher China trade stance after German shift, Barkin says",
-        "descricao": "Europeans ‘far more united’ on tougher China trade stance after German shift, top expert Noah Barkin tells Euronews",
-        "url_fonte": "https://www.euronews.com/2026/10/15/europeans-far-more-united-on-tougher-china-trade-stance-after-german-shift-barkin-says",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "15/10/2026 20:46"
+        "titulo_evento": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
+        "descricao": "\nIn India, the Cockroach movement felt the crushing boot of the state this week. Thousands of Gen Z protesters were rounded up and detained in sports stadiums and community halls turned into makeshift detention centres, while the movement’s founder, ...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "16/10/2026 19:21"
       }
     },
     {
@@ -572,8 +487,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Cost-of-living demonstrations to grip pre-election France",
-        "descricao": "\nAfter weeks of student protests, France is set to be swept by broader, nationwide demonstrations Saturday over the cost of living, setting up a potentially fraught period ahead of presidential elections next year. The prospect of the two movements m...",
+        "titulo_evento": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+        "descricao": "\nAn online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels betwee...",
         "url_fonte": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
         "categoria": "Política (France 24)",
         "data_noticia": "16/10/2026 15:55"
@@ -703,16 +618,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          4.3517,
+          50.8503
         ]
       },
       "properties": {
-        "titulo_evento": "EU and Canada seek closer ties: Will Canada become the EU's first associate member?",
-        "descricao": "\nAs the international context becomes more challenging for the European Union, the bloc is looking to boost its ties with like-minded allies. Canada is part of that architecture that the EU says it wants to build. The big news of EU Commission Presid...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/talking-europe/20261016-eu-and-canada-seek-closer-ties-will-canada-become-the-eu-s-first-associate-member",
-        "categoria": "Política (France 24)",
-        "data_noticia": "16/10/2026 12:04"
+        "titulo_evento": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+        "descricao": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+        "url_fonte": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "16/10/2026 19:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "West Bank: US journalist injured by Israeli settlers",
+        "descricao": "Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attack as \"brazen violence.\"",
+        "url_fonte": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "16/10/2026 19:32"
       }
     },
     {
@@ -815,6 +747,23 @@
         "url_fonte": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "15/10/2026 14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "EU leaders clash over migration, Ukraine and budget in Brussels — but delay big decisions",
+        "descricao": "Leaders left crucial decisions on the bloc's long-term budget and Ukraine's financial needs to further gatherings in November and December.",
+        "url_fonte": "https://www.politico.eu/article/eu-summit-decisions-ukraine-funding-budget-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "16/10/2026 19:30"
       }
     },
     {
@@ -941,16 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "16/10/2026 17:31"
+        "titulo_evento": "How Iran messaging highlights cost of war ahead of US midterm elections - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "16/10/2026 18:28"
       }
     },
     {
@@ -980,6 +929,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "16/10/2026 17:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
         "titulo_evento": "EU rallies in support of Ukraine amid Trump standoff - Al Jazeera",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzFQOUR6cUxsTGItamo0SG5LSHpsMXNuRGRDM3dKdDhqWHZzS0ZhTklsLTcyRFUzMlJzZXRqbmdTcjFMbWZvckdfcUh2RVA4LWJ5VVYzdC1Ka0ZsNVZJV28ySkxqV0lNUEJlYWk3VnEwMXd6SGlpME9xWEhUZGNzTTVZNG5fcTNGbncybUtMWm9XOVM3...",
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzFQOUR6cUxsTGItamo0SG5LSHpsMXNuRGRDM3dKdDhqWHZzS0ZhTklsLTcyRFUzMlJzZXRqbmdTcjFMbWZvckdfcUh2RVA4LWJ5VVYzdC1Ka0ZsNVZJV28ySkxqV0lNUEJlYWk3VnEwMXd6SGlpME9xWEhUZGNzTTVZNG5fcTNGbncybUtMWm9XOVM3UWlxcTN30gGfAUFVX3lxTE5CY0xSbjg3MElMb2Q5QS1UejJoN1k3THIwcHdvMl9SSW1tSzZMR1dpRVhQeldERG81M201dmpLcVhIdl9Xcm54YmhPN1JBUXpJLUNFc3Fxa2VtSTVzSTVvcVdpX3FVdE1DRXZuSlU4M0xEc24wUHc3M20zUXJNaE5pS0N4WjI3d0hmdVZXS1BDYjJoVnQzbm8xTnNtUkFnNA?oc=5",
@@ -992,16 +958,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Poland scrambles fighter jets as Russia strikes western Ukraine - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0t1UU80NzZ6ZG5RYXBHRWwwbWhEN2ZCSUszVjFlMUR0cWpPa2NQNlVrU1dXZFd1alcwR2dtbWN3dGF4ZEd0cTZ0emd6YVRwWjUxd3B0VnpkSDUxeGxkMlpFVmMzZjhvUlFsamN5MXEzWWFkSVRZZ2h4Q0tzN2Y2akVkT0JRMUZhSVptbjdDSHJoVjg1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0t1UU80NzZ6ZG5RYXBHRWwwbWhEN2ZCSUszVjFlMUR0cWpPa2NQNlVrU1dXZFd1alcwR2dtbWN3dGF4ZEd0cTZ0emd6YVRwWjUxd3B0VnpkSDUxeGxkMlpFVmMzZjhvUlFsamN5MXEzWWFkSVRZZ2h4Q0tzN2Y2akVkT0JRMUZhSVptbjdDSHJoVjg1QTJnRzR2dHdlaVNkVVNuQ3gxRk_SAa4BQVVfeXFMT29BVHBOSUtKZFhzak1xN3FZZGpZTkpWY0NtbVFkM2hxM0R4Q2sxcUdjZklDbGp3OTZCVEFGRkQybDYzWkw3Z29GcE5xdFdkUU9DZXlZS2VHbVFvM3BpUVVxa3J1eVhHeUh3d2g4a1dqS015bmhHNWdWcDJXNDRrYVdWRGpnWFZ4Mmd1QTFJckdlbjBUUzA5ZkdvUU84NkFjLUx6dUNabEVUNXJnWTh3?oc=5",
+        "titulo_evento": "Republican Congressman Mike Bost on Medicaid, Iran war, and why he won't debate his opponent - IPM Newsroom",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXF6MzA2VGpqQ3hBMDdVa00wempfMHZqMFdFNVFwcTZDTWRCaUlpczFoUE0ycTAzUTNCcDBrNjRoZzFVVGY0MWVMM0xPb3liUFJqZVFqbkUxcXNkaEdvZndKM3hOQ1dUbEtZaW90TmxfTmxILXUzWEdEc3F2M2dqTUVEem9SZ1NEcTN5cFJJZEE5UHZB...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXF6MzA2VGpqQ3hBMDdVa00wempfMHZqMFdFNVFwcTZDTWRCaUlpczFoUE0ycTAzUTNCcDBrNjRoZzFVVGY0MWVMM0xPb3liUFJqZVFqbkUxcXNkaEdvZndKM3hOQ1dUbEtZaW90TmxfTmxILXUzWEdEc3F2M2dqTUVEem9SZ1NEcTN5cFJJZEE5UHZBZzBMWkkwaVJtTVB2Y0VLSnBwZjZPaFdjZ0liU01FazY?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 11:12"
+        "data_noticia": "16/10/2026 22:00"
       }
     },
     {
@@ -1014,11 +980,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How Iran messaging highlights cost of war ahead of US midterm elections - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
+        "titulo_evento": "WATCH: Can Trump end the Iran war? Army expo attendees weigh in - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cExDWHFyTnJNZnAzUWktWHNadGFybjhEQ2tUdnpLTW5Oa3dCMzJOUlVLTFFvcEwxUDlQbXJ2MzlFTGZSdFBfcnNGcTV2M094VGdoTmp3?oc=5\" target=\"_blank\">WATCH: Can Trump end the Iran war? Army expo attendees weigh ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15cExDWHFyTnJNZnAzUWktWHNadGFybjhEQ2tUdnpLTW5Oa3dCMzJOUlVLTFFvcEwxUDlQbXJ2MzlFTGZSdFBfcnNGcTV2M094VGdoTmp3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 18:28"
+        "data_noticia": "16/10/2026 19:20"
       }
     },
     {
@@ -1026,67 +992,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Alaska Senate candidates clash over the Iran war, high prices and their times in office - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2poWWlQNW1FalpwZ1RINlFtUEN4SlBoa2xWWWlNc1NPdDIxSENTUWdYOU52aFhEVV9nQkZCaXUtbGk3Nmo4M3UxZjRFY3NfVWFja3hXZlVJM1JVWTR2dmM2aExvVnNvcjJFM0t4WFdTV3FjNGhXVElaWVp5aXVUN21Sdk1hNjFvNFQ0YUdnYVdMRkty...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2poWWlQNW1FalpwZ1RINlFtUEN4SlBoa2xWWWlNc1NPdDIxSENTUWdYOU52aFhEVV9nQkZCaXUtbGk3Nmo4M3UxZjRFY3NfVWFja3hXZlVJM1JVWTR2dmM2aExvVnNvcjJFM0t4WFdTV3FjNGhXVElaWVp5aXVUN21Sdk1hNjFvNFQ0YUdnYVdMRktyMk1IVGEzMUhuNzF3amRTUjFjWlFsYmRaWnVPTXkwODU5dw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 11:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How War is Reshaping Iran’s “Axis of Resistance” - International Crisis Group",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h1NUkwM1VnR3lRQzV2WnVhVm52RnotSURwRVMxVUFucDVZeTNXRDNZczNaNGFsSlFvcmUtSmNrbFYtSGhBQTBXU3V6cFg0cEszUnVzZ1BWOW9TNGtBZkxWRjlQeDNBRjVSQ2RMLTF6QTNTVVFraUh5ZVZ3NVEzMzJ5NV9qbHhoWEhhclpGMVd6VUFz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3h1NUkwM1VnR3lRQzV2WnVhVm52RnotSURwRVMxVUFucDVZeTNXRDNZczNaNGFsSlFvcmUtSmNrbFYtSGhBQTBXU3V6cFg0cEszUnVzZ1BWOW9TNGtBZkxWRjlQeDNBRjVSQ2RMLTF6QTNTVVFraUh5ZVZ3NVEzMzJ5NV9qbHhoWEhhclpGMVd6VUFzVkpNdE5ldGtxbDlNa0ZN?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 16:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5\" target=\"_blank\">‘I’m on a War Footing’: Ter...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 12:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Military signals building: Is the US-Iran war about to escalate? - Euronews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1M...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnQxSlUxSHV2RjFuaFlUN2NuYkl5ZmZ1RXlMUmNyLWl5Vk5vTEx5SU1kZ0xYNkxBbEp4SzAwbWZxQnVad2lOMGU3ZGY1dDRCdWh0Y3dxeXEzaVd3b2FpdWJSR3FLZzFuSmZjQXJ5cHJ1RnhrVUtJZVJTeE9tWGdHNVdXaTA5WVBCUlI1LUM5cUV4aU1MdU5IYThuZmtTUWs?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 09:37"
+        "titulo_evento": "China's central bank to further open its financial markets to foreigners, chief says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "16/10/2026 15:59"
       }
     },
     {
@@ -1133,45 +1048,28 @@
         ]
       },
       "properties": {
+        "titulo_evento": "USMEF Works to Diversify Global Markets- and Dan Halstrom Offers China Update - Oklahoma Farm Report",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlZTN28xMEpoYUdpR0E2dU5hb2tneFNSWl8yZzdKcVY5dDBub0xwZ0VFcUltajg0QTlnZ2U1SzkxRGJMdkJ6VUxjMEd3eDZBZ2hWZGdMazQyQzAwWVRSeEVNTkc0RnN6T2dnTHlnVlpCaEVqb3hPZDhENzFNMDJMbGcwNmk5SlYxQ0k1YzU4T3NMVWFv...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlZTN28xMEpoYUdpR0E2dU5hb2tneFNSWl8yZzdKcVY5dDBub0xwZ0VFcUltajg0QTlnZ2U1SzkxRGJMdkJ6VUxjMEd3eDZBZ2hWZGdMazQyQzAwWVRSeEVNTkc0RnN6T2dnTHlnVlpCaEVqb3hPZDhENzFNMDJMbGcwNmk5SlYxQ0k1YzU4T3NMVWFvZ0JYTGM3SnVXRTZUaXNQbnh4N3IwaHhDX2Z0ZU95UzhteUktV3JpVUx0Z1Q?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "16/10/2026 14:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
         "titulo_evento": "Asia’s Financial Rise Will Test America’s Global Edge - China-US Focus",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzR4NEVfNk9KSU85M0RpaFoxV2NwUWRCeW5TaXdQVGwtQzhGdmpWWTNyMWlRcHBqNHdZOUMzSFFwVzZKOFM3djBGTG9GNThjTUEzb2JjUVFXN25xYlZ6S3kwZ3hfU01YQnRPUzVyVG1iSF9EZ3MyZ1FLZndMWlZWc1I5djVkSFJDb3ViUHhvQjNPOGJY...",
         "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzR4NEVfNk9KSU85M0RpaFoxV2NwUWRCeW5TaXdQVGwtQzhGdmpWWTNyMWlRcHBqNHdZOUMzSFFwVzZKOFM3djBGTG9GNThjTUEzb2JjUVFXN25xYlZ6S3kwZ3hfU01YQnRPUzVyVG1iSF9EZ3MyZ1FLZndMWlZWc1I5djVkSFJDb3ViUHhvQjNPOGJYdmpDS01qODc?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "16/10/2026 11:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "USMEF Works to Diversify Global Markets- and Dan Halstrom Offers China Update - Oklahoma Farm Report",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlZTN28xMEpoYUdpR0E2dU5hb2tneFNSWl8yZzdKcVY5dDBub0xwZ0VFcUltajg0QTlnZ2U1SzkxRGJMdkJ6VUxjMEd3eDZBZ2hWZGdMazQyQzAwWVRSeEVNTkc0RnN6T2dnTHlnVlpCaEVqb3hPZDhENzFNMDJMbGcwNmk5SlYxQ0k1YzU4T3NMVWFv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlZTN28xMEpoYUdpR0E2dU5hb2tneFNSWl8yZzdKcVY5dDBub0xwZ0VFcUltajg0QTlnZ2U1SzkxRGJMdkJ6VUxjMEd3eDZBZ2hWZGdMazQyQzAwWVRSeEVNTkc0RnN6T2dnTHlnVlpCaEVqb3hPZDhENzFNMDJMbGcwNmk5SlYxQ0k1YzU4T3NMVWFvZ0JYTGM3SnVXRTZUaXNQbnh4N3IwaHhDX2Z0ZU95UzhteUktV3JpVUx0Z1Q?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "16/10/2026 14:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's central bank to further open its financial markets to foreigners, chief says - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "16/10/2026 15:59"
       }
     }
   ]
