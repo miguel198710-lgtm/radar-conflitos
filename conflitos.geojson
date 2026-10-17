@@ -193,23 +193,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-        "descricao": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "17/10/2026 14:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
@@ -271,6 +254,193 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "16/10/2026 15:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea says it tested new AI-powered torpedo system",
+        "descricao": "It comes after North Korea tested two types of underwater-launched strategic cruise missiles on Wednesday as part of what is believed to be a push to bolster its naval capabilities.",
+        "url_fonte": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "17/10/2026 09:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump signs executive order waiving new Russia sanctions package",
+        "descricao": "Russian presidential envoy Kirill Dmitriev has called the decision to put the sanctions on hold a \"significant and truly historic moment.\"",
+        "url_fonte": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+        "categoria": "Economia (Euronews (Europa))",
+        "data_noticia": "17/10/2026 08:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4699,
+          50.5039
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Belgium: Pumpkimania festival takes over Groot-Bijgaarden Castle",
+        "descricao": "Foxes, owls and deer made from pumpkins have taken over Groot-Bijgaarden Castle near Brussels. The Pumpkimania festival features a 772kg giant, pumpkin boat rides and Halloween activities until 1 November.",
+        "url_fonte": "https://www.euronews.com/video/2026/10/16/belgium-pumpkimania-festival-takes-over-groot-bijgaarden-castle",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "16/10/2026 16:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian missiles spark huge factory fires in Ukraine’s Odesa and Zaporizhzhia",
+        "descricao": "Russian strikes ignited massive fires at businesses in Odesa and Zaporizhzhia as President Zelensky met European leaders for talks.",
+        "url_fonte": "https://www.euronews.com/video/2026/10/16/russian-missiles-spark-huge-factory-fires-in-ukraines-odesa-and-zaporizhzhia",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "16/10/2026 14:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
+        "descricao": "Moscow’s airports were closed for 101 hours in the first 14 days of October, more than double the total for all of September.",
+        "url_fonte": "https://www.euronews.com/2026/10/16/ukrainian-drones-force-closure-of-all-four-moscow-airports-overnight-cancelling-dozens-of-",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "16/10/2026 14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          41.8719
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Italy: Nationwide air traffic control issues disrupt flights at Rome airport",
+        "descricao": "Flight delays and cancellations disrupted Rome’s Fiumicino Airport on Friday 16 October after a fault in the data-transmission network supporting Italy’s nationwide air traffic control system.",
+        "url_fonte": "https://www.euronews.com/video/2026/10/16/italy-nationwide-air-traffic-control-issues-disrupt-flights-at-rome-airport",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "16/10/2026 14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Putin seizes five more European firms, continuing Russia's hostile asset crackdown",
+        "descricao": "The decree covers a flooring manufacturer, a paper packaging firm, a hygiene products maker, and two metal- and plastic-packaging companies, all of which continued operating in Russia after the all-out invasion of Ukraine in early 2022.",
+        "url_fonte": "https://www.euronews.com/2026/10/16/putin-seizes-five-more-european-firms-continuing-russias-hostile-asset-crackdown",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "16/10/2026 12:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Military signals building: Is the US-Iran war about to escalate? ",
+        "descricao": "Two US aircraft carriers are in the Arabian Sea, tanker sorties over the region are running 50% above September’s rate and Trump has not ruled out intensified strikes after November’s midterm elections.",
+        "url_fonte": "https://www.euronews.com/2026/10/16/military-signals-building-is-the-us-iran-war-about-to-escalate",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "16/10/2026 11:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine unveils flying ambulance drone that could save lives in minutes",
+        "descricao": "A Ukrainian company has demonstrated an unusual new battlefield rescue system: a drone capable of carrying a wounded soldier inside an enclosed cabin. Developed by SkyFall, the aircraft, named StarGate, was filmed taking off, flying and landing with ...",
+        "url_fonte": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "16/10/2026 10:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Houthi missile attack targets Yemeni presidential palace in Aden",
+        "descricao": "Five people have been killed and 16 injured in a Houthi missile attack targeting the presidential palace in Aden, a port city in southern Yemen and the seat of the internationally recognised government, officials say.",
+        "url_fonte": "https://www.euronews.com/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "16/10/2026 09:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Looters seize on massive French protests to raid and vandalise shops",
+        "descricao": "\nLooters on Saturday seized the opportunity to raid and vandalise a host of shops and businesses across France – from bakeries and supermarkets to tech stores – as hundreds of thousands of people took to the streets to protest higher living costs and...",
+        "url_fonte": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "17/10/2026 20:15"
       }
     },
     {
@@ -385,23 +555,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Looting, blazes and clashes in France amid nationwide protests",
-        "descricao": "\nPolice and protesters clashed violently in Paris and other French cities Saturday on the sidelines of nationwide marches against soaring inflation, with one demonstrator's hand blown off, multiple blazes set and looters breaking into dozens of store...",
-        "url_fonte": "https://www.france24.com/en/live-news/20261017-french-protesters-clash-with-police-during-nationwide-demonstrations",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "17/10/2026 12:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
         "titulo_evento": "France faces day of cost-of-living protests",
         "descricao": "\nFrench authorities detained dozens on Saturday at the start of nationwide protests against the cost of living, in what is likely to be a key indicator of the social climate heading toward elections to replace President Emmanuel Macron. France 24's A...",
         "url_fonte": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
@@ -431,13 +584,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4699,
-          50.5039
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
         "titulo_evento": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-        "descricao": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack.",
+        "descricao": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank, a day after an American photographer was beaten. Belgium and France have condemned the attack.",
         "url_fonte": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "17/10/2026 16:29"
@@ -505,7 +658,7 @@
       },
       "properties": {
         "titulo_evento": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-        "descricao": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in cities across France.",
+        "descricao": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in French cities.",
         "url_fonte": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "17/10/2026 08:02"
@@ -661,7 +814,7 @@
         "descricao": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections.",
         "url_fonte": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "17/10/2026 19:20"
+        "data_noticia": "17/10/2026 21:18"
       }
     },
     {
@@ -679,6 +832,23 @@
         "url_fonte": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
         "categoria": "Defesa/Conflito (NYT Business)",
         "data_noticia": "16/10/2026 18:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. enters a dangerous new chapter in Ukraine war - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlDRWtN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 15:19"
       }
     },
     {
@@ -708,28 +878,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+        "titulo_evento": "Rafael CEO: We ended the Iran war with more interceptors than we started with - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FNWhJWVVFcXdsM1JScWZzb0RfUzVhNjZ6SFZxdWJUQTB0NGoxdjRZN0YwMkJGcFczVUF4Ni03bDNQVnFPM3ZSZ3VZQUZpQWE3Q1JxV3ZZdExpT0NHakE4TTc5TQ?oc=5\" target=\"_blank\">Rafael CEO: We ended the Iran war with more...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FNWhJWVVFcXdsM1JScWZzb0RfUzVhNjZ6SFZxdWJUQTB0NGoxdjRZN0YwMkJGcFczVUF4Ni03bDNQVnFPM3ZSZ3VZQUZpQWE3Q1JxV3ZZdExpT0NHakE4TTc5TQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 12:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Vance publicly hints at his disagreement with Trump over Iran war - Washington Examiner",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEzeVVkX3l1TmF3S2VoOVViWg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 15:02"
+        "data_noticia": "17/10/2026 18:16"
       }
     },
     {
@@ -742,11 +895,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Craig Symonds, Prizewinning Military Historian, Is Dead - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xd29mUnlHR0NRemU2Zks0bGlsZXRMeWJMOVp4TWhZVWhWYXdneGI2TTdESFNVVFlYV1c3MzgzcXcwQmRqZ0pqNUxWV1JEYWhpanlDa0FhSXM1dWNPcVd3d3JyR3ZVTzRTWEprRm9UMjZMazhpQlF4RQ?oc=5\" target=\"_blank\">Craig Symonds, ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xd29mUnlHR0NRemU2Zks0bGlsZXRMeWJMOVp4TWhZVWhWYXdneGI2TTdESFNVVFlYV1c3MzgzcXcwQmRqZ0pqNUxWV1JEYWhpanlDa0FhSXM1dWNPcVd3d3JyR3ZVTzRTWEprRm9UMjZMazhpQlF4RQ?oc=5",
+        "titulo_evento": "Ship attacks in Strait of Hormuz hit record high since Iran war began - New York Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlN5TWxmQURRb0JMV1ZUa3JHemxkNEhNQUNDdXFxdUhGSzRvWDBVQll0dHNCZ3lvWTZPQllIaXNxTWFFX0NlT0tSblVONHlRbkhPX2IyZWRxQWx4cDZDT2MyQldENnB2TFNweXdRUVY0WHdzTzdnRzFjRExoT05KRFF0OHBnd3BDZjRQZzI0bVFFanct...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlN5TWxmQURRb0JMV1ZUa3JHemxkNEhNQUNDdXFxdUhGSzRvWDBVQll0dHNCZ3lvWTZPQllIaXNxTWFFX0NlT0tSblVONHlRbkhPX2IyZWRxQWx4cDZDT2MyQldENnB2TFNweXdRUVY0WHdzTzdnRzFjRExoT05KRFF0OHBnd3BDZjRQZzI0bVFFanctcWdzS0N0NDEtMnpZZjBLVGN5WFItc2dFREluYQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 17:28"
+        "data_noticia": "17/10/2026 18:42"
       }
     },
     {
@@ -759,28 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It? - The Intercept",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5\" target=\"_blank\"...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5",
+        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 09:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Bay Area",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWpKeVd6djQ4Z05Vbm1UODVBZ2F1TFk1Si12dHJJTUpoaENBRWlHNzdEb3VFT3FRSlBDU3VaaENwd1RsYUR3ZmpXTG9ad0pCWGl3X0dJRk0xUTc3NmxwRi1sUWhyQmhBc3Bqc21xMWVUVVRQYV9mLXlFdXhtRkxwOXk1dzFzYkpkRl9idG00VTZqQk1H...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWpKeVd6djQ4Z05Vbm1UODVBZ2F1TFk1Si12dHJJTUpoaENBRWlHNzdEb3VFT3FRSlBDU3VaaENwd1RsYUR3ZmpXTG9ad0pCWGl3X0dJRk0xUTc3NmxwRi1sUWhyQmhBc3Bqc21xMWVUVVRQYV9mLXlFdXhtRkxwOXk1dzFzYkpkRl9idG00VTZqQk1HWHVlSzVwZlJCOVJDcFRIbEpLZjZ0RXBuUGlpeVRlQ0xVZTk4ajdUa0VBb0Mzblo4dHNRMlpfZlVpLTdUanfSAdIBQVVfeXFMTy1qSnlXenY0OGdOVW5tVDg1QWdhdUxZNUotdnRySU1KaGhDQUVpRzc3RG91RU9xUUpQQ1N1WmhDcHdUbGFEd2ZqV0xvWndKQlhpd19HSUZNMVE3NzZscEYtbFFockJoQXNwanNtcTFlVFVUUGFfZi15RXV4bUZMcDl5NXcxc2JKZEZfYnRtNFU2akJNR1h1ZUs1cGZSQjlSQ3BUSGxKS2Y2dEVwblBpaXlUZUNMVWU5OGo3VGtFQW9DM25aOHRzUTJaX2ZVaS03VGp3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 13:07"
+        "data_noticia": "17/10/2026 12:56"
       }
     },
     {
@@ -805,16 +941,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -74.006,
+          40.7128
         ]
       },
       "properties": {
-        "titulo_evento": "Retail price impacts from the Iran war are uneven but add up for U.S. households before midterms - NBC 6 South Florida",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORHJmVHA5X1VkN1JOWnhZR2h3NHFtQVVJZzE5RjlNbXhibVlCMEdwY3JUam1IWXgxanoxb1lHY1lwSWFqSm5VSzlvcUZ3eW1BMmp1dVBBSFM2WHFaeFRMaDZPMlNBdnVKVDVKUjRUZmdqX0s5aS0wXzVsa1lobmZUbDE3bmxNV1NzX2lfU1N2ZU9OTUFM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHJmVHA5X1VkN1JOWnhZR2h3NHFtQVVJZzE5RjlNbXhibVlCMEdwY3JUam1IWXgxanoxb1lHY1lwSWFqSm5VSzlvcUZ3eW1BMmp1dVBBSFM2WHFaeFRMaDZPMlNBdnVKVDVKUjRUZmdqX0s5aS0wXzVsa1lobmZUbDE3bmxNV1NzX2lfU1N2ZU9OTUFMdVFtX0pDNVFmQ2VpcjhoQ0pCblRneTI1UUg3LXBEdW03M1RDQmfSAcIBQVVfeXFMT205V085LVRHdnRVYXlQXzk2VlNRamhRUzFpRWxHOUdlczIxRmVqU2I2VDVrbnQzRU1iMUlPekhrUkVEQ0JkeExxWUJ0bEJobDgzRkJSWGlFYURnRHcyTmI1d0g0ME5IQW9XdGFTS2prNUlyWVdVOGJBcXdsUV9MMC1ZeUVsVVVBTjR4QUhFTVJKbGZ1Y3NPalpCNlppaE41VWtEZ0Y1ck1kQV9wWU00d1pJMzJlOHJJb25VQzNEbzdqWVE?oc=5",
+        "titulo_evento": "Craig Symonds, Prizewinning Military Historian, Is Dead - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xd29mUnlHR0NRemU2Zks0bGlsZXRMeWJMOVp4TWhZVWhWYXdneGI2TTdESFNVVFlYV1c3MzgzcXcwQmRqZ0pqNUxWV1JEYWhpanlDa0FhSXM1dWNPcVd3d3JyR3ZVTzRTWEprRm9UMjZMazhpQlF4RQ?oc=5\" target=\"_blank\">Craig Symonds, ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xd29mUnlHR0NRemU2Zks0bGlsZXRMeWJMOVp4TWhZVWhWYXdneGI2TTdESFNVVFlYV1c3MzgzcXcwQmRqZ0pqNUxWV1JEYWhpanlDa0FhSXM1dWNPcVd3d3JyR3ZVTzRTWEprRm9UMjZMazhpQlF4RQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 16:59"
+        "data_noticia": "17/10/2026 17:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vance publicly hints at his disagreement with Trump over Iran war - Washington Examiner",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEzeVVkX3l1TmF3S2VoOVViWg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 15:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Zelensky warns Russia may expand missile threats from Belarus against western Ukraine - The Kyiv Independent",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGxaNUs5OVRHMENOaDVOOWQ3RUVxMm1zTExhWllMQzA5d0tQNFJhYXZfekM0Wkp2TER1eWNVX0g1Mnh3TkRoSUI1cGF2WXVNUUdocFFETEVwbUJJeWlqc2lmdlpxei1OTHh1YlY1Zk9DV2RseFBUT0FRVWl3d3hTamxfN01xRTBrR29RRW1KMXdUT1gt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGxaNUs5OVRHMENOaDVOOWQ3RUVxMm1zTExhWllMQzA5d0tQNFJhYXZfekM0Wkp2TER1eWNVX0g1Mnh3TkRoSUI1cGF2WXVNUUdocFFETEVwbUJJeWlqc2lmdlpxei1OTHh1YlY1Zk9DV2RseFBUT0FRVWl3d3hTamxfN01xRTBrR29RRW1KMXdUT1gtd0JmYUZYMXJISi1mRV9NSkZ2U0dNXzhPOW1rYTBDbHk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 20:26"
       }
     },
     {
@@ -827,11 +997,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How the US-Iran war upended two critical global trade routes - CNN",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA?oc=5",
+        "titulo_evento": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It? - The Intercept",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 05:00"
+        "data_noticia": "17/10/2026 09:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Moscow says first tanker carrying Russian oil to world markets has departed - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORjl5UVVyZWRGbWE0SU1yUlBNeVNHSWRSVHEwb3J3eDFBclFIdjZYSWNCU2RHTG1pUlZNeHU5bUNRdFlSNUhiOFNoZDlyUjlNNzJDUl83YlQ5SnAwWlZVVHdpUGJWZTVaY3dPbnRUbGljUEoxdHhNU1VHMDdrNG1XdE1KTjV0Q29nRTl0cXdOejRCV09L...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjl5UVVyZWRGbWE0SU1yUlBNeVNHSWRSVHEwb3J3eDFBclFIdjZYSWNCU2RHTG1pUlZNeHU5bUNRdFlSNUhiOFNoZDlyUjlNNzJDUl83YlQ5SnAwWlZVVHdpUGJWZTVaY3dPbnRUbGljUEoxdHhNU1VHMDdrNG1XdE1KTjV0Q29nRTl0cXdOejRCV09LR2E1cUpsLXppaHVudEx1dml3ekZKbTRCblhFMHo3T2o0TjQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "17/10/2026 20:52"
       }
     },
     {
