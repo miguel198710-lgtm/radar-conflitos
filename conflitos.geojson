@@ -125,6 +125,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+        "descricao": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "17/10/2026 14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Yellow vest’ legacy fuels France protests as thousands demand reforms",
+        "descricao": "Tens of thousands rally in Paris and other cities for protest that unites students, teachers, unions and &#039;yellow vests&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "17/10/2026 13:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -210,40 +244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthis strike Yemen’s Aden: What that means",
-        "descricao": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "17/10/2026 09:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-        "descricao": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
-        "url_fonte": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "17/10/2026 06:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           105.3188,
           61.524
         ]
@@ -271,23 +271,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "17/10/2026 02:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump denies limiting Ukraine access to Starlink network",
-        "descricao": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "16/10/2026 19:33"
       }
     },
     {
@@ -339,6 +322,91 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "15/10/2026 17:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brazil: Amazon deforestation at 40-year low",
+        "descricao": "\nIn Brazil, deforestation in the Amazon has reached its lowest level in 40 years. President Lula is bolstering his environmental record just over a week before the second round of the presidential election, in which he faces Flávio Bolsonaro.\n",
+        "url_fonte": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low",
+        "categoria": "Política (France 24)",
+        "data_noticia": "17/10/2026 16:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
+        "descricao": "\n\"Mothers of Kherson\" has opened at Poland's National Opera. The performance was co-produced with New York's Metropolitan Opera and created in close association with Save Ukraine, a group helping to bring back Ukrainian children who remain in Russia....",
+        "url_fonte": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "17/10/2026 15:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Protests in France: \"Two fires broke out in Place de la République\"",
+        "descricao": "\nPolice and protesters clashed in Paris and other French cities on Saturday, with smoke from fires and tear gas filling the air at demonstrations nationwide against high prices, ahead of elections to replace President Emmanuel Macron. \"Two fires brok...",
+        "url_fonte": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
+        "categoria": "Política (France 24)",
+        "data_noticia": "17/10/2026 15:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Protests in France: \"Living conditions are too harsh\"",
+        "descricao": "\nSaturday’s mobilisation in France follows calls on social media to revive the Yellow Vests movement, which emerged in 2018 against social injustice. Student groups protesting since mid-September have urged supporters to join. We discuss this with ou...",
+        "url_fonte": "https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh",
+        "categoria": "Política (France 24)",
+        "data_noticia": "17/10/2026 15:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
+        "descricao": "\nProtesters across France called for street demonstrations on Saturday against rising living costs. France 24's Antonia Kerrigan reports from Paris.\n\n\"The march from here to Place de Clichy isn't set to start for another hour. However, we've seen it ...",
+        "url_fonte": "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement",
+        "categoria": "Política (France 24)",
+        "data_noticia": "17/10/2026 14:46"
       }
     },
     {
@@ -414,16 +482,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          4.4699,
+          50.5039
         ]
       },
       "properties": {
-        "titulo_evento": "Zelensky drums up European backing as Trump ties slump",
-        "descricao": "\nUkrainian President Volodymyr Zelensky urged EU leaders Friday to keep financing Kyiv's fight with nearly $80 billion more next year, as he insisted he was standing up for his country amid a fresh row with US President Donald Trump.\n",
-        "url_fonte": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
-        "categoria": "Política (France 24)",
-        "data_noticia": "17/10/2026 09:25"
+        "titulo_evento": "West Bank: Israeli settlers attack EU diplomats",
+        "descricao": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack.",
+        "url_fonte": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "17/10/2026 16:29"
       }
     },
     {
@@ -431,16 +499,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Trump waives new Russia sanctions as Ukraine ties slump",
-        "descricao": "\nPresident Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more...",
-        "url_fonte": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "17/10/2026 09:23"
+        "titulo_evento": "How big is Russia's threat against Germany?",
+        "descricao": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer.",
+        "url_fonte": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "17/10/2026 15:23"
       }
     },
     {
@@ -448,135 +516,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Students, trade unions and Yellow Vests set to protest across France",
-        "descricao": "\nTens of thousands of ⁠people are expected to ​protest across France on Saturday, as students, trade unionists and remnants of the Yellow Vest movement join forces to demonstrate against high prices and ​the country's fraying social model.\n",
-        "url_fonte": "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "17/10/2026 09:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-        "descricao": "\nYemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport on Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Yemenia...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "17/10/2026 06:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Live: Tens of thousands join protests across France, clashes reported in several cities",
-        "descricao": "\nFrench police used tear gas and batons to try to drive protesters from the streets in Paris, Marseille and Lyon as demonstrators staged unsanctioned marches and tried to block traffic with impromptu barricades Saturday. Hundreds of thousands of peop...",
-        "url_fonte": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "17/10/2026 05:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Zelensky fears Trump 'will continue' to lift Russia sanctions",
-        "descricao": "\nUkrainian President Volodymyr Zelensky said on Saturday that he feared his US counterpart Donald Trump \"will continue\" lifitng sanctions on Russia. Zelensky's relationship with Trump deteriorated after the Washington eased sanctions on Moscow as par...",
-        "url_fonte": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "16/10/2026 20:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
-        "descricao": "\nAn online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels betwee...",
-        "url_fonte": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
-        "categoria": "Política (France 24)",
-        "data_noticia": "16/10/2026 20:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
-        "descricao": "\nIn India, the Cockroach movement felt the crushing boot of the state this week. Thousands of Gen Z protesters were rounded up and detained in sports stadiums and community halls turned into makeshift detention centres, while the movement’s founder, ...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "16/10/2026 19:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "'US tilting toward Russia: Europeans are standing more and more solidly with Zelensky'",
-        "descricao": "\nAs transatlantic relations confront renewed geopolitical uncertainty, former Estonian President Toomas Hendrik Ilves delivers a pointed assessment of Washington's shifting approach to Russia's war on Ukraine and the profound implications for Europea...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/spotlight/20261016-us-tilting-toward-russia-europeans-are-standing-more-and-more-solidly-with-zelensky",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "16/10/2026 18:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.3816,
-          -34.6037
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Argentine demonstration over education cuts ends in clashes",
-        "descricao": "\nArgentine demonstrators clashed with police on Thursday at a major protest in Buenos Aires over budget-slashing President Javier Milei's higher education spending. The main demonstration outside parliament by thousands of university students and sta...",
-        "url_fonte": "https://www.france24.com/en/video/20261016-argentine-demonstration-over-education-cuts-ends-in-clashes",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "16/10/2026 16:25"
+        "titulo_evento": "China's influence in the gaming industry is growing",
+        "descricao": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
+        "url_fonte": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "17/10/2026 14:49"
       }
     },
     {
@@ -606,9 +555,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "France braces for nationwide protests",
-        "descricao": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent.",
-        "url_fonte": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "France: Police and protesters clash in nationwide protests",
+        "descricao": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille.",
+        "url_fonte": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Economia (DW (Alemanha/UE))",
         "data_noticia": "17/10/2026 08:02"
       }
@@ -720,40 +669,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
-        "descricao": "At an international AI summit in Dublin, EU leaders promoted trusted and independent artificial intelligence. Critics question whether the bloc can close the gap with the US and China while maintaining strict regulation.",
-        "url_fonte": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "16/10/2026 09:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Zelenskyy says Putin is looking to cause Ukraine-wide ‘blackout’",
-        "descricao": "The Ukrainian president called an executive order from U.S. President Donald Trump an \"American sanctions blackout.\" ",
-        "url_fonte": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "17/10/2026 12:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.3517,
           50.8503
         ]
@@ -822,16 +737,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran War: Latest News, Live Coverage and Video - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5\" target=\"_blank\">Iran War: Latest News, Live Coverage and Video</a>&nbsp;&nbsp;<font co...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 12:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vance publicly hints at his disagreement with Trump over Iran war - Washington Examiner",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRENXdnJWVDhqVUFZSGVfX0o2VWtEbjZ2clg1b3VZUE5rdEhzcU80cFBXMTM4Zk9IR095YktsQ0d0dTltbjJURHVVTi13WWxOZUR4SkxDVXY2Y1liZ1VQeThxWGJmdHQ4V0hKVEpTZDFoSXIxNkNHVjJ0RDN4eXVRS2lLVWpmRWJkenJpZzh6UGxjZGEzeVVkX3l1TmF3S2VoOVViWg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 15:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
-        "descricao": "Military forces have sought to damage the computing hubs that power online services and artificial intelligence systems.",
-        "url_fonte": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
-        "categoria": "Defesa/Conflito (NYT Business)",
-        "data_noticia": "15/10/2026 16:22"
+        "titulo_evento": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Bay Area",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWpKeVd6djQ4Z05Vbm1UODVBZ2F1TFk1Si12dHJJTUpoaENBRWlHNzdEb3VFT3FRSlBDU3VaaENwd1RsYUR3ZmpXTG9ad0pCWGl3X0dJRk0xUTc3NmxwRi1sUWhyQmhBc3Bqc21xMWVUVVRQYV9mLXlFdXhtRkxwOXk1dzFzYkpkRl9idG00VTZqQk1H...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWpKeVd6djQ4Z05Vbm1UODVBZ2F1TFk1Si12dHJJTUpoaENBRWlHNzdEb3VFT3FRSlBDU3VaaENwd1RsYUR3ZmpXTG9ad0pCWGl3X0dJRk0xUTc3NmxwRi1sUWhyQmhBc3Bqc21xMWVUVVRQYV9mLXlFdXhtRkxwOXk1dzFzYkpkRl9idG00VTZqQk1HWHVlSzVwZlJCOVJDcFRIbEpLZjZ0RXBuUGlpeVRlQ0xVZTk4ajdUa0VBb0Mzblo4dHNRMlpfZlVpLTdUanfSAdIBQVVfeXFMTy1qSnlXenY0OGdOVW5tVDg1QWdhdUxZNUotdnRySU1KaGhDQUVpRzc3RG91RU9xUUpQQ1N1WmhDcHdUbGFEd2ZqV0xvWndKQlhpd19HSUZNMVE3NzZscEYtbFFockJoQXNwanNtcTFlVFVUUGFfZi15RXV4bUZMcDl5NXcxc2JKZEZfYnRtNFU2akJNR1h1ZUs1cGZSQjlSQ3BUSGxKS2Y2dEVwblBpaXlUZUNMVWU5OGo3VGtFQW9DM25aOHRzUTJaX2ZVaS03VGp3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 13:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Dems Have an Opportunity to Force an End to the Iran War. Will They Take It? - The Intercept",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdENTVFpnUzk4ZG5IT25CVU9GWkdhUTlLcDVtU0k0b1NGNmhob0RwRXdwaE1JdVVzZzA3WUhLVmQ3TkN5Ylhrc0lTSW95YXpoYlhYT0lWNngzNmEyUnFwZFhxeFNWTzdzM2hXT281WjdBenh2emtKajYyaTNpZzJKSUhTTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 09:57"
       }
     },
     {
@@ -861,79 +844,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed? - Radio Free Europe/Radio Liberty",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJsd1IyYjdwOVpxWDZfTktVV0JSMzBQX0NGVWI5VW9raHJfcFA0Mk8wdzZyWmxFbzNRLVpGM0xHRHEwVkZfOW5nMmc4QVhDZkM4R2gwOWwxMUZ5aTNUMGNHb0tLSnU3NU1uQU42Y29pQ3RGT2RuV3FRd1djZDhTMThNM2JRd9IBiAFBVV95cUxPeUVn...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJsd1IyYjdwOVpxWDZfTktVV0JSMzBQX0NGVWI5VW9raHJfcFA0Mk8wdzZyWmxFbzNRLVpGM0xHRHEwVkZfOW5nMmc4QVhDZkM4R2gwOWwxMUZ5aTNUMGNHb0tLSnU3NU1uQU42Y29pQ3RGT2RuV3FRd1djZDhTMThNM2JRd9IBiAFBVV95cUxPeUVnbzNzMEctQkpCdmNyNmYySjhQejRwajBxcUxuckJ0Um5IekswNE9lUHYyUG5VaXNYTGNSY0RLck9kX0tzRHdMVGlpUnpaLTVYakNWNy1TaWVTMmFwVUY0RjJVSzAyRDV4dXRJd2ZMMDlRVnM3Q1hUbE5wVm1mYXBkZGNsVHM0?oc=5",
+        "titulo_evento": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpf...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 07:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNjZHkzLVBNVjg3RWJ4ZTZUNW9kTjdHeEdNZVlweUl6d1psLTFnQ3ZnN1UzS2RFdVRlZVp5Y0pHc3FqTlZCdmhxMHNxbHlhNU1kdFlzSzRLMXM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 06:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump scrutinized for potential war crimes over his decisions to help Putin and weaken Ukraine's defenses - Milwaukee Independent",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcklkakdhZmdaRkVvWXQwcExwd1lsM2t4NlBIVDBEc3ZwaXNGTWIySXZjWjRGaTV2akstWU1TOWh5dnh1NWpGVnNNbEt4aGMtX09oX0tXT29jcDM5cHVfOFhWa0k3X3NLYXhKUHhlc045QXhHbGZXZS1zYXh3SkxzTW5HaUFfWjhNSWdLM0Zwd3oxMjFY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcklkakdhZmdaRkVvWXQwcExwd1lsM2t4NlBIVDBEc3ZwaXNGTWIySXZjWjRGaTV2akstWU1TOWh5dnh1NWpGVnNNbEt4aGMtX09oX0tXT29jcDM5cHVfOFhWa0k3X3NLYXhKUHhlc045QXhHbGZXZS1zYXh3SkxzTW5HaUFfWjhNSWdLM0Zwd3oxMjFYcGU3bURPUXFjcS02TXA0WXpiQkVadVlZOUZHUE9OaFFFeGoxdnE0cGFmOWp6VkNnUW0wX0xKeGE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 10:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Vance suggests disagreement with Trump over Iran war - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUto...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFpWcV80QVNfR0JMZkRlN1dvUDJyWkxpREdqeWVhdmZwZFlOZ0d4MHZlYkRFZHluR0Q2ckVkQ1RyWVRDY0hidVdFNG5ocEQyX2FnaTFOaENzSTVMNURTaHdONHhuZmlNTElBZmxRaTd0RDJ1ZWxWYmtmRDRTeUJVUDYxa2lxQ2pkbHFJVzBtcHFTQUtoSHhfc2pB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 05:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Searching for a ‘Win,’ but Is the Iran War Destined to Fail? - Inkstick Media",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHZDTUYyZlZCMGJfelNBWHA1M3MwQldjRTNRNjE3QW90aWJtNjdaYmMtQkNrU1BPdUMwcTV1ZVR1dFhaa1EtTHlSZlRhUUxvVFRZa05xS3Z0UnVBZmNYTEllaUZROFJfbzVjU3I0M1lpYUtSLXExOWhsQWxaZmMtOGZkME5MUi1WbDVaWW02S1VJek9o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHZDTUYyZlZCMGJfelNBWHA1M3MwQldjRTNRNjE3QW90aWJtNjdaYmMtQkNrU1BPdUMwcTV1ZVR1dFhaa1EtTHlSZlRhUUxvVFRZa05xS3Z0UnVBZmNYTEllaUZROFJfbzVjU3I0M1lpYUtSLXExOWhsQWxaZmMtOGZkME5MUi1WbDVaWW02S1VJek9o?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 08:41"
+        "data_noticia": "17/10/2026 08:40"
       }
     },
     {
@@ -963,11 +878,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpf...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1BwUjctMk8yVXY0LVVRRjB3eW1ENUVYYjFzWkNyMWVIOWpNVzBEeTNaQzU5M2pDWEE1ZXRJb2g2WGk2a1ZMT0hEbnhtV3lZRmsxTzhaSFFTckxTWmM2ZUVZWmVkaWVkbDZVak9vSGl6b3dMNk5UdnBjOHZZM1phbEZwbS1MTHhxVEItb2gyZ2FDYVpfaTJBSzZ30gGfAUFVX3lxTE1fLUdKUGQ3NTBmZzZnSkduVmJkc3V0d3FtX2ZnWkhzaVZQUHp5LXlTT0tackNubUt4ZFFDUlA3NGlNVGFoQ3ZJeWltR3lCX3VHVXlibl9zVThCQ3BaSUllamM2NmdUeGN6UzdKWE8zZ2NuLXlJMUdWUUNfcHhmWC1ZV2pmdko2cHFDRjd4ZUFYdWxUaU1BN0IzOVBXZjhiOA?oc=5",
+        "titulo_evento": "Trump’s Searching for a ‘Win,’ but Is the Iran War Destined to Fail? - Inkstick Media",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHZDTUYyZlZCMGJfelNBWHA1M3MwQldjRTNRNjE3QW90aWJtNjdaYmMtQkNrU1BPdUMwcTV1ZVR1dFhaa1EtTHlSZlRhUUxvVFRZa05xS3Z0UnVBZmNYTEllaUZROFJfbzVjU3I0M1lpYUtSLXExOWhsQWxaZmMtOGZkME5MUi1WbDVaWW02S1VJek9o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHZDTUYyZlZCMGJfelNBWHA1M3MwQldjRTNRNjE3QW90aWJtNjdaYmMtQkNrU1BPdUMwcTV1ZVR1dFhaa1EtTHlSZlRhUUxvVFRZa05xS3Z0UnVBZmNYTEllaUZROFJfbzVjU3I0M1lpYUtSLXExOWhsQWxaZmMtOGZkME5MUi1WbDVaWW02S1VJek9o?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 08:40"
+        "data_noticia": "17/10/2026 08:41"
       }
     },
     {
@@ -980,45 +895,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC30 Fresno",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXpCUk1fS0ZJWVlNZ0Q0QllvY2FxOUxmWC1fa2tqdVphY1pLMktkdlV6VmJNQlc4VUp6dTNyamNEcVF2ZXpCUmx5cDNUUktQR1ZRZ0F3S1pieUVtQk5UMWpOUlhQa2lXdWxNazB4aUUzbGl1MHN0eXVYNi16SGhrUmlHS001aklCRE4tMF9KY0pBSUVW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXpCUk1fS0ZJWVlNZ0Q0QllvY2FxOUxmWC1fa2tqdVphY1pLMktkdlV6VmJNQlc4VUp6dTNyamNEcVF2ZXpCUmx5cDNUUktQR1ZRZ0F3S1pieUVtQk5UMWpOUlhQa2lXdWxNazB4aUUzbGl1MHN0eXVYNi16SGhrUmlHS001aklCRE4tMF9KY0pBSUVWZDRJd0s5YnZjYTJTQzhoSFhKMmlCTzdTVkFZSUU0OUxsUnhSVWdwdlRSNi1idG0wYlQyRtIBzgFBVV95cUxQS04wQk1JWnh6MW1EendIYlBpRmdzcjl3WEpURENoNVJ6djI1dGx0VkhZTThpQXZoMVhZOUxxNWxxaHFMV09GelhTUk1ZdTFUb3FaOVFxNjZLQUdPNGtiblVQWUx5c0ZoN2huS29FYU1TYXdSQ09wa1lHcmNpUDFfVlBJOGlHTlBBSFliSndWVEUwRVpzWjZ2aG9ReXlQQjY3d3hVMXN3c2wxMm5nOEVpNU1QNTRnX0pNbGZvb2hCdGRRLW41aEk2Z2prSUZudw?oc=5",
+        "titulo_evento": "Ukraine Hits Russian Drone Factory in Rostov, Bryansk Depot - Kyiv Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE02b054U2E0MzQxdGJaVUM3cWZrZzVIWHROZUFNbF9OS0pyVXBrSmUybXRweEZYcURQUHpSS29pQzd6LXpLdlJTbnNzYw?oc=5\" target=\"_blank\">Ukraine Hits Russian Drone Factory in Rostov, Bryansk Depot</a>&nbsp;&nbsp;...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02b054U2E0MzQxdGJaVUM3cWZrZzVIWHROZUFNbF9OS0pyVXBrSmUybXRweEZYcURQUHpSS29pQzd6LXpLdlJTbnNzYw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 13:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Victory of Asymmetry in the Iran War - Council on Foreign Relations",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5\" target=\"_blank\">The Victory of ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "16/10/2026 16:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran giving Yemen's Houthis target intelligence for drone, missile strikes on Saudi Arabia - report - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkOXRSMkpFckJZaFBzb3I1djN5Q3pQaV9pTVFvYTF5UmR4S2tWVUdnOWpPb0s4SXppV3pzNzNhRkxUOHpoSnEwODNITDVkMzRtUFVua3B5U3U3emRk?oc=5\" target=\"_blank\">Iran giving Yemen's Houthis target intelligence for d...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkOXRSMkpFckJZaFBzb3I1djN5Q3pQaV9pTVFvYTF5UmR4S2tWVUdnOWpPb0s4SXppV3pzNzNhRkxUOHpoSnEwODNITDVkMzRtUFVua3B5U3U3emRk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 08:33"
+        "data_noticia": "17/10/2026 13:47"
       }
     },
     {
@@ -1031,11 +912,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Inside Ukraine's 'Kill Zone' where soldiers face swarming drones in new age of war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFRXTnphdVdqOVA4TjF3X1dqcnFsaEwzN254SGFaWFk3WDFLRGdMMkY1ZW9keDlMSDFpeHNBbzdLWkFwMjVYaDkzYlMxYllkcUhhTl8wOE9ESl9BTThRSFhucC1XWnVxbl9iRWVEdm5oMmEteHNSZkE5N1dXUXNhUXRMX05MNUNnTGN3eEc0aldJeVBx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFRXTnphdVdqOVA4TjF3X1dqcnFsaEwzN254SGFaWFk3WDFLRGdMMkY1ZW9keDlMSDFpeHNBbzdLWkFwMjVYaDkzYlMxYllkcUhhTl8wOE9ESl9BTThRSFhucC1XWnVxbl9iRWVEdm5oMmEteHNSZkE5N1dXUXNhUXRMX05MNUNnTGN3eEc0aldJeVBxc2swMnFFNlRXQXIxeUVxZm13azNvd2pqTkVHZTJB?oc=5",
+        "titulo_evento": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNj...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNjZHkzLVBNVjg3RWJ4ZTZUNW9kTjdHeEdNZVlweUl6d1psLTFnQ3ZnN1UzS2RFdVRlZVp5Y0pHc3FqTlZCdmhxMHNxbHlhNU1kdFlzSzRLMXM?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 02:10"
+        "data_noticia": "17/10/2026 06:43"
       }
     },
     {
@@ -1048,11 +929,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Is California at risk of a gasoline shortage amid the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmt4UnZTS2FnLXFYUmpSMllrOEZQbWxJSTVIbzU4QVNKbWtIRVFYOTFVb3NHdU50a0pWU2QyUnQxNWtsS3pBY09nckxwa1FwTDhZMzFxWl9VUmlMaEh4NUlSTTYzZXEwYmFUSkFrOEJMbEVMaXhmVGJVTy1UeTlyaERxRTNEbHNTSFgzUzZEOEFvVWg4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmt4UnZTS2FnLXFYUmpSMllrOEZQbWxJSTVIbzU4QVNKbWtIRVFYOTFVb3NHdU50a0pWU2QyUnQxNWtsS3pBY09nckxwa1FwTDhZMzFxWl9VUmlMaEh4NUlSTTYzZXEwYmFUSkFrOEJMbEVMaXhmVGJVTy1UeTlyaERxRTNEbHNTSFgzUzZEOEFvVWg4Z1RneGhBRnJodG9ONnRkQ3Jn0gGrAUFVX3lxTE9DazE5N3puTzVrU2hCUUJmYU9FY1RiNTA1Y2hiZG84QVU5TjZzTG9aaFhsY3lLVFZwNE9RX0IwTy1VRm9lbV95Y2NWX1U0RjlOaVl2ZXBveUNxNk95dFZnYzQyNF82MFhqSmItcXJQa09QODVWRWcwMVZ3cW45bWVYd1FqZlUwcDNzU0hwUkRCX0lNeEUtWW9VWHVtUkxvaHFTRmY3TUlaRjJjSQ?oc=5",
+        "titulo_evento": "Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed? - Radio Free Europe/Radio Liberty",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJsd1IyYjdwOVpxWDZfTktVV0JSMzBQX0NGVWI5VW9raHJfcFA0Mk8wdzZyWmxFbzNRLVpGM0xHRHEwVkZfOW5nMmc4QVhDZkM4R2gwOWwxMUZ5aTNUMGNHb0tLSnU3NU1uQU42Y29pQ3RGT2RuV3FRd1djZDhTMThNM2JRd9IBiAFBVV95cUxPeUVn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTJsd1IyYjdwOVpxWDZfTktVV0JSMzBQX0NGVWI5VW9raHJfcFA0Mk8wdzZyWmxFbzNRLVpGM0xHRHEwVkZfOW5nMmc4QVhDZkM4R2gwOWwxMUZ5aTNUMGNHb0tLSnU3NU1uQU42Y29pQ3RGT2RuV3FRd1djZDhTMThNM2JRd9IBiAFBVV95cUxPeUVnbzNzMEctQkpCdmNyNmYySjhQejRwajBxcUxuckJ0Um5IekswNE9lUHYyUG5VaXNYTGNSY0RLck9kX0tzRHdMVGlpUnpaLTVYakNWNy1TaWVTMmFwVUY0RjJVSzAyRDV4dXRJd2ZMMDlRVnM3Q1hUbE5wVm1mYXBkZGNsVHM0?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "17/10/2026 07:55"
+        "data_noticia": "17/10/2026 07:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "U.S. enters a dangerous new chapter in Ukraine war - CNN",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlDRWtN?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "17/10/2026 15:19"
       }
     },
     {
@@ -1070,23 +968,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBOFpUX04xc0tjRzUxZ2FwSnlYWUxadmNJaU1leEJzQUpVT1lsd0RoMjdGYlFiWER4MTRRc3pNZWdnRTBadTRRU3pmTQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Markets)",
         "data_noticia": "17/10/2026 11:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China's central bank to further open its financial markets to foreigners, chief says - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "16/10/2026 15:59"
       }
     }
   ]
