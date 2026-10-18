@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What is Starshield, SpaceX’s military version of Starlink?",
-        "descricao": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
-        "url_fonte": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "16/10/2026 20:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -79,11 +62,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Macron calls for calm in France and warns rioting must not escalate",
-        "descricao": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
+        "titulo_evento": "Macron calls for 'calm and order' after riots across France",
+        "descricao": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "18/10/2026 19:14"
+        "categoria": "Política (BBC World)",
+        "data_noticia": "18/10/2026 20:33"
       }
     },
     {
@@ -152,6 +135,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "17/10/2026 01:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump defends Russia sanctions relief, accuses Zelensky of rejecting peace",
+        "descricao": "\nUS President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but ...",
+        "url_fonte": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "18/10/2026 21:59"
       }
     },
     {
@@ -249,9 +249,9 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Canada: Fire at military base in Alberta leaves four dead",
-        "descricao": "Canadian Prime Minister Mark Carney said a \"serious incident\" sparked a major fire at a military base in Alberta.",
-        "url_fonte": "https://www.dw.com/en/canada-fire-at-military-base-in-alberta-leaves-four-dead/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+        "titulo_evento": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
+        "descricao": "Canadian Prime Minister Mark Carney says a \"serious incident\" sparked a major fire at on Alberta military base. Four people have died, 39 are in hospital and at least 19 are in critical condition.",
+        "url_fonte": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "18/10/2026 02:08"
       }
@@ -372,7 +372,7 @@
         "descricao": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections.",
         "url_fonte": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "17/10/2026 23:46"
+        "data_noticia": "18/10/2026 20:46"
       }
     },
     {
@@ -397,16 +397,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "4 service members killed, dozens injured in fire at Canadian military base - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndENXdDVUNMM2c4VndvS2liU3hmNW1YbnFYMmxPSUk2Y1MydmRYaTBr?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/10/2026 21:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Vance acknowledges ‘failures’ in US handling of Iran war - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVjdEQ5ZDJCUWk?oc=5",
+        "titulo_evento": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0Fr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0FrYlJuVkNFRDhseTBIa3dKbnNMZmk2aVY5WG5fYmZDRnNFVUFzSXd2eFNhLTd3dlctd1F6Z2kwTmZ5SmRoUVFMQ3VUVlNaUzVzMkJYZkZtOGpDVDZJSDRJNzFJV3FWdVhkNTBDTnVMRXlid0cwTlNaYk1mb281dkEyb3ZpYkxRZ0Zvb3g?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/10/2026 15:03"
+        "data_noticia": "18/10/2026 17:18"
       }
     },
     {
@@ -424,6 +441,40 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "18/10/2026 15:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Vance acknowledges ‘failures’ in US handling of Iran war - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVj...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGtTaU0wUGJSQWFUYm9EWVcyVDdWTnpjaHhDUWdPSUFSLTQ3TjV4cXBtUV9vYV9Kc0NwTTljamEtT195RGZpdmplZkIzdG1RRFJaaF9adVlEX2ZIU3plNkZSaXZocjJnY2RyX0U1anVCX1laTzI2YmI5Q2Zjd3c4WGhpTWwwR1ZJZmFCUXRVVGlLVHVjdEQ5ZDJCUWk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/10/2026 15:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "18/10/2026 19:17"
       }
     },
     {
@@ -465,33 +516,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "4 service members killed, dozens injured in fire at Canadian military base - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndE...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUTl1SEpmUm8xNExMSmI3UjdmNVMtUUdsUFpLMXU1LWZiVmo3NkFyWldnMWhqVkJiQnA1ZzcybGk0OGxMa0Y4ZUdEWmt1S0xrSU5VZmFoNkJoWnU4cmQ0cTVOV1RUa1hiTHBEb2puT2dndGZvSVFodGMwUV9ROHdqdWNWSUxIX3JrWG5GcEZtdnIxRndENXdDVUNMM2c4VndvS2liU3hmNW1YbnFYMmxPSUk2Y1MydmRYaTBr?oc=5",
+        "titulo_evento": "Egypt says ready to back Saudi Arabia in war against Iran-allied Houthis - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE41a0xUNG9zVTllNmo2TmJVSFdKdmJGV2lwamViUEdYZ3NxRWtNVVJpRFZSV3oxUkVFUW0xU0R5dGN6MHlpZ0NCaURaUUl0cDlEMkl6WUxCWDlfZW1q?oc=5\" target=\"_blank\">Egypt says ready to back Saudi Arabia in war against ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41a0xUNG9zVTllNmo2TmJVSFdKdmJGV2lwamViUEdYZ3NxRWtNVVJpRFZSV3oxUkVFUW0xU0R5dGN6MHlpZ0NCaURaUUl0cDlEMkl6WUxCWDlfZW1q?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/10/2026 18:21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/10/2026 19:17"
+        "data_noticia": "18/10/2026 21:40"
       }
     },
     {
@@ -516,40 +550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Wright says Trump administration has not broken promise to lower gas prices amid Iran war - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0Fr...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYndPRzM1RHY1Vk9vQXdMaEJJa0phMGpyaWhWZlNqTDlvTUVxbXNhZW12WG9tR3dMYno5dkdnb18tOEktd2d4QXdqeUZ0QW5kSHlHTXhTSFBzajVlVVRaZUJMeXdTemJHdEhrZUJIY3l2bmlyQjFab3pGYnlQenVoelUwNEViQTTSAYwBQVVfeXFMT0FrYlJuVkNFRDhseTBIa3dKbnNMZmk2aVY5WG5fYmZDRnNFVUFzSXd2eFNhLTd3dlctd1F6Z2kwTmZ5SmRoUVFMQ3VUVlNaUzVzMkJYZkZtOGpDVDZJSDRJNzFJV3FWdVhkNTBDTnVMRXlid0cwTlNaYk1mb281dkEyb3ZpYkxRZ0Zvb3g?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/10/2026 17:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Vance says in ‘some ways’ US has ‘decisively won’ Iran war - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThwUl9Vd2V4OFoxY1NEd2xDWkZkQ2tpRTBWZ1h4UDdaWUZnMXhWQjlsZThkYnFxdGN2dnVaaFY4TGhpQ2lNM3lObUN6UUhwcE5VYnNwSUZWdG93Q1hDdWl5RzhpNl9PUG5CRzk5UnotaGhOdFl6SUl1N29FTXdjRllJelZOVndO0gGOAUFVX3lxTE5p...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUThwUl9Vd2V4OFoxY1NEd2xDWkZkQ2tpRTBWZ1h4UDdaWUZnMXhWQjlsZThkYnFxdGN2dnVaaFY4TGhpQ2lNM3lObUN6UUhwcE5VYnNwSUZWdG93Q1hDdWl5RzhpNl9PUG5CRzk5UnotaGhOdFl6SUl1N29FTXdjRllJelZOVndO0gGOAUFVX3lxTE5pR0ZvMDlEN1NuWWd5bWNUNTZ5LWVUMVZCMGJHX3Mxdno2MjZjdC1YclRXTlBCQVczYllzSFZIeHZxMldUcUtrSFQ2QTRRRWtiOXRLMnVIcWlJS3pnMGdiUVBXMnViQ0UwbmVhNGRveG9kdVBJZUU0VGI1Y0lHcHF2S05CNVM3TU8tQkhYUXc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "18/10/2026 12:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.7129,
           37.0902
         ]
@@ -567,16 +567,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Oil Climbs as Fighting Flares in Middle East, Ukraine - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+        "titulo_evento": "Rubio Says Russia Sanctions Waiver Is 60-Day Pause to Analyze Global Economy - Kurdistan24",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NUDJhdmNXY3dVWHNyeVZ6d1VBTjR4SEZaQUwtX1VkUXBzbmQ5RGN0eldfYzZ2ZGpKc0VUVldUYjE3TkhHc3g0R2tTbmpPcHY1SU5KRzVB?oc=5\" target=\"_blank\">Rubio Says Russia Sanctions Waiver Is 60-Day Pause to Analyze...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NUDJhdmNXY3dVWHNyeVZ6d1VBTjR4SEZaQUwtX1VkUXBzbmQ5RGN0eldfYzZ2ZGpKc0VUVldUYjE3TkhHc3g0R2tTbmpPcHY1SU5KRzVB?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/10/2026 14:10"
+        "data_noticia": "18/10/2026 06:11"
       }
     },
     {
@@ -601,33 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          37.6173,
+          55.7558
         ]
       },
       "properties": {
-        "titulo_evento": "Week Ahead: BoK Meeting; China LPR; U.K., Japan, Canada and NZ Inflation Reports; China GDP; U.K. Jobs Report; Global Flash PMIs; France Credit Ratings' Update - www.christophe-barraud.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNenhqVlR4bVBsQ1RPQmcwVXFqZGVWM1V1cGZSTE9GOFYtM1NpbWxJVGg1bWUzVWhVTGc0UXpSQ0hWTWxiS1lfTm1QV2VVbVoxdURpNWphRnBZN3JRQXcwNXh0X3FUQ1Y0MjZSN3cwLWtrSzBsTjlfcVdSN3VzdkRscVgyZEF0bkkzWlFGQUJITEpUZFVT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNenhqVlR4bVBsQ1RPQmcwVXFqZGVWM1V1cGZSTE9GOFYtM1NpbWxJVGg1bWUzVWhVTGc0UXpSQ0hWTWxiS1lfTm1QV2VVbVoxdURpNWphRnBZN3JRQXcwNXh0X3FUQ1Y0MjZSN3cwLWtrSzBsTjlfcVdSN3VzdkRscVgyZEF0bkkzWlFGQUJITEpUZFVTUC1JZlRUcWRJU0xQVHViQUpJY1MyeHdwUE0xV0k0a2JfSFBKV0FDRTIwQVBoOXd5b0pOVFl5b3lkLVhmcUVlNkNhQnNWT0E5WW5nQ3N1cTN6ZDdWbHhVSC1KQWdqRkZhMnhzbWtUM0VPRTBXMUpTS3JYdEhDREZYY0VpRw?oc=5",
+        "titulo_evento": "Moscow says first tanker carrying Russian oil to world markets has departed - Anadolu Ajansı",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGV6aVhEOVZfeWZJaGJPVWVKdFJCRkhUVDJxSzlQSjZib3ZkZXF4NzZKZ0p4eDVxMEtCczZnQXFFTVRMQkRmQkJRRzNIWTFPb0tSYVk3cW1jYzVwbWFaQTBsM3JXYmJ1VDBCM0t1YzI0cTBveGdPR1l1TnFmQjVyLXpQT2F4UFFaSVk3TFl5VWVBZHNr...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGV6aVhEOVZfeWZJaGJPVWVKdFJCRkhUVDJxSzlQSjZib3ZkZXF4NzZKZ0p4eDVxMEtCczZnQXFFTVRMQkRmQkJRRzNIWTFPb0tSYVk3cW1jYzVwbWFaQTBsM3JXYmJ1VDBCM0t1YzI0cTBveGdPR1l1TnFmQjVyLXpQT2F4UFFaSVk3TFl5VWVBZHNrR3BwZjgzTU9ISDdHa1JCTE1lTE1YYTFGVkc4eWVETjFXQkxQ0gHAAUFVX3lxTE1nUk9GX0RXaVhhQUxzSnRiOVh1eDhzTENUQl9UWC1rQmhkWVJDRVJlX01MeFB3Um83c2JxREZHWjVobVdJYWNyTkhFeWYxaFl1blFZX1o3bmp4SEpfRHV1MDlOMHBibm85OVl1eUJjUVNUc21RUGM0S29nYi12OVhCWU5oV0tTRlFlSmdQbzFPWXZZRlZIeUtvWU1zdFlfSWt5RmotT25Ya3Z2b21FZmx0Zkc5UTEtS0dxX3ZzN0E1dQ?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/10/2026 14:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How excavators from China's inland city reach global markets smarter and faster - CCTV.com English",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1TDdQNUhGa0k3S3IyY01mNDgyUElid3F5cWM1blF3aTh5a1ZidE1QUHQ0eDNjYVJvNlhtRnN6RHI2Z2V2OWUzQUhuOXNXSmRpVUp1dFFXSHhNQVhoa3FPZFhSQ0l2UF9iNi1TNlVZR0ZIVmJUZ29ZZlBUTlk?oc=5\" target=\"_blank\">How excava...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1TDdQNUhGa0k3S3IyY01mNDgyUElid3F5cWM1blF3aTh5a1ZidE1QUHQ0eDNjYVJvNlhtRnN6RHI2Z2V2OWUzQUhuOXNXSmRpVUp1dFFXSHhNQVhoa3FPZFhSQ0l2UF9iNi1TNlVZR0ZIVmJUZ29ZZlBUTlk?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/10/2026 07:45"
+        "data_noticia": "18/10/2026 07:42"
       }
     },
     {
@@ -645,6 +628,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXpXY3RRTlcwdUxVaENIeWJZcUR2WmlCY0hHc0lRcFJlbjJOOFZsOERyeENSZGVVTjBiUGJhc2hkQkgwQ1N0TTFIaWUyUU95UjVtNXBGWG0wTDFxZnlSLTZuSG4yY0pxT3V4NXliQURoRWM0UmlvNzJWNThjUEFyWVRUM2c3dw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "18/10/2026 11:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Week Ahead: BoK Meeting; China LPR; U.K., Japan, Canada and NZ Inflation Reports; China GDP; U.K. Jobs Report; Global Flash PMIs; France Credit Ratings' Update - www.christophe-barraud.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNenhqVlR4bVBsQ1RPQmcwVXFqZGVWM1V1cGZSTE9GOFYtM1NpbWxJVGg1bWUzVWhVTGc0UXpSQ0hWTWxiS1lfTm1QV2VVbVoxdURpNWphRnBZN3JRQXcwNXh0X3FUQ1Y0MjZSN3cwLWtrSzBsTjlfcVdSN3VzdkRscVgyZEF0bkkzWlFGQUJITEpUZFVT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNenhqVlR4bVBsQ1RPQmcwVXFqZGVWM1V1cGZSTE9GOFYtM1NpbWxJVGg1bWUzVWhVTGc0UXpSQ0hWTWxiS1lfTm1QV2VVbVoxdURpNWphRnBZN3JRQXcwNXh0X3FUQ1Y0MjZSN3cwLWtrSzBsTjlfcVdSN3VzdkRscVgyZEF0bkkzWlFGQUJITEpUZFVTUC1JZlRUcWRJU0xQVHViQUpJY1MyeHdwUE0xV0k0a2JfSFBKV0FDRTIwQVBoOXd5b0pOVFl5b3lkLVhmcUVlNkNhQnNWT0E5WW5nQ3N1cTN6ZDdWbHhVSC1KQWdqRkZhMnhzbWtUM0VPRTBXMUpTS3JYdEhDREZYY0VpRw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "18/10/2026 14:16"
       }
     },
     {
@@ -674,11 +674,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Hong Kong ‘optimistic’ on economic growth despite global slowdown, Paul Chan says - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2dHeXMxOGpVWUNUVmNaZ2hCelBQcVFsU1dnb0dLZ2pTdlNoTU5TV0FkMTBJLWcyQUIzX0VQa0ZoSk1hQ2phVTdSQUhraUdTa1FxY2dab3lZQ2VDX0pLVTBZdUZLQlhfNUgtTnJnMXdzVXJHQ1oxNFZVeFBMZlBNX1lrSnJzNFladzNvVlZaT1N5dTNs...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2dHeXMxOGpVWUNUVmNaZ2hCelBQcVFsU1dnb0dLZ2pTdlNoTU5TV0FkMTBJLWcyQUIzX0VQa0ZoSk1hQ2phVTdSQUhraUdTa1FxY2dab3lZQ2VDX0pLVTBZdUZLQlhfNUgtTnJnMXdzVXJHQ1oxNFZVeFBMZlBNX1lrSnJzNFladzNvVlZaT1N5dTNsWG5Jc1QzMnJtOVNoNzFla3RDbjE2S1lHYi1TdWNYd3dZSTJLWXFUZUxhNkNBSnJhX0lLeDlwYlF3aXZFSk1rb2JyLW90bnFvbHfSAd4BQVVfeXFMTW9kRG5Jd1ZsWVQ5U0ZES3pSUGM2d00zZ0lzSVh4LV9FX19MMkJnUEg1ZWxqRVJwNURIRGdIX0gtbDJGWE1YLUVhYmdDTVcxelZMX0UydVp2ZTctQUFIU0FxZnNvUFhucjRzd3AxYmk1Z2haN2QtOHZoQWdmQlhIbHVHOUFNcTVKcHNFbnNPTFRSTzZMY056R0NNcDBJQjByUUpZbFRPYURsN3VSZl9JbTdhTHVaSUJ1QWp5czItMTNnOTlwanN3Qi0xemNfRFgyOVozRGV6RzBpOGNUQ2tn?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "18/10/2026 06:20"
+        "titulo_evento": "How excavators from China's inland city reach global markets smarter and faster - CCTV.com English",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1TDdQNUhGa0k3S3IyY01mNDgyUElid3F5cWM1blF3aTh5a1ZidE1QUHQ0eDNjYVJvNlhtRnN6RHI2Z2V2OWUzQUhuOXNXSmRpVUp1dFFXSHhNQVhoa3FPZFhSQ0l2UF9iNi1TNlVZR0ZIVmJUZ29ZZlBUTlk?oc=5\" target=\"_blank\">How excava...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1TDdQNUhGa0k3S3IyY01mNDgyUElid3F5cWM1blF3aTh5a1ZidE1QUHQ0eDNjYVJvNlhtRnN6RHI2Z2V2OWUzQUhuOXNXSmRpVUp1dFFXSHhNQVhoa3FPZFhSQ0l2UF9iNi1TNlVZR0ZIVmJUZ29ZZlBUTlk?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "18/10/2026 07:45"
       }
     },
     {
@@ -686,16 +686,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Rubio Says Trump Will Take Up To 60 Days To Assess Impact Of Russia-Related Sanctions And Tariffs: Report - TradingView",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNW5zNDdadE1WX2QyVzk1RHgydDhQOG1zYnFQNTVOeUpvWTNTWnBUcmo1X1JZVkJ3eDU2R2hCNmJ2NEN5LTJVaE01V1l1d1hibmlhb0taX2ZqM2pzTl84SUtvOFdXZE1VbWtfaTFwb0pfRVg3aGhJV0xDcl9FOW9tZjlDRW02dks1S1EwbHJGQ1lpbFRl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNW5zNDdadE1WX2QyVzk1RHgydDhQOG1zYnFQNTVOeUpvWTNTWnBUcmo1X1JZVkJ3eDU2R2hCNmJ2NEN5LTJVaE01V1l1d1hibmlhb0taX2ZqM2pzTl84SUtvOFdXZE1VbWtfaTFwb0pfRVg3aGhJV0xDcl9FOW9tZjlDRW02dks1S1EwbHJGQ1lpbFRlbE9lRVRCanpVU1lib0I1QUtfNzNlaUx1RmtSczRfMVREQ2pwbUN3WTZCaFJUNEVmRnBTNV94eWxmNnVkVFhBeElHWnliaUxodmFuLURKTXpjMm5MNER1MjFySldJTDNSNTBtUg?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "18/10/2026 09:09"
+        "titulo_evento": "Hong Kong ‘optimistic’ on economic growth despite global slowdown, Paul Chan says - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2dHeXMxOGpVWUNUVmNaZ2hCelBQcVFsU1dnb0dLZ2pTdlNoTU5TV0FkMTBJLWcyQUIzX0VQa0ZoSk1hQ2phVTdSQUhraUdTa1FxY2dab3lZQ2VDX0pLVTBZdUZLQlhfNUgtTnJnMXdzVXJHQ1oxNFZVeFBMZlBNX1lrSnJzNFladzNvVlZaT1N5dTNs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2dHeXMxOGpVWUNUVmNaZ2hCelBQcVFsU1dnb0dLZ2pTdlNoTU5TV0FkMTBJLWcyQUIzX0VQa0ZoSk1hQ2phVTdSQUhraUdTa1FxY2dab3lZQ2VDX0pLVTBZdUZLQlhfNUgtTnJnMXdzVXJHQ1oxNFZVeFBMZlBNX1lrSnJzNFladzNvVlZaT1N5dTNsWG5Jc1QzMnJtOVNoNzFla3RDbjE2S1lHYi1TdWNYd3dZSTJLWXFUZUxhNkNBSnJhX0lLeDlwYlF3aXZFSk1rb2JyLW90bnFvbHfSAd4BQVVfeXFMTW9kRG5Jd1ZsWVQ5U0ZES3pSUGM2d00zZ0lzSVh4LV9FX19MMkJnUEg1ZWxqRVJwNURIRGdIX0gtbDJGWE1YLUVhYmdDTVcxelZMX0UydVp2ZTctQUFIU0FxZnNvUFhucjRzd3AxYmk1Z2haN2QtOHZoQWdmQlhIbHVHOUFNcTVKcHNFbnNPTFRSTzZMY056R0NNcDBJQjByUUpZbFRPYURsN3VSZl9JbTdhTHVaSUJ1QWp5czItMTNnOTlwanN3Qi0xemNfRFgyOVozRGV6RzBpOGNUQ2tn?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "18/10/2026 06:20"
       }
     }
   ]
