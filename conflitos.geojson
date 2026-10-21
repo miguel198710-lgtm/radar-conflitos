@@ -74,6 +74,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+        "descricao": "Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.3522,
           48.8566
         ]
@@ -113,7 +130,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+        "titulo_evento": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
         "descricao": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
         "url_fonte": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
@@ -159,50 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "UK to deploy fighter jets to defend Saudi Arabia",
-        "descricao": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "20/10/2026 18:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9253,
-          -14.235
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Lula challenges Bolsonaro to release personal records before election",
-        "descricao": "Brazil&#039;s left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same. ",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
-        "categoria": "Economia (Al Jazeera)",
-        "data_noticia": "20/10/2026 18:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4668,
-          31.5017
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Jerusalem Daily: half a million Palestinians lose food aid",
-        "descricao": " Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "20/10/2026 16:59"
+        "titulo_evento": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+        "descricao": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet. ",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Economia (BBC World)",
+        "data_noticia": "20/10/2026 22:22"
       }
     },
     {
@@ -453,6 +436,40 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Live: French PM Lecornu to meet with unions ahead of new protests",
+        "descricao": "\nAfter implementing curfews in cities across France to prevent a continuation of the weekend's violence and looting, French Prime Minister Sébastien Lecornu prepared to meet with trade union organisations on Wednesday to discuss protest security and ...",
+        "url_fonte": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
+        "categoria": "Economia (France 24)",
+        "data_noticia": "21/10/2026 00:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          41.8719
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
+        "descricao": "\nItaly announced tougher security measures on Tuesday after weekend riots in Milan left more than 100 police officers injured and shops looted. The government will deploy 500 additional soldiers, impose harsher penalties for violent protesters and ho...",
+        "url_fonte": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
+        "categoria": "Política (France 24)",
+        "data_noticia": "20/10/2026 23:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
         "titulo_evento": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
         "descricao": "\nEgypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an emergency session ended without a decision a day earlier. FRANCE...",
         "url_fonte": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
@@ -686,16 +703,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "French PM vows 'massive' police deployment for new demonstrations Saturday",
-        "descricao": "\nFrench Prime Minister Sebastien Lecornu said Tuesday authorities would mobilise a \"massive\" security presence next weekend, with organisers announcing plans for new protests after riots erupted on the sidelines of nationwide demonstrations. \"The dep...",
-        "url_fonte": "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday",
-        "categoria": "Política (France 24)",
-        "data_noticia": "20/10/2026 14:54"
+        "titulo_evento": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+        "descricao": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
+        "url_fonte": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "21/10/2026 01:23"
       }
     },
     {
@@ -703,16 +720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -8.2245,
+          39.3999
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine ‘losing people and time’, Zelensky says after Oslo talks",
-        "descricao": "\nUkrainian President Volodymyr Zelensky has wrapped up talks with US envoys in Norway Tuesday where he was determined to put diplomacy back on a \"more constructive path”, Oslo officials said.  Zelensky told a post-meeting press briefing that Ukraine ...",
-        "url_fonte": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "20/10/2026 14:11"
+        "titulo_evento": "Portugal housing protests continue after police clear camps",
+        "descricao": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.",
+        "url_fonte": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "20/10/2026 23:11"
       }
     },
     {
@@ -839,6 +856,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "EU to press Canada and UK for more Ukraine funding",
+        "descricao": "As Brussels works on closer ties with both countries, it is also looking for partners to help meet Kyiv’s rising costs.",
+        "url_fonte": "https://www.politico.eu/article/eu-to-press-canada-and-uk-for-more-ukraine-funding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "21/10/2026 02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -866,23 +900,6 @@
         "url_fonte": "https://www.politico.eu/article/china-threatens-retaliation-if-u-k-follows-the-eu-on-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "20/10/2026 17:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Rubio insists the US isn’t trying to hurt Ukraine",
-        "descricao": "The Ukrainian president complained about delayed air defense deliveries, the U.S. no longer warning of ballistic missile attacks and a slowdown in crucial Starlink services.  ",
-        "url_fonte": "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "20/10/2026 14:01"
       }
     },
     {
@@ -958,6 +975,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: US envoy Witkoff to meet Putin after ‘constructive’ talks with Zelenskyy in Norway - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTVkY1QzQXRiVXEwVnloOTV4TEZjalpwS0ViOVI5UEl5a1lyekozOGoxN01OT252WXV4YW12S3JNVTQ1Rm5XdFhmaWFHV0tKNnIxQjB2V2V1X2w5d01XMklUdTd4dk9FYy1fblFXZjd4R0JpQmdXVUZlbUYwZC1zcDBWZExtZ1dRam8xYkwzdFJlVmZo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYTVkY1QzQXRiVXEwVnloOTV4TEZjalpwS0ViOVI5UEl5a1lyekozOGoxN01OT252WXV4YW12S3JNVTQ1Rm5XdFhmaWFHV0tKNnIxQjB2V2V1X2w5d01XMklUdTd4dk9FYy1fblFXZjd4R0JpQmdXVUZlbUYwZC1zcDBWZExtZ1dRam8xYkwzdFJlVmZoQkt4WTBpU25aTWFzSG5lbkl4RkpWWWJpOEV1dTFMcXF5Ukl4WmJ1LS1JakFzeF9vaTFoSTc0Qm5jM3dMVC05MUpzX2dIZXJJWU5wWA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/10/2026 23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -975,16 +1026,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Russian missile and drone blitz kills 9 in Ukraine as Zelenskyy meets U.S. and European officials in Norway - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVG9wcHVaNHVmRElUcVFvMjNRZTRJUVE0S3ROX2s5MFVCYTR1V2JwQmM5QlN3UWtUZnFIcFAxTnNaU245X0lVSi1iTG1YZ3lKVVhqbVlGRncyemtOcnlGeEc2dnVWcllwQnFFcFlKaGdoRGZ4dTNPUmFIS0hpNE5WT3h3UGFuWHlnNXJ3LTkzYWdfc3h3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVG9wcHVaNHVmRElUcVFvMjNRZTRJUVE0S3ROX2s5MFVCYTR1V2JwQmM5QlN3UWtUZnFIcFAxTnNaU245X0lVSi1iTG1YZ3lKVVhqbVlGRncyemtOcnlGeEc2dnVWcllwQnFFcFlKaGdoRGZ4dTNPUmFIS0hpNE5WT3h3UGFuWHlnNXJ3LTkzYWdfc3h3bHRMclVYYU9aRnV0Qm9jakVVV2pJbE9sM0JUQjJUQkZxZmNMWEdlb2k3em03WER0SmJISEJMeUJFMUJ4RjZJRGZPTjDSAd4BQVVfeXFMUFUtdjdzanZidnFMSGN0ZmV6Z2NrdTljNl9DY1VyUUNkc2pfdkNob0duWjVZMXQ1MTVLWDlXak9hc2V2bFowQ3dWczhiWGFiNDBSZHdsWDdmNEtpWGs2VktCbEoxVWJpZFNYLWdMcFljQ2M0NlVjWC14RVpMb3pmNHJCNjRXMm5iZnRkaVY2aXlfWFJqM3JyRmxoOFFjYmNuM3loa3pERjlCMTRtUDJmY1JiRXV5bWJ3eDRxWG0xY3ROUmVHS3o4YmZBN1lzb1Jmd3V6WWdZQjN6d3gzcFFR?oc=5",
+        "titulo_evento": "Taiwan admits paying for retired US general to observe largest annual war games - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDFRSUZBa1pqbEV6cEJ4aVp3QU1BWDRlYkNkT1liYjVRekhtcGJoeUY1R3VfX3JNa0hKQ0ZhX1VibjYzYmhGb0NZeTk1M2xxU2NzSmwwTkJvRC1ITkRXejQzaEJEWnkyTEIyUWREUXo5bndndm90LXFuODZuT25WQ0toZU5GNXA5aUhDUjR2Wmk3RkRJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDFRSUZBa1pqbEV6cEJ4aVp3QU1BWDRlYkNkT1liYjVRekhtcGJoeUY1R3VfX3JNa0hKQ0ZhX1VibjYzYmhGb0NZeTk1M2xxU2NzSmwwTkJvRC1ITkRXejQzaEJEWnkyTEIyUWREUXo5bndndm90LXFuODZuT25WQ0toZU5GNXA5aUhDUjR2Wmk3RkRJeXRZVnJOYmtnVHY0RHNoSHdkRmo1ZUl1MmhqRVlPNVRvT0VkZHE2YXFPS3YwaE13ZWZIZQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/10/2026 17:30"
+        "data_noticia": "21/10/2026 01:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2liNEw4VTdIQmFzUU5VWkpoRzZoMFpPTlFGRU5jRGVTVi1mNm5MdlFudjlpaV9pRUJGNkM3eXJKV0RiNjY5amxraHZ5UVhJQ3VjdkEtWHBaTHlsQi1TeERyWlNyREF3cnFRVWZGdTlmTDBCT1Fpa0xKVjVsNTUxRldTSGZPWWxjVG5ublpnbTdzdkt6...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2liNEw4VTdIQmFzUU5VWkpoRzZoMFpPTlFGRU5jRGVTVi1mNm5MdlFudjlpaV9pRUJGNkM3eXJKV0RiNjY5amxraHZ5UVhJQ3VjdkEtWHBaTHlsQi1TeERyWlNyREF3cnFRVWZGdTlmTDBCT1Fpa0xKVjVsNTUxRldTSGZPWWxjVG5ublpnbTdzdkt6NDhKc2hGWUkwTm1BQk8ydF8xSU1NVUhqWVE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "20/10/2026 22:50"
       }
     },
     {
@@ -1009,74 +1077,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZXdMd0l5UkRDUDE2NTlZT3dWa1kweUJMTUt5ZFFWeUFVek9TYkVGYmJyNDlEVlVXS3ZONGVISXZBZ0F4XzdyYms1ZzdidWszdGVuVUNWdTkzYU0?oc=5\" target=\"_blank\">Houthi missile strike on Yemen camp kills 73 security ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZXdMd0l5UkRDUDE2NTlZT3dWa1kweUJMTUt5ZFFWeUFVek9TYkVGYmJyNDlEVlVXS3ZONGVISXZBZ0F4XzdyYms1ZzdidWszdGVuVUNWdTkzYU0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/10/2026 14:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France vows major security operation involving military this weekend - Euronews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkFibkdING5GR3IyRXg2WmFreWxRVnl3bkhoUVR1SEd6R2JEQ210ckM3QW5NVW9ybHdxT1pnQ1JZRklNZ3lfMzNFMWVnWXNYWUd3QW1LQzdVZGxFNG1taFotN3FaSEZGOVVpSjhKdnFnemVBeVRuenJWQTZ0M1l2S0c3Ql83T0Q1WGgtQnM0cG1GM1Vv...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkFibkdING5GR3IyRXg2WmFreWxRVnl3bkhoUVR1SEd6R2JEQ210ckM3QW5NVW9ybHdxT1pnQ1JZRklNZ3lfMzNFMWVnWXNYWUd3QW1LQzdVZGxFNG1taFotN3FaSEZGOVVpSjhKdnFnemVBeVRuenJWQTZ0M1l2S0c3Ql83T0Q1WGgtQnM0cG1GM1VvT2EzZVQyMGpfaDJYV3d3Q2ZiaVBYSWM4LUc2aWcyWjY2dWFUdFVYNFFvY29kQVhj?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/10/2026 15:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm00QWdmVzlvOThxOUdvQlVKYWtMYVNNRDctTko1OXVKZWRxYVhnYkwxRWd5cE13Smw4N1ZHQUpaRzc1NGhLUXVkZjZaUDh6R1JnVnNpSWJKUldWZ0RIWExIRm5VSUcyYmloVEpUMEVqdUlIUHRfbFpwNUJRTjZfQ1pXc3hxWW51dnFvai1vUFZRWWhOSkZoNE11QXBJeG9XWVpBZUR1UDVma2UxR01NY1JpUjg3bzJtc05KcnBkQUd4Z2M?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "20/10/2026 22:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why more Chinese firms are eyeing Thailand over Vietnam after trade war 2.0 - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWpDUFhoV0NreDliNWo2M1E4eDl5QjkydGJ5bUxKekxqUlRibUJFUVU0dXZwVm5tV1JlUnFpNUZKUDBabDBKYzg1bVRLdkhWOWlFZUxmSXU2SFZFM2JieUt2LVVWN05VanlTLTZIdEtvZjdBQU9HMzA1NGQ3d3JaT1pJelhqLWZVYlZCX1BYMVVTdExX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWpDUFhoV0NreDliNWo2M1E4eDl5QjkydGJ5bUxKekxqUlRibUJFUVU0dXZwVm5tV1JlUnFpNUZKUDBabDBKYzg1bVRLdkhWOWlFZUxmSXU2SFZFM2JieUt2LVVWN05VanlTLTZIdEtvZjdBQU9HMzA1NGQ3d3JaT1pJelhqLWZVYlZCX1BYMVVTdExXc0Z0am4wa19EMm5kR2lDQzRMVklGLVh4SlZMZ0k3VFNxMU9sZ2c1NTlieENjNHpuRWZFZTBNWdIBywFBVV95cUxOdTlJb0kySkZuT2ZiMXJEUVowWU9ZZF9kdGR0cGVnYV9xQ1VfTVlrRDQ1bl94b2JYTFc1TWtyd3ZlaXZQY21td1RZZmFGQWpLRDJvZjZSTVRvZkFWMHluc09JZnBmeXZ6amxBbm92Qlpzc3hWdEFoVkNKRlI3dmlqc3NaZUgxbDZnX2xPVzFFMFBnSmZpQUpjMHlIWE45YmUxMVZ3bVJiMG9fdklkdV9XWlM4bWhDc3Z3RTlMSng0TWpieGhnRkZBWmtabw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "20/10/2026 22:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -1086,7 +1086,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclJjQ3VBc01WR1M4Rm9LeXVvV3pJX2hsUEo1ZnI5RkxwZExUQklld2VCaV9SNTNzUkZpQm54VnlQMU1aWHMweFp0UGFoenpTSmIwOHpZd1dUYlhkRG4xVE1tT3VIX2FoUFhpZGpHUXJoX1pvRWY5T09sSnJfZlB1RnNIMnJYUkdwaURCMjB5ckVISF9h...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclJjQ3VBc01WR1M4Rm9LeXVvV3pJX2hsUEo1ZnI5RkxwZExUQklld2VCaV9SNTNzUkZpQm54VnlQMU1aWHMweFp0UGFoenpTSmIwOHpZd1dUYlhkRG4xVE1tT3VIX2FoUFhpZGpHUXJoX1pvRWY5T09sSnJfZlB1RnNIMnJYUkdwaURCMjB5ckVISF9hYVY4NmRvY1U1TFl6LXZCWEdzRV9PMC0weHZOc2JxSWJXN282SnZaMERVeVFCZw?oc=5",
         "categoria": "Política (Google News Markets)",
-        "data_noticia": "20/10/2026 20:13"
+        "data_noticia": "20/10/2026 23:06"
       }
     },
     {
