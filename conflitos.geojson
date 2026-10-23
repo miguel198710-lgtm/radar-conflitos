@@ -108,6 +108,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+        "descricao": "Trump has declined to comment on the process that led Starlink to lift speed and access restrictions on Ukraine.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/10/2026 01:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+        "descricao": "Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "23/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
@@ -125,33 +159,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-        "descricao": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "22/10/2026 18:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-        "descricao": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "22/10/2026 17:58"
+        "titulo_evento": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "descricao": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "22/10/2026 21:42"
       }
     },
     {
@@ -169,23 +186,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "22/10/2026 15:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says Musk has restored Ukraine's access after Starlink row",
-        "descricao": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "22/10/2026 21:42"
       }
     },
     {
@@ -822,50 +822,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -3.7038,
+          40.4168
         ]
       },
       "properties": {
-        "titulo_evento": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-        "descricao": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
-        "url_fonte": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "21/10/2026 14:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Brussels proposes delaying tuition fee demand till after UK-EU summit",
-        "descricao": "A postponement would clear the way for a deal to be struck on other key elements of Britain’s “reset” with the bloc.",
-        "url_fonte": "https://www.politico.eu/article/brussels-proposes-delaying-tuition-fee-demand-till-after-uk-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "titulo_evento": "Europe’s dangerous winter of discontent",
+        "descricao": "Ahead of major elections in Spain, France, Greece and Italy, a plethora of crises is hammering the continent.",
+        "url_fonte": "https://www.politico.eu/article/a-dangerous-winter-of-revolt-is-coming-for-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
-        "data_noticia": "22/10/2026 11:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Markets tumble as concerns about Iran war and high AI spending collide - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 20:12"
+        "data_noticia": "22/10/2026 17:28"
       }
     },
     {
@@ -890,6 +856,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgx...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/10/2026 01:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Markets tumble as concerns about Iran war and high AI spending collide - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/10/2026 20:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Egypt calls for Yemen talks as parliament weighs military support to Saudi Arabia - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjlqS1owcXdLQnhHZnV3Q3FSWUU4OXhFTkpxV1E3dVdnU1pEak1sSENZRnN5cEs1dE5YREx5NnZsODFFWm01T1FNMC0wVXF0dWhkTUl5MTZaRHhJcVVRNkdyVnh5ZFJKam9xMHYxMG42R3F3WDdyQ1lsSDBPTmJVMVJLSmhYeFRnamp1aVRWYmY0Rlcw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjlqS1owcXdLQnhHZnV3Q3FSWUU4OXhFTkpxV1E3dVdnU1pEak1sSENZRnN5cEs1dE5YREx5NnZsODFFWm01T1FNMC0wVXF0dWhkTUl5MTZaRHhJcVVRNkdyVnh5ZFJKam9xMHYxMG42R3F3WDdyQ1lsSDBPTmJVMVJLSmhYeFRnamp1aVRWYmY0RlcwdmVibkZ2cWl6S21QS1JEOUt5UWd3M2RpTld2eVhFTjJ5bmpjX1RZX3BuaGNUZUU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/10/2026 18:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israeli military conducts massive \"power projection\" operation near Iran's border - Axios",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0l5ZTBmUDZOQ1VIS1A4Rjd6dFZPMDc0ZTRaQ2FMWEhxajJ3ME1yS2N5UFpvd1ZrMnFtdUZDYjJUYk95bHlZMnl2b1FEeVY4TWhJamxOTW15bl9JQ1MweG5fYldjWTByazNBYmVfbE5pN0Z3THlYMnhQTDBqV3ZuWGFR?oc=5\" target=\"_blank\">I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0l5ZTBmUDZOQ1VIS1A4Rjd6dFZPMDc0ZTRaQ2FMWEhxajJ3ME1yS2N5UFpvd1ZrMnFtdUZDYjJUYk95bHlZMnl2b1FEeVY4TWhJamxOTW15bl9JQ1MweG5fYldjWTByazNBYmVfbE5pN0Z3THlYMnhQTDBqV3ZuWGFR?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "22/10/2026 17:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           30.5238,
           50.4547
         ]
@@ -900,6 +934,40 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmJwWHBSdTZDQ3F5dGxvRFM2UkY3NDRWX2RCN0hWMnNWeDUtN0twVzlQUjdfTzBpWmR0d0lEYzlKODVoYllyaV9LLUZaeVg3RnFaQ1FuV2ZTdnlXUkYtQ0xYS0NsYW9Tb0lsQVI2NGNXNjV2WW95NkIwYW9xUXg4ZnJ0MGl6OV9fNE5zWU5LYS16eG1NOVJN0gGcAUFVX3lxTFAwQWVoRUJLMUZmdVpINHhTcHY3MncwcG9ucVkzNy1INXYzUlBweE5TaHk2RXJpLU5IUzg0a0JTaU1wOEczS1JQV2tsbnczX192Rm9qYTlqU0dET0U4WlVGRWpYczVNZUt5a0d1U3ZmY1Zwa2xMQUVhMVNZa1FwdDFJTjBQcHQ5bGNJQlJ3YjVUU083QVZQRFBTT2VQbw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "22/10/2026 19:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/10/2026 01:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1NBNDhwZHk3UDBnR0RsQWp1SFlIZGFfMGJDQ2VKcC1DRlhQYnF4MFFPeHpBX3BnaG5lU0tEdnhEVTFWT2tQSXpKYWpjOHIxZG12bUZ0dG9paGVXWF8xX0hscFpDUWttWUo2RlNDVk5FZG4wRHkwOE1HWExyMUVuLS1qc0RxSlZOUFFiTjVjMm5iZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd1NBNDhwZHk3UDBnR0RsQWp1SFlIZGFfMGJDQ2VKcC1DRlhQYnF4MFFPeHpBX3BnaG5lU0tEdnhEVTFWT2tQSXpKYWpjOHIxZG12bUZ0dG9paGVXWF8xX0hscFpDUWttWUo2RlNDVk5FZG4wRHkwOE1HWExyMUVuLS1qc0RxSlZOUFFiTjVjMm5iZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "23/10/2026 01:31"
       }
     },
     {
@@ -941,16 +1009,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5238,
-          50.4547
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
+        "titulo_evento": "Deadly fire at Canada military base was caused by live grenade exercise, army says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0dzbTd2ZjJIX0dMNU9xTEhMWFdxS0ltUmlfMmFhT3RYOVNiRTNENEZ2LXJyR3ZESkJ3ZW5FbTZzN2hLSWtCbTc5UHB3QzRBZlRZMGFaaHNjMDA4NFA5VEltaUpFNWtIWjExbk1LWUNLNHRKRk05eUZvcGNiMnR1UkNUNWhsQ2RaU2Y3dk9uTE1yOUxQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0dzbTd2ZjJIX0dMNU9xTEhMWFdxS0ltUmlfMmFhT3RYOVNiRTNENEZ2LXJyR3ZESkJ3ZW5FbTZzN2hLSWtCbTc5UHB3QzRBZlRZMGFaaHNjMDA4NFA5VEltaUpFNWtIWjExbk1LWUNLNHRKRk05eUZvcGNiMnR1UkNUNWhsQ2RaU2Y3dk9uTE1yOUxQWUZRWU8ycUxBU25OdDB4aV9Ib21PejlPeFB4dUtrWFNGRU1LQV9kcw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 19:48"
+        "data_noticia": "22/10/2026 22:09"
       }
     },
     {
@@ -958,16 +1026,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Trump is ‘financing’ war against Ukraine, Nobel winner says : Here & Now Anytime - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3dORjkwQjNLX0ExMFZJaFFUV2pnczJnaVFySDltcE9WQUFpZEdkQW1KdmlISU9HcDNvYWlfdVJhUGt0akhzSTdGSTdkazZkSmNVNGtQNEVRQlV6OVdsc1pnY0dYVERicXluRzg0Um5nX1RkazRseDBxQm1NZWVoRFE5MjZFeGxKanl2MTdqQWhRVUEx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3dORjkwQjNLX0ExMFZJaFFUV2pnczJnaVFySDltcE9WQUFpZEdkQW1KdmlISU9HcDNvYWlfdVJhUGt0akhzSTdGSTdkazZkSmNVNGtQNEVRQlV6OVdsc1pnY0dYVERicXluRzg0Um5nX1RkazRseDBxQm1NZWVoRFE5MjZFeGxKanl2MTdqQWhRVUExb0k1U0x6RGlFelhuWklZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 19:03"
+        "titulo_evento": "France Fiscal Credibility Debt Risks for Investors - Funds Society",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmd2dnZwbFA2NkJkVXFjV1NBVGkzMmthWTNwSzVhVV9vTUZ2eFJMWjhSQWxfVnhkSmgwVVBEbEx4b0dCZ1lOeHA3WGxzYmp4NEhsbVplX3preGFYVmZ1MjlSWUFpZVhEZ3JBa3NPZFppQ0xSQ09fX05hV2NqTG1FWkd4bHlKdXROVnJBalFFZGJJMVVu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmd2dnZwbFA2NkJkVXFjV1NBVGkzMmthWTNwSzVhVV9vTUZ2eFJMWjhSQWxfVnhkSmgwVVBEbEx4b0dCZ1lOeHA3WGxzYmp4NEhsbVplX3preGFYVmZ1MjlSWUFpZVhEZ3JBa3NPZFppQ0xSQ09fX05hV2NqTG1FWkd4bHlKdXROVnJBalFFZGJJMVVueHR5VG5YN3RYNTNGaGxRV3VmelgtUHhGbjM0THJwOA?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "22/10/2026 20:52"
       }
     },
     {
@@ -975,84 +1043,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 14:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWoydmRWR3hfaGxNdFNTVU5hcGhtckhXVFI1d3RyLU1BS3JPaDRma29uWktuQURIQ2xqMlRFMmFCeEJranpybUZhWHlkSjktc3p2TUtvckF3ZUNMVzZlRDhIYk14YzBFc0ZxUmVmd1E5bmVHTDhOLXNPTkhzZ1VoXzNtWk9pdDhWcUNKMGhaV3BDSFZV...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWoydmRWR3hfaGxNdFNTVU5hcGhtckhXVFI1d3RyLU1BS3JPaDRma29uWktuQURIQ2xqMlRFMmFCeEJranpybUZhWHlkSjktc3p2TUtvckF3ZUNMVzZlRDhIYk14YzBFc0ZxUmVmd1E5bmVHTDhOLXNPTkhzZ1VoXzNtWk9pdDhWcUNKMGhaV3BDSFZVUlNLME9WSG1ZTFVwSnV4SkZpU1LSAa4BQVVfeXFMTVZwTlRtcW1DZ3BLaDNPRUhXV0RFTFJiUktZRVRxcG1BZTg5c2dFYW1jWU96WlB0U2RzVkxhblhDcU9yNGpwNlc2OFRjYnJSblYwWS01dlZfbU5aWk92M0dzOVd1bWV2UUE3U0x1dWxxOGthbkZJRDJ2MUJTRHk0SldTQ01UbldwWVZrRG40Q2M2S3RsME9SZTVaZ1JuOHJZeXZjd0h0NHJUN3MyeU9R?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 12:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFNybFlkMEkyWkpGZUhTNHUyd2V2Y0JGQkNUNzdJVFhaNlpMWU1FQXh6NG9PWWU0ZlBSdDBCUXUwcEc0c1lJaXRFMzdNajVFdjN5Mm43Y2dBdmNST2lYY1JsWjA5dlVzZkZFcGVaY1RlUEMwS3pOblF0RlVzRGtlYm40TWh2NEp3UGc?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFNybFlkMEkyWkpGZUhTNHUyd2V2Y0JGQkNUNzdJVFhaNlpMWU1FQXh6NG9PWWU0ZlBSdDBCUXUwcEc0c1lJaXRFMzdNajVFdjN5Mm43Y2dBdmNST2lYY1JsWjA5dlVzZkZFcGVaY1RlUEMwS3pOblF0RlVzRGtlYm40TWh2NEp3UGc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 00:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkEyT2MxcnpyTV9nYUk1TXh1WlV5cUc5NWd1b1FZVjM3Q21KY1cwS1FuLWFsaGNVWTlHZzBuU2VxckxiLXdRcjZuQWliQVY5dTUwUG42RkJfZEpid2l6c3FQcmsxbi1BUU9kWUg2OEFEQlExTF9SdWRjdFYtamVfbVZ2bUZFZXhHTlRTTnRhZk0zaTdYaHZCTEdxTGVvM1RfbVFGX01vczM?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 18:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Kansas Sen. Roger Marshall in debate blames Ukraine war, not Iran war, for high diesel prices - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWJoVTZ4WVBJWl9GSHpuSXJ1a0VFTGZGTW5IR1R3RWVPNUw4WUVxMlVVZ2NiaDFRUUxjQWcycDFqT0dNSkFHME5yazBGZjBxcHVManFqTHFmM0FBeFlGSVV1OWFoZTR5OUxiZkJfZE9kOTNDX1ZybFVrRGRQWVBGTDdQYlhrcURLamx1ZmFpOWJiUVd4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWJoVTZ4WVBJWl9GSHpuSXJ1a0VFTGZGTW5IR1R3RWVPNUw4WUVxMlVVZ2NiaDFRUUxjQWcycDFqT0dNSkFHME5yazBGZjBxcHVManFqTHFmM0FBeFlGSVV1OWFoZTR5OUxiZkJfZE9kOTNDX1ZybFVrRGRQWVBGTDdQYlhrcURLamx1ZmFpOWJiUVd4STdMREVUSXhYNTluZ1F1cGZwaXJ4dzJSeWJXcl9WT05IMGRYSW9zcWY4V0xWSE1KVDVuV2ZzZGvSAcwBQVVfeXFMT2liaFU2eFlQSVpfRkh6bklydWtFRUxmRk1uSEdUd0VlTzVMOFlFcTJVVWdjYmgxUVFMY0FnMnAxak9HTUpBRzBOcmswRmYwcXB1TGpxakxxZjNBQXhZRklVdTlhaGU0eTlMYmZCX2RPZDkzQ19WcmxVa0RkUFlQRkw3UGJYa3FES2psdWZhaTliYlFXeEk3TERFVEl4WDU5bmdRdXBmcGlyeHcyUnliV3JfVk9OSDBkWElvc3FmOFdMVkhNSlQ1bldmc2Rr?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "22/10/2026 20:03"
+        "titulo_evento": "RMB going global serves real economy - China Daily",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9RLWFkbF81d2lQeF9wT2trN3ZYS211MHJrbkNUOVhVOHlsUFJMQTk5YjF1RjFzVzFvQTdRRnpfZzg3SVU2TmZwLWFmQmxXRHdHdzJTYnRDMi1NS0xmUld3SUpYWndvZHV3azF2aVNGdnQxcEc1UHNDcXJWM3R4QQ?oc=5\" target=\"_blank\">RMB goi...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RLWFkbF81d2lQeF9wT2trN3ZYS211MHJrbkNUOVhVOHlsUFJMQTk5YjF1RjFzVzFvQTdRRnpfZzg3SVU2TmZwLWFmQmxXRHdHdzJTYnRDMi1NS0xmUld3SUpYWndvZHV3azF2aVNGdnQxcEc1UHNDcXJWM3R4QQ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "23/10/2026 00:53"
       }
     },
     {
@@ -1070,23 +1070,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamtFYWJySk9SNGF4REEwUGxWUXptY3NIUHkwejFQckFVdmluNkxCdXBucWJyV0tjckVRaXVBVW4xNkxva2h2eXh1RlNCV3ZKX2E3cHR1WV84cUEzcFJhamNtRW5ULUk2dmpZSWF4Y2hkMWktN1NpOGZmWG5CVzFiREFyclZFVDQ3YW1EdjFLendGZmJ0VU8zTUxhcDFjT0ZpZVF3aEN5RmNNWm9SNXdFNS1EaGo3dw?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "22/10/2026 15:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China’s Economy Has a Huge Weakness - The Atlantic",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3JzT2NVNzdKUkFYQ1JEbHVBWW1LX2pVS0NNblRBY1ZVV1pRN3JVUEc2dE9NVTM0N3RLUFdsUllOU09Bd1UxS2Z6bkFCYV9pNEdQUEVBcGNYdjZTUUZ0cmZZX0hLV2tPQ2gxaG1sMUlOMUJmdHNqMVJNeEtXVDB2bldZTGh1SEtHcFFKX29FdHcycEFN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3JzT2NVNzdKUkFYQ1JEbHVBWW1LX2pVS0NNblRBY1ZVV1pRN3JVUEc2dE9NVTM0N3RLUFdsUllOU09Bd1UxS2Z6bkFCYV9pNEdQUEVBcGNYdjZTUUZ0cmZZX0hLV2tPQ2gxaG1sMUlOMUJmdHNqMVJNeEtXVDB2bldZTGh1SEtHcFFKX29FdHcycEFN?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "22/10/2026 12:13"
       }
     }
   ]
