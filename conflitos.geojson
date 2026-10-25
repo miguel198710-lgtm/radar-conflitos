@@ -40,6 +40,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+        "descricao": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "25/10/2026 00:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+        "descricao": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "25/10/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How have Democrats’ policies shifted since the last major US election?",
+        "descricao": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+        "url_fonte": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "24/10/2026 22:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -51.9253,
           -14.235
         ]
@@ -165,7 +216,7 @@
       },
       "properties": {
         "titulo_evento": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-        "descricao": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across the West Bank.",
+        "descricao": "Palestinians in Hebron are &#039;living in fear&#039; with the city closed, while Israeli forces arrest dozens across West Bank.",
         "url_fonte": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
         "categoria": "Economia (Al Jazeera)",
         "data_noticia": "24/10/2026 15:50"
@@ -186,40 +237,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "24/10/2026 15:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-        "descricao": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "24/10/2026 14:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-        "descricao": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d&#039;Or. ",
-        "url_fonte": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "24/10/2026 14:21"
       }
     },
     {
@@ -253,7 +270,7 @@
         "descricao": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
-        "data_noticia": "24/10/2026 17:21"
+        "data_noticia": "24/10/2026 23:02"
       }
     },
     {
@@ -284,7 +301,7 @@
       },
       "properties": {
         "titulo_evento": "Who are the candidates in Brazil's presidential election?",
-        "descricao": "Voters are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+        "descricao": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
         "url_fonte": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "24/10/2026 22:08"
@@ -305,125 +322,6 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "23/10/2026 22:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Brussels shops boarded up amid fears of repeat of last week's looting",
-        "descricao": "Luxury boutiques and high-street retailers in central Brussels covered their windows with wooden panels to protect against possible looting as fresh protests raise concerns over further unrest.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "24/10/2026 21:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9253,
-          -14.235
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election ",
-        "descricao": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and ...",
-        "url_fonte": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "24/10/2026 19:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-        "descricao": "Days before tight elections are due to be held in Israel, Prime Minister Benjamin Netanyahu has announced a massive operation on the West Bank after two Israeli soldiers were killed by militants at a checkpoint.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "24/10/2026 16:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Madrid joins weekend of protests across Europe as thousands rally for better pensions",
-        "descricao": "Pensioners are marching in Madrid on Saturday to demand decent pensions, indexation to inflation and an end to the gender gap, as parallel rallies in France and Italy prompt tighter security.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "24/10/2026 14:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tensions mount in France as thousands rally against Marine Le Pen’s National rally",
-        "descricao": "The mayor of Saint-Denis, Bally Bagayoko, joined left-wing politicians and trade union leaders in Orléans as Marine Le Pen's party gathered ahead of the 2027 presidential election.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france",
-        "categoria": "Economia (Euronews (Europa))",
-        "data_noticia": "24/10/2026 13:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Footage shows smoke plumes after deadly strike on Russian factory",
-        "descricao": "Three people were killed and five others seriously wounded in a reported Ukrainian attack on a factory in Russia’s Oryol region, according to local authorities.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "24/10/2026 13:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine restores 'stable' connection to Musk's Starlink, Kyiv says",
-        "descricao": "Starlink, and its military version Starshield, have proved crucial to the Ukrainian military's operations, providing resilient internet and communications over the battlefield.",
-        "url_fonte": "https://www.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "24/10/2026 11:58"
       }
     },
     {
@@ -822,23 +720,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Romania blames Russia for ship attack in the Black Sea",
-        "descricao": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month.",
-        "url_fonte": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "23/10/2026 14:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -1018,7 +899,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5\" tar...",
         "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 19:17"
+        "data_noticia": "24/10/2026 19:40"
       }
     },
     {
@@ -1060,16 +941,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/10/2026 00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Barack Obama Slams Donald Trump, Pete Hegseth Over Iran War - Newsweek",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5\" target=\"_blank\">Barack Obama Sl...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5",
+        "titulo_evento": "Putin puts Trump ahead of Iran in bid to mediate war - Al-Monitor",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0w3bVVBMUswRGNUYVJKQUF0VEFwa2Q4V0pyWmVobnhpbExzeXhvMHA3ak1UNkN6NVhpVUVISk01OHY4UkhlQUJLRlBVM3BSVGVHekJtTEwyc014UFdDTFRBVHZCeVVrM0JkYXB5c3RxLWpDT05NczE2OUZ5bjFBalFtTG9ieW5KQ3gyWVBRU1pYZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 20:01"
+        "data_noticia": "24/10/2026 22:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Live - Trump says US may strike Iran tomorrow or make a deal: ‘it's up to them’ - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5\" target=\"_blank\">Live - Trump says US may strike Iran tomorrow or m...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 23:00"
       }
     },
     {
@@ -1099,11 +1014,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Live - US warships ready for potential strikes on Iran, WSJ reports - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5\" target=\"_blank\">Live - US warships ready for potential strikes on ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 20:14"
+        "data_noticia": "25/10/2026 00:57"
       }
     },
     {
@@ -1116,11 +1031,113 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran president says many struggling for food as war bites - Arab News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZsZDFmZVc1Sm5ORFNxUmpfZ3lKbjlsOU1maDljZUxqbm43cUs0eGxhUjB5SXRUT2VYNXhYektkeEtiWnNpZFh2anduamY1YS0yNU5LUXMyTVE0amZQSUhXdFVaNVliT2VkYVpkbWpMOXlrOU1JYXV3bndiLV9vemE0bnE5LXY4MEZzTG1xWFZRb0RY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZsZDFmZVc1Sm5ORFNxUmpfZ3lKbjlsOU1maDljZUxqbm43cUs0eGxhUjB5SXRUT2VYNXhYektkeEtiWnNpZFh2anduamY1YS0yNU5LUXMyTVE0amZQSUhXdFVaNVliT2VkYVpkbWpMOXlrOU1JYXV3bndiLV9vemE0bnE5LXY4MEZzTG1xWFZRb0RYcnI5d2V3ekc0dWg3ellHTg?oc=5",
+        "titulo_evento": "Obama Tears Into Trump, Hegseth Over Iran War: ‘Not Serious People’ - Newsweek",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5\" target=\"_blank\">Obama Tears Int...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qd21fSHR3RDBnbGpsNFpocFBFSk1kcHJoZ1dwMjJOM1dWT3Iza3BOeXJ5R1J1Rm4yM1R1Mi1Pci0wc0NMb0p3TThmMWFRczVHaWRyN0pjNEVqc0RwLUVlTmNHVHRPVkZCSEJDWEV5b2pDNG94Mkt4Ng?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 15:41"
+        "data_noticia": "24/10/2026 20:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Dozens rally against U.S. war in Iran at march, concert - CNS Maryland",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2tBZTJZMHFVQ3EwNEQ3UExBLThwX2V1NGR4cWU3YUdQb0RWNW5aOG5rY3BORmlhTDJNYkZZU0xjSTU0QldhZ3BabWJMbzI0YVdIU3J2b0FKZTI0aFZFc284TUFobnJrd3loVElzY1RnakYyRUxnZy1zUzBuZDlBOVNmSTVBYjN6Y1BsNGpqY3NqRzg?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2tBZTJZMHFVQ3EwNEQ3UExBLThwX2V1NGR4cWU3YUdQb0RWNW5aOG5rY3BORmlhTDJNYkZZU0xjSTU0QldhZ3BabWJMbzI0YVdIU3J2b0FKZTI0aFZFc284TUFobnJrd3loVElzY1RnakYyRUxnZy1zUzBuZDlBOVNmSTVBYjN6Y1BsNGpqY3NqRzg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 22:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran says won’t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBj...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 13:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.4547
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1UV9wVXpRVkU?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 22:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran sends conflicting signals on US deal as Trump raises prospect of strikes - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E?oc=5\" target=\"_blank\">Iran sends conflicting signals on US deal as Trump raises prospect...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9reFd6eFdFdzZFLUg1dS1pd3BGYmtJMjBzZktXY1NSaXc5QkJwZE5xQ0FMMDVwQzl0OG1kcWtReEtlZjE0dFdzUUJ2LXgxTU1Pc1E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "25/10/2026 01:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25l...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "24/10/2026 22:07"
       }
     },
     {
@@ -1162,16 +1179,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -79.1834,
+          21.5218
         ]
       },
       "properties": {
-        "titulo_evento": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25l...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
+        "titulo_evento": "Trump suggests U.S. warships 'do a little stopover' in Cuba after Iran war - Fortune",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVc5S0h1c1pjckU4dkZUcGstb2tkT1BZaUlnb0ZUY0d5ZUwxY3daclRTX2w2Yjh3c1BjeWx4ODlWRTMzV1pSLVVQVXhmRkhkX3NDX2JPbk9aeVhNZElGNUY3RjMxMzhLQjh6VEdLRjBsOHFodnppUDhkVTBMS0JhT214eFF5NGpKVWJHekpDd2k5RDlJ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVc5S0h1c1pjckU4dkZUcGstb2tkT1BZaUlnb0ZUY0d5ZUwxY3daclRTX2w2Yjh3c1BjeWx4ODlWRTMzV1pSLVVQVXhmRkhkX3NDX2JPbk9aeVhNZElGNUY3RjMxMzhLQjh6VEdLRjBsOHFodnppUDhkVTBMS0JhT214eFF5NGpKVWJHekpDd2k5RDlJS1RiS1NR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 16:02"
+        "data_noticia": "24/10/2026 14:44"
       }
     },
     {
@@ -1184,28 +1201,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran says won’t allow US warships to get close as Trump ponders new attacks - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBj...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnhYekZtTGYtNUxRY1l0SkNlclVxV1JhVHJ2QUNzRFhRQW96Z0FWbXBSakNhblFEYk9kNHBibExfT0xFVFhLbUEzLWZpR0VNVC0tT2NlTTRIWmlaRThSTXN5OEF6d1ZiSEhGak11ck5zclJpYkRPODdJdFNqLXJTWjZiemlRSnZuOUV1MWY3eDZYMTBjaThzRDJaU3VVQnFqbFQ3bEt2enJEeHNUcm1nZTBnT1lXNXfSAbwBQVVfeXFMTzcyR081VVdqUVNRX05XQ0NxRFFPdm81M0NEV0hPcm9FYlZmTEJ4bTBPQUtjSjZvOEx3aGFWdGNDbHkyZzdoVDlVZzZyU1NrNkt4YkhBZGxZcm1vZ0tlWTB0T3lZbDdaX3dnSkZVdUpqc19KZnpWS3Vlc2tiN1JEQUNWZEVZYmV0ZWVyYXFENDU4a2FqU3ZWZGR5dFFreHl4VzVZellsU2hwQVcyZzBBTjl6SG9WQUpBNmprOXA?oc=5",
+        "titulo_evento": "Iran president says many struggling for food as war bites - Arab News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZsZDFmZVc1Sm5ORFNxUmpfZ3lKbjlsOU1maDljZUxqbm43cUs0eGxhUjB5SXRUT2VYNXhYektkeEtiWnNpZFh2anduamY1YS0yNU5LUXMyTVE0amZQSUhXdFVaNVliT2VkYVpkbWpMOXlrOU1JYXV3bndiLV9vemE0bnE5LXY4MEZzTG1xWFZRb0RY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3ZsZDFmZVc1Sm5ORFNxUmpfZ3lKbjlsOU1maDljZUxqbm43cUs0eGxhUjB5SXRUT2VYNXhYektkeEtiWnNpZFh2anduamY1YS0yNU5LUXMyTVE0amZQSUhXdFVaNVliT2VkYVpkbWpMOXlrOU1JYXV3bndiLV9vemE0bnE5LXY4MEZzTG1xWFZRb0RYcnI5d2V3ekc0dWg3ellHTg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 13:15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine’s military says Starlink satellite connection stable after recent restrictions - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWFqZjF5UFktdmJPbmtkYWM3U2VwYkdVYTZHWDkxUTZpR0dnaW5fRTYxVjk4UUgxcWR2ZVI4dTVDSmFXZU1xRy1nVWtaZElOT013dlRqUmZxUmJ3WGhDWWhsc2NaWTlPTUR2N2EtZHJGelMyTkRWV3NzUlRSSXRRak81M2g0b0l4X010NDFoUk5yUlNW...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWFqZjF5UFktdmJPbmtkYWM3U2VwYkdVYTZHWDkxUTZpR0dnaW5fRTYxVjk4UUgxcWR2ZVI4dTVDSmFXZU1xRy1nVWtaZElOT013dlRqUmZxUmJ3WGhDWWhsc2NaWTlPTUR2N2EtZHJGelMyTkRWV3NzUlRSSXRRak81M2g0b0l4X010NDFoUk5yUlNWWHZkRnVsQ2VHNVFpNlZ2cGZ1VS0yUjRTZGVsSFJrdFB0ZGRQZnhNdUVZZENONjhSNDJZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 15:31"
+        "data_noticia": "24/10/2026 15:41"
       }
     },
     {
@@ -1218,28 +1218,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "titulo_evento": "Obama unloads on Trump over the Iran war and mocks the president’s diplomatic strategy - The Independent",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBYWDRBNUZvUkZEZkIxS1pCUzRFWXFkbVM1M1J3dFo3MmpUWnVEQzYtNHJLX1hEdHhZTE1LSjJLSDQ3ekJhN3lxYW5wNW54VlZxdEtaY0JLRkItbkpjVDFsVGgwcHJKRzBCTFVJMFpuc2cwRGV2S2duc29EZzVsSnlrdFIyZjFGU3FSNFplN1V6LWUw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejBYWDRBNUZvUkZEZkIxS1pCUzRFWXFkbVM1M1J3dFo3MmpUWnVEQzYtNHJLX1hEdHhZTE1LSjJLSDQ3ekJhN3lxYW5wNW54VlZxdEtaY0JLRkItbkpjVDFsVGgwcHJKRzBCTFVJMFpuc2cwRGV2S2duc29EZzVsSnlrdFIyZjFGU3FSNFplN1V6LWUwR051VlI4aGVkZ0hYUHFiMklxcTBfeHc?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 20:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Baluch insurgency tests the limits of a war-weakened Islamic Republic - Iran International",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE?oc=5\" target=\"_blank\">Baluch insurgency tests the limits of a war-weakened Islamic Repub...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNmhvT2V1bHJqY3hUSTRKa182aktFdjRHMGl2aEx1b0pkMXJyRWlpQzVpdEo4R1lHZGJFYUwybDNJX0VJZnZ1b1c5QlJaeDRmRUE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "24/10/2026 10:03"
+        "data_noticia": "24/10/2026 22:13"
       }
     },
     {
@@ -1252,11 +1235,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Bank of Israel Rejects Netanyahu Cryptocurrency Plan To Bypass Sanctions - The Media Line",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjJDZlRscE9oc3hUdEVRTjA0dzhzakxQV25vMVhCUTFUYkRfeW5BOUdJeGx6MDRrYUVHbXFFRmUtUHVvNk15OU9uVzFsSWkzbUdUVnR5VnJZU3djZllVRjh5YnVGeUgtUGJhQzJ5ZWhxa3A4QldwdzhUUWx5VS05WHdPck00NF83cGFwdXR2NWJEaTBm...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjJDZlRscE9oc3hUdEVRTjA0dzhzakxQV25vMVhCUTFUYkRfeW5BOUdJeGx6MDRrYUVHbXFFRmUtUHVvNk15OU9uVzFsSWkzbUdUVnR5VnJZU3djZllVRjh5YnVGeUgtUGJhQzJ5ZWhxa3A4QldwdzhUUWx5VS05WHdPck00NF83cGFwdXR2NWJEaTBmdk01cWVYT2tUQzZRSm5QSFJ4dWdHT0oz?oc=5",
+        "titulo_evento": "Analysis • Economic collapse and global isolation. That's Netanyahu's vision for Israel - Haaretz",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPakdQTUpwM1cxS2hsMWg1cWtnRVFUTXJxVGRlb19Gb3Z6aHJUeS1Sdmw1NHRiRF9OTHo1LXFsMDYwWE0taXAwMmVUY3M0MW5zUWFpc3J1aGM1bUZtV29vNkZwY3dfMHpLSVNsMnhuV2N4OHZSa0ZRYWhqaFN3SmF3enhabFBySUlER1UwdkhRZldLOHhu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPakdQTUpwM1cxS2hsMWg1cWtnRVFUTXJxVGRlb19Gb3Z6aHJUeS1Sdmw1NHRiRF9OTHo1LXFsMDYwWE0taXAwMmVUY3M0MW5zUWFpc3J1aGM1bUZtV29vNkZwY3dfMHpLSVNsMnhuV2N4OHZSa0ZRYWhqaFN3SmF3enhabFBySUlER1UwdkhRZldLOHhuM0MyUnZCNXZDN3V2dEtQVHg2YmNidGVvU1ZnV2JURGRlbE9VcG5oWWlVMTVKN2pOZlY0QkhMRUZYeW5jN1dDTzI3am5yanhMODZJN0pHRnBBclRScDB4Y0JBOGFlT2xwVXZyaE96UGx4ZS1jdXJoTUYyNC00LUhBeDBRc3VWV2dMZw?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "25/10/2026 00:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel cannot buy F-35s or build a modern economy with crypto - CTech",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmE3dE9IMURIUV9aYmI4VVlOV2dKUDlfSW95UkM3QnlYS3BwOGhMcU5uYWNIN3lfQUJKMVM5Y1djR3k5a1VWQ2U1MFAwazBrU0gxSzQzREFSbVlfbzU4VlFkMDRjbGs?oc=5\" target=\"_blank\">Israel cannot buy F-35s or build a mod...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmE3dE9IMURIUV9aYmI4VVlOV2dKUDlfSW95UkM3QnlYS3BwOGhMcU5uYWNIN3lfQUJKMVM5Y1djR3k5a1VWQ2U1MFAwazBrU0gxSzQzREFSbVlfbzU4VlFkMDRjbGs?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "24/10/2026 19:16"
+        "data_noticia": "24/10/2026 18:49"
       }
     },
     {
@@ -1281,6 +1281,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Citigroup Global Markets Holdings Inc. Issuer Callable Contingent Interest Worst Of Barrier Note ACYFQXX (ACYFQXX) - Yahoo! Finance Canada",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SRzBWMjFGakxLbWROc0s0aG5BSU5sWE5GbFFyVFkzSS1Pa3g0cHZsbmpMSUtubEUwM243UXBERV95al9GRGhQM3VjQzRHTHdyX2ZUcW5SWjUzbGl1SUE?oc=5\" target=\"_blank\">Citigroup Global Markets Holdings Inc. Issuer Call...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SRzBWMjFGakxLbWROc0s0aG5BSU5sWE5GbFFyVFkzSS1Pa3g0cHZsbmpMSUtubEUwM243UXBERV95al9GRGhQM3VjQzRHTHdyX2ZUcW5SWjUzbGl1SUE?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "24/10/2026 09:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.3816,
           -34.6037
         ]
@@ -1291,40 +1308,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUxnaVA0RlFsZnFJcEVFSzhPTVFkbTRHQkMxTDlacnp3Ump3N21UQUZvQkNCYW5sQjJ2c29fWHRPamxBR3RLeG5TdjJtS3hoOXc1RlRWUjdhaVk2RE9hWE9teU9nV1pwNU41eFdTSmdXMDh2cTlKX2g3cUFsQi0wSjFyQlBaM0VVNGVaQUtqQmZfckpwX21SaVlR?oc=5",
         "categoria": "Política (Google News Markets)",
         "data_noticia": "24/10/2026 06:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How contest between Chinese and Indian firms could reshape African drug markets - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzU4TzJYdTlpTTRPZ2xpTU9wU1Y2Vm1NSDFCdlJ6ZW1mMndMWUF6OWVGMkJRWFo3Umw4d3JHMXBYanVsU19wbGdVZDc3Q0tIcUR2MHJwYkl3Ujk1dEltLVQ1NTJTNkE1eld5WkdrcXkyN0trYUtVOEh3ZUhfTmVTZDF6aVFlX1RrVlY2aDJ1TVNuajZY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzU4TzJYdTlpTTRPZ2xpTU9wU1Y2Vm1NSDFCdlJ6ZW1mMndMWUF6OWVGMkJRWFo3Umw4d3JHMXBYanVsU19wbGdVZDc3Q0tIcUR2MHJwYkl3Ujk1dEltLVQ1NTJTNkE1eld5WkdrcXkyN0trYUtVOEh3ZUhfTmVTZDF6aVFlX1RrVlY2aDJ1TVNuajZYRklGYlFkQlRiMUQzbzFxeUU1S1lqeWdLdzBuazk2Zzlra3VQcEhBbzJhVjVCWjFscUNEQUNCS3RMaVgyZFlISV9FYVPSAdgBQVVfeXFMT0R0UXhTWEZ1UnplX1haNkg5enc5SmREWUNjVFpaTTNJTDNWTXZsSS00NFFFWjZwV3BNNk0zYWNqSl9EdHRBM19GSXBPWE5XQ0hFVzA1WkU0T05aZ3BSaTN2YnhrbkRKUldpTkF2N0VUQ0ZNbHNvZzhLY2lqOXBQS1JGTEhpaXNRM3pBVGI0Z3RjcnpjcHFiaklucm9sNm9yOEJYRTI0VzBIM2prQzhUbmpwbHNOQy1valJaMkQyNHNiVmdpbmQ1UENvTnJwLVRYal9jc0N3ZDZv?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "24/10/2026 07:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Not a G2 world’: Apec chief on how the forum has changed through the years - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdE4zdEZLOFVEYlVxZ0UyUDhSZldHTGd1b1dOZmIydGthUU9XdHZnb2NYR081dHYwcmVDWUlMQVlCZEttY1BRenFoWVN3cWdRdUhaa25zOUZDRVZfT0JNXy12MmhkMjh5YTBTTGpZWFJvRXlkelRpbXBwNjlPcnl5allzYlNfNVJYZnBhMWxONUpzWHpt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdE4zdEZLOFVEYlVxZ0UyUDhSZldHTGd1b1dOZmIydGthUU9XdHZnb2NYR081dHYwcmVDWUlMQVlCZEttY1BRenFoWVN3cWdRdUhaa25zOUZDRVZfT0JNXy12MmhkMjh5YTBTTGpZWFJvRXlkelRpbXBwNjlPcnl5allzYlNfNVJYZnBhMWxONUpzWHptZjF2UVFvalRKWFBkVm9HcUMzSEgtMkJnVnhXNkoycUNfbDlYZnfSAboBQVVfeXFMUEZ2N0hPRGx3X1BWcGIzemYta2luWjhoODJwS0pUSHRIM2JMVmt2WWZSUWotUXRqXzdOT1JndGdtWmxzLUpoN21Objh4VXJDR052RkkzWVZoMnlOb1VfVExPRmdLa012RzMyc2R5RzB5dm9QNmg2ZHdQSUNyTkhESy11eGZXVWZNSFEwbWszTVFEYS1MeC1NNE1KLXduazR0WGtmcGVuVGdqXzg2YmQtRUVacnZ4dUV6SlNB?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "24/10/2026 02:00"
       }
     },
     {
