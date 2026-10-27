@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+        "descricao": "Amid renewed interest in high-altitude balloons, soldiers are looking to them to extend their reach along the first island chain.",
+        "url_fonte": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "27/10/2026 17:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US taps Poland to host European PAC-3 missile maintenance facility",
+        "descricao": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "27/10/2026 16:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -16,23 +50,6 @@
         "url_fonte": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative/",
         "categoria": "Defesa/Conflito (Defense News)",
         "data_noticia": "27/10/2026 09:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Helsing unveils interceptor missiles designed to chase Russia’s fast-flying Geran drones",
-        "descricao": "Germany’s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per shot.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "26/10/2026 14:53"
       }
     },
     {
@@ -91,13 +108,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+        "descricao": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/10/2026 19:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+        "descricao": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/10/2026 19:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+        "descricao": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/10/2026 18:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Jerusalem Daily: Israeli elections underway",
+        "descricao": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/10/2026 18:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+        "descricao": "In one social media post, PM Netanyahu accused Arab voters of &#039;raiding the polling stations and stealing the elections&#039;.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "27/10/2026 18:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           34.8516,
           31.0461
         ]
       },
       "properties": {
         "titulo_evento": "Israel election turnout highest in 50 years as voting continues",
-        "descricao": "Almost 45 percent of Israeli voters had cast their ballots by mid-afternoon.",
+        "descricao": "Voting numbers by 6pm local time had exceeded the number of all votes in 2022 elections.",
         "url_fonte": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
         "categoria": "Política (Al Jazeera)",
         "data_noticia": "27/10/2026 15:20"
@@ -135,125 +237,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "27/10/2026 15:08"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-        "descricao": "Strikes hit a major bridge in the Ukrainian capital as leaders push for &#039;direct discussions&#039; to end the war.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/10/2026 13:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-        "descricao": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/10/2026 13:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-        "descricao": "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "27/10/2026 13:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iranians brace for renewed attacks after Israeli, US elections",
-        "descricao": "The US and Israel have teased strikes around their elections, particularly against Iran&#039;s civilian infrastructure.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/10/2026 13:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Al Jazeera meets iconic pro-Palestine Japanese activist",
-        "descricao": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "27/10/2026 13:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-        "descricao": "Former PLO official says Israel’s election outcome remains uncertain, with polls divided between Netanyahu and Eisenkot.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "27/10/2026 11:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Turnout so far highest on record as Israelis vote in pivotal election",
-        "descricao": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "27/10/2026 11:11"
       }
     },
     {
@@ -329,16 +312,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Israel and the US are both going to the polls - the consequences will be global",
-        "descricao": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Economia (BBC World)",
-        "data_noticia": "26/10/2026 16:30"
+        "titulo_evento": "Egypt’s parliament approves military support for Saudi Arabia amid Houthi attacks",
+        "descricao": "Egypt has approved military help for Saudi Arabia if requested as Houthi attacks threaten the kingdom and Red Sea shipping. The vote comes as Saudi officials hold talks in Iran amid regional efforts to prevent a further escalation of the fighting.",
+        "url_fonte": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 19:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
+        "descricao": "Regional powers are seeking a way out of the Iran war as attacks threaten shipping and energy supplies. Qatar says mediation continues after a visit to Tehran, where Saudi Arabia, Pakistan and Turkey have also held talks with Iranian leaders.",
+        "url_fonte": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 18:04"
       }
     },
     {
@@ -351,11 +351,266 @@
         ]
       },
       "properties": {
-        "titulo_evento": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-        "descricao": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "26/10/2026 15:37"
+        "titulo_evento": "Flávio Bolsonaro reportedly leaves Brazil for US after election defeat",
+        "descricao": "A police source told the AFP news agency that Bolsonaro's passports had been \"cancelled\" and that there was \"no formal record\" of him leaving the country.",
+        "url_fonte": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/10/2026 17:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Von der Leyen’s Canada ‘associate membership’ spurs battle of words with EU capitals",
+        "descricao": "Germany, Italy, France and Greece objected to a draft EU-Canada declaration that cites von der Leyen’s ‘associate membership’ offer, as the member states fear legal uncertainty and a precedent for other third countries ahead of the Montreal summit on...",
+        "url_fonte": "https://www.euronews.com/2026/10/27/von-der-leyens-canada-associate-membership-spurs-battle-of-words-with-eu-capitals",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/10/2026 16:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Poland signs three-year defence cooperation plan with UK",
+        "descricao": "UK Defence Secretary Wes Streeting said in Warsaw the deal \"sets our joint assessment of current threats and our resolve that, in the clash between freedom and tyranny, the UK and Poland will not stand aside\".",
+        "url_fonte": "https://www.euronews.com/2026/10/27/poland-signs-three-year-defence-cooperation-plan-with-uk",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 14:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5674,
+          41.8719
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Knives, knuckledusters and a ‘Gucci robbery’: police discover chats linked to Milan riots",
+        "descricao": "A 30-year-old researcher detained over the clashes in Milan has refused to answer a judge’s questions, as police investigating the unrest uncovered chats threatening officers and carried out searches across Italy.",
+        "url_fonte": "https://www.euronews.com/2026/10/27/knives-knuckledusters-and-a-gucci-robbery-police-discover-chats-linked-to-milan-riots",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/10/2026 12:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Finnish and Norwegian leaders call Putin, urge restart of peace talks",
+        "descricao": "The leaders of Finland and Norway held a phone call with Vladimir Putin to restart the peace process. The overture comes as Brussels prepares for face-to-face contacts with the Russian side.",
+        "url_fonte": "https://www.euronews.com/2026/10/27/finnish-and-norwegian-leaders-call-putin-urge-restart-of-peace-talks",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "27/10/2026 12:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine improves jet-powered drone interception rates, but Starlink disruptions threaten progress",
+        "descricao": "Ukraine made significant progress in countering Russia's jet-powered drones, with some air defence units reporting interception rates around 80%. But recent restrictions on US satellite services exposed Kyiv's reliance on US technology as it races to...",
+        "url_fonte": "https://www.euronews.com/2026/10/27/ukraine-improves-jet-powered-drone-interception-rates-but-starlink-disruptions-threaten-pr",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 11:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Win or lose, Netanyahu could remain in power for months after Israeli election as Iran tensions loom",
+        "descricao": "With Israel voting in its first national election since the 7 October attacks, the prospect of prolonged coalition negotiations raises questions over who will make critical security decisions amid heightened regional tensions, and whether a change of...",
+        "url_fonte": "https://www.euronews.com/2026/10/27/win-or-lose-netanyahu-could-remain-in-power-for-months-after-israeli-election-as-iran-tens",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 10:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
+        "descricao": "A Russian missile and drone attack on Kyiv killed one person and injured 15. Emergency workers rescued a dog from the rubble, while strikes damaged university buildings and a major bridge.",
+        "url_fonte": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "27/10/2026 10:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+        "descricao": "\nAnnette Young is pleased to welcome Alain Greilsammer, Professor of Political Science at Bar-Ilan University in Tel Aviv. In the wake of the October 7 attacks, regional tensions with Iran, and deepening domestic divisions, Greilsammer argues that th...",
+        "url_fonte": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/10/2026 19:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ibrahim Abu Ahmad on Israeli election: 'Crucial for Arab citizens to have ally in Jewish community'",
+        "descricao": "\nErin Ogunkeye is pleased to welcome Ibrahim Abu Ahmad, Author, Palestinian Israeli political and peace activist and Head of Social Media for Israel's left-wing Democrats. “Currently, the sentiment in Israel is built around fear and trauma,” explains...",
+        "url_fonte": "https://www.france24.com/en/video/20261027-ibrahim-abu-ahmad-on-israeli-election-crucial-for-arab-citizens-to-have-ally-in-jewish-community",
+        "categoria": "Política (France 24)",
+        "data_noticia": "27/10/2026 18:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+        "descricao": "\nErin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” ...",
+        "url_fonte": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+        "categoria": "Política (France 24)",
+        "data_noticia": "27/10/2026 18:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
+        "descricao": "\nFrench lawmakers held a minute of silence for Pengo Bossio Wangi. The victim of a racist attack died in a shooting last week, while at least five other people were wounded, including a 12-years-old girl. FRANCE 24’s Claire Paccalin reports from the ...",
+        "url_fonte": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/10/2026 17:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israelis vote in a tense election: What's at stake?",
+        "descricao": "\nIsraelis were voting Tuesday (October 27) in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack on Israel and the wars that have since shaken the Middle Ea...",
+        "url_fonte": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/10/2026 16:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel elections: voter turnout reaches 55% by 4pm local time",
+        "descricao": "\nIsraelis flocked to the polls Tuesday (October 27) in turnout unseen in decades, with a deeply divided electorate delivering a verdict on veteran right-wing Prime Minister Benjamin Netanyahu in the first election since the October 7, 2023 attack. FR...",
+        "url_fonte": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "27/10/2026 16:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brazil's defeated candidate Flavio Bolsonaro heads to US despite cancelled passports",
+        "descricao": "\nBrazil's former right-wing presidential candidate Flavio Bolsonaro fled to the US, sources said Tuesday, despite his passports being cancelled after he failed to comply with a Supreme Court order to hand them over as part of a money laundering probe...",
+        "url_fonte": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
+        "categoria": "Política (France 24)",
+        "data_noticia": "27/10/2026 16:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7129,
+          37.0902
+        ]
+      },
+      "properties": {
+        "titulo_evento": "USA: Could a Democrat win a statewide election in Texas?",
+        "descricao": "\nThere is only one week left until the US midterm elections. In Texas, Democratic candidate James Talarico, could win a Senate seat for the first time in decades.\n",
+        "url_fonte": "https://www.france24.com/en/video/20261027-usa-could-a-democrat-win-a-statewide-election-in-texas",
+        "categoria": "Política (France 24)",
+        "data_noticia": "27/10/2026 15:47"
       }
     },
     {
@@ -487,7 +742,7 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Localised Russia-Ukraine ceasefire starts Ukrainian town facing starvation",
+        "titulo_evento": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
         "descricao": "\nA localised ceasefire between Ukraine and Russia took effect early Tuesday (October 27) ahead of a humanitarian mission led by US first lady Melania Trump, as missile attacks resumed in Kyiv. FRANCE 24's correspondent in Kyiv, Emmanuelle Chaze, has ...",
         "url_fonte": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
         "categoria": "Defesa/Conflito (France 24)",
@@ -499,67 +754,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "American rapper Macklemore begins 'Free Palestine' tour",
-        "descricao": "\nThe American rapper Macklemore vows to speak out loudly against the war in Gaza. He started his \"Free Palestine\" tour in Ireland, one of Europe's most pro-Palestinian countries.\n",
-        "url_fonte": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "27/10/2026 11:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
-        "descricao": "\nOliver Farry welcomes Oliver Davis, Professor and Head of the Department of French at University College Cork. According to Professor Davis, the government's handling of the student protests reflects a combination of \"tactical confusion\" and an inad...",
-        "url_fonte": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
-        "categoria": "Economia (France 24)",
-        "data_noticia": "27/10/2026 11:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
-        "descricao": "\nAs Israelis head to the polls this Tuesday, among those voting are 2 million Palestinian citizens of Israel, some of whom live in mixed Jewish-Arab towns. One of them, Lod, has long been seen as symbolic of this coexistence. However in 2021 the town...",
-        "url_fonte": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
-        "categoria": "Política (France 24)",
-        "data_noticia": "27/10/2026 11:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
-        "descricao": "\nSudan’s war is spilling over into Chad. A drone strike killed at least four people last week in the border town of Bamina, and hundreds of thousands of Sudanese refugees have crossed over in search of safety. Many of those who survived the massacre ...",
-        "url_fonte": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "27/10/2026 11:13"
+        "titulo_evento": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+        "descricao": "Flavio Bolsonaro is reportedly on the way to the US, according to reports citing people close to the senator. Bolsonaro's passports were canceled earlier Tuesday.",
+        "url_fonte": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "27/10/2026 19:34"
       }
     },
     {
@@ -686,6 +890,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.6972,
+          45.4215
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Quebec’s separatist leader threatens to play spoiler to Carney’s EU summit",
+        "descricao": "Premier Paul St-Pierre Plamondon says Ottawa would rather he “serve shrimp cocktail” at a function than stage one, and alleges a “serious lack of respect.”",
+        "url_fonte": "https://www.politico.eu/article/quebecs-separatist-leader-threatens-to-play-spoiler-to-carneys-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Economia (Politico Europe)",
+        "data_noticia": "27/10/2026 19:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -720,23 +941,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Leaders of Finland and Norway hold direct talks with Putin",
-        "descricao": "Finnish President Alexander Stubb and Norwegian PM Jonas Gahr Støre initiated the call to discuss efforts to end the Ukraine war. ",
-        "url_fonte": "https://www.politico.eu/article/leader-finland-alexander-stubb-and-norway-jonas-gahr-store-talk-to-russia-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "27/10/2026 09:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -763,41 +967,7 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJP...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 14:36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 10:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 09:59"
+        "data_noticia": "27/10/2026 19:17"
       }
     },
     {
@@ -827,23 +997,6 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Gulf states worry U.S. could pull most troops from region after Iran war - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE1WRTBVQ1hVN2FDWmVZal8zT0dNcUt3NE5PV0dHWHVKU1AxRnl0dWp1Y2M4N0VWeTJITzRRa2RXS0dHdFpHSnFMTFh6TUI3ckNtWmh4aV9BNUVGTzd3d3NOYUVZbzRjSGxlSHJMVmtNcktKVHRYRHlhMnhyai1QSFFsanBwdDlSRFRLTE1zc3Njb01R...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE1WRTBVQ1hVN2FDWmVZal8zT0dNcUt3NE5PV0dHWHVKU1AxRnl0dWp1Y2M4N0VWeTJITzRRa2RXS0dHdFpHSnFMTFh6TUI3ckNtWmh4aV9BNUVGTzd3d3NOYUVZbzRjSGxlSHJMVmtNcktKVHRYRHlhMnhyai1QSFFsanBwdDlSRFRLTE1zc3Njb01ReEE1ZW5fc1I1M3FkVHhWNUVTVDVDTEtWVXdj?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 09:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
         "titulo_evento": "How the War in Iran Could Escalate - Time Magazine",
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9xQWhzR0ktMDFnUlVBRWhEWnhsNU1TMC1Rb2lNTzBpUnB1cVh5aERIcC11SVFFUWNWOEFqaE16cjcyNGJHdFAtTGhkb1MyaFhsN1Vfano1alhybjN2a2tvZExweHMxQTVCd1V6ZllRZkZvZC1Zb2lQVmFYRQ?oc=5\" target=\"_blank\">How the War...",
         "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xQWhzR0ktMDFnUlVBRWhEWnhsNU1TMC1Rb2lNTzBpUnB1cVh5aERIcC11SVFFUWNWOEFqaE16cjcyNGJHdFAtTGhkb1MyaFhsN1Vfano1alhybjN2a2tvZExweHMxQTVCd1V6ZllRZkZvZC1Zb2lQVmFYRQ?oc=5",
@@ -861,11 +1014,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran’s Supreme Leader and Top Security Chief Discuss War, Hormuz - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEFMQWNxdFlVVWdMX1psMHpHVVVUNG1XNXhxa0s4VzlacElFbENVNEdFSHBEbkZkOEJ4dm9DbWh3SGpLWUdyRjJBWUJTRERfUmJwRC04Y2RRZ1BqdGJ2SDZ1YkdVbkd5QTA3RHVCbXRNbUM2ejY3cE9FX0VvdXR2MFVubXF6eUc3MmFqTDNhc2pSZnRq...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEFMQWNxdFlVVWdMX1psMHpHVVVUNG1XNXhxa0s4VzlacElFbENVNEdFSHBEbkZkOEJ4dm9DbWh3SGpLWUdyRjJBWUJTRERfUmJwRC04Y2RRZ1BqdGJ2SDZ1YkdVbkd5QTA3RHVCbXRNbUM2ejY3cE9FX0VvdXR2MFVubXF6eUc3MmFqTDNhc2pSZnRqYVdCbng3bERVcHlnSkRZTENOUVIxT21hSDRFUmVob29GS1h2ZC14QkRxV20?oc=5",
+        "titulo_evento": "Live - US, Iran clash at UN over nuclear program and war - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5\" target=\"_blank\">Live - US, Iran clash at UN over nuclear program a...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 11:25"
+        "data_noticia": "27/10/2026 17:53"
       }
     },
     {
@@ -873,16 +1026,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
+        "titulo_evento": "Russia: African leaders must use summit to call for an end to trafficking of Africans into Russian military - Amnesty International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSlV6NjJNRUlOYWxnS1g3bmhHLW5lVFJTdllKQ19Bek9HbmFDd2JNNTlKQTlOb2hIcDVVa3Y1cEswV1FEanl2dDFxa1VrWi1kQ21WX3FZMTBqZEQ4and0WkFSNkZtSkI2LWJYNGc5RVpkWVlfVGpiSy0yN0ZfSG5QaXpueWtxaXpoSXVVa3RGXzI0b1dq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSlV6NjJNRUlOYWxnS1g3bmhHLW5lVFJTdllKQ19Bek9HbmFDd2JNNTlKQTlOb2hIcDVVa3Y1cEswV1FEanl2dDFxa1VrWi1kQ21WX3FZMTBqZEQ4and0WkFSNkZtSkI2LWJYNGc5RVpkWVlfVGpiSy0yN0ZfSG5QaXpueWtxaXpoSXVVa3RGXzI0b1dqRVd6dUtlRW1OMUxVVVA3MlRGM0JSd1lueFJaOXVrSGczOUlINXd3WnFab3ZuY0FMS1kwczB0a3B6RWptZm81NXdRUXE0VXlQbDlnZGRvUEpLUy1hclE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 13:19"
+        "data_noticia": "27/10/2026 20:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5868,
+          15.5527
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Fresh clashes in Yemen kill 97 combatants: Military sources - Courthouse News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlhQdDBZdzNiUVVJeHhPeFRlTV9JWnNFa1BleGVkS2VHNmgwck0zZ0RqRVh0YWtLanFtRU9POUcxZ0xHVWNSWmQ0eUU2UEQ3Z1dQd1hnWjA2U1J6eWZseGI5UGNheFNTTTlRT3JvQ0FYc1NjaFduN1htdEJVRWlMYk1GNmNKV2JWU0RwZTMzTnd1SzA?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlhQdDBZdzNiUVVJeHhPeFRlTV9JWnNFa1BleGVkS2VHNmgwck0zZ0RqRVh0YWtLanFtRU9POUcxZ0xHVWNSWmQ0eUU2UEQ3Z1dQd1hnWjA2U1J6eWZseGI5UGNheFNTTTlRT3JvQ0FYc1NjaFduN1htdEJVRWlMYk1GNmNKV2JWU0RwZTMzTnd1SzA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/10/2026 17:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US taps Poland to host European PAC-3 missile maintenance facility - Defense News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMl80SHlYdnpaaUF2a21KbkJFay1Nc2xjcWtaRlVBYWZoNVphVDVBcUZGTTVRZHFYTHdpb081bFJ0YTkzYmNWZi1yTllSbWJ2OU51NlBDVHoxeWo4RjhqVEM2RjhRUEhwUUVJWEltVko4ZUIyRnBCbnpHWWl1dVVEY0ptSEhRWmdaRXF6VkJMRmlRVzRO...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMl80SHlYdnpaaUF2a21KbkJFay1Nc2xjcWtaRlVBYWZoNVphVDVBcUZGTTVRZHFYTHdpb081bFJ0YTkzYmNWZi1yTllSbWJ2OU51NlBDVHoxeWo4RjhqVEM2RjhRUEhwUUVJWEltVko4ZUIyRnBCbnpHWWl1dVVEY0ptSEhRWmdaRXF6VkJMRmlRVzROVUZaOHM0QW1UTElDekZLLTF6cktwbkxOQnYxcDdEOFZLV1JWak5VZw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/10/2026 16:42"
       }
     },
     {
@@ -895,11 +1082,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia committed war crimes in Ukraine by attacking its energy grid, U.N.-backed inquiry says - Los Angeles Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSGJQYkdpX3lfdU5ZQVVhcEpWMUpUT0VJNExSMlZJZU0wXzVvb2l0d0N3elIxMUZ2NjZ5RklrT1J3SUJXZlJ2REhZcGVGck1RNHl4VkNQbWtvLW5lazZqQllVbGN1cEhaTW9WdXVoX2p6aDdvZkJqS1RwZFBnWGp4UEJBSjluaVBDeHBqVUVLd091V3c2...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSGJQYkdpX3lfdU5ZQVVhcEpWMUpUT0VJNExSMlZJZU0wXzVvb2l0d0N3elIxMUZ2NjZ5RklrT1J3SUJXZlJ2REhZcGVGck1RNHl4VkNQbWtvLW5lazZqQllVbGN1cEhaTW9WdXVoX2p6aDdvZkJqS1RwZFBnWGp4UEJBSjluaVBDeHBqVUVLd091V3c2dnVLSFRzNE1LaG15U3MxY1pwZzVPQk1QZS1wNVVlNDBEcXFvcEMwdkR5NmJSdUlQOTZwYkpYN08zNWZ5X1RVZ2sxT3cwa1pET3c?oc=5",
+        "titulo_evento": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR2g4YXlhMGFuazRpZ0pOWmZpaFBZWGpCNWMzb3JOQkFMWjFVQ1c3bVo4MjJGZDZPS1h5Z3FUMUxEZllDODNtd2NkSWRUQ1hZNzR5X19OVVphRlEyZTYzb3dqclBOd0hrNXRPLVdWZ1M3YzF4TUtJSWhXZjgteXZuM2pfTTR1b1h5UGJiNW5NV2xDbFhzcDdXTDRlaWlpbnZCaXgyNU9wSzZ5UDhmalJtUXhR?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 15:29"
+        "data_noticia": "27/10/2026 17:38"
       }
     },
     {
@@ -907,33 +1094,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Opinion | This peninsula is an economic powder keg. A blast could cost trillions. - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdU83YzVjZUUyRzN6M1R5SEhsVnRsd0VVcEI5ay1PRUQ4LS02c3FmQzRDMFNvdGxXeWZyNFZvNWNRX0UyUFN3djcxSXplS1BmdnIzQVR6V3VtSm9SSWFNSVU4ZkdQdlpwS2tNeWZ4UDQ2ZWFiX2o5VXpfamx3SEk2TlZtaWJCOVFwTFZ2OC1Yd0p5NGVXUE9Faw?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "27/10/2026 14:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Oil, Explained, United States, Israel, ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "titulo_evento": "Russia Committed War Crimes in Ukraine by Attacking Its Energy Grid, UN-Backed Inquiry Says - Military.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnRoa0xBcV9HcXpBQ3p3V0hOTnNUWldEcGowYXRqSWFodEtCWEx3cmsxbjFaQTFQdG5sVWwzRHdWbTAwSlVkY3dLNzJXTEdsN016YnJIMlRhbXdiTTV2MFEzbndjWW1qZ0JzWUtxcmdDQnFaN0RKMmFQQlhiUUlnYzlPVWF5SWlHelFwS014QzVnWHZp...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnRoa0xBcV9HcXpBQ3p3V0hOTnNUWldEcGowYXRqSWFodEtCWEx3cmsxbjFaQTFQdG5sVWwzRHdWbTAwSlVkY3dLNzJXTEdsN016YnJIMlRhbXdiTTV2MFEzbndjWW1qZ0JzWUtxcmdDQnFaN0RKMmFQQlhiUUlnYzlPVWF5SWlHelFwS014QzVnWHZpM0hCaDBPbEM1TE1oX29IN1dTdXJ4U0FJc2NTcUh1LW9Rdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "27/10/2026 05:00"
+        "data_noticia": "27/10/2026 17:10"
       }
     },
     {
@@ -941,16 +1111,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          105.3188,
+          61.524
         ]
       },
       "properties": {
-        "titulo_evento": "Is China’s economy broken? - Brookings",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9maU5kWlBQRzNmbWlrSXNtN19CSUF5UUhJSzU3TzIyQTNXRW1JWUp0N05TNWZMRFpSbElqVDVtLW92cUpNZ295WlByOFNmbnBGOFM4cEhqYndrbkkyTGowRXhUZEhwWTZiMWtXaw?oc=5\" target=\"_blank\">Is China’s economy broken?</a>&...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9maU5kWlBQRzNmbWlrSXNtN19CSUF5UUhJSzU3TzIyQTNXRW1JWUp0N05TNWZMRFpSbElqVDVtLW92cUpNZ295WlByOFNmbnBGOFM4cEhqYndrbkkyTGowRXhUZEhwWTZiMWtXaw?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "27/10/2026 04:01"
+        "titulo_evento": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war - Atlantic Council",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHkxVXlFSWxnT0F4Z2Z0bXVTdGxTV0hVcEFLbXdXTTBXZWhScURWOS1OU2dieklfT182TXkwTFhlc2hnMF9tclRxaGp5VWQ1TWFpV3NKbUFfRngtelVaM3BQUXlMbGpjYklEbDNCRmJqeTVPd2t0MjAyTHp1T0I2a0VnQ2RvalJmRVpud21sZTdQNUk3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHkxVXlFSWxnT0F4Z2Z0bXVTdGxTV0hVcEFLbXdXTTBXZWhScURWOS1OU2dieklfT182TXkwTFhlc2hnMF9tclRxaGp5VWQ1TWFpV3NKbUFfRngtelVaM3BQUXlMbGpjYklEbDNCRmJqeTVPd2t0MjAyTHp1T0I2a0VnQ2RvalJmRVpud21sZTdQNUk3dmctdG9qblRBOFI5MDhneWZJelVtM0JWX0lvM1N1c284SnV2dXdkaW54b0IzRi1KUUE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/10/2026 20:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Neither War nor Peace’: Khamenei Demands Iran’s Terms Be Met as Tanker Burns near Hormuz - Palestine Chronicle",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHIzbUwzOWpPNWZtVWZHZy11ZHdRei15Sk9tMnpGS3diRzdSVjY4c1BKaFczemttbC1PdGRGTWtTWldmLUtlS1RmaEJfSDRLYkRtSTVJSVpGNkZMWTBNWGNaVWJPa0ZLenp4QVlPbWFHcFlkdlNsUlFJWTNGQmU0QkFySm5yNDA2YmdjRFMwYUZ0eVd3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHIzbUwzOWpPNWZtVWZHZy11ZHdRei15Sk9tMnpGS3diRzdSVjY4c1BKaFczemttbC1PdGRGTWtTWldmLUtlS1RmaEJfSDRLYkRtSTVJSVpGNkZMWTBNWGNaVWJPa0ZLenp4QVlPbWFHcFlkdlNsUlFJWTNGQmU0QkFySm5yNDA2YmdjRFMwYUZ0eVd3NW82WjlDQzRwM1ZCSHRaU181dDZLVV82cHJnTk5uMGdPR3JuN2FGeDdn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "27/10/2026 17:15"
       }
     },
     {
@@ -975,6 +1162,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What China’s Patriotic Stock Buying Tells Us About Its Economy - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUVXYUQxZUhYNnBqZ2lQbjlZLVRyTkphZVhyRDlLWHI3RGk3U3NJTWNOMXEyVG8xVkQtU2wtNGRDUDVrcEc4ZlJVem5heHlWUVExYmtOOVE2MFBNX1kyYm90RHp4OTNaWEJVanhlTm1rVC1zUEFQYVBKSHpPS2M0QzZxM2g2d1RRNDNSV3NxNlh5amZZ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUVXYUQxZUhYNnBqZ2lQbjlZLVRyTkphZVhyRDlLWHI3RGk3U3NJTWNOMXEyVG8xVkQtU2wtNGRDUDVrcEc4ZlJVem5heHlWUVExYmtOOVE2MFBNX1kyYm90RHp4OTNaWEJVanhlTm1rVC1zUEFQYVBKSHpPS2M0QzZxM2g2d1RRNDNSV3NxNlh5amZZZ2tv?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/10/2026 14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Is China’s economy broken? - Brookings",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9maU5kWlBQRzNmbWlrSXNtN19CSUF5UUhJSzU3TzIyQTNXRW1JWUp0N05TNWZMRFpSbElqVDVtLW92cUpNZ295WlByOFNmbnBGOFM4cEhqYndrbkkyTGowRXhUZEhwWTZiMWtXaw?oc=5\" target=\"_blank\">Is China’s economy broken?</a>&...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9maU5kWlBQRzNmbWlrSXNtN19CSUF5UUhJSzU3TzIyQTNXRW1JWUp0N05TNWZMRFpSbElqVDVtLW92cUpNZ295WlByOFNmbnBGOFM4cEhqYndrbkkyTGowRXhUZEhwWTZiMWtXaw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/10/2026 04:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global Markets Under Pressure: Brazil, South Korea and Tech Stocks - Investing.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjVmc2FLYTMteTd1MlFWaDdBYUdsV3UzN2h1Q1ZXTVRjZUxsMzVaX09qUkEtZEtMVmwta3NaNTdxT0lFcEJIa09GVVBEcGY4RzRKTm1IbHkycTZES1RMdS1UQkJDbXA5RVV0TkU1QmxvZ3o2QVBTd1VGOUhraHdxOG5TaUJ1dXJVMlBCdHFsb1N3dnk4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjVmc2FLYTMteTd1MlFWaDdBYUdsV3UzN2h1Q1ZXTVRjZUxsMzVaX09qUkEtZEtMVmwta3NaNTdxT0lFcEJIa09GVVBEcGY4RzRKTm1IbHkycTZES1RMdS1UQkJDbXA5RVV0TkU1QmxvZ3o2QVBTd1VGOUhraHdxOG5TaUJ1dXJVMlBCdHFsb1N3dnk4VmVHMHlOT2c5M3BTSlQzQzlfOG1RVXNUeUE?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "27/10/2026 13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -985,23 +1223,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGU4QlVYRU9TMDhPdC0xZS1MMmRScE0xaGx2QS1hTHFucnk1MXRJd2xvMkgxU1BVMDhzaE9la0p0NDNiZGRaUVd3RHg4N3UxUWNhVHd1TXhWUnV6U3hBUjR6QVEwLThVZFczSDBNMU5VODJYem9IY0RmM253SlkxSm1WMFNLdmhDQUxsWW11OERqQXlDdzkwbWFPUWlFREF1RS1BR2ZUU3E?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "27/10/2026 08:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's Pezeshkian warns US action disrupting global energy markets - Yahoo",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOemF3d2Q4UjJ3RUZIMUFsRlFXeDY3T1kyQlEzMjFqSXdVTFpHaXF3czFzUWpQR2lUakhlQXdidDdQSlM4dm5Wb28wWFM5cHAxcnFxbkZKam1IVV90UlRJQmJqXzh3MHptcGlVTWw3RDNrYkdIa25uVERnZkVWVnNLbFVDNlNfYU9JWTJmWDV4ZkNfazQ?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemF3d2Q4UjJ3RUZIMUFsRlFXeDY3T1kyQlEzMjFqSXdVTFpHaXF3czFzUWpQR2lUakhlQXdidDdQSlM4dm5Wb28wWFM5cHAxcnFxbkZKam1IVV90UlRJQmJqXzh3MHptcGlVTWw3RDNrYkdIa25uVERnZkVWVnNLbFVDNlNfYU9JWTJmWDV4ZkNfazQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "27/10/2026 15:03"
       }
     }
   ]
