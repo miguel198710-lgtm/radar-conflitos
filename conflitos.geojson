@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France tasks Naval Group to develop large oceangoing underwater drone",
+        "descricao": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "04/11/2026 09:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "MBDA’s high-speed strike missile to have range ‘far’ exceeding Exocet",
+        "descricao": "Stratus RS, for rapid strike, is being developed for France and the United Kingdom, and MBDA is awaiting a development contract from France’s Directorate General for Armament.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "04/11/2026 06:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -33,40 +67,6 @@
         "url_fonte": "https://www.defensenews.com/global/2026/11/03/on-natos-lake-nordic-allies-worry-about-escalation-with-russia/",
         "categoria": "Defesa/Conflito (Defense News)",
         "data_noticia": "03/11/2026 14:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5238,
-          50.4547
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
-        "descricao": "Kyiv now needs roughly twice as many jammers to stop each upgraded Shahed, intel officials and experts said.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "02/11/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US approves $2.1 billion Patriot missile sale to Ukraine",
-        "descricao": "The missiles — which are yet to be manufactured — are not expected to be delivered until a couple of years into the 2030s.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "02/11/2026 16:46"
       }
     },
     {
@@ -108,322 +108,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4515,
-          51.1657
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
-        "descricao": "EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/11/2026 03:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-        "descricao": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/11/2026 01:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           53.688,
           32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-        "descricao": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
-        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+        "titulo_evento": "‘Seismic shift’: World reacts to US midterm election results",
+        "descricao": "Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "04/11/2026 00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "President Zelenskyy says US elections will impact war in Ukraine",
-        "descricao": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "03/11/2026 21:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2245,
-          39.3999
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-        "descricao": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/11/2026 13:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-        "descricao": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/11/2026 16:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US urges Venezuela to release remaining political prisoners",
-        "descricao": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-        "categoria": "Política (BBC World)",
-        "data_noticia": "03/11/2026 12:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "descricao": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/11/2026 00:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-        "descricao": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "03/11/2026 13:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-        "descricao": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "02/11/2026 17:33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Spain’s transport minister Óscar Puente resigns over Urda train crash that killed 69",
-        "descricao": "Óscar Puente revealed that a high-speed train was allowed to keep running at over 160 km/h after its safety system failed, as rail workers threaten to strike.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/spains-transport-minister-oscar-puente-resigns-over-urda-train-crash-that-killed-69",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 22:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Progress and pitfalls on the path to a bigger EU: Five takeaways from the Euronews Enlargement Summit",
-        "descricao": "At the Euronews Enlargement Summit, Montenegro, Albania and Moldova pressed ahead with their accession plans, North Macedonia snapped at Bulgaria, Ukraine rejected farm carve-outs, Armenia eyed an swift application, while Georgia had no answer to its...",
-        "url_fonte": "https://www.euronews.com/2026/11/03/progress-and-pitfalls-on-the-path-to-a-bigger-eu-five-takeaways-from-the-euronews-enlargem",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/11/2026 19:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump says US will end military aid to Israel as Americans vote in midterms",
-        "descricao": "Trump tied the decision to criticism from left wing politicians, while US forces struck Iranian targets in the Strait of Hormuz.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 19:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Georgia PM offers no way out of EU accession deadlock in Euronews interview",
-        "descricao": "Kobakhidze said he remains “very committed” to EU accession but offered no plan to restart negotiations, accusing the European Commission of “blackmail” and refusing to repeal two laws among the main sticking points in the dispute with Brussels.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/georgia-pm-offers-no-way-out-of-eu-accession-deadlock-in-euronews-interview",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/11/2026 18:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Montenegro rejects ‘second-class’ EU membership as it eyes 2028 accession ",
-        "descricao": "Montenegro’s EU Minister Maida Gorčević told the Euronews Enlargement Summit in Brussels that its negotiating chapters could close this year, with accession following in 2028. She rejected second-class membership and pledged to resolve disputes with ...",
-        "url_fonte": "https://www.euronews.com/2026/11/03/montenegro-rejects-second-class-eu-membership-as-it-eyes-2028-accession",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/11/2026 17:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hoax bomb threats target four European flights as scares spread across the continent",
-        "descricao": "One of Warsaw’s airports was shut and a Ryanair jet landed in Spain under an emergency protocol, the third straight day that threats have disrupted passenger planes in Europe.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/bomb-threats-target-four-european-flights-as-scares-spread-across-the-continent",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 16:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.5674,
-          41.8719
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Italy-Albania migration deal could be extended beyond 2029, Rama says",
-        "descricao": "The Albanian prime minister said the migration deal with Italy could be extended at Rome’s request, dispelling doubts about the closure of the centres when the current partnership expires.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/italy-albania-migration-deal-could-be-extended-beyond-2028-rama-says",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/11/2026 16:42"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Americans head to the polls for US midterm elections",
-        "descricao": "Voters cast their ballots in Fairfax, Virginia, and New York as Americans head to the polls in midterm elections that will determine control of Congress for the final two years of President Donald Trump’s term.",
-        "url_fonte": "https://www.euronews.com/video/2026/11/03/americans-head-to-the-polls-for-us-midterm-elections",
-        "categoria": "Política (Euronews (Europa))",
-        "data_noticia": "03/11/2026 16:25"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Armenia to apply for EU membership in 2027 or 2028 ‘realistic’, PM tells Euronews",
-        "descricao": "Armenia could formally apply to join the EU in 2027 or 2028, PM Nikol Pashinyan told Euronews. He called EU membership a strategic choice to protect democracy, said Armenians must choose between Brussels and Russia’s Eurasian bloc, and rejected warni...",
-        "url_fonte": "https://www.euronews.com/2026/11/03/armenia-to-apply-for-eu-membership-in-2027-or-2028-realistic-pm-tells-euronews",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 15:26"
+        "data_noticia": "04/11/2026 11:24"
       }
     },
     {
@@ -436,11 +130,45 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Serbia's new leaders unlikely to recognise Kosovo, Albania's Rama warns",
-        "descricao": "Edi Rama says Serbia’s new government remains “completely closed towards recognising Kosovo” and remains reluctant to impose sanctions on Russia.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/serbias-new-leaders-unlikely-to-recognise-kosovo-albanias-rama-warns",
-        "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 15:00"
+        "titulo_evento": "Can Russia compete with the US, China and the EU in Africa?",
+        "descricao": "Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.",
+        "url_fonte": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "04/11/2026 11:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel vote results confirmed as election commission rejects fraud claims",
+        "descricao": "Netanyahu’s allies refused to back the result, as President Herzog began talks on who should form the next government",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "04/11/2026 10:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+        "descricao": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+        "url_fonte": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "04/11/2026 08:22"
       }
     },
     {
@@ -453,11 +181,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Qatar sees 'hope' for US-Iran deal despite fresh US strikes as mediators exchange proposals in real time",
-        "descricao": "Qatar said Tuesday it saw hope for an interim deal as mediators continue to exchange proposals, despite fresh US strikes and threats to shipping through Hormuz continue to complicate efforts to end the Iran war.",
-        "url_fonte": "https://www.euronews.com/2026/11/03/qatar-sees-hope-for-us-iran-deal-despite-fresh-us-strikes-as-mediators-exchange-proposals-",
+        "titulo_evento": "Iran's chief negotiator says Americans voted 'no to war'",
+        "descricao": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "04/11/2026 10:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What we know about the alert app hack in Ukraine and Russia",
+        "descricao": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+        "url_fonte": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "02/11/2026 14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why a US-Russia showdown left Morocco celebrating",
+        "descricao": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "03/11/2026 07:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "More than 50 trapped under rubble after Russian strike on school-turned-aid centre, Zelenskyy says",
+        "descricao": "Russia pummelled Ukraine on Monday and Tuesday after a rare truce ended at the weekend, with the strikes dampening hopes for a breakthrough at US-led negotiations set for next week in Abu Dhabi.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/more-than-50-trapped-under-rubble-after-russian-strike-on-school-turned-aid-centre-zelensk",
         "categoria": "Defesa/Conflito (Euronews (Europa))",
-        "data_noticia": "03/11/2026 14:26"
+        "data_noticia": "04/11/2026 11:25"
       }
     },
     {
@@ -465,50 +244,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          10.4515,
+          51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "US: \"Even in places where the Democrats haven't won, the swing towards them has been significant\"",
-        "descricao": "\nTens of millions of Americans cast their vote in the crucial polls that have been pitched as a referendum on Donald Trump's presidency amid anger at surging petrol prices, tariffs and the Iran war. We discuss the first results with France 24's Kethe...",
-        "url_fonte": "https://www.france24.com/en/video/20261104-us-even-in-places-where-the-democrats-haven-t-won-the-swing-towards-them-has-been-significant",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "04/11/2026 03:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Democratic gains mount in US midterms as Trump faces bruising verdict",
-        "descricao": "\nDemocrats notched a string of early victories in US midterm elections Tuesday, flipping a Republican-held Senate seat and making inroads in conservative House districts as President Donald Trump faced the prospect of a bruising election setback. Fra...",
-        "url_fonte": "https://www.france24.com/en/video/20261104-democratic-gains-mount-in-us-midterms-as-trump-faces-bruising-verdict",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/11/2026 03:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US midterm elections: Democrats flip Senate seat in North Carolina",
-        "descricao": "\nDemocrats have flipped a Senate seat in North Carolina as they try to recapture majorities in Congress and break Republicans’ unified hold on power in Washington. France 24's Florence Villeminot walks us through the US electoral map.\n",
-        "url_fonte": "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina",
-        "categoria": "Política (France 24)",
-        "data_noticia": "04/11/2026 02:46"
+        "titulo_evento": "Iranian MP tells Euronews Tehran's missiles will strike Europe if US uses its bases there",
+        "descricao": "Ahmad Bakhshayesh Ardestani, a member of Iranian parliament’s security committee, said Iran would fire on any European base used against it, including in Italy and Germany. State-run media said any new confrontation could reach “the heart of Europe\".",
+        "url_fonte": "https://www.euronews.com/2026/11/04/iranian-mp-tells-euronews-tehrans-missiles-will-strike-europe-if-us-uses-its-bases-there",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "04/11/2026 11:03"
       }
     },
     {
@@ -521,11 +266,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russian households face increasing financial strain as war in Ukraine drags on",
-        "descricao": "\nAs Moscow continues to launch strikes across Ukraine, Russian citizens are facing increasing financial strain. Since the start of the war in 2022, utility bills in Russia have risen by more than 50% – over 13% this year alone. These rising costs com...",
-        "url_fonte": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "03/11/2026 17:05"
+        "titulo_evento": "Ukraine: 33 dead, over 50 missing after Russian bombing in Zaporizhzhia",
+        "descricao": "Russian strikes on a humanitarian aid site in Ukraine's Zaporizhzhia region have killed 33 people, with more than 50 still missing, on Monday 2 November. Survivors and rescuers are being treated for severe injuries.",
+        "url_fonte": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "04/11/2026 10:26"
       }
     },
     {
@@ -533,16 +278,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          19.1451,
+          51.9194
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-        "descricao": "\nUkrainian President Volodymyr Zelensky last week heralded the success of Operation Veles, during which Kyiv sent troops deep into a disused gas pipeline in the Kupiansk region to confront Russian troops. These underground tactics, which Russian forc...",
-        "url_fonte": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "03/11/2026 16:52"
+        "titulo_evento": "Judicial crisis is 'weakening Poland' in a 'very unfortunate' time, says former EU Commissioner Jourová",
+        "descricao": "Věra Jourová, former European Commissioner for Justice, believes this \"judicial schism\" is \"very unpleasant\" and \"decreasing\" the trust of Polish people in their justice and the independent judiciary system.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/judicial-crisis-is-weakening-poland-in-a-very-unfortunate-time-says-former-eu-commissioner",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "04/11/2026 09:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "‘Democrats did a good job’: Trump congratulates Democrats on midterm wins",
+        "descricao": "US President Donald Trump has acknowledged that rising petrol prices linked to the war in Iran contributed to his Republican Party's defeat in the midterm elections. He said voters supported his actions against Iran but were reluctant to pay more at ...",
+        "url_fonte": "https://www.euronews.com/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "04/11/2026 08:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brussels to host talks on Ukraine's reconstruction with key allies",
+        "descricao": "Good morning. I’m Mared Gwyn, holding the newsletter pen this Wednesday morning. Today: Brussels becomes the stage for intensified diplomacy on Ukraine, and I break down the key takeaways from Euronews’ Enlargement Summit.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/brussels-to-host-talks-on-ukraines-reconstruction-with-key-allies",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "04/11/2026 08:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israel's election commission says no fraud found in last week's vote",
+        "descricao": "Prime Minister Benjamin Netanyahu and his supporters have repeatedly made unsubstantiated claims that Arab-led parties had “stolen” the election, possibly with foreign assistance.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "04/11/2026 08:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Europe Today: Democrats win Senate in rebuke of Trump as Poland’s constitutional crisis drags on",
+        "descricao": "A blue wave has swept the US in the midterm elections, with Democrats winning the Senate and heading for a big House majority as votes are still being counted on the West Coast. We bring live analysis from Philadelphia and Brussels, plus Poland’s cri...",
+        "url_fonte": "https://www.euronews.com/2026/11/04/europe-today-democrats-win-senate-in-rebuke-of-trump-as-polands-crisis-drags-on",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "04/11/2026 08:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Democrats win control of US Congress in midterm rejection of Trump presidency",
+        "descricao": "The results reflected deep anger over living costs, tariffs and Trump's war against Iran, which has sent fuel prices soaring and compounded dissatisfaction with an already deeply unpopular president.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party",
+        "categoria": "Defesa/Conflito (Euronews (Europa))",
+        "data_noticia": "04/11/2026 06:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "UK Supreme Court to hear appeal against ban on Palestine Action group",
+        "descricao": "The two-day hearing, scheduled for Wednesday and Thursday at the Supreme Court, comes as the group's prohibition has failed to quell support for the pro-Palestinian group, leading to mass arrests across the UK.",
+        "url_fonte": "https://www.euronews.com/2026/11/04/uk-supreme-court-to-hear-appeal-against-ban-on-palestine-action-group",
+        "categoria": "Política (Euronews (Europa))",
+        "data_noticia": "04/11/2026 05:57"
       }
     },
     {
@@ -555,11 +402,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US midterms: Talarico seeks to break Democrats' 30-year losing streak in Texas",
-        "descricao": "\nIn Texas, Democratic candidate James Talarico is leading the polls ahead of a high-stakes US Senate race against Republican Ken Paxton. The contest is one of the most closely watched battles of the midterm elections, with Democrats hoping to end a 3...",
-        "url_fonte": "https://www.france24.com/en/video/20261103-us-midterms-talarico-seeks-to-break-democrats-30-year-losing-streak-in-texas",
+        "titulo_evento": "What consequences for Israel as Democrats win the US midterm elections?",
+        "descricao": "\nDemocrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning upset. What are the potential consequences for Israel and Benjamin Netanyahu, as Trump announced on Tuesday that the US will halt...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections",
         "categoria": "Política (France 24)",
-        "data_noticia": "03/11/2026 16:45"
+        "data_noticia": "04/11/2026 11:32"
       }
     },
     {
@@ -567,16 +414,254 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Brazil keeps a close eye on US midterm elections",
-        "descricao": "\nBrazil is keeping a close eye on the US midterm elections. Since Donald Trump's return to the White House, relations between Brasilia and Washington have grown increasingly tense. On the economic front, aggressive trade policies have subjected Brazi...",
-        "url_fonte": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
+        "titulo_evento": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+        "descricao": "\nUS President Donald Trump had rare praise for rival Democrats Tuesday after their stunning US midterm elections victory and admitted the Iran war may have played a part in the defeat of his Republican Party. But the 80-year-old refused to take any p...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 11:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Midterms: Trump acknowledges role of Iran war, congratulates Dems",
+        "descricao": "\nPresident Donald Trump acknowledged on Wednesday that the US-Israeli war on ​Iran ‌played a role in his party's sweeping ⁠defeat in the midterm elections, as Democrats won control of the House of ‌Representatives and the Senate. \"I think a part of i...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-midterms-trump-acknowledges-role-of-iran-war-congratulates-dems",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 11:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Markets react with caution to Democrats' victory in US midterms",
+        "descricao": "\nInvestors shunned AI stocks and turned to government bonds on Wednesday in the wake of the Democratic Party's takeover of Congress in the US midterm elections. Oil prices meanwhile ticked slightly higher, as uncertainty remains over the direction of...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/business/20261104-markets-react-with-caution-to-democrats-victory-in-us-midterms",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 10:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Champions League: Paris Saint-Germain make easy work of Villarreal",
+        "descricao": "\nParis Saint-Germain made easy work of Villarreal in the Champions League (6-0). The game was decided after 17 minutes and four goals.\n",
+        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20261104-champions-league-paris-saint-germain-make-easy-work-of-villarreal",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/11/2026 10:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "DR Congo residents sue Chinese mining giant for widespread pollution",
+        "descricao": "\nIn Kolwezi, the mining capital of the Democratic Republic of Congo, local residents are suing a huge Chinese mine and the government for environmental pollution. It will be one of the most important cases the country has seen. FRANCE 24's correspond...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-dr-congo-residents-sue-chinese-mining-giant-for-widespread-pollution",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/11/2026 10:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "30 million South Africans registered to vote across nine provinces",
+        "descricao": "\nIn South Africa, around 30 million people have registered to cast their votes across the country's nine provinces. The economy is at the forefront of the November 4 local elections. The spotlight is on Gauteng, a province long plagued by governance ...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-30-million-south-africans-registered-to-vote-across-nine-provinces",
         "categoria": "Economia (France 24)",
-        "data_noticia": "03/11/2026 16:36"
+        "data_noticia": "04/11/2026 10:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Washington excludes South Africa and Rwanda from US duty-free trade deal",
+        "descricao": "\nSouth African and Rwandan exporters are weighing potential job losses and squeezed margins after Washington decided to exclude them from the AGOA program, the African Growth and Opportunity Act, ending the countries' duty-free access to the US marke...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-washington-excludes-south-africa-and-rwanda-from-us-duty-free-trade-deal",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 10:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'A generational win' for Dems as blue wave sweeps midterms",
+        "descricao": "\nDemocrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning, nationwide rejection of Donald Trump. France 24's Wassim Cornet says it is \"impossible to overstate\" the scale of the victory fo...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-a-generational-win-for-dems-as-blue-wave-sweeps-midterms",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/11/2026 10:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Abdul El-Sayed set to become first Muslim senator after win in Michigan",
+        "descricao": "\nProgressive favorite Abdul El-Sayed has defeated Republican Mike Rogers in a bitter campaign for Michigan’s open Senate seat, giving the Democratic Party’s left wing a breakthrough victory in one of the nation’s most important swing states. El-Sayed...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 10:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Why the Democrats routed the Republicans in the US midterm elections",
+        "descricao": "\nUS voters on Tuesday handed the Democratic Party control over Congress in a biting rebuke to President Donald Trump and his MAGA movement. Polls suggest that rising anger about the cost-of-living crisis partly set off by the president’s decision to ...",
+        "url_fonte": "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 09:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
+        "descricao": "\nDemocrats have dominated the US midterm elections and are set to take both the House of Representatives and the Senate giving them a swathe of new powers. After the new Congress is sworn in on January 3, they will be able to block partisan legislati...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 09:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US midterms: Will Trump stick to his word and accept results?",
+        "descricao": "\nDonald Trump struck a conciliatory note following sweeping victory for the in the midterm elections, telling The New York Times he was \"absolutely willing\" to accept the defeat. But the “crucial question” is whether Trump will stick to his word and ...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-us-midterms-will-trump-stick-to-his-word-and-accept-results",
+        "categoria": "Política (France 24)",
+        "data_noticia": "04/11/2026 09:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What next for Iran war after Trump's midterms defeat?",
+        "descricao": "\n⁠Iranian parliament ​Speaker Mohammad Baqer ​Qalibaf said on Wednesday that Americans ​have rejected ‌the ⁠Iran war, and ‌the US government should ⁠not ignore public opinion by attacking ​his country ‌again, following a sweeping victory for the Demo...",
+        "url_fonte": "https://www.france24.com/en/video/20261104-what-next-for-iran-war-after-trump-s-midterms-defeat",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "04/11/2026 09:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Germany's celebrated children's author Janosch has died",
+        "descricao": "Bear, Tiger and Tiger-Duck: The author and illustrator Janosch achieved world fame with his heartwarming children's figures. He died at the age of 95.",
+        "url_fonte": "https://www.dw.com/en/germany-s-celebrated-children-s-author-janosch-has-died/a-79851600?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "04/11/2026 10:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+        "descricao": "Donald Trump's Republicans will no longer control the US Congress after the Democrats flipped both chambers in the midterm elections. The outcome could impact conflicts in Europe and the Middle East.",
+        "url_fonte": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "04/11/2026 08:52"
       }
     },
     {
@@ -686,50 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-        "descricao": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
-        "url_fonte": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "03/11/2026 14:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.7038,
           40.4168
         ]
       },
       "properties": {
         "titulo_evento": "Multiple flights to European airports targeted by bomb threats",
-        "descricao": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, and a fourth flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
+        "descricao": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
         "url_fonte": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "03/11/2026 14:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Can US midterm election really change Trump's Iran policy?",
-        "descricao": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
-        "url_fonte": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "03/11/2026 12:55"
       }
     },
     {
@@ -754,16 +805,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "How Iliana Yotova won the presidential election in Bulgaria",
-        "descricao": "Iliana Yotova won the presidential election in Bulgaria, promising to be a \"president of peace.\" But the campaign showed how divided Bulgarians are about the war in Ukraine and drone attacks in the Black Sea.",
-        "url_fonte": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "02/11/2026 12:15"
+        "titulo_evento": "The blue tsunami sparks joy, hope and mockery in Europe",
+        "descricao": "The changing power dynamic in Washington puts Donald Trump under pressure and gives Europe's mainstream a rare moment of transatlantic relief. ",
+        "url_fonte": "https://www.politico.eu/article/us-midterm-election-democrats-blue-tsunami-hope-mockery-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "04/11/2026 10:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What Trump’s double defeat means for the UK",
+        "descricao": "It&#8217;s been a bruising night for Donald Trump at the midterm elections &#8211; losing both the house and the senate &#8211; but what does it mean for Britain? In a special edition, Sam Coates and Anne McElvoy hear from a variety of experts &#8211...",
+        "url_fonte": "https://www.politico.eu/podcast/politics-at-sam-and-annes/what-trumps-double-defeat-means-for-the-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "04/11/2026 10:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4515,
+          51.1657
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Defense chief rejects claims Germany puts its own arms industry ahead of Europe",
+        "descricao": "Boris Pistorius says protecting national weapons manufacturers is a problem common to all EU countries.",
+        "url_fonte": "https://www.politico.eu/article/pistorius-rejects-claims-germany-puts-its-own-arms-industry-ahead-of-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "04/11/2026 10:05"
       }
     },
     {
@@ -776,28 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "What Europe hopes to see in the US midterms",
-        "descricao": "Capitals are watching keenly for any hint that Washington's approach to foreign policy and free trade might change in 2028.",
-        "url_fonte": "https://www.politico.eu/article/what-europe-hopes-to-see-in-the-us-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Economia (Politico Europe)",
-        "data_noticia": "04/11/2026 01:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU tells Ukraine to hasten reforms, sets out more cautious path for accession",
-        "descricao": "Brussels has set out a far more ambitious membership roadmap for Moldova than it has for Ukraine.",
-        "url_fonte": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "titulo_evento": "Europe wakes up to a blue tsunami in the US midterms",
+        "descricao": "Overnight, the Democratic party has won the U.S. Senate and made decisive gains in the House. But this might not necessarily be good news for Europe. On this special episode, Zoya Sheftalovich is joined by Sarah Wheaton in Brussels and our Global Pol...",
+        "url_fonte": "https://www.politico.eu/podcast/brussels-playbook-podcast/europe-wakes-up-to-a-blue-tsunami-in-the-us-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
-        "data_noticia": "03/11/2026 23:26"
+        "data_noticia": "04/11/2026 06:30"
       }
     },
     {
@@ -805,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3522,
-          48.8566
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Guillaume Cerutti choisi pour présider le château de Versailles",
-        "descricao": "PARIS — Après huit mois d’intérim, Versailles s’apprête à accueillir un nouveau président. Guillaume Cerutti, ancien président de la Pinault Collection et ex-patron mondial de Christie’s, devrait prendre la tête du prestigieux château, a appris POLIT...",
-        "url_fonte": "https://www.politico.eu/article/guillaume-cerutti-choisi-pour-presider-le-chateau-de-versailles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "titulo_evento": "US midterms: What the blue wave means for Britain",
+        "descricao": "The Democrats have won the Senate and the House, taking control of Congress for the rest of Donald Trump&#8217;s presidency. On this special episode of Westminster Insider, Patrick Baker is joined from Washington D.C. by our Global Politics Bureau Ch...",
+        "url_fonte": "https://www.politico.eu/podcast/westminster-insider/us-midterms-what-the-blue-wave-means-for-britain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
-        "data_noticia": "03/11/2026 21:48"
+        "data_noticia": "04/11/2026 06:29"
       }
     },
     {
@@ -822,50 +890,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Spain’s transport minister resigns after deadly train crash",
-        "descricao": "Óscar Puente was adamant he wasn't going to resign — until he did so on Tuesday evening.",
-        "url_fonte": "https://www.politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "03/11/2026 21:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.3188,
-          61.524
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Supermarket Chain Thaw Massacre: Russia suspected in Europe’s fridge attacks",
-        "descricao": "Nobody knows who hacked Europe's supermarkets. But many are looking to Moscow. ",
-        "url_fonte": "https://www.politico.eu/article/supermarket-chain-thaw-massacre-ii-russia-suspected-in-europe-fridge-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "03/11/2026 18:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Brussels sets slimline legislative agenda for 2027 ",
-        "descricao": "Brussels prioritizes competitiveness and deregulation while withdrawing stalled proposals and scrapping obsolete rules.",
-        "url_fonte": "https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "03/11/2026 18:11"
+        "titulo_evento": "How the Stock Market Is Reacting to the Midterm Elections",
+        "descricao": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
+        "url_fonte": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+        "categoria": "Economia (NYT Business)",
+        "data_noticia": "04/11/2026 11:04"
       }
     },
     {
@@ -929,11 +963,317 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump confirms strikes on Iran as Tehran warns against return to war - AFP.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5\" target...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5",
+        "titulo_evento": "Exclusive | Trump Acknowledges Iran War Is Partly to Blame for Republican Losses - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVDbWFnYVgyV3EyWXY0RVI0ZWE0UTdMRWJvSmFVa0lJVE9WajlzWEMzZ0lJM0l2VWVaVWE0TjZOc2pTWU1YcHd4dHh2dU00WVBzMXpfcEdQVzRGaVoyNEw0cUQ0c0l1blgzQTJyOFBTQmhVd2JScDlpTGQ1R2JnRk5PODBVU1o3QmNqajZnME1BTnRq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVDbWFnYVgyV3EyWXY0RVI0ZWE0UTdMRWJvSmFVa0lJVE9WajlzWEMzZ0lJM0l2VWVaVWE0TjZOc2pTWU1YcHd4dHh2dU00WVBzMXpfcEdQVzRGaVoyNEw0cUQ0c0l1blgzQTJyOFBTQmhVd2JScDlpTGQ1R2JnRk5PODBVU1o3QmNqajZnME1BTnRqd2N4Yk1LM3NjTVRJU29LWjhRTUVUOTVZcFNwNUFrUm1UUEE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 02:55"
+        "data_noticia": "04/11/2026 05:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran says Americans rejected Trump’s war as the world reacts to the midterms rout - NBC News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXds...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXNTWEFrYUgxWTVNYUxORkM0NXM5MVd6bk85SGZNUlI3OGVyYU45UEpXNW5mS212ZkxKdG5HaUxhTjAzcVUyQ3czeWd3eTd6V09fckJBVDJfRVNUcUFIU0ZBb2pOVUluVHRCaXVfTGlIc0paU1JtbUVwTFZMNDYyODNKY01qZE9ES3kySEhIUm9mUXdsOTZ6U2NTcHdFdEtrZk5YRmpvc0hnNGs?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 11:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Persian Gulf leaders fear a renewed U.S.-Iran war as diplomacy sputters - Los Angeles Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMElzcmlmYmc5MnlUbkNaYm5xQmU1Q0tWbjczMWctY2pJNzYwTFFjbUZ0WmpJQ1BHX2hlZDdUeVhOZ2hiX01mZ01IZngzTmh1MkF5c1hlbGZSQVJqNmxsUkY1dlRDQ2dlSEg5cDdSaDFoZWEtNlFBQnVEX2VxWXdwd2lkVnFBQ2loV1JpRXlXSUtmYTlq...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMElzcmlmYmc5MnlUbkNaYm5xQmU1Q0tWbjczMWctY2pJNzYwTFFjbUZ0WmpJQ1BHX2hlZDdUeVhOZ2hiX01mZ01IZngzTmh1MkF5c1hlbGZSQVJqNmxsUkY1dlRDQ2dlSEg5cDdSaDFoZWEtNlFBQnVEX2VxWXdwd2lkVnFBQ2loV1JpRXlXSUtmYTlqQTdZRE4xRTA1bVdlUFNMUmc4OUFtRHUzNnVUaVY2Z3liYjV0Nm1ycWM1SQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 11:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8516,
+          31.0461
+        ]
+      },
+      "properties": {
+        "titulo_evento": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Oil, Explained, United States, Israel, ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 08:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia-Ukraine war: Who will break first? - Chatham House",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXJsQmZUbjREMUxPZUZwOUZGTm9pOVhXZDl5STI0MlkybXhDemF4ZWY2RzdKam4yWmFuVkczR2dXWWlLcUJucEJVMWNpZkQxeEkxZTAxc3JjVW55T1FfVFM2RjRseWVhVHhTQTRCclY4ZmlrcDVDZm9SZVNRSHZDNEhTU2VQMjNMa0tUbmlJSWloMl9N...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXJsQmZUbjREMUxPZUZwOUZGTm9pOVhXZDl5STI0MlkybXhDemF4ZWY2RzdKam4yWmFuVkczR2dXWWlLcUJucEJVMWNpZkQxeEkxZTAxc3JjVW55T1FfVFM2RjRseWVhVHhTQTRCclY4ZmlrcDVDZm9SZVNRSHZDNEhTU2VQMjNMa0tUbmlJSWloMl9NRmI4OUJB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 08:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How Democrats Can Stop the Iran War Now - Reason Magazine",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3?oc=5\" target=\"_blank\">How Democrats...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 08:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQWVvV2lYYkw1NHNpRkh2VnYzcnNqVlN0LTUxSWZLVEp4UGd2QTQ3eVF2bDJnR2ZzZW94ZXdWT2U1WWNFRW1McWhfVG5EbmxRQkUySnBoc3NoR24wZnZBTU5MTzdsZTFFLVpFaWR6NW1ma0M5T0Y0dXhCV2x4eTTSAYQBQVVfeXFMT1ZON21PNll2N2lw...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQWVvV2lYYkw1NHNpRkh2VnYzcnNqVlN0LTUxSWZLVEp4UGd2QTQ3eVF2bDJnR2ZzZW94ZXdWT2U1WWNFRW1McWhfVG5EbmxRQkUySnBoc3NoR24wZnZBTU5MTzdsZTFFLVpFaWR6NW1ma0M5T0Y0dXhCV2x4eTTSAYQBQVVfeXFMT1ZON21PNll2N2lwUnNkWXQ4Ym9nSGtvX2R4cnJCZy04WXZTdHE5TF9tY2RLb0dMcS11YmJraFljT05kaGROdFdxbFNVX0FoV1lGcnh4cFBlc0hnM1VtTk1SU3VvSnJHVEI5c2htSEtzTWVWUzBoMzdFQm1zSHN0djZfTHVf?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 06:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Could Democrats' midterm victory accelerate Trump's Iran war? - Iran International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZGZrb2wxNi1qcVU5VE5Gc29aRVZhLS1aejJmcGVlWXlGbjFtWUxSYXRDTGk5ODJXUmI3V0dmUTh1SlkxUlRRX2J6ZjJLUXJzMVE?oc=5\" target=\"_blank\">Could Democrats' midterm victory accelerate Trump's Iran war?</a>&...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SZGZrb2wxNi1qcVU5VE5Gc29aRVZhLS1aejJmcGVlWXlGbjFtWUxSYXRDTGk5ODJXUmI3V0dmUTh1SlkxUlRRX2J6ZjJLUXJzMVE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 10:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1k5M29XbFJLXzE1cUxwMmxuOVdzS3p1RUlNcXNtdl9qX0R2bHNFT0ZSNXoxUzlMS1lxQ2h4LUlEM19NWnJ0aEFMczdmQkFtVnMySGU2WFJqT1FSQURINXBfY2ZBbklkZl9FbG5EaWpOT2hCdWNlM01aQ2dVMzBaSGstN0xoZ1VRcHhUMVFtM2VsUTQ?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1k5M29XbFJLXzE1cUxwMmxuOVdzS3p1RUlNcXNtdl9qX0R2bHNFT0ZSNXoxUzlMS1lxQ2h4LUlEM19NWnJ0aEFMczdmQkFtVnMySGU2WFJqT1FSQURINXBfY2ZBbklkZl9FbG5EaWpOT2hCdWNlM01aQ2dVMzBaSGstN0xoZ1VRcHhUMVFtM2VsUTQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 03:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5M...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 11:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXlWSVExOEg2WWUxMi14SlEtNzRUWjVMMUJpWmdKb1ZqRUhfMWQ0ZmNmcXdPSlZuR2dWUVlxZWtINjNsdDRzbUJCdFdTTlppbHZudFRnZHh1SzFMQmNOd180ZmdNXzhGc0FGZF9IYkNTVnJqOVVwZmZsWWxpTVYzeUIzOGZzRVluaUtyR3ZYeE9oUVNM...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXlWSVExOEg2WWUxMi14SlEtNzRUWjVMMUJpWmdKb1ZqRUhfMWQ0ZmNmcXdPSlZuR2dWUVlxZWtINjNsdDRzbUJCdFdTTlppbHZudFRnZHh1SzFMQmNOd180ZmdNXzhGc0FGZF9IYkNTVnJqOVVwZmZsWWxpTVYzeUIzOGZzRVluaUtyR3ZYeE9oUVNMV1RrSmxYcXlYSUd5WkIyb0lROEl0T0J4bjJXNW9Md1VzSkk?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 09:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "How much is the war with Iran costing the US? - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWc?oc=5\" target=\"_blank\">How much is the wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdUNEd0tTanFlNnlJTkJxbFZUNF9iVHZJQ3BVVlFLSTVaZ2Q3d0Z3U01SdGM1WHFnUDJiajB0LXJ1T0M0Z28wcTZscV85VjN1LUd6T2xZU0ZQQ1haTzhzbUFWcnlVSmt4WXk2TTUyUlJfRU15ZWc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 06:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Senate again fails to adopt Iran War Powers Resolution despite growing criticism - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0p4c1FDSWp2dzVnYlZXc1V4V0FYNUFDb05hc1QtQXp6cjFlbUVnVkFlVDlqUDMtSkxvVHItbVZ5ZUREd1cweHhXeHJHWW9HTkJRbVRnbHBOajhLNmhOWl9GR2lNT2p5WjhSbV9JcE43cWFGdFU2dWhzdkM4YmdrdEJIZUhZb213YnZqRlAzX2FQNG5t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0p4c1FDSWp2dzVnYlZXc1V4V0FYNUFDb05hc1QtQXp6cjFlbUVnVkFlVDlqUDMtSkxvVHItbVZ5ZUREd1cweHhXeHJHWW9HTkJRbVRnbHBOajhLNmhOWl9GR2lNT2p5WjhSbV9JcE43cWFGdFU2dWhzdkM4YmdrdEJIZUhZb213YnZqRlAzX2FQNG5tN2ktZ2tKZ1RIZ3FkeTVV0gGoAUFVX3lxTE1rZ2hNSXAxRUl0LTZSRDZMdXlRcXlMMVJyYWx0bEE1bnF1dExSNHFhX1JMNVZPblBYUHZrUWpoZHM2OVBSZnQwcy10dU5kZTF6cThHLVlER2txSG1WSm1LTEw3N3pjN2FNVWVLdXQ5RmZCWHhNZXZvTG5jUUlBNkJFcTRSaUNuUmxiMDYyd0lSRldVM0Jkd3lEM2pFX2ZnQUF1SjVQa2JELQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 07:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Most Americans oppose military action in Iran, give Trump negative ratings on the economy: Polls - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3B3Nng0OHNxZDU1bTRNOWZUenVzczJhQlc1b3M1WTVWSTlrNmJpOXFaMENRekZ3QXJiZHAtdW5Yd2J6b2lNV2gwWHhIb3BocUVNOU40V2M0WUJnSVl2U1E5MjQzY28tSHlWZk9PTXNzbTA5blR6UU5vQmFTTUU1OHRiY1JrcnBveGg4UXRrbkJiN182...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3B3Nng0OHNxZDU1bTRNOWZUenVzczJhQlc1b3M1WTVWSTlrNmJpOXFaMENRekZ3QXJiZHAtdW5Yd2J6b2lNV2gwWHhIb3BocUVNOU40V2M0WUJnSVl2U1E5MjQzY28tSHlWZk9PTXNzbTA5blR6UU5vQmFTTUU1OHRiY1JrcnBveGg4UXRrbkJiN182T2JKLV9naEtLeERHeHUwMDZQTWM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 07:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump congratulates Democrats on midterms, says Iran war played role - AFP.com",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDc5LWZtSXF6TEZ2SXFrVU1LTG1zS1dUTFlJZjN1RmZ5d3VxWHZGaUtCQm9LOGJkR21NTjBqeTFZbVZOV1p6eGVSY1U1X3JNcUNNdFhTckZwOFNxcEdMWDYyaDhGWHZNSk5oVF84REpwUTkwdnQwbk9PVlRjVVhmVjNreGt5VS0wcm1pQlhickg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 07:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05,
+          40.0
+        ]
+      },
+      "properties": {
+        "titulo_evento": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaERXOEtSUVd1MlZvcmMwSDRxYzR3QWptVW0tTWpxNHNrLWpFb2Z5NkZxbWpBM3FVRVBvOGxSd3htRjByRC1MdWFGaURRYjl0Y29jWVF2QXZfWFZKSkxUNkh4YXhuZWtFOEZsc1VGWW5YdWthSmF0aHJObVR0c1lrZDJrbTVBWE5WakJsUml4anE2QzdRT0c1WlE3eFkyaEJwRUpnc1dRN1dsR2N3MGtlOHdrbURFbnlZ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 08:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJY...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 11:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "White House posts so-called 'hype' videos combining real Iran war footage alongside movie, video game clips - ABC News - Breaking News, Latest News and Videos",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGZ3a3Q4R2NnNWJ6TXdGcWNEd0EzUnozYmtiNmI1TC1xcEw2dkMxN09CZDhuN3hDX3k2SkV1M2tjTGt2RHNFVXVmaEQwOVhQZVc4VzhJaHZraHloWWRzR0xoVkhqVmtoc2xPZ0pzWUxOa2ZpdnlrbENWSU1ZeTFha1pCRUlORXBzV2RLR1VhRElJejAyY0FXd2RlMlRnQWFp0gGmAUFVX3lxTFBiOXlWck42MkJWNjhKWDVDQWZXVGdLNm94cEU4b2ZJdlkxWFVyVWJpQkppenhGeW1JWGpESDh4UDFTS2s3WS1qa0c2cXJXLTlWa0pnd2pjZ19WcVZFaFhxRDZqNkI4QURjSGpDd0JUQ1lXSGY0Y3hGRVJrNUQyLUlzeEpTNmVwZmhobmZDeHlsWVk2NktDNEdwWXA2Uld5Z0JBUkhWVGc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 06:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Democrats on track to win Senate control, setting up Iran war showdown - Al-Monitor",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDV3M1FFMS0wWFBGMVNldm4xSzRwMjBhczBhYlFhTFJ5ZVRKdXFtdXU3TmUzMG9DbG1UcmhFZU5ULWlHVF9SSmpjTnZQTEZGWlEzZFN4MXZ5b1NIT0NIWjRBX2d3aVNic1VMa3o5TkJRUEFqZUktUlF1cXVjUlZ2Qnp3bVdqSWpFTk1CV1VjM0VZUEMt...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDV3M1FFMS0wWFBGMVNldm4xSzRwMjBhczBhYlFhTFJ5ZVRKdXFtdXU3TmUzMG9DbG1UcmhFZU5ULWlHVF9SSmpjTnZQTEZGWlEzZFN4MXZ5b1NIT0NIWjRBX2d3aVNic1VMa3o5TkJRUEFqZUktUlF1cXVjUlZ2Qnp3bVdqSWpFTk1CV1VjM0VZUEMtakZVVHVFZmhPRDZYUUhQOFlycDM?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "04/11/2026 04:48"
       }
     },
     {
@@ -958,288 +1298,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -51.9253,
+          -14.235
         ]
       },
       "properties": {
-        "titulo_evento": "US Continues Strikes on Iran Despite Trump Claims That War Is Over - Truthout",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNi1QTUhmV1BaeU12cUE3TFJkVUlZMy1PYmVObDUwU0t5dDc1czRxUEE3LXM4ZUxvN19IRENPeDZWNVFJV0hlTDV0S1diQmQyMVdNRWktRnF5NlE3ZG5qUUlGMWFzX2MxYmN5LTgyRUJsU09reWktSzRDWF9kclZESFJCT1gySnF3b0NESHpoOWZqSGd4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNi1QTUhmV1BaeU12cUE3TFJkVUlZMy1PYmVObDUwU0t5dDc1czRxUEE3LXM4ZUxvN19IRENPeDZWNVFJV0hlTDV0S1diQmQyMVdNRWktRnF5NlE3ZG5qUUlGMWFzX2MxYmN5LTgyRUJsU09reWktSzRDWF9kclZESFJCT1gySnF3b0NESHpoOWZqSGd4Qzh4bnhKLWVKZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 22:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Oil, Explained, United States, Israel, ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 23:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "What comes next in Trump’s war with Iran : Here & Now Anytime - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2R6VUtZbFBoSTRVZ1BEYzBsZ282NURLMmdUYTBjWExYYlFuajg1Mmt1MzBxM3lhX3Uzc3l1MmhSY0pjNmdneU9RVHVYLWxQUDZaMkk1cnFtRW90SDNYcENlTC1ickZCR3RmNW1vWEF5SW01UFp0WUdseWlkaXNXbmJ2bXVVaUI0bWowYQ?oc=5\" tar...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2R6VUtZbFBoSTRVZ1BEYzBsZ282NURLMmdUYTBjWExYYlFuajg1Mmt1MzBxM3lhX3Uzc3l1MmhSY0pjNmdneU9RVHVYLWxQUDZaMkk1cnFtRW90SDNYcENlTC1ickZCR3RmNW1vWEF5SW01UFp0WUdseWlkaXNXbmJ2bXVVaUI0bWowYQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 20:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZH...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 01:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran’s chief negotiator says the US must act to prevent renewed war, and other Mideast news - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 22:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia-Ukraine war: Who will break first? - Chatham House",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXJsQmZUbjREMUxPZUZwOUZGTm9pOVhXZDl5STI0MlkybXhDemF4ZWY2RzdKam4yWmFuVkczR2dXWWlLcUJucEJVMWNpZkQxeEkxZTAxc3JjVW55T1FfVFM2RjRseWVhVHhTQTRCclY4ZmlrcDVDZm9SZVNRSHZDNEhTU2VQMjNMa0tUbmlJSWloMl9N...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXJsQmZUbjREMUxPZUZwOUZGTm9pOVhXZDl5STI0MlkybXhDemF4ZWY2RzdKam4yWmFuVkczR2dXWWlLcUJucEJVMWNpZkQxeEkxZTAxc3JjVW55T1FfVFM2RjRseWVhVHhTQTRCclY4ZmlrcDVDZm9SZVNRSHZDNEhTU2VQMjNMa0tUbmlJSWloMl9NRmI4OUJB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea fires unidentified projectile east toward sea: South Korean military - NK News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yYVBFbDVFazY0Y2N2YXdKbUJsbjh3U3NsVkZIX0hxaXQzUF9QbFo2THdBMDJER2I0UHF0VzZMei03Qzk2d3ow?oc=5\" target=\"_blank\">North Korea fires unidentified projectile east toward sea: South Korean military<...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yYVBFbDVFazY0Y2N2YXdKbUJsbjh3U3NsVkZIX0hxaXQzUF9QbFo2THdBMDJER2I0UHF0VzZMei03Qzk2d3ow?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 01:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea launches unidentified projectile toward the sea, South Korea says - PBS",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEJaenVjc0c2bGhBd2p1dG1YYmxFSEVZMGJZTkVvVFV6YW84TlBIUFRnNXZvTlFMb2k3bVgtWWNsV3NKbWpYSldhQUhCWlM4LTM5QVlYZnpQdFNNVFhyYlI4RlZXTVdGbXlxeGlBb0JKS0YzOWFrTGllSXBjbWdPelJBaGVqT2tEUzhHQ2JzUllhczF1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEJaenVjc0c2bGhBd2p1dG1YYmxFSEVZMGJZTkVvVFV6YW84TlBIUFRnNXZvTlFMb2k3bVgtWWNsV3NKbWpYSldhQUhCWlM4LTM5QVlYZnpQdFNNVFhyYlI4RlZXTVdGbXlxeGlBb0JKS0YzOWFrTGllSXBjbWdPelJBaGVqT2tEUzhHQ2JzUllhczF1R3QtcDlRcE9rX0tsbTNpVnNaa2Z0NnBqVXg0RdIBtgFBVV95cUxQRjlQUEhoVkxTTWhQRnFxdjQxRWJDOUpENWJ4RGFFZFFHd2lOTUhrVTJHaERrTlpwSVRzd0Y1RnpMSmJMRHVvMVdNV2twc19VTVNnR3gtQ2JvbEJIbVEyZXZ2clVHUWx6bmtIWDhKek50bE91bHdJcGdFaVYzXzRBZ1Y1SmlFMU5NN0JFUm5NRklSVDB0MS1ZTFc3WWZRTllscTBhWmwyZUVXQmpPdXNjX2NFemJvZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 02:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US Air Force asks industry for new cruise missile for Ukraine - Air Force TImes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGlTWFJjeHJSVW8zWEM2RXlGUUMwdVZUbEFiM0R2eHczR0FSN1JRTDljYmZfQVdwVTMwcDV2WTR5YkxqR3lJdDROY3FjS00zRVI2bS15Rzc1WFZUb0pCUXlUV3AxY3BVQVlyQkJqSXpmRVRacFNYczJNWEFReVR0MGhhV003bHFxb2lUdkxTb2xMWDRp...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGlTWFJjeHJSVW8zWEM2RXlGUUMwdVZUbEFiM0R2eHczR0FSN1JRTDljYmZfQVdwVTMwcDV2WTR5YkxqR3lJdDROY3FjS00zRVI2bS15Rzc1WFZUb0pCUXlUV3AxY3BVQVlyQkJqSXpmRVRacFNYczJNWEFReVR0MGhhV003bHFxb2lUdkxTb2xMWDRpWlZEVmpuNy1SaU9LcXR2NXNZRTE3RHhJ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 20:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5\" targe...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEZ5UW1FNFkxcXk5Y2pzN1hqR3dPZWdRRm9PT0phR3Y1cVg1N1E2RDk1ZWFCM2tCUnhvbVBHRVI0X2tfNEh6aFVmd3lxSGVvQ2s4SzRqQUFPMXJuUG5Sb19VMkpud1dBVVQ2VVBSMnM2WnhPLWVBTXFUZTlKcEJXRC1CcHdoUFZNWU5j?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 23:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 19:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.05,
-          40.0
-        ]
-      },
-      "properties": {
-        "titulo_evento": "North Korea fires unidentified projectile off eastern coast, South’s military says - Stars and Stripes",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkowalBOLUhJQks0VWZKX0hrZUxDNG1Vb19GZ3lJTWpnWU1fY2JPMFpmeWw4dWlza3NFSWlNZ01Rc05od29OcTB6WUtvOV9sZFFOYWpYU3haUE1FMWFhQ05NX0JMcnNUSFNQeGRFLU5vNU5nWGNTTDVEVFh2NmFfZjlIdmk1cEJjbjZVb19DMllsQUds...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkowalBOLUhJQks0VWZKX0hrZUxDNG1Vb19GZ3lJTWpnWU1fY2JPMFpmeWw4dWlza3NFSWlNZ01Rc05od29OcTB6WUtvOV9sZFFOYWpYU3haUE1FMWFhQ05NX0JMcnNUSFNQeGRFLU5vNU5nWGNTTDVEVFh2NmFfZjlIdmk1cEJjbjZVb19DMllsQUdsekRlczZFdHMtT1NCSlVXMA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 01:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 02:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran's president: Time to end war in 'position of strength' - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIB...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkJSOWJZTDJuazNiRTBrR0JzYm9mekllOUxGZTJXLVNLQ3BGODB1UzNkOHpFeXVBQ1JpYXh5cE53SVMweFlxaDh4LXhjZmpIWkJnQTNmakhWZl9OcjNXaHN6SEs4U2NNWWN4SnhUblZEOXBBOHM5dnJIN2FFN2tXSm9CMXhaSWU2X09sOFVWalhOQdIBkgFBVV95cUxONmdHRkowQkRTclFBR1A0d21YY1FXeUk1c0VybUFGUHBHdTNrTG4yZm5WeW9tQXFrZkZnUFRGSy00ZC1uTFVBR1lidDZHaTFHNUVOLWhrbi0xbUZ2NHNyNVRMaU5JWlBIUzM3aXZzbU5zR25iV1dWMTdNSUp3NnpGaFJUS2VrRHZkcXFNNWVYRjBjUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 18:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5N...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFDbXl2ZjRFNEF3bXNkWGo5QlNhOVI1Mkg5aG9MOUlONXBidFY2X2FXZjZVckJ6ZTA4VnBBdnFXLXpQellzdFdXVm9jUGktak5MLXhOb1Jwc09jRTg4LUpfU3B5TXA0U3M5ckNBandUWXhWMTJBb09nOENTZmdzdkZVSlJxYnN5VXltcVo0UnBMQW5NaEpaV2RqMVlwTUV3MmQ4UTMzLVJGRDllZWNrZWVxX1d5YkFFNVpfdA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "03/11/2026 18:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power - The Hill",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVpDbDdHMTBSUzNqaVV6STRLZVhyZUJBQjBpNTdQQ3lUaElvaVN5eEJqVUxvR3ZOY29ROTVxMWl5WkpsZm5CV3h3S2J2cWhrcG10N0hoMEo2YlhZNEFSd1B6b3QxbmlSLTM5UENJY2xTbE9LdVVDa1lxOXVVOGZIcdIBhgFBVV95cUxQcGljNXRSc3NK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVpDbDdHMTBSUzNqaVV6STRLZVhyZUJBQjBpNTdQQ3lUaElvaVN5eEJqVUxvR3ZOY29ROTVxMWl5WkpsZm5CV3h3S2J2cWhrcG10N0hoMEo2YlhZNEFSd1B6b3QxbmlSLTM5UENJY2xTbE9LdVVDa1lxOXVVOGZIcdIBhgFBVV95cUxQcGljNXRSc3NKREhoeVpMbVQ4b0NkVllLR0RNLURmak1oYVREYnVYaEFWcTdaRXZ4UnpjQjdmRFBGNFpKUENobWR4V1J1aE5nTUxFa1ljT1owVC1va0tLTGRud2E4ZVlsRlI0dUMweDRYN3lCa1pUN2pjSnlBd2dZMDlwWlU2QQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 01:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US to cut Israel military aid by end of year, Trump says - DW.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3c2NUs4QmRvUWFPRFpfU1dUb2tndW14UzEzTUlHaUlfLVE0TmRYLVJJckFxX2hIU2owNHJoT3VmVE9uVkI3RXpvNVF0bll4dzJheEpHcXFqYU1DU0VyT0Uzc0RJb3BKSS0zNGIzWmhoOXpxWHFPZ0NhTlJ3WExMZ2YzV1R1QjRJcFFaTzZzcmVfZC16...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3c2NUs4QmRvUWFPRFpfU1dUb2tndW14UzEzTUlHaUlfLVE0TmRYLVJJckFxX2hIU2owNHJoT3VmVE9uVkI3RXpvNVF0bll4dzJheEpHcXFqYU1DU0VyT0Uzc0RJb3BKSS0zNGIzWmhoOXpxWHFPZ0NhTlJ3WExMZ2YzV1R1QjRJcFFaTzZzcmVfZC16cEVjN9IBmAFBVV95cUxOV0E5dUl1NXlNS2xZT09tV2xSNUhNTk5LaThtb1NmamttLUQwUkNHUnpCWTF5Zk5JdlFmXzJHTkxhOUFkblM3WHdPcEtCTVNVUXFpRVRiVVFNdDhVS0lvVnBPRlhjWG9WRExCMEphT21NdkdzNjBpWVlOM3lFbGZjUUhfSWs4bm53NUtFUWVQdV9sbHVYT2VyZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "04/11/2026 01:21"
+        "titulo_evento": "Lula Wins Again: What His Victory Means for Brazil’s Economy - International Banker",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnE4NEhNV0tSUDlscG9Wa0tqejd4ZmtDNERYRmRYc3ZjUzNvUVY5bUhfVnYwc195MHdGQl9yUGRWcWRJaUM2SEE1bXNjOThOQm1JQ2RMTnlIS1hvRFBSOHNHbWRDZVpTTXhpYnUzc1RGb3RQeGxKUkNiV2E1RzdlenMwNXNVVmRvQzZxd0VQSk9EaFV1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnE4NEhNV0tSUDlscG9Wa0tqejd4ZmtDNERYRmRYc3ZjUzNvUVY5bUhfVnYwc195MHdGQl9yUGRWcWRJaUM2SEE1bXNjOThOQm1JQ2RMTnlIS1hvRFBSOHNHbWRDZVpTTXhpYnUzc1RGb3RQeGxKUkNiV2E1RzdlenMwNXNVVmRvQzZxd0VQSk9EaFV1VlF3NTFEbXdFSTBv?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/11/2026 09:44"
       }
     },
     {
@@ -1252,11 +1320,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "CGTN: Global Mayors Dialogue reaffirms China's commitment to openness - Yahoo Finance",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORkV6MS15VTlBSUl5dUlvSDlaU2FvMHNGdDFIUFVhZ0NDNTA1MXVjelFsRkVEMDZxSEZGU2JqVVV5SXZwdHF1elpXWGVGNnozLUVmU3VDZGNrUGZCTG9UZTZ1cnpjQ0E1UGE1aGZyOUNBT0h4RGdKLVp4dVRHdnRQbGdISkhYM0t4cnZVWTNrS3VyaUFD...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkV6MS15VTlBSUl5dUlvSDlaU2FvMHNGdDFIUFVhZ0NDNTA1MXVjelFsRkVEMDZxSEZGU2JqVVV5SXZwdHF1elpXWGVGNnozLUVmU3VDZGNrUGZCTG9UZTZ1cnpjQ0E1UGE1aGZyOUNBT0h4RGdKLVp4dVRHdnRQbGdISkhYM0t4cnZVWTNrS3VyaUFDQ0RQc0hJRUtPcUNMYUI5UA?oc=5",
-        "categoria": "Política (Google News Markets)",
-        "data_noticia": "04/11/2026 02:13"
+        "titulo_evento": "At this year’s CIIE, EU firms test Beijing’s promise to open up its markets - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVZYWmFObDZpQ3dKcXhac1l4T093RkVjb0R0QTVvOFVqYVVKM0ROT2lUVTNua3BnSTNGZWJ5dHVHTGc3eDZOVldZX1o3VjBJZUVqd2pxeVBlUThCanY3ZkNia0l1Q1dLZVo4dFVEeVVYQVVZUW1jYUJSZWg5NHE2NElZYVZHcGNBeHJaQ2ZxQWdyanlP...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVZYWmFObDZpQ3dKcXhac1l4T093RkVjb0R0QTVvOFVqYVVKM0ROT2lUVTNua3BnSTNGZWJ5dHVHTGc3eDZOVldZX1o3VjBJZUVqd2pxeVBlUThCanY3ZkNia0l1Q1dLZVo4dFVEeVVYQVVZUW1jYUJSZWg5NHE2NElZYVZHcGNBeHJaQ2ZxQWdyanlPWlRNZThYNV9ZWEJNcFlLdTNObjEyZzlvdG8tTjVQZFJzRUtuLUVJS2s0cllvdVhxNkY2RW5yanFYdw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/11/2026 09:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1954,
+          35.8617
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US midterm blue tsunami jolts Asian markets as tighter AI, fiscal scrutiny looms - South China Morning Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDRfSW9nZ3MyaUxuTHdXUDQ1amE4bDU0dENLM1ViZHNHTVdraFN4cVVWb294c1M2TFJLa05Pc2F6REx3ZFJzMWFLN0t2d2YtU0IybW1kNU9jazdtTWtIR1FYcFhYVXlTVVRBcHpKSHNvcnNiYzJjb1FMS2xvSWdfeTJPVjVRU1RsSzJqV29RMzN5dTFf...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDRfSW9nZ3MyaUxuTHdXUDQ1amE4bDU0dENLM1ViZHNHTVdraFN4cVVWb294c1M2TFJLa05Pc2F6REx3ZFJzMWFLN0t2d2YtU0IybW1kNU9jazdtTWtIR1FYcFhYVXlTVVRBcHpKSHNvcnNiYzJjb1FMS2xvSWdfeTJPVjVRU1RsSzJqV29RMzN5dTFfWlR5NVE5SVo5M3ZqU2d2c3hFSnVnSThHWi15UUJFTU9XajVDMnlUQUFvRklmWFM3YkMw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "04/11/2026 10:53"
       }
     }
   ]
