@@ -91,6 +91,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+        "descricao": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "08/11/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.3468,
           56.1304
         ]
@@ -193,40 +210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthis report 25 killed in Yemen strikes",
-        "descricao": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "07/11/2026 17:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel builds 90km network of military roads across southern Lebanon",
-        "descricao": "Israel is building roads and military outposts across southern Lebanon.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "07/11/2026 16:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           34.8516,
           31.0461
         ]
@@ -250,7 +233,7 @@
       },
       "properties": {
         "titulo_evento": "US offers $20m reward for information about Iran's nuclear programme",
-        "descricao": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+        "descricao": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
         "url_fonte": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "07/11/2026 18:14"
@@ -339,6 +322,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "06/11/2026 17:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Gunmen kills six in Krakow, three more bodies found at his house",
+        "descricao": "\nA chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when the attacker opened fire in the city's historic square. Prime Ministe...",
+        "url_fonte": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "07/11/2026 22:47"
       }
     },
     {
@@ -780,7 +780,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5\" target=\"_blank\">2026 Iran war | Oil, Explained, United States, Israel, ...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 21:09"
+        "data_noticia": "08/11/2026 00:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5C...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 00:37"
       }
     },
     {
@@ -797,7 +814,24 @@
         "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVa...",
         "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVaUG1Jd0JJN3liMVFWOXJ2a2U0ZlVHY04wdVZFVk1yVzZCNm9MLW81NkNzNGE3czVXWm9HMg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 22:33"
+        "data_noticia": "08/11/2026 00:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "07/11/2026 18:17"
       }
     },
     {
@@ -810,28 +844,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?o...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+        "titulo_evento": "How popular is the Iran War? - Silver Bulletin",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5\" target=\"_blank\">How popular is the Iran Wa...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 20:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - THV11",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYVBXd1RSR2YxU3ZVRzdfS2dtREhhcTZ3aERiaWZ4Q3B2NHVSMWNZS0pkZ2hOZkxncUFEVTkwMkp5TzdSaUtoTVpFRnZPaEpJeWQtTl9BR1k0dXVuazZ4MU41dlNOM0VPQkJlZ2ZwdG4zMkhrQUpXOER5UFZjSDI4WGZPcHZqbFFJN3VNbzBVWlU2SS1a...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYVBXd1RSR2YxU3ZVRzdfS2dtREhhcTZ3aERiaWZ4Q3B2NHVSMWNZS0pkZ2hOZkxncUFEVTkwMkp5TzdSaUtoTVpFRnZPaEpJeWQtTl9BR1k0dXVuazZ4MU41dlNOM0VPQkJlZ2ZwdG4zMkhrQUpXOER5UFZjSDI4WGZPcHZqbFFJN3VNbzBVWlU2SS1aLUVNckFJck5FakVjMGZBR0VVMXRpcTZHc3VST1JxRGhOdVB2ME1YNHFnUW8zVEJkZDR2cVRXSFc4R3Y2OHhzbzl4ajNHSHZYVU85YzhCUXZWN1c4dmtsZVRUN0xoWE5wY0Z3Zkl1VEN2UVBCUnRYU1ZlNA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 23:06"
+        "data_noticia": "08/11/2026 01:09"
       }
     },
     {
@@ -856,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "IRGC claims a self-imposed limit on ballistic missile range ‘has been lifted’ - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FpM1prWWlfTEtQdVR2Qk5GQWRLRHpqTjNyVTRCMVFfU05pVlI3Mk5IaThDd3RuMjhzdmUtSFh1TzRhb2FQRHEwcFFnZmNpV0tqbWplQUs5UGlfelU5OWp6UlIxUmhCVV9ORVZNOTVnMmNpckZpTTMtaFJJWW1Vd0RkczdLTUtoQTJkNjh4WGVtVDFOZmxzdEZ2bE1JWF9xTS1UOGVGNzM5QdIBrwFBVV95cUxNNjZOY0NUaW1TWlFORmdoWFdHdmU3cU9Ud2NKNnFfSWNmbGFWUVZyWWhOS3hZN3BKMWNMMHQxbFg5RVhZNDNLTllwSXNwOUpITzBFMTBZSW5RVmJXeFItblVwOWJtYVMyc1NoWktDMkpERkVYOHlSWWZLZ1U0UlJ4VFFvb09Kc0xwbXdpWU9QOWRHYVdQUjFjYWxzeldkUUctemRFbXdSSmVZcU9WNE1R?oc=5",
+        "titulo_evento": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?o...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 21:07"
+        "data_noticia": "07/11/2026 22:29"
       }
     },
     {
@@ -878,11 +895,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "US military says it fired on commercial vessel after it attempted to breach blockade on Iran - KTRE",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEU5TXluTXBSVmlLRzh3cFBFUWJ2YjFSeW0xUFZiR1BoamR6ajJGSXE5MndiVE5kMWQ5VDg5ak5rV0pRckhaNDlObm9VaWs1a3ZMai15TXZjVWdvMy14NktPNTdlaTdMRmJFWVlxUVJEeHF3NWdVWEZ1cEhBYjhzYXVwdFFLc0hhWjVhVjJFNGFLN3l3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEU5TXluTXBSVmlLRzh3cFBFUWJ2YjFSeW0xUFZiR1BoamR6ajJGSXE5MndiVE5kMWQ5VDg5ak5rV0pRckhaNDlObm9VaWs1a3ZMai15TXZjVWdvMy14NktPNTdlaTdMRmJFWVlxUVJEeHF3NWdVWEZ1cEhBYjhzYXVwdFFLc0hhWjVhVjJFNGFLN3l3TmhnZGpOdXdwWDhoRmt0cjFNTlpjUWpxUDFqOFR0eGpkdEE?oc=5",
+        "titulo_evento": "Iran says it has lifted its self-imposed limit on missile ranges - Arab News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0VSQVpRYXVRNTdoeGdydWczeEluLU1kUUtDYk15ZFVZSkV1OFJNMVprd2hzcFRDRXFfM2N2S3NPbC1tYlQxV0JPaVBkOUduaUFQVHBDRGl6TmZ0SlZiLTdBQzhUdndxOVh0Q3hNMS02dzBCTmd1a05aUER0NEF0c1p6OVdJOUNEMHZWNy1US3Z1Y3ps...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0VSQVpRYXVRNTdoeGdydWczeEluLU1kUUtDYk15ZFVZSkV1OFJNMVprd2hzcFRDRXFfM2N2S3NPbC1tYlQxV0JPaVBkOUduaUFQVHBDRGl6TmZ0SlZiLTdBQzhUdndxOVh0Q3hNMS02dzBCTmd1a05aUER0NEF0c1p6OVdJOUNEMHZWNy1US3Z1Y3pseXhYWjN0U2xiZWgtU3VLNTZMUFU1bm5FS0E?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 21:07"
+        "data_noticia": "08/11/2026 02:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New York State Military Museum Veteran of the Year named - NEWS10 ABC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTFwWEJvSmx6Vnk1TWh6WGZHeDU1a2NITHRrVzN5S3VqaGVVV2xrSC1YbUk3MjFTZElkWXB3SmlzZ1d5bGJqWk80TjBHRGpOOFJMWkRHV1o1OWR6eHpnUjhKcUZYV3o0anJ5ZHZjZ0RSRkF2eF9LZG55aURjZlZLSGl1SXFtR2JiV1dFTHcxU0VBeEdT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTFwWEJvSmx6Vnk1TWh6WGZHeDU1a2NITHRrVzN5S3VqaGVVV2xrSC1YbUk3MjFTZElkWXB3SmlzZ1d5bGJqWk80TjBHRGpOOFJMWkRHV1o1OWR6eHpnUjhKcUZYV3o0anJ5ZHZjZ0RSRkF2eF9LZG55aURjZlZLSGl1SXFtR2JiV1dFTHcxU0VBeEdTSWloZnBOcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 01:08"
       }
     },
     {
@@ -895,11 +929,28 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran Warns US of ‘Catastrophic’ Retaliation as Australia Presses Trump to De-escalate - Palestine Chronicle",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWxsLVpaLWpubkk2VVB1a2JpLW54MUM5NkRteS1RLVpBUGFKWkpuN3pHN2R2RnhtVVV5c3Nrdm5TWF9rMXZjYzJNN01RTi0zd0dZUEp2aHA2RlNXeUU5c0dkUEltMktGOG1xWXd3T3hOdnhGVEUtTjNjTGtxZDZlRzVrX0VYcV9UeWd4UlA4djB1ZXhN...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWxsLVpaLWpubkk2VVB1a2JpLW54MUM5NkRteS1RLVpBUGFKWkpuN3pHN2R2RnhtVVV5c3Nrdm5TWF9rMXZjYzJNN01RTi0zd0dZUEp2aHA2RlNXeUU5c0dkUEltMktGOG1xWXd3T3hOdnhGVEUtTjNjTGtxZDZlRzVrX0VYcV9UeWd4UlA4djB1ZXhNSWdLVFY4VEk4UlZhNTZtd1RROE9UekV1bjlKSFRwcng3Qkk?oc=5",
+        "titulo_evento": "US military says it fired on commercial vessel after it attempted to breach blockade on Iran - WLBT",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGp0dnljNzhFOHBtZHItQ2V2aVVvMHIyLWtzMnJQc1g1R2dSSEFTaC1ZVWJSYWxKM3pSYUlweHpqYXJQZDZzT3FiWXdZRTNTSlJDdFNLTEVZU3JiSUZ0OVc2d08tRU9hMmdhd2wtUncxRWNuVXVwMkU5QWwtbjl2ZGJ5TWNUX3d0WkRnMkJtekdEVktT...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGp0dnljNzhFOHBtZHItQ2V2aVVvMHIyLWtzMnJQc1g1R2dSSEFTaC1ZVWJSYWxKM3pSYUlweHpqYXJQZDZzT3FiWXdZRTNTSlJDdFNLTEVZU3JiSUZ0OVc2d08tRU9hMmdhd2wtUncxRWNuVXVwMkU5QWwtbjl2ZGJ5TWNUX3d0WkRnMkJtekdEVktTbFk5M3BlTUNZdGdyd05GX0I1bi01TE5peU0zblI2NFgtdzg?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 20:26"
+        "data_noticia": "07/11/2026 21:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Citigroup Global Markets Holdings Inc. Autocallable Contingent Interest Fully Principally Protected Note ACERHXX (ACERHXX) - Yahoo! Finance Canada",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bENaTURDYVNWY2dtOTFZN2lDR2hvSXlDcW9yUnM4aWM5U0N3cnRBTTVLaHZlRXlRNzhlNlRyNXpWbEwzM3dLd21VbllRclBXa1lGZ2pLdThieGRUdTd1eFg2dEVtdw?oc=5\" target=\"_blank\">Citigroup Global Markets Holdings Inc. ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bENaTURDYVNWY2dtOTFZN2lDR2hvSXlDcW9yUnM4aWM5U0N3cnRBTTVLaHZlRXlRNzhlNlRyNXpWbEwzM3dLd21VbllRclBXa1lGZ2pLdThieGRUdTd1eFg2dEVtdw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "07/11/2026 20:57"
       }
     },
     {
@@ -912,96 +963,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Being Chinese | I’ll never know the war horrors my Singaporean grandparents survived - South China Morning Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaklXZXY1VFktY3loT1BsTGNqNWlpTXZMU1B4U3hUd3ZSdGd4UEFXMnFEeDNua3NidEljRWxNY3hET3Y5MEZUSXN1YXE4SEJLbFlaUjVRMzZZOUd5ZFFSX3JiRXZUZjhXTGpyRzVkQ0pOaWdpRlV4SFdmZk05eFh6MUdrckdPeGIwNHZnY1p3Zlc2RTVM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaklXZXY1VFktY3loT1BsTGNqNWlpTXZMU1B4U3hUd3ZSdGd4UEFXMnFEeDNua3NidEljRWxNY3hET3Y5MEZUSXN1YXE4SEJLbFlaUjVRMzZZOUd5ZFFSX3JiRXZUZjhXTGpyRzVkQ0pOaWdpRlV4SFdmZk05eFh6MUdrckdPeGIwNHZnY1p3Zlc2RTVMS1NvWFFpckdDUFNWXzJTTTNaaE9rTGRrZHNQTVBoR0NISUV2b1RiUFJn0gG-AUFVX3lxTE1xVTNZem9DZ3JneTRjSFRuaUhic3pQVE9HN0VFY05MUzQyWkRnbE9KMjRiOHJLTk0tMGk1VXNrWmVUQTJGUVVFMmZzQkhxMm9meV9TRGJjVHdBTUdvcUE1ZXNkb1VZMGVVa1JPaDk0UnVxNFhBOURDaWtGZG9SYUlsUkthSlRBUUlHSWVtSXBCb2FnTjhGVXJlcjZLeUg5WUJzbEJNdFgwWkMwVE15RGIxU2duQmN1MGF1ZmszbkE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 21:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US - AP News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5C...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 17:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Belarus sentences Catholic priest to 3 years after he opposed Ukraine war - National Catholic Reporter",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPWm9KU2VmYmRCYTBKamUxSEhrRDlHWEExQWFpRzlUT2IzN1dwSUhZX0p1T0I0bFp3b2VhTFZKYUxwSHFra1Q1emdUODRiREZkUE1ORFdDZUZmcE1DQzdnMnVTRF9odEJybTJ4djJNM0JYcnMwbDFaS3d4SkZ3Q2JEdV9GWFV3WnR2UTlRY2NXbHNJZlRX...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWm9KU2VmYmRCYTBKamUxSEhrRDlHWEExQWFpRzlUT2IzN1dwSUhZX0p1T0I0bFp3b2VhTFZKYUxwSHFra1Q1emdUODRiREZkUE1ORFdDZUZmcE1DQzdnMnVTRF9odEJybTJ4djJNM0JYcnMwbDFaS3d4SkZ3Q2JEdV9GWFV3WnR2UTlRY2NXbHNJZlRXWXlsa1pMVWFLZUlVZU1R?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 22:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump stands by Hegseth as GOP criticism mounts and he pushes to restart the Iran war - Yahoo",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbnhVajJYLWJvdllLZjllUzhyMG16SzI1TFVoc2NXTlUzNS0zanpyckw3c1VQTlJtREVqYVlwWkNTWVNnS0w2NGRvNXdVQTkyT05wVmJRMDdvbEhmQWlvNXlOUk9ZRThKSFhuTGxRZjVYQmlYLXJrQ0pkOF9RbVVKYVVhZlQzckU1QWpITUQ2Wjh0a2NK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbnhVajJYLWJvdllLZjllUzhyMG16SzI1TFVoc2NXTlUzNS0zanpyckw3c1VQTlJtREVqYVlwWkNTWVNnS0w2NGRvNXdVQTkyT05wVmJRMDdvbEhmQWlvNXlOUk9ZRThKSFhuTGxRZjVYQmlYLXJrQ0pkOF9RbVVKYVVhZlQzckU1QWpITUQ2Wjh0a2NKbENMV0ViSGNLeU1DeExseFJTNmMyYm5JQ19fZFdxWVhHUmtzODZvdmtvM2lyYW93LTVOQTBPSVcxeUVtTlBkN2VLUzdwd2Nq?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 17:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ex-military chief Gadi Eisenkot, opponent of Netanyahu, tapped to form government - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkNJbUh4ZFl6NzBHZjJZVU85UGhmUnIzSnBXZUhrczJyNldvUWNHYndxc293NGFwOG1Yb2JaeEdmVW1nYWU1dmdrYVJXU2NVdFZERGN6TjZSUFk3WmhzTjdHd2RZdWx5OFZQOEx6V3lOeVY5dTlwV0pidXZ6RWN3MVlPU20xQWJmcjlPdzJtSlZWMld0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkNJbUh4ZFl6NzBHZjJZVU85UGhmUnIzSnBXZUhrczJyNldvUWNHYndxc293NGFwOG1Yb2JaeEdmVW1nYWU1dmdrYVJXU2NVdFZERGN6TjZSUFk3WmhzTjdHd2RZdWx5OFZQOEx6V3lOeVY5dTlwV0pidXZ6RWN3MVlPU20xQWJmcjlPdzJtSlZWMld0QkpESFVkbEpfa3k4ZzJhc2Z1QzR2OGdEdlFfQ3VBWjZvZWtDSXhuN0taZFNFU1E4?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 23:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen accuses Iran, Hezbollah of sending 21 military 'experts' to support Houthis - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNUFZQkY5Qy1qRTdqRjJIZFNySXdLN1l2clI0N1MteF83VFJFMEQ2c2p0U0pkdTk3VTdfOTBQMHVUSjFqNlQzOGVLSmY3elhMd2RoVGRnRkdQallxa2Q2QlZUMWtzTlB4S0E?oc=5\" target=\"_blank\">Yemen accuses Iran, Hezbollah of s...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNUFZQkY5Qy1qRTdqRjJIZFNySXdLN1l2clI0N1MteF83VFJFMEQ2c2p0U0pkdTk3VTdfOTBQMHVUSjFqNlQzOGVLSmY3elhMd2RoVGRnRkdQallxa2Q2QlZUMWtzTlB4S0E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "07/11/2026 20:35"
+        "titulo_evento": "China becoming key source of innovation for global markets, says executive of German firm - People's Daily Online",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yOVg3cEdsNVdxUFVvM1JRUDRCbUJOam1TRGFzVDliN1R1X1FQaFdRWG9GTkdZSGxxMDJjTV9KalhUQUZIU2sxM3JnV3licGlrWEFXVHFqdURrZzRoR1Q4OTJ5dw?oc=5\" target=\"_blank\">China becoming key source of innovation for...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yOVg3cEdsNVdxUFVvM1JRUDRCbUJOam1TRGFzVDliN1R1X1FQaFdRWG9GTkdZSGxxMDJjTV9KalhUQUZIU2sxM3JnV3licGlrWEFXVHFqdURrZzRoR1Q4OTJ5dw?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "08/11/2026 01:26"
       }
     },
     {
@@ -1026,23 +992,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Global X MSCI SuperDividend Emerging Markets ETF (SDEM) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zTHpteDB2Y1pjXzR3ZTlLeHpUbElNenhRRURnVzQ2M1FLM2J6MC1JTjE5Y0ZwSF83eTVKT0l4bE1oR2xpc3hTWE9XNjJWbThNVmY3ejFha09Yd1J1WFZSWHVB?oc=5\" target=\"_blank\">Global X MSCI SuperDividend Emerging Markets ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zTHpteDB2Y1pjXzR3ZTlLeHpUbElNenhRRURnVzQ2M1FLM2J6MC1JTjE5Y0ZwSF83eTVKT0l4bE1oR2xpc3hTWE9XNjJWbThNVmY3ejFha09Yd1J1WFZSWHVB?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "07/11/2026 21:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           104.1954,
           35.8617
         ]
@@ -1053,6 +1002,23 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR3hIYkdla3l2SFRYMm9UVzNUV084Tml5U0tiRW5TZm81TGwzTC11dlpTZjd3VUk3bVFBT1lWaWtLYmpYUi1CQUJTcVRjTDFfa1R3UkdFQ0F3WjI3ajVlU3owMXMwTkpWNF9vckpIa2RfYVNLaEtRTWhjWTJXQi1mRktlbXh0amVfNllaWldvYkk1clVnUFFkR3lLR2VtU1FUZlVQMkZqc0tBczMzdUI2SDhBR1A?oc=5",
         "categoria": "Economia (Google News Markets)",
         "data_noticia": "07/11/2026 11:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Global X MSCI SuperDividend Emerging Markets ETF (SDEM) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zTHpteDB2Y1pjXzR3ZTlLeHpUbElNenhRRURnVzQ2M1FLM2J6MC1JTjE5Y0ZwSF83eTVKT0l4bE1oR2xpc3hTWE9XNjJWbThNVmY3ejFha09Yd1J1WFZSWHVB?oc=5\" target=\"_blank\">Global X MSCI SuperDividend Emerging Markets ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zTHpteDB2Y1pjXzR3ZTlLeHpUbElNenhRRURnVzQ2M1FLM2J6MC1JTjE5Y0ZwSF83eTVKT0l4bE1oR2xpc3hTWE9XNjJWbThNVmY3ejFha09Yd1J1WFZSWHVB?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "07/11/2026 21:20"
       }
     }
   ]
