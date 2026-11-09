@@ -28,6 +28,23 @@
         ]
       },
       "properties": {
+        "titulo_evento": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
+        "descricao": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "09/11/2026 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
         "titulo_evento": "Iran threatens to ‘rain down hell’ if US escalates war",
         "descricao": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
         "url_fonte": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
@@ -50,23 +67,6 @@
         "url_fonte": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
         "categoria": "Economia (Al Jazeera)",
         "data_noticia": "08/11/2026 17:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Houthis say at least 33 killed in Saudi air strike",
-        "descricao": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-        "url_fonte": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "08/11/2026 04:03"
       }
     },
     {
@@ -135,6 +135,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
         "categoria": "Política (BBC World)",
         "data_noticia": "07/11/2026 15:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6167,
+          -38.4161
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+        "descricao": "\nPope Leo XIV arrived in Argentina on Sunday from Uruguay, where his tour began, facing calls to help bridge divisions after three years of austerity under President Javier Milei. The visit to Buenos Aires is the first by a pontiff to the late Pope F...",
+        "url_fonte": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+        "categoria": "Política (France 24)",
+        "data_noticia": "08/11/2026 22:23"
       }
     },
     {
@@ -283,28 +300,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
+        "titulo_evento": "Israeli president officially tasks Eisenkot with forming government",
         "descricao": "\nIsraeli President Isaac Herzog on Sunday officially tasked ex-military chief Gadi Eisenkot with trying to form a government after neither Eisenkot's bloc nor that or incumbent Prime Minister Benjamin Netanyahu won a clear majority in Israel's Octobe...",
         "url_fonte": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
         "categoria": "Defesa/Conflito (France 24)",
         "data_noticia": "08/11/2026 09:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel's Arab-led parties gain influence",
-        "descricao": "\nArab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these parties ultimately hold the balance of power in forming Isra...",
-        "url_fonte": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
-        "categoria": "Política (France 24)",
-        "data_noticia": "08/11/2026 09:43"
       }
     },
     {
@@ -487,11 +487,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran threatens to ‘rain down hell’ if US escalates war - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUz...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
+        "titulo_evento": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike - CNBC",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0l6UllaNWstdHV3YXVHY3FsaTV6blctcjJ2aDl5dnNwZF9OOFdrRXM5RlN6bUYzU2ZnTGU1bndLek5kTDFTWG1LZUFuamZLbFUwUmJiMDF1a21pOFNhcjI2SzdLVHRtWWYzOHVJVl9qMk9CY3E3Y2lEY1VOZ2txYTRHOA?oc=5\" target=\"_blank\"...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0l6UllaNWstdHV3YXVHY3FsaTV6blctcjJ2aDl5dnNwZF9OOFdrRXM5RlN6bUYzU2ZnTGU1bndLek5kTDFTWG1LZUFuamZLbFUwUmJiMDF1a21pOFNhcjI2SzdLVHRtWWYzOHVJVl9qMk9CY3E3Y2lEY1VOZ2txYTRHOA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 20:16"
+        "data_noticia": "08/11/2026 21:28"
       }
     },
     {
@@ -504,11 +504,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says return to Iran war 'highly unlikely' if talks advance - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 17:55"
+        "titulo_evento": "Iran gives US two-day diplomacy ultimatum - The Hill",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHpFQnJrS2J5UGR4S3M3SjZIVUJudmE0Rnd2OTVuajlHTmh1T01IUGN0Rk43VXdfRU51Qngxa0V3Q01tSTdTQkozenhjQ0xPUS1YSkFYYzctX3A1Mm5KOUN1aDhwdUNuNnZtdGdMbmpxUXp6SzZGZml5MFVRdXRnMnFxWHhPR2kwR1ZncUZEZVNJc3Fn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHpFQnJrS2J5UGR4S3M3SjZIVUJudmE0Rnd2OTVuajlHTmh1T01IUGN0Rk43VXdfRU51Qngxa0V3Q01tSTdTQkozenhjQ0xPUS1YSkFYYzctX3A1Mm5KOUN1aDhwdUNuNnZtdGdMbmpxUXp6SzZGZml5MFVRdXRnMnFxWHhPR2kwR1ZncUZEZVNJc3FncGfSAZsBQVVfeXFMT0M1d21OTVBXOWpVTkRVZFlieHRJQVA3a3c0akdpV01uUUdnQmpxLXZ1amozeFFtZS1yOFFGdTIwMjFka2RqN3ZBXzd5RkJrdVU4UHpHeDdkY3VsNVhuWlFIOHpGWXhGZWFQWEN4VURtUnduSEFFbU5wTnF0bDZ0NVVvTFdBTjBadC1SQ3dHUmVOd2ZUNXRTVUVQUEU?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "08/11/2026 21:06"
       }
     },
     {
@@ -516,16 +516,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          34.8516,
+          31.0461
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNY...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+        "titulo_evento": "Israel prepared for US strike on Iran, but Donald Trump held off - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5GallITURTbUFkN1FiTHJHWFpQU2wxaWg1UzNBa0ctUkxvNENtU095bTV5M0IwU0s0ZkhWenNVWlUzYXBhMXVrTWNyTVVoaVN3dlkyS1ZmdnlPZGN2anVzR0pPY1Zyb096b3c?oc=5\" target=\"_blank\">Israel prepared for US strike on I...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GallITURTbUFkN1FiTHJHWFpQU2wxaWg1UzNBa0ctUkxvNENtU095bTV5M0IwU0s0ZkhWenNVWlUzYXBhMXVrTWNyTVVoaVN3dlkyS1ZmdnlPZGN2anVzR0pPY1Zyb096b3c?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 18:58"
+        "data_noticia": "08/11/2026 21:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5\" target=\"_blank\">Tesla Annou...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 22:45"
       }
     },
     {
@@ -543,23 +560,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3ZDQVRkb2xkOXBFRGxhYk1qOWxlbmVUSnNSTG9lQ0sycG5yQlpNSzZSZmxkamR4SDFhdjNmbW5XdEtacnJFbzRNa1AxN0w4dkhIRGp3RWtGcjA3N2V3T1RDeENFa0hpQzQ4WVVqQ3o1Vm9oZ2M1eEZUaExFRDdGZ29mTkRoTnA1MGJtcVdLRTZjSy1IZ3NjN1l5ZkppUUUtVVpIeVFIT09hSDJORXZXa0ZDcHQxcUVER2xxMQ?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "08/11/2026 18:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iraq says it lost $60b from Iran war, reaches understandings with US on Hormuz oil route - The Jerusalem Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5\" target=\"_blank\">Iraq says it lost $60b from Iran war, reaches underst...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 19:43"
       }
     },
     {
@@ -589,11 +589,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Hacked Records Show 400,000 Russians Killed in War on Ukraine - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1NnNTdWOTdCT2lPOXg3dlU1V3EtSmlfcDhGdHUwZUpuNmVvcFN5dHFOUkZkZkpvM3lmeG1ab2YtLWxiNWtyMFd0WVo4eVpzZTJSb2RBWk40MkkycHU4ZFoyMGtraTVFc0g0cEF5Smg5b2d4OThHX3U4dkFyT2RLMW9zSUFDMHRyNE1NVDV4Qml4SURF...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1NnNTdWOTdCT2lPOXg3dlU1V3EtSmlfcDhGdHUwZUpuNmVvcFN5dHFOUkZkZkpvM3lmeG1ab2YtLWxiNWtyMFd0WVo4eVpzZTJSb2RBWk40MkkycHU4ZFoyMGtraTVFc0g0cEF5Smg5b2d4OThHX3U4dkFyT2RLMW9zSUFDMHRyNE1NVDV4Qml4SURFbDlfOUU3VHZzWWppaVlWd3FuOGJjXzlZQWRQN1p3?oc=5",
+        "titulo_evento": "Ukraine’s new frontier: how space has become critical to balance of the war - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZpTkpTUFloaEYzNGFPNzJ4NW1yZVNRbVlKTU1mcmxNMW4xc3k5ZnBHTVRaODI5S0ZzWjNQWmEycktDSUlERjhMU1pYb0lNRThfM1lsejBYOXpVNkFaUGxQTmRWUGE1dDhadU5yVDBDT0xvZUFLbGtZQWRCSlZNdS1RNEdsMWt4ZzZ4UEFXa0ZJcjE1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZpTkpTUFloaEYzNGFPNzJ4NW1yZVNRbVlKTU1mcmxNMW4xc3k5ZnBHTVRaODI5S0ZzWjNQWmEycktDSUlERjhMU1pYb0lNRThfM1lsejBYOXpVNkFaUGxQTmRWUGE1dDhadU5yVDBDT0xvZUFLbGtZQWRCSlZNdS1RNEdsMWt4ZzZ4UEFXa0ZJcjE1OENicm1xbXhTZG8?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 16:45"
+        "data_noticia": "08/11/2026 16:42"
       }
     },
     {
@@ -601,16 +601,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Ukraine’s new frontier: how space has become critical to balance of the war - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZpTkpTUFloaEYzNGFPNzJ4NW1yZVNRbVlKTU1mcmxNMW4xc3k5ZnBHTVRaODI5S0ZzWjNQWmEycktDSUlERjhMU1pYb0lNRThfM1lsejBYOXpVNkFaUGxQTmRWUGE1dDhadU5yVDBDT0xvZUFLbGtZQWRCSlZNdS1RNEdsMWt4ZzZ4UEFXa0ZJcjE1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZpTkpTUFloaEYzNGFPNzJ4NW1yZVNRbVlKTU1mcmxNMW4xc3k5ZnBHTVRaODI5S0ZzWjNQWmEycktDSUlERjhMU1pYb0lNRThfM1lsejBYOXpVNkFaUGxQTmRWUGE1dDhadU5yVDBDT0xvZUFLbGtZQWRCSlZNdS1RNEdsMWt4ZzZ4UEFXa0ZJcjE1OENicm1xbXhTZG8?oc=5",
+        "titulo_evento": "Iran threatens to ‘rain down hell’ if US escalates war - Al Jazeera",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUz...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGY4UThBZ2p5aG5CeVd1RWktVFhWbjVMUGJmaEZmdWdkLXpFa3dfcW1PRkZlcUJvLWFBbU1lc05NbmVTT2I1bDB3M1M4Rzg5VkxleDJJNkRZNlJPRHFrOFQxYkxZdzVRY29lR1hZY09oUko3Y2pUZGlqdG42Y2lIZ1lEWDQ1dlRSMXFoTnFTczZvclUzclMxNtIBngFBVV95cUxNNnV4cG5GTnQ4SmJXeWxmV1pXY0pQRDQyZWwtcWVFYnhPRHNsQ2VIRnhVZlhybWdObWVreUNJSGU1UzIzdHcxU2RkU3B5WFVHVHFrUFprNkthQ2JQaWNPMm1ET3ZKNTd2eW5wTkFDOC1GSDJpemZWelk4ZlhCaWdVUWdBRWx3TkFiWUd1OVlCTWktODJlNkVya1BmZDVTdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 16:42"
+        "data_noticia": "08/11/2026 20:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes - Fox News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFjY1UwcWdiOGlGSXgyQlZZakp5clRWaDZZeTUtay1ndlRWMTFUU3hSbGtVWFFUWERkN1VRVlByaXlRUGhlSWJQa09VSnNrUlRIYWpqWjhGZ0xEUXJKU3V0MXRHbGE5SVk1dHNWcTI1a0NlWlhHTEo0dHJHMXlrUDN5YVltc19XWVRBWDJLYVI5ZWVR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFjY1UwcWdiOGlGSXgyQlZZakp5clRWaDZZeTUtay1ndlRWMTFUU3hSbGtVWFFUWERkN1VRVlByaXlRUGhlSWJQa09VSnNrUlRIYWpqWjhGZ0xEUXJKU3V0MXRHbGE5SVk1dHNWcTI1a0NlWlhHTEo0dHJHMXlrUDN5YVltc19XWVRBWDJLYVI5ZWVRZVl4RndYd2ZpdFA3bzVROURqS1ZFeXlv0gGyAUFVX3lxTE1OQmZMZjJrSEsxcXQ4WDlPUUlmZkVRcVBmaTRMdGQwTWRLM09EQ0dqSk5aWWhuZnRvVXFNNjVFZ1M4OFdHT3k4UkJpMS1Tc2dNQnVoc1RMbVdydWRzZHRsVmRfNVZjZDIwNmNoTDZkOHpSN3c4UV9KY3FFWU9panRjZm05WTEtb3RxdVFuRi1XVVBNTDVkLUlMdGlwc2o1QzBDQjFaNjVHaktKSE1GUk5VUEE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 23:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5\" target=\"_blank\">Here Are the ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IMC1KVG9Ya3lRLXhObVBSYWJLeFNxY0ZRMUpUUnZKQ0FOSlNyNGFyeWNmU0c2elJoOXlGWDhuOExCVzdhWnFGRlp5UjdFN2M5d1d6Mlh3WVZKUXZXaWdfZW5PdjNkLURJa21TTk1iaFZnQW5nY0p1M0hB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 23:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iraq says it lost $60b from Iran war, reaches understandings with US on Hormuz oil route - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5\" target=\"_blank\">Iraq says it lost $60b from Iran war, reaches underst...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "08/11/2026 19:43"
       }
     },
     {
@@ -640,28 +691,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
+        "titulo_evento": "Rubio says Trump’s war against Iran not ‘necessarily popular’ but needed to stop a nuclear threat - WTOP News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkRnVVctZXUwN1dOcWg2ZjJpblVBakF6ZzBDaUZHbVJSUEVUek1mWjdLWFJxWmVtWnhTMUVhSUZYTkxQNmVsWVJDR1Ayc1c5SEpWUFIyMFVUNDdIelVsM29UTWVIaUxhZURBTDNmNlJ6bGt4QXVwd2dwSm8ydnh1SjdMNi1xbkc2SG1sN05HNnFycWxn...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkRnVVctZXUwN1dOcWg2ZjJpblVBakF6ZzBDaUZHbVJSUEVUek1mWjdLWFJxWmVtWnhTMUVhSUZYTkxQNmVsWVJDR1Ayc1c5SEpWUFIyMFVUNDdIelVsM29UTWVIaUxhZURBTDNmNlJ6bGt4QXVwd2dwSm8ydnh1SjdMNi1xbkc2SG1sN05HNnFycWxnSlJta1EyY2JXa0ZzME5RR0lGRDgxQ3BCNC02d2xKNTdnVEFtN0FudF9rMW9Ic2VjYWtUeA?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 18:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Trump’s Clashing Advisers Press Him to Make Iran War Decision - WSJ",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 11:31"
+        "data_noticia": "09/11/2026 00:06"
       }
     },
     {
@@ -674,28 +708,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war - Euronews.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZaVm41dTBkUFJ6TWN6X1g5ZWl3bXduODlLc2tNSXhVUQ?oc=5",
+        "titulo_evento": "Hacked Records Show 400,000 Russians Killed in War on Ukraine - Bloomberg",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1NnNTdWOTdCT2lPOXg3dlU1V3EtSmlfcDhGdHUwZUpuNmVvcFN5dHFOUkZkZkpvM3lmeG1ab2YtLWxiNWtyMFd0WVo4eVpzZTJSb2RBWk40MkkycHU4ZFoyMGtraTVFc0g0cEF5Smg5b2d4OThHX3U4dkFyT2RLMW9zSUFDMHRyNE1NVDV4Qml4SURF...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ1NnNTdWOTdCT2lPOXg3dlU1V3EtSmlfcDhGdHUwZUpuNmVvcFN5dHFOUkZkZkpvM3lmeG1ab2YtLWxiNWtyMFd0WVo4eVpzZTJSb2RBWk40MkkycHU4ZFoyMGtraTVFc0g0cEF5Smg5b2d4OThHX3U4dkFyT2RLMW9zSUFDMHRyNE1NVDV4Qml4SURFbDlfOUU3VHZzWWppaVlWd3FuOGJjXzlZQWRQN1p3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 17:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Can the Transition to Clean Energy Survive the War in Iran? - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5\" target=\"_blank\">Can the Transitio...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 15:39"
+        "data_noticia": "08/11/2026 16:45"
       }
     },
     {
@@ -708,11 +725,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says - Fox News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDBMV0tsUnFseG8xTDJJSEhIVzViU0FRNHlObFJpVF9lUkZOT1pEQ3M2YUJSenc3WUxGWVc4MGtlMTl6U2lnVGpiYm9mTlBhWWxWZEZyMWJtSlJQMUh3Y3g5d2d2VWMtaF9qcG04a3JGQmNCdXlkRFpDMGpNVmJzSFZ0TjRRLWJIZ19HMVEzN0xBUTVa...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDBMV0tsUnFseG8xTDJJSEhIVzViU0FRNHlObFJpVF9lUkZOT1pEQ3M2YUJSenc3WUxGWVc4MGtlMTl6U2lnVGpiYm9mTlBhWWxWZEZyMWJtSlJQMUh3Y3g5d2d2VWMtaF9qcG04a3JGQmNCdXlkRFpDMGpNVmJzSFZ0TjRRLWJIZ19HMVEzN0xBUTVaLXF6bEd3QjPSAaIBQVVfeXFMT1JLRGRQTE9DZWU2dnUzUHJYTnA5cHhSeHdsbUJNOFc3T3hwUzJPaXRzUEtOVzZkanBOV2tGQ0FwM203Y2JmWmNaZm1rV2NyVFdjc1c2QlY0OHlza1c1U1dtclRReU5EbjZFWXMwaVc0RXF5VjcweVJyakNIOVBoRmI4TmhiUEd0d3MtZXZNSFVLVUZTR1ZrY3ZpZGpGSUZVUjNn?oc=5",
+        "titulo_evento": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 15:13"
+        "data_noticia": "08/11/2026 18:00"
       }
     },
     {
@@ -720,33 +737,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -63.6167,
+          -38.4161
         ]
       },
       "properties": {
-        "titulo_evento": "Marietta-raised Tyler Feehan was the 16th casualty in the Iran war. His family wants you to know how he lived. - Atlanta Magazine",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVU5QUp6aU8wajlOU2RoQzdKcnhEeU80NjRCWjFleWpWc3Q5amhWbDRNRnNoYW1vcE1SZURMRXprS1FwbF90WmdCTlFyZ2FHbzk5Xzd3Z1ZaS0NUZDZac2VPOU9ZcEs2MkhSeHdrcUc3Q1I4Vkx3am1tNUdjcDdBZmIwcDRreEEyTm9HdlZ0M1hPUHFt...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLVU5QUp6aU8wajlOU2RoQzdKcnhEeU80NjRCWjFleWpWc3Q5amhWbDRNRnNoYW1vcE1SZURMRXprS1FwbF90WmdCTlFyZ2FHbzk5Xzd3Z1ZaS0NUZDZac2VPOU9ZcEs2MkhSeHdrcUc3Q1I4Vkx3am1tNUdjcDdBZmIwcDRreEEyTm9HdlZ0M1hPUHFtX3p0NWh6X1dLc1ZzeTcycW5xNUZmOVV0NEFUbnA3aEF1V0NLSU5qRHVYdmhadXZPYUIzUXc0WjlZQUE5U3FmRUgxUG82bmV3ODJaYVdIOTA1d3c2?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 20:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5\" target=\"_blank\">Tesla Annou...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQNzhsUk9VMGxqSXoxRUJqbURmWjdsbmlPYjZWOTV2Y05hdnlaYTBiMjJoS2tZT1VDUER0TUVSYUtaN3J6bng1UkQ5c1Z0QmM0WGpsaUdzT1RoTDVxdmVsT2g3UEthYW5ueDRFRzhFZFY3UWVQaWt3d2FZUQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "08/11/2026 18:31"
+        "titulo_evento": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first - PBS",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWk3ZXVtLWZTelVkcFFFTlJlZlJSc3JFUkZLMkNHUHBKLUNON0g4eElHa3RvbmF6bmFHdF9HeW5yeGtRN3gzV21LUmY0aE4tRUxmaHIwc2ZkRXF4dzZHNDdLelVIR3Npd2lJbW84bi0zZ2FzTWVoV0J2c2hTZXdlM016TFc1ekI0WG1PYklfOUNxbWlQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWk3ZXVtLWZTelVkcFFFTlJlZlJSc3JFUkZLMkNHUHBKLUNON0g4eElHa3RvbmF6bmFHdF9HeW5yeGtRN3gzV21LUmY0aE4tRUxmaHIwc2ZkRXF4dzZHNDdLelVIR3Npd2lJbW84bi0zZ2FzTWVoV0J2c2hTZXdlM016TFc1ekI0WG1PYklfOUNxbWlQS3dzYThoTUZGYkU4WXVyYVFuUEdOVXlpQkRiOERWMkM3UFgwV2VNYUg5c9IBxAFBVV95cUxPd3lYdFI2RGY2VGVqLWRyUnZ1Yk5ZRlUtUDA4NE1BS1VDSUZpVVp2RkVoV1JVTFpmb01ScWxHdnJaSE5jeDZ0dll2SWtoeGhseVdjMm1rUTZ2SGs2QUhhaFNSVVc0a2piQkR2anpVb05mZkpNekpUNFR2MXlMVDBqRE5VSEF6Qk8zRXJMOHdjUFhxZzZ6WFdXOFRjZHpDSjhBejU5azF6X1BpR3VSLVpnR2lWSkxDR3luaDQzMms1bGltNDNJ?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "08/11/2026 22:42"
       }
     },
     {
@@ -771,16 +771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Why China matters to the global economy, according to former French PM - Modern Ghana",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tVVdXUjFlckJmRF9VV2tlV2tTRDZyNXZ4V25JbHBqRkRvb1FqUTVuU0Q1ZzNVakI2X21IaW9hYlI1dTdGOXFyaGZFUUFqaXlmNTM3UWFYcDNudWFfQ2NidtIBXEFVX3lxTE9sanlITnlQVEtwa1ppMFN6NHg2a3gybUhYYzZCcFhtSzBwQ1lFV3lVOVVs...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tVVdXUjFlckJmRF9VV2tlV2tTRDZyNXZ4V25JbHBqRkRvb1FqUTVuU0Q1ZzNVakI2X21IaW9hYlI1dTdGOXFyaGZFUUFqaXlmNTM3UWFYcDNudWFfQ2NidtIBXEFVX3lxTE9sanlITnlQVEtwa1ppMFN6NHg2a3gybUhYYzZCcFhtSzBwQ1lFV3lVOVVsNEZOcjd4X2MzandvQk9vMFgtc01RR0hnanlSZ2Z3VFNxVmQ5U0VOM0p6?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/11/2026 15:00"
+        "titulo_evento": "Oil Prices Fall as Trump Rules Out Fresh Iran Attacks - Global Banking & Finance Review",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3lGS0dpRmJBYjJ3blc5YkVtNHRqb3Fib2dCRmNqcVg0RkNUR0NKcFJ2WF9oTnM2cXp5aHVqcDZUNXhHOFVHX2RRR0lnTVdmeEh1bnlVa3pCSGxsRWdzVkc0dnFCclRnR1EycGczYllaUHY3NWNVLW1xOW9NVHBrYkNEdVRpdGVVd0lfV3lsaEFxa1k?...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3lGS0dpRmJBYjJ3blc5YkVtNHRqb3Fib2dCRmNqcVg0RkNUR0NKcFJ2WF9oTnM2cXp5aHVqcDZUNXhHOFVHX2RRR0lnTVdmeEh1bnlVa3pCSGxsRWdzVkc0dnFCclRnR1EycGczYllaUHY3NWNVLW1xOW9NVHBrYkNEdVRpdGVVd0lfV3lsaEFxa1k?oc=5",
+        "categoria": "Defesa/Conflito (Google News Markets)",
+        "data_noticia": "08/11/2026 23:53"
       }
     },
     {
@@ -805,16 +805,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.7129,
-          37.0902
+          104.1954,
+          35.8617
         ]
       },
       "properties": {
-        "titulo_evento": "Eskimoz Expands International GEO Strategy to Help Brands Strengthen AI Search Visibility Across Markets - USA Today",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSUNrVWlsRzV6TGRrUlVJdE1uMWJieVhSbWZ2MWU1cTdESUVid0V5c3pZbGhkRm1Oald6TzhEM2xxUjdMNTVHdXROUzBfQ2RFTnpGdkFEbmlyU29rMkJwRjNiaVhYQWs1Q0JHR0paaTZHZXMyMXB6dzhJQ0EyQ3A1VnJLLTNTcmZhOUdlYVhRQUR3cHNT...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSUNrVWlsRzV6TGRrUlVJdE1uMWJieVhSbWZ2MWU1cTdESUVid0V5c3pZbGhkRm1Oald6TzhEM2xxUjdMNTVHdXROUzBfQ2RFTnpGdkFEbmlyU29rMkJwRjNiaVhYQWs1Q0JHR0paaTZHZXMyMXB6dzhJQ0EyQ3A1VnJLLTNTcmZhOUdlYVhRQUR3cHNTc2NUWF9sbFpMWFAwc3NURXlERGJERzA2ejJoTWRBdkVlVWNXUW1XWThNRkVYRTNMNnI5R3B3QWZkS1FqNUVEUDhDSGwyM0F2THVWZjY0QWZmUklaVkI4Tw?oc=5",
+        "titulo_evento": "Why China matters to the global economy, according to former French PM - Modern Ghana",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tVVdXUjFlckJmRF9VV2tlV2tTRDZyNXZ4V25JbHBqRkRvb1FqUTVuU0Q1ZzNVakI2X21IaW9hYlI1dTdGOXFyaGZFUUFqaXlmNTM3UWFYcDNudWFfQ2NidtIBXEFVX3lxTE9sanlITnlQVEtwa1ppMFN6NHg2a3gybUhYYzZCcFhtSzBwQ1lFV3lVOVVs...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tVVdXUjFlckJmRF9VV2tlV2tTRDZyNXZ4V25JbHBqRkRvb1FqUTVuU0Q1ZzNVakI2X21IaW9hYlI1dTdGOXFyaGZFUUFqaXlmNTM3UWFYcDNudWFfQ2NidtIBXEFVX3lxTE9sanlITnlQVEtwa1ppMFN6NHg2a3gybUhYYzZCcFhtSzBwQ1lFV3lVOVVsNEZOcjd4X2MzandvQk9vMFgtc01RR0hnanlSZ2Z3VFNxVmQ5U0VOM0p6?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/11/2026 07:34"
+        "data_noticia": "08/11/2026 15:00"
       }
     },
     {
@@ -822,16 +822,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.1954,
-          35.8617
+          -3.436,
+          55.3781
         ]
       },
       "properties": {
-        "titulo_evento": "China becoming key source of innovation for global markets, says executive of German firm - People's Daily Online",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QaXRQZUM1Ykh0Mm5leTVlRWhNVzJDUnhEREdhLW5WUVhmdDNzMzJGc3laZkNlQUh5aVo3LV9YeWFIWEQwTEdVVDYzNTJvZ09Ma1pkZ0o5d01aMG5JbHJiR3B0c1I?oc=5\" target=\"_blank\">China becoming key source of innovation fo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QaXRQZUM1Ykh0Mm5leTVlRWhNVzJDUnhEREdhLW5WUVhmdDNzMzJGc3laZkNlQUh5aVo3LV9YeWFIWEQwTEdVVDYzNTJvZ09Ma1pkZ0o5d01aMG5JbHJiR3B0c1I?oc=5",
+        "titulo_evento": "UK Government Set to Cut 2030 EV Sales Target to 60% – Report - Global Banking & Finance Review",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOd19mNlhUUnJPcWExMGVHVHM3dmhsWUdicnRQVTlLSENXdC1qNDlER2ZpOUhub2szS1ZINVZTX09lQ2FhTVFKWlE2M3Y0b3hHR3VRMHZkYjdvNnFrcFVjb2FNLWJxbGNIQUdmT0JfR0Z1c25seTFpVk1QNktIYXo3SGswS2hQSFQ2eG5YbnE3WjBvQWlK...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd19mNlhUUnJPcWExMGVHVHM3dmhsWUdicnRQVTlLSENXdC1qNDlER2ZpOUhub2szS1ZINVZTX09lQ2FhTVFKWlE2M3Y0b3hHR3VRMHZkYjdvNnFrcFVjb2FNLWJxbGNIQUdmT0JfR0Z1c25seTFpVk1QNktIYXo3SGswS2hQSFQ2eG5YbnE3WjBvQWlKMHBXNUdURWhXdGZPM0E?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "08/11/2026 01:26"
+        "data_noticia": "08/11/2026 23:29"
       }
     }
   ]
