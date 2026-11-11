@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US soldier arrested in UK for suspected ‘espionage’ for Russia",
+        "descricao": "A senior U.S. soldier was arrested in Britain on suspicion of assisting Russian ​intelligence, British police said on Tuesday.",
+        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+        "categoria": "Política (Defense News)",
+        "data_noticia": "10/11/2026 21:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
+        "descricao": "A new Reuters/Ipsos poll found that 71% of Americans want Congress to pass legislation ending the conflict with Iran.",
+        "url_fonte": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+        "categoria": "Defesa/Conflito (Defense News)",
+        "data_noticia": "10/11/2026 19:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           37.6173,
           55.7558
         ]
@@ -16,23 +50,6 @@
         "url_fonte": "https://www.defensenews.com/global/mideast-africa/2026/11/10/report-russian-ships-are-pumping-tanks-mraps-and-rocket-launchers-into-africa/",
         "categoria": "Defesa/Conflito (Defense News)",
         "data_noticia": "10/11/2026 15:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France orders military Earth-observation satellites for more than €1.5 billion",
-        "descricao": "France ordered two military Earth-observation satellites from Airbus and Thales Alenia Space for more than €1.5 billion (US$1.7 billion).",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "10/11/2026 11:13"
       }
     },
     {
@@ -108,6 +125,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+        "descricao": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+        "url_fonte": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "11/11/2026 00:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US House Republicans block Pete Hegseth impeachment effort",
+        "descricao": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/11/2026 22:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US soldier arrested in UK on suspicion of spying for Russia",
+        "descricao": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.  ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/11/2026 20:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+        "descricao": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+        "categoria": "Economia (Al Jazeera)",
+        "data_noticia": "10/11/2026 20:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+        "descricao": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "10/11/2026 20:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
@@ -130,130 +232,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Spain braces for nationwide strike as anger over housing, costs boils over",
-        "descricao": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 18:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US petrol prices are down, but elevated inflation continues",
-        "descricao": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 17:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-        "descricao": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 17:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-        "descricao": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "10/11/2026 16:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-        "descricao": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 15:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Positive momentum’: Is the US war on Iran about to end?",
-        "descricao": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 15:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-        "descricao": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "10/11/2026 15:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hegseth impeachment: What is he accused of, and could he be removed?",
-        "descricao": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "10/11/2026 14:45"
+        "titulo_evento": "Spain's king and queen attend memorial service for rail crash victims",
+        "descricao": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+        "categoria": "Política (BBC World)",
+        "data_noticia": "10/11/2026 20:46"
       }
     },
     {
@@ -312,16 +295,84 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1656,
-          48.3794
+          2.2137,
+          46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-        "descricao": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.\n",
-        "url_fonte": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-        "categoria": "Defesa/Conflito (BBC World)",
-        "data_noticia": "10/11/2026 18:35"
+        "titulo_evento": "Teddy Riner candidacy 'illustrative of this hunger for an alternative' to Le Pen or Mélenchon",
+        "descricao": "\nAs Teddy Riner throws his hat in the race for the French presidency, amid France's sociopolitical and economic crises.\n \nFrançois Picard is pleased to welcome Lex Paulson, Director of Executive Programs at UM6P School of Collective Intelligence at a...",
+        "url_fonte": "https://www.france24.com/en/video/20261110-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/11/2026 23:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+        "descricao": "\nAs the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivoca...",
+        "url_fonte": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/11/2026 21:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+        "descricao": "\nErin Ogunkeye is pleased to welcome Rafe Pilling, Director of Threat Intelligence in the Sophos Counter Threat Unit (CTU). How can a minor cyber intrusion disrupt food supplies, expose the weaknesses of industrial infrastructure and become an instru...",
+        "url_fonte": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/11/2026 21:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+        "descricao": "\nUK police arrested a senior member of the US Army on Tuesday on suspicion of assisting Russian intelligence, adding that the arrest was not related to other counter-terror investigations. The 41-year-old man was detained near the city of Gloucester,...",
+        "url_fonte": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+        "categoria": "Política (France 24)",
+        "data_noticia": "10/11/2026 20:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "What the hack? Europeans face growing psyops and cyberattacks",
+        "descricao": "\nSo this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran’s ambassador over last month’s hacking of hundreds of supermarket refrigerators that overheated, 15 of which even caught fire. Why now at a time wh...",
+        "url_fonte": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "10/11/2026 20:19"
       }
     },
     {
@@ -499,108 +550,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Israel live: Netanyahu bloc targets Arab lawmakers as new parliament is sworn in",
-        "descricao": "\nTensions ran high at the first session of Israel's new parliament on Tuesday as rival camps traded barbs over the possibility of ruling with the support of Arab lists. The party of opposition leader Gadi Eisenkot, who has been tasked with forming a ...",
-        "url_fonte": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/11/2026 14:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Pentagon chief Pete Hegseth calls move to impeach him 'sabotage'",
-        "descricao": "\nUS Defense Secretary Pete Hegseth on Tuesday called ​moves to impeach him over abuse of power in the Iran war a \"farce\" that ​would ‌fail. The Pentagon chief slammed the move as a \"political spectacle\" by an outgoing congressional opponent of Presid...",
-        "url_fonte": "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/11/2026 13:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-        "descricao": "\nThree-way talks between Russia, Ukraine and the US opened Tuesday, November 10, in the United Arab Emirates, as Washington made another push to end the war. The two-day session in Abu Dhabi is the first such meeting since February. It will focus on ...",
-        "url_fonte": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/11/2026 13:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "French students block dozens of schools, vow more protests",
-        "descricao": "\nFrench students blocked the entrances to dozens of high schools on Tuesday, November 10, as they kept up protests for better learning conditions. These protests across France have spiraled into larger cost-of-living demonstrations in recent weeks, s...",
-        "url_fonte": "https://www.france24.com/en/video/20261110-french-students-block-dozens-of-schools-vow-more-protests",
-        "categoria": "Política (France 24)",
-        "data_noticia": "10/11/2026 13:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-        "descricao": "\nThree-way talks between Russia, Ukraine and the United States opened Tuesday in the United Arab Emirates, as Washington made a renewed push to end the war that followed Moscow's invasion of its neighbour nearly five years ago. As these two days of t...",
-        "url_fonte": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/11/2026 11:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
-        "descricao": "\nIsrael's new parliament will be sworn on Tuesday, November 10, with Prime Minister Benjamin Netanyahu set to lose his majority as rival Gadi Eisenkot works to form a new government. The opposition hopes to use its newfound legislative power to move ...",
-        "url_fonte": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "10/11/2026 11:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
@@ -720,16 +669,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.3188,
-          61.524
+          19.1451,
+          51.9194
         ]
       },
       "properties": {
-        "titulo_evento": "Norway's ice hockey team says Russia replacing it at World Juniors",
-        "descricao": "The wrangling over Russia's return to international ice hockey continues, with Norway saying it has been kicked out of the next major tournament to accommodate Russia. Switzerland has joined a \"boycott.\"",
-        "url_fonte": "https://www.dw.com/en/norway-s-ice-hockey-team-says-russia-replacing-it-at-world-juniors/a-79901844?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Política (DW (Alemanha/UE))",
-        "data_noticia": "09/11/2026 16:02"
+        "titulo_evento": "Poland says Pentagon backs permanent US base, with Trump decision due in December",
+        "descricao": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
+        "url_fonte": "https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "10/11/2026 20:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Brussels takes on the evils of online commerce",
+        "descricao": "The EU is proposing new rules that would fine companies that use manipulative online tactics like \"dynamic pricing\" and \"addictive design\" to lure consumers to buy and pay more.",
+        "url_fonte": "https://www.politico.eu/article/brussels-takes-on-the-evils-of-online-commerce-digital-fairness-act-commission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Política (Politico Europe)",
+        "data_noticia": "10/11/2026 19:45"
       }
     },
     {
@@ -754,6 +720,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.2245,
+          39.3999
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Portugal slams Rutte for ‘regrettable’ claim that Lisbon downplays Russian threat",
+        "descricao": "Portugal&#8217;s foreign ministry on Tuesday slammed Mark Rutte after the NATO chief said that for Lisbon, Russia was a distant and less relevant threat. &#8220;Portugal, its Government and its people have never been in any doubt about which side of ...",
+        "url_fonte": "https://www.politico.eu/article/portugal-slams-rutte-for-regrettable-claim-that-lisbon-downplays-russian-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "categoria": "Defesa/Conflito (Politico Europe)",
+        "data_noticia": "10/11/2026 18:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.7038,
           40.4168
         ]
@@ -764,74 +747,6 @@
         "url_fonte": "https://www.politico.eu/article/5-ways-spain-conservatives-new-course-pp-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Política (Politico Europe)",
         "data_noticia": "10/11/2026 17:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran denies role in cyberattacks on French supermarket refrigerators",
-        "descricao": "Paris pointed the finger at Tehran for the attacks on Monday.",
-        "url_fonte": "https://www.politico.eu/article/iran-denies-role-in-cyberattacks-on-supermarket-refrigerators/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "10/11/2026 15:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Merz clashes with Fico over German bid to link EU budget and Ukraine loan",
-        "descricao": "The Slovak prime minister lambasted the German chancellor's proposal as \"blackmail.\"",
-        "url_fonte": "https://www.politico.eu/article/merz-clashes-with-fico-over-german-bid-to-link-eu-budget-and-ukraine-loan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Política (Politico Europe)",
-        "data_noticia": "10/11/2026 14:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Europe and US agree to review postwar continental security as Ukraine talks begin ",
-        "descricao": "The Abu Dhabi meetings open with an agreement between the U.S. and EU to look at a new security structure for Europe when Russia's war on Ukraine ends. ",
-        "url_fonte": "https://www.politico.eu/article/europe-and-u-s-agree-to-review-post-war-continental-security-as-ukraine-peace-talks-begin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "10/11/2026 12:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "US military aircraft pulled from second UK base after ‘Iran threat’",
-        "descricao": "Bombers were withdrawn from RAF Fairford in October after an Iran-linked security incident.",
-        "url_fonte": "https://www.politico.eu/article/us-military-aircraft-pulled-from-second-uk-base-after-iran-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-        "categoria": "Defesa/Conflito (Politico Europe)",
-        "data_noticia": "10/11/2026 11:48"
       }
     },
     {
@@ -878,28 +793,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+        "titulo_evento": "Iran unveils new underground 'missile city': What to know - Al-Monitor",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlU1a2YtQm5WVXBXQi1BenJZY2FZRjJ6UXZnWWhQM2xXcUZLbWd5MzZkV1MtVzBhcE1Hc3BGV1FOWXV3RXZmWF9kOHJRSG82eC1PY3pWaElzaXI4RFQxTGdQSXdhVDBqdk9KcUVXZjJMUll6NS02TFFxRDFpNmxCUDZjZUhNTGkxN3ZCUkV6NXJpOUVW...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVlU1a2YtQm5WVXBXQi1BenJZY2FZRjJ6UXZnWWhQM2xXcUZLbWd5MzZkV1MtVzBhcE1Hc3BGV1FOWXV3RXZmWF9kOHJRSG82eC1PY3pWaElzaXI4RFQxTGdQSXdhVDBqdk9KcUVXZjJMUll6NS02TFFxRDFpNmxCUDZjZUhNTGkxN3ZCUkV6NXJpOUVWeWZGMjZDYk8?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 16:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0369,
-          38.9072
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Opinion | What a child’s compliment tells me about Pete Hegseth - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDRZQUdqakdhUk9CSlBPaUFudmc3T0loa2VQQzNMYU5HSVRMLXlQQ1BBMFZGTFhCVHdyX2Z2V0xEMDJXWGN4c2FwUEZscHNjemhyYnI3akdsZ3N4a3NhVkN6YWlYU3puVmdzeVJ5WEJpczBFMnFvUG5mVjc3dHVtb2JsZVp5a0NkUW9ZdHRxSElnUVdG...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDRZQUdqakdhUk9CSlBPaUFudmc3T0loa2VQQzNMYU5HSVRMLXlQQ1BBMFZGTFhCVHdyX2Z2V0xEMDJXWGN4c2FwUEZscHNjemhyYnI3akdsZ3N4a3NhVkN6YWlYU3puVmdzeVJ5WEJpczBFMnFvUG5mVjc3dHVtb2JsZVp5a0NkUW9ZdHRxSElnUVdGcVl4TTFCTC15RzBZSmt3djZnSnJPSDZmS2JNM0c1UTZrYVhD?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "10/11/2026 19:07"
+        "data_noticia": "10/11/2026 20:52"
       }
     },
     {
@@ -912,113 +810,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Pete Hegseth decries impeachment push, defends Iran war handling - CNBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5\" target=\"_blank\">Pete He...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5",
+        "titulo_evento": "Iran unveils massive underground 'missile city' as IRGC warns of violent global response - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZ2hWZFczbk9GU3kycks2NkpVSHBGZlpoMGdVejY4TWphRHJzc25jVG9nMGxIOWN3Q0hScXdFT1gwcEhiTU85ZW9rcm5BZ0hyampSclVJZ3Zjc082SnNWYWtBSm5sQmtUTlE?oc=5\" target=\"_blank\">Iran unveils massive underground '...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZ2hWZFczbk9GU3kycks2NkpVSHBGZlpoMGdVejY4TWphRHJzc25jVG9nMGxIOWN3Q0hScXdFT1gwcEhiTU85ZW9rcm5BZ0hyampSclVJZ3Zjc082SnNWYWtBSm5sQmtUTlE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 13:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "U.S. moves military aircraft from British base amid Iran threats - NBC News",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZoUVZOTktwMUlwOHVDUGMxM2NHQkwwWGNEMk5nQnpfWjZSQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 12:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "‘Positive momentum’: Is the US war on Iran about to end? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpK...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 15:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year - The New York Times",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5\" target=\"_blank\">The Ira...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 13:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMVQyQVdJaG5fZmtRMENRcFBfcmN2bVJFdnJKRy12QmlPZEZoSThoZDBGRnBkTGxMY3ZmVTZDN3BQZkdrSWdJa1RQUElKbnNZYmo0S3VTX1JweVRqajBIM0lKa0hJcDQzVWM3N0lCYXpNOG9Td2c?oc=5\" target=\"_blank\">Russia and Ukraine...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMVQyQVdJaG5fZmtRMENRcFBfcmN2bVJFdnJKRy12QmlPZEZoSThoZDBGRnBkTGxMY3ZmVTZDN3BQZkdrSWdJa1RQUElKbnNZYmo0S3VTX1JweVRqajBIM0lKa0hJcDQzVWM3N0lCYXpNOG9Td2c?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "10/11/2026 10:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "More than 12 US military aircraft leave second UK base - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rWUFlai05cVBxWHl3RGF0NWJoWTJ0U0NHV191NXBqMHQyU0pneVFzNkNINjVsRi1MbjVHUlFiX3lDV2VUb2E3eGxUSG4wQVBoTEZpckJIQ3VDbVE?oc=5\" target=\"_blank\">More than 12 US military aircraft leave second UK base...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rWUFlai05cVBxWHl3RGF0NWJoWTJ0U0NHV191NXBqMHQyU0pneVFzNkNINjVsRi1MbjVHUlFiX3lDV2VUb2E3eGxUSG4wQVBoTEZpckJIQ3VDbVE?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 17:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon' - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 12:00"
+        "data_noticia": "10/11/2026 19:09"
       }
     },
     {
@@ -1043,16 +839,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean? - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlwbjdrUEdjam1KLW5ZU2lnaTNqdW50aWtBTkVhclZhUWpQYkpmRnlZQkZ3T0pxcUN3cnItTVBoeXNmOFMtVXFaSVBtcjZtTDZVSTZBaWR3MDltUlFpRFJqMTNRMmdQQWotVExsOW9qY01sWk1nYjZfbUlTeHgzb2pxNXV6ZkxYMnlsb1NSUUV5Q0o0...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXlwbjdrUEdjam1KLW5ZU2lnaTNqdW50aWtBTkVhclZhUWpQYkpmRnlZQkZ3T0pxcUN3cnItTVBoeXNmOFMtVXFaSVBtcjZtTDZVSTZBaWR3MDltUlFpRFJqMTNRMmdQQWotVExsOW9qY01sWk1nYjZfbUlTeHgzb2pxNXV6ZkxYMnlsb1NSUUV5Q0o0Z3NfSXVUWUU3YUNBdHEtRnpvU0x3QnQtMl9QcHdMbzTSAboBQVVfeXFMTVJvNG0zczc4NEIxQndKRHZiRDFhazBsUUFWRWlMM21DR216MXN2SUc4UzhIWDBhbWZRQ1JwYnRWWnlHOGxTS01zckpyNGNzU0J2NV9JYzZ1M2hZalRSd04wX1NyZi1qRWRPdTZXdWh5UmhHU19kOGRibE9idWNsRTBIT2s1a3N4RHVfTlhiSVQ0UnQtMF9DcnMtSGpkQmd3TVE1UFhzTDhjazdUMkRlNlZWbVBIWHVEd2FB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 12:15"
+        "titulo_evento": "Opinion | What a child’s compliment tells me about Pete Hegseth - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDRZQUdqakdhUk9CSlBPaUFudmc3T0loa2VQQzNMYU5HSVRMLXlQQ1BBMFZGTFhCVHdyX2Z2V0xEMDJXWGN4c2FwUEZscHNjemhyYnI3akdsZ3N4a3NhVkN6YWlYU3puVmdzeVJ5WEJpczBFMnFvUG5mVjc3dHVtb2JsZVp5a0NkUW9ZdHRxSElnUVdG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDRZQUdqakdhUk9CSlBPaUFudmc3T0loa2VQQzNMYU5HSVRMLXlQQ1BBMFZGTFhCVHdyX2Z2V0xEMDJXWGN4c2FwUEZscHNjemhyYnI3akdsZ3N4a3NhVkN6YWlYU3puVmdzeVJ5WEJpczBFMnFvUG5mVjc3dHVtb2JsZVp5a0NkUW9ZdHRxSElnUVdGcVl4TTFCTC15RzBZSmt3djZnSnJPSDZmS2JNM0c1UTZrYVhD?oc=5",
+        "categoria": "Política (Google News Military)",
+        "data_noticia": "10/11/2026 19:45"
       }
     },
     {
@@ -1065,11 +861,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Iran lifts 2,000km limit on its ballistic missiles: What that means - Al Jazeera",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1JBQXh0T1UybDBQUDF1ak5UajRqVWdaUjVHY2F0YWtWYlAwLUdFNm16alI4d2dTWG9jNHhBNzVZZUxDemVzSzZKMUNqN2dnM2JVYy1uQm5FQ2dZVkNMM2dINEhFN2hCeWhFaHpaOHgyTVhBd2hvMHI3Z2JIaFh4bnBfajlzVXNKbFpxZWN2SUFYTjFQcWtnZ216OE9mOHgxN2taSGhhWjZzd1nSAbABQVVfeXFMTVRPdWIwbnlsVHJ4aHBmOTNyWFNTbzhmajNIZXFSaUZlQWNneXQ1ZUczTXlMM3NHYXRNaXg3c2E1UEVxNjJwVm9LU2o5TnNTV2pISE9EVC1WU0w5OFdwUTJBRjJXaERTOEQ2SDFVYnhtTDhvUVV0NlBraXFwM1JXeUNNTFhaRTNRTVdKTnVFUWtYVkROelVIZ3U5R2hSSm5WQUVYTFBFSUNYdHJzY3kwZnY?oc=5",
+        "titulo_evento": "Opinion | Iran Doesn’t Think the War Is Over - WSJ",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUlDTi1ReGtJVFFGeGQ5SXNESTF4c2V4SHBnOEdMaUhGQU5aU3M3SENsc3AwcDdJdTROOUcxallQUnlWU3Y0YWxtR2dvOWI0aXFvM3ZTWENpeENRRzJVSXV3YWQ4U2xXQjdmMkNjanpiYi1ZbDJNVnBJMkxTUkRlM3B3?oc=5\" target=\"_blank\">O...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUlDTi1ReGtJVFFGeGQ5SXNESTF4c2V4SHBnOEdMaUhGQU5aU3M3SENsc3AwcDdJdTROOUcxallQUnlWU3Y0YWxtR2dvOWI0aXFvM3ZTWENpeENRRzJVSXV3YWQ4U2xXQjdmMkNjanpiYi1ZbDJNVnBJMkxTUkRlM3B3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "10/11/2026 12:59"
+        "data_noticia": "10/11/2026 22:33"
       }
     },
     {
@@ -1077,16 +873,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8516,
-          31.0461
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Israel emerges as a growing source of capital for global private markets, says Leader Private Capital CEO - CTech",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DVTFXZUJENGZaTVRENWZVbHVZYWJsNFA3bnpJSXlDczRGSUc5VnJQLTBWN0U2MmRxTHJ2YjRQX2RnY2ROamJ1VEZ6cm82bVllamY0NXV2RUVJU0tmQ0REdElraXh3S28?oc=5\" target=\"_blank\">Israel emerges as a growing source of ...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DVTFXZUJENGZaTVRENWZVbHVZYWJsNFA3bnpJSXlDczRGSUc5VnJQLTBWN0U2MmRxTHJ2YjRQX2RnY2ROamJ1VEZ6cm82bVllamY0NXV2RUVJU0tmQ0REdElraXh3S28?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/11/2026 10:39"
+        "titulo_evento": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/11/2026 16:27"
       }
     },
     {
@@ -1094,16 +890,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3468,
-          56.1304
+          53.688,
+          32.4279
         ]
       },
       "properties": {
-        "titulo_evento": "Summary of Governing Council deliberations: Fixed announcement date of October 28, 2026 - Bank of Canada",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYl9sT1NJNHFxb19KMl85RkZEeWFSeGE3WW1pVEJUQTY4Ym04RlZsQTQxeS1Rd0V4QUJyVjVuZHZNYzZDRHVRUE4zMUxvdGpTX1JRN1FzRnpISWZCdEtva1lObjdQX0M4SE9NXzNmNERWS3dxd3dIUlp4djg0dlRQaURMYmN4dU1zR2JiVzZyOXVMVFBy...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYl9sT1NJNHFxb19KMl85RkZEeWFSeGE3WW1pVEJUQTY4Ym04RlZsQTQxeS1Rd0V4QUJyVjVuZHZNYzZDRHVRUE4zMUxvdGpTX1JRN1FzRnpISWZCdEtva1lObjdQX0M4SE9NXzNmNERWS3dxd3dIUlp4djg0dlRQaURMYmN4dU1zR2JiVzZyOXVMVFByZWstT3UzMlZYR0pyZzdnb2dKYkVFU3FRVGVKU0lzSmk2SEFkMGk1OGYzVQ?oc=5",
-        "categoria": "Economia (Google News Markets)",
-        "data_noticia": "10/11/2026 18:31"
+        "titulo_evento": "US, Iran now more likely to reach deal to end war, ex-Mossad official says - The Jerusalem Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9DUUNWTkJZTkJxQllwamZaSGhZZjlXa1BaVzhVWDQyU2hCSklLSUVJNEVIREVxWVlzcFJfVVI4enQtQVdqRmZlQklNTWJJeFU2aU1SY18zVmlsajhLY3kzZjA5SDVOdzBodFE?oc=5\" target=\"_blank\">US, Iran now more likely to reach ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DUUNWTkJZTkJxQllwamZaSGhZZjlXa1BaVzhVWDQyU2hCSklLSUVJNEVIREVxWVlzcFJfVVI4enQtQVdqRmZlQklNTWJJeFU2aU1SY18zVmlsajhLY3kzZjA5SDVOdzBodFE?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/11/2026 18:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Syria Weighs Sending Troops to Aid Saudi War With Houthis - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2F6bl84ZER6M2kweEZJcnk3X3M3emwwdHBtd1o5Zlh2WnRJQXZUSmxObUxFS3hvVW1kaExhZHMweDFuYzdpNFgxTGtUYzRUem1xX1dKV2JKMTI1WE1RYzUwSVFULTJETEhOaV9memI4M2FOTXEzbXBPcW1QN09YaktOR1hXeWhlejlaY28yTnFHTnpm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2F6bl84ZER6M2kweEZJcnk3X3M3emwwdHBtd1o5Zlh2WnRJQXZUSmxObUxFS3hvVW1kaExhZHMweDFuYzdpNFgxTGtUYzRUem1xX1dKV2JKMTI1WE1RYzUwSVFULTJETEhOaV9memI4M2FOTXEzbXBPcW1QN09YaktOR1hXeWhlejlaY28yTnFHTnpmOUV0OVQ2ZXo2eGtzSHRXU3BGUU1ybEVkdUZIR2gwRXg?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/11/2026 16:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Sen. Murray on a potential December government shutdown over the war in Iran - KUOW",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTdZRWVLT2Y0Z0ZuWWtaZndmNlZ5Q1Mzb05fZWdYc0NEbk81SDhwREtlcjBXM3hLbzJTdXVoYTJSVERLSGhRQnBDVjBWbGVNUE1Pb1ZQX21HeTgzZTZYREJOQk1OMXpBQURBa1JuUkw3aUhRWmZpQnFwRG9ld0JsOWZzeDFWaDU5VzhXU0ZfU09TU0hH...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTdZRWVLT2Y0Z0ZuWWtaZndmNlZ5Q1Mzb05fZWdYc0NEbk81SDhwREtlcjBXM3hLbzJTdXVoYTJSVERLSGhRQnBDVjBWbGVNUE1Pb1ZQX21HeTgzZTZYREJOQk1OMXpBQURBa1JuUkw3aUhRWmZpQnFwRG9ld0JsOWZzeDFWaDU5VzhXU0ZfU09TU0hHNExEYnAwb2lyYlA3d1dHTUphUTg3VENPcUVmSFlvdkVBRjFPdTBWZlNmYjNVQQ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "10/11/2026 22:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Productivity is Brazil’s biggest economic challenge, professor says - Valor International",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQU3dtNWpGbXFGR1hOR3FmSWVOOGhIRUJyYlpZUzdhVWRIVXFHU056cWFKSko0dGxYaFAxVm1YQmRNZDJLQjJIUk9jTFhBS3RfOHBEQ2lLbURscGlmR3lnVldWcHZxSkl4M0lvWmtWZW13N0Q2cFpuUWE4WUNpYkdQS0ZQQjFVM25WdVpFMzhlaERmaTg0...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU3dtNWpGbXFGR1hOR3FmSWVOOGhIRUJyYlpZUzdhVWRIVXFHU056cWFKSko0dGxYaFAxVm1YQmRNZDJLQjJIUk9jTFhBS3RfOHBEQ2lLbURscGlmR3lnVldWcHZxSkl4M0lvWmtWZW13N0Q2cFpuUWE4WUNpYkdQS0ZQQjFVM25WdVpFMzhlaERmaTg0OWVoTmd3bHR1a05xbkFDcFF2NWVhVjVkWmlvRXdfQm5iVHNDRFZaaXdueU5ONjROdW03bl80MS3SAdsBQVVfeXFMTVZ0ZDBuelg4N1lXaTgzWFV6c3ZHYldUQW5RUV92cmUzUmJjX1NOSk03STFBM2JTSURhZzdhNU9VcE1leTZrNVBidHMxT1J6ZFdZdXhtMGtIeHhwNGZoV2h2MkJZcDVaT0tiNEY0cjd2UTlWdUZEZnQxMFRiSkdSRFV6d281QS1GcTA2M3VJVkwzQmRUVktVclUxc1g3akVxZENycTM4b0dENlpKaDMwUllRWXJTd2tHMDB3YlhCUzB6X1Rsb1REazJoV2hJY205cXQ2b2JieUlRNVp3?oc=5",
+        "categoria": "Política (Google News Markets)",
+        "data_noticia": "10/11/2026 21:00"
       }
     }
   ]
