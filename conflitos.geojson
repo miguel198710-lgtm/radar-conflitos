@@ -40,40 +40,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
-        ]
-      },
-      "properties": {
-        "titulo_evento": "France and Sweden hold first joint nuclear-deterrence exercise",
-        "descricao": "The exercise didn’t involve actual nuclear weapons and was not directed at any country, the defense ministries said.",
-        "url_fonte": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "19/11/2026 18:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.5897,
-          6.4238
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
-        "descricao": "U.S. Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela in his first visit to the country since U.S. special forces deposed President Nicolas Maduro in a January raid.",
-        "url_fonte": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
-        "categoria": "Defesa/Conflito (Defense News)",
-        "data_noticia": "19/11/2026 17:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           31.1656,
           48.3794
         ]
@@ -91,16 +57,135 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "Handshakes Without Headway",
-        "descricao": "<p>Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a ...",
-        "url_fonte": "https://warontherocks.com/handshakes-without-headway/",
-        "categoria": "Defesa/Conflito (War on the Rocks)",
-        "data_noticia": "19/11/2026 20:17"
+        "titulo_evento": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+        "descricao": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 18:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.436,
+          55.3781
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Could Brexit be reversed?",
+        "descricao": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances? \n",
+        "url_fonte": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "21/11/2026 18:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+        "descricao": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 18:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Israeli strike hits food aid vehicle in Gaza, killing three",
+        "descricao": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 17:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+        "descricao": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 17:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+        "descricao": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+        "categoria": "Política (Al Jazeera)",
+        "data_noticia": "21/11/2026 15:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+        "descricao": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine. ",
+        "url_fonte": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4668,
+          31.5017
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+        "descricao": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+        "categoria": "Defesa/Conflito (Al Jazeera)",
+        "data_noticia": "21/11/2026 14:06"
       }
     },
     {
@@ -113,8 +198,8 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-        "descricao": "Two drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.",
+        "titulo_evento": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+        "descricao": "Finnish authorities say two drones attack cargo ship that has links to Russia&#039;s armed forces.",
         "url_fonte": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "21/11/2026 12:45"
@@ -130,113 +215,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Israeli attacks on Gaza kill at least four Palestinians",
-        "descricao": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+        "titulo_evento": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+        "descricao": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
         "url_fonte": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
         "categoria": "Defesa/Conflito (Al Jazeera)",
         "data_noticia": "21/11/2026 12:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Mexico captures FBI-wanted cartel boss in military raid",
-        "descricao": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/11/2026 11:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.5528,
-          23.6345
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Migrants caravan in Mexico walks towards US border",
-        "descricao": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States. ",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/11/2026 11:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian missiles hit Poland: What happened, and could NATO respond?",
-        "descricao": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/11/2026 11:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-        "descricao": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
-        "url_fonte": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/11/2026 09:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Fire sprinkler sprays water at flame-covered sign in China",
-        "descricao": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-        "categoria": "Política (Al Jazeera)",
-        "data_noticia": "21/11/2026 09:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Swimmer braves tanker attacks to expose Hormuz contamination",
-        "descricao": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-        "url_fonte": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-        "categoria": "Defesa/Conflito (Al Jazeera)",
-        "data_noticia": "21/11/2026 08:39"
       }
     },
     {
@@ -254,6 +237,23 @@
         "url_fonte": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "21/11/2026 13:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia-bound ship attacked in Gulf of Finland",
+        "descricao": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "url_fonte": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "categoria": "Defesa/Conflito (BBC World)",
+        "data_noticia": "21/11/2026 19:20"
       }
     },
     {
@@ -305,6 +305,159 @@
         "url_fonte": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
         "categoria": "Defesa/Conflito (BBC World)",
         "data_noticia": "20/11/2026 15:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
+        "descricao": "\nA Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated his country's determination to join NATO, following proposals to prov...",
+        "url_fonte": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 19:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+        "descricao": "\nA Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated his country's determination to join NATO. FRANCE 24's Gulliver Cragg ...",
+        "url_fonte": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 19:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+        "descricao": "\nA Russian cargo ship caught fire after ​being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes that the ship is affiliated with a major Russian military logistics comp...",
+        "url_fonte": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 18:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "COP31: Deep divisions persist over energy, finance and science",
+        "descricao": "\nCOP31 climate talks in Turkey have gone into overtime, with deep divisions over fossil fuels, climate finance and global warming targets delaying an agreement. A revised draft dropped all mention of fossil fuels, prompting strong criticism from the ...",
+        "url_fonte": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 17:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "FBI criminal database hacked",
+        "descricao": "\nThe FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons,...",
+        "url_fonte": "https://www.france24.com/en/fbi-criminal-database-hacked",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 17:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Endurance athlete swims in Hormuz Strait",
+        "descricao": "\nThe Strait of Hormuz remains largely blocked, with Iran attacking vessels attempting to cross it. As concerns grow over the environmental impact of the war, with toxic chemicals spreading through the air and sea, one swimmer and ocean advocate has g...",
+        "url_fonte": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 16:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2245,
+          39.3999
+        ]
+      },
+      "properties": {
+        "titulo_evento": "France: Demonstrations losing steam as movement enters sixth week",
+        "descricao": "\nAround 2,200 people took part in protests across France by 2pm local time, according to the Interior Ministry, which recorded 44 demonstrations nationwide and seven arrests, with the situation described as generally calm. Turnout was lower than on p...",
+        "url_fonte": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+        "categoria": "Política (France 24)",
+        "data_noticia": "21/11/2026 16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Countries race to secure Cop31 deal",
+        "descricao": "\nCOP31 climate talks have overrun their schedule as countries race to agree on a new global climate deal, following criticism of an earlier draft that made no mention of fossil fuels. The EU has warned that the current proposal risks turning the summ...",
+        "url_fonte": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
+        "categoria": "Defesa/Conflito (France 24)",
+        "data_noticia": "21/11/2026 15:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2137,
+          46.2276
+        ]
+      },
+      "properties": {
+        "titulo_evento": "New day of protests across France",
+        "descricao": "\nFrance faces a sixth consecutive Saturday of protests, with demonstrators taking to the streets to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. France 24 jou...",
+        "url_fonte": "https://www.france24.com/en/new-day-of-protests-across-france",
+        "categoria": "Política (France 24)",
+        "data_noticia": "21/11/2026 15:50"
       }
     },
     {
@@ -448,50 +601,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7038,
-          40.4168
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Nations League: France to face Spain in quarter-finals, England to take on Norway",
-        "descricao": "\nA chance for revenge. Beaten by Spain in the World Cup semi-finals last July, France will meet La Roja again in the Nations League quarter-finals next March.\n",
-        "url_fonte": "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
-        "categoria": "Política (France 24)",
-        "data_noticia": "21/11/2026 09:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU, UK reach reset deal after Brexit",
-        "descricao": "\nThe UK and the EU signed three agreements on Friday at a summit in Brussels, marking a new effort to reset post-Brexit relations. The deals aim to reduce red tape for food exports, link emissions trading schemes and allow tens of thousands of young ...",
-        "url_fonte": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "21/11/2026 09:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.2137,
           46.2276
         ]
       },
       "properties": {
-        "titulo_evento": "Live: Demonstrators rally across France for sixth consecutive Saturday of protests",
-        "descricao": "\nFrance faces a sixth consecutive Saturday of protests, with demonstrators taking to the streets to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our li...",
-        "url_fonte": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
-        "categoria": "Política (France 24)",
-        "data_noticia": "21/11/2026 08:29"
+        "titulo_evento": "New EU budget proposal aims at tax gobal tech giants",
+        "descricao": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member states' contributions. France has already rejected the plan as inadequate.",
+        "url_fonte": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Política (DW (Alemanha/UE))",
+        "data_noticia": "21/11/2026 14:58"
       }
     },
     {
@@ -499,33 +618,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2137,
-          46.2276
+          31.1656,
+          48.3794
         ]
       },
       "properties": {
-        "titulo_evento": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
-        "descricao": "\nFrench senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-standing demand of the far right even as weeks of student-led protest...",
-        "url_fonte": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "20/11/2026 21:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5868,
-          15.5527
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
-        "descricao": "\nYemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.\n",
-        "url_fonte": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
-        "categoria": "Defesa/Conflito (France 24)",
-        "data_noticia": "20/11/2026 18:36"
+        "titulo_evento": "Russia strikes Zelenskyy's hometown, killing 2",
+        "descricao": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+        "url_fonte": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-xml-mrss",
+        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
+        "data_noticia": "21/11/2026 14:44"
       }
     },
     {
@@ -618,50 +720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-        "descricao": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country.",
-        "url_fonte": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "20/11/2026 17:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.4515,
           51.1657
         ]
       },
       "properties": {
-        "titulo_evento": "Germany face belgium in Nations League quarterfinals — Klopp plays down favorites tag",
+        "titulo_evento": "Germany face Belgium in Nations League quarterfinals — Klopp plays down favorites tag",
         "descricao": "Germany coach Jürgen Klopp is looking to \"carry positive momentum forward\" as his team draw neighboring Belgium in the quarterfinals of the UEFA Nations League.",
         "url_fonte": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-xml-mrss",
         "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
         "data_noticia": "20/11/2026 14:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.436,
-          55.3781
-        ]
-      },
-      "properties": {
-        "titulo_evento": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-        "descricao": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
-        "url_fonte": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-xml-mrss",
-        "categoria": "Defesa/Conflito (DW (Alemanha/UE))",
-        "data_noticia": "20/11/2026 14:30"
       }
     },
     {
@@ -675,7 +743,7 @@
       },
       "properties": {
         "titulo_evento": "Russian ship damaged by drone attack in Gulf of Finland, Helsinki and Moscow say",
-        "descricao": "\"War is spilling into our neighboring regions,\" Finnish Prime Minister Petteri Orpo said.",
+        "descricao": "The Finnish coast guard said the ship was known to have ties with Russian armed forces.",
         "url_fonte": "https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
         "categoria": "Defesa/Conflito (Politico Europe)",
         "data_noticia": "21/11/2026 12:36"
@@ -814,7 +882,41 @@
         "descricao": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
         "url_fonte": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
         "categoria": "Economia (NYT Business)",
-        "data_noticia": "20/11/2026 11:01"
+        "data_noticia": "21/11/2026 15:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      },
+      "properties": {
+        "titulo_evento": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "European Leaders Back ‘Third Option’ for Iran, Reject Appeasement, War and Return to Shah - National Council of Resistance of Iran - NCRI",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVpCWjNfZXZVNGRCMzdfNlJmeEVEQ3JBR0tEanctOGRjS1FOOWp0QmZSWFFOeldnaXdlOUVMdjVpMHRCNGhqeWN1bUozUW52ZXlVV2tXQV85S25rdFk2endJTHd6M3IzN2VzaGdBZmwycnRiZENVdFI2U1RZR2RadEVVYkdBUi1RVnFGVklCNVpsbjFE...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVpCWjNfZXZVNGRCMzdfNlJmeEVEQ3JBR0tEanctOGRjS1FOOWp0QmZSWFFOeldnaXdlOUVMdjVpMHRCNGhqeWN1bUozUW52ZXlVV2tXQV85S25rdFk2endJTHd6M3IzN2VzaGdBZmwycnRiZENVdFI2U1RZR2RadEVVYkdBUi1RVnFGVklCNVpsbjFEV0FzUXpweU16cE5RUFFrRmt6SmdfdHRyUlVQU0FhTTAxUk5RLVU2QUNZVkNqSlZ2UnBSci1iQTFGa3J0?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 18:15"
       }
     },
     {
@@ -839,16 +941,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military - The New York Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOendiaUxhVE5udUt6MGkzMWRmcnY5em01RldnUzBWVzBxckNJQUQxVzBaSk0zUEpoNTlaQ0FNZkpZN19tVTYyOFZNUGRJbnpWVGpvTENVM25sdWtXNnVVTVp5YmNjWWxaQkhjZGpsbDhjaUxWbFBPeWxsRGlCU3BJdWhpNnMxa0h1eUhvcEg2ajVfRTBu...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOendiaUxhVE5udUt6MGkzMWRmcnY5em01RldnUzBWVzBxckNJQUQxVzBaSk0zUEpoNTlaQ0FNZkpZN19tVTYyOFZNUGRJbnpWVGpvTENVM25sdWtXNnVVTVp5YmNjWWxaQkhjZGpsbDhjaUxWbFBPeWxsRGlCU3BJdWhpNnMxa0h1eUhvcEg2ajVfRTBuOVJ2OA?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 18:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Ballistic missile attack on Zelensky’s hometown in central Ukraine kills 2 and wounds scores - Los Angeles Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVNwc05iOTJjV3lmU25GRk8wYng2eXhmb2JOVmVPR1RKRUI4YnMteWlKZkxjanBhQVlQUk1uUTM5b0FMbnFEM2JYSEdOMzlFVWxWRlJKS3dCYnZrZkxOSXdsNWlReTJFN1Qtczc5bTl6ekdFR01GR1RsTF82a2hOYnZSWFNvVDcwVk5FUVJKUGhBbnM3...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVNwc05iOTJjV3lmU25GRk8wYng2eXhmb2JOVmVPR1RKRUI4YnMteWlKZkxjanBhQVlQUk1uUTM5b0FMbnFEM2JYSEdOMzlFVWxWRlJKS3dCYnZrZkxOSXdsNWlReTJFN1Qtczc5bTl6ekdFR01GR1RsTF82a2hOYnZSWFNvVDcwVk5FUVJKUGhBbnM3Y0JxQnJ1WmEtODdQNnpiZzdmY0FPTGQ1R1NWNFVHRmlrYmFKZk01cEVKdXpjNWY1YjlpbnJ0MWs3R1Jyb19iNGFPZWc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 19:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1451,
+          51.9194
+        ]
+      },
+      "properties": {
+        "titulo_evento": "NATO Secretary General pledges solidarity with Poland after missile incursion - Vatican News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2NEV1JYcmtCMEJ0SjZnZVB6R2dGX3BkUURKSDNOVC1sdklBa0JXWlY2Q3YtbG1VMlZjYkF3dHFwOXo0bnVvVDlGSFM0M0tXbkJuQmNrWTJLUExFR2RpN0JYMmp6cUtYN21DWm9ROUpPSklkcmFham1fbzZNeVBoR3kyTGhNRGlOeHlYTXl0US1PS2hG...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2NEV1JYcmtCMEJ0SjZnZVB6R2dGX3BkUURKSDNOVC1sdklBa0JXWlY2Q3YtbG1VMlZjYkF3dHFwOXo0bnVvVDlGSFM0M0tXbkJuQmNrWTJLUExFR2RpN0JYMmp6cUtYN21DWm9ROUpPSklkcmFham1fbzZNeVBoR3kyTGhNRGlOeHlYTXl0US1PS2hGUExyOF83T3Q0dEtRcjhUY1pMWmN1Um9Nc1l5eXhWMkl1emlqZ0E?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 15:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada defense minister sees no shift in US military ties - Reuters",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 19:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran posts video of new underground ‘missile city’ - NewsNation",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdUN1hnWDRob2txZkRBNVdlRGc5RERaVXV1a1VEM1J0RDRhMXI2eThlcks0TFhFc1pTMlgxR3ViZ3ZQbGloMzhWaDlNTjR0eUlLS21LZVRwbV9LOGtSdlBXVER6dlhTLXVaSmFDbHE2ZksyX0FFOHRZVDUtOUdpSjhwejZDekNJNGhpQ0g0VkhFbjdk...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVdUN1hnWDRob2txZkRBNVdlRGc5RERaVXV1a1VEM1J0RDRhMXI2eThlcks0TFhFc1pTMlgxR3ViZ3ZQbGloMzhWaDlNTjR0eUlLS21LZVRwbV9LOGtSdlBXVER6dlhTLXVaSmFDbHE2ZksyX0FFOHRZVDUtOUdpSjhwejZDekNJNGhpQ0g0VkhFbjdkaTdLN3Z3MjZTZ9IBowFBVV95cUxOcFRhd2VRWW4zVjJib3o5NU1hRE5jRWsxRzhNeXVLMTRPWXI1QnN1dDh5QWxNaVBFOTR4VGlldEgtQlRJaTRWQ0JvcVYtdkd2bHNaNzVMWG15YUt0d0I4ZFA0U29hdXpxNzRGdDVXUzBMMzlGSVhaWDI5WlhPMEgweUY2b1h2VGl4Q2J3ZTFPWlFlZDFRZjA4ZElnblM2MXcyYlBJ?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 17:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0369,
           38.9072
         ]
       },
       "properties": {
-        "titulo_evento": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
+        "titulo_evento": "In secret memo, Hegseth restricts U.S.-Canada defense relationship - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPLThpNHAzbEIyTzc1LWo2X29EZ2Z2bXk0NUZRMXJJVkVCazVaSVFnNmlkLUFJeG9IRWYwaUhvTUZ1TGNoM2p0RE5wMEVpcEdpVkhnWFVtblVMMFRrbmdGLXZxOFU1M2FHbTJiM1ZadUhIeHhtbGpMWFNiTjU1MF9tYnVOclJ3NFFUcXY0OW5mNFNUckxm...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLThpNHAzbEIyTzc1LWo2X29EZ2Z2bXk0NUZRMXJJVkVCazVaSVFnNmlkLUFJeG9IRWYwaUhvTUZ1TGNoM2p0RE5wMEVpcEdpVkhnWFVtblVMMFRrbmdGLXZxOFU1M2FHbTJiM1ZadUhIeHhtbGpMWFNiTjU1MF9tYnVOclJ3NFFUcXY0OW5mNFNUckxmMW9fQjBveHZUTExLU1g1a2Raa19FVkhkWDJhSDN1WDJIeVJnTC1uNTl3?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 13:09"
+        "data_noticia": "21/11/2026 20:15"
       }
     },
     {
@@ -866,108 +1053,6 @@
         "url_fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHRGNHdBbkpIa3IyWTlmV2l5aDVwZ0pLUE1WRzhIVjRqM3p4c3ZsSWNtaVo4YnU4WHBwbUREbzJoX1VzeENVb0xFclVKaW9HY2lVb2lxRnFzWUhNb3RvTDlPYjRfUTVWOUU1dHJ4b2lfZGNPV3h0SGZfdEJLX3NacWxLam1QV1pnb08xRVFDei1OaFZIQXduTmJjbkNqYXFuaGk4a3p4OE5YR0HSAbABQVVfeXFMT3JyZk0yRTFISFBvWF9WMnZrUnp2NHBtMG9pRHo2OUlfaHd0QkZOWmEwWjJLMHJMdlMxal9WQ0lfU1pyd0RLejdCaEtWS2tGUGoyN0ZDVFJOWUZoR3RBQjBsUS1RV2xWcGlVSWNsd3c5aTR5a0dMWkUtMWtVeV95ajVhMkJBc0FrdVo3OWlmVUlPY2tLRU5VWmwtQzRKTXktQnBYVHpSN2k1U2xwUDJVdHU?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
         "data_noticia": "21/11/2026 11:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Military analyst Phillips O’Brien on Ukraine and Europe being left out of Trump's talks - NPR",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2JrLU1NZVFReFM1QzNKX1pwanhtQzBaR1NmOGdLZW04NHViUkJKVzNaNGV6UDA4cEkwbTdQLWpmQW12c1E3dHBaYjdkOXZ2RldwT2xsMldSem9wV1FFSmtxUEFGdzJRcUZxQlNoQmF1X0pJNTh5NmloY2Z2WGcyTUtseWV1cTdGR2dRZ1RNTFJ5LVVD...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2JrLU1NZVFReFM1QzNKX1pwanhtQzBaR1NmOGdLZW04NHViUkJKVzNaNGV6UDA4cEkwbTdQLWpmQW12c1E3dHBaYjdkOXZ2RldwT2xsMldSem9wV1FFSmtxUEFGdzJRcUZxQlNoQmF1X0pJNTh5NmloY2Z2WGcyTUtseWV1cTdGR2dRZ1RNTFJ5LVVDRU1PbXFGc1VtLVpoX292Q2RHSHhBNzRRblQzWWRKaHJzellOTVRId3JBNHQ2aXNYcHFfdHJB?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 12:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "The Council of Europe’s support for Ukraine - Council of Europe",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pX0hpWVBpbzNPV1dSWi1zaU9OMXFSY1lmRnA1S0J2RU1CSllJaFJfejVmQnN5U2htUHJBQi1TVHdqNUxORUFZRDZBajlQUE9fRl90VmVzMUxMVnFZ?oc=5\" target=\"_blank\">The Council of Europe’s support for Ukraine</a>&nbsp;...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pX0hpWVBpbzNPV1dSWi1zaU9OMXFSY1lmRnA1S0J2RU1CSllJaFJfejVmQnN5U2htUHJBQi1TVHdqNUxORUFZRDZBajlQUE9fRl90VmVzMUxMVnFZ?oc=5",
-        "categoria": "Política (Google News Military)",
-        "data_noticia": "21/11/2026 08:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran reveals underground 'missile city,' threatens force amid tensions with US - Ynetnews",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE41RW1ZaThLUzRZSHFUMS03Y0VKQVdKbTJWczd2Zy1Ka3pvRk8xNGlvX0tEZlJhX0FtaGZKZzBXTlk0bkhqRllqemhTMm56SzZlaWpTemp3?oc=5\" target=\"_blank\">Iran reveals underground 'missile city,' threatens force amid...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41RW1ZaThLUzRZSHFUMS03Y0VKQVdKbTJWczd2Zy1Ka3pvRk8xNGlvX0tEZlJhX0FtaGZKZzBXTlk0bkhqRllqemhTMm56SzZlaWpTemp3?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 12:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          53.688,
-          32.4279
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iran facing ‘silent economic war’ that is 'tougher' than missile war, says President Pezeshkian - Anadolu Ajansı",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGtTZlEyTjhtMW9sN2lJTmFNQVFBWVlSRzVZTy1wbHdENmpwOGxuNk1LUVdUaG9kWkFqOWltcTV0Qm9ZdG1HSUZQTDQ2cXpmeVlxOVBMNHZPWWpJZGQ4T2luUnVSM1RFOEszWWlGcWFucGZlYzdVa0lyUlVKLWU1V2c3d2RfR1Y5cGJaTVk3bk5HZlZO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGtTZlEyTjhtMW9sN2lJTmFNQVFBWVlSRzVZTy1wbHdENmpwOGxuNk1LUVdUaG9kWkFqOWltcTV0Qm9ZdG1HSUZQTDQ2cXpmeVlxOVBMNHZPWWpJZGQ4T2luUnVSM1RFOEszWWlGcWFucGZlYzdVa0lyUlVKLWU1V2c3d2RfR1Y5cGJaTVk3bk5HZlZOcDdUeDBBZUlBX2hzTzJLaHZOY1dWUDBTVXZHT0V1V1pMdzFtSFlIMzFmTkZ4YTZyZHRaYUFIYnZ0dXE5?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 13:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk - BBC",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5\" target=\"_blank\">Russian missile hits Poland as Ukraine's allies hold m...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 02:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.1656,
-          48.3794
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ballistic missile attack on Zelenskyy’s hometown in central Ukraine kills 2 and wounds scores - Durango Herald",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVkxVQzhDTXNzTW5qdHBSNW5rTlM2UWdnZndORkpnMmZ0OTdIQ2ZfYTl5aVQ0UWxITjM4NnlEWTVrU29YNkdRVlNVV0NCbFJLX0RTLWVHSmU5UzFZUzBnb25laWJhUjliWkgzNkdlMEctSnFyM0VOWlhuNl9SVlhzMWppYTBtMFFHaWthYWJNWVdteXZC...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVkxVQzhDTXNzTW5qdHBSNW5rTlM2UWdnZndORkpnMmZ0OTdIQ2ZfYTl5aVQ0UWxITjM4NnlEWTVrU29YNkdRVlNVV0NCbFJLX0RTLWVHSmU5UzFZUzBnb25laWJhUjliWkgzNkdlMEctSnFyM0VOWlhuNl9SVlhzMWppYTBtMFFHaWthYWJNWVdteXZCUWNMZzZZNVNRSmx1ZUZtLXVHQ2JUeVM3bm5SSGp4MzUxZmx0Ymk0c1ROb1pvXzBZUXY4LVBybUJ2VUNfUVlfbl95N3ZXU2xCNDd1WVhRMA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 11:19"
       }
     },
     {
@@ -997,11 +1082,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Opinion | A government shutdown won’t stop the Iran war - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPajAyMURLTFBuMVR6VzEzZUVZeHhPRk5PYTZCQjJHckFVU0hJQVc3YWtYLXk5Q3Z0ZDlVaVlWTzlqdklIakZKN0x0OHhqS0xSUzVwaEhiSHhycTZZV2s5T3BNUzRtazM0Y0RzZmFfQWF3TW5Td1FXYjRoQnQ1dGFMM1hBNUQzeWtCdTJ5MkF0dU1td1VM...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajAyMURLTFBuMVR6VzEzZUVZeHhPRk5PYTZCQjJHckFVU0hJQVc3YWtYLXk5Q3Z0ZDlVaVlWTzlqdklIakZKN0x0OHhqS0xSUzVwaEhiSHhycTZZV2s5T3BNUzRtazM0Y0RzZmFfQWF3TW5Td1FXYjRoQnQ1dGFMM1hBNUQzeWtCdTJ5MkF0dU1td1VMZGpFMXY2N2xTZGkzblFsTjVobUJRTXhKSkE?oc=5",
+        "titulo_evento": "Poland says Russian missiles hit its territory; Trump calls it a ‘mistake’ - The Washington Post",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2NDX2gya2JxN0FLNlFBSjdJcXNqczVsWGJrNHdGVHoxNEF6a2hrSnlKc2hkVC0wSGROWkMzcXgyN0YtaHdMX0k0U043RE5BSkRXVGtlQ3h1Ym9iVk9uaVFnV0YyZEw0a3ZjRWxvUkZ6NHNGVWJSc1dDcEU5aUtrODZ5YTRQMVQ5UTA2WHd5U0ZGUkhybGllQXNseGR0ZHl4dC1JdGtPa2FGT3MzNzhXdkxrSU9XcENkLUE?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 13:47"
+        "data_noticia": "21/11/2026 19:31"
       }
     },
     {
@@ -1014,11 +1099,62 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Endurance athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife - ABC News - Breaking News, Latest News and Videos",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSURGV2xSd1hjVHVycENTb1A5M2FsOUNEQ19LSzBhdm5scGxreWlLQ3g5bFl3R2NDMGQyZ0xuVDN6dnhheFBmNjRxLVZrcjZxdkZybDV1UWF1WjczcDVRX2dIS1gxOUxUektITC12cTAtUXFjeVFVdkNDQm9ZTXVncW5aYXl2cmxieDYzQzlIMEV1ZUd1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSURGV2xSd1hjVHVycENTb1A5M2FsOUNEQ19LSzBhdm5scGxreWlLQ3g5bFl3R2NDMGQyZ0xuVDN6dnhheFBmNjRxLVZrcjZxdkZybDV1UWF1WjczcDVRX2dIS1gxOUxUektITC12cTAtUXFjeVFVdkNDQm9ZTXVncW5aYXl2cmxieDYzQzlIMEV1ZUd1R0plekpJTG9ZMThEdGJZSHViWGE4bDBBQkFuUNIBtgFBVV95cUxPSG5CUFNMQ3huazBicXAxNFRENWFZT2x1MTcxZUNnajhLU3NFcDBvSVdJamZuS2RsOUY4Ylh3aWpqbEd3cWxqTGQtOFVyUHM5RWJlbG5mOE92ck1JcVg2SUN0LW9RcXh4bllDX2w5S1VpY29WODZKTUNxU1dTT3hLOXNNZVYyNUFESnJxTHZsaWlWSDFtN0tMb1ZydWNVaTdSdjZ2b1J6ZTJxYjB6aUJPSGs3T2Zpdw?oc=5",
+        "titulo_evento": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon - The Guardian",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5\" target=\"_bl...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 11:23"
+        "data_noticia": "21/11/2026 17:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1656,
+          48.3794
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Military analyst Phillips O’Brien on Ukraine and Europe being left out of Trump's talks - NPR",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2JrLU1NZVFReFM1QzNKX1pwanhtQzBaR1NmOGdLZW04NHViUkJKVzNaNGV6UDA4cEkwbTdQLWpmQW12c1E3dHBaYjdkOXZ2RldwT2xsMldSem9wV1FFSmtxUEFGdzJRcUZxQlNoQmF1X0pJNTh5NmloY2Z2WGcyTUtseWV1cTdGR2dRZ1RNTFJ5LVVD...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2JrLU1NZVFReFM1QzNKX1pwanhtQzBaR1NmOGdLZW04NHViUkJKVzNaNGV6UDA4cEkwbTdQLWpmQW12c1E3dHBaYjdkOXZ2RldwT2xsMldSem9wV1FFSmtxUEFGdzJRcUZxQlNoQmF1X0pJNTh5NmloY2Z2WGcyTUtseWV1cTdGR2dRZ1RNTFJ5LVVDRU1PbXFGc1VtLVpoX292Q2RHSHhBNzRRblQzWWRKaHJzellOTVRId3JBNHQ2aXNYcHFfdHJB?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 12:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688,
+          32.4279
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Iran strikes 3 tankers as it shows off missile launchers - Los Angeles Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXp4dVpGeGlxVHNEZnRQQTZxTzlCNmlEc3EwTXp5Y0cxZUstd25tVTFsNG5FbE15bzF5WUpGb1hYNGQtQU4yR3dlRU13TGZ6S2sxMGxnZGVZTlFGb2NfaFVjVlBqSkNwVHpaXzJ5UTN0TlBodzJ2SGJhSy1ZRzBReFNzYVhVWXllYlA3NUZhc3o4bzFR...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXp4dVpGeGlxVHNEZnRQQTZxTzlCNmlEc3EwTXp5Y0cxZUstd25tVTFsNG5FbE15bzF5WUpGb1hYNGQtQU4yR3dlRU13TGZ6S2sxMGxnZGVZTlFGb2NfaFVjVlBqSkNwVHpaXzJ5UTN0TlBodzJ2SGJhSy1ZRzBReFNzYVhVWXllYlA3NUZhc3o4bzFRa1JmVUNBT3FfQXotOElBelpQbXhqaUNlREtF?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 17:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Canada Hasn’t Seen Secret Hegseth Memo on Military Ties, Minister Says - Newsweek",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHI2TGpLWkxOdmI1VU02NktGLXROakR3MVpvYUxjN3dnOW1zOS1aYVNHcjJ6elNlS2FoVkVxX2E2RG5kclQ2b290c2U2SUxwS0gyOUZRdUNiZUhXS3JRZmN4MFh4REJyZUZzVC10bXc1Wm1RcHdZQVJnb1pGZHNONXM1SjlaVFpDUHgxb293?oc=5\" t...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHI2TGpLWkxOdmI1VU02NktGLXROakR3MVpvYUxjN3dnOW1zOS1aYVNHcjJ6elNlS2FoVkVxX2E2RG5kclQ2b290c2U2SUxwS0gyOUZRdUNiZUhXS3JRZmN4MFh4REJyZUZzVC10bXc1Wm1RcHdZQVJnb1pGZHNONXM1SjlaVFpDUHgxb293?oc=5",
+        "categoria": "Defesa/Conflito (Google News Military)",
+        "data_noticia": "21/11/2026 15:11"
       }
     },
     {
@@ -1048,96 +1184,11 @@
         ]
       },
       "properties": {
-        "titulo_evento": "Vance declines to say Iran war was worth it, but says he supports Trump - The Washington Post",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpx...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpxWmRybDNVbVRiRkJoekFKYTcxaGxjOXhiUmxXYkh5c09kT1E5eFZPRjVyZy1lTzQ?oc=5",
+        "titulo_evento": "Iran claims missile damaged U.S. F-16 over Persian Gulf, but Washington denies attack - Air Data News",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQW9Rd1h0a3JGQThFZjh0R2RKSmxhUFRmVFkxNzNlZ1A2OHdUcEZaWlZwT0MxNl9HNFZVamVaSmw4S0Rxczh2SnJIbG1jaTBoV0o0NWJNNl9BSDhYNzRRMkQzWVRHQjhoWHZlMVZMNENWTGt0Y09ZUTFsZG95ZnVoenRkdEV1TjN2V1RGUzdSbEE5dlZy...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQW9Rd1h0a3JGQThFZjh0R2RKSmxhUFRmVFkxNzNlZ1A2OHdUcEZaWlZwT0MxNl9HNFZVamVaSmw4S0Rxczh2SnJIbG1jaTBoV0o0NWJNNl9BSDhYNzRRMkQzWVRHQjhoWHZlMVZMNENWTGt0Y09ZUTFsZG95ZnVoenRkdEV1TjN2V1RGUzdSbEE5dlZyWXVSTk15THFVMDYweEU0SThKSU05OUx1SGhTcTBB?oc=5",
         "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 06:09"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.1954,
-          35.8617
-        ]
-      },
-      "properties": {
-        "titulo_evento": "China Military Bans SF Express From Procurement Over Misconduct - Bloomberg.com",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlBweWd4TTNzVWF0YVZ4R1F3S0JJYjFOVzNzMG16OVdkSzlZdlpyS2hpQ3hwc0ZWaWdEbnhENGMtREFBZG15RU9OdnZDQUhaYURQRHZDcUplWGtGXzZjRGR3ZzdvTzFqektwTE8zSkRyZHBUR3lmeDNCX2ZSSE0yX3hIMHA5ekp5Ym00OGdzeGdyNEdi...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlBweWd4TTNzVWF0YVZ4R1F3S0JJYjFOVzNzMG16OVdkSzlZdlpyS2hpQ3hwc0ZWaWdEbnhENGMtREFBZG15RU9OdnZDQUhaYURQRHZDcUplWGtGXzZjRGR3ZzdvTzFqektwTE8zSkRyZHBUR3lmeDNCX2ZSSE0yX3hIMHA5ekp5Ym00OGdzeGdyNEdiSEVLVGF6eVZPandKeWJfeW5oMXJ6b2xKMkxLUERGR3Y?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 10:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland - The Guardian",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNo...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 02:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.006,
-          40.7128
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Hegseth Restricts Military Cooperation With Canada Through Secret Directive - La Voce di New York",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORk9pYkREaExuWENkdk9pT1lLMV9uNXZsaDFVQnJnUVVRNkpfUzdqdnViOWlUbThfUnZBcl9PTUdjS2xiRVpTNDl3TWlucWdRWnNFVFNJakN0VXlRbkdhTW9BRHB0eHg0Q2hXd1JnYmw5czlaU1g0OEFSNVdjRHA2RUR0NV9QQ2NVSWlJQUpuV0gyUERO...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORk9pYkREaExuWENkdk9pT1lLMV9uNXZsaDFVQnJnUVVRNkpfUzdqdnViOWlUbThfUnZBcl9PTUdjS2xiRVpTNDl3TWlucWdRWnNFVFNJakN0VXlRbkdhTW9BRHB0eHg0Q2hXd1JnYmw5czlaU1g0OEFSNVdjRHA2RUR0NV9QQ2NVSWlJQUpuV0gyUEROQ25GRjJKR1JDQkRReERBRmp3N0dNZU8tWjh1VjluOHNzN29fWmNEdE8xQW0?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 11:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.1451,
-          51.9194
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Kh-101 Missile Crashes in Poland: Swedish Gripens Could Not Engage - MiGFlug",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVRSdHE5QWJyWnFOYnlUaXZ6MVhsLWwwbHZUU1VieWJNWUd3eDRKMDladUIxdlNuajBaYWpKaGlFdHlCX3VRRG5kX09fZDFrRFVON3YyTFREREJSbFdJMC1OdzRpaVhnTVM4ai0yMUhRNi1ia09XMmVIYjZtZmI5Nko0NjNra2VCbmFGTGdFQkZ0dzg?...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVRSdHE5QWJyWnFOYnlUaXZ6MVhsLWwwbHZUU1VieWJNWUd3eDRKMDladUIxdlNuajBaYWpKaGlFdHlCX3VRRG5kX09fZDFrRFVON3YyTFREREJSbFdJMC1OdzRpaVhnTVM4ai0yMUhRNi1ia09XMmVIYjZtZmI5Nko0NjNra2VCbmFGTGdFQkZ0dzg?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 11:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.8516,
-          31.0461
-        ]
-      },
-      "properties": {
-        "titulo_evento": "Iranian military says vessel on fire in Hormuz after hitting mine - The Times of Israel",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWExJcXAzd0tlcWxHVHk5eXpCRWhEelhPR05xd19jMkNpRS1wTThvb2l5b0ozMEhUa3gxdDVrQ3poemJyclpjVVVtOWZNQ1k2WGpCX28zTzhOY0lnS2l3TXZXVmdHM0UwNXJCNmlOVTB2ekNIWXc1Q3l5eWpXeXlmQW5odThRc1huQTdFWkNtSkdzVjk1...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWExJcXAzd0tlcWxHVHk5eXpCRWhEelhPR05xd19jMkNpRS1wTThvb2l5b0ozMEhUa3gxdDVrQ3poemJyclpjVVVtOWZNQ1k2WGpCX28zTzhOY0lnS2l3TXZXVmdHM0UwNXJCNmlOVTB2ekNIWXc1Q3l5eWpXeXlmQW5odThRc1huQTdFWkNtSkdzVjk1WFJmZjcwUV9yQ05WRmlncmZpdWI3NHY4S1ktSA?oc=5",
-        "categoria": "Defesa/Conflito (Google News Military)",
-        "data_noticia": "21/11/2026 11:54"
+        "data_noticia": "21/11/2026 18:53"
       }
     },
     {
@@ -1162,16 +1213,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.436,
-          55.3781
+          120.9605,
+          23.6978
         ]
       },
       "properties": {
-        "titulo_evento": "UK stocks sink as global selloff weighs on banks and miners - Reuters",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVVTRHZ4Q0NxLThIeDI5d09DVVhMY3hGQm9QSlo1V3dGLWJMbFBNaFZoZjV5WlhSaU55NVdDb096SWp6cFUzUUYteW9kTnlMUzdXVmZBUS1fbGpUM1FfNzlHRXdMeFYxWWV0NGlmVk9IbDdBdlNNN0E5d2VuUnF4SlA2RjVqRWd3VHR5NDVPVW9EV2Fs...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVVTRHZ4Q0NxLThIeDI5d09DVVhMY3hGQm9QSlo1V3dGLWJMbFBNaFZoZjV5WlhSaU55NVdDb096SWp6cFUzUUYteW9kTnlMUzdXVmZBUS1fbGpUM1FfNzlHRXdMeFYxWWV0NGlmVk9IbDdBdlNNN0E5d2VuUnF4SlA2RjVqRWd3VHR5NDVPVW9EV2FsQWJKSlVEVWJrekt1TDA4WFVVU2U?oc=5",
+        "titulo_evento": "Taiwan to cooperate in joint circular economy - Taipei Times",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9Db0NmWUllLXJiUXdtdXl1VWQ1aDVUUF9UZThSMkZsM0FJcGhyZG8tallSUXFLampmLXhtZmI1Y212SkI2MGJfLWxDZGpGZ01KSEtWNnAycWhjalFUQlBVd215UlBuWktlWTl3MEh5Qy1GTEFWelRfMURB?oc=5\" target=\"_blank\">Taiwan to coo...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Db0NmWUllLXJiUXdtdXl1VWQ1aDVUUF9UZThSMkZsM0FJcGhyZG8tallSUXFLampmLXhtZmI1Y212SkI2MGJfLWxDZGpGZ01KSEtWNnAycWhjalFUQlBVd215UlBuWktlWTl3MEh5Qy1GTEFWelRfMURB?oc=5",
         "categoria": "Economia (Google News Markets)",
-        "data_noticia": "20/11/2026 18:03"
+        "data_noticia": "21/11/2026 16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3188,
+          61.524
+        ]
+      },
+      "properties": {
+        "titulo_evento": "Russia & Saudi Arabia Sparring for Global Oil Primacy - Yeni Safak English",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmx0RFNJbHNYdlk5SEQwSFVEU2o2aFROelVmZjltVGgtNlBtQVd4eW53SlBXRTh0Q3M1R2dtc1pEQXRySndjb1l4SmZ5UllKM0JLN3o3a3FQWkFPN1Z5YVBtNkV0bjdOWnFtaG9DNkdXQjFvbUxqaUE4YktqVl8wQUxyaUdKdkJhZ2NPNWNYS2FwM29S...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmx0RFNJbHNYdlk5SEQwSFVEU2o2aFROelVmZjltVGgtNlBtQVd4eW53SlBXRTh0Q3M1R2dtc1pEQXRySndjb1l4SmZ5UllKM0JLN3o3a3FQWkFPN1Z5YVBtNkV0bjdOWnFtaG9DNkdXQjFvbUxqaUE4YktqVl8wQUxyaUdKdkJhZ2NPNWNYS2FwM29SUUI4?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/11/2026 18:51"
       }
     },
     {
@@ -1196,16 +1264,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.688,
-          32.4279
+          -106.3468,
+          56.1304
         ]
       },
       "properties": {
-        "titulo_evento": "IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag - الحرة",
-        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HZFZINXhzSWpkSmxLenhlSTRNZVVGWGVyMnJEQ2VaaVJzcE1VWWY5MjRBQUp0Zm9Jdm8yU0hmZFVxZw?oc=5\" target=\"_blank\">IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag</a>&nbsp;&nbsp;<...",
-        "url_fonte": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HZFZINXhzSWpkSmxLenhlSTRNZVVGWGVyMnJEQ2VaaVJzcE1VWWY5MjRBQUp0Zm9Jdm8yU0hmZFVxZw?oc=5",
-        "categoria": "Defesa/Conflito (Google News Markets)",
-        "data_noticia": "21/11/2026 05:39"
+        "titulo_evento": "Solactive GBS Global Markets Large & Mid Cap PR GBP Hedged Index (DE000SL0BXR8.SG) - Yahoo! Finance Canada",
+        "descricao": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAxQVllUUUtdjZzanY1ZHFoeHB3czNkcVVndXNpbkdVRXFhU0xUQ003OHBrM0xNOVZJVS1fR3N0b1dKRlk5VVZua0NjT3J1RGsyNEJRYl9aUmREMlJFVDJHU1VVbFZkQ0xFQkh6ZWxR?oc=5\" target=\"_blank\">Solactive GBS Global Markets ...",
+        "url_fonte": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxQVllUUUtdjZzanY1ZHFoeHB3czNkcVVndXNpbkdVRXFhU0xUQ003OHBrM0xNOVZJVS1fR3N0b1dKRlk5VVZua0NjT3J1RGsyNEJRYl9aUmREMlJFVDJHU1VVbFZkQ0xFQkh6ZWxR?oc=5",
+        "categoria": "Economia (Google News Markets)",
+        "data_noticia": "21/11/2026 06:46"
       }
     }
   ]
